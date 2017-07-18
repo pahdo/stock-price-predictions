@@ -1,0 +1,1000 @@
+<Header>
+<FileStats>
+    <FileName>20161108_10-Q_edgar_data_1601548_0001601548-16-000206_1.txt</FileName>
+    <GrossFileSize>4417746</GrossFileSize>
+    <NetFileSize>103375</NetFileSize>
+    <ASCII_Embedded_Chars>275435</ASCII_Embedded_Chars>
+    <HTML_Chars>1299404</HTML_Chars>
+    <XBRL_Chars>1879728</XBRL_Chars>
+    <XML_Chars>784752</XML_Chars>
+    <N_Tables>23</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001601548-16-000206.hdr.sgml : 20161108
+<ACCEPTANCE-DATETIME>20161108161724
+ACCESSION NUMBER:		0001601548-16-000206
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		65
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161108
+DATE AS OF CHANGE:		20161108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vectrus, Inc.
+		CENTRAL INDEX KEY:			0001601548
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-FACILITIES SUPPORT MANAGEMENT SERVICES [8744]
+		IRS NUMBER:				383924636
+		STATE OF INCORPORATION:			IN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36341
+		FILM NUMBER:		161981486
+
+	BUSINESS ADDRESS:	
+		STREET 1:		655 SPACE CENTER DRIVE
+		CITY:			COLORADO SPRINGS
+		STATE:			CO
+		ZIP:			80915
+		BUSINESS PHONE:		719-591-3600
+
+	MAIL ADDRESS:	
+		STREET 1:		655 SPACE CENTER DRIVE
+		CITY:			COLORADO SPRINGS
+		STATE:			CO
+		ZIP:			80915
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Exelis MSCO Inc.
+		DATE OF NAME CHANGE:	20140303
+
+</SEC-Header>
+</Header>
+
+ 0001601548-16-000206.txt : 20161108
+
+10-Q
+ 1
+ vec-0930201610xq.htm
+ 10-Q
+
+Document 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+  Form 10-Q 
+  (Mark One) 
+           QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+  For the quarterly period ended   September 30, 2016    
+  or 
+           TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+  For the transition period from             to     
+  Commission File Number: 001-36341         
+  Vectrus, Inc. 
+  (Exact name of registrant as specified in its charter) 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.    Yes          No      
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes           No      
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one): 
+                       Large accelerated filer     
+    Accelerated filer     
+    Non-accelerated filer     
+    Smaller reporting company     
+      (Do not check if a smaller reporting company) 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes        No      
+  As of   November 3, 2016  , there were   10,774,867   shares of common stock ($0.01 par value per share) outstanding. 
+
+VECTRUS, INC. 
+  INDEX TO QUARTERLY REPORT ON FORM 10-Q 
+  TABLE OF CONTENTS 
+
+Page No. 
+        
+     PART I. FINANCIAL INFORMATION  
+
+Item 1.  
+     Financial Statements  
+      
+    3 
+        
+     Condensed Consolidated Statements of Income  
+      
+    3 
+        
+     Condensed Consolidated Statements of Comprehensive Income  
+      
+    4 
+        
+     Condensed Consolidated Balance Sheets  
+      
+    5 
+        
+     Condensed Consolidated Statements of Cash Flows  
+      
+    6 
+        
+     Notes to Condensed Consolidated Financial Statements  
+      
+    7 
+        
+         Note 1. Description of Business and Summary of Significant Accounting Policies     
+      
+    7 
+        
+         Note 2. Recent Accounting Pronouncements  
+      
+    9 
+        
+         Note 3. Income Taxes  
+      
+    10 
+        
+         Note 4. Earnings Per Share  
+      
+    11 
+        
+         Note 5. Receivables  
+      
+    12 
+        
+         Note 6. Debt  
+      
+    12 
+        
+         Note 7. Derivative Instruments  
+      
+    13 
+        
+         Note 8. Goodwill  
+      
+    14 
+        
+         Note 9. Composition of Certain Financial Statement Captions  
+      
+    15 
+        
+         Note 10. Post-Employment Benefit Plans  
+      
+    15 
+        
+         Note 11. Stock-based Compensation  
+      
+    16 
+        
+         Note 12. Agreements with Former Parent  
+      
+    17 
+        
+         Note 13. Commitments and Contingencies  
+      
+    17 
+        
+         Note 14. Subsequent Events  
+      
+    18 
+       Item 2.  
+     Management's Discussion and Analysis of Financial Condition and Results of Operations  
+      
+    18 
+       Item 3.  
+     Quantitative and Qualitative Disclosures about Market Risk  
+      
+    28 
+       Item 4.  
+     Controls and Procedures  
+      
+    29 
+        
+     PART II. OTHER INFORMATION  
+
+Item 1.     
+     Legal Proceedings  
+      
+    29 
+       Item 1A.  
+     Risk Factors  
+      
+    29 
+       Item 2.     
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+      
+    29 
+       Item 3.     
+     Defaults upon Senior Securities  
+      
+    29 
+       Item 4.  
+     Mine Safety Disclosures     
+      
+    29 
+       Item 5.  
+     Other Information  
+      
+    29 
+       Item 6.     
+     Exhibits  
+      
+    30 
+        
+     Signatures  
+      
+    30 
+        
+     Exhibit Index  
+      
+    31 
+
+Table of Contents  
+
+PART I. FINANCIAL INFORMATION 
+   
+  ITEM 1.   FINANCIAL STATEMENTS 
+   
+  VECTRUS, INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF INCOME (UNAUDITED) 
+
+The accompanying notes are an integral part of these financial statements. 
+  
+   3 
+
+Table of Contents  
+
+VECTRUS, INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (UNAUDITED) 
+
+The accompanying notes are an integral part of these financial statements. 
+
+4 
+
+Table of Contents  
+
+VECTRUS, INC. 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+
+The accompanying notes are an integral part of these financial statements. 
+  
+   5 
+
+Table of Contents  
+
+VECTRUS, INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)   
+
+  The accompanying notes are an integral part of these financial statements. 
+  
+   6 
+
+Table of Contents  
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) 
+  NOTE 1 
+  DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+  Our Business 
+  Vectrus, Inc. (Vectrus, the Company, our company, we, us or our) is a leading provider of services to the United States (U.S.) government worldwide. We operate in   one   segment and offer the following services: facility and logistics services, which is a recent consolidation of our infrastructure asset management and logistics and supply chain management service offerings, and information technology and network communication services.  
+  On September 27, 2014, Exelis Inc. (Exelis) completed the spin-off (Spin-off) of Vectrus, formerly Exelis' Mission Systems business, which was part of Exelis' Information and Technical Services segment, and Vectrus became an independent, publicly traded company. Vectrus was incorporated in the State of Indiana on February 4, 2014. 
+  References in these notes to Exelis or "Former Parent" refer to Exelis Inc. and its consolidated subsidiaries (other than Vectrus). Exelis was acquired by Harris Corporation on May 29, 2015. 
+  Principles of Consolidation 
+    Vectrus consolidates companies in which we have a controlling financial interest. We account for investments in companies over which we have the ability to exercise significant influence, but do not hold a controlling interest under the equity method, and we record our proportionate share of income or losses in the unaudited condensed consolidated statements of income. All intercompany transactions and balances have been eliminated.  
+  Equity Investment 
+  In 2011, we entered into a joint venture agreement with Shaw Environmental   Infrastructure, Inc., which is now CB I Federal Services LLC. Pursuant to the joint venture agreement, High Desert Support Services, LLC (HDSS) was established to pursue and perform work on the Ft. Irwin Installation Support Services Contract, which was awarded in October 2012. We account for our investment in HDSS under the equity method as we have the ability to exercise significant influence, but do not hold a controlling interest. We record our proportionate   40%   share of income or losses, which has historically been insignificant, in the condensed consolidated statements of income. Our investment in HDSS is recorded in other non-current assets in the unaudited condensed consolidated balance sheet. When we receive cash distributions from HDSS, the cash distribution is compared to cumulative earnings and any excess is recorded as a distribution from equity investment in the condensed consolidated statements of cash flows. Any remaining cash distribution is recorded in other assets in the condensed consolidated statements of cash flows.  
+  Basis of Presentation 
+  Our quarterly financial periods end on the Friday closest to the last day of the calendar quarter (  September 30, 2016   for the third quarter of 2016 and   September 25, 2015   for the third quarter of 2015), except for the last quarter of the fiscal year, which ends on December 31. For ease of presentation, the quarterly financial statements included herein are described as three months ended.     
+  The unaudited interim condensed consolidated financial statements of Vectrus have been prepared pursuant to the rules and regulations of the U.S. Securities and Exchange Commission. Accordingly, certain information and footnote disclosures normally included in annual financial statements prepared in accordance with generally accepted accounting principles in the U.S. (GAAP) have been omitted. These unaudited interim condensed consolidated financial statements should be read in conjunction with our audited consolidated financial statements and notes included in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+  It is management s opinion that these financial statements include all normal and recurring adjustments necessary for a fair presentation of the Company s financial position and operating results. Net sales and net earnings for any interim period are not necessarily indicative of future or annual results.  
+  
+   7 
+
+     Table of Contents  
+
+Use of Estimates 
+  The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting periods. Estimates are revised as additional information becomes available. Estimates and assumptions are used for, but not limited to, revenue recognition, income tax contingency accruals, fair value and impairment of goodwill and valuation of assets and certain contingent liabilities. Actual results could differ from these estimates. 
+  As a defense contractor engaging in long-term contracts, the majority of our revenue is derived from long-term service contracts for which revenue is recognized under the percentage-of-completion method based on levels of effort or the percentage of costs incurred to total costs. For levels of effort, revenue and profits are recognized based upon the ratio of actual services delivered to estimated total services to be delivered under the contract. Under the cost-to-total cost method, revenue is recognized based upon the ratio of costs incurred to estimated total costs at completion. Revenue under cost-reimbursement contracts is recorded as costs are incurred and includes estimated earned fees or profits calculated on the basis of the relationship between costs incurred and total estimated costs. Revenue and profits on time-and-material type contracts are recognized based on billable rates multiplied by direct labor hours incurred plus material and other reimbursable costs incurred. The completed contract method is utilized when reasonable and reliable cost estimates for a project cannot be made. Amounts invoiced to customers in excess of revenue recognized are recorded as deferred revenue until the revenue recognition criteria are satisfied, and are recorded as billings in excess of costs in the accompanying unaudited condensed consolidated balance sheets. Revenue that is earned and recognized in excess of amounts invoiced is recorded as a component of receivables. 
+  During the performance of long-term sales contracts, estimated final contract prices and costs are reviewed periodically and changes are made as required and recorded as changes in revenue and cost of revenue in the period in which they are determined. Additionally, the fees under certain contracts may be increased or decreased in accordance with cost or performance incentive provisions which measure actual performance against established targets or other criteria. Such incentive fee awards or penalties are included in revenue when there is sufficient information to reasonably assess anticipated contract performance. Amounts representing contract change orders, claims, requests for equitable adjustment, or limitations in funding on contracts are recorded only if it is probable the claim will result in additional contract revenue and the amounts can be reliably estimated.  
+   Changes in contract revenue and cost estimates and the related effect to operating income are recognized using a cumulative catch-up adjustment, which recognizes in the current period the cumulative effect of the changes on current and prior periods based on a contract s percentage of completion. Changes in estimated revenue and cost could result in a forward loss or an adjustment to a forward loss. Provisions for estimated losses on uncompleted long-term contracts are made in the period in which such losses are determined and are recorded as a component of cost of revenue. 
+  Cumulative catch-up adjustments for the   three and nine months ended     September 30, 2016   and   September 25, 2015   are presented in the following table: 
+
+Derivative Instruments 
+  Derivative instruments are recognized as either an asset or liability at fair value in Vectrus' condensed consolidated balance sheets and are classified as current or long-term based on the scheduled maturity of the instrument. Vectrus' derivative instruments have been formally designated and qualify as part of a cash flow hedging relationship under applicable accounting standards.  
+  The derivative instruments are adjusted to fair value through accumulated other comprehensive income (loss). If we determined that a derivative was no longer highly effective as a hedge, we would discontinue the hedge  
+  
+   8 
+
+     Table of Contents  
+
+accounting prospectively. Gains or losses would be immediately reclassified from accumulated other comprehensive income (loss) to earnings relating to hedged forecasted transactions that are no longer probable of occurring. Gains or losses relating to terminations of effective cash flow hedges in which the forecasted transactions would still be probable of occurring would be deferred and recognized consistent with the income or loss recognition of the underlying hedged item.  
+  Refer to Note 7, "Derivative Instruments" for additional information regarding Vectrus' derivative activities.  
+   
+  NOTE 2 
+  RECENT ACCOUNTING PRONOUNCEMENTS 
+                     Standard 
+    Description 
+    Date of issuance 
+    Effect on the financial statements or other significant matters 
+      Standards that are not yet adopted 
+
+Accounting Standards Update (ASU) 2014-09, Revenue from Contracts with Customers, as amended by ASU 2015-14  
+    The standard will replace existing revenue recognition standards and significantly expand the disclosure requirements for revenue arrangements. It may be adopted either retrospectively or on a modified retrospective basis to new contracts and existing contracts with remaining performance obligations as of the effective date. The standard is effective for the first interim period within annual reporting periods beginning after December 15, 2017. Early adoption is permitted only as of annual reporting periods beginning after December 15, 2016. In addition, the Financial Accounting Standards Board has issued related revenue recognition guidance in four ASUs: principal versus agent considerations (ASU 2016-08), identifying performance obligations and licensing (ASU 2016-10), a revision of certain SEC staff observer comments (ASU 2016-11) and implementation guidance (ASU 2016-12).  
+    May 2014, as amended in August 2015                                                                                     
+    We are currently evaluating the effect the standard is expected to have on our financial statements, including the transition method to be applied, the impact on current policies and related disclosures. We expect to complete our assessment by the end of 2016.  
+      ASU 2016-02, Leases 
+    
+    The objective of the standard is, among other things, to require recognition of a right-of-use asset and liability for future lease payments for contracts that meet the definition of a lease. The standard is effective for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years. Early adoption is permitted.  
+    February 2016 
+    
+    We are currently evaluating the provisions of Accounting Standards Codification (ASC) Topic 842 to determine how we will be affected. The primary effect of adopting the new standard will be to record assets and obligations for current operating leases.  
+      ASU 2016-09, Improvements to Employee Share-Based Payment Accounting 
+    The objective of the standard is to simplify several aspects of accounting for share-based payment transactions, including income tax consequences, classification of awards as either equity or liabilities, and classification on the statement of cash flows. The standard is effective for annual periods beginning after December 15, 2016, and interim periods within those annual periods. Early adoption is permitted for any entity in any interim or annual period. 
+    March 2016 
+    We are currently evaluating the impact of adopting this guidance.  
+
+9 
+
+     Table of Contents  
+
+ASU 2014-15, Presentation of Financial Statements  
+    
+    The objective of the standard is to provide guidance on management s responsibility to evaluate whether there is substantial doubt about a company s ability to continue as a going concern and to provide related footnote disclosures. The standard is effective for the annual period ending after December 15, 2016 and for annual periods and interim periods thereafter. Early adoption is permitted.  
+    August 2014 
+    We are currently evaluating the impact of adopting ASU 2014-15; however, the standard is not expected to have a material impact on our consolidated financial statements.  
+      Standards that were adopted 
+
+ASU 2016-15, Statement of Cash Flows (Topic 230) Classification of Certain Cash Receipts and Cash Payments 
+    
+    ASU 2016-15 clarifies guidance on the classification of certain cash receipts and payments in the statement of cash flows. Topic 230 lacked consistent principles for evaluating the classification of cash payments and receipts in the statement of cash flows, which led to diversity in practice. ASU 2016-15 was issued to reduce diversity in practice with respect to eight types of cash flows. One of the eight types of cash flows, distributions received from equity method investees, applies to us. The standard is effective for annual periods beginning after December 15, 2017, including interim periods within those annual periods. Early adoption is permitted for all entities.  
+    August 2016 
+    
+    We have adopted the guidance as outlined in ASU 2016-15. The adoption had no impact on our financial statements as we were already recording such items in accordance with the new standard.  
+
+Other new pronouncements issued but not effective until after   September 30, 2016   are not expected to have a material impact on our financial position, results of operations or cash flows. 
+   
+  NOTE 3 
+  INCOME TAXES 
+  Effective Tax Rate 
+  Our quarterly income tax expense is measured using an estimated annual effective income tax rate. The comparison of effective income tax rates between periods may be significantly affected by discrete items recognized during the periods, the level and mix of earnings by tax jurisdiction and permanent differences. 
+  The Company recorded income tax expense of   $3.2 million     and   $10.6 million  , for the   three and nine months ended     September 30, 2016  , respectively, and an income tax benefit of   $(7.1) million     and   $(1.0) million     for the   three and nine months ended     September 25, 2015  , respectively, representing effective income tax rates of   32.7%   and   35.6%  , respectively, and   (103.7)%   and   (4.0)%  , respectively.  The effective income tax rates vary from the federal statutory rate of   35.0%   due to state taxes and other nondeductible expenses. 
+  Uncertain Tax Positions  
+    As of September 30, 2016, we do not have any uncertain tax positions. During the three months ended September 25, 2015, we effectively settled   $6.9 million   of unrecognized tax benefits due to the resolution of examinations of tax returns of our Former Parent. In addition, the balance of   $0.7 million   was effectively settled with the filing of our   2014   income tax returns during the   three months ended September 25, 2015  .  
+  Tax Indemnifications  
+  In connection with the Spin-off, pursuant to a Tax Matters Agreement with our Former Parent, our Former Parent agreed to indemnify us for up to   $3.3 million   of income tax return liabilities, which were settled with the filing of our Former Parent s   2014   income tax return during the   three months ended September 25, 2015  . As a result, as of   September 25, 2015  , we reduced the tax liabilities, which were included in  other non-current liabilities  in the condensed consolidated balance sheets, from   $3.2 million   to   zero  , which provided an income tax benefit of   $3.2 million  . We had a corresponding indemnification receivable, net of interest of   $0.1 million  , which was included in  
+  
+   10 
+
+     Table of Contents  
+
+other non-current assets  in the condensed consolidated balance sheets. We reduced the indemnification receivable from   $3.3 million   to   zero  , creating an expense of   $3.3 million  , which is included in "selling, general and administrative expenses" in the condensed consolidated statements of income. The net settlement of these tax liabilities and the indemnification receivable had no impact on our   2015   net income. 
+   
+  NOTE 4 
+  EARNINGS PER SHARE 
+  Basic earnings per share (EPS) is computed by dividing net income by the weighted average number of common shares outstanding for the period. Diluted EPS reflects potential dilution that could occur if securities to issue common stock were exercised or converted into common stock. Diluted EPS includes the dilutive effect of share-based compensation outstanding after application of the treasury stock method.  
+
+The table below provides a summary of securities that could potentially dilute basic earnings per share in the future that were not included in the computation of diluted earnings per share because to do so would have been anti-dilutive for the periods presented. 
+
+11 
+
+Table of Contents  
+
+NOTE 5 
+  RECEIVABLES 
+  Receivables were comprised of the following:   
+
+  As of   September 30, 2016   and   December 31, 2015  , all billed receivables are due from the U.S. government, either directly as prime contractor to the U.S. government or as subcontractor to another prime contractor to the U.S. government. Because the Company s billed receivables are with the U.S. government, the Company does not believe it has a material credit risk exposure.  
+  Unbilled contract receivables represent revenue recognized on long-term contracts in excess of amounts billed as of the balance sheet dates. We estimate that approximately   $4.7 million   of our unbilled contract receivables as of   September 30, 2016   may not be collected within the next   12 months  . These amounts relate to requests for equitable adjustments and contract line item realignments with our customers. 
+   
+  NOTE 6 
+  DEBT 
+  Senior Secured Credit Facilities 
+  Term Facility and Revolver.    In September 2014, Vectrus, Inc. and its wholly-owned subsidiary Vectrus Systems Corporation entered into a credit agreement with a group of lenders, including JPMorgan Chase Bank, N.A. as administrative agent. The credit agreement was amended as of April 19, 2016, to modify certain financial and negative covenants (as so amended, the Credit Agreement). The Credit Agreement provides for   $215.0 million   in senior secured financing, consisting of a   $140.0 million     five  -year term loan facility (the Term Facility) and a   $75.0 million     five  -year senior secured revolving credit facility (the Revolver, and together with the Term Facility, the Senior Secured Credit Facilities).          
+  We used   $136.3 million   from the Term Facility to pay a distribution to a subsidiary of Exelis on   September 26, 2014  .  The remaining   $3.7 million   from the Term Facility consisted of debt financing fees, which are included in "Long-term debt, net" in the condensed consolidated balance sheets and are being amortized as an adjustment to interest expense over the life of the Credit Agreement.  Amortization expenses relating to debt issuance costs were   $0.9 million   and   $0.6 million   for the   nine months ended September 30, 2016   and the   nine months ended September 25, 2015  , respectively. The Term Facility amortizes in quarterly installments at the following rates per annum:   7.5%   in year one,   10.0%   in each of years two and three,   15.0%   in year four and   57.5%   in year five. Amounts borrowed under the Term Facility that are repaid or prepaid may not be re-borrowed. Any unpaid amounts must be repaid by   September 17, 2019  . As of   September 30, 2016  , the balance outstanding under the Term Facility was   $93.5 million  . 
+  The Revolver is available for working capital, capital expenditures, and other general corporate purposes.  Up to   $35.0 million   of the Revolver is available for the issuance of letters of credit, and there is a swingline facility in an amount equal to   $10.0 million  . The Revolver will mature and the commitments thereunder will terminate on   September 17, 2019  . As of   September 30, 2016  , there were   eight   letters of credit outstanding in the aggregate amount of   $12.3 million  , which reduced our borrowing availability under the Revolver to   $62.7 million  . As of   September 30, 2016  , there were   no   outstanding borrowings under the Revolver.   
+  Covenants  .  The Senior Secured Credit Facilities contain customary covenants, including covenants that, under certain circumstances and subject to certain qualifications and exceptions: limit or restrict our ability to incur additional indebtedness; merge, dissolve, liquidate or consolidate; make acquisitions, investments, advances or loans; dispose of or transfer assets; pay dividends; redeem or repurchase certain debt; and enter into certain restrictive agreements.  As of   September 30, 2016  , the maximum amount of dividends we could pay was   $10.0 million  . We do not currently intend to pay any regular cash dividends. 
+  
+   12 
+
+     Table of Contents  
+
+In addition, we are required to comply with (a) a maximum ratio of total consolidated indebtedness to consolidated earnings before interest, tax, depreciation, amortization and certain other charges (consolidated EBITDA) of   3.25   to 1.00, with step-downs to   3.00   to 1.00 beginning with the first quarter of 2017 and   2.75   to 1.00 beginning with the first fiscal quarter of 2018, and (b) a minimum ratio of consolidated EBITDA to consolidated interest expense (net of cash interest income) of   4.50   to 1.00. As of   September 30, 2016  , we were in compliance with all covenants related to the Senior Secured Credit Facilities and had a ratio of total consolidated indebtedness to consolidated EBITDA of   1.76   to 1.00 and a ratio of consolidated EBITDA to consolidated interest expense of   8.30   to 1.00.  
+  Interest Rates and Fees  .  Outstanding borrowings under the Senior Secured Credit Facilities accrue interest, at our option, at a per annum rate of (i) LIBOR plus the applicable margin, which ranges from    2.50%   to   3.00%  , or (ii) a base rate plus the applicable margin. The interest rate under the Senior Secured Credit Facilities at   September 30, 2016   was   3.28%  . We pay a commitment fee on the undrawn portion of the Revolver ranging from   0.40%   to   0.50%  , depending on the leverage ratio. 
+  Carrying Value and Fair Value  . The fair value of the Senior Secured Credit Facilities approximates the carrying value as of   September 30, 2016   because the debt bears interest at a floating rate of interest. The fair value is based on observable inputs of interest rates that are currently available to us for debt with similar terms and maturities for non-public debt. 
+  The carrying value and fair value of the Term Facility in the condensed consolidated balance sheet as of   September 30, 2016   were as follows: 
+
+The carrying value and fair value of the Term Facility in the condensed consolidated balance sheet as of   December 31, 2015   were as follows: 
+
+NOTE 7 
+  DERIVATIVE INSTRUMENTS 
+  Risk Management Policy 
+  We are exposed to the risk that our earnings and cash flows could be adversely impacted due to fluctuations in interest rates applicable to the variable rate portion of the Term Facility. We periodically enter into interest rate swaps to manage interest costs in which we agree to exchange, at specified intervals, the difference between variable and fixed interest amounts calculated by reference to an agreed-upon notional amount. Derivative instruments are not used for trading purposes or to manage exposure to changes in interest rates for investment securities, and our outstanding derivative instruments do not contain credit risk related contingent features. Collateral is generally not required. 
+  Derivative Instruments 
+  On May 5, 2016 and May 5, 2015, we entered into derivative instruments to hedge a portion of our exposure to interest rate risk under the variable Term Facility (the interest rate swaps). The interest rate swaps are designated and qualify as an effective cash flow hedge. The contracts, with notional amounts totaling   $53.1 million   at   September 30, 2016  , are recorded at fair value.  
+  The interest rate swaps are measured at fair value on a recurring basis and are determined using the income approach based on a discounted cash flow model to determine the present value of future cash flows over the remaining terms of the contract, incorporating observable market inputs such as prevailing interest rates as of the  
+  
+   13 
+
+     Table of Contents  
+
+reporting date (Level 2). Changes in fair value of the interest rate swaps are recorded, net of tax, as a component of accumulated other comprehensive income (loss) in the accompanying condensed consolidated balance sheets. We reclassify the effective gain or loss from accumulated other comprehensive income (loss), net of tax, to interest expense on the condensed consolidated statements of income as the interest expense is recognized on the related debt. The ineffective portion of the change in fair value of the interest rate swaps, if any, is recognized directly in earnings in interest expense. 
+  The following table summarizes the amount at fair value and location of the derivative instruments in the condensed consolidated balance sheet as of   September 30, 2016  :  
+
+Fair Value 
+
+Derivative in liability position 
+      (In thousands) 
+      
+    Balance sheet caption 
+      
+    Amount 
+      Interest rate swaps designated as cash flow hedge 
+      
+    Other accrued liabilities 
+      
+    $ 
+    234 
+      
+      Interest rate swaps designated as cash flow hedge 
+      
+    Other non-current liabilities 
+      
+    $ 
+    152 
+      
+      Interest rate swaps designated as cash flow hedge 
+      
+    Other non-current assets 
+      
+    $ 
+    5 
+
+The following table summarizes the amount at fair value and location of the derivative instruments in the condensed consolidated balance sheet as of   December 31, 2015  :  
+
+Fair Value 
+
+Derivative in liability position 
+      (In thousands) 
+      
+    Balance sheet caption 
+      
+    Amount 
+      Interest rate swaps designated as cash flow hedge 
+      
+    Other accrued liabilities 
+      
+    $ 
+    15 
+      
+      Interest rate swaps designated as cash flow hedge 
+      
+    Other non-current liabilities 
+      
+    $ 
+    28 
+
+By utilizing interest rate swaps, we are exposed to credit-related losses in the event that the counterparty fails to perform under the terms of the derivative contract. To mitigate this risk, we entered into the interest rate swaps with a major financial institution based upon credit ratings and other factors. We regularly assess the creditworthiness of the counterparty. As of   September 30, 2016  , the counterparty to the interest rate swaps had performed in accordance with its contractual obligations. Both the counterparty credit risk and our credit risk were considered in the fair value determination.  
+   
+  NOTE 8 
+  GOODWILL 
+  Goodwill as of   September 30, 2016   of   $216.9 million   remained unchanged from   December 31, 2015  . We conduct our annual impairment testing during the fourth fiscal quarter, or more frequently if indicators of impairment exist, such as changes to our reporting unit structure or significant adverse changes in the business climate.  
+  On September 1, 2016 and September 29, 2016, we announced that we were not awarded the renewal of   two   of our largest contracts, the Kuwait-based Army Pre-Positioned Stocks-5 (APS-5 Kuwait) and Kuwait Base Operations and Security Support Services (K-BOSSS), respectively. Following these announcements, our common stock price declined from   $27.63   on   September 29, 2016   to   $15.23   on   September 30, 2016  . We considered these events as indicators of a potential goodwill impairment and performed an interim goodwill impairment test pursuant to ASC 350, Intangibles, Goodwill and Other.  
+  We completed the first step in the two-step process of the impairment test to measure the magnitude of any impairment by developing an estimated fair value of the reporting unit and comparing it to the carrying value of the reporting unit. We developed our estimate of the fair value of our reporting unit using an income approach and a market approach. Under the income approach, we estimated fair value based on the present value of estimated future cash flows. Under the market approach, we compared our company to selected reasonably comparable publicly-traded companies. Based on our analysis, the estimated fair value of the reporting unit exceeded its carrying value, and we determined there was   no   goodwill impairment as of   September 30, 2016  .   
+  
+   14 
+
+Table of Contents  
+
+NOTE 9 
+  COMPOSITION OF CERTAIN FINANCIAL STATEMENT CAPTIONS 
+  The following tables present financial information underlying certain balance sheet captions. 
+  Compensation and other employee benefits were comprised of the following: 
+
+Other accrued liabilities were comprised of the following: 
+
+NOTE 10 
+  POST-EMPLOYMENT BENEFIT PLANS 
+  We sponsor   one   defined contribution savings plan, which allows employees to contribute a portion of their pre-tax and/or after-tax income in accordance with specified guidelines. The Company matches a percentage of the employee contributions up to certain limits of employee base pay. Our portion of the matching contributions charged to expense was   $0.9 million   for both the   three months ended September 30, 2016   and   September 25, 2015   and   $2.1 million   for both the   nine months ended September 30, 2016   and   September 25, 2015  .  
+  On September 11, 2014, our Board of Directors adopted and approved the Vectrus Systems Corporation Excess Savings Plan (the Excess Savings Plan).  Since federal law limits the amount of compensation that can be used to determine employee and employer contribution amounts to our tax-qualified plans, we established the Excess Savings Plan to allow for Company contributions based on an eligible employee's base salary in excess of these limits.  No employee contributions are permitted.  All balances under the Excess Savings Plan are maintained on the books of the Company and credits and deductions are made to the accumulated savings under the plan based on the earnings or losses attributable to a stable value fund as defined in the Excess Savings Plan. Benefits will be paid in a lump sum generally in the seventh month following the date on which the employee's separation from service occurs.  Employees are 100% vested at all times in any amounts credited to their accounts. As of   September 30, 2016   and   December 31, 2015  , we had accrued   $0.2 million   of contributions.  
+  
+   15 
+
+Table of Contents  
+
+NOTE 11 
+  STOCK-BASED COMPENSATION 
+  An omnibus incentive plan governs all long-term incentive awards granted to Vectrus employees and directors, including nonqualified stock options (NQOs), restricted stock units (RSUs), total shareholder return (TSR) awards and other awards. We account for NQOs and stock-settled RSUs as equity-based compensation awards. TSR awards, described below, and cash-settled RSUs are accounted for as liability-based compensation awards. 
+  Stock-based compensation expense and the associated tax benefits impacting our condensed consolidated statements of income were as follows: 
+
+Liability-based awards are revalued at the end of each reporting period to reflect changes in fair value.  
+  As of   September 30, 2016  , total unrecognized compensation costs related to equity-based awards and liability-based awards were   $3.9 million   and   $0.7 million  , respectively, which are expected to be recognized ratably over a weighted average period of   1.63   years and   1.99   years, respectively.  
+  The following table provides a summary of the activities for NQOs and RSUs for the   nine months ended September 30, 2016  :   
+
+    During the   nine months ended September 30, 2016  , we granted long-term incentive awards to employees and directors consisting of   86,829   NQOs and   152,263   RSUs with respective weighted average grant date fair values per share of   $7.06   and   $20.88  . The NQOs vest in   one-third   cumulative annual installments on the first, second and third anniversaries of the grant date and expire   10   years from the grant date. The option exercise price was   $20.06  , the closing price of Vectrus common stock on the grant date. The fair value of each NQO grant was estimated on the date of grant using the Black-Scholes option pricing model.  For employee RSUs granted in 2014 and after, one-third of the award vests on each of the three anniversary dates following the grant date. Director RSUs are granted on the date of an annual meeting of shareholders and vest the business day immediately prior to the next annual meeting. The fair value of each RSU grant was determined based on the closing price of Vectrus common stock on the date of grant. Stock compensation expense will be recognized ratably over the vesting period of the awards. 
+  
+   16 
+
+     Table of Contents  
+
+The following assumptions were utilized in deriving the fair value for NQOs granted on March 4, 2016 under the Black-Scholes model: 
+
+Total Shareholder Return (TSR) Awards 
+    TSR awards are granted subject to a   three  -year performance period, and any payments earned are made in cash following completion of the performance period according to the achievement of specified performance goals. During the   nine months ended September 30, 2016  , we granted 2016 TSR awards with an aggregate target value of   $1.5 million  . The fair value of TSR awards is measured quarterly and based on the Company s performance relative to the performance of the Aerospace and Defense Companies in the S P 1500 Index. Depending on the Company s performance during the three-year performance period, payments can range from   0%   to   200%   of the target value.  
+   
+  NOTE 12 
+  AGREEMENTS WITH FORMER PARENT  
+  Following the Spin-off, Vectrus and Exelis began operating independently of each other, and neither has any ownership interest in the other. In order to govern certain ongoing relationships between Vectrus and Exelis following the Spin-off and to provide mechanisms for an orderly transition, on   September 27, 2014  , Vectrus and Exelis executed the various agreements that govern the ongoing relationships between the companies after the Spin-off and provide for the allocation of employee benefits, income taxes, and certain other liabilities and obligations attributable to periods prior to the Spin-off. The executed agreements include a Distribution Agreement, Employee Matters Agreement, Tax Matters Agreement, Master Transition Services Agreement, Technology License Agreement and Transitional Trademark License Agreement.  
+   
+  NOTE 13 
+  COMMITMENTS AND CONTINGENCIES 
+  General 
+  From time to time, we are involved in legal proceedings that are incidental to the operation of our business.  Some of these proceedings seek remedies relating to environmental matters, employment matters and commercial or contractual disputes. 
+  Although the ultimate outcome of any legal matter cannot be predicted with certainty, based on present information, including our assessment of the merits of each particular claim, we do not expect that any asserted or unasserted legal claims or proceedings, individually or in the aggregate, as of   September 30, 2016  , will have a material adverse effect on our cash flow, results of operations, or financial condition. 
+  U.S. Government Contracts, Investigations and Claims 
+  We have U.S. government contracts that are funded incrementally on a year-to-year basis. Changes in government policies, priorities or funding levels through agency or program budget reductions by the U.S. Congress or executive agencies could materially adversely affect our financial condition or results of operations. Furthermore, our contracts with the U.S. government may be terminated or suspended by the U.S. government at any time, with or without cause.  Such contract suspensions or terminations could result in unreimbursable expenses or charges or otherwise adversely affect our financial condition and results of operations. 
+  Departments and agencies of the U.S. government have the authority to investigate various transactions and operations of the Company, and the results of such investigations may lead to administrative, civil or criminal proceedings, the ultimate outcome of which could be fines, penalties, repayments or compensatory or treble damages. U.S. government regulations provide that certain findings against a contractor may lead to suspension or debarment from future U.S. government contracts or the loss of export privileges for a company or an operating  
+  
+   17 
+
+     Table of Contents  
+
+division or subdivision. Suspension or debarment could have a material adverse effect on us because of our reliance on U.S. government contracts. 
+  U.S. government agencies, including the Defense Contract Audit Agency, the Defense Contract Management Agency and others, routinely audit and review our performance on government contracts, indirect rates and pricing practices, and compliance with applicable contracting and procurement laws, regulations and standards. Accordingly, costs billed or billable to the U.S. government customers are subject to potential adjustment upon audit by such agencies. The U.S. government agencies also review the adequacy of our compliance with government standards for our business systems, including our accounting, earned value management, estimating, materials management and accounting, purchasing and property management systems.  
+  From time to time, U.S. government customers advise us of claims and penalties concerning certain potential disallowed costs. When such findings are presented, we engage in discussions with U.S. government representatives to enable us to evaluate the merits of these claims and to assess the amounts being claimed. Where appropriate, provisions are made to reflect probable losses to the matters raised by the U.S. government representatives. We review such provisions on a quarterly basis for sufficiency based on the most recent information available to us. We have estimated and accrued   $2.8 million   and   $2.4 million   as of   September 30, 2016   and   December 31, 2015  , respectively, in "Other current liabilities" in the condensed consolidated balance sheets for open years subject to audit.  
+   
+  NOTE 14 
+  SUBSEQUENT EVENTS 
+  Work Force Reduction  
+  On October 18, 2016, we announced a corporate reduction in force and a realignment of effort resulting in the elimination of   64   positions at the Colorado Springs headquarters. We expect to recognize severance expense of approximately   $2.0 million   in the fourth quarter of 2016.  
+
+ITEM 2.   MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+  The following discussion of our financial condition and results of operations should be read in conjunction with the unaudited condensed consolidated financial statements and notes thereto included in this Quarterly Report on Form 10-Q as well as the audited consolidated and combined financial statements and the notes thereto and the information under the heading "Management's Discussion and Analysis of Financial Condition and Results of Operations" included in our Annual Report on Form 10-K for the year ended   December 31, 2015  . This Quarterly Report provides additional information regarding the Company, our services, industry outlook and forward-looking statements that involve risks and uncertainties. The forward-looking statements are not historical facts, but rather are based on current expectations, estimates, assumptions and projections about our industry, business and future financial results.  Our actual results could differ materially from the results contemplated by these forward-looking statements. See "Forward-Looking and Cautionary Statements" for further information regarding forward-looking statements. Amounts presented in and throughout this Item 2 are rounded and, as such, any rounding differences could occur in period over period changes and percentages reported.  
+   
+  Overview 
+  Vectrus, Inc. (Vectrus, the Company, our company, we, us or our) is a leading provider of services to the United States (U.S.) government worldwide. We operate in one segment and offer the following services: facility and logistics services, which is a recent consolidation of our infrastructure asset management and logistics and supply chain management service offerings, and information technology and network communication.  
+  On September 27, 2014, Exelis completed the Spin-off of Vectrus, formerly Exelis' Mission Systems business, which was part of Exelis' Information and Technical Services segment and Vectrus became an independent, publicly traded company.  
+  Our customer is the U.S. Department of Defense (DoD), with a high concentration in the U.S. Army. For the   nine months ended September 30, 2016  , we had revenue of   $902.4 million  , all of which was derived from U.S.  
+  
+   18 
+
+     Table of Contents  
+
+government customers. For the   nine months ended September 30, 2016   and   September 25, 2015  , we generated approximately   84.5%   and   91.0%  , respectively, of our total revenue from the U.S. Army.  
+  The table below reflects contracts that accounted for more than 10% of our total revenue for the nine months ended September 30, 2016 and September 25, 2015: 
+
+Revenue associated with a contract may fluctuate based on increases or decreases in the work being performed on the contract, award fee payments, and other contract modifications within the term of the contract resulting in changes to the total contract value. 
+  U.S. government contracts are multi-year contracts and typically include an initial period of one year or less with annual one year (or less) option periods for the remaining contract period. The number of option periods vary by contract, and there is no guarantee that an option period will be exercised by the U.S. government.  The right to exercise an option period is at the sole discretion of the U.S. government. The U.S. government may also extend the term of a program by issuing extensions or bridge contracts, typically for periods of one year or less (see Item 1A, Risk Factors in our Annual Report Form 10-K for the year ended December 31, 2015 for additional risks related to contracting with the U.S. government). 
+  The K-BOSSS contract commenced in November 2010 and currently is exercised through December 28, 2016 with an option to extend through March 28, 2017.  The right to exercise an option period is at the sole discretion of the U.S. government.  On September 29, 2016, we announced that we were not awarded the renewal of the K-BOSSS contract.  We filed a post-award protest with the GAO on the K-BOSSS award on October 11, 2016. On November 7, 2016, we were notified by the Department of the Army (Army) that the Army was taking corrective action to resolve the protest. The Army stated in its notification, "As part of the corrective action, the Army will amend the solicitation to clarify its requirement, request revised proposals from the existing offerors based on the amended solicitation, conduct discussions if necessary, and issue a new award decision." 
+  The APS-5 Kuwait contract commenced in April 2010 and runs through February 28, 2017.  On September 1, 2016, we announced that we were not awarded the renewal of the APS-5 Kuwait contract. For the re-competition award, the APS-5 Kuwait contract was combined with the APS-5 Qatar contract as the APS-5 Kuwait/Qatar contract. We have operated the APS-5 Qatar contract since May 2011. In each of the periods presented, the APS-5 Qatar contract did not exceed 10% of our revenue. We have historically accounted for the APS-5 Kuwait and APS-5 Qatar contracts separately and will continue to account for these contracts separately through February 28, 2017, the current end date for both contracts. We filed a post-award protest on the APS-5 Kuwait/Qatar contract award with the Government Accountability Office (GAO) on September 13, 2016. The GAO has up to 100 days to issue a written decision. Accordingly, we expect the GAO to issue a written decision no later than December 22, 2016.  
+  Performance on the OMDAC/SWACA contract commenced in July 2013 with a base period of 11 months and four option years. The U.S. government has exercised three option years through May 2017. The contract has one additional option period, which runs through May 2018, which has not been exercised by the U.S. government at this time.  
+  
+   19 
+
+Table of Contents  
+
+Executive Summary 
+  Vectrus reported revenue of   $283.8 million   for the   quarter ended September 30, 2016  , a   decrease   of   $15.3 million  , or   5.1%  , from the   $299.1 million   of revenue reported for the corresponding period in   2015  . This change was primarily driven by a decrease in revenue from our Afghanistan programs of $25.8 million and our U.S. and European programs of $12.4 million, which offset an increase in our Middle East programs of $22.9 million for the quarter ended   September 30, 2016   as compared to the same period in   2015  . U.S. funding for programs in Afghanistan has decreased in recent periods and could decrease further if the U.S. government reduces the U.S. presence in Afghanistan. Our Logistics Civilian Augmentation Program (LOGCAP) contract, which was one of our programs in Afghanistan, ended in June 2016.  
+  Operating income for the   quarter ended September 30, 2016   was   $11.2 million   compared to   $8.5 million   for the   quarter ended September 25, 2015  , an   increase   of $2.7 million, or   31.8%  . The   increase   was primarily due to higher operating income of $2.7 million from our Middle East programs and $0.4 million from our U.S. and European programs, offset by a   decrease   of $0.4 million in lower operating income from our Afghanistan programs.  
+  During the performance of long-term sales contracts, we review estimated final contract prices and costs periodically and make revisions as required, which are recorded as changes in revenue and cost of revenue in the periods in which they are determined. Changes in estimated revenue, cost of revenue and the related effect to operating income are recognized using a cumulative catch-up adjustment, which recognizes in the current period the cumulative effect of the changes on current and prior periods based on a contract's percentage of completion. Aggregate changes in contract estimates recognized using the cumulative catch-up method of accounting   increased   operating income by   $1.2 million   and decreased operating income by   $0.4 million   for the   three months ended September 30, 2016   and   September 25, 2015  , respectively. Cumulative catch-up adjustments are driven by changes in contract terms, program performance, customer scope changes and changes to estimates in the reported period. These changes can increase or decrease operating income depending on the dynamics of each contract.  
+  Further details related to the   three and nine months ended     September 30, 2016   compared to the   three and nine months ended     September 25, 2015   are contained in the Discussion of Financial Results section. 
+  Recent Developments 
+  On September 1, 2016, we announced that we were not awarded the renewal of the APS-5 Kuwait contract, which was combined with the APS-5 Qatar contract for the re-competition award. Both contracts currently run through February 28, 2017. We filed a post-award protest with the GAO on the APS-5 Kuwait/Qatar contract award on September 13, 2016. The GAO has up to 100 days to issue a written decision. Accordingly, we expect the GAO to issue a written decision no later than December 22, 2016.  
+  On September 29, 2016, we announced that we were not awarded the renewal of the K-BOSSS contract, which currently runs through December 28, 2016, with an option to extend through March 28, 2017. We filed a post-award protest with the GAO on the K-BOSSS contract award on October 11, 2016. On November 7, 2016, we were notified by the Army that it was taking corrective action to resolve the protest. The Army stated in its notification, "As part of the corrective action, the Army will amend the solicitation to clarify its requirement, request revised proposals from the existing offerors based on the amended solicitation, conduct discussions if necessary, and issue a new award decision." 
+  On October 18, 2016, we announced a corporate reduction in force and a realignment of effort resulting in the elimination of 64 positions at our Colorado Springs headquarters. We expect to recognize severance expense of approximately $2.0 million in the fourth quarter of 2016 and anticipate these reductions will result in approximately $8.0 million of annual savings. 
+  We previously announced that a Danish company owned by Vectrus received notice of award of an approximately $411 million Hybrid Firm-Fixed Price Contract for Thule Base Maintenance (the Thule Contract). In February 2015, the GAO denied protests of the Thule Contract filed by three unsuccessful bidders, and all three of them filed subsequent protests with the United States Court of Federal Claims. In May 2015, the Court of Federal Claims entered a judgment in favor of the protestors that set aside the Thule Contract and enjoined the U.S. Air Force from proceeding with the Thule Contract. The Danish company appealed the decision of the Court of Federal Claims to the United States Court of Appeals for the Federal Circuit. In June 2016, the U.S. Court of Appeals for the Federal Circuit issued a decision reversing the decision of the Court of Federal Claims. Petitions for rehearing en banc were filed in August 2016 by two of the protestors with the Court of Appeals for the Federal Circuit. On October 5, 2016, the  
+  
+   20 
+
+     Table of Contents  
+
+Court of Appeals denied the petitions for rehearing. The Court of Federal Claims subsequently vacated its earlier judgment and dismissed all of the consolidated cases on October 18, 2016. Our Danish subsidiary is currently in discussions with the Air Force regarding commencement of the Thule contract in 2017. 
+   
+  Economic Opportunities, Challenges and Risks 
+  The U.S. government s investment in services and capabilities in response to changing security challenges creates a complex and fluid business environment for Vectrus and other firms in this market segment. The pace and depth of U.S. government acquisition reform and cost savings initiatives, combined with increased industry competitiveness to win long-term positions on key programs, could add pressure to revenue levels and profit margins going forward. However, we expect the U.S. government will continue to place a high priority on national security and will continue to invest in affordable solutions for its facilities, logistics, equipment and communication needs, which aligns with our services and strengths. Further, the DoD budget remains the largest in the world and management believes our addressable portion of the DoD budget offers substantial opportunity for growth. In addition, we plan to address a larger portion of the U.S. government budget and expand our focus to other sectors of the U.S. government, such as the intelligence community and other civilian agencies.  
+  Although we anticipate reductions in revenue and profitability related to certain programs in which we participate, including the contracts we recently lost, others are expanding.  We believe spending on operation and maintenance of defense assets, as well as civilian agency infrastructure and equipment, will continue to be a U.S. government priority. Our focus is on sustaining facilities, equipment and IT networks, which we believe aligns with our customers' intent to utilize existing equipment and infrastructure rather than executing new purchases. Many of the core functions we perform are mission-essential. The following are examples of a few of these core functions: (i) keeping communication networks operational; (ii) operating and repairing utilities such as electricity and gas; and (iii) providing firefighting services. While customers may reduce the level of service required from us, we do not currently anticipate the complete elimination of these services.  
+  The information provided above does not represent a complete list of trends and uncertainties that could impact our business in either the near or long-term. It should, however, be considered along with the risk factors identified under the caption  Risk Factors  identified in Part 1, Item 1A in our Annual Report on Form 10-K for the year ended   December 31, 2015   and the matters identified under the caption  Forward-Looking and Cautionary Statements" herein. 
+   
+  Key Performance and Non-GAAP Measures 
+  The primary financial performance measures we use to manage our businesses and monitor results of operations are revenue trends and operating income trends. Management believes that these financial performance measures are the primary drivers for our earnings and net cash from operating activities. Operating income represents revenue less both cost of revenue and selling, general and administrative (SG A) expenses.  
+  We define operating margin as operating income divided by revenue. Cost of revenue consists of labor, subcontracting costs, materials, and an allocation of indirect costs, which includes service center transaction costs. SG A expenses consist of indirect labor costs (including wages and salaries for executives and administrative personnel), bid and proposal expenses and other general and administrative expenses not allocated to cost of revenue. 
+  We manage the nature and amount of costs at the program level, which forms the basis for estimating our total costs and profitability. Management evaluates its contracts and business performance by focusing on revenue, operating income and operating margin. This is consistent with our approach for managing our business, which begins with management's assessing the bidding opportunity for each contract and then managing contract profitability throughout the performance period. 
+  In addition to the key performance measures discussed above, we consider adjusted operating income to be useful to management and investors in evaluating our operating performance for the periods presented and to provide a tool for evaluating our ongoing operations. Adjusted operating income, a non-GAAP measure, is defined as operating income, adjusted to exclude items that may include, but are not limited to, other income; significant charges or credits that impact current results but are not related to our ongoing operations and unusual and infrequent non-operating items and non-operating tax settlements or adjustments, such as separation costs incurred to become a stand-alone public company. This information can assist investors in assessing our financial performance and measures our ability to generate capital for deployment among competing strategic alternatives  
+  
+   21 
+
+     Table of Contents  
+
+and initiatives. Adjusted operating income, however, is not a measure of financial performance under GAAP and should not be considered a substitute for operating income, income from operations, or net cash from operations as determined in accordance with GAAP.  Adjusted operating margin, a non-GAAP measure, is defined as adjusted operating income divided by revenue.  
+  A reconciliation of adjusted operating income to operating income is provided below: 
+
+DISCUSSION OF FINANCIAL RESULTS 
+  Selected financial highlights are presented in the tables below: 
+
+22 
+
+     Table of Contents  
+
+Revenue and Cost of Revenue 
+                       
+    Three Months Ended September 30, 2016 
+      
+    Nine Months Ended September 30, 2016 
+      3 
+    Revenue was $283.8 million, reflecting a decrease of $15.3 million, or 5.1%, due to decreases in revenue from our Afghanistan programs of $25.8 million and our U.S. and European programs of $12.4 million, offset by an increase in our Middle East programs of $22.9 million.  
+    
+    3 
+    Revenue was $902.4 million, reflecting an increase of $32.9 million, or 3.8%, due to an increase in revenue from our Middle East programs of $108.2 million, offset by decreases in our Afghanistan programs of $52.6 million and our U.S. and European programs of $22.7 million.  
+    
+      3 
+    Cost of revenue decreased by $14.5 million, or 5.3%, due to lower revenue. Cost of revenue as a percentage of revenue decreased due to lower revenue as described above. 
+    3 
+    Cost of revenue increased by $30.9 million, or 3.9%, due to higher revenue as described above. Cost of revenue as a percentage of revenue increased due to the declining leverage of certain program costs as a result of lower revenue in our Afghanistan-based programs. 
+
+Selling, General and Administrative Expenses 
+  For the   three and nine months ended     September 30, 2016  , SG A expenses of   $14.9 million   and   $46.0 million  , respectively, decreased by $3.4 million and $3.6 million as compared to the same periods of 2015 due to a one-time settlement of uncertain tax positions of $3.3 million in 2015, which is described in Note 3,  Income Taxes  in the notes to our unaudited condensed consolidated combined financial statements. 
+  
+   23 
+
+     Table of Contents  
+
+Operating Income 
+  Operating income for the   three and nine months ended     September 30, 2016   increased by   $2.7 million  , or   31.8%  , and   $5.6 million  , or   19.5%  , respectively, as compared to the same periods in   2015   due to the foregoing revenue and expense results and aggregate cumulative catch-up adjustments.  
+  Aggregate cumulative catch-up adjustments increased operating income by approximately   $1.2 million   and   $4.2 million   for the   three and nine months ended     September 30, 2016  , respectively, and decreased operating income by approximately   $0.4 million   and   $0.5 million   for the   three and nine months ended     September 25, 2015  , respectively.  
+  Operating income as a percentage of revenue was   3.9%   and 3.8% for the three and nine months ended   September 30, 2016  , respectively, compared to 2.8% and   3.3%   for the three and nine months ended   September 25, 2015  , respectively. 
+  Interest (Expense) Income, net 
+  Interest (expense) income, net for the   three and nine months ended     September 30, 2016   and   September 25, 2015   was as follows: 
+
+Interest income is directly related to interest earned on our cash. Interest expense is directly related to borrowings under our Senior Secured Credit Facilities, the amortization of debt issuance costs and derivative instruments used to hedge a portion of our exposure to interest rate risk. The decrease in interest expense of   $0.2 million   for the three months ended September 30, 2016 compared to the three months ended September 25, 2015 was due to a lower long-term debt balance resulting in lower interest expense. 
+  Income Tax Expense 
+  We recorded income tax expense of   $3.2 million   and   $10.6 million   for the   three and nine months ended     September 30, 2016  , respectively, and income tax benefit of   $(7.1) million   and   $(1.0) million   for the   three and nine months ended     September 25, 2015  , respectively, representing effective income tax rates of   32.7%   and   35.6%  , respectively, and   (103.7)%   and   (4.0)%  , respectively. The increase in the effective income tax rates for the three and nine months ended September 30, 2016 compared to the three and nine months ended September 25, 2015 was due to the 2015 settlement of tax positions described in Note 3,  Income Taxes  in the notes to our unaudited condensed consolidated financial statements. Management does not believe the higher effective income tax rate in the   2016   period represents a trend in our future income tax rates.  
+   
+  Backlog 
+  Total backlog includes both funded backlog (firm orders for which funding is contractually obligated by the customer) and unfunded backlog (firm orders for which funding is not currently contractually obligated by the customer) and represents firm orders and potential options on multi-year contracts. Total backlog excludes potential orders under indefinite delivery/indefinite quantity (IDIQ) contracts. The value of the backlog is based on anticipated revenue levels over the anticipated life of the contract. Actual volumes may be greater or less than anticipated. Total backlog is converted into revenue as work is performed. The level of order activity related to programs can be affected by the timing of government funding authorizations and their project evaluation cycles. Year-over-year comparisons could, at times, be impacted by these factors, among others. 
+  
+   24 
+
+     Table of Contents  
+
+We expect to recognize a substantial portion of our funded backlog as revenue within the next 12 months. However, the U.S. government may cancel any contract at any time through a termination for convenience. Most of our contracts have terms that would permit us to recover all or a portion of our incurred costs and fees for work performed in the event of a termination for convenience. 
+  Total backlog   decreased   by   $304.8 million   in the   nine months ended September 30, 2016  . As of   September 30, 2016  , total backlog (funded and unfunded) was   $2.1 billion  .  
+
+Funded orders (different from funded backlog) represent orders for which funding was received during the period. We received funded orders of   $985.7 million   during the   nine months ended September 30, 2016  , which was   an increase   of approximately   $65.9 million   compared to the same period in   2015   due to the timing of funded orders for some of our contracts. 
+   
+  LIQUIDITY AND CAPITAL RESOURCES  
+  Liquidity 
+  Historically, we have generated operating cash flow sufficient to fund our working capital, capital expenditures and financing requirements. We expect to fund our ongoing working capital, capital expenditures and financing requirements through cash flows from operations, cash on hand and access to capital markets. When necessary, we will utilize our revolving credit facility to satisfy short-term liquidity requirements. 
+  If our cash flows from operations are less than we expect, we may need to access the long-term or short-term capital markets. Although we believe that our current financing arrangements will permit us to finance our operations on acceptable terms and conditions, our access to and the availability of financing on acceptable terms and conditions in the future will be impacted by many factors, including: (i) our credit ratings; (ii) the liquidity of the overall capital markets; and (iii) the current state of the economy. We cannot provide assurance that such financing will be available to us on acceptable terms or at all. 
+  As of   September 30, 2016  , we held cash of   $53.4 million  . The cash presented on our balance sheet consists of U.S. and international cash from wholly owned subsidiaries. We do not currently expect that we will be required to repatriate undistributed earnings of foreign subsidiaries.  We expect our U.S. domestic cash resources will be sufficient to fund our U.S. operating activities and cash commitments for financing activities. Approximately   $8.5 million   of our total   $53.4 million   in cash at   September 30, 2016   is held by our foreign subsidiaries and is not available to fund U.S. operations unless repatriated.   
+  In connection with the Spin-off, we entered into a credit agreement with a group of lenders, including JPMorgan Chase Bank, N.A. as the administrative agent. The credit agreement was amended April 19, 2016, to modify certain financial and negative covenants (as so amended, the Credit Agreement).  The Credit Agreement provides for   $215.0 million   in senior secured financing, consisting of a   $140.0 million   five-year term loan (Term Loan) and a senior secured revolving credit facility (the Revolver) that permits borrowings up to   $75.0 million  , of which up to   $35.0 million   is available for the issuance of letters of credit, and there is a swingline facility in an amount equal to   $10.0 million   (see Note 6, "Debt" in the notes to our unaudited condensed consolidated financial statements).  Net proceeds from the Term Loan were used to fund a   $136.3 million   distribution to a subsidiary of Exelis on September 26, 2014 in connection with the Spin-off. The Revolver is available for working capital, capital expenditures, and other general corporate purposes.  As of   September 30, 2016  , there were   eight   letters of credit outstanding in the aggregate amount of   $12.3 million  , which reduced our borrowing availability under the Revolver to   $62.7 million  . As of   September 30, 2016  , there were no outstanding borrowings under the Revolver.  
+  
+   25 
+
+     Table of Contents  
+
+Dividends 
+  We do not currently plan to pay a regular dividend on our common stock. The declaration of any future cash dividends and, if declared, the amount of any such dividends, will depend upon our financial condition, earnings, capital requirements, financial covenants and other contractual restrictions and the discretion of our Board of Directors. In deciding whether to pay future dividends on our common stock, our Board of Directors may take into account such matters as general business conditions, industry practice, our financial condition and performance, our future prospects, our cash needs and capital investment plans, income tax consequences, applicable law and such other factors as our Board of Directors may deem relevant. 
+  Sources and Uses of Liquidity 
+  Billed receivables and unbilled receivables are the principal components of our working capital and are generally driven by our level of revenue with other short-term fluctuations related to payment practices by our customers and the timing of our billings. Our receivables reflect amounts billed to our customers, as well as the revenue that was recognized in the preceding month, which is normally billed the month following each balance sheet date. 
+  The total amount of our receivables can vary significantly over time and is sensitive to revenue levels and the timing of payments received from our customers. Days sales outstanding (DSO) is a metric we use to monitor receivable levels. Our DSO was   55   and   68   days as of   September 30, 2016   and   December 31, 2015  , respectively. Continuous improvement in our collections process contributed to a lower DSO as of September 30, 2016. However, we do not expect DSO to remain at   55   days. As we grow our business and start up new contracts, we anticipate DSO to be maintained in the low 60s.   
+  The following table sets forth net cash (used in) and provided by operating, investing and financing activities for the   nine months ended September 30, 2016   and   September 25, 2015  : 
+
+Trends in our operating cash flows tend to follow trends in operating income, excluding non-cash charges. Net cash   provided by   operating activities during the   nine months ended September 30, 2016   was   $33.5 million   compared with net cash   provided by   operating activities of   $10.0 million   during the   nine months ended September 25, 2015  . Net cash   provided by   operating activities for the   nine months ended September 30, 2016   consisted of net income of   $19.2 million  , increased by non-cash items of   $6.3 million   and favorable net working capital changes of   $7.9 million   due to the timing of cash collections and payments, as reflected in receivables, accounts payable and compensation and other employee benefits.  
+  Net cash   provided by   operating activities during the   nine months ended September 25, 2015   consisted of net income of   $25.0 million  , increased by non-cash items of   $9.0 million  , offset by other unfavorable net working capital changes of   $24.0 million   due to the timing of cash collections and payments, as reflected in receivables, other assets, accounts payable, compensation and other employee benefits and billings in excess of costs.  
+  Net cash   provided by   investing activities during the   nine months ended September 30, 2016   was   $0.1 million  , and net cash   used in   investing activities during the   nine months ended September 25, 2015   was   $0.8 million  .  Net cash   provided by   investing activities during the   nine months ended September 30, 2016   consisted of purchases of capital assets offset by proceeds received from the disposition of capital assets and a distribution from an equity investment (see Note 1, "Description of Business and Summary of Significant Accounting Policies - Equity Investment," in the notes to our unaudited condensed consolidated financial statements). Capital expenditures during the   nine months ended September 30, 2016   were primarily for the purchase of hardware and software related to  
+  
+   26 
+
+     Table of Contents  
+
+ongoing operations. Net cash   used in   investing activities during the   nine months ended September 25, 2015   primarily related to capital expenditures for the purchase of hardware and software driven by our separation from Exelis. 
+  Net cash   used in   financing activities during the   nine months ended September 30, 2016   was   $20.8 million   compared to net cash   used in   financing activities of   $10.7 million   during the   nine months ended September 25, 2015  . Net cash   used in   financing activities during the   nine months ended September 30, 2016   consisted primarily of repayments of long-term debt of   $20.5 million  , payments related to employee withholding taxes on share-based compensation in the amount of   $0.7 million   and a payment of   $0.2 million   related to an amendment of our credit agreement, offset by   $0.6 million   in cash received from the exercise of stock options. 
+  Net cash   used in   financing activities for the   nine months ended September 25, 2015   was comprised of repayments of long-term debt of   $16.9 million  , repayment of financed insurance obligations of   $8.1 million   and payments related to employee withholding taxes on share-based compensation in the amount of   $0.7 million  , offset by cash provided by an arrangement the Company entered into to finance certain of its insurance obligations in the amount of   $14.9 million   and   $0.1 million   in cash received from the exercise of stock options.  
+  Capital Resources 
+  At   September 30, 2016  , we held cash of   $53.4 million  , which included   $8.5 million   held by foreign subsidiaries, and had   $62.7 million   of available borrowing capacity under the Revolver, which expires on September 17, 2019. We believe that our cash at   September 30, 2016  , as supplemented by cash flows from operations and borrowings available to us under the Revolver, will be sufficient to fund our anticipated operating costs, capital expenditures and current debt repayment obligations for at least the next 12 months.  
+  Contractual Obligations 
+  During the   nine months ended September 30, 2016  , we paid a total of   $20.5 million   in principal on the Term Loan, of which   $10.0 million   were voluntary prepayments.  
+  Off-Balance Sheet Arrangements 
+  We have obligations relating to operating leases and letters of credit outstanding. Our Revolver permits borrowings up to   $75.0 million  , of which   $35.0 million   is available for the issuance of letters of credit. As of   September 30, 2016  , there were   eight   letters of credit outstanding in the aggregate amount of   $12.3 million  , which reduced our borrowing availability under the Revolver to   $62.7 million  . These arrangements have not had, and management does not believe it is likely that they will in the future have, a material effect on our liquidity, capital resources, operations or financial condition. At   September 30, 2016  , we had no material off-balance sheet arrangements other than letters of credit and operating leases.  
+   
+  CRITICAL ACCOUNTING POLICIES, ESTIMATES AND JUDGMENTS 
+  The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting periods.  Estimates are revised as additional information becomes available.  Management believes that the accounting estimates employed and the resulting balances are reasonable; however, actual results in these areas could differ from management's estimates under different assumptions or conditions. 
+  We believe that the assumptions and estimates associated with revenue recognition, goodwill impairment assessments and income taxes have the greatest potential impact on our financial statements. Therefore, we consider these to be our critical accounting policies and estimates. There have been no material changes in our critical accounting policies and estimates from those discussed in our Annual Report on Form 10-K for the year ended   December 31, 2015  .  
+  New Accounting Pronouncements 
+  See Part I, Item 1, Note 2, "Recent Accounting Pronouncements" in the notes to our unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q for information regarding accounting pronouncements and accounting standards updates.  
+  
+   27 
+
+     Table of Contents  
+
+FORWARD-LOOKING AND CAUTIONARY STATEMENTS 
+  This Quarterly Report on Form 10-Q and certain information incorporated herein by reference contain forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act), and Section 27A of the Securities Act of 1933, as amended (the Securities Act), and the Private Securities Litigation Reform Act of 1995 and, as such, may involve risks and uncertainties. All statements included or incorporated by reference in this report, other than statements that are purely historical, are forward-looking statements. Forward-looking statements generally can be identified by the use of forward-looking terminology such as  may,   will,   expect,   intend,   estimate,   anticipate,   believe,   could,   potential,   continue  or similar terminology. These statements are based on the beliefs and assumptions of the management of the Company based on information currently available to management. Forward-looking statements are not guarantees of future performance and are subject to risks and uncertainties that could cause actual results to differ materially from the results contemplated by the forward-looking statements.  
+  We undertake no obligation to update any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.  In addition, forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from our historical experience and our present expectations or projections.  These risks and uncertainties include, but are not limited to risks and uncertainties relating to the Spin-off, including whether the Spin-off and the related transactions will result in any tax liability, economic, political and social conditions in the countries in which we conduct our businesses; changes in U.S. or international government defense budgets; changes in U.S. government military operations, including its operations in Afghanistan; competition in our industry; protests of new awards; our ability to submit proposals for and/or win all potential opportunities in our pipeline; government regulations and compliance therewith, including changes to the DoD procurement process; changes in technology; intellectual property matters; governmental investigations, reviews, audits and cost adjustments; contingencies related to actual or alleged environmental contamination, claims and concerns; delays in completion of the U.S. government's budget; our success in expanding our geographic footprint or broadening our customer base; our ability to realize the full amounts reflected in our backlog and to retain and renew our existing contracts; our maintaining our good relationship with the U.S. government; impairment of goodwill; misconduct of our employees, subcontractors, agents and business partners; our performance of our contracts and our ability to control costs; our level of indebtedness; our compliance with the terms of our credit agreement; subcontractor performance; our teaming arrangements with other contractors; economic and capital markets conditions; any future acquisitions, investments or joint ventures; our ability to retain and recruit qualified personnel; our maintenance of safe work sites and equipment; any disputes with labor unions; costs or outcome of any legal proceedings; security breaches and other disruptions to our information technology and operations; changes in our tax provisions or exposure to additional income tax liabilities; changes in U.S. generally accepted accounting principles; our compliance with public company accounting and financial reporting requirements; timing of payments by the U.S. government; and other factors described in, Item 1A,  Risk Factors,  and elsewhere in our Annual Report on Form 10-K for the year ended   December 31, 2015   and described from time to time in our future reports filed with the Securities and Exchange Commission. 
+   
+  ITEM 3.   QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+  Vectrus has limited exposure to foreign currency exchange risk as the substantial majority of our business is conducted in U.S. dollars. We are subject to interest rate risk with our Term Loan and Revolver, as both require us to pay interest on outstanding borrowings at variable rates.  Each one percentage point change associated with the Term Loan would result in a   $0.9 million   change in our annual cash interest expenses.  Assuming our Revolver was fully drawn to a principal amount equal to   $75.0 million  , each one percentage point change in interest rates would result in a   $0.8 million   change in our annual cash interest expense. 
+  
+   28 
+
+Table of Contents  
+
+ITEM 4.   CONTROLS AND PROCEDURES 
+  Disclosure Controls and Procedures  
+  Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of   September 30, 2016  .  Based on such evaluation, the Chief Executive Officer and Chief Financial Officer concluded that, as of   September 30, 2016  , the Company s disclosure controls and procedures were effective to ensure that information required to be disclosed in reports the Company files or submit under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and (ii) accumulated and communicated to management to allow timely decisions regarding required disclosure. Any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives.  
+  Changes in Internal Control over Financial Reporting  
+  There was no change in our internal control over financial reporting during the quarter ended   September 30, 2016  , that materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.  
+   
+  PART II. OTHER INFORMATION 
+   
+  ITEM 1.   LEGAL PROCEEDINGS 
+  From time to time we are involved in legal proceedings that are incidental to the operation of our business.  Some of these proceedings seek remedies relating to employment matters, matters in connection with our contracts or matters arising under provisions relating to the protection of the environment. 
+  Although the ultimate outcome of any legal matter cannot be predicted with certainty, based on present information, including our assessment of the merits of the particular claim, we do not expect that any asserted or unasserted legal claims or proceedings, individually or in the aggregate, will have a material adverse effect on our cash flow, results of operations or financial condition. 
+  See Part I, Item 1, Note 13, "Commitments and Contingencies" in the notes to our unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q for further information. 
+   
+  ITEM 1A.   RISK FACTORS 
+  The  Risk Factors  section, under Part I, Item 1A, of our Annual Report on Form 10-K for the year ended   December 31, 2015   describes risks and uncertainties associated with our business. These risks and uncertainties have the potential to materially affect our business, financial condition, results of operations, cash flows, projected results, and future prospects. We do not believe that there have been any material changes to the risk factors previously disclosed. 
+   
+  ITEM 2.   UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+  Not applicable.  
+   
+  ITEM 3.   DEFAULTS UPON SENIOR SECURITIES 
+  Not applicable.  
+   
+  ITEM 4.   MINE SAFETY DISCLOSURES 
+  Not applicable. 
+   
+  ITEM 5.   OTHER INFORMATION  
+  Not applicable. 
+  
+   29 
+
+Table of Contents  
+
+ITEM 6.   EXHIBITS 
+                 31.1 
+    Certification pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 + 
+      31.2 
+    Certification pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 + 
+      32.1 
+    Certification Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. This Exhibit is intended to be furnished in accordance with Regulation S-K Item 601(b)(32)(ii) and shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934 or incorporated by reference into any future filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except as shall be expressly set forth by specific reference. + 
+      32.2 
+    Certification Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. This Exhibit is intended to be furnished in accordance with Regulation S-K Item 601(b)(32)(ii) and shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934 or incorporated by reference into any future filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except as shall be expressly set forth by specific reference. + 
+      101 
+    The following materials from Vectrus, Inc. s Quarterly Report on Form 10-Q for the quarter ended  September 30, 2016, formatted in XBRL (Extensible Business Reporting Language): (i) Unaudited Condensed Consolidated Statements of Income, (ii) Unaudited Condensed Consolidated Statements of Comprehensive Income, (iii) Unaudited Condensed Consolidated Balance Sheets, (iv) Unaudited Condensed Consolidated Statements of Cash Flows, and (v) Notes to Condensed Consolidated Financial Statements (Unaudited). # 
+
++ Indicates this document is filed as an exhibit herewith. 
+  # Submitted electronically with this report. 
+  The Company s Commission File Number for Reports on Form 10-K, Form 10-Q and Form 8-K is 001-36341. 
+
+SIGNATURES     
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.  
+                   VECTRUS, INC. 
+
+/s/ William B. Noon 
+
+By: William B. Noon 
+
+Corporate Vice President and Chief Accounting Officer 
+      
+      (Principal Accounting Officer and Authorized Signatory) 
+      
+      Date: November 8, 2016 
+
+30 
+
+Table of Contents  
+
+EXHIBIT INDEX 
+                 Exhibit Number 
+    Description of Exhibits 
+      31.1 
+    Certification pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 + 
+      31.2 
+    Certification pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 + 
+      32.1 
+    Certification Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. This Exhibit is intended to be furnished in accordance with Regulation S-K Item 601(b)(32)(ii) and shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934 or incorporated by reference into any future filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except as shall be expressly set forth by specific reference. + 
+      32.2 
+    Certification Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. This Exhibit is intended to be furnished in accordance with Regulation S-K Item 601(b)(32)(ii) and shall not be deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934 or incorporated by reference into any future filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except as shall be expressly set forth by specific reference. + 
+      101 
+    The following materials from Vectrus, Inc. s Quarterly Report on Form 10-Q for the quarter ended  September 30, 2016, formatted in XBRL (Extensible Business Reporting Language): (i) Unaudited Condensed Consolidated Statements of Income, (ii) Unaudited Condensed Consolidated Statements of Comprehensive Income, (iii) Unaudited Condensed Consolidated Balance Sheets, (iv) Unaudited Condensed Consolidated Statements of Cash Flows, and (v) Notes to Condensed Consolidated Financial Statements (Unaudited). # 
+
++ Indicates this document is filed as an exhibit herewith. 
+  # Submitted electronically with this report. 
+    
+    The Company s Commission File Number for Reports on Form 10-K, Form 10-Q and Form 8-K is 001-36341. 
+
+31 
+
+<EX-31.1>
+ 2
+ vec-09302016x311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+EXHIBIT 31.1  
+  CERTIFICATIONS PURSUANT TO SECTION 302  
+  OF THE SARBANES-OXLEY ACT OF 2002  
+
+I, Kenneth W. Hunzeker, certify that:  
+     
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Vectrus, Inc.;  
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;  
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;  
+              4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+              a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+              b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and  
+              5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions):  
+              a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+              b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting.  
+                    Date: November 8, 2016 
+
+/s/ Kenneth W. Hunzeker                                
+      
+      Kenneth W. Hunzeker 
+      
+      Chief Executive Officer and President 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ vec-09302016x312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+EXHIBIT 31.2  
+  CERTIFICATIONS PURSUANT TO SECTION 302  
+  OF THE SARBANES-OXLEY ACT OF 2002  
+
+I, Matthew M. Klein, certify that:  
+     
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Vectrus, Inc.;  
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;  
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;  
+              4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+              a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+              b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and  
+              5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions):  
+              a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+              b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting.  
+                    Date: November 8, 2016 
+
+/s/ Matthew M. Klein                            
+      
+      Matthew M. Klein 
+      
+      Senior Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ vec-09302016x321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1  
+
+Certification of Chief Executive Officer and President  
+     
+  CERTIFICATION PURSUANT TO  
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+  (18 U.S.C. SECTION 1350)  
+     
+  In connection with the Quarterly Report on Form 10-Q of Vectrus, Inc. (the  Company ) for the period ended   September 30, 2016   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), the undersigned certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to his knowledge:  
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and  
+              (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+        
+                 Date: November 8, 2016 
+
+/s/ Kenneth W. Hunzeker                                
+      
+      Kenneth W. Hunzeker 
+      
+      Chief Executive Officer and President 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ vec-09302016x322.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2  
+
+Certification of Senior Vice President and Chief Financial Officer  
+     
+  CERTIFICATION PURSUANT TO  
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+  (18 U.S.C. SECTION 1350)  
+     
+  In connection with the Quarterly Report on Form 10-Q of Vectrus, Inc. (the  Company ) for the period ended   September 30, 2016   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), the undersigned certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to his knowledge:  
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and  
+              (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+        
+                 Date: November 8, 2016 
+
+/s/ Matthew M. Klein                                
+      
+      Matthew M. Klein 
+      
+      Senior Vice President and Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ vec-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ vec-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ vec-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ vec-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ vec-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ vec-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

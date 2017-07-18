@@ -1,0 +1,2593 @@
+<Header>
+<FileStats>
+    <FileName>20161110_10-Q_edgar_data_1533615_0001144204-16-133096_1.txt</FileName>
+    <GrossFileSize>3972373</GrossFileSize>
+    <NetFileSize>152417</NetFileSize>
+    <ASCII_Embedded_Chars>251438</ASCII_Embedded_Chars>
+    <HTML_Chars>807189</HTML_Chars>
+    <XBRL_Chars>1694515</XBRL_Chars>
+    <XML_Chars>1007010</XML_Chars>
+    <N_Tables>35</N_Tables>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001144204-16-133096.hdr.sgml : 20161110
+<ACCEPTANCE-DATETIME>20161110121258
+ACCESSION NUMBER:		0001144204-16-133096
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		57
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161110
+DATE AS OF CHANGE:		20161110
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Global Medical REIT Inc.
+		CENTRAL INDEX KEY:			0001533615
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				464757266
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37815
+		FILM NUMBER:		161986899
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4800 MONTGOMERY LANE
+		STREET 2:		SUITE 450
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+		BUSINESS PHONE:		202-524-6851
+
+	MAIL ADDRESS:	
+		STREET 1:		4800 MONTGOMERY LANE
+		STREET 2:		SUITE 450
+		CITY:			BETHESDA
+		STATE:			MD
+		ZIP:			20814
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCOOP MEDIA, INC.
+		DATE OF NAME CHANGE:	20111027
+
+</SEC-Header>
+</Header>
+
+ 0001144204-16-133096.txt : 20161110
+
+10-Q
+ 1
+ v452323_10q.htm
+ 10-Q
+
+UNITED STATES  
+
+  SECURITIES AND EXCHANGE COMMISSION  
+
+  Washington, DC 20549  
+
+FORM 10-Q   
+
+For the quarterly period ended September
+30, 2016  
+
+OR 
+
+For the transition period from ___________
+to ___________.  
+
+Commission file number: 333-177592  
+
+Global Medical REIT Inc.  
+
+ (Exact name of registrant as specified
+in its charter) 
+
+Maryland   
+       
+       46-4757266    
+ 
+      (State
+    or other jurisdiction of incorporation or organization)  
+       
+      (I.R.S.
+    Employer Identification No.)   
+
+Registrant s telephone number,
+        including area code:  (202) 524-6851  
+
+N/A    
+ 
+      (Former
+    name, former address and former fiscal year, if changed since last report)   
+
+Indicate
+by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such
+reports), and (2) has been subject to such filing requirements for the past 90 days.    
+     Yes     
+   No   
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  Yes           No         
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions
+of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule
+12b-2 of the Exchange Act. 
+
+Large accelerated filter   
+         
+      Accelerated filter  
+
+Non-accelerated filter (Do not check if a smaller  
+                  reporting company)   
+         
+      Smaller reporting company  
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes         No 
+
+State the number of shares outstanding
+of each of the issuer s classes of common equity, as of the latest practicable date. 
+
+TABLE OF CONTENTS  
+
+PART
+    I   FINANCIAL INFORMATION    
+
+Item
+    1.  
+      Financial
+    Statements   
+
+Consolidated Balance Sheets   September 30, 2016 (unaudited) and December 31, 2015   
+      5   
+
+Consolidated Statements of Operations (unaudited)   Three and Nine Months Ended September 30, 2016 and 2015   
+      6   
+
+Consolidated Statements of Cash Flows (unaudited)   Nine Months Ended September 30, 2016 and 2015   
+      7   
+
+Notes to the Unaudited Consolidated Financial Statements   
+      8   
+
+Item
+    2.  
+       Management s Discussion and Analysis of Financial Condition and Results of Operations   
+      25   
+
+Item
+    3.  
+       Quantitative and Qualitative Disclosures About Market Risk   
+      34   
+
+Item
+    4.  
+       Controls and Procedures   
+      34   
+
+PART
+    II   OTHER INFORMATION    
+
+Item
+    1.  
+       Legal Proceedings   
+      34   
+
+Item
+    1A.  
+       Risk Factors   
+      35   
+
+Item
+    2.  
+       Unregistered Sales of Equity Securities and Use of Proceeds   
+      35   
+
+Item
+    3.  
+       Defaults Upon Senior Securities   
+      35   
+
+Item
+    4.  
+       Mine Safety Disclosures   
+      35   
+
+Item
+    5.  
+       Other Information   
+      35   
+
+Item
+    6.  
+       Exhibits   
+      36   
+
+Signatures   
+      37   
+
+-  2  - 
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING
+STATEMENTS  
+
+This Quarterly Report
+on Form 10-Q (this  Report ) contains forward-looking statements within the meaning of the federal securities laws.
+In particular, statements pertaining to our capital resources, healthcare facility performance and results of operations, among
+others, contain forward-looking statements. You can identify forward-looking statements by the use of forward-looking terminology
+including, but not limited to,  believes,   expects,   may,   will,   should, 
+ seeks,   approximately,   intends,   plans,   estimates  or  anticipates 
+or the negative of these words and phrases or similar words or phrases which are predictions of or indicate future events or trends
+and which do not relate solely to historical matters. You can also identify forward-looking statements by discussions of strategy,
+plans or intentions. 
+
+Forward-looking statements
+involve numerous risks and uncertainties and you should not rely on them as predictions of future events. Forward-looking statements
+depend on assumptions, data or methods which may be incorrect or imprecise and we may not be able to realize them. We do not guarantee
+that the transactions and events described will happen as described (or that they will happen at all). The following factors,
+among others, could cause actual results and future events to differ materially from those set forth or contemplated in the forward-looking
+statements: 
+
+general
+                                         economic conditions;   
+
+adverse
+                                         economic or real estate developments, either nationally or in the markets in which our
+                                         healthcare facilities are located;   
+
+our
+                                         failure to generate sufficient cash flows to service our outstanding indebtedness;   
+
+fluctuations
+                                         in interest rates and increased operating costs;   
+
+our
+                                         ability to deploy the debt and equity capital we raise;   
+
+our
+                                         ability to raise additional equity and debt capital on terms that are attractive or at
+                                         all;   
+
+our
+                                         ability to make distributions on shares of our common stock;   
+
+general
+                                         volatility of the market price of our common stock;   
+
+our
+                                         lack of significant operating history;   
+
+changes
+                                         in our business or strategy;   
+
+our
+                                         dependence upon key personnel whose continued service is not guaranteed;   
+
+our
+                                         ability to identify, hire and retain highly qualified personnel in the future;   
+
+the
+                                         degree and nature of our competition;   
+
+changes
+                                         in governmental regulations, tax rates and similar matters;   
+
+defaults
+                                         on or non-renewal of leases by tenant-operators;   
+
+decreased
+                                         rental rates or increased vacancy rates;   
+
+difficulties
+                                         in identifying healthcare facilities to acquire and completing such acquisitions;   
+
+competition
+                                         for investment opportunities;   
+
+our
+                                         failure to successfully develop, integrate and operate acquired healthcare facilities
+                                         and operations;   
+
+the
+                                         financial condition and liquidity of, or disputes with, joint venture and development
+                                         partners with whom we may make co-investments in the future;   
+
+changes
+                                         in accounting policies generally accepted in the United States of America, or  GAAP;    
+
+lack
+                                         of or insufficient amounts of insurance;   
+
+other
+                                         factors affecting the real estate industry generally;   
+
+our
+                                         failure to qualify and maintain our qualification as a real estate investment trust ( REIT )
+                                         for U.S. federal income tax purposes;   
+
+limitations
+                                         imposed on our business and our ability to satisfy complex rules in order for us to qualify
+                                         as a REIT for U.S. federal income tax purposes; and   
+
+changes
+                                         in governmental regulations or interpretations thereof, such as real estate and zoning
+                                         laws and increases in real property tax rates and taxation of REITs.   
+
+While forward-looking
+statements reflect our good faith beliefs, they are not guarantees of future performance. We disclaim any obligation to update
+or revise any forward-looking statement to reflect changes in underlying assumptions or factors, of new information, data or methods,
+future events or other changes after the date of this Report, except as required by applicable law. You should not place undue
+reliance on any forward-looking statements that are based on information currently available to us or the third parties making
+the forward-looking statements. 
+
+-  3  - 
+
+CERTAIN TERMS USED IN THIS REPORT  
+
+When this Report uses
+the words  we,   us,   our,  and the  Company,  they refer to Global Medical REIT
+Inc., unless otherwise indicated. 
+
+Inter-American
+Management, LLC,  our advisor, refers to Inter-American Management, LLC, a Delaware limited liability company. Our advisor
+is 85% owned by ZH International Holdings Limited (formerly known as Heng Fai Enterprises, Ltd.), a Hong Kong limited company. 
+
+ZH USA, LLC 
+is a Delaware limited liability company owned by ZH International Holdings Limited. ZH USA, LLC is a related party and was our
+majority stockholder prior to the completion of our initial public offering. 
+
+SEC 
+and  the Commission  refer to the United States Securities and Exchange Commission. 
+
+Common stock 
+refers to the common shares in our capital stock. 
+
+Our consolidated financial
+statements are prepared in accordance with GAAP. 
+
+-  4  - 
+
+GLOBAL MEDICAL REIT INC.   
+
+  Consolidated Balance Sheets  
+
+The accompanying notes are an integral
+part of these unaudited consolidated financial statements. 
+
+-  5  - 
+
+GLOBAL MEDICAL REIT INC.   
+
+  Consolidated Statements of Operations
+
+(unaudited) 
+
+The accompanying notes are an integral
+part of these unaudited consolidated financial statements. 
+
+-  6  - 
+
+GLOBAL MEDICAL REIT INC.   
+
+  Consolidated Statements of Cash Flows  
+
+ (unaudited) 
+
+The accompanying notes are an integral
+part of these unaudited consolidated financial statements. 
+
+-  7  - 
+
+GLOBAL MEDICAL REIT INC.   
+
+  Notes to the Unaudited Consolidated
+Financial Statements  
+
+Note 1   Organization   
+
+Background  
+
+Global Medical REIT
+Inc. (the  Company ) is a Maryland corporation engaged primarily in the acquisition of licensed, state-of-the-art,
+purpose-built healthcare facilities and the leasing of these facilities to leading clinical operators with dominant market share.
+The Company is externally managed and advised by Inter-American Management, LLC (the  Advisor ). 
+
+The Company holds
+its facilities and conducts its operations through a Delaware limited partnership subsidiary called Global Medical REIT L.P. (the
+ Operating Partnership ). The Company serves as the sole general partner of the Operating Partnership through a wholly-owned
+subsidiary of the Company called Global Medical REIT GP LLC (the  GP ), a Delaware limited liability company. As of
+September 30, 2016, the Company was the 98.0% limited partner of the Operating Partnership, with the remaining 2% owned by the
+holders of the Company s long term incentive plan ( LTIP ) units. Refer to Note 7    2016 Equity
+Incentive Plan  for additional information regarding the LTIP units. The Company intends to conduct all future acquisition
+activity and operations through the Operating Partnership. As of September 30, 2016, the Operating Partnership had the following
+subsidiaries, all of which are wholly-owned: GMR Watertown, LLC; GMR East Orange, LLC; GMR Reading, LLC; GMR Sandusky, LLC; GMR
+Melbourne, LLC; GMR Westland, LLC; GMR Plano, LLC; GMR Memphis Exeter, LLC; GMR Memphis, LLC; GMR Pittsburgh, LLC; GMR Asheville,
+LLC, and GMR Omaha, LLC. Delaware limited liability company subsidiaries. 
+
+Completed Initial Public Offering Related
+Events  
+
+On June 13, 2016,
+in anticipation of the Company s initial public offering that closed on July 1, 2016, the board of directors of the Company
+approved an amendment and restatement of the Company s Amended and Restated Bylaws (as amended and restated, the  Bylaws ),
+effective on that date. The following is a summary of the amendments to the Bylaws. In addition to the amendments described below,
+the Bylaws include certain changes to clarify language and consistency with Maryland law and the listing requirements of the New
+York Stock Exchange and to make various technical revisions and non-substantive changes. 
+
+The Bylaws were amended
+to provide for the following matters, among others: 
+
+(a)  
+      Procedures
+    for calling and holding special stockholders  meetings;   
+
+(b)  
+      Procedures for notice,
+    organization and conduct of stockholders  meetings;   
+
+(c)  
+      Advance notice provisions
+    for stockholder nominations for director and stockholder business proposals;   
+
+(d)  
+      Clarification that
+    the Company s election to become subject to Section 3-804(c) of the Maryland General Corporation Law has already become
+    effective;   
+
+(e)  
+      Procedures for calling
+    a meeting of the Board in the event of an emergency;   
+
+(f)  
+      Procedures for Board
+    committees to fill vacancies, appoint committee chairs and delegate powers;   
+
+(g)  
+      The adjournment
+    or postponement of a shareholder meeting to a date not more than 120 days after the original record date, without the need
+    to set a new record date; and   
+
+(h)  
+      Litigation regarding
+    internal actions be brought in the Circuit Court for Baltimore City, Maryland (or, if that court does not have jurisdiction,
+    the United States District Court for the District of Maryland, Baltimore Division).   
+
+On June 28, 2016,
+the Company, the Advisor, and the Operating Partnership entered into an Underwriting Agreement with Wunderlich Securities, Inc.,
+as representative of the several underwriters named therein, relating to the offer and sale of the Company s common stock
+in its initial public offering. On July 1, 2016, the Company closed its initial public offering and issued 13,043,479 shares of
+its common stock at a price of $10.00 per share resulting in gross proceeds of $130,434,790. After deducting amounts that the
+Company paid in costs that were directly attributable to the offering, underwriting discounts, advisory fees, and commissions,
+for a total of $11,272,068, the Company received net proceeds from the offering of $119,162,722. Additionally, on July 11, 2016
+the underwriters exercised their over-allotment option in full, resulting in the issuance by the Company of an additional 1,956,521
+shares of the Company s common stock at a price of $10.00 per share for gross proceeds of $19,565,210. After deducting underwriting
+discounts, advisory fees, and commissions of $1,369,565, the Company received net proceeds from the over-allotment option shares
+of $18,195,645. Transaction costs incurred in connection with the offering were approximately $1,681,259. As disclosed in Note
+2    Summary of Significant Accounting Policies,  these transaction costs were recorded as a deferred asset.
+On July 1, 2016, upon completion of the initial public offering, this deferred asset balance was netted against additional paid-in
+capital on the accompanying Consolidated Balance Sheet as of September 30, 2016. Total shares issued by the Company in the initial
+public offering, including over-allotment option shares, were 15,000,000 shares and the total net proceeds received were $137,358,367. 
+
+-  8  - 
+
+Use of Proceeds:  
+
+The Company designated
+the following uses for the net proceeds of the initial public offering: 
+
+approximately
+                                         $14.9 million ($14.6 million in principal outstanding as of July 1, 2016 and an early
+                                         termination fee of $0.3 million) to repay the outstanding loan from Capital One encumbering
+                                         the Company s Omaha Facility on July 11, 2016 (see Note 4    Notes
+                                         Payable Related to Acquisitions );    
+
+$10.0
+                                         million to repay a portion of the Company s outstanding 8.0% convertible debentures
+                                         held by ZH USA, LLC on July 8, 2016 (see Note 6    Related Party Transactions );
+
+$1.5
+                                         million to repay the outstanding interest free loan from ZH USA, LLC on July 8, 2016
+                                         (see Note 6    Related Party Transactions ); and    
+
+the
+                                         remaining approximately $101.6 million for the acquisition of properties in the Company s
+                                         investment pipeline, properties under letter of intent and other potential acquisitions,
+                                         capital improvements to the Company s properties and general corporate and working
+                                         capital purposes. See Note 3    Property Portfolio  for proceeds used
+                                         to acquire properties during the quarter.    
+
+The Company invested
+the unexpended net proceeds of the offering in interest-bearing accounts, money market accounts, and interest-bearing securities
+in a manner that is consistent with its intention to qualify for taxation as a real estate investment trust ( REIT ). 
+
+In connection with
+the Company s initial public offering, the Company s common stock was listed on the New York Stock Exchange under
+the ticker symbol  GMRE.  
+
+Note 2   Summary of Significant
+Accounting Policies  
+
+Basis of presentation  
+
+The accompanying financial
+statements are unaudited and include the accounts of the Company and its subsidiaries. The accompanying financial statements have
+been prepared in accordance with GAAP and the rules and regulations of the SEC. Certain information and footnote disclosures required
+for annual financial statements have been condensed or excluded pursuant to SEC rules and regulations. Accordingly, the accompanying
+financial statements do not include all of the information and footnotes required by GAAP for complete financial statements and
+should be read in conjunction with the audited financial statements and notes thereto for the fiscal year ended December 31, 2015.
+In the opinion of management, all adjustments of a normal and recurring nature necessary for a fair presentation of the financial
+statements for the interim periods have been made. 
+
+Consolidation
+Policy  
+
+The accompanying consolidated financial statements include the accounts of the Company, including the Operating Partnership and its wholly-owned subsidiaries, and the interests in the Operating Partnership held by the LTIP unit holders, which the Operating Partnership has control over and therefore consolidates. These LTIP units represent  noncontrolling interests  and have no value as of September 30, 2016 as they have not been converted into OP Units and therefore did not participate in the Company s consolidated net loss. At the time when there is value associated with the noncontrolling interests, the Company will classify such interests as a component of consolidated equity, separate from the Company s total stockholder s equity on its Consolidated Balance Sheets. Additionally, net income or loss will be allocated to noncontrolling interests based on their respective ownership percentage of the Operating Partnership. All material intercompany balances and transactions between the Company and its subsidiaries have been eliminated. 
+
+Restricted Cash  
+
+The restricted cash
+balance of $805,776 as of September 30, 2016, consisted of $367,587 of cash required by a third party lender to be held by the
+Company as a reserve for debt service, $319,500 in a security deposit received from the Plano facility tenant at the inception
+of its lease, and $118,689 in funds held by the Company from certain of its tenants that the Company collected to pay specific
+tenant expenses, such as real estate taxes and in some cases insurance, on the tenant s behalf. The restricted cash balance
+as of September 30, 2016 increased $358,149 from the balance as of December 31, 2015 of $447,627. The December 31, 2015 balance
+consisted solely of funds required to be held by the Company as a reserve for debt service. 
+
+Tenant Receivables  
+
+The tenant receivables
+balance of $177,369 as of September 30, 2016, consisted of $17,965 in funds owned from the Company s tenants for rent that
+the Company has earned but not received as well $159,404 in funds owed by certain of the Company s tenants for amounts the
+Company collects to pay specific tenant expenses, such as real estate taxes and in some cases insurance, on the tenants 
+behalf. The tenant receivables balance was zero as of December 31, 2015. 
+
+-  9  - 
+
+Escrow Deposits  
+
+Escrow deposits include
+funds held in escrow to be used for the acquisition of future properties and for the payment of taxes, insurance, and other amounts
+as stipulated by the Company s third party loan agreements. The escrow balance as of September 30, 2016 and December 31,
+2015 was $903,636 and $454,310, respectively, an increase of $449,326. This increase resulted from deposits that were required
+to be held in escrow in the amount of $843,636 related to the Cantor Loan, as hereinafter defined, partially offset by $394,310
+in escrow funds that were expended to acquire facilities during the nine months ended September 30, 2016. Refer to Note 3  
+ Property Portfolio  and Note 4    Notes Payable Related to Acquisitions,  respectively, for information
+regarding the facilities acquired and details regarding the Cantor Loan. 
+
+Deferred Assets  
+
+The deferred assets
+balance of $245,619 as of September 30, 2016, represented the Company s deferred rent receivable balance resulting from
+the straight lining of revenue recognized for applicable tenant leases. During the nine months ended September 30, 2016, the Company
+deferred and paid $1,610,908 in specific incremental costs directly attributable to the offering of its equity securities bringing
+the total deferred incremental costs incurred balance to $1,681,259. Deferral of these incremental costs is in accordance with
+the provisions of Accounting Standards Codification ( ASC ) Topic 340,  Other Assets and Deferred Costs. 
+Also in accordance with the provisions of ASC Topic 340, upon the completion of the Company s initial public offering on
+July 1, 2016, the $1,681,259 total deferred incremental cost balance was reclassified as a reduction of the Company s additional
+paid-in capital balance in the Company s accompanying Consolidated Balance Sheets. The deferred asset balance as of December
+31, 2015 was $93,646, consisting of a deferred rent receivable balance of $23,295 and $70,351 in deferred costs incurred directly
+attributable to the Company s offering of its equity securities. 
+
+Security Deposits Liability  
+
+The security deposits
+liability balance of $597,593 as of September 30, 2016 represented $319,500 in funds deposited by the Plano facility tenant at
+the inception of its lease and $278,093 in tenant funds the Company will use to pay for certain of its tenants  expenses,
+such as real estate taxes and in some cases insurance, on the tenants  behalf. See Note 3    Property Portfolio 
+for additional information regarding the Plano facility acquisition. The security liability balance was zero as of December 31,
+2015. 
+
+Stock-Based Compensation  
+
+As disclosed in Note
+7    2016 Equity Incentive Plan,  the Company grants LTIP unit awards to employees of its advisor and its affiliates,
+and to the Company s independent directors. The Company expenses the fair value of unit awards in accordance with the fair
+value recognition requirements of ASC Topic 718,  Compensation-Stock Compensation  and ASC Topic 505,  Equity. 
+These ASC topics require companies to measure the cost of the recipient services received in exchange for an award of an equity
+instrument based on the grant-date fair value of the award. Under ASC Topic 718, the Company s independent directors are
+deemed to be employees and therefore compensation expense for these units is recognized based on the price of $10.00 per unit,
+the closing share price for the Company s common stock at the closing date of the initial public offering on July 1, 2016,
+ratably over the 12-month service period, using the straight line method. Under ASC Topic 505, the employees of the Advisor and
+its affiliates are deemed to be non-employees of the Company and therefore compensation expense for these units is recognized
+using the share price of the Company s common stock at the end of the reporting period, ratably over the 42-month or 54-month
+service period, respectively, depending on the grant terms, using the straight line method. Total compensation expense of $830,827
+related to all of the Company s LTIP units was recorded for the three and nine months ended September 30, 2016 and was classified
+as  General and Administrative  expense in the Company s accompanying Consolidated Statements of Operations. 
+
+Net Loss Per Common Share  
+
+Basic net loss per
+common share is computed by dividing net loss attributable to common stockholders by the weighted average number of common shares
+outstanding for the period. Diluted net loss per common share is computed by dividing net loss attributable to common stockholders
+by the sum of the weighted average number of common shares outstanding plus any potential dilutive shares for the period. 
+The effect of the conversion of vested LTIP units into OP Units and the conversion of OP Units into common stock is not reflected
+in the computation of basic and diluted earnings per share, as all units are exchangeable for common stock on a one-for-one basis
+and are anti-dilutive to the Company s net loss for the three and nine months ended September 30, 2016. The Company considered
+the requirements of the two-class method when computing earnings per share. Earnings per share would not be affected by using
+the two-class method because the Company incurred a net loss for the three and nine months ended September 30, 2016. 
+
+-  10  - 
+
+Segment Reporting  
+
+In accordance with
+the provisions of ASC Topic 280,  Segment Reporting,  the Company has determined that it has one reportable segment
+consisting of its activities related to the acquisition of healthcare facilities and the leasing of these facilities to leading
+clinical operators. 
+
+Note 3   Property Portfolio  
+
+Summary of Properties under Executed
+Asset Purchase Agreements as of September 30, 2016   
+
+Sandusky Facilities  
+
+On September 13, 2016,
+the Company entered into an assignment and assumption agreement to assume from a third party a purchase contract to acquire a
+portfolio of seven properties known as the NOMS portfolio located in Northern Ohio, for a total purchase price of $10.0 million.
+As disclosed in Note 11    Subsequent Events,  on October 7, 2016, the Company closed on the sale of five of
+the seven facilities representing approximately $4.6 million of the total $10 million purchase price. The acquisition of the remaining
+two buildings for approximately $5.4 million is expected to close in December 2016. The total NOMS portfolio covers an aggregate
+of 50,931 square feet. The NOMS portfolio was owned by a multi-specialty physician group which has been in operation since 2000.
+The group includes over 120 physicians of which approximately half are primary care providers. The Company is leasing the five
+acquired properties to NOMS and will lease the remaining two properties to NOMS using a triple-net lease structure with initial
+terms of 11 years with four additional five-year renewal options. NOMS was the tenant in the five buildings prior to the Company s
+acquisition and is also currently the tenant in the remaining two buildings. The acquisition of the five buildings was funded
+using a portion of the proceeds from the Company s initial public offering. The acquisition of the remaining two buildings
+will also be funded using proceeds from the initial public offering. 
+
+Summary of Properties Acquired During
+the Nine Months Ended September 30, 2016   
+
+During the three months
+ended September 30, 2016, the Company completed three acquisitions. Including these three acquisitions the Company completed a
+total of six acquisitions during the nine months ended September 30, 2016. A description of each facility acquired during that
+period is as follows. 
+
+Watertown Facilities  
+
+On September 30, 2016,
+the Company closed on an asset purchase agreement with Brown Investment Group, LLC, a South Dakota limited liability company,
+to acquire a 30,062 square foot clinic and a 3,136 square foot administration building located at 506 1 st  Avenue SE,
+Watertown, South Dakota and a 13,686 square foot facility located at 511 14 th  Avenue NE, Watertown South Dakota (collectively,
+the  Facilities ), for a purchase price of approximately $9.0 million (approximately $9.1 million including legal
+and related fees). The acquisitions included the Facilities, together with the real property, the improvements, and all appurtenances
+thereto. The Facilities are operated by the Brown Clinic, P.L.L.P. ( Brown Clinic ), a South Dakota professional limited
+liability partnership. 
+
+Upon the closing of
+the transaction, the Company leased the portfolio properties to Brown Clinic via a 15-year triple-net lease that expires in 2031.
+The lease provides for two additional five-year extensions at the option of the tenant. The acquisition was funded using a portion
+of the proceeds from the Company s initial public offering. 
+
+East Orange Facility  
+
+On September 29, 2016,
+the Company closed on an asset purchase agreement with Prospect EOGH, Inc. ( Prospect ), a New Jersey corporation,
+and wholly-owned subsidiary of Prospect Medical Holdings, Inc. ( PMH ), a Delaware corporation, to acquire a 60,442
+square foot medical office building ( MOB ) located at 310 Central Avenue, East Orange, New Jersey on the campus of
+the East Orange General Hospital, for a purchase price of approximately $11.86 million (approximately $12.3 million including
+legal and related fees). The building currently houses physician offices, a 29-bed dialysis center, a wound center, a diagnostic
+lab, a hyperbaric chamber and a pharmacy. The acquisitions included the MOB, together with the real property, the improvements,
+and all appurtenances thereto. 
+
+Upon the closing of
+the transaction, the Company leased the MOB to PMH via a 10-year triple-net lease that expires in 2026. The lease provides for
+four additional five-year extensions at the option of the tenant. The acquisition was funded using a portion of the proceeds from
+the Company s initial public offering. 
+
+-  11  - 
+
+Reading Facilities  
+
+On July 20, 2016,
+the Company closed on an asset purchase agreement to acquire a 17,000 square foot eye center located at 1802 Papermill Road, Wyomissing,
+PA 19610 (the  Eye Center ) owned and operated by Paper Mill Partners, L.P., a Pennsylvania limited partnership, and
+a 6,500 square foot eye surgery center located at 2220 Ridgewood Road, Wyomissing, PA 19610 (the  Surgery Center )
+owned and operated by Ridgewood Surgery Center, L.P., a Pennsylvania limited partnership, for a purchase price of approximately
+$9.20 million (approximately $9.38 million including legal and related fees). The acquisition included both facilities, together
+with the real property, the improvements, and all appurtenances thereto. 
+
+Upon the closing of
+the transaction, the Eye Center was leased back to Berks Eye Physicians   Surgeons, Ltd., a Pennsylvania professional corporation
+(the  Eye Center Tenant ) and the Surgery Center was leased back to Ridgewood Surgery Associates, LLC, a Pennsylvania
+limited liability company (the  Surgery Center Tenant ). Both leases are 10-year absolute triple-net lease agreements
+that expire in 2026 and are cross defaulted. Both leases also provide for two consecutive five-year extensions at the option of
+the tenants. The Eye Center lease is guaranteed by the Surgery Center Tenant and the Surgery Center lease is guaranteed by the
+Eye Center Tenant, each pursuant to a written guaranty. The acquisition was funded using a portion of the proceeds from the Company s
+initial public offering. 
+
+Melbourne Facility  
+
+On March 31, 2016,
+the Company closed on a purchase agreement to acquire a 78,000 square-foot medical office building located on the Melbourne Bayfront
+for a purchase price of $15.45 million (approximately $15.5 million including legal and related fees) from Marina Towers, LLC,
+a Florida limited liability company. The facility is located at 709 S. Harbor City Blvd., Melbourne, FL on 1.9 acres of land.
+The acquisition included the site and building, an easement on the adjacent property to the north for surface parking, all tenant
+leases, and above and below ground parking garages. The entire facility has been leased back to Marina Towers, LLC via a 10-year
+absolute triple-net master lease agreement that expires in 2026. The tenant has two successive options to renew the lease for
+five-year periods on the same terms and conditions as the primary non-revocable lease term with the exception of rent, which will
+be adjusted to the prevailing fair market rent at renewal and will escalate in successive years during the extended lease period
+at two percent annually. 
+
+The Melbourne facility
+acquisition was financed in full using proceeds from the third party Cantor Loan, which is disclosed in Note 4    Notes
+Payable Related to Acquisitions.  
+
+The Melbourne facility s
+obligations under the lease with Marina Towers, LLC are fully guaranteed by its parent company, First Choice Healthcare Solutions,
+Inc. (OTCMKTS: FCHS). Information about First Choice Healthcare Solutions, Inc., including its audited historical financial statements,
+can be obtained from its Annual Report on Form 10-K and other reports and filings available on its website at http://www.myfchs.com/
+or on the SEC website at www.sec.gov. 
+
+Westland Facility  
+
+On March 31, 2016,
+the Company closed on a purchase agreement to acquire a two-story medical office building and ambulatory surgery center located
+in Westland, Michigan for an aggregate purchase price of $4.75 million (approximately $4.8 million including legal and related
+fees) from Cherry Hill Real Estate, LLC ( Cherry Hill ). The property contains 15,018 leasable square feet and is
+located on a 1.3-acre site. Under the purchase agreement, the Company acquired the site and building, including parking. Also
+on March 31, 2016, the Company executed a lease agreement for the entire facility with The Surgical Institute of Michigan, LLC
+under a triple-net master lease agreement that expires in 2026, subject to two successive ten-year renewal options for the tenant
+on the same terms as the initial lease, except that the rental rate will be subject to adjustment upon each renewal based on then-prevailing
+market rental rates. The purchase agreement contains customary covenants, representations and warranties. Commensurate with the
+execution of its lease with the Company, The Surgical Institute of Michigan, LLC terminated its lease agreement with Cherry Hill
+that was in place at the time of the sale of the facility to the Company. The Company has accounted for this acquisition as a
+business combination in accordance with the provisions of ASC Topic 805,  Business Combinations,  and accordingly
+the transaction has been recorded at fair value with all values allocated to land and building based upon their fair values at
+the date of acquisition. No intangible assets were identified in connection with this acquisition. 
+
+The Westland facility
+acquisition was financed in full using proceeds from the third party Cantor Loan, which is disclosed in Note 4    Notes
+Payable Related to Acquisitions.  
+
+-  12  - 
+
+Plano Facility  
+
+On January 28, 2016,
+the Company closed on an asset purchase agreement with an unrelated party Star Medreal, LLC, a Texas limited liability company,
+to acquire an approximately 24,000 square foot, eight bed acute hospital facility located in Plano, Texas, along with all real
+property and improvements thereto for approximately $17.5 million (approximately $17.7 million including legal and related fees).
+Under the terms of the agreement, the Company was obligated to pay a development fee of $500,000 to Lumin, LLC at closing. The
+property has been leased back via an absolute triple-net lease agreement that expires in 2036. The tenant will be Star Medical
+Center, LLC and Lumin Health, LLC will serve as guarantor. Lumin Health, LLC is an affiliate and management company for Star Medical
+Center, LLC. The tenant has two successive options to renew the lease for ten-year periods on the same terms and conditions as
+the primary non-revocable lease term with the exception of rent, which will be computed at then prevailing fair market value as
+determined by an appraisal process defined in the lease. The terms of the lease also provide for a tenant allowance up to $2.75
+million for a 6,400 square foot expansion to be paid by the Company. 
+
+Also on January 28,
+2016, the Company entered into a Promissory Note and Deed of Trust with East West Bank to borrow a total of $9,223,500. Deferred
+financing costs of $53,280 were incurred and capitalized by the Company in securing this loan. The loan was scheduled to mature
+on January 28, 2021, five years from the closing date. At closing the Company paid the lender a non-refundable deposit of $50,000
+and a non-refundable commitment fee of $46,118. The loan bears interest at a rate per annum equal to the Wall Street Journal Prime
+Rate (as quoted in the  Money Rates  column of The Wall Street Journal (Western Edition), rounded to two decimal places,
+as it may change from time to time, plus 0.50%, but not less than 4.0%. Interest expense of $64,551 was incurred on this note
+for the nine months ended September 30, 2016, prior to its repayment. As discussed in Note 4    Notes Payable Related
+to Acquisitions,  the Company used a portion of the proceeds from another third party loan to repay the $9,223,500 principal
+balance of the note with East West Bank in full as of September 30, 2016. The Company also wrote off the deferred financing costs
+of $53,280 as of September 30, 2016 related to this note. 
+
+Additional funding
+for this transaction was received from ZH USA, LLC during the year ended December 31, 2015 in the amount of $9,369,310 (consisting
+of $9,025,000 funded directly for this transaction and $344,310 that was held in escrow from previous funding from ZH USA, LLC).
+The $9,369,310 was recorded by the Company as unsecured Convertible Debentures due to related party on demand, bearing interest
+at eight percent per annum. ZH USA, LLC may elect to convert all or a portion of the outstanding principal amount of the Convertible
+Debenture into shares of the Company s common stock in an amount equal to the principal amount of the Convertible Debenture,
+together with accrued but unpaid interest, divided by $12.748. See Note 6    Related Party Transactions  for
+details regarding the conversion to common stock or pay-off of the Convertible Debenture balance as of September 30, 2016. 
+
+A rollforward of the
+gross investment in land, building and improvements as of September 30, 2016, resulting from the six acquisitions completed during
+the nine-month period, is as follows: 
+
+Depreciation expense
+was $585,449 and $1,528,281 for the three and nine months ended September 30, 2016, respectively. Depreciation expense was $153,148
+and $446,491 for the three and nine months ended September 30, 2015, respectively.  
+
+As of December 31, 2015, the Company
+had acquired the following facilities:   
+
+Tennessee Facilities  
+
+On December 31, 2015,
+the Company acquired a six building, 52,266 square foot medical clinic portfolio for a purchase price of $20.0 million (approximately
+$20.2 million including legal and related fees). Five of the facilities are located in Tennessee and one facility is located in
+Mississippi. The portfolio will be leased back through the Gastroenterology Center of the Midsouth, P.C. via an absolute triple-net
+lease agreement that expires in 2027. The tenant has two successive options to renew the lease for five-year periods on the same
+terms and conditions as the primary non-revocable lease term with the exception of rent, which will be computed at the same rate
+of escalation used during the fixed lease term. Base rent increases by 1.75% each lease year commencing on January 1, 2018. The
+property is owned in fee simple. Funding for the transaction and all related costs was received in the form of a convertible debenture
+( Convertible Debenture ) the Company issued to ZH USA, LLC in the total amount of $20,900,000. Refer to Note 6  
+ Related Party Transactions  for additional details regarding the funding of this transaction. 
+
+-  13  - 
+
+West Mifflin Facility  
+
+On September 25, 2015,
+the Company acquired a combined approximately 27,193 square foot surgery center and medical office building located in West Mifflin,
+Pennsylvania and the adjacent parking lot for approximately $11.35 million (approximately $11.6 million including legal and related
+fees). The facilities are operated by Associates in Ophthalmology, LTD and Associates Surgery Centers, LLC, respectively, and
+leased back to those entities by the Company via two separate lease agreements that expire in 2030. Each lease has two successive
+options by the tenants to renew for five-year periods. Base rent increases by 2% each lease year commencing on October 1, 2018.
+The property is owned in fee simple. In connection with the acquisition of the facilities, the Company borrowed $7,377,500 from
+Capital One and funded the remainder of the purchase price with the proceeds from a Convertible Debenture it issued to ZH USA,
+LLC in the total amount of $4,545,838. Refer to Note 4    Notes Payable Related to Acquisitions  and Note 6
+   Related Party Transactions  for additional details regarding the funding of this transaction. 
+
+Asheville Facility  
+
+On September 19, 2014,
+the Company acquired an approximately 8,840 square foot medical office building known as the Orthopedic Surgery Center, located
+in Asheville, North Carolina for approximately $2.5 million. The Asheville facility is subject to an operating lease which expires
+in 2017, with lease options to renew up to five years. The property is owned in fee simple. In connection with the acquisition
+of the Asheville facility, the Company borrowed $1.7 million from the Bank of North Carolina and funded the remainder of the purchase
+price with the proceeds from a Convertible Debenture it issued to ZH USA, LLC and with the Company s existing cash. Refer
+to Note 4    Notes Payable Related to Acquisitions  for additional details regarding the funding of this transaction. 
+
+Omaha Facility  
+
+On June 5, 2014, the
+Company completed the acquisition of a 56-bed long term acute care hospital located at 1870 S. 75 th  Street, Omaha,
+Nebraska for approximately $21.7 million (approximately $21.9 million including legal and related fees). The Omaha facility is
+operated by Select Specialty Hospital   Omaha, Inc. pursuant to a sublease which expires in 2023, with sub lessee options
+to renew up to 60 years. The real property where the Omaha facility and other improvements are located is subject to a land lease
+with Catholic Health Initiatives, a Colorado nonprofit corporation (the  land lease ). The land lease initially was
+to expire in 2023 with sub lessee options to renew up to 60 years. However, as of September 30, 2016, the Company exercised two
+five-year lease renewal options and therefore the land lease currently expires in 2033, subject to future renewal options by the
+Company. In connection with the acquisition of the Omaha facility in June 2014, the Company borrowed $15.06 million from Capital
+One and funded the remainder of the purchase price with funds from ZH USA, LLC. Refer to Note 4    Notes Payable Related
+to Acquisitions  for details regarding the payment in full of the outstanding borrowings from Capital One using the proceeds
+received from the initial public offering. 
+
+The Omaha facility s
+obligations under the sublease with Select Specialty Hospital   Omaha, Inc. are fully guaranteed by its parent company,
+Select Medical Corporation (NYSE: SEM). Information about Select Medical Corporation, including its audited historical financial
+statements, can be obtained from its Annual Report on Form 10-K and other reports and filings available on its website at http://www.selectmedical.com/
+or on the SEC website at www.sec.gov. 
+
+Note 4   Notes Payable Related
+to Acquisitions  
+
+Summary of Notes Payable Related to
+Acquisitions, Net of Debt Discount  
+
+Effective for the
+fiscal year ended December 31, 2015, the Company early adopted the provisions of Accounting Standards Update 2015-03 entitled
+ Simplifying the Presentation of Debt Issuance Costs  ( ASU 2015-03 ), which requires retrospective application.
+The adoption of ASU 2015-03 represents a change in accounting principle. A detail of the impact of adopting ASU 2015-03 on the
+Company s Notes Payable Related to Acquisitions, net of unamortized discount balances, as of September 30, 2016 and December
+31, 2015, is as follows: 
+
+The Company incurred
+financing costs related to the procurement of the Cantor, Plano, West Mifflin, Asheville, and Omaha loans that are treated as
+debt discounts. 
+
+A rollforward of the
+unamortized debt discount balance as of September 30, 2016 is as follows: 
+
+(a)  As disclosed in Note 3  
+                                          Property Portfolio,  the Plano loan was refinanced with proceeds from the
+                                         Cantor Loan and accordingly the Plano related deferred financing costs were written off
+                                         during the nine months ended September 30, 2016 into the  Interest Expense 
+                                         line item in the accompanying Consolidated Statements of Operations.   
+
+-  14  - 
+
+Amortization expense
+of $62,604 and $215,449 for the three and nine months ended September 30, 2016, respectively, and $30,257 and $89,850 for the
+three and nine months ended September 30, 2015, respectively, is included in the  Interest Expense  line item in the
+accompanying Consolidated Statements of Operations. 
+
+Cantor Loan  
+
+On March 31, 2016,
+through certain of the Company s subsidiaries, the Company entered into a $32,097,400 portfolio commercial mortgage-backed
+securities loan (the  Cantor Loan ) with Cantor Commercial Real Estate Lending, LP ( CCRE ). The subsidiaries
+are GMR Melbourne, LLC, GMR Westland, LLC, GMR Memphis, LLC, and GMR Plano, LLC ( GMR Loan Subsidiaries ). The Cantor
+Loan has cross-default and cross-collateral terms. The Company used the proceeds of the Cantor Loan to acquire the Marina Towers
+(Melbourne, FL) and the Surgical Institute of Michigan (Westland, MI) properties and to refinance the Star Medical (Plano, TX)
+assets by paying off the existing principal amount of the loan with East West bank in the amount of $9,223,500, and the Company
+granted a security interest in the Gastro One (Memphis, TN) assets. 
+
+The Cantor Loan has
+a maturity date of April 6, 2026 and accrues annual interest at 5.22%. The first five years of the term require interest only
+payments and after that payments will include interest and principal, amortized over a 30-year schedule. Prepayment can only occur
+within four months prior to the maturity date, except that after the earlier of (a) 2 years after the loan is placed in a securitized
+mortgage pool, or (ii) May 6, 2020, the Cantor Loan can be fully and partially defeased upon payment of amounts due under the
+Cantor Loan and payment of a defeasance amount that is sufficient to purchase U.S. government securities equal to the scheduled
+payments of principal, interest, fees, and any other amounts due related to a full or partial defeasance under the Cantor Loan. 
+
+The Company is securing
+the payment of the Cantor Loan with the assets, including property, facilities, and rents, held by the GMR Loan Subsidiaries and
+has agreed to guarantee certain customary recourse obligations, including findings of fraud, gross negligence, or breach of environmental
+covenants by the GMR Loan Subsidiaries. The GMR Loan Subsidiaries will be required to maintain a monthly debt service coverage
+ratio of 1.35:1.00 for all of the collateral properties in the aggregate. 
+
+No principal payments
+were made for the nine months ended September 30, 2016. The note balance as of September 30, 2016 was $32,097,400. Interest expense
+incurred on this note was $428,179 and $851,704 for the three and nine months ended September 30, 2016. No interest expense was
+incurred on this note for the three and nine months ended September 30, 2015. 
+
+As of September 30,
+2016, scheduled principal payments due for each fiscal year ended December 31 are listed below as follows: 
+
+West Mifflin Note Payable  
+
+In order to finance
+a portion of the purchase price for the West Mifflin facility, on September 25, 2015 the Company entered into a Term Loan and
+Security Agreement with Capital One to borrow $7,377,500. The note bears interest at 3.72% per annum and all unpaid interest and
+principal is due on September 25, 2020. Interest is paid in arrears and interest payments begin on November 1, 2015, and on the
+first day of each calendar month thereafter. Principal payments begin on November 1, 2018 and on the first day of each calendar
+month thereafter based on an amortization schedule with the principal balance due on the maturity date. The note may not be prepaid
+in whole or in part prior to September 25, 2017. Thereafter, the Company, at its option, may prepay the note at any time, in whole
+(but not in part) on at least thirty calendar days but not more than sixty calendar days advance written notice. The note has
+an early termination fee of two percent if prepaid prior to September 25, 2018. No principal payments were made for the nine months
+ended September 30, 2016 and the twelve months ended December 31, 2015. The note balance as of September 30, 2016 and December
+31, 2015 was $7,377,500. Interest expense incurred on this note was $70,136 and $209,645 for the three and nine months ended September
+30, 2016, respectively. No interest expense was incurred on this note for the three and nine months ended September 30, 2015. 
+
+-  15  - 
+
+As of September 30,
+2016, scheduled principal payments due for each fiscal year ended December 31 are listed below as follows: 
+
+Asheville Note Payable   
+
+In order to finance
+a portion of the purchase price of the Asheville facility, on September 15, 2014 the Company entered into a Promissory Note with
+the Bank of North Carolina to borrow $1,700,000. The note bears interest on the outstanding principal balance at the simple, fixed
+interest rate of 4.75% per annum and all unpaid principal and interest is due on February 15, 2017. Commencing on October 15,
+2014, the Company made on the 15 th  of each calendar month until and including March 15, 2015, monthly payments consisting
+of interest only. Thereafter, commencing on April 15, 2015, the outstanding principal and accrued interest is payable in monthly
+amortizing payments on the 15 th  day of each calendar month, until and including January 15, 2017. This note may be
+prepaid in part or in full at any time and no prepayment penalty will be assessed with respect to any amounts prepaid. The Company
+made principal payments in the amount of $39,204 and $37,899 for the nine months ended September 30, 2016 and the twelve months
+ended December 31, 2015, respectively. The note balance as of September 30, 2016 and December 31, 2015 was $1,622,897 and $1,662,101,
+respectively. Interest expense on this note was $19,799 and $59,667 for the three and nine months ended September 30, 2016, respectively,
+and $20,433 and $61,101 for the three and nine months ended September 30, 2015, respectively. 
+
+As of September 30,
+2016, scheduled principal payments due for each fiscal year ended December 31 are listed below as follows: 
+
+Omaha Note Payable  
+
+In order to finance
+a portion of the purchase price for the Omaha facility, on June 5, 2014 the Company entered into a Term Loan and Security Agreement
+with Capital One, National Association to borrow $15,060,000. The loan bears interest at 4.91% per annum and all unpaid interest
+and principal was due on June 5, 2017 (the  Maturity Date ). Interest was paid in arrears and payments began on August
+1, 2014, and were due on the first day of each calendar month thereafter. Principal payments began on January 1, 2015 and were
+due on the first day of each calendar month thereafter based on an amortization schedule with the principal balance due on the
+Maturity Date. This note was paid in full on July 11, 2016 using the proceeds from the initial public offering. In accordance
+with the terms of the note the prepayment resulted in the Company being required to pay an early termination fee in the amount
+of $301,200 because the note was paid in full prior to its Maturity Date. This fee was also paid on July 11, 2016 and is recorded
+as  Interest Expense  in the accompanying Consolidated Statements of Operations for the three and nine months ended
+September 30, 2016. The Company made principal payments in the amount of $14,748,464 and $311,536 for the nine months ended September
+30, 2016 and the twelve months ended December 31, 2015, respectively. The note balance as of September 30, 2016 and December 31,
+2015 was zero and $14,748,464, respectively. Interest expense on this note was $121,247 and $487,714 for the three and nine months
+ended September 30, 2016, respectively, (excluding the $301,200 early termination fee disclosed above), and $186,702 and $495,275
+for the three and nine months ended September 30, 2015, respectively. 
+
+-  16  - 
+
+Note 5   Stockholders 
+Equity  
+
+Preferred Stock  
+
+The Company s charter authorizes
+the issuance of 10,000,000 shares of preferred stock, par value $0.001 per share. As of September 30, 2016 and December 31, 2015,
+no shares of preferred stock were issued and outstanding. 
+
+Common Stock  
+
+The Company has 500,000,000
+of authorized shares of common stock, $0.001 par value. As of September 30, 2016 and December 31, 2015, there were 17,605,675
+and 250,000 outstanding shares of common stock, respectively. 
+
+On March 2, 2016,
+ZH USA, LLC converted $15,000,000 of principal under the Convertible Debenture into 1,176,656 shares of the Company s then
+unregistered common stock based on a conversion rate of $12.748 per share.  
+
+On July 1, 2016, the
+Company closed its initial public offering and issued 13,043,479 shares of its common stock at a price of $10.00 per share resulting
+in gross proceeds of $130,434,790. After deducting amounts that the Company paid in costs that were directly attributable to the
+offering, underwriting discounts, advisory fees, and commissions, for a total of $11,272,068, the Company received net proceeds
+from the offering of $119,162,722. Additionally, on July 11, 2016 the underwriters exercised their over-allotment option in full,
+resulting in the issuance by the Company of an additional 1,956,521 shares of the Company s common stock at a price of $10.00
+per share for gross proceeds of $19,565,210. After deducting underwriting discounts, advisory fees, and commissions of $1,369,565,
+the Company received net proceeds from the over-allotment option shares of $18,195,645. Transaction costs incurred in connection
+with the offering were approximately $1,681,259. Total shares issued by the Company in the initial public offering, including
+over-allotment option shares, were 15,000,000 and the total net proceeds received were $137,358,367. 
+
+On July 1, 2016, ZH
+USA, LLC converted $15,030,134 of the principal under the Convertible Debenture into 1,179,019 shares of the Company s registered
+common stock based on a conversion rate of $12.748 per share. 
+
+In order to help the
+Company qualify as a REIT, among other purposes, the Company s charter, subject to certain exceptions, restricts the number
+of shares of the Company s common stock that a person may beneficially or constructively own. The Company s charter
+provides that, subject to certain exceptions, no person may beneficially or constructively own more than 9.8%, in value or in
+number of shares, whichever is more restrictive, of the outstanding shares of any class or series of the Company s capital
+stock. On June 27, 2016, the Company s board of directors approved a waiver of the 9.8% ownership limit in our charter allowing
+ZH USA, LLC to own up to 16.9% of the Company s outstanding shares of common stock. 
+
+Pursuant to a previously
+declared dividend approved by the Board of Directors of the Company and in compliance with applicable provisions of the Maryland
+General Corporation Law, the Company has paid a monthly dividend of $0.0852 per share each month during the four-month period
+from January 2016 through April 2016. During the nine months ended September 30, 2016 the Company paid total dividends to holders
+of its common stock in the amount of $285,703. On September 14, 2016, the Company announced the declaration of a cash dividend
+of $0.20 per share of common stock to stockholders of record as of September 27, 2016 and to the holders of the LTIP units that
+were granted on July 1, 2016. This dividend, in the amount of $3,592,786, was accrued as of September 30, 2016 and paid on October
+11, 2016. During the nine months ended September 30, 2015, the Company paid total dividends to holders of its common stock in
+the amount of $170,400. Additionally, a dividend was declared on September 17, 2015 and paid in October 2015. The amount of that
+dividend was $21,300. 
+
+Note 6   Related Party Transactions  
+
+Management
+Agreement  
+
+Initial
+Management Agreement   
+
+On November 10, 2014,
+the Company entered into a management agreement, with an effective date of April 1, 2014, with Inter-American Management LLC (the
+ Advisor ), a Delaware limited liability company and an affiliate of the Company. ZH International Holdings Limited
+(formerly known as Heng Fai Enterprises, Ltd.), a Hong Kong limited company that is engaged in real estate development, investments,
+management and sales, hospitality management and investments and REIT management, is the 85% owner of the Advisor. ZH International
+Holdings Limited owns ZH USA, LLC, a related party and the Company s former (pre initial public offering) majority stockholder.
+Under the terms of this initial management agreement, the Advisor is responsible for designing and implementing the Company s
+business strategy and administering its business activities and day-to-day operations. For performing these services, the Company
+was obligated under the initial management agreement to pay the Advisor a base management fee equal to the greater of (a) 2.0%
+per annum of the Company s net asset value (the value of the Company s assets less the value of the Company s
+liabilities), or (b) $30,000 per calendar month. Additionally, in accordance with the terms of the initial management agreement,
+during the nine months ended September 30, 2016, the Company expensed $754,000 that was paid to the Advisor for the acquisitions
+of the Plano, Melbourne and Westland Facilities, respectively. For the three and nine months ended September 30, 2015, the Company
+incurred $227,000 of acquisition expenses related to the West Mifflin facility it acquired during the three months ended September
+30, 2015. 
+
+-  17  - 
+
+Amended Management Agreement   
+
+Upon completion of
+the Company s initial public offering on July 1, 2016, the Company and the Advisor entered into an amended and restated
+management agreement. Terms of the amended and restated management agreement are as follows: 
+
+Term and Termination  
+
+The initial term of
+the amended and restated management agreement will expire on the third anniversary of the closing date of the initial public offering
+and will automatically renew for an unlimited number of successive one-year periods thereafter, unless the agreement is not renewed
+or is terminated in accordance with its terms. If the Company s board of directors decides to terminate or not renew the
+amended and restated management agreement, the Company will generally be required to pay the Advisor a termination fee equal to
+three times the sum of the average annual base management fee and the average annual incentive compensation with respect to the
+previous eight fiscal quarters ending on the last day of the fiscal quarter prior to termination. Subsequent to the initial term,
+the Company may terminate the management agreement only under certain circumstances. 
+
+Base Management Fee  
+
+The Company will pay
+its advisor a base management fee in an amount equal to: 1.5% of its stockholders  equity per annum, calculated quarterly
+for the most recently completed fiscal quarter and payable in quarterly installments in arrears. 
+
+For purposes of calculating
+the base management fee, the Company s stockholders  equity means: (a) the sum of (1) the Company stockholders 
+equity as of March 31, 2016, (2) the aggregate amount of the conversion price (including interest) for the conversion of the Company s
+outstanding convertible debentures into common stock and OP units upon completion of the initial public offering, and (3) the
+net proceeds from (or equity value assigned to) all issuances of equity and equity equivalent securities (including common stock,
+common stock equivalents, preferred stock, long-term incentive plan ( LTIP ) units and OP units issued by the Company
+or the Operating Partnership) in the initial public offering, or in any subsequent offering (allocated on a pro rata daily basis
+for such issuances during the fiscal quarter of any such issuance), less (b) any amount that the Company pays to repurchase shares
+of its common stock or equity securities of the OP. Stockholders  equity also excludes (1) any unrealized gains and losses
+and other non-cash items (including depreciation and amortization) that have impacted stockholders  equity as reported in
+the Company s financial statements prepared in accordance with GAAP, and (2) one-time events pursuant to changes in GAAP,
+and certain non-cash items not otherwise described above, in each case after discussions between the Advisor and its independent
+directors and approval by a majority of the Company s independent directors. As a result, the Company s stockholders 
+equity, for purposes of calculating the base management fee, could be greater or less than the amount of stockholders  equity
+shown on its financial statements. 
+
+The base management
+fee of the Advisor shall be calculated within 30 days after the end of each quarter and such calculation shall be promptly delivered
+to the Company. The Company is obligated to pay the quarterly installment of the base management fee calculated for that quarter
+in cash within five business days after delivery to the Company of the written statement of the Advisor setting forth the computation
+of the base management fee for such quarter. 
+
+Incentive Compensation Fee  
+
+The Company will pay
+its advisor an incentive fee with respect to each calendar quarter (or part thereof that the management agreement is in effect)
+in arrears. The incentive fee will be an amount, not less than zero, equal to the difference between (1) the product of (x) 20%
+and (y) the difference between (i) the Company s AFFO (as defined below) for the previous 12-month period, and (ii) the
+product of (A) the weighted average of the issue price of equity securities issued in the initial public offering and in future
+offerings and transactions, multiplied by the weighted average number of all shares of common stock outstanding on a fully-diluted
+basis (including any restricted stock units, any restricted shares of common stock, OP units, LTIP units, and shares of common
+stock underlying awards granted under the 2016 Equity Incentive Plan or any future plan in the previous 12-month period, and (B)
+8%, and (2) the sum of any incentive fee paid to the Advisor with respect to the first three calendar quarters of such previous
+12-month period; provided, however, that no incentive fee is payable with respect to any calendar quarter unless AFFO is greater
+than zero for the four most recently completed calendar quarters, or the number of completed calendar quarters since the closing
+date of the offering, whichever is less. For purposes of calculating the incentive fee during the first 12 months after completion
+of the offering, AFFO will be determined by annualizing the applicable period following completion of the offering. 
+
+AFFO is calculated
+by adjusting the Company s funds from operations, or FFO, by adding back acquisition and disposition costs, stock based
+compensation expenses, amortization of deferred financing costs and any other non-recurring or non-cash expenses, which are costs
+that do not relate to the operating performance of the Company s properties, and subtracting loss on extinguishment of debt,
+straight line rent adjustment, recurring tenant improvements, recurring leasing commissions and recurring capital expenditures. 
+
+-  18  - 
+
+Management Fee Expense Incurred
+and Accrued Management Fees    
+
+For the three and
+nine months ended September 30, 2016, management fees of $627,147 and $807,147, respectively were incurred and expensed by the
+Company. For the three and nine months ended September 30, 2015, management fees of $90,000 and $270,000, respectively were incurred
+and expensed by the Company. During the nine months ended September 30, 2016 the Company repaid $510,000 of the cumulative outstanding
+accrued management fee balance. As of September 30, 2016 and December 31, 2015, accrued management fees of $927,147 and $630,000,
+respectively, were due to the Advisor, and remain unpaid. 
+
+Allocated General and Administrative
+Expenses  
+
+In the future, the
+Company may receive an allocation of general and administrative expenses from the Advisor that are either clearly applicable to
+or were reasonably allocated to the operations of the properties. There were no allocated general and administrative expenses
+from the Advisor for the three months ended September 30, 2016 or the twelve months ended December 31, 2015. 
+
+Convertible Debenture, due to Related
+Party  
+
+The Company has received
+funds from its related party ZH USA, LLC in the form of convertible interest bearing notes (8% per annum, payable in arrears)
+due on demand unsecured debt, which are classified as  Convertible debenture, due to related party  on the accompanying
+Consolidated Balance Sheets. The Company may prepay the note at any time, in whole or in part. Additionally, ZH USA, LLC may elect
+to convert all or a portion of the outstanding principal amount of the note into shares of common stock in an amount equal to
+the principal amount of the note, together with accrued but unpaid interest, divided by $12.748. 
+
+On March 2, 2016,
+ZH USA, LLC converted $15,000,000 of principal under the Convertible Debenture into 1,176,656 shares of the Company s then
+unregistered common stock based on a conversion rate of $12.748 per share.  
+
+On June 15, 2016,
+in anticipation of its initial public offering, the Company entered into a Pay-Off Letter and Conversion Agreement (the  Pay-Off
+Letter and Conversion Agreement ) with ZH USA, LLC with regards to the Convertible Debentures loaned to the Company. Under
+the terms of the Pay-Off Letter and Conversion Agreement, upon the closing date of the initial public offering on July 1, 2016,
+ZH USA, LLC converted $15,030,134 of the principal under the Convertible Debenture into 1,179,019 shares of the Company s
+registered common stock based on a conversion rate of $12.748 per share. Additionally, in accordance with the Pay-Off Letter and
+Conversion Agreement, on July 8, 2016 the Company paid off the remaining principal amount of $10,000,000 outstanding under the
+Convertible Debentures. 
+
+A rollforward of the
+funding from ZH USA, LLC classified as convertible debenture, due to related party as of September 30, 2016 is as follows:  
+
+On July 8, 2016, also
+in accordance with the Pay-Off Letter and Conversion Agreement, the Company paid all accrued interest owed and outstanding on
+the Convertible Debentures in the amount of $1,716,811. Accrued interest was included in the line item  Accrued Expenses 
+in the accompanying Consolidated Balance Sheets. 
+
+Interest expense on
+the Convertible Debentures was $43,889 and $1,242,899 for the three and nine months ended September 30, 2016, respectively, and
+$126,545 and $342,599 for the three and nine months ended September 30, 2015, respectively. 
+
+Prior to the conversions
+and the pay-off of the remaining outstanding principal balance of the Convertible Debentures discussed above, the Company analyzed
+the conversion option in the convertible debenture for derivative accounting treatment under ASC Topic 815,  Derivatives
+and Hedging,  and determined that the instrument does not qualify for derivative accounting. The Company performed an analysis
+in accordance with ASC Topic 470-20,  Debt with Conversion and Other Options,  to determine if the conversion option
+was subject to a beneficial conversion feature and determined that the instrument does not have a beneficial conversion feature.
+
+-  19  - 
+
+Notes Payable
+to Related Parties  
+
+During the nine months
+ended September 30, 2016, the Company received total funds in the amount of $450,000 in the form of an interest bearing note payable
+from a related party. The note bears interest at 4% per annum and is due on demand. Interest expense incurred on this note was
+$4,150 and $10,284, for the three and nine months ended September 30, 2016, respectively. This note was paid in full with a payment
+of $450,000 during the nine months ended September 30, 2016. 
+
+During the year ended
+December 31, 2015, the Company received funds in the amount of $421,000 from ZH USA, LLC in the form of a non-interest bearing
+due on demand note payable. No funds were received from ZH USA, LLC during the nine months ended September 30, 2016. 
+
+The total note payable
+balance from these related party loans was $421,000 as of September 30, 2016 and December 31, 2015, respectively, and are classified
+as  Notes payable to related parties  on the accompanying Consolidated Balance Sheets.  
+
+ZH USA, LLC Loan   
+
+On June 7, 2016, the Company received an
+interest free loan from ZH USA, LLC in the principal amount of $1.5 million, which was repaid in full on July 8, 2016, using a
+portion of the proceeds from the initial public offering. 
+
+Due to Related
+Parties, Net  
+
+A
+rollforward of the due (to) from related parties balance, net as of September 30, 2016 is as follows: 
+
+(a)  Net amount accrued of $297,147 consists of $807,147 of management
+                                         fee expenses incurred during the nine-month period net of $510,000 of accrued management
+                                         fees that were repaid to the Advisor. This is a cash flow operating activity.   
+
+(c)  Represent funds of $39,000 
+                                          the Company loaned to a related party for its general use. This is a cash flow
+                                         investing activity.   
+
+Note 7 - 2016 Equity Incentive Plan
+
+LTIP Units and Related Accounting Impact  
+
+Prior to the completion
+of the initial public offering on July 1, 2016, the Company s board of directors approved and adopted the 2016 Equity Incentive
+Plan. The purpose of the 2016 Equity Incentive Plan is to attract and retain qualified persons upon whom, in large measure, our
+sustained progress, growth and profitability depend, to motivate the participants to achieve long-term company goals and to more
+closely align the participants  interests with those of the Company s other stockholders by providing them with a
+proprietary interest in the Company s growth and performance. The Company s executive officers, employees, employees
+of our advisor and its affiliates, consultants and non-employee directors are eligible to participate in the 2016 Equity Incentive
+Plan. Under the 2016 Equity Incentive Plan, a number of shares of the Company s common stock equal to 7 percent of the outstanding
+shares of our common stock on a fully diluted basis upon the completion of the initial public offering (including 7 percent of
+the shares sold pursuant to the underwriters  option), are available for issuance pursuant to awards under the 2016 Equity
+Incentive Plan, less the shares underlying the LTIP grants awarded upon completion of the initial public offering. 
+
+Specifically, an aggregate
+of 358,250 LTIP units were granted upon completion of the offering on July 1, 2016 pursuant to the 2016 Equity Incentive Plan.
+In addition, an aggregate of 874,147 additional shares are available for future issuance under the Company s 2016 Equity
+Incentive Plan, or 7 percent of the fully diluted outstanding shares of the Company s common stock upon completion of the
+initial public offering, including the underwriters  over-allotment option, which was exercised in full on July 11, 2016. 
+
+-  20  - 
+
+Of the 358,250 LTIP
+units that were granted, 60,400 of the units vested immediately upon completion of the Company s initial public offering
+on July 1, 2016 (the  IPO Units ). The remaining 297,850 LTIP units (the  Service LTIPs ) consist of 284,100
+units granted to employees of the Advisor and its affiliates deemed to be non-employees in accordance with ASC Topic 505 and vest
+over a period of 42 to 54 months as well as 13,750 units granted to the Company s independent directors that were deemed
+to be employees in accordance with ASC Topic 718 and vest over a period of 12 months. The Service LTIPs vest and are expensed
+ratably as service is performed over the periods described above using the straight-line method, subject to certain terms and
+conditions. 
+
+Total compensation
+expense of $830,827 related to all of the Company s LTIP units was recorded for the three and nine months ended September
+30, 2016 and was classified as  General and Administrative  expense in the Company s accompanying Consolidated
+Statements of Operations. Total compensation expense recognized is comprised of a charge of $604,000 on the IPO Units, calculated
+based on a share price of $10.00 per unit, the closing share price for the Company s common stock at the closing date of
+the initial public offering on July 1, 2016 and compensation expense of $226,827 incurred on of 23,056 Service LTIP using the
+straight-line method. The compensation expense incurred related to the Service LTIPs granted to independent directors that were
+deemed to be employees was based on a price of $10.00 per unit, the closing share price for the Company s common stock on
+the closing date of the initial public offering on July 1, 2016. The compensation expense incurred related to the Service LTIPs
+granted to employees of the Advisor and its affiliates deemed to be non-employees was based on a share price of $9.76 per unit,
+the closing share price for the Company s common stock on September 30, 2016. The Service LTIPs granted to non-employees
+are revalued each period at their then-current fair value at the end of that period, with a final measurement at the date of vesting. 
+
+There was a total
+of 274,794 LTIP units that no compensation expense has been incurred on as of September 30, 2016. Total unamortized compensation
+expense related to these units of approximately $2.7 million is expected to be recognized subsequent to September 30, 2016 over
+a weighted average remaining period of 3.30 years. All LTIP units provide for the payment of dividends at the same time dividends
+are paid to holders of the Company s common stock. 
+
+Shares subject to
+awards under the 2016 Equity Incentive Plan that are forfeited, cancelled, lapsed, settled in cash or otherwise expired (excluding
+shares withheld to satisfy exercise prices or tax withholding obligations) will again be available for awards under the 2016 Equity
+Incentive Plan. The 2016 Equity Incentive Plan is administered by the Company s compensation committee, which will interpret
+the 2016 Equity Incentive Plan and have broad discretion to select the eligible persons to whom awards will be granted, as well
+as the type, size and terms and conditions of each award, including the exercise price of options, the number of shares subject
+to awards and the expiration date of, and the vesting schedule or other restrictions (including, without limitation, restrictive
+covenants) applicable to, awards. 
+
+The 2016
+Equity Incentive Plan allows the Company to grant the following types of awards: 
+
+options,
+                                         including non-qualified options and incentive stock options;    
+
+stock
+                                         appreciation rights, or SARs;    
+
+stock
+                                         awards, including restricted stock and unrestricted stock;    
+
+restricted
+                                         stock units;    
+
+other
+                                         equity-based awards, including LTIP units;    
+
+incentive
+                                         awards;    
+
+substitute
+                                         awards; and performance awards.    
+
+Operating Partnership and LTIP Units  
+
+As disclosed on March
+14, 2016, the Company entered into the Agreement of Limited Partnership of Global Medical REIT, L.P. ( Partnership Agreement ),
+pursuant to which the Company, through a wholly-owned subsidiary, serves as the sole general partner of the Operating Partnership
+and may not be removed as general partner by the limited partners with or without cause. 
+
+The Partnership Agreement,
+as amended, provides, among other things, that the Operating Partnership initially has two classes of limited partnership interests,
+which are Units of limited partnership interest ( OP Units ), and the Operating Partnership s LTIP units. In
+calculating the percentage interests of the partners in the Operating Partnership, LTIP units are treated as OP Units. In general,
+LTIP units will receive the same per-unit distributions as the OP Units. Initially, each LTIP unit will have a capital account
+balance of zero and, therefore, will not have full parity with OP Units with respect to any liquidating distributions. However,
+the Partnership Agreement, as amended provides that  book gain,  or economic appreciation, in the Company s
+assets realized by the Operating Partnership as a result of the actual sale of all or substantially all of the Operating Partnership s
+assets, or the revaluation of the Operating Partnership s assets as provided by applicable U.S. Department of Treasury regulations,
+will be allocated first to the holders of LTIP units until their capital account per unit is equal to the average capital account
+per-unit of the Company s OP Unit holders in the Operating Partnership. We expect that the Operating Partnership will issue
+OP Units to limited partners, and the Company, in exchange for capital contributions of cash or property, and will issue LTIP
+units pursuant to the Company s 2016 Equity Incentive Plan to persons who provide services to the Company, including the
+Company s officers, directors and employees. 
+
+-  21  - 
+
+Pursuant to the Partnership
+Agreement, as amended, any holders of OP Units, other than the Company or its subsidiaries, will receive redemption rights which,
+subject to certain restrictions and limitations, will enable them to cause the Operating Partnership to redeem their OP Units
+in exchange for cash or, at the Company s option, shares of the Company s common stock, on a one-for-one basis. The
+Company has agreed to file, not earlier than one year after the closing of the IPO, one or more registration statements registering
+the issuance or resale of shares of its common stock issuable upon redemption of the OP Units, including those issued upon conversion
+of LTIP units to the Manager and the Former Advisor. 
+
+LTIP units
+are convertible into OP Units on a one for one basis, subject to certain conditions as set forth in the LTIP Unit Vesting Agreement
+entered into by each LTIP unit holder. First, the LTIP units must have vested. The existing LTIP Unit Vesting Agreements generally
+provide for a five-year vesting period. Second, the number of vested LTIP units that may be converted into OP Units is limited
+to the proportion of the  capital account equivalency  that the LTIP units have achieved with the OP Units. The number
+of vested LTIP units that may be converted generally is equal to the capital account balance of such LTIP units divided by the
+capital account balance per unit of the OP units held by the General Partner. LTIP unit holders initially receive a capital account
+with a zero balance and receive priority allocations of certain gains to increase their capital account balances until they equal
+the capital account balances of OP Unit holders. Upon capital account equalization and vesting, LTIP units are convertible into
+an equal number of OP Units at the holder s election with notice to the Operating Partnership. The Operating Partnership,
+at any time at the election of the General Partner, may also force a conversion of vested LTIP units into OP Units, subject to
+the capital account equivalency requirement described in this paragraph. 
+
+LTIP unit
+holders have the same voting rights as holders of OP Units, with the LTIP units voting as a single class with the OP Units and
+having one vote per LTIP unit. With certain exceptions, a majority vote of the LTIP unit holders is required to amend the provisions
+of the Partnership Agreement related to LTIP units. 
+
+Note 8   Rental Revenue 
+
+The aggregate annual
+minimum cash to be received by the Company on the noncancelable operating leases related to its portfolio of facilities in effect
+as of September 30, 2016, are as follows for the subsequent years ended December 31; as listed below: 
+
+For the three months
+ended September 30, 2016, the Omaha facility constituted approximately 22% of the Company s rental revenue, the Tennessee
+facilities constituted approximately 18% of rental revenue, the Plano facility constituted approximately 17% of rental revenue,
+the West Mifflin facility constituted approximately 11% of rental revenue, the Melbourne facility constituted approximately 15%
+of rental revenue, and the Reading facility constituted approximately 8% of rental revenue. The Asheville and Westland facilities
+constituted approximately 3% and 6% of rental revenue, respectively. Based on their dates of acquisition the East Orange and Watertown
+facilities constituted less than one percent of rental revenue. 
+
+For the nine months
+ended September 30, 2016, the Omaha facility constituted approximately 26% of the Company s rental revenue, the Tennessee
+facilities constituted approximately 21% of rental revenue, the Plano facility constituted approximately 17% of rental revenue,
+the West Mifflin facility constituted approximately 13% of rental revenue, the Melbourne facility constituted approximately 12%
+of rental revenue, and the Reading facility constituted approximately 3% of rental revenue. The Asheville and Westland facilities
+each constituted approximately 4% of rental revenue. Based on their dates of acquisition the East Orange and Watertown facilities
+constituted approximately zero percent of rental revenue. 
+
+For the three months
+ended September 30, 2015, the Omaha facility constituted approximately 85% of the Company s rental revenue, the Asheville
+facility constituted approximately 12% of rental revenue, and the West Mifflin facility constituted approximately 3% of rental
+revenue. 
+
+For the nine months
+ended September 30, 2015, the Omaha facility constituted approximately 87% of the Company s rental revenue, the Asheville
+facility constituted approximately 12% of rental revenue, and the West Mifflin facility constituted approximately 1% of rental
+revenue. 
+
+Note 9   Omaha Land Lease Rent Expense  
+
+The Omaha facility
+land lease initially was to expire in 2023 with options to renew up to 60 years. However, the Company exercised two five-year
+lease renewal options and therefore the land lease currently expires in 2033, subject to future renewal options by the Company.
+Under the terms of the land lease, annual rents increase 12.5% every fifth anniversary of the lease. The initial land lease increase
+will occur in April 2017. During the three and nine months ended September 30, 2016, the Company expensed $18,153 and $54,461,
+respectively related to this lease. During the three and nine months ended September 30, 2015, the Company expensed $46,768 and
+$61,738, respectively related to this lease. 
+
+-  22  - 
+
+The aggregate minimum
+cash payments to be made by the Company on the non-cancelable Omaha facility related land lease in effect as of September 30,
+2016, are as follows for the subsequent years ended December 31; as listed below. 
+
+Note 10 - Commitments and Contingencies  
+
+Litigation  
+
+The Company is not
+presently subject to any material litigation nor, to its knowledge, is any material litigation threatened against the Company,
+which if determined unfavorably to the Company, would have a material adverse effect on the Company s financial position,
+results of operations, or cash flows. 
+
+Environmental Matters  
+
+The Company follows
+a policy of monitoring its properties for the presence of hazardous or toxic substances. While there can be no assurance that
+a material environmental liability does not exist at its properties, the Company is not currently aware of any environmental liability
+with respect to its properties that would have a material effect on its financial position, results of operations, or cash flows.
+Additionally, the Company is not aware of any material environmental liability or any unasserted claim or assessment with respect
+to an environmental liability that management believes would require additional disclosure or the recording of a loss contingency. 
+
+Note 11   Subsequent Events  
+
+Dividend Paid  
+
+On October 11, 2016,
+the Company paid the dividend that was declared on September 14, 2016, in the amount of $0.20 per share of common stock to stockholders
+of record as of September 27, 2016. At the same time, the Operating Partnership paid a cash distribution to holders of LTIP units
+in the amount of $0.20 per unit. The aggregate amount of the dividend and LTIP unit distribution paid was $3,592,786. 
+
+Property Acquisitions Completed Subsequent to September
+30, 2016  
+
+Carson City Facilities   
+
+On October 31, 2016,
+the Company acquired land and two medical office buildings located in Carson City, Nevada for a total purchase price of $3.975
+million and as part of the transaction assumed a seven-year triple net lease agreement with the existing tenant. The acquisition
+was funded using a portion of the proceeds from the Company s initial public offering. 
+
+Sandusky Facilities   
+
+As disclosed in Note
+3    Property Portfolio,  on September 13, 2016, the Company entered into an assignment and assumption agreement
+to assume from a third party a purchase contract to acquire a portfolio of seven properties known as the NOMS portfolio located
+in Northern Ohio, for a total purchase price of $10.0 million. On October 7, 2016, the Company closed on the sale of five of the
+seven facilities representing approximately $4.6 million of the total $10 million purchase price. The acquisition of the remaining
+two buildings for approximately $5.4 million is expected to close in December 2016. The total NOMS portfolio covers an aggregate
+of 50,931 square feet. The NOMS portfolio was owned by a multi-specialty physician group which has been in operation since 2000.
+The group includes over 120 physicians of which approximately half are primary care providers. The Company is leasing the five
+acquired properties to NOMS and will lease the remaining two properties to NOMS using a triple-net lease structure with initial
+terms of 11 years with four additional five-year renewal options. NOMS was the tenant in the five buildings prior to the Company s
+acquisition and is also currently the tenant in the remaining two buildings. The acquisition of the five buildings was funded
+using a portion of the proceeds from the Company s initial public offering. The acquisition of the remaining two buildings
+will also be funded using proceeds from the initial public offering. 
+
+-  23  - 
+
+Asset Purchase Agreements Executed Subsequent to September
+30, 2016  
+
+Las Cruces Facility   
+
+On November 4, 2016,
+the Company entered into a purchase agreement to acquire a surgical and imaging center in Las Cruces, New Mexico for a total purchase
+price of $4.88 million. The Company will execute a 12-year triple net lease agreement with Las Cruces Orthopedic Associates upon
+completion of the transaction. The Company expects to complete this transaction during the fourth quarter of 2016. 
+
+Ellijay Facilities   
+
+On November 1, 2016,
+the Company entered into a purchase agreement to acquire land and three office buildings located in Ellijay, Georgia for a total
+purchase price of $4.9 million. The Company will assume a 10-year triple net lease agreement with the existing tenant upon the
+closing of the transaction. The Company expects to complete this transaction during the fourth quarter of 2016. 
+
+Credit Facility Commitment Letter  
+
+Subsequent
+to quarter-end, the Company received a commitment for a $75 million secured credit facility that the Company will be able to
+use to finance acquisitions. 
+
+-  24  - 
+
+Item 2. Management s Discussion and Analysis of Financial
+Condition and Results of Operations  
+
+The following discussion
+should be read in conjunction with our financial statements included herein, including the notes to those financial statements,
+included elsewhere in this Report, and the section entitled  Cautionary Statement Regarding Forward-Looking Statements 
+in this Report.  As discussed in more detail in the section entitled  Cautionary Statement Regarding Forward-Looking
+Statements,  this discussion contains forward-looking statements which involve risks and uncertainties.  Our actual
+results may differ materially from the results discussed in the forward-looking statements.  
+
+Overview  
+
+Global Medical REIT
+Inc. (the  Company,   us,   we,   our ) was incorporated in the state of Nevada
+on March 18, 2011 and re-domiciled into a Maryland corporation, effective January 6, 2014. Our principal investment strategy is
+to develop and manage a portfolio of real estate assets in the healthcare industry, which includes surgery centers, specialty
+hospitals, and outpatient treatment centers. 
+
+We formed our Operating
+Partnership in March 2016 and have contributed all of our healthcare facilities to the Operating Partnership in exchange for common
+units of limited partnership interest in the Operating Partnership. We intend to conduct all future acquisition activity and operations
+through our Operating Partnership. We own Global Medical REIT GP, LLC, a Delaware limited liability company, which is the sole
+general partner of our Operating Partnership. 
+
+Recent Developments  
+
+Initial Public Offering   
+
+On June 28, 2016,
+the Company, the Advisor, and the Operating Partnership entered into an Underwriting Agreement with Wunderlich Securities, Inc.,
+as representative of the several underwriters named therein, relating to the offer and sale of the Company s common stock
+in its initial public offering. As disclosed on July 1, 2016, the Company closed its initial public offering and issued 13,043,479
+shares of its common stock at a price of $10.00 per share resulting in gross proceeds of $130,434,790. After deducting amounts
+that the Company paid in costs that were directly attributable to the offering, underwriting discounts, advisory fees, and commissions,
+for a total of $11,272,068, the Company received net proceeds from the offering of $119,162,722. Additionally, on July 11, 2016,
+the underwriters exercised their over-allotment option in full, resulting in the issuance by the Company of an additional 1,956,521
+shares of the Company s common stock at a price of $10.00 per share for gross proceeds of $19,565,210. After deducting underwriting
+discounts, advisory fees, and commissions of $1,369,565, the Company received net proceeds from the over-allotment option shares
+of $18,195,645. Transaction costs incurred in connection with the offering were approximately $1,681,259. Total shares issued
+by the Company in the initial public offering, including over-allotment option shares, were 15,000,000 and the total net proceeds
+received were $137,358,367. 
+
+In connection with
+the Company s initial public offering, the Company s common stock was listed on the New York Stock Exchange under
+the ticker symbol  GMRE.  
+
+Amended Management Agreement   
+
+Upon completion of
+the Company s initial public offering on July 1, 2016, the Company and the Advisor entered into an amended and restated
+management agreement, pursuant to which the Advisor manages the operations and investment activities of the Company. 
+
+2016 Equity Incentive Plan    
+
+Prior to the completion
+of the initial public offering on July 1, 2016, our board of directors approved and adopted the 2016 Equity Incentive Plan. The
+purposes of the 2016 Equity Incentive Plan will be to attract and retain qualified persons upon whom, in large measure, our sustained
+progress, growth and profitability depend, to motivate the participants to achieve long-term company goals and to more closely
+align the participants  interests with those of our other stockholders by providing them with a proprietary interest in
+our growth and performance. An aggregate of 358,250 LTIP units and restricted shares of our common stock were granted upon completion
+of the offering on July 1, 2016 pursuant to the 2016 Equity Incentive Plan. In addition, we expect that an aggregate of 874,147
+additional shares will be available for future issuance under our 2016 Equity Incentive Plan, or 7% of the fully diluted outstanding
+shares of our common stock upon completion of the initial public offering, including the underwriters  over-allotment option,
+which was exercised in full on July 11, 2016. 
+
+-  25  - 
+
+Summary of Properties under Executed
+Asset Purchase Agreements as of September 30, 2016   
+
+Sandusky Facilities  
+
+On September 13, 2016,
+the Company entered into an assignment and assumption agreement to assume from a third party a purchase contract to acquire a
+portfolio of seven properties known as the NOMS portfolio located in Northern Ohio, for a total purchase price of $10.0 million.
+As disclosed in Note 11    Subsequent Events,  on October 7, 2016, the Company closed on the sale of five of
+the seven facilities representing approximately $4.6 million of the total $10 million purchase price. The acquisition of the remaining
+two buildings for approximately $5.4 million is expected to close in December 2016. The total NOMS portfolio covers an aggregate
+of 50,931 square feet. The NOMS portfolio was owned by a multi-specialty physician group which has been in operation since 2000.
+The group includes over 120 physicians of which approximately half are primary care providers. The Company is leasing the five
+acquired properties to NOMS and will lease the remaining two properties to NOMS using a triple-net lease structure with initial
+terms of 11 years with four additional five-year renewal options. NOMS was the tenant in the five buildings prior to the Company s
+acquisition and is also currently the tenant in the remaining two buildings. The acquisition of the five buildings was funded
+using a portion of the proceeds from the Company s initial public offering. 
+
+Summary of Properties Acquired During
+the Nine Months Ended September 30, 2016   
+
+During the three months
+ended September 30, 2016, the Company acquired three facilities. During the nine months ended September 30, 2016, the Company
+acquired six facilities. A description of each facility acquired is as follows. 
+
+Watertown Facilities  
+
+On September 30, 2016,
+the Company closed on an asset purchase agreement with Brown Investment Group, LLC, a South Dakota limited liability company,
+to acquire a 30,062 square foot clinic and a 3,136 square foot administration building located at 506 1 st  Avenue SE,
+Watertown, South Dakota and a 13,686 square foot facility located at 511 14 th  Avenue NE, Watertown South Dakota (collectively,
+the  Facilities ), for a purchase price of approximately $9.0 million (approximately $9.1 million including legal
+and related fees). The acquisitions included the Facilities, together with the real property, the improvements, and all appurtenances
+thereto. The Facilities are operated by the Brown Clinic, P.L.L.P ( Brown Clinic ), a South Dakota professional limited
+liability partnership. 
+
+Upon the closing of
+the transaction, the Company leased the portfolio properties to Brown Clinic via a 15-year triple-net lease that expires in 2031.
+The lease provides for two additional five-year extensions at the option of the tenant. The acquisition was funded using a portion
+of the proceeds from the Company s initial public offering. 
+
+East Orange Facility  
+
+On September 29, 2016,
+the Company closed on an asset purchase agreement with Prospect EOGH, Inc. ( Prospect ), a New Jersey corporation,
+and wholly-owned subsidiary of Prospect Medical Holdings, Inc. ( PMH ), a Delaware corporation, to acquire a 60,442
+square foot medical office building ( MOB ) located at 310 Central Avenue, East Orange, New Jersey on the campus of
+the East Orange General Hospital, for a purchase price of approximately $11.86 million (approximately $12.3 million including
+legal and related fees). The building currently houses physician offices, a 29-bed dialysis center, a wound center, a diagnostic
+lab, a hyperbaric chamber and a pharmacy. The acquisitions included the MOB, together with the real property, the improvements,
+and all appurtenances thereto. 
+
+Upon the closing of
+the transaction, the Company leased the MOB to PMH via a 10-year triple-net lease that expires in 2026. The lease provides for
+four additional five-year extensions at the option of the tenant. The acquisition was funded using a portion of the proceeds from
+the Company s initial public offering. 
+
+Reading Facilities  
+
+On July 20, 2016,
+the Company closed on an asset purchase agreement to acquire a 17,000 square foot eye center located at 1802 Papermill Road, Wyomissing,
+PA 19610 (the  Eye Center ) owned and operated by Paper Mill Partners, L.P., a Pennsylvania limited partnership, and
+a 6,500 square foot eye surgery center located at 2220 Ridgewood Road, Wyomissing, PA 19610 (the  Surgery Center )
+owned and operated by Ridgewood Surgery Center, L.P., a Pennsylvania limited partnership, for a purchase price of approximately
+$9.20 million (approximately $9.38 million including legal and related fees). The acquisition included both facilities, together
+with the real property, the improvements, and all appurtenances thereto. 
+
+Upon the closing of
+the transaction, the Eye Center was leased back to Berks Eye Physicians   Surgeons, Ltd., a Pennsylvania professional corporation
+(the  Eye Center Tenant ) and the Surgery Center was leased back to Ridgewood Surgery Associates, LLC, a Pennsylvania
+limited liability company (the  Surgery Center Tenant ). Both leases are 10-year absolute triple-net lease agreements
+that expire in 2026 and are cross defaulted. Both leases also provide for two consecutive five-year extensions at the option of
+the tenants. The Eye Center lease is guaranteed by the Surgery Center Tenant and the Surgery Center lease is guaranteed by the
+Eye Center Tenant, each pursuant to a written guaranty. The acquisition was funded using proceeds from the Company s initial
+public offering. 
+
+-  26  - 
+
+Trends Which May Influence Results
+of Operations  
+
+We believe the following
+trends in the healthcare real estate market positively affect the acquisition, ownership, development and management of healthcare
+real estate: 
+
+growing
+healthcare expenditures;  
+
+an
+aging population;  
+
+a
+continuing shift towards outpatient care;  
+
+implementation
+of the Affordable Care Act;  
+
+physician
+practice group and hospital consolidation;  
+
+healthcare
+industry employment growth;  
+
+expected
+monetization and modernization of healthcare real estate;  
+
+a
+highly fragmented healthcare real estate market; and  
+
+a
+limited new supply of healthcare real estate.  
+
+Components of the Company s Revenues,
+Expenses and Cash Flows  
+
+Revenue   
+
+Rental revenue  
+
+Our operations currently
+consist of rental revenue earned from our tenant-operators under leasing arrangements which provide for minimum rent, escalations,
+and charges to the tenant-operator for the real estate taxes and operating expenses. The leases have been accounted for as operating
+leases. For operating leases with contingent rental escalators, revenue is recorded based on the contractual cash rental payments
+due during the period. Revenue from leases with fixed annual rental escalators are recognized on a straight-line basis over the
+initial lease period, subject to a collectability assessment. If we determine that collectability of rents is not reasonably assured,
+future revenue recognition is limited to amounts contractually owed and paid, and, when appropriate, an allowance for estimated
+losses is established. 
+
+Other income  
+
+Other income consists
+primarily of interest income earned on the net proceeds received from our initial public offering. 
+
+Expenses   
+
+Acquisition fees
+  related party  
+
+Acquisition fees represented
+an expense incurred for a fee paid by us to the Advisor for each acquisition in connection with the terms of the original management
+agreement. In accordance with the provisions of the amended and restated management agreement, which became effective July 1,
+2016, acquisition fees are no longer charged to the Company by the Advisor. 
+
+General and administrative  
+
+General and administrative
+expense primarily includes professional fees and services (legal and accounting), general office expenses, ground rent related
+to the Omaha facility, and travel and related expenses. 
+
+Management fees
+  related party  
+
+In accordance with
+the terms of the Company s initial management agreement between us and the Advisor, we owed the Advisor a base management
+fee equal to the greater of (a) 2.0% per annum of our net asset value (the value of our assets less the value of our liabilities),
+or (b) $30,000 per calendar month. Historically this fee has resulted in a monthly charge to us of $30,000. Upon completion of
+the Company s initial public offering on July 1, 2016, the Company s amended and restated management agreement, which
+was approved by the Company s board of directors on June 13, 2016, became effective. Refer to Note 6    Related
+Party Transactions  for details regarding the amended and restated management agreement, the management fee expense incurred
+for the three and nine months ended September 30, 2016, and accrued management fees owed to the Advisor as of September 30, 2016. 
+
+-  27  - 
+
+Depreciation expense  
+
+Depreciation expense
+is computed using the straight-line method over the estimated useful lives of the buildings and improvements, which are generally
+between 5 and 40 years. 
+
+Interest expense  
+
+Interest expense is
+derived from interest incurred on our borrowings from third party institutional lenders as well as borrowings from related parties,
+the funds of which were primarily used to fund acquisitions. Additionally, the amortization of deferred financing costs (debt
+discount) incurred to obtain third party financing is classified as interest expense. 
+
+Cash Flow   
+
+Cash flows from
+operating activities  
+
+Cash flows from operating
+activities primarily represent activities related to us conducting our normal business activities and generally reflect the impact
+of transactions that enter into the determination of our net income or loss. 
+
+Cash flows from
+investing activities  
+
+Cash flows from investing
+activities primarily represent activities related to us acquiring healthcare facilities, plants, and equipment and making and
+collecting loans from other entities. 
+
+Cash flows from
+financing activities  
+
+Cash flows from financing
+activities primarily represent activities related to us borrowing and subsequently repaying funds from other entities as well
+as providing stockholders with a return on investment primarily in the form of a dividend payment. 
+
+Competition  
+
+Our healthcare facilities
+often face competition from nearby hospitals and other healthcare facilities that provide comparable services. Similarly, our
+tenant-operators face competition from other medical practices and service providers at nearby hospitals and other healthcare
+facilities. From time to time and for reasons beyond our control, managed-care organizations may change their lists of preferred
+hospitals or in-network physicians. Physicians also may change hospital affiliations. If competitors of our tenant-operators or
+competitors of the associated healthcare delivery systems with which our healthcare facilities are strategically aligned have
+greater geographic coverage, improve access and convenience to physicians and patients, provide or are perceived to provide higher
+quality services, recruit physicians to provide competing services at their facilities, expand or improve their services or obtain
+more favorable managed-care contracts, our tenant-operators may not be able to successfully compete. Any reduction in rental revenues
+resulting from the inability of our tenant-operators or the associated healthcare delivery systems with which our healthcare facilities
+are strategically aligned to compete in providing medical services and/or receiving sufficient rates of reimbursement for healthcare
+services rendered may have a material adverse effect on our business, financial condition and results of operations, our ability
+to make distributions to our stockholders and the trading price of our common stock. 
+
+Qualification
+as a REIT  
+
+Our business strategy
+is conducive to a more favorable tax structure whereby we may qualify and elect to be treated as a REIT for U.S. federal income
+tax purposes. We plan to elect to be taxed as REIT under U.S. federal income tax laws commencing with our contemplated taxable
+year ending December 31, 2016. We believe that, commencing with 2016, we have organized and have operated in such a manner
+as to qualify for taxation as a REIT under all of the U.S. federal income tax laws, and we intend to continue to operate in such
+a manner. However, we cannot provide assurances that we will operate in a manner so as to qualify or remain qualified as a REIT. 
+
+In order to qualify
+as a REIT, a substantial percentage of our assets must be qualifying real estate assets and a substantial percentage of our income
+must be rental revenue from real property or interest on mortgage loans. We must elect under the U.S. Internal Revenue Code (the
+ Code ) to be treated as a REIT. Subject to a number of significant exceptions, a corporation that qualifies as a
+REIT generally is not subject to U.S. federal corporate income taxes on income and gains that it distributes to its stockholders,
+thereby reducing its corporate level taxes. 
+
+-  28  - 
+
+Critical Accounting
+Policies  
+
+The preparation of
+financial statements in conformity with GAAP requires our management to use judgment in the application of accounting policies,
+including making estimates and assumptions. We base estimates on the best information available to us at the time, our experience
+and on various other assumptions believed to be reasonable under the circumstances. These estimates affect the reported amounts
+of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements and the reported
+amounts of revenue and expenses during the reporting periods. If our judgment or interpretation of the facts and circumstances
+relating to various transactions or other matters had been different, it is possible that different accounting would have been
+applied, resulting in a different presentation of our financial statements. From time to time, we re-evaluate our estimates and
+assumptions. In the event estimates or assumptions prove to be different from actual results, adjustments are made in subsequent
+periods to reflect more current estimates and assumptions about matters that are inherently uncertain. For a more detailed discussion
+of our significant accounting policies, see Note 2    Summary of Significant Accounting Policies  in the
+footnotes to the accompanying financial statements. Below is a discussion of accounting policies that we consider to be the most
+critical to understanding complex judgments involved and the uncertainties that could impact our results of operations, financial
+condition and cash flows. 
+
+Use of Estimates   
+
+The preparation of
+financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts
+of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the
+reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+
+Purchase of Real Estate    
+
+Transactions in which
+real estate assets are purchased that are not subject to an existing significant lease or are attached or related to a major healthcare
+provider are treated as asset acquisitions, and as such are recorded at their purchase price, including acquisition fees, which
+is allocated to land and building based upon their relative fair values at the date of acquisition. Investment properties that
+are acquired either subject to a significant existing lease or as part of a portfolio level transaction with significant leasing
+activity are treated as a business combination under Accounting Standards Codification ( ASC ) Topic 805,  Business
+Combinations,  which requires the purchase price of acquired properties be allocated to the acquired tangible assets and
+liabilities, consisting of land, building, and any identified intangible assets. Acquisition fees are expensed as incurred. Fair
+value is determined based on ASC Topic 820,  Fair Value Measurements and Disclosures,  primarily based on unobservable
+data inputs. In making estimates of fair values for purposes of allocating the purchase price of individually acquired properties,
+we utilize our own market knowledge and published market data. In this regard, we also utilize information obtained from county
+tax assessment records to assist in the determination of the fair value of the land and building. We utilize market comparable
+transactions such as price per square foot to assist in the determination of fair value for purposes of allocating the purchase
+price of properties acquired as part of portfolio level transactions.   The value of acquired leases, if applicable,
+is estimated based upon the costs we would have incurred to lease the property under similar terms. 
+
+Impairment of Long Lived assets
+
+We evaluate our real
+estate assets for impairment periodically or whenever events or circumstances indicate that its carrying amount may not be recoverable.
+If an impairment indicator exists, we compare the expected future undiscounted cash flows against the carrying amount of an asset.
+If the sum of the estimated undiscounted cash flows is less than the carrying amount of the asset, we record an impairment loss
+for the difference between the estimated fair value and the carrying amount of the asset. 
+
+Revenue Recognition   
+
+Our operations currently
+consist of rental revenue earned from tenants under leasing arrangements which provide for minimum rent, escalations, and charges
+to the tenant for the real estate taxes and operating expenses. The leases have been accounted for as operating leases. For operating
+leases with contingent rental escalators, revenue is recorded based on the contractual cash rental payments due during the period.
+Revenue from leases with fixed annual rental escalators are recognized on a straight-line basis over the initial lease term, subject
+to a collectability assessment. If we determine that collectability of rents is not reasonably assured, future revenue recognition
+is limited to amounts contractually owed and paid, and, when appropriate, an allowance for estimated losses is established. 
+
+We consistently assess
+the need for an allowance for doubtful accounts, including an allowance for operating lease straight-line rent receivables, for
+estimated losses resulting from tenant defaults, or the inability of tenants to make contractual rent and tenant recovery payments.
+We also monitor the liquidity and creditworthiness of our tenants and operators on a continuous basis. This evaluation considers
+industry and economic conditions, property performance, credit enhancements and other factors. For operating lease straight-line
+rent amounts, our assessment is based on amounts estimated to be recoverable over the term of the lease. 
+
+Fair Value of Financial Instruments
+
+Fair value is a market-based
+measurement and should be determined based on the assumptions that market participants may use in pricing an asset or liability.
+In accordance with ASC Topic 820, the valuation hierarchy is based upon the transparency of inputs to the valuation of an asset
+or liability as of the measurement date. A financial instrument s categorization within the valuation hierarchy is based
+upon the lowest level of input that is significant to the fair value measurement. The three levels are defined as follows: 
+
+-  29  - 
+
+Level 1-Inputs to the valuation methodology are quoted prices for identical assets or liabilities in active markets; 
+
+Level 2-Inputs to the valuation methodology include quoted prices for similar assets and liabilities in active markets, and inputs
+that are observable for the asset or liability, either directly or indirectly, for substantially the full term of the financial
+instrument; and 
+
+Level 3-Inputs to the valuation methodology are unobservable and significant to the fair value measurement. 
+
+We consider the carrying
+values of cash and cash equivalents, escrow deposits, accounts and other receivables, and accounts payable and accrued expenses
+to approximate the fair value for these financial instruments because of the short period of time since origination or the short
+period of time between origination of the instruments and their expected realization. Due to the short-term nature of these instruments,
+Level 1 and Level 2 inputs are utilized to estimate the fair value of these financial instruments. 
+
+Stock-Based Compensation  
+
+The Company expenses
+the fair value of unit awards in accordance with the fair value recognition requirements of ASC Topic 718,  Compensation-Stock
+Compensation  and ASC Topic 505,  Equity.  These ASC topics require companies to measure the cost of the recipient
+services received in exchange for an award of an equity instrument based on the grant-date fair value of the award. Under ASC
+Topic 718, the Company s independent directors are deemed to be employees and therefore compensation expense for these units
+is recognized based on the price of $10.00 per unit, the closing share price for the Company s common stock at the closing
+date of the initial public offering on July 1, 2016, ratably over the 12-month service period, using the straight line method.
+Under ASC Topic 505, the employees of the Advisor and its affiliates are deemed to be non-employees of the Company and therefore
+compensation expense for these units is recognized using the share price of the Company s common stock at the end of the
+reporting period, ratably over the 42-month or 54-month service period, respectively, depending on the grant terms, using the
+straight line method. 
+
+Consolidated Results of Operations  
+
+The major factor that
+resulted in variances in our results of operations for each revenue and expense category for the three and nine months ended September
+30, 2016 compared to the three and nine months ended September 30, 2015 is due to the fact that as of September 30, 2016 our portfolio
+consisted of facilities from a total of ten acquisitions, whereas as of September 30, 2015 only three of the ten acquisitions
+had occurred. 
+
+As of September 30,
+2016 the Company had facilities in its portfolio from the following acquisitions: 
+
+As of September 30,
+2015 the Company had facilities in its portfolio from the following acquisitions: 
+
+Revenue   
+
+Total revenue for
+the three months ended September 30, 2016 was $2,002,650, compared to $487,102 for the same period in 2015, an increase of $1,515,548.
+The increase is the result of rental revenue derived from the base rental receipts from the additional facilities that we acquired
+and were included as part of our portfolio during the current three-month period. The corresponding period during 2015 included
+only the results from the Omaha and Asheville facilities for the full three-month period and six days of results from the West
+Mifflin facility. Additionally, the  other income  component of total revenue increased during the current period
+primarily as a result of interest earned on the net proceeds received from the initial public offering. 
+
+-  30  - 
+
+Total revenue for
+the nine months ended September 30, 2016 was $5,087,368, compared to $1,405,140 for the same period in 2015, an increase of $3,682,228.
+The increase is the result of rental revenue derived from the base rental receipts from the additional facilities that we acquired
+and were included as part of our portfolio during the current nine-month period. The corresponding period during 2015 included
+only the results from the Omaha and Asheville facilities for the full nine-month period and six days of results from the West
+Mifflin facility. Additionally, the  other income  component of total revenue increased during the current period
+primarily as a result of interest earned on the net proceeds received from the initial public offering. 
+
+Acquisition Fees   related
+party   
+
+No acquisition fees
+were incurred during the three months ended September 30, 2016, compared to a $227,000 acquisition fee that was incurred for the
+same period in 2015 related to the acquisition of the West Mifflin facility. The acquisition fee was computed as 2% of the purchase
+price of the facility. Under the amended and restated management agreement between the Company and the Advisor, which became effective
+on July 1, 2016, the Company is no longer required to pay acquisition fees, and therefore the acquisitions of the Reading,
+East Orange, and Watertown facilities that occurred during the current quarter did not incur an acquisition fee. 
+
+Acquisition fees for
+the nine months ended September 30, 2016 were $754,000, compared to $227,000 for the same period in 2015, an increase of $527,000.
+The $754,000 of current nine-month period acquisition fees consisted of $350,000, $309,000 and $95,000 that were expensed in connection
+with the current first quarter acquisitions of the Plano, Melbourne, and Westland Facilities, respectively. The $227,000 acquisition
+fee that was incurred in the 2015 period related to the acquisition of the West Mifflin facility. Under the amended and restated
+management agreement between the Company and the Advisor, which became effective on July 1, 2016, the acquisitions of the
+Reading, East Orange, and Watertown facilities that occurred during the current quarter did not incur an acquisition fee. 
+
+General and Administrative   
+
+General and administrative
+expenses for the three months ended September 30, 2016 was $1,721,676, compared to $150,810 for the same period in 2015, an increase
+of $1,570,866. The increase results from non-cash compensation expense of $830,827 incurred related to the LTIP units that were
+granted on July 1, 2016, as well as from increases in accounting and compliance costs associated with audit requirements related
+to the acquired properties and a general increase in this expense category (insurance, legal, business development) as a result
+of the additional facilities that we acquired subsequent to the corresponding period in 2015 and were included as part of our
+portfolio during the current three-month period. 
+
+General and administrative
+expenses for the nine months ended September 30, 2016 was $2,978,415, compared to $291,591 for the same period in 2015, an increase
+of $2,686,824. The increase results from non-cash compensation expense of $830,827 incurred related to the LTIP units that were
+granted on July 1, 2016, a $500,000 development fee incurred in connection with the Plano acquisition, as well as from increases
+in accounting and compliance costs associated with audit requirements related to the acquired properties and a general increase
+in this expense category (insurance, legal, business development) as a result of the additional facilities that we acquired subsequent
+to the corresponding period in 2015 and were included as part of our portfolio during the current nine-month period. 
+
+Management Fees   related
+party   
+
+Management fees for
+the three months ended September 30, 2016 was $627,147, compared to $90,000 for the same period in 2015, an increase of $537,147.
+The current period management fee was calculated based upon the terms of the amended and restated management agreement which became
+effective on July 1, 2016. The management fee for the corresponding period in 2015 was calculated based on the terms of the original
+management agreement that was effective since April 1, 2014. The increase in management fees is attributable to the increase in
+stockholders  equity resulting from the initial public offering. 
+
+Management fees for
+the nine months ended September 30, 2016 was $807,147, compared to $270,000 for the same period in 2015, an increase of $537,147.
+The current nine-month management fee was calculated based upon the terms of the amended and restated management agreement from
+July 1, 2016 through September 30, 2016 ($627,147 of expense) and was calculated based on the terms of the original management
+agreement from January 1, 2016 through June 30, 2016 ($180,000 of expense). The management fee for the corresponding period in
+2015 was calculated based on the terms of the original management agreement that was effective since April 1, 2014. 
+
+-  31  - 
+
+Depreciation Expense   
+
+Depreciation expense
+for the three months ended September 30, 2016 was $585,449, compared to $153,148 for the same period in 2015, an increase of $432,301.
+The increase is a result of depreciation expense incurred related to the additional facilities that we acquired and were included
+as part of our portfolio during the current three-month period. 
+
+Depreciation expense
+for the nine months ended September 30, 2016 was $1,528,281, compared to $446,491 for the same period in 2015, an increase of
+$1,081,790. The increase is a result of depreciation expense incurred related to the additional facilities that we acquired and
+were included as part of our portfolio during the current nine-month period. 
+
+Interest Expense   
+
+Interest expense for
+the three months ended September 30, 2016 was $1,051,204, compared to $363,937 for the same period in 2015, an increase of $687,267.
+The increase results from an early termination fee of $301,200 that was incurred related to the early pay-off of the Omaha facility
+debt which is recorded as interest expense as well as from an increase in interest expense incurred on the additional third party
+debt and borrowings from our related parties that we procured related to facilities that we acquired subsequent to the corresponding
+period in 2015. The increase also results from debt discount amortization related to the additional deferred financing costs (recorded
+as interest expense) incurred on the debt we procured. 
+
+Interest expense for
+the nine months ended September 30, 2016 was $3,443,113, compared to $988,825 for the same period in 2015, an increase of $2,454,288.
+The increase results from an early termination fee of $301,200 that was incurred related to the early pay-off of the Omaha facility
+debt which is recorded as interest expense as well as from an increase in interest expense incurred on the additional third party
+debt and borrowings from our related parties that we procured related to facilities that we acquired subsequent to the corresponding
+period in 2015. The increase also results from debt discount amortization related to the additional deferred financing costs (recorded
+as interest expense) incurred on the debt we procured. 
+
+Liquidity and Capital Resources  
+
+General   
+
+We believe that our
+initial public offering strengthened our financial position by allowing us to reduce our leverage and increasing our stockholders 
+equity and available cash. Our short-term liquidity requirements consist primarily of funds to pay for operating expenses and
+other expenditures directly associated with our properties, including: 
+
+property expenses,   
+
+interest expense and scheduled
+                                         principal payments on outstanding indebtedness,   
+
+general and administrative expenses,
+                                         and acquisition expenses.   
+
+In addition, we will
+require funds for future distributions expected to be paid to our common stockholders and OP unit holders in our operating partnership
+following completion of the initial public offering. 
+
+We expect to satisfy
+our short-term liquidity requirements through our existing cash and cash equivalents, cash flow from operating activities, the
+proceeds of the initial public offering, and future borrowings under any other debt instruments we may enter into. 
+
+Our long-term liquidity
+needs consist primarily of funds necessary to pay for acquisitions, recurring and non-recurring capital expenditures, scheduled
+debt maturities and general and administrative expenses. We expect to satisfy our long-term liquidity needs through cash flow
+from operations, long-term secured and unsecured borrowings, sales of additional equity securities, and, in connection with acquisitions
+of additional properties, the issuance of OP units of our operating partnership, and proceeds from select property dispositions
+and joint venture transactions. 
+
+We intend to invest
+in additional properties as suitable opportunities arise and adequate sources of financing are available. We currently are evaluating
+additional potential acquisitions consistent with the normal course of our business. There can be no assurance as to whether or
+when any portion of these acquisitions will be completed. Our ability to complete acquisitions is subject to a number of risks
+and variables, including our ability to negotiate mutually agreeable terms with sellers and our ability to finance the acquisitions.
+We may not be successful in identifying and consummating suitable acquisitions, which may impede our growth and negatively affect
+our results of operations and may result in the use of a significant amount of management resources. We expect that future acquisitions
+of properties will depend on and will be financed, in whole or in part, by our existing cash, borrowings, including under any
+potential senior secured credit facility that we may enter into or the proceeds from additional issuances and sales of common
+stock, issuances and sales of preferred stock, issuances of OP units or the issuance and sale of other securities. 
+
+We currently do not
+expect to sell any of our properties to meet our liquidity needs, although we may do so in the future. 
+
+-  32  - 
+
+To qualify as a REIT
+for federal income tax purposes, we are required to distribute annually at least 90% of our REIT taxable income, without regard
+to the deduction for dividends paid and excluding net capital gains, and to pay tax at regular corporate rates to the extent that
+we annually distribute less than 100% of our net taxable income. Subject to the requirements of the Maryland General Corporation
+Law we intend to pay quarterly dividends to our stockholders, if and to the extent authorized by our Board of Directors. 
+
+Indebtedness   
+
+Our facilities have
+been financed through a combination of third-party debt and funding received from ZH USA, LLC. A detail of our notes payable balances
+from third-party lenders, net of unamortized debt discount, as of September 30, 2016 and December 31, 2015 is as follows: 
+
+We have also received
+funds from ZH USA, LLC in the form of convertible interest bearing notes (8% per annum, payable in arrears) due on demand unsecured
+debt. We may prepay the note at any time, in whole or in part. ZH USA, LLC may elect to convert all or a portion of the outstanding
+principal amount of the note into shares of common stock in an amount equal to the principal amount of the note, together with
+accrued but unpaid interest, divided by $12.748. On March 2, 2016, ZH USA, LLC converted $15,000,000 of principal under the Convertible
+Debenture into 1,176,656 shares of the Company s then unregistered common stock based on a conversion rate of $12.748 per
+share. 
+
+On June 15, 2016,
+in anticipation of its initial public offering, the Company entered into a Pay-Off Letter and Conversion Agreement (the  Pay-Off
+Letter and Conversion Agreement ) with ZH USA, LLC with regards to the Convertible Debentures loaned to the Company. Under
+the terms of the Pay-Off Letter and Conversion Agreement, upon the closing date of the initial public offering on July 1, 2016,
+the Company converted the remaining principal amount of $15,030,134 into 1,179,019 shares of the Company s common stock
+based on a conversion rate of $12.748 per share. Additionally, in accordance with the Pay-Off Letter and Conversion Agreement,
+on July 8, 2016 the Company paid off the remaining principal amount of $10,000,000 outstanding under the Convertible Debentures
+and all accrued interest owed on the Convertible Debentures in the amount of $1,716,811 with a total payment of $11,716,811. 
+
+A rollforward of the
+funding from ZH USA, LLC as of September 30, 2016 is as follows:  
+
+Cash Flow Information   
+
+Net cash used in operating
+activities for the nine months ended September 30, 2016 was $2,059,800, compared with $80,165 used in operating activities for
+the same period in 2015. The increase during the current nine-month period was primarily derived from increases in the net loss
+and net cash used in operating activities resulting from changes in operating assets and liabilities. The net cash used in operating
+activities was partially offset by increases in non-cash expenses such as LTIP compensation expense, depreciation expense and
+amortization of debt discount expense. 
+
+Net cash used in investing
+activities for the nine months ended September 30, 2016 was $68,335,185, compared with $11,680,355 used in investing activities
+for the same period in 2015. The increase during the current nine-month period was primarily derived from the completed acquisitions
+of six facilities during the period. Cash flows used in investing activities are heavily dependent upon the investment in properties
+and real estate assets. We anticipate cash flows used in investing activities to increase as we acquire additional properties
+in the future. 
+
+Net cash provided
+by financing activities for the nine months ended September 30, 2016 was $142,558,707, compared with $11,760,534 provided by operating
+activities for the same period in 2015. The increase during the current nine-month period was primarily derived from the net proceeds
+received from the initial public offering of $137,358,367 and proceeds of $32,097,400 received from the Cantor loan, partially
+offset by the repayment of the Omaha third party debt in full, a partial payment of the remaining Convertible Debenture balance,
+and payments of deferred financing costs, deferred public offering costs, and dividends. 
+
+-  33  - 
+
+Dividends   
+
+Pursuant to a previously
+declared dividend approved by the Board of Directors of the Company and in compliance with applicable provisions of the Maryland
+General Corporation Law, the Company has paid a monthly dividend of $0.0852 per share each month during the four-month period
+from January 2016 through April 2016. During the nine months ended September 30, 2016 the Company paid total dividends to holders
+of its common stock in the amount of $285,703. On September 14, 2016, the Company announced the declaration of a cash dividend
+of $0.20 per share of common stock to stockholders of record as of September 27, 2016 and to the holders of the LTIP units that
+were granted on July 1, 2016. This dividend, in the amount of $3,592,786, was accrued as of September 30, 2016 and paid on October
+11, 2016. During the nine months ended September 30, 2015, the Company paid total dividends to holders of its common stock in
+the amount of $170,400. Additionally, a dividend was declared on September 17, 2015 and paid in October 2015. The amount of that
+dividend was $21,300. 
+
+The amount of the
+dividends paid to our stockholders is determined by our Board of Directors and is dependent on a number of factors, including
+funds available for payment of dividends, our financial condition, capital expenditure requirements and annual dividend amount
+of offering proceeds that may be used to fund dividends, except that, in accordance with our organizational documents and Maryland
+law, we may not make dividend distributions that would: (i) cause us to be unable to pay our debts as they become due in the usual
+course of business; (ii) cause our total assets to be less than the sum of our total liabilities plus senior liquidation preferences;
+or (iii) jeopardize our ability to maintain our qualification as a REIT. 
+
+Inflation   
+
+Historically, inflation
+has had a minimal impact on the operating performance of our healthcare facilities. Many of our triple-net lease agreements contain
+provisions designed to mitigate the adverse impact of inflation. These provisions include clauses that enable us to receive payment
+of increased rent pursuant to escalation clauses which generally increase rental rates during the terms of the leases. These escalation
+clauses often provide for fixed rent increases or indexed escalations (based upon the consumer price index or other measures).
+However, some of these contractual rent increases may be less than the actual rate of inflation. Most of our triple-net lease
+agreements require the tenant-operator to pay an allocable share of operating expenses, including common area maintenance costs,
+real estate taxes and insurance. This requirement reduces our exposure to increases in these costs and operating expenses resulting
+from inflation. 
+
+Item 3. Quantitative and Qualitative
+Disclosures About Market Risk.  
+
+We are a smaller reporting
+company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information required under this Item
+3. 
+
+Item 4. Controls and Procedures.  
+
+Evaluation of Disclosure Controls and
+Procedures  
+
+We maintain disclosure
+controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act that are designed to ensure that information
+required to be disclosed in our reports filed or submitted to the SEC under the Exchange Act is recorded, processed, summarized
+and reported within the time periods specified by the SEC s rules and forms, and that information is accumulated and communicated
+to management, including the principal executive and financial officer as appropriate, to allow timely decisions regarding required
+disclosures. Our principal executive officer and principal financial officer evaluated the effectiveness of disclosure controls
+and procedures as of September 30, 2016 pursuant to Rule 13a-15(b) under the Exchange Act. Based on that evaluation, our principal
+executive officer and principal financial officer concluded that, as of the end of the period covered by this Report, the Company s
+disclosure controls and procedures were effective to ensure that information required to be included in our periodic SEC filings
+is recorded, processed, summarized, and reported within the time periods specified in the SEC rules and forms. 
+
+Our management, including
+our principal executive officer and principal financial officer, does not expect that our disclosure controls and procedures or
+our internal controls will prevent all error and all fraud. A control system, no matter how well conceived and operated, can provide
+only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system
+must reflect the fact that there are resource constraints and the benefits of controls must be considered relative to their costs.
+Due to the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control
+issues and instances of fraud, if any, within our company have been detected. 
+
+Changes in Internal Control over Financial
+Reporting  
+
+No changes were made
+to our internal control over financial reporting during our most recently completed fiscal quarter that have materially affected,
+or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+-  34  - 
+
+PART II OTHER INFORMATION  
+
+Item 1. Legal Proceedings  
+
+From time to time,
+we may become involved in litigation relating to claims arising out of our operations in the normal course of business. We are
+not involved in any pending legal proceeding or litigation and, to the best of our knowledge, no governmental authority is contemplating
+any proceeding to which we are a party or to which any of our properties is subject, which would reasonably be likely to have
+a material adverse effect on us. 
+
+Item 1A. Risk Factors  
+
+We are a smaller reporting
+company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information required under this Item
+1A. 
+
+Item 2. Unregistered Sales of Equity
+Securities and Use of Proceeds  
+
+None. 
+
+Item 3. Defaults Upon Senior Securities  
+
+None. 
+
+Item 4. Mine Safety Disclosures  
+
+Not applicable. 
+
+Item 5. Other Information  
+
+None. 
+
+-  35  - 
+
+Item 6. Exhibits  
+
+(a)    Exhibits    
+
+Exhibit
+    No.   
+       
+       Description    
+
+3.1  
+       
+      Articles of Incorporation
+    of Global Medical REIT Inc. (incorporated herein by reference to Exhibit 3.1 to the Company s Quarterly Report on Form
+    10-Q as filed with the Commission on April 22, 2014).   
+
+3.2  
+       
+      Amended and Restated
+    Bylaws of Global Medical REIT Inc. (incorporated herein by reference to Exhibit 3.1 to the Company s Current Report
+    on Form 8-K as filed with the Commission on June 17, 2016).   
+
+3.3  
+       
+      Articles of Amendment
+    to Articles of Incorporation filed with the Secretary of State of Maryland (incorporated herein by reference to Annex A to
+    the Company s Definitive Information Statement on Schedule 14C as filed with the Commission on October 3, 2014).   
+
+3.4  
+       
+      Certificate of Correction
+    of Articles of Incorporation of Global Medical REIT Inc. (incorporated by reference to Exhibit 3.3 to the Company s
+    Registration Statement on Form S-11/A as filed with the Commission on June 15, 2016).   
+
+3.5  
+       
+      Certificate of Correction
+    of Articles of Incorporation of Global Medical REIT Inc. (incorporated by reference to Exhibit 3.4 to the Company s
+    Registration Statement on Form S-11/A as filed with the Commission on June 17, 2016).   
+
+4.1  
+       
+      Pay-off Letter and
+    Conversion Agreement dated June 15, 2016 between Global Medical REIT Inc. and ZH USA, LLC (incorporated herein by reference
+    to Exhibit 10.1 to the Company s Current Report on Form 8-K as filed with the Commission on June 17, 2016).    
+
+10.1  
+       
+      Amended and Restated
+    Management Agreement, dated as of July 1, 2016, by and among Global Medical REIT Inc. and Inter-American Management LLC (incorporated
+    by reference to Exhibit 10.1 to the Company s Current Report on Form 8-K as filed with the Commission on July 7, 2016).
+
+31.1*  
+       
+      Certification of
+    Principal Executive Officer pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 302 of the Sarbanes-Oxley Act
+    of 2002.   
+
+31.2*  
+       
+      Certification of Principal Financial and Accounting
+    Officer pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.   
+
+32.1*  
+       
+      Certification of Principal Executive Officer
+    and Principal Financial Officer, pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley
+    Act of 2002.   
+
+101.INS *  
+       
+      XBRL Instance Document   
+
+101.SCH *  
+       
+      XBRL Taxonomy Schema   
+
+101.CAL *  
+       
+      XBRL Taxonomy Calculation Linkbase   
+
+101.DEF *  
+       
+      XBRL Taxonomy Definition Linkbase   
+
+101.LAB *  
+       
+      XBRL Taxonomy Label Linkbase   
+
+101.PRE *  
+       
+      XBRL Taxonomy Presentation Linkbase   
+
+Management contract or compensatory plan or arrangement 
+
+ * Filed herewith 
+
+-  36  - 
+
+SIGNATURES  
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned thereunto duly authorized. 
+
+GLOBAL
+    MEDICAL REIT INC .   
+
+Dated:
+    November 10, 2016  
+      By:  
+       
+      /s/
+     David A. Young    
+
+David
+    A. Young   
+
+Chief
+    Executive Officer (Principal Executive Officer)   
+
+Dated:
+    November 10, 2016  
+      By:  
+       
+      /s/
+     Donald McClure    
+
+Donald
+    McClure   
+
+Chief
+    Financial Officer (Principal Financial and Accounting Officer)   
+
+-  37  - 
+
+<EX-31.1>
+ 2
+ v452323_ex31-1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1  
+
+CERTIFICATIONS  
+
+I, David A. Young, certify that: 
+
+1. I have reviewed this Quarterly Report
+on Form 10-Q for the period ended September 30, 2016 of Global Medical REIT Inc. (the  registrant ); 
+
+2. Based on my knowledge, this report
+does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made,
+in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this
+report; 
+
+3. Based on my knowledge, the financial
+statements, and other financial information included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant's other certifying officer(s)
+and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have: 
+
+(a) Designed such
+disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such
+internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for
+external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the
+effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this
+report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent
+fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. The registrant's other certifying officer(s)
+and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors
+and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+(a) All significant
+deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether
+or not material, that involves management or other employees who have a significant role in the registrant's internal control
+over financial reporting. 
+
+Dated: November 10, 2016  
+       /s/
+    David A. Young    
+
+David A. Young, Chief Executive Officer   
+
+(Principal Executive Officer)   
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ v452323_ex31-2.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2  
+
+CERTIFICATIONS  
+
+I, Donald McClure, certify that: 
+
+1. I have reviewed this Quarterly Report
+on Form 10-Q for the period ended September 30, 2016 of Global Medical REIT Inc. (the  registrant ); 
+
+2. Based on my knowledge, this report
+does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made,
+in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this
+report; 
+
+3. Based on my knowledge, the financial
+statements, and other financial information included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant's other certifying officer(s)
+and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have: 
+
+(a) Designed such
+disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such
+internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for
+external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the
+effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this
+report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent
+fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. The registrant's other certifying officer(s)
+and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors
+and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+(a) All significant
+deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether
+or not material, that involves management or other employees who have a significant role in the registrant's internal control
+over financial reporting. 
+
+Dated: November 10, 2016  
+       /s/
+    Donald McClure    
+
+Donald McClure, Chief Financial Officer   
+
+(Principal Financial and Accounting Officer)   
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ v452323_ex32-1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1  
+
+Section 1350 Certification of Chief Executive
+Officer and Chief Financial Officer  
+
+In connection with
+the Quarterly Report on Form 10-Q of Global Medical REIT Inc. (the  Company ) for the period ended September 30, 2016
+as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, David A. Young, Chief Executive
+Officer and I, Donald McClure, Chief Financial Officer of the Company, each certify, pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to the best of our knowledge: 
+
+1. The Report fully
+complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+2. The information
+contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated: November 10, 2016  
+       /s/ David A. Young    
+
+David A. Young, Chief Executive Officer   
+
+(Principal Executive Officer)   
+
+Dated: November 10, 2016  
+       /s/ Donald McClure    
+
+Donald McClure, Chief Financial Officer   
+
+(Principal Financial and Accounting Officer)   
+
+This certification
+accompanies this Quarterly Report on Form 10-Q pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not, except
+to the extent required by such Act, be deemed filed by the Company for purposes of Section 18 of the Securities Exchange Act of
+1934, as amended (the  Exchange Act ). Such certification will not be deemed to be incorporated by reference into any
+filing under the Securities Act of 1933, as amended, or the Exchange Act, except to the extent that the Company specifically incorporates
+it by reference.  
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ gmre-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ gmre-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ gmre-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ gmre-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ gmre-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ gmre-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

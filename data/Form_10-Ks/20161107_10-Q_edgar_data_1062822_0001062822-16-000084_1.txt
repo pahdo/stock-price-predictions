@@ -1,0 +1,905 @@
+<Header>
+<FileStats>
+    <FileName>20161107_10-Q_edgar_data_1062822_0001062822-16-000084_1.txt</FileName>
+    <GrossFileSize>3911587</GrossFileSize>
+    <NetFileSize>98710</NetFileSize>
+    <ASCII_Embedded_Chars>254480</ASCII_Embedded_Chars>
+    <HTML_Chars>1146256</HTML_Chars>
+    <XBRL_Chars>1701294</XBRL_Chars>
+    <XML_Chars>640052</XML_Chars>
+    <N_Tables>22</N_Tables>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001062822-16-000084.hdr.sgml : 20161107
+<ACCEPTANCE-DATETIME>20161107162007
+ACCESSION NUMBER:		0001062822-16-000084
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		53
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161107
+DATE AS OF CHANGE:		20161107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LEXICON PHARMACEUTICALS, INC.
+		CENTRAL INDEX KEY:			0001062822
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				760474169
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-30111
+		FILM NUMBER:		161978362
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8800 TECHNOLOGY FOREST PLACE
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+		BUSINESS PHONE:		2818633000
+
+	MAIL ADDRESS:	
+		STREET 1:		8800 TECHNOLOGY FOREST PLACE
+		CITY:			THE WOODLANDS
+		STATE:			TX
+		ZIP:			77381
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LEXICON PHARMACEUTICALS, INC./DE
+		DATE OF NAME CHANGE:	20070426
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LEXICON GENETICS INC/TX
+		DATE OF NAME CHANGE:	20000126
+
+</SEC-Header>
+</Header>
+
+ 0001062822-16-000084.txt : 20161107
+
+10-Q
+ 1
+ lxrx930201610-q.htm
+ FORM 10-Q (9.30.2016)
+
+Document 
+
+Table of Contents  
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+    
+  FORM 10-Q 
+     (Mark One) 
+
+For the Quarterly Period Ended   September 30, 2016    
+    
+  or 
+
+For the Transition Period from _____________ to _____________ 
+    
+  Commission File Number:  000-30111 
+    
+  Lexicon Pharmaceuticals, Inc. 
+  (Exact Name of Registrant as Specified in its Charter) 
+                 Delaware 
+    76-0474169 
+      (State or Other Jurisdiction of 
+  Incorporation or Organization) 
+    (I.R.S. Employer 
+  Identification Number) 
+
+8800 Technology Forest Place 
+  The Woodlands, Texas 77381 
+  (Address of Principal Executive Offices and Zip Code) 
+    
+  (281) 863-3000 
+  (Registrant s Telephone Number, Including Area Code) 
+    
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days. 
+                       Yes 
+
+No 
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). 
+                       Yes 
+
+No 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company.  See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. 
+    
+  Large accelerated filer                 Accelerated filer                  Non-accelerated filer                 Smaller reporting company             
+    
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+                          Yes 
+
+No 
+
+As of   November 3, 2016  ,   104,036,346   shares of the registrant s common stock, par value $0.001 per share, were outstanding. 
+
+Table of Contents  
+
+Lexicon Pharmaceuticals, Inc. 
+    
+  Table of Contents 
+
+Page 
+       Factors Affecting Forward-Looking Statements  
+    2 
+       Part I   Financial Information  
+     3 
+      Item 1. 
+     Financial Statements  
+     3 
+        
+     Consolidated Balance Sheets   September 30, 2016 (unaudited) and December 31, 2015  
+     3 
+        
+     Consolidated Statements of Comprehensive Loss (unaudited)   Three and Nine Months Ended September 30, 2016 and 2015  
+     4 
+        
+     Consolidated Statements of Stockholders  Equity (unaudited)   Nine Months Ended September 30, 2016 and 2015  
+     5 
+        
+     Consolidated Statements of Cash Flows (unaudited)   Nine Months Ended September 30, 2016 and 2015  
+     6 
+        
+     Notes to Consolidated Financial Statements (unaudited)  
+     7 
+      Item 2. 
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+     17 
+      Item 3. 
+     Quantitative and Qualitative Disclosures About Market Risk  
+     22 
+      Item 4. 
+     Controls and Procedures  
+     22 
+       Part II   Other Information  
+     23 
+      Item 1. 
+     Legal Proceedings  
+     23 
+      Item 1A. 
+     Risk Factors  
+     23 
+      Item 6. 
+     Exhibits  
+     25 
+       Signatures  
+      
+     26 
+
+The Lexicon name and logo are registered trademarks of Lexicon Pharmaceuticals, Inc. 
+
+Factors Affecting Forward Looking Statements 
+  This quarterly report on Form 10-Q contains forward-looking statements.  These statements relate to future events or our future financial performance. We have attempted to identify forward-looking statements by terminology including  anticipate,   believe,   can,   continue,   could,   estimate,   expect,   intend,   may,   plan,   potential,   predict,   should  or  will  or the negative of these terms or other comparable terminology. These statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the risks outlined under  Part II, Item 1A. - Risk Factors,  that may cause our or our industry s actual results, levels of activity, performance or achievements to be materially different from any future results, levels or activity, performance or achievements expressed or implied by these forward-looking statements. 
+  Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. We are not under any duty to update any of the forward-looking statements after the date of this quarterly report on Form 10-Q to conform these statements to actual results, unless required by law. 
+
+2 
+
+Table of Contents  
+
+Part I   Financial Information 
+
+Item 1.                 Financial Statements 
+
+Lexicon Pharmaceuticals, Inc. 
+    
+  Consolidated Balance Sheets 
+  (In thousands, except par value) 
+
+The accompanying notes are an integral part of these consolidated financial statements.    
+
+3 
+
+Table of Contents  
+
+Lexicon Pharmaceuticals, Inc. 
+    
+  Consolidated Statements of Comprehensive Loss 
+  (In thousands, except per share amounts) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+4 
+
+Table of Contents  
+
+Lexicon Pharmaceuticals, Inc. 
+    
+  Consolidated Statements of Stockholders  Equity 
+  (In thousands) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+5 
+
+Table of Contents  
+
+Lexicon Pharmaceuticals, Inc. 
+    
+  Consolidated Statements of Cash Flows 
+  (In thousands) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+6 
+
+Table of Contents  
+
+Lexicon Pharmaceuticals, Inc. 
+    
+  Notes to Consolidated Financial Statements 
+  (Unaudited) 
+
+1. 
+    Basis of Presentation 
+     The accompanying unaudited consolidated financial statements of Lexicon Pharmaceuticals, Inc. ( Lexicon  or the  Company ) have been prepared in accordance with generally accepted accounting principles for interim financial information and pursuant to the rules and regulations of the Securities and Exchange Commission ( SEC ). Accordingly, they do not include all of the information and footnotes required by generally accepted accounting principles for complete financial statements. 
+  In the opinion of management, all adjustments (consisting of normal recurring adjustments) considered necessary for a fair presentation have been included. Operating results for the   nine  -month period ended   September 30, 2016   are not necessarily indicative of the results that may be expected for the year ended   December 31, 2016  . 
+  The accompanying consolidated financial statements include the accounts of Lexicon and its wholly-owned subsidiaries. Intercompany transactions and balances are eliminated in consolidation. 
+  For further information, refer to the financial statements and footnotes thereto included in Lexicon s annual report on Form 10-K for the year ended   December 31, 2015  , as filed with the SEC. 
+   
+           2. 
+    Net Loss Per Share 
+       
+  Net loss per share is computed using the weighted average number of shares of common stock outstanding during the applicable period and excludes shares underlying convertible debt, stock options and restricted stock units because they are antidilutive.  There are no differences between basic and diluted net loss per share for all periods presented. 
+
+3. 
+    Stock-Based Compensation 
+       
+  The Company recorded   $1.9 million   and   $1.7 million   of stock-based compensation expense for the three months ended   September 30, 2016   and   2015  , respectively.  The Company recorded   $5.7 million   and   $5.4 million   of stock-based compensation expense for the   nine   months ended   September 30, 2016   and   2015  , respectively.  The Company utilized the Black-Scholes valuation model for estimating the fair value of the stock compensation granted, with the following weighted-average assumptions for options granted in the   nine   months ended   September 30, 2016   and   2015  : 
+
+7 
+
+     Table of Contents  
+
+The following is a summary of option activity under Lexicon s stock-based compensation plans for the   nine   months ended   September 30, 2016  : 
+
+During the   nine   months ended   September 30, 2016  , Lexicon also granted its employees annual restricted stock units. These restricted stock units vest in four annual installments. The following is a summary of restricted stock units activity under Lexicon s stock-based compensation plans for the   nine   months ended   September 30, 2016  : 
+
+During the   nine   months ended   September 30, 2016  , Lexicon granted its non-employee directors   11,456   shares of restricted stock awards.  The restricted stock awards had a weighted average grant date fair value of   $13.96   per share and vested immediately. 
+
+4. 
+    Recent Accounting Pronouncements 
+     In May 2014, the Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update ( ASU ) No. 2014-09,  Revenue from Contracts with Customers , which amends FASB ASC Topic 606.  ASU 2014-09 provides a single, comprehensive revenue recognition model for all contracts with customers.  This standard contains principles for the determination of the measurement of revenue and the timing of when such revenue is recognized.  Revenue recognition will reflect the transfer of goods or services to customers at an amount that is expected to be earned in exchange for those goods or services.  ASU 2014-09 was scheduled to be effective for annual reporting periods beginning after December 15, 2016, and early adoption was not permitted.  In August 2015, the FASB issued ASU No. 2015-14,  Revenue from Contracts with Customers: Deferral of Effective Date , which defers the effective date of ASU 2014-09 by one year.  ASU 2014-09 is now effective for annual periods after December 15, 2017 including interim periods within that reporting period.  Early application is permitted only for annual periods beginning after December 15, 2016, including interim periods within that reporting period.  Management is currently evaluating the impact of these pronouncements on Lexicon s consolidated financial statements.   
+   In April 2015, the FASB issued ASU No. 2015-03,  Simplifying the Presentation of Debt Issuance Costs.   ASU 2015-03 requires that debt issuance costs related to a recognized debt liability be presented in the balance sheet as a direct deduction from the carrying amount of that debt liability, consistent with debt discounts.  During the   nine   months ended   September 30, 2016  , the Company adopted ASU No. 2015-03 retrospectively for all periods presented in the accompanying consolidated balance sheets.  The reclassification of debt issuance costs resulted in reductions in other assets, current portion of long-term debt and long-term debt of   $2.9 million  ,   $39,000   and   $2.8 million  , respectively, as of December 31, 2015.   
+  In November 2015, the FASB issued ASU No. 2015-17,  Income Taxes.   ASU 2015-17 simplifies the presentation of deferred income taxes, requiring that deferred tax assets and liabilities be classified as noncurrent in a classified balance sheet.  The pronouncement is effective for fiscal years, and interim periods within those years, beginning after December 31, 2016, and early adoption is permitted.  Management does not expect the adoption of this pronouncement to have a material impact on Lexicon s consolidated financial statements. 
+  
+    8 
+
+     Table of Contents  
+
+In January 2016, the FASB issued ASU No. 2016-01,  Recognition and Measurement of Financial Assets and Financial Liabilities.   ASU 2016-01 requires that most equity investments be measured at fair value, with subsequent changes in fair value recognized in net income.  The pronouncement also impacts financial liabilities under the fair value option and the presentation and disclosure requirements for financial instruments.  This pronouncement is effective for fiscal years, and interim periods within those years, beginning after December 15, 2017, and early adoption is not permitted.  Management does not expect the adoption of this pronouncement to have a material impact on Lexicon s consolidated financial statements. 
+  In February 2016, the FASB issued ASU No. 2016-02,  Leases.   ASU 2016-02 requires companies that lease assets to recognize a right-of-use asset and a lease liability, initially measured at the present value of the lease payments, in its balance sheet.  The pronouncement will also require additional disclosures about the amount, timing and uncertainty of cash flows arising from leases.  This pronouncement is effective for fiscal years, and interim periods within those years, beginning after December 15, 2018, and early adoption is permitted.  Management is currently evaluating the impact of this pronouncement on Lexicon s consolidated financial statements. 
+  In March 2016, the FASB issued ASU No. 2016-09,  Stock Compensation,  which is intended to simplify several aspects of the accounting for share-based payment award transactions. This pronouncement is effective for fiscal years, and interim periods within those years, beginning after December 15, 2016, and early adoption is permitted.  Management is currently evaluating the impact of this pronouncement on Lexicon s consolidated financial statements. 
+   
+           5. 
+    Cash and Cash Equivalents and Investments 
+       
+  The fair value of cash and cash equivalents and investments held at   September 30, 2016   and   December 31, 2015   are as follows:    
+
+There were   no   realized gains or losses for the   nine   months ended   September 30, 2016  , and   no   realized gains or losses for the   nine   months ended   September 30, 2015  . The cost of securities sold is based on the specific identification method. 
+
+6. 
+    Fair Value Measurements 
+       
+  The Company uses various inputs in determining the fair value of its investments and measures these assets on a recurring basis.  Assets and liabilities recorded at fair value in the consolidated balance sheets are categorized by the level of objectivity associated with the inputs used to measure their fair value.  The following levels are directly related to the amount of subjectivity associated with the inputs to fair valuation of these assets and liabilities: 
+
+9 
+
+     Table of Contents  
+
+Level 1 - quoted prices in active markets for identical investments, which include U.S. treasury securities  
+                
+    Level 2 - other significant observable inputs (including quoted prices for similar investments, market corroborated inputs, etc.), which includes corporate debt securities 
+                
+    Level 3 - significant unobservable inputs (including the Company s own assumptions in determining the fair value of the Symphony Icon purchase consideration liability) 
+     The inputs or methodology used for valuing securities are not necessarily an indication of the credit risk associated with investing in those securities.  The following table provides the fair value measurements of applicable Company assets and liabilities that are measured at fair value on a recurring basis according to the fair value levels described above as of   September 30, 2016   and   December 31, 2015  . 
+
+The Company s Level 3 liabilities, which consist of the Symphony Icon purchase consideration liability, is estimated using a probability-based income approach utilizing an appropriate discount rate. Subsequent changes in the fair value of the Symphony Icon purchase consideration liability are recorded as an increase or decrease in Symphony Icon purchase liability expense in the accompanying consolidated statements of comprehensive loss.  The following table summarizes the change in consolidated balance sheet carrying value associated with Level 3 liabilities for the   nine   months ended   September 30, 2016   and   2015   (in thousands). 
+
+10 
+
+     Table of Contents  
+
+The Company also has assets that under certain conditions are subject to measurement at fair value on a non-recurring basis.  These assets include goodwill associated with the acquisitions of Coelacanth Corporation in 2001 and Symphony Icon in 2010 and intangible assets associated with the acquisition of Symphony Icon in 2010. For these assets, measurement at fair value in periods subsequent to their initial recognition is applicable if one or more is determined to be impaired. 
+
+7.     Buildings and Land Held and Used 
+    
+  In 2014, Lexicon reclassified its buildings and land in The Woodlands, Texas to assets held for sale on its consolidated balance sheet, as it intended to sell these assets.  In the fourth quarter of 2015, Lexicon made a change to its plan of sale and reclassified its buildings and land as assets held and used in accordance with the accounting guidance regarding selling assets with a leaseback requirement.  The Company estimated the fair value of the net assets to be sold at approximately   $21.5 million   as of   September 30, 2015  , which represented estimated selling price less costs to sell.  This resulted in an impairment loss on the assets held for sale of   $2.3 million   in the nine months ended   September 30, 2015  , which was recorded in impairment loss on buildings in the accompanying consolidated statement of comprehensive loss.  The fair value of the net assets to be sold was determined using Level 2 inputs using sales prices in similar real estate sales and offers received from potential purchasers of the building. 
+    
+  In January 2016, Lexicon entered into a Real Estate Purchase and Sale Agreement ( Real Estate Agreement ) with TC Houston Office Development, Inc. ( Purchaser ).  Under the Real Estate Agreement, Lexicon agreed to sell these assets to the Purchaser for a purchase price of   $21.2 million  , subject to the negotiation and execution by the parties of a leaseback agreement with respect to a portion of the property.  In March 2016, the Purchaser terminated the Real Estate Agreement due to uncertainty in real estate and financing market conditions.  Lexicon intends to explore other strategic alternatives with respect to its strategy to reduce facilities costs, including the potential sale of the facilities to an alternative third party.  Due to the likelihood that any sale will require a leaseback of a portion of the property, the buildings and land remain classified as assets held and used as of   September 30, 2016  .  
+    
+  When events or changes in circumstances indicate the carrying amount of property and equity and intangible or other long-lived assets related to specifically acquired assets may not be recoverable, an evaluation of the recoverability of currently recorded costs is performed.  When an evaluation is performed, the estimated value of undiscounted future net cash flows associated with the asset is compared to the assets carrying value to determine whether a write-down to fair value is required.  If such assets are considered to be impaired, the impairment to be recognized is measured by the amount by which the carrying amount of the assets exceeds the fair value of the assets.  The Company did not recognize any impairment of long-lived assets in the   nine   months ended   September 30, 2016  . 
+
+8. 
+    Debt Obligations 
+     Convertible Debt.   In November 2014, Lexicon completed an offering of   $87.5 million   in aggregate principal amount of its   5.25%   Convertible Senior Notes due 2021 (the  Notes ).  The conversion feature did not meet the criteria for bifurcation as required by generally accepted accounting principles and the entire principal amount was recorded as long-term debt on the Company s consolidated balance sheet.   
+  The Notes are governed by an indenture (the  Indenture ), dated as of November 26, 2014, between the Company and Wells Fargo Bank, N.A., as trustee.  The Notes bear interest at a rate of   5.25%   per year, payable semiannually in arrears on June 1 and December 1 of each year, beginning on June 1, 2015. The Notes mature on December 1, 2021. The Company may not redeem the Notes prior to the maturity date, and no sinking fund is provided for the Notes.   
+  Holders of the Notes may convert their Notes at their option at any time prior to the close of business on the business day immediately preceding the maturity date. Upon conversion, the Company will deliver for each $1,000 principal amount of converted Notes a number of shares of its common stock equal to the conversion rate, as described in the Indenture. The conversion rate is initially   118.4553   shares of common stock per $1,000 principal amount of Notes (equivalent to an initial conversion price of   $8.442   per share of common stock). The conversion rate is subject to adjustment in some events but will not be adjusted for any accrued and unpaid interest. In addition, following certain corporate events that occur prior to the maturity date, the Company will increase the conversion rate for a holder who elects to convert its Notes in connection with such a corporate event in certain circumstances. 
+  If the Company undergoes a fundamental change, holders may require the Company to repurchase for cash all or any portion of their Notes at a fundamental change repurchase price equal to 100% of the principal amount of the Notes to be repurchased, plus accrued and unpaid interest to, but excluding, the fundamental change repurchase date. 
+  
+    11 
+
+     Table of Contents  
+
+In connection with the issuance of the Notes, the Company incurred   $3.4 million   of debt issuance costs, which offsets long-term debt on the consolidated balance sheets.  The debt issuance costs are amortized as interest expense over the expected life of the Notes using the effective interest method.  The Company determined the expected life of the debt was equal to the seven-year term of the Notes.  As of   September 30, 2016  , the balance of unamortized debt issuance costs was   $2.5 million  . 
+  The fair value of the Notes was   $197.7 million   as of   September 30, 2016   and was determined using Level 2 inputs based on the indicative pricing published by certain investment banks or trading levels of the Notes, which are not listed on any securities exchange or quoted on an inter-dealer automated quotation system. 
+  Mortgage Loan.    In April 2004, Lexicon obtained a   $34.0 million   mortgage on its facilities in The Woodlands, Texas.  The mortgage loan originally had a ten-year term with a 20-year amortization and a fixed interest rate of   8.23%  .  The mortgage was amended in September 2013 to extend the maturity date from April 2014 to April 2017, with the mortgage loan s monthly payment amount and fixed interest rate each remaining unchanged.  The mortgage had a principal balance outstanding of   $16.8 million   as of   September 30, 2016  .  The entire principal balance is recorded as current portion of long-term debt in the accompanying consolidated balance sheet as of   September 30, 2016   as there is a balloon payment due in April 2017.  Lexicon intends to refinance this debt prior to paying the balloon payment.  The buildings and land that serve as collateral for the mortgage loan are included in property and equipment at   $59.2 million   and   $2.7 million  , respectively, before accumulated depreciation, as of   September 30, 2016  .  The fair value of Lexicon s mortgage loan approximates its carrying value.  The fair value of Lexicon s mortgage loan was determined using Level 2 inputs using discounted cash flow analysis, based on the Company s estimated current incremental borrowing rate. 
+
+9. 
+    Arrangements with Symphony Icon, Inc. 
+           
+  On June 15, 2007, Lexicon entered into a series of related agreements providing for the financing of the clinical development of certain of its drug candidates, including telotristat ethyl (previously referred to as telotristat etiprate) (LX1032) and LX1033, along with any other pharmaceutical compositions modulating the same targets as those drug candidates (the  Programs ). The agreements included a Novated and Restated Technology License Agreement pursuant to which the Company licensed to Symphony Icon, a then wholly-owned subsidiary of Symphony Icon Holdings LLC ( Holdings ), the Company's intellectual property rights related to the Programs. Holdings contributed   $45 million   to Symphony Icon in order to fund the clinical development of the Programs. 
+  Under a Share Purchase Agreement, dated June 15, 2007, between the Company and Holdings, the Company issued and sold to Holdings   1,092,946   shares of its common stock on June 15, 2007 in exchange for   $15 million   and an exclusive purchase option (the  Purchase Option ) that gave the Company the right to acquire all of the equity of Symphony Icon, thereby allowing the Company to reacquire all of the Programs.  On July 30, 2010, Lexicon entered into an Amended and Restated Purchase Option Agreement (the  Purchase Option Agreement ) with Symphony Icon and Holdings and simultaneously exercised the Purchase Option, thereby reacquiring the Programs. Pursuant to the amended terms of the Purchase Option, Lexicon paid Holdings   $10 million   on July 30, 2010 and issued   1,891,074   shares of common stock to designees of Holdings on July 30, 2012 in satisfaction of an additional   $35 million   base payment obligation. 
+  Lexicon also agreed to make up to   $45 million   in additional contingent payments, consisting of   50%   of any consideration Lexicon receives pursuant to any licensing transaction (a  Licensing Transaction ) under which Lexicon grants a third party rights to commercialize telotristat ethyl or other pharmaceutical compositions modulating the same target as telotristat ethyl (the  LG103 Programs ), subject to certain exceptions. The contingent payments would be due if and when Lexicon receives such consideration from a Licensing Transaction. In the event Lexicon receives regulatory approval in the United States for the marketing and sale of any product resulting from the LG103 Programs prior to entering into a Licensing Transaction for the commercialization of such product in the United States, in lieu of any contingent payment from such a Licensing Transaction, Lexicon would pay Holdings the sum of   $15 million   and the amount of certain expenses Lexicon incurred after its exercise of the Purchase Option which are attributable to the development of such product, reduced by up to   50%   of such sum on account of any contingent payments paid prior to such United States regulatory approval attributable to any such Licensing Transaction outside of the United States with respect to such product. In the event Lexicon makes any such payment upon United States regulatory approval, Lexicon would have no obligation to make subsequent contingent payments attributable to any such Licensing Transactions for the commercialization of such product outside the United States until the proceeds of such Licensing Transactions exceed   50%   of the payment made as a result of such United States regulatory approval.  The contingent payments may be paid in cash or a combination of cash and common stock, in Lexicon s discretion, provided that no more than   50%   of any contingent payment would be paid in common stock.  In December 2014, Lexicon paid   $5.8 million   in cash and issued   666,111   shares of common stock to designees of Holdings in satisfaction of a   $11.5 million   contingent payment obligation as a result of receiving an upfront payment pursuant to Lexicon s license and collaboration agreement with Ipsen Pharma SAS.  In April 2015, Lexicon paid   $0.75 million   in cash to Holdings in satisfaction of its  
+  
+    12 
+
+     Table of Contents  
+
+contingent payment obligation as a result of receiving an additional upfront payment from Ipsen in March 2015.  In September 2016, Lexicon paid   $3.2 million   in cash to Holdings in satisfaction of its contingent payment obligation as a result of receiving a milestone payment from Ipsen in August 2016 (see Note 11, Collaboration and License Agreements). 
+  In September 2016, Lexicon entered into an amendment (the  Amendment ) to the Purchase Option Agreement with Holdings and Symphony Icon.  Under the Amendment, Lexicon will pay Holdings   $21.0 million   in the event Lexicon receives regulatory approval in the United States for the marketing and sale of telotristat ethyl, such buyout amount to be in lieu of any remaining payments which may be or become payable to Holdings under the Purchase Option Agreement.  The buyout amount may be paid in cash or a combination of  cash and common stock, in Lexicon s discretion, provided that no more than   50%   of any contingent payment will be paid in common stock.  Either Lexicon or Holdings may terminate the Amendment in the event Lexicon has not received  United States regulatory approval for telotristat ethyl by February 28, 2017, in which case the financial terms previously in effect would be restored. 
+  Lexicon accounted for the exercise of the Purchase Option and acquisition of Symphony Icon as a business combination. In connection with its acquisition of Symphony Icon, Lexicon paid   $10.0 million   in cash, and has also agreed to pay Holdings additional base and contingent payments as discussed above. The fair value of the base and contingent consideration payments was   $45.6 million   and was estimated by applying a probability-based income approach utilizing an appropriate discount rate. This estimation was based on significant inputs that are not observable in the market, referred to as Level 3 inputs. Key assumptions include: (1) a discount rate of   14%   for the base payments; (2) a discount rate of   18%   for the contingent payments; and (3) a probability adjusted contingency.  No discount rate was used in the valuation of the contingent consideration liability as of   September 30, 2016   as the expected buyout is short-term in nature.  As programs progress, the probability adjusted contingency is adjusted as necessary.  Subsequent changes in the fair value of the Symphony Icon purchase consideration liability are recorded as increase or decrease in fair value of Symphony Icon purchase liability expense in the accompanying consolidated statements of comprehensive loss.  The fair value of the Symphony Icon purchase consideration liability decreased by   $0.7 million   during the   nine   months ended   September 30, 2016   and increased by   $5.1 million   during the   nine   months ended   September 30, 2015  .  
+   
+  10.      Commitments and Contingencies 
+    
+  Operating Lease Obligations  :  A Lexicon subsidiary leases office space in Basking Ridge, New Jersey under an operating lease agreement, the term of which began in June 2015 and terminates in December 2022.  Rent expense is recognized on a straight-line basis over the lease term.  Lexicon is the guarantor of the obligations of its subsidiary under this lease agreement.  The maximum potential amount of future payments the Company could be required to make under this agreement is   $3.9 million   as of   September 30, 2016  .  Additionally, Lexicon leases certain equipment under operating leases. 
+    
+  Legal Proceedings.    Lexicon is from time to time party to claims and legal proceedings that arise in the normal course of its business and that it believes will not have, individually or in the aggregate, a material adverse effect on its results of operations, financial condition or liquidity. 
+
+11. 
+    Collaboration and License Agreements 
+       
+  Lexicon has derived substantially all of its revenues from drug discovery and development collaborations, target validation collaborations for the development and, in some cases, analysis of the physiological effects of genes altered in knockout mice, government grants and contracts, technology licenses, subscriptions to its databases and compound library sales.  
+  Sanofi.    In November 2015, Lexicon entered into a Collaboration and License Agreement (the  Sanofi Agreement ) with Sanofi for the worldwide development of Lexicon s diabetes drug candidate sotagliflozin (LX4211). 
+  Under the Sanofi Agreement, Lexicon granted Sanofi an exclusive, worldwide, royalty-bearing right and license under its patent rights and know-how to develop, manufacture and commercialize sotagliflozin. Subject to specified exceptions, neither party may (a) perform clinical development activities relating to any other compound which inhibits sodium-glucose cotransporters type 1 or type 2 or (b) commercialize any such compounds in the United States, countries of the European Union and certain other specified countries, in each case during the royalty terms applicable in such countries. Among the specified exceptions is a right Lexicon retained to pursue the development of its LX2761 drug candidate, with respect to which Lexicon granted Sanofi certain rights of first negotiation specified in the Sanofi Agreement. 
+  Under the Sanofi Agreement, Sanofi has paid an aggregate of   $301.8 million   through   September 30, 2016  , consisting of   $300.0 million   in an upfront payment and   $1.8 million   as reimbursement for clinical materials transferred to Sanofi.  In addition, Lexicon is eligible to receive from Sanofi (a) up to an aggregate of   $430 million   upon the achievement of specified  
+  
+    13 
+
+     Table of Contents  
+
+development and regulatory milestones and (b) up to an aggregate of   $990 million   upon the achievement of specified sales milestones. Due to the uncertainty surrounding the achievement of the future development, regulatory and sales milestones, these payments will not be recognized as revenue unless and until they are earned as the Company is not able to reasonably predict if and when the milestones will be achieved. Lexicon is also entitled to tiered, escalating royalties ranging from low double digit percentages to forty percent of net sales of sotagliflozin, based on indication and territory, with royalties for the higher band of such range attributable to net sales for type 1 diabetes in the United States, and subject in each case to customary royalty reduction provisions. Royalties payable with respect to net sales of sotagliflozin for type 1 diabetes in the United States will also be reduced in the event Lexicon does not exercise its co-promotion option described below. 
+  Lexicon will continue to be responsible for all clinical development activities relating to type 1 diabetes and will retain an exclusive option to co-promote and have a significant role, in collaboration with Sanofi, in the commercialization of sotagliflozin for the treatment of type 1 diabetes in the United States. If Lexicon exercises its co-promotion option, Lexicon will fund forty percent of the commercialization costs relating to such co-promotion activities. Sanofi will be responsible for all clinical development and commercialization of sotagliflozin for the treatment of type 2 diabetes worldwide and will be solely responsible for the commercialization of sotagliflozin for the treatment of type 1 diabetes outside the United States. Lexicon will share in the funding of a portion of the planned type 2 diabetes development costs over the next three years, up to an aggregate of   $100 million  . Sanofi will book sales worldwide in all indications. 
+  The parties are responsible for using commercially reasonable efforts to perform their development and commercialization obligations pursuant to mutually approved development and commercialization plans. 
+  The parties  activities under the Sanofi Agreement are governed by a joint steering committee and certain other governance committees which reflect equal or other appropriate representation from both parties. If the applicable governance committee is not able to make a decision by consensus and the parties are not able to resolve the issue through escalation to specified senior executive officers of the parties, then Sanofi will have final decision-making authority, subject to limitations specified in the Sanofi Agreement. 
+  The Sanofi Agreement will expire upon the expiration of all applicable royalty terms for all licensed products in all countries. The royalty term for each licensed product in each country is the period commencing on the effective date of the Sanofi Agreement and ending on the latest of expiration of specified patent coverage, expiration of specified regulatory exclusivity and 10 years following the first commercial sale in the applicable country. Either party may terminate the Sanofi Agreement in the event of an uncured material breach by the other party. Prior to completion of the core development activities for type 2 diabetes specified in the development plan, Sanofi may terminate the Sanofi Agreement on a country-by-country and licensed product-by-licensed product basis, in the event of (a) notification of a material safety issue relating to the licensed product or the class of sodium-glucose cotransporters type 1 or type 2 inhibitors resulting in a recommendation or requirement that Lexicon or Sanofi cease development, (b) failure to achieve positive results with respect to certain clinical trial results, (c) the occurrence of specified fundamental adverse events or (d) the exploitation of the licensed product infringing third party intellectual property rights in specified major markets and Sanofi is unable to obtain a license to such third party intellectual property rights. 
+  The Company considered the following deliverables with respect to the revenue recognition of the   $300 million   upfront payment: 
+    The exclusive worldwide license granted to Sanofi to develop and commercialize sotagliflozin; 
+    The development services Lexicon is performing for sotagliflozin relating to type 1 diabetes; and 
+    The funding Lexicon will provide for development relating to type 2 diabetes. 
+  The Company determined that the license had stand-alone value because it is an exclusive license that gives Sanofi the right to develop and commercialize sotagliflozin or to sublicense its rights. In addition, sotagliflozin is currently in development and it is possible that Sanofi or another third party could conduct clinical trials without assistance from Lexicon. As a result, the Company considers the license and the development services under the Sanofi Agreement to be separate units of accounting. The Company recognized the portion of the consideration allocated to the license immediately because Lexicon delivered the license and earned the revenue at the inception of the arrangement. The Company is recognizing as revenue the amount allocated to the development services for type 1 diabetes and the obligation to provide funding for development services for type 2 diabetes over the period of time Lexicon performs services or provides funding, currently expected to be through 2020. 
+  The Company determined that the initial allocable arrangement consideration was the   $300 million   upfront payment because it was the only payment that was fixed and determinable at the inception of the arrangement. There was considerable uncertainty at the date of the agreement as to whether Lexicon would earn milestone payments or royalty payments. As such, the Company did not include those payments in the allocable consideration. The Company allocated the allocable consideration  
+  
+    14 
+
+     Table of Contents  
+
+based on the relative best estimate of selling price of each unit of accounting. The Company estimated the selling price of the license deliverable by applying a probability-based income approach utilizing an appropriate discount rate. The significant inputs the Company used to determine the projected income of the license included: exercising the option to copromote, estimated future product sales, estimated cost of goods sold, estimated operating expenses, income taxes, and an appropriate discount rate. The Company estimated the selling price of the development services for type 1 diabetes by using internal estimates of the cost to hire third parties to perform the services over the expected period to perform the development. The Company estimated the obligation to provide funding for type 2 diabetes by using internal estimates of the expected cash flows and timing for   $100 million   in funding. 
+  As a result of the allocation, the Company recognized   $126.8 million   of the   $300 million   upfront payment for the license in 2015. The Company is recognizing the   $113.8 million   allocated to the development services deliverable and the   $59.4 million   allocated to the funding deliverable over the estimated period of performance as the development and funding occurs. Revenue recognized under the Sanofi Agreement was   $52.7 million   for the   nine   months ended   September 30, 2016  .  
+  During the three months ended   September 30, 2016  , the Company determined that   $4.5 million   in expense was incurred in the fourth quarter of 2015 relating to a payment due under its clinical development funding agreement with an independent, non-profit organization as a result of the Company s entry into the Sanofi Agreement.  Under the clinical development funding agreement, the non-profit organization provided funding in support of certain sotagliflozin Phase 2 clinical development activities, and the Company is obligated to make payments to the non-profit organization, in amounts tied to the funding amount, upon certain triggering events relating to sotagliflozin.  Management evaluated the impact of the adjustment and determined that the amount was immaterial to the consolidated financial statements for the current year and prior year.  As such, the entire amount was recorded during the three and nine months ended   September 30, 2016  . 
+  Ipsen Pharma SAS.    In October 2014, Lexicon entered into a License and Collaboration Agreement, which was subsequently amended in March 2015 (collectively, the  Ipsen Agreement ), with Ipsen Pharma SAS ( Ipsen ) for the development and commercialization of Lexicon s drug candidate telotristat ethyl (LX1032) outside of the United States and Japan (the  Licensed Territory ).   
+  Under the Ipsen Agreement, Lexicon granted Ipsen an exclusive, royalty-bearing right and license under its patent rights and know-how to commercialize telotristat ethyl in the Licensed Territory.  Ipsen is responsible for using diligent efforts to commercialize telotristat ethyl in the Licensed Territory pursuant to a mutually approved commercialization plan.  Subject to certain exceptions, Lexicon will be responsible for conducting clinical trials required to obtain regulatory approval for telotristat ethyl for carcinoid syndrome in the European Union, including those contemplated by a mutually approved initial development plan, and will have the first right to conduct most other clinical trials of telotristat ethyl.  Lexicon is responsible for the costs of all clinical trials contemplated by the initial development plan. The costs of additional clinical trials will be allocated between the parties based on the nature of such clinical trials.  Under the Ipsen Agreement, Ipsen has paid Lexicon an aggregate of   $30.9 million   through   September 30, 2016  , consisting of   $24.5 million   in upfront payments and a   $6.4 million   milestone payment in August 2016 upon the acceptance of the filing submitted by Ipsen to the European Medicines Agency for telotristat ethyl as an adjunct to somatostatin analog therapy for the long-term treatment of carcinoid syndrome.  In addition, Lexicon is eligible to receive from Ipsen (a) up to an aggregate of approximately   $27 million   upon the achievement of specified regulatory and commercial launch milestones and (b) up to an aggregate of    72 million   upon the achievement of specified sales milestones.  Due to the uncertainty surrounding the achievement of the future regulatory and sales milestones, these payments will not be recognized as revenue unless and until they are earned as the Company is not able to reasonably predict if and when the milestones will be achieved.  Lexicon is also entitled to tiered, escalating royalties ranging from low twenties to mid-thirties percentages of net sales of telotristat ethyl in the Licensed Territory, subject to a credit for amounts previously paid to Lexicon by Ipsen for the manufacture and supply of such units of telotristat ethyl.  Lexicon s receipt of these payments under the Ipsen Agreement triggers its obligation to make certain contingent payments to Holdings (see Note 9, Arrangements with Symphony Icon, Inc.).  Lexicon and Ipsen have entered into a commercial supply agreement pursuant to which Lexicon will supply Ipsen s commercial requirements of telotristat ethyl, and Ipsen will pay an agreed upon transfer price for such commercial supply. 
+  The Company considered the following deliverables with respect to the revenue recognition of the   $24.5 million   upfront payments:  
+             
+    The exclusive license granted to Ipsen to develop and commercialize telotristat ethyl in the Licensed Territory; 
+        The development services Lexicon is performing for telotristat ethyl; 
+             
+    The obligation to participate in committees which govern the development of telotristat ethyl until commercialization; and 
+        The obligation to supply commercial supply of telotristat ethyl, under a commercial supply agreement. 
+
+15 
+
+     Table of Contents  
+
+The Company determined that the license had stand-alone value because it is an exclusive license that gives Ipsen the right to develop and commercialize telotristat ethyl or to sublicense its rights.  In addition, telotristat ethyl is currently in development and it is possible that Ipsen or another third party could conduct clinical trials without assistance from Lexicon.  As a result, the Company considers the license and the development services under the Ipsen Agreement to be separate units of accounting.  The Company recognized the portion of the consideration allocated to the license immediately because Lexicon delivered the license and earned the revenue at the inception of the arrangement.  The Company is recognizing as revenue the amount allocated to the development services and the obligation to participate in committees over the period of time Lexicon performs services, currently expected to be through mid-2017.   
+  Due to the inherent uncertainty in obtaining regulatory approval, the applicability of the commercial supply agreement is outside the control of Lexicon and Ipsen.  Accordingly, the Company has determined the commercial supply agreement is a contingent deliverable at the onset of the Ipsen Agreement.  As a result, the Company has determined the commercial supply agreement does not meet the definition of a deliverable that needs to be accounted for at the inception of the arrangement.  The Company has also determined that there is no significant and incremental discount related to the commercial supply agreement that should be accounted for at the inception of the arrangement. 
+  The Company determined that the initial allocable arrangement consideration was the   $24.5 million   upfront payments because they were the only payments that were fixed and determinable at the inception of the arrangement.  There was considerable uncertainty at the date of the agreement as to whether Lexicon would earn milestone payments, royalty payments or payments for finished drug product.  As such, the Company did not include those payments in the allocable consideration.  The Company allocated the allocable consideration based on the relative best estimate of selling price of each unit of accounting.  The Company estimated the selling price of the license deliverable by applying a probability-based income approach utilizing an appropriate discount rate.  The significant inputs the Company used to determine the projected income of the license included: estimated future product sales, estimated cost of goods sold, estimated operating expenses, income taxes, and an appropriate discount rate.  The Company estimated the selling price of the development services by using internal estimates of the cost to hire third parties to perform the services over the expected period to perform the development.  The Company estimated the selling price of the obligation to participate in committees by using internal estimates of the number of internal hours and salary and benefits costs to perform these services.  
+  As a result of the allocation, the Company recognized   $21.2 million   of the   $24.5 million   upfront payments for the license in 2014, and an additional   $1.4 million   in 2015 upon entering into the amendment.  The Company is recognizing the   $1.7 million   allocated to the development services deliverable over the estimated period of performance as development occurs, and is recognizing the   $0.1 million   allocated to the committee participation deliverable ratably over the estimated period of performance.  Milestone payments that are contingent upon the achievement of a substantive milestone are recognized in their entirety in the period in which the milestone is achieved.  The Company recognized the   $6.4 million   milestone payment received in the three and   nine   months ended   September 30, 2016  .  Revenue recognized under the Ipsen Agreement was   $6.8 million   and   $2.3 million   for the   nine   months ended   September 30, 2016   and   2015  , respectively. 
+  
+    16 
+
+Table of Contents  
+
+Item 2. 
+    Management s Discussion and Analysis of Financial Condition and Results of Operations 
+       
+  Overview 
+    
+  We are a biopharmaceutical company focused on the development of breakthrough treatments for human disease.  We have advanced multiple drug candidates into clinical development and are presently devoting most of our resources to the development of our two most advanced drug candidates: 
+             
+    We are developing telotristat ethyl (previously referred to as telotristat etiprate), or LX1032, an orally-delivered small molecule drug candidate, as a treatment for carcinoid syndrome.  We have reported positive data from both our pivotal TELESTAR Phase 3 clinical trial and its companion TELECAST Phase 3 clinical trial of telotristat ethyl in carcinoid syndrome patients.  We have submitted an application for regulatory approval to market telotristat ethyl in the United States and are presently preparing for the commercial launch of telotristat ethyl in the United States, if approved.  We have granted Ipsen Pharma SAS an exclusive, royalty-bearing right to commercialize telotristat ethyl outside of the United States and Japan, and Ipsen has submitted an application for regulatory approval to market telotristat ethyl in the European Union. 
+                
+    We are developing sotagliflozin, or LX4211, an orally-delivered small molecule drug candidate, as a treatment for type 1 and type 2 diabetes.  We have reported positive top-line data from our pivotal inTandem1 Phase 3 clinical trial of sotagliflozin in type 1 diabetes patients and are presently conducting a second pivotal Phase 3 clinical trial, an additional Phase 3 clinical trial and two additional Phase 2 clinical trials of sotagliflozin in type 1 diabetes patients.  We have granted Sanofi an exclusive, worldwide, royalty-bearing right to develop, manufacture and commercialize sotagliflozin and we are presently preparing with Sanofi for Phase 3 development of sotagliflozin in type 2 diabetes. 
+     Our most advanced drug candidates, as well as compounds from a number of additional drug discovery and development programs that we have advanced into various stages of clinical and preclinical development, originated from our own internal drug discovery efforts. These efforts were driven by a systematic, target biology-driven approach in which we used gene knockout technologies and an integrated platform of advanced medical technologies to systematically study the physiological and behavioral functions of almost 5,000 genes in mice and assessed the utility of the proteins encoded by the corresponding human genes as potential drug targets. We have identified and validated in living animals, or   in vivo  , more than 100 targets with promising profiles for drug discovery. 
+  We are working both independently and through strategic collaborations and alliances with third parties to capitalize on our drug target discoveries and drug discovery and development programs.  We seek to retain exclusive or co-exclusive rights to the benefits of certain drug discovery and development programs by developing and commercializing drug candidates from those programs internally, particularly in the United States for indications treated by specialist physicians.  We seek to collaborate with other pharmaceutical and biotechnology companies, such as Ipsen, Sanofi and Bristol-Myers Squibb, with respect to drug discovery or the development and commercialization of certain of our drug candidates, particularly with respect to commercialization in territories outside the United States, commercialization in the United States for indications treated by primary care physicians, or when the collaboration may otherwise provide us with access to expertise and resources that we do not possess internally or are complementary to our own. 
+  We have derived substantially all of our revenues from strategic collaborations and other research and development collaborations and technology licenses.  To date, we have generated a substantial portion of our revenues from a limited number of sources. 
+  Our operating results and, in particular, our ability to generate additional revenues are dependent on many factors, including our success in obtaining regulatory approval for the marketing and sale of telotristat ethyl in the United States; if approved, our ability to successfully commercialize telotristat ethyl in the United States; the amount and timing of payments, if any, under our existing collaboration agreements with Sanofi, Ipsen and other entities; the success of our ongoing preclinical and clinical development efforts; our success in establishing new collaborations and licenses; the timing and willingness of such new collaborators to commercialize products that would result in milestone payments and royalties and their success in such efforts; and general and industry-specific economic conditions which may affect research and development expenditures. Future revenues from our existing collaborations are uncertain because they depend, to a large degree, on the achievement of milestones and payment of royalties we earn from any future products developed under the collaborations. Our ability to secure future revenue-generating agreements will depend upon our ability to address the needs of our potential future collaborators and licensees, and to negotiate agreements that we believe are in our long-term best interests. We may determine, as we have with certain of our drug candidates, including telotristat ethyl in the United States and Japan, that our interests are better served by retaining rights to our discoveries and advancing our therapeutic programs to a later stage, which could limit our near-term revenues and increase expenses. Because of these and other factors, our operating results have fluctuated in the past and are  
+  
+    17 
+
+     Table of Contents  
+
+likely to do so in the future, and we do not believe that period-to-period comparisons of our operating results are a good indication of our future performance. 
+  Since our inception, we have incurred significant losses and, as of   September 30, 2016  , we had an accumulated deficit of   $1.2 billion  . Our losses have resulted principally from costs incurred in research and development, general and administrative costs associated with our operations, and non-cash stock-based compensation expenses associated with stock options and restricted stock granted to employees and consultants. Research and development expenses consist primarily of salaries and related personnel costs, external research costs related to our nonclinical and clinical efforts, material costs, facility costs, depreciation on property and equipment, and other expenses related to our drug discovery and development programs. General and administrative expenses consist primarily of salaries and related expenses for executive and administrative personnel, professional fees and other corporate expenses, including information technology, facilities costs and general legal activities. We expect to continue to incur significant research and development costs in connection with the continuing development of our drug candidates. As a result, we will need to generate significantly higher revenues to achieve profitability.  
+  Critical Accounting Policies 
+  The preparation of financial statements in conformity with generally accepted accounting principles requires us to make judgments, estimates and assumptions in the preparation of our consolidated financial statements and accompanying notes.  Actual results could differ from those estimates.  We believe there have been no significant changes in our critical accounting policies as discussed in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+  Recent Accounting Pronouncements 
+  See Note 4, Recent Accounting Pronouncements, of the Notes to Consolidated Financial Statements, for a discussion of the impact of the new accounting standards on our consolidated financial statements.   
+   
+  Results of Operations 
+    
+  Revenues 
+    
+  Total revenues and dollar and percentage changes as compared to the corresponding periods in the prior year are as follows (dollar amounts are presented in millions): 
+
+Collaborative agreements     Revenue from collaborative agreements for the three months ended   September 30, 2016   increased from   $0.5 million   to   $27.7 million  , and for the   nine   months ended   September 30, 2016   increased from   $2.6 million   to   $60.2 million  , primarily due to revenues recognized from the collaboration and license agreement with Sanofi. 
+       
+  Research and Development Expenses 
+    
+  Research and development expenses and dollar and percentage changes as compared to the corresponding periods in the prior year are as follows (dollar amounts are presented in millions):    
+
+Research and development expenses consist primarily of third-party and other services principally related to nonclinical and clinical development activities, salaries and other personnel-related expenses, stock-based compensation expense, and facility and equipment costs. 
+  
+    18 
+
+     Table of Contents  
+
+Third-party and other services     Third-party and other services for the three months ended   September 30, 2016   increased 158% to $44.5 million, and for the   nine   months ended   September 30, 2016   increased 151% to $114.6 million as compared to the corresponding periods in   2015  , primarily due to increases in external clinical research and development costs.  Third-party and other services relate principally to our clinical trial and related development activities, such as nonclinical and clinical studies and contract manufacturing. 
+
+Personnel     Personnel costs for the three months ended   September 30, 2016   increased 33% to $4.7 million, and for the   nine   months ended   September 30, 2016   increased 27% to $13.9 million, as compared to the corresponding periods in   2015  , primarily due to increases in personnel.  Salaries, bonuses, employee benefits, payroll taxes, recruiting and relocation costs are included in personnel costs.    
+
+Increase (Decrease) in Fair Value of Symphony Icon Liability 
+    
+  The fair value of the Symphony Icon purchase liability decreased by   $2.1 million   in the three months ended   September 30, 2016  , increased by   $3.4 million   for the three months ended   September 30, 2015  , decreased by   $0.7 million   for the   nine   months ended   September 30, 2016  , and increased by   $5.1 million   for the   nine   months ended   September 30, 2015   (see Note 9, Arrangements with Symphony Icon, Inc., of the Notes to Consolidated Financial Statements, for more information).  
+    
+  General and Administrative Expenses 
+    
+  General and administrative expenses and dollar and percentage changes as compared to the corresponding periods in the prior year are as follows (dollar amounts are presented in millions): 
+
+General and administrative expenses consist primarily of professional fees such as marketing and legal fees, personnel costs to support our research and development activities, stock-based compensation expenses, and facility and equipment costs. 
+
+Professional fees     Professional fees for the three months ended   September 30, 2016   increased 309% to $6.4 million, and for the   nine   months ended   September 30, 2016   increased 162% to $13.4 million, as compared to the corresponding periods in   2015  , primarily due to increased consulting costs in preparation for commercialization of telotristat ethyl.  
+
+Personnel     Personnel costs for the three months ended   September 30, 2016   increased 61% to $3.8 million, and for the   nine   months ended   September 30, 2016   increased 29% to $9.8 million, as compared to the corresponding periods in   2015  , primarily due to increases in personnel.  Salaries, bonuses, employee benefits, payroll taxes, recruiting and relocation costs are included in personnel costs. 
+
+19 
+
+     Table of Contents  
+
+Interest Expense and Interest and Other Income (Expense), Net 
+  Interest Expense  .  Interest expense for the three months ended   September 30, 2016   and   2015   was   $1.6 million   and   $1.7 million  , respectively, and for the   nine   months ended   September 30, 2016   and   2015   was   $4.9 million   and   $5.0 million  , respectively.  
+    
+  Interest and Other Income (Expense), Net.    Interest and other income, net for the three months ended   September 30, 2016   and   2015   was   $0.6 million   and   $0.1 million  , respectively, and for the   nine   months ended   September 30, 2016   and   2015   was   $1.7 million   and   $0.5 million  , respectively. 
+    
+  Consolidated Net Loss and Consolidated Net Loss per Common Share 
+  Consolidated Net Loss and Consolidated Net Loss per Common Share.    Consolidated net loss increased to   $36.0 million   in the three months ended   September 30, 2016   from   $35.3 million   in the corresponding period in   2015  .  Consolidated net loss per common share increased to   $0.35   in the three months ended   September 30, 2016   from   $0.34   in the corresponding period in   2015  .  Consolidated net loss increased to   $109.0 million   in the   nine   months ended   September 30, 2016   from   $91.4 million   in the corresponding period in   2015  .  Consolidated net loss per common share increased to   $1.05   in the   nine   months ended   September 30, 2016   from   $0.88   in the corresponding period in   2015  . 
+  Our quarterly operating results have fluctuated in the past and are likely to do so in the future, and we believe that quarter-to-quarter comparisons of our operating results are not a good indication of our future performance. 
+   
+  Liquidity and Capital Resources 
+  We have financed our operations from inception primarily through sales of common and preferred stock, contract and milestone payments to us under our strategic and other collaborations, target validation, database subscription and technology license agreements, government grants and contracts, and financing under debt and lease arrangements.  We have also financed certain of our research and development activities under our agreements with Symphony Icon, Inc.      From our inception through   September 30, 2016  , we had received net proceeds of   $1.3 billion   from issuances of common and preferred stock.  In addition, from our inception through   September 30, 2016  , we received   $791.2 million   in cash payments from strategic and other collaborations, target validation, database subscription and technology license agreements, sales of compound libraries and reagents, and government grants and contracts, of which   $657.9 million   had been recognized as revenues through   September 30, 2016  .  
+  As of   September 30, 2016  , we had   $395.6 million   in cash, cash equivalents and investments.  As of   December 31, 2015  , we had   $521.4 million   in cash, cash equivalents and investments.  We used cash of   $126.8 million   in operations in the   nine   months ended   September 30, 2016  .  This consisted primarily of the consolidated net loss for the period of   $109.0 million   and a net decrease in other operating liabilities net of assets of   $24.8 million  , partially offset by non-cash charges of   $5.7 million   related to stock-based compensation expense and   $1.5 million   related to depreciation expense.  Investing activities used cash of   $38.2 million   in the   nine   months ended   September 30, 2016  , primarily due to net purchases of investments of   $38.1 million  .  Financing activities provided cash of   $0.8 million  , primarily due to proceeds from issuance of common stock of   $2.9 million  , partially offset by repayment of debt borrowings of   $1.5 million   and repurchase of common stock of   $0.6 million  .  
+  Symphony Drug Development Financing Agreements.    In June 2007, we entered into a series of related agreements providing for the financing of the clinical development of certain drug programs, including telotristat ethyl, along with any other pharmaceutical compositions modulating the same targets as those drug candidates.  Under the financing arrangement, we licensed to Symphony Icon, Inc., a then wholly-owned subsidiary of Symphony Icon Holdings LLC ( Holdings ), our intellectual property rights related to the programs and Holdings contributed $45 million to Symphony Icon in order to fund the clinical development of the programs.  We also issued and sold to Holdings shares of our common stock in exchange for $15 million and received an exclusive option to acquire all of the equity of Symphony Icon, thereby allowing us to reacquire the programs. 
+  
+    20 
+
+     Table of Contents  
+
+Upon the recommendation of Symphony Icon s development committee, which was comprised of an equal number of representatives from us and Symphony Icon, Symphony Icon s board of directors had the right to require us to pay Symphony Icon up to $15 million for Symphony Icon s use in the development of the programs in accordance with a specified development plan and related development budget.  Symphony Icon s board of directors requested that we pay Symphony Icon $9.3 million under the agreement, all of which was paid prior to the exercise of the purchase option in July 2010. 
+  In July 2010, we entered into an amended and restated purchase option agreement with Symphony Icon and Holdings and simultaneously exercised our purchase option.  Pursuant to the amended terms of the purchase option, we paid Holdings $10 million in July 2010 and issued   1,891,074   shares of common stock to designees of Holdings in July 2012 in satisfaction of an additional $35 million base payment obligation. 
+  We also agreed to make up to $45 million in additional contingent payments, consisting of 50% of any consideration we receive pursuant to any licensing transaction under which we grant a third party rights to commercialize telotristat ethyl or other pharmaceutical compositions modulating the same target as telotristat ethyl, which we refer to as the  LG103 programs,  subject to certain exceptions. The contingent payments would be due if and when we receive such consideration from such a licensing transaction. In the event we receive regulatory approval in the United States for the marketing and sale of any product resulting from the LG103 programs prior to entering into such a licensing transaction for the commercialization of such product in the United States, in lieu of any contingent payment from such a licensing transaction, we would pay Holdings the sum of $15 million and the amount of certain expenses we incurred after our exercise of the purchase option which are attributable to the development of such product, reduced by up to 50% of such sum for the amount of any contingent payments paid prior to such United States regulatory approval attributable to any such licensing transaction outside of the United States with respect to such product. In the event we make any such payment upon United States regulatory approval, we would have no obligation to make subsequent contingent payments attributable to any such licensing transactions for the commercialization of such product outside the United States until the proceeds of such licensing transactions exceed 50% of the payment made as a result of such United States regulatory approval. 
+  The contingent payments may be paid in cash or a combination of cash and common stock, in our discretion, provided that no more than 50% of any contingent payment would be paid in common stock.  In December 2014, we paid   $5.8 million   in cash and issued   666,111   shares of common stock to designees of Holdings in satisfaction of a   $11.5 million   contingent payment obligation as a result of receiving an upfront payment pursuant to our license and collaboration agreement with Ipsen Pharma SAS.  In April 2015, we paid   $0.75 million   in cash to Holdings in satisfaction of our contingent payment obligation as a result of receiving an additional upfront payment from Ipsen in March 2015.  In September 2016, we paid   $3.2 million   in cash to Holdings in satisfaction of our contingent payment obligation as a result of receiving a milestone payment from Ipsen in August 2016 (see Note 11, Collaboration and License Agreements, of the Notes to Consolidated Financial Statements, for more information). 
+  In September 2016, we entered into an amendment to the amended and restated purchase option agreement pursuant to which we will pay Holdings   $21.0 million   in the event we receive regulatory approval in the United States for the marketing and sale of telotristat ethyl, such buyout amount to be in lieu of any remaining payments which may be or become payable to Holdings under the amended and restated purchase option agreement.  The buyout amount may be paid in cash or a combination of cash and common stock, in our discretion, provided that no more than   50%   of the buyout amount will be paid in common stock.  We or Holdings may terminate the amendment in the event we have not received United States regulatory approval for telotristat ethyl by February 28, 2017, in which case the financial terms previously in effect would be restored. 
+  Texas Institute for Genomic Medicine.   In July 2005, we received an award from the Texas Enterprise Fund for the creation of a knockout mouse embryonic stem cell library containing 350,000 cell lines for the Texas Institute for Genomic Medicine, or TIGM, using our proprietary gene trapping technology, which we completed in 2007. We also equipped TIGM with the bioinformatics software required for the management and analysis of data relating to the library. The Texas Enterprise Fund made an additional award to the Texas A M University System for the creation of facilities and infrastructure to house the library. 
+  Under the terms of our award, we are responsible for the creation of a specified number of jobs beginning in 2012, reaching an aggregate of 1,616 new jobs in Texas by December 31, 2016. We will receive credits against those job obligations based on funding received by TIGM and certain related parties from sources other than the State of Texas. We will also receive credits against those jobs obligations for any surplus jobs we create. We may be required to repay the state a portion of the award if we fail to meet those job obligations. Subject to these credits, if we fail to create the specified number of jobs, the State may require us to repay $2,415 for each job we fall short beginning in 2013. Our maximum aggregate exposure for such payments, if we fail to create any new jobs, is approximately $14.2 million, including $6.4 million through 2016, without giving effect to any credits to which we may be entitled. 
+  
+    21 
+
+     Table of Contents  
+
+Facilities.    In April 2004, we obtained a $34.0 million mortgage on our facilities in The Woodlands, Texas.  The mortgage loan originally had a ten-year term with a 20-year amortization and a fixed interest rate of 8.23%.  The mortgage was amended in September 2013 to extend the maturity date from April 2014 to April 2017, with the mortgage loan s monthly payment amount and fixed interest rate each remaining unchanged.  The mortgage had a principal balance outstanding of   $16.8 million   as of   September 30, 2016  .  The entire principal balance is recorded as current portion of long-term debt in the accompanying consolidated balance sheet as of   September 30, 2016   as there is a balloon payment due in April 2017.  Lexicon intends to refinance this debt prior to paying the balloon payment. 
+  In March 2015, our subsidiary Lexicon Pharmaceuticals (New Jersey), Inc. leased a 25,000 square-foot office space in Basking Ridge, New Jersey.  The term of the lease extends from June 1, 2015 through December 31, 2022, and provides for escalating yearly base rent payments starting at $482,000 and increasing to $646,000 in the final year of the lease.  We are the guarantor of the obligations of our subsidiary under the lease. 
+  Our future capital requirements will be substantial and will depend on many factors, including the amount and timing of payments, if any, under our existing collaboration agreements with Sanofi, Ipsen and other entities, our ability to establish new collaborations and licenses and the amount and timing of payments under such agreements, the level and timing of our research, development and commercialization expenditures, market acceptance of our products, the resources we devote to developing and supporting our products and other factors. Our capital requirements will also be affected by any expenditures we make in connection with license agreements and acquisitions of and investments in complementary technologies and businesses. We expect to devote substantial capital resources to seek regulatory approval for and, if approved, to commercialize our drug candidates, to continue and expand our development efforts, and for other general corporate activities. We believe that our current unrestricted cash and investment balances and cash and revenues we expect to derive from strategic and other collaborations and other sources will be sufficient to fund our operations for at least the next 12 months. During or after this period, if cash generated by operations is insufficient to satisfy our liquidity requirements, we will need to sell additional equity or debt securities or obtain additional credit arrangements. Additional financing may not be available on terms acceptable to us or at all. The sale of additional equity or convertible debt securities may result in additional dilution to our stockholders.  
+  Disclosure about Market Risk 
+    
+  We are exposed to limited market and credit risk on our cash equivalents which have maturities of three months or less at the time of purchase. We maintain a short-term investment portfolio which consists of U.S. Treasury bills and corporate debt securities that mature three to 12 months from the time of purchase, which we believe are subject to limited market and credit risk. We currently do not hedge interest rate exposure or hold any derivative financial instruments in our investment portfolio. 
+  We had approximately   $395.6 million   in cash and cash equivalents and short-term investments as of   September 30, 2016  .  We believe that the working capital available to us will be sufficient to fund our operations for at least the next 12 months.  
+  We have operated primarily in the United States and substantially all sales to date have been made in U.S. dollars. Accordingly, we have not had any material exposure to foreign currency rate fluctuations. 
+   
+           Item 3. 
+    Quantitative and Qualitative Disclosures About Market Risk 
+     See  Disclosure about Market Risk  under  Item 2. Management s Discussion and Analysis     of Financial Condition and Results of Operations  for quantitative and qualitative disclosures about market risk. 
+
+Item 4. 
+    Controls and Procedures 
+     Our principal executive officer and principal financial officer have concluded that our disclosure controls and procedures (as defined in rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934) are effective to ensure that the information required to be disclosed by us in the reports we file under the Securities Exchange Act is gathered, analyzed and disclosed with adequate timeliness, accuracy and completeness, based on an evaluation of such controls and procedures as of the end of the period covered by this report. 
+  Subsequent to our evaluation, there were no significant changes in internal controls or other factors that could significantly affect internal controls, including any significant corrective actions with regard to significant deficiencies and material weaknesses. 
+  
+    22 
+
+Table of Contents  
+
+Part II -- Other Information  
+
+Item 1. 
+    Legal Proceedings 
+       
+  We are from time to time party to claims and legal proceedings that arise in the normal course of our business and that we believe will not have, individually or in the aggregate, a material adverse effect on our results of operations, financial condition or liquidity. 
+
+Item 1A. 
+    Risk Factors 
+       
+  The following risks and uncertainties are important factors that could cause actual results or events to differ materially from those indicated by forward-looking statements.  The factors described below are not the only ones we face and additional risks and uncertainties not presently known to us or that we currently deem immaterial also may impair our business operations. 
+  Risks Related to Our Need for Additional Financing and Our Financial Results  
+             
+    We will need additional capital in the future and, if it is unavailable, we will be forced to significantly curtail or cease our operations.  If it is not available on reasonable terms, we will be forced to obtain funds, if at all, by entering into financing agreements on unattractive terms. 
+
+We have a history of net losses, and we expect to continue to incur net losses and may not achieve or maintain profitability. 
+
+Our operating results have been and likely will continue to fluctuate, and we believe that period-to-period comparisons of our operating results are not a good indication of our future performance. 
+
+We have substantial indebtedness that may limit cash flow available to invest in the ongoing needs of our business. 
+
+We may not have the ability to raise the funds necessary to repurchase the notes evidencing our existing indebtedness upon a fundamental change, and our future debt may contain limitations on our ability to repurchase the notes. 
+       
+  Risks Related to Our Drug Candidates 
+             
+    We are dependent on the successful development and commercialization of telotristat ethyl and sotagliflozin. 
+
+Clinical testing of our drug candidates in humans is an inherently risky and time-consuming process that may fail to demonstrate safety and efficacy, which could result in the delay, limitation or prevention of regulatory approval. 
+
+Our drug candidates are subject to a lengthy and uncertain regulatory process that may not result in the necessary regulatory approvals, which could adversely affect our and our collaborators  ability to commercialize products. 
+
+If our potential products receive regulatory approval, we or our collaborators will remain subject to extensive and rigorous ongoing regulation. 
+
+The commercial success of any products that we or our collaborators may develop will depend upon the degree of market acceptance of our products among physicians, patients, health care payors, private health insurers and the medical community. 
+
+If we are unable to establish sales, marketing and distribution capabilities or enter into agreements with third parties to market and sell our drug candidates, we may be unable to generate product revenues. 
+
+We are subject to certain healthcare laws, regulation and enforcement; our failure to comply with those laws could have a material adverse effect on our results of operations and financial condition. 
+
+If we are unable to obtain adequate coverage and reimbursement from third-party payors for any products that we or our collaborators may develop, our revenues and prospects for profitability will suffer. 
+
+23 
+
+     Table of Contents  
+
+Current healthcare laws and regulations and future legislative or regulatory reforms to the healthcare system may negatively affect our revenues and prospects for profitability. 
+
+Our competitors may develop products that make our or our collaborators  products obsolete. 
+
+We may not be able to manufacture our drug candidates in commercial quantities, which would prevent us from commercializing our drug candidates. 
+       
+  Risks Related to Our Relationships with Third Parties 
+             
+    We are significantly dependent upon our collaborations with Ipsen, Sanofi and other pharmaceutical and biotechnology companies.  If pharmaceutical products are not successfully and timely developed and commercialized under our collaborations, our opportunities to generate revenues from milestones and royalties will be greatly reduced.  
+
+Conflicts with our collaborators could jeopardize the success of our collaborative agreements and harm our product development efforts. 
+
+We rely on third parties to carry out drug development activities. 
+
+We lack the capability to manufacture materials for nonclinical studies, clinical trials or commercial sales and rely on third parties to manufacture our drug candidates, which may harm or delay our product development and commercialization efforts. 
+       
+  Risks Related to Our Intellectual Property  
+             
+    If we are unable to adequately protect our intellectual property, third parties may be able to use our products and technologies, which could adversely affect our ability to compete in the market. 
+
+We may be involved in patent litigation and other disputes regarding intellectual property rights and may require licenses from third parties for our planned nonclinical and clinical development and commercialization activities.  We may not prevail in any such litigation or other dispute or be able to obtain required licenses. 
+
+We have not sought patent protection outside of the United States for some of our inventions, and some of our licensed patents only provide coverage in the United States.  As a result, our international competitors could be granted foreign patent protection with respect to our discoveries. 
+
+We may be subject to damages resulting from claims that we, our employees or independent contractors have wrongfully used or disclosed alleged trade secrets of their former employers. 
+       
+  Risks Related to Employees, Advisors and Facilities Operations  
+             
+    The loss of key personnel or the inability to attract and retain additional personnel could impair our ability to expand our operations. 
+
+Our collaborations with outside scientists may be subject to restriction and change. 
+
+Security breaches may disrupt our operations and harm our operating results. 
+       
+  Risks Related to Environmental and Product Liability  
+             
+    We use hazardous chemicals and radioactive and biological materials in our business.  Any claims relating to improper handling, storage or disposal of these materials could be time consuming and costly. 
+
+We may be sued for product liability. 
+       
+  Risks Related to Our Common Stock 
+             
+    Invus, L.P., Invus C.V. and their affiliates own a controlling interest in our outstanding common stock and may have interests which conflict with those of our other stockholders. 
+
+24 
+
+     Table of Contents  
+
+Conversion of the notes evidencing our current indebtedness may dilute the ownership interest of our existing stockholders, including holders who had previously converted their notes, or may otherwise depress the price of our common stock. 
+
+Invus has additional rights under our stockholders  agreement with Invus, L.P. which provides Invus with substantial influence over certain significant corporate matters. 
+
+Our stock price may be extremely volatile. 
+
+We may engage in future acquisitions, which may be expensive and time consuming and from which we may not realize anticipated benefits. 
+
+Future sales of our common stock may depress our stock price. 
+
+If we are unable to meet Nasdaq continued listing requirements, Nasdaq may take action to delist our common stock. 
+       
+  For additional discussion of the risks and uncertainties that affect our business, see  Item 1A. Risk Factors  included in our annual report on Form 10-K for the year ended   December 31, 2015   as filed with the Securities and Exchange Commission.  
+   
+           Item 6. 
+    Exhibits 
+       
+                   Exhibit No. 
+      
+    Description 
+      10.1 
+      
+    Amendment No. 1 to Amended and Restated Purchase Option Agreement with Symphony Icon Holdings LLC and Symphony Icon, Inc. dated September 30, 2016 (filed as Exhibit 10.1 to the Company s Current Report on Form 8-K dated September 30, 2016 and incorporated by reference herein). 
+      31.1 
+      
+    Certification of Principal Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+      31.2 
+      
+    Certification of Principal Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+      32.1 
+      
+    Certification of Principal Executive and Principal Financial Officers Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+      101.INS 
+      
+    XBRL Instance Document 
+      101.SCH 
+      
+    XBRL Taxonomy Extension Schema Document 
+      101.CAL 
+      
+    XBRL Taxonomy Extension Calculation Linkbase Document 
+      101.DEF 
+      
+    XBRL Taxonomy Extension  Definition Linkbase Document 
+      101.LAB 
+      
+    XBRL Taxonomy Extension Label Linkbase Document 
+      101.PRE 
+      
+    XBRL Taxonomy Extension Presentation Linkbase Document 
+
+25 
+
+Table of Contents  
+
+Signatures 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+Lexicon Pharmaceuticals, Inc. 
+
+Date: 
+    November 7, 2016 
+    By: 
+    /s/ Lonnel Coats 
+
+Lonnel Coats 
+
+President and Chief Executive Officer 
+
+Date: 
+    November 7, 2016 
+    By: 
+    /s/ Jeffrey L. Wade 
+
+Jeffrey L. Wade 
+
+Executive Vice President, Corporate and Administrative Affairs and Chief Financial Officer 
+
+26 
+
+     Table of Contents  
+
+Index to Exhibits 
+    
+                   Exhibit No. 
+      
+    Description 
+      10.1 
+      
+    Amendment No. 1 to Amended and Restated Purchase Option Agreement with Symphony Icon Holdings LLC and Symphony Icon, Inc. dated September 30, 2016 (filed as Exhibit 10.1 to the Company s Current Report on Form 8-K dated September 30, 2016 and incorporated by reference herein). 
+      31.1 
+      
+    Certification of Principal Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+      31.2 
+      
+    Certification of Principal Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+      32.1 
+      
+    Certification of Principal Executive and Principal Financial Officers Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+      101.INS 
+      
+    XBRL Instance Document 
+      101.SCH 
+      
+    XBRL Taxonomy Extension Schema Document 
+      101.CAL 
+      
+    XBRL Taxonomy Extension Calculation Linkbase Document 
+      101.DEF 
+      
+    XBRL Taxonomy Extension  Definition Linkbase Document 
+      101.LAB 
+      
+    XBRL Taxonomy Extension Label Linkbase Document 
+      101.PRE 
+      
+    XBRL Taxonomy Extension Presentation Linkbase Document 
+
+27 
+
+<EX-31.1>
+ 2
+ exh311certificationofprinc.htm
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER
+
+Exhibit 
+
+Exhibit 31.1 
+    
+  CERTIFICATIONS 
+  I, Lonnel Coats, certify that: 
+    
+           1. 
+    I have reviewed this Quarterly Report on Form 10-Q of Lexicon Pharmaceuticals, Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;  
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;   
+              4. 
+    The registrant's other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              a) 
+    designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b) 
+    designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c) 
+    evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d) 
+    disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+              5. 
+    The registrant's other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+              a) 
+    all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+              b) 
+    any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+     Date:   November 7, 2016    
+                   
+    /s/ Lonnel Coats 
+        
+    Lonnel Coats 
+        
+    President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ exh312certificationofprinc.htm
+ CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER
+
+Exhibit 
+
+Exhibit 31.2 
+  CERTIFICATIONS 
+  I, Jeffrey L. Wade, certify that: 
+           1. 
+    I have reviewed this Quarterly Report on Form 10-Q of Lexicon Pharmaceuticals, Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;  
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;   
+              4. 
+    The registrant's other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              a) 
+    designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b) 
+    designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c) 
+    evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d) 
+    disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+              5. 
+    The registrant's other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+              a) 
+    all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+              b) 
+    any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+     Date:   November 7, 2016    
+    
+               /s/ Jeffrey L. Wade 
+      Jeffrey L. Wade 
+      Executive Vice President, Corporate and Administrative Affairs and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ exh321certificationofprinc.htm
+ CERTIFICATION OF PRINCIPAL EXECUTIVE AND PRINCIPAL FINANCIAL OFFICERS
+
+Exhibit 
+
+Exhibit 32.1 
+  CERTIFICATION 
+  Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. 1350, as adopted), Lonnel Coats, Principal Executive Officer of Lexicon Pharmaceuticals, Inc. ( Lexicon ), and Jeffrey L. Wade, Principal Financial Officer of Lexicon, each hereby certify that: 
+           1. 
+    Lexicon's Quarterly Report on Form 10-Q for the period ended   September 30, 2016  , and to which this Certification is attached as Exhibit 32.1 (the  Periodic Report ), fully complies with the requirements of section 13(a) or section 15(d) of the Securities Exchange Act of 1934, and  
+              2. 
+    The information contained in the Periodic Report fairly presents, in all material respects, the financial condition and results of operations of Lexicon.  
+     IN WITNESS WHEREOF, the undersigned have set their hands hereto as of the   7th day of November, 2016  . 
+    
+                 By: 
+    /s/ Lonnel Coats 
+        
+    Lonnel Coats 
+        
+    President and Chief Executive Officer 
+
+By: 
+    /s/ Jeffrey L. Wade 
+        
+    Jeffrey L. Wade 
+        
+    Executive Vice President, Corporate and Administrative 
+  Affairs and Chief Financial Officer    
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ lxrx-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ lxrx-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ lxrx-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ lxrx-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ lxrx-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ lxrx-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,1623 @@
+<Header>
+<FileStats>
+    <FileName>20161116_10-Q_edgar_data_1399306_0001594062-16-000672_1.txt</FileName>
+    <GrossFileSize>6634578</GrossFileSize>
+    <NetFileSize>130353</NetFileSize>
+    <ASCII_Embedded_Chars>274308</ASCII_Embedded_Chars>
+    <HTML_Chars>2102932</HTML_Chars>
+    <XBRL_Chars>2447206</XBRL_Chars>
+    <XML_Chars>1583865</XML_Chars>
+    <N_Tables>18</N_Tables>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001594062-16-000672.hdr.sgml : 20161116
+<ACCEPTANCE-DATETIME>20161115181750
+ACCESSION NUMBER:		0001594062-16-000672
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		64
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161116
+DATE AS OF CHANGE:		20161115
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Simlatus Corp
+		CENTRAL INDEX KEY:			0001399306
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		IRS NUMBER:				202675800
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53276
+		FILM NUMBER:		162000912
+
+	BUSINESS ADDRESS:	
+		STREET 1:		175 JOERSCHKE DRIVE, SUITE A
+		CITY:			GRASS VALLEY
+		STATE:			CA
+		ZIP:			94945
+		BUSINESS PHONE:		(530) 205-3437
+
+	MAIL ADDRESS:	
+		STREET 1:		175 JOERSCHKE DRIVE, SUITE A
+		CITY:			GRASS VALLEY
+		STATE:			CA
+		ZIP:			94945
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Grid Petroleum Corp.
+		DATE OF NAME CHANGE:	20091120
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Sunberta Resources Inc.
+		DATE OF NAME CHANGE:	20070511
+
+</SEC-Header>
+</Header>
+
+ 0001594062-16-000672.txt : 20161116
+
+10-Q
+ 1
+ form10q.htm
+ FORM 10-Q
+
+form10q.htm 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549  
+
+FORM 10-Q 
+
+For the quarterly period ended September 30, 2016 
+
+TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE EXCHANGE ACT OF 1934 
+
+For the transition period from ______ to _______ 
+
+Commission File Number  000-53276  
+
+SIMLATUS CORPORATION 
+
+(Name of small business issuer in its charter) 
+
+175 Joerschke Dr., Ste. A 
+
+Grass Valley, CA 95945  
+
+(Address of principal executive offices) 
+
+(530) 205-3437  
+
+(Registrant s telephone number) 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes [X] No [  ]  
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes [  ] No [X] 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of "large accelerated filer," "accelerated filer" and "smaller reporting company" in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+[  ] 
+
+Accelerated filer 
+
+[  ] 
+
+Non-accelerated filer 
+
+[  ] (Do not check if a smaller reporting company) 
+
+Smaller reporting company 
+
+[X] 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes [  ] No [X] 
+
+As of October 26, 2016, there were 162,645,819 shares of the registrant s $0.00001 par value common stock issued and outstanding. 
+
+_____________________________________________________________________________________________ 
+
+1 
+
+SIMLATUS CORP.* 
+
+TABLE OF CONTENTS  
+
+Page 
+
+PART I. FINANCIAL INFORMATION  
+
+ITEM 1. 
+
+FINANCIAL STATEMENTS 
+
+3 
+
+ITEM 2. 
+
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+25 
+
+ITEM 3. 
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+28 
+
+ITEM 4. 
+
+CONTROLS AND PROCEDURES 
+
+28 
+
+PART II.   OTHER INFORMATION  
+
+ITEM 1. 
+
+LEGAL PROCEEDINGS 
+
+29 
+
+ITEM 1A. 
+
+RISK FACTORS 
+
+29 
+
+ITEM 2. 
+
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+
+29 
+
+ITEM 3. 
+
+DEFAULTS UPON SENIOR SECURITIES 
+
+29 
+
+ITEM 4. 
+
+SUBSEQUENT EVENTS 
+
+29 
+
+ITEM 5. 
+
+OTHER INFORMATION 
+
+29 
+
+ITEM 6. 
+
+EXHIBITS 
+
+30 
+
+Special Note Regarding Forward-Looking Statements 
+
+Information included in this Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended ( Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended ( Exchange Act ). This information may involve known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of Simlatus Corp. (the  Company ), to be materially different from future results, performance or achievements expressed or implied by any forward-looking statements. Forward-looking statements, which involve assumptions and describe future plans, strategies and expectations of the Company, are generally identifiable by use of the words  may,   will,   should,   expect,   anticipate,   estimate,   believe,   intend,  or  project  or the negative of these words or other variations on these words or comparable terminology. These forward-looking statements are based on assumptions that may be incorrect, and there can be no assurance that these projections included in these forward-looking statements will come to pass. Actual results of the Company could differ materially from those expressed or implied by the forward-looking statements as a result of various factors. Except as required by applicable laws, the Company has no obligation to update publicly any forward-looking statements for any reason, even if new information becomes available or other events occur in the future. 
+
+* Please note that throughout this Quarterly Report, and unless otherwise noted, the words "we," SIML,  "our," "us," the "Company," refers to Simlatus Corp.  
+
+2 
+
+PART I - FINANCIAL      INFORMATION  
+
+ITEM 1. FINANCIAL STATEMENTS 
+
+3 
+
+4 
+
+5 
+
+SIMLATUS CORPORATION. 
+
+(Formerly known as Grid Petroleum Corp.) 
+
+(A Development Stage Company) 
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS 
+
+September 30, 2016 
+
+(Unaudited) 
+
+1. BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Organization and Description of Business  
+
+Simlatus manufactures, in their facility, its own product line of commercial audio and video systems that offer advanced applications used within the Broadcast Industry and other industries where such applications are required. The company products are sold through a global distribution network of established audio/video equipment retailers that have been selling the Simlatus products for the past 18 years. 
+
+Simlatus Corporation (the  Company ) was incorporated in the State of Nevada under the name Sunberta Resources Inc. on November 15, 2006, as a mining and exploration of mineral claims business.  On November 18, 2009, the Company changed its name to Grid Petroleum Corp. and continued with the mining and exploration of mineral claims operations, exploring mining claims in Alberta, Canada, Vancouver Island, British Columbia, England and the United States. 
+
+On January 20, 2011, the Company entered into a Share Exchange Agreement (the  Agreement ) with a Nevada corporation, Joaquin Basin Resources Inc., ( Seller ), and its stockholders, ( Selling Shareholders ).  Joaquin Basin Resources Inc. became the wholly owned subsidiary of Grid Petroleum.  In 2012, Joaquin Basin ceased operations and its business license in the State of Nevada was revoked in 2012. 
+
+On March 9, 2016, the Company entered into an Asset Purchase Agreement (the  Asset Purchase Agreement ) with RJM and Associates, LLC, a California limited liability company ( RJM  thereby, acquiring Intellectual Property referred to as  Media IP  and inventory consisting of finished products and raw materials and supplies.  RJM will assign the Media IP asset and inventories and provide  Know-How  that will enable the Company to launch a Broadcast Equipment and Digital Media Product Line, together valued at Six Million Two Hundred Fifty Thousand Dollars ($6,250,000).  As consideration for the Media IP and the  Know -How , the Buyer shall issue, or cause to be issued, $5,000,000 of Restricted Common Stock (PAR $.00001) Ninety (90) days from the date of this agreement and $1,250,000 of Preferred Series-A Shares of a GRPR Preferred Stock; (PAR $.001). The value of restricted common shares will be the closing price of the stock as of 90 days from this agreement. The maturity date for the restricted common shares will be 60 months from the date of this agreement. 
+
+On March 25, 2016, the Company approved a name change to Simlatus Corporation, stock symbol SIML, which was executed on April 4, 2016. The new name change better describes the Company s new business and new revenues in selling commercial broadcast equipment on a global basis. Simlatus Corporation develops, manufactures, markets and owns proprietary advanced broadcast equipment and software and sells this audio and video broadcast equipment worldwide. These systems have been sold worldwide over the past 15 years including some of the major broadcast companies.   On August 3, 2016, the Company modified the Asset Purchase Agreement.  No Restricted Common Stock shares were issued pursuant to the Agreement, and on August 3, 2016, the Parties entered into an Amendment to the Agreement wherein only the terms of the Agreement relative to the issuance of the Restricted Common Stock were modified.  The terms relative to the issuance of the Restricted Common Stock Shares shall be modified as follows: 
+
+As consideration for the Media IP and the  Know How  the Company will issue, or cause to be issued, $5,000,000 of Restricted Common Stock, par value $0.00001, valued at the lowest closing market price with a 15 day look back.  The Shares may be issued in increments of up to $1,500,000 at the discretion of the Board of the Directors until the full amount of $5,000,000 has been satisfied.  Any amount of shares not issued in a $1,500,000 increment may be rolled over and added to the next issuance, and at the discretion of the Board of Directors. The entire $5,000,000 worth of Shares must be issued within 60 months of this Amendment, unless extended, in writing, by the Board of Directors. 
+
+The Company, respectively, sells approximately 55 different audio/video products, and is preparing to market its newest audio/video product referred to as SyncPal . In addition to the Company s traditional line of audio/video products, it has commenced the research   development of its Immersive Broadcast System, referred to as the Simlatus-IBS . The Simlatus-IBS  will include commercial augmented reality and virtual reality applications for studio engineers. These applications, both hardware and software, will allow the customer to control and manage the studio audio/video systems from anywhere in the world. These products are being developed to serve a market segment that is presently being strongly embraced by consumers and is forecasted, by some of the most widely recognized tech companies in the world, as becoming a multi-billion dollar market in the very near future. The Market Analysis and IP Portfolio will include new patents specifically developed for these products and owned by the Company. 
+
+Principles of Consolidation  
+
+The consolidated financial statements include accounts and assets of the current Company and the previous oil   gas operations. All significant inter-company balances and transactions are eliminated. 
+
+Cash and Cash Equivalents  
+
+Cash and cash equivalents are comprised of cash and highly liquid investments with original maturity dates of less than six months that may not be reported as investments. While the Company may maintain cash and cash equivalents in bank deposit accounts, which at times exceed Federal Deposit Insurance Corporation insured limits, they have not experienced any losses in such accounts. 
+
+Management believes it is not exposed to any significant credit risk on cash and cash equivalents. 
+
+Broadcast Equipment Products and Support Services  
+
+The company sells 55 various products related to the broadcast industry. These products are sold through a global distribution network of audio/video retailers. The company has an established B2B distribution platform so that the distributor can request a quote for all related product inquiries, and the distributor provides a purchase order to confirm the itemized sale. The company provides established and qualified distributors with a 30 Day 2% Net 10 Days payment option, and sometimes requires a deposit against the purchase order, and full payment is required prior to shipping/delivery of the product(s). The Company offers a 3-Year Limited Warranty, along with any technical support required for the customer. 
+
+Impairment of Long-Lived Assets  
+
+The Company periodically analyzes its long-lived assets for potential impairment, assessing the appropriateness of lives and recoverability of unamortized balances through measurement of undiscounted operating cash flows in accordance with ASC No. 144,  Property, Plant and Equipment . If impairment is deemed to exist, it will be written down to its fair value. Fair value is generally determined using a discounted cash flow analysis. As of September 30, 2016, the Company does not believe any adjustment for impairment is required. 
+
+6 
+
+SIMLATUS CORPORATION.  
+
+(Formerly known as Grid Petroleum Corp.)  
+
+(A Development Stage Company)  
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS  
+
+September 30, 2016  
+
+(Unaudited)  
+
+Asset Retirement Obligations  
+
+The Company has adopted FASB Accounting Standards Codification Topic ( ASC ) No. 410,  Asset Retirement and Environmental Obligations  which requires that the fair value of liability for an asset retirement obligation be recognized in the period in which it is incurred. ASC No. 410 requires a liability to be recorded for the present value of the estimated site restoration costs with a corresponding increase to the carrying amount of the related long-lived asset. The liability will be accreted and the asset will be depreciated over the life of the related assets. Adjustments for changes resulting from the passage of time and changes to either the timing or amount of the original present value estimate underlying the obligation will be made. The Company has not incurred any asset retirement obligations as of September 30, 2016. 
+
+Use of Estimates  
+
+The preparation of the Company s consolidated financial statements in conformity with generally accepted accounting principles of United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. 
+
+Management makes its best estimate of the ultimate outcome for these items based on historical trends and other information available when the financial statements are prepared. Actual results could differ from those estimates. 
+
+Loss Per Share  
+
+Basic loss per share of common stock is computed by dividing the net loss by the weighted average number of common shares outstanding during the period after giving retroactive effect to the reverse stock split affected on July 22, 2016 (see Note 10).  Diluted earnings (loss) per share is equal to the basic per share for the six months ended September 30, 2016 and 2015. Common stock equivalents are not included in the loss per share since they are anti-dilutive.  All per share amounts have been adjusted for the reverse stock split. 
+
+Inventories  
+
+Inventories are stated at the lower of cost, computed using the first-in, first-out method and net realizable value. Any adjustments to reduce the cost of inventories to their net realizable value are recognized in earnings in the current period. As of September 30, 2016, the Company s inventories consist primarily of raw materials and supplies rather than finished goods. 
+
+Long Lived Assets Including Goodwill and Other Acquired Intangible Assets  
+
+The Company amortizes its intangible assets with definite useful lives over their estimated useful lives and reviews these assets for impairment. The Company typically amortizes its acquired intangible assets with definite useful lives over periods from three to seven years. 
+
+Fair Value of Financial Instruments  
+
+The carrying value of cash, notes payable, and accounts at September 30, 2016 and 2015 reflected in these financial statements approximates their fair value due to the short-term maturity of these financial instruments. 
+
+Income Taxes  
+
+The Company records deferred taxes in accordance with FASB ASC No. 740,  Income Taxes.  Deferred tax assets and liabilities are recognized for the future tax consequences attributable to temporary differences between the financial statement carrying amounts of existing assets and liabilities and loss carry-forwards and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect of a change in tax rules on deferred tax assets and liabilities is recognized in operations in the year of change. A valuation allowance is recorded when it is  more likely-than-not  that a deferred tax asset will not be realized. 
+
+Comprehensive Income  
+
+The Company has adopted ASC No. 220, Comprehensive Income. Comprehensive income includes net income and all changes in equity during a period that arises from non-owner sources, such as foreign currency items and unrealized gains and losses on certain investments in equity securities. 
+
+Recent Accounting Pronouncements  
+
+The Company has reviewed recently issued accounting pronouncements and plans to adopt those that are applicable to it. The Company does not expect the adoption of any other pronouncements to have a material impact on its results of operations or financial position. 
+
+Reclassification  
+
+Certain prior year amounts have been reclassified to conform to the current year presentation. 
+
+7 
+
+SIMLATUS CORPORATION.  
+
+(Formerly known as Grid Petroleum Corp.)  
+
+(A Development Stage Company)  
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS  
+
+September 30, 2016  
+
+(Unaudited)  
+
+2. GOING CONCERN 
+
+These consolidated financial statements have been prepared on a going-concern basis which assumes the Company will be able to realize assets and discharge liabilities in the normal course of business for the foreseeable future. 
+
+The Company has experienced substantial losses since its inception and has limited business operations, which raises substantial doubt about the Company s ability to continue as going concern. The ability of the Company to meet its commitments as they become payable, including the completion of acquisitions, exploration and development of oil and gas properties and projects, is dependent on the ability of the Company to obtain necessary financing or achieving a profitable level of operations. There is no assurance the Company will be successful in achieving these goals. 
+
+The Company does not have sufficient cash to fund its desired research   development objectives for its augmented/virtual reality product development for the next 12 months. The Company has arranged financing as described in Note 5 and intends to draw upon this financing arrangement to fund the research   development project. This financing may be insufficient to fund expenditures or other cash requirements required to complete the product design for the augmented/virtual reality markets. There can be no assurance the Company will be successful in completing any new product development. The Company plans to seek additional financing if necessary in private or public equity offering(s) to secure future funding for operations. There can be no assurance the Company will be successful in raising additional funding. If the Company is not able to secure additional funding, the implementation of the Company s business plan will be impaired. There can be no assurance that such additional financing will be available to the Company on acceptable terms or at all. 
+
+These financial statements do not give effect to adjustments to the amounts and classification to assets and liabilities that would be necessary should the Company be unable to continue as a going concern. 
+
+3. OIL AND GAS PROPERTIES 
+
+On January 20, 2011, the Company purchased, through its subsidiary Joaquin Basin Resources Inc., a 50% working interest (37% net revenue interest) in a mineral lease on 4,000 acres in Kings and Fresno counties in California. The lease was initially recorded at the cost of issuing 62,000,000 common shares.  On January 20, 2012, 2,076,000 shares of convertible preferred stock were issued in concluding the Joaquin Basin purchase agreement. The cost of the issue, $4,152,000, was based on the value of preferred stock as if converted to common stock. The total cost, $7,026,666, was supported by a volumetric analysis. 
+
+On November 21, 2011, a portion of the interest in the lease was swapped for a future  carry  of exploration costs and administration of the lease. Grid s 50% working interest (37.5% net revenue interest) was reduced to 30% and 14% respectively. The co-lessee, is the obligor under the agreement. Future exploration costs include the operating  carry  costs of the lease and drilling costs of the first well, named  First Farmin Well.  The exploration costs were valued based on the percentage reduction in net revenue interest. A reduction of $4,825,334 in the value of the Joaquin Basin property was recorded. 
+
+Impairment of the California properties from their recorded acquisition values was considered at March 31, 2015 and 2014. Management considered that there were no changes in circumstances that would warrant impairment from the estimated values indicated by independently prepared geological reports. 
+
+On October 18, 2013, the Company entered into an Asset Swap Agreement (the  Asset Swap Agreement ) by and amongst the Company, Xploration Inc., a Nevada Corporation ( Xploration ) and Solimar Energy, LLC, a California limited liability company ( Solimar  thereby, swapping certain land leases as described below, forgiveness of delay rentals and terminating the (a) Kreyenhagen Trend Joint Operating Agreement dated March 1, 2011, between Solimar and Xploration ( Kreyenhagen Trend JOA ), (b) Jacalitos Joint Operating Agreement dated March 1, 2011, between Solimar and Xploration ( Jacalitos JOA ) and the (c) Farmin / Settlement Agreement dated November 3, 2011, between Solimar and Xploration, with an effective date as of September 1, 2013.   
+
+Solimar assigned eighty four percent (84%) of its interest in the Bureau of Land Management Lease, serial number: CACA 49877 representing 1,140.62 gross and net landowner acres that is a part of the Kreyenhagen Trend to the Company. 
+
+The Company has oil and gas properties in Wyoming which it does not wish to develop and, accordingly has recorded an impairment in the amount of $85,334 at March 31, 2013. 
+
+In connection with an Amendment to an Asset Purchase Agreement dated November 21, 2011, the Company recorded rights to future exploration costs in the amount of $4,825,334 on its balance sheet as of March 31, 2012. The Company recorded a full impairment as of March 31, 2013. 
+
+Oil and gas properties are summarized as follows as of March 31, 2016: 
+
+On May 19, 2016, the Company entered into an agreement with Direct Capital Group, Inc., whereby Direct Capital Group, Inc., agreed to cancel $1,685,842 in notes payable in exchange for acquired oil and gas leases valued at $7,026,666.  The Company recorded a loss on the sale of property of $5,340,824 as of September 30, 2016.  Furthermore, Direct Capital Group, Inc., agreed to cancel any further liabilities associated with exploration and development costs and the acquired oil and gas lease of properties in California associated with Direct Capital Group, Inc.; and Direct Capital Group, Inc. agreed to accept the ongoing liabilities of the exploration and development costs and the acquired oil and gas leases. 
+
+8 
+
+SIMLATUS CORPORATION. 
+
+(Formerly known as Grid Petroleum Corp.) 
+
+(A Development Stage Company) 
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS 
+
+September 30, 2016 
+
+(Unaudited) 
+
+4. INTANGIBLE ASSETS 
+
+On March 9, 2016, the Company entered into an Asset Purchase Agreement (the  Asset Purchase Agreement ) with RJM and Associates, LLC, a California limited liability company ( RJM  thereby, acquiring Intellectual Property referred to as  Media IP  and inventory consisting of finished products and raw materials and supplies.  RJM will assign the Media IP asset and inventories and provide  Know-How  that will enable the Company to launch a Broadcast Equipment and Digital Media Product Line.  The total purchase price consideration for these acquisitions was Six Million Two Hundred Fifty Thousand Dollars ($6,250,000), which consisted of inventory at $204,856, and $6,045,144 to acquired intangible asset.  The final transactions of the Agreement with be completed after the date of this report. 
+
+The Company s acquired intangible assets with definite useful lives primarily consist of Media IP and  Know-How  and are amortized over a period typically five years. The following table summarizes the components of gross and net intangible asset balances as of September 30, 2016: 
+
+5. NOTES PAYABLE 
+
+On May 19, 2016, the Company finalized an agreement with Direct Capital Group Inc., to extinguish the following notes in total value of $1,685,842: 
+
+9 
+
+SIMLATUS CORPORATION.  
+
+(Formerly known as Grid Petroleum Corp.)  
+
+(A Development Stage Company)  
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS  
+
+September 30, 2016  
+
+(Unaudited)  
+
+On September 8, 2016, the Company finalized an agreement with Direct Capital Group Inc., to extinguish the following notes in total value of $871,566: 
+
+As of September 30, 2016 and March 31, 2016, Notes payable comprised as the following: 
+
+10 
+
+SIMLATUS CORPORATION. 
+
+(Formerly known as Grid Petroleum Corp.) 
+
+(A Development Stage Company) 
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS 
+
+September 30, 2016 
+
+(Unaudited) 
+
+Anthony Super Note  
+
+On March 24, 2016, the Company reassigned $30,000 of the accrued interest amount of a Direct Capital Note to Anthony Super.  The original note was issued on October 1, 2013 with a principal balance of $384,000. 
+
+On March 24, 2016, the Company recorded a debt discount and derivative liability of $59,572, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+On April 1, 2016, the Company recorded a credit of $3,490 to the principal balance, a gain of $23 to change in fair value of the derivative liability and the derivative liability of $10,421 was re-classified to additional paid in capital.  These entries made were to correct the conversion price on a conversion completed during the prior quarter. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a loss of $17,546 and $0 respectively due to the change in value of the derivative liability during the period. 
+
+During the six months ended September 30, 2016, the Company issued an aggregate of 1,050,200 common shares upon the conversion of principal amount of $17,510.  The derivative liability amounting to $45,156 was re-classified to additional paid in capital. 
+
+On September 7, 2016, the debt assignment to Anthony Super was cancelled due to non-payment and the remaining balance of $9,000 was returned to Direct Capital Group.  The derivative liability amounting to $17,956 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded. 
+
+ARC Capital Ltd Note  
+
+On October 2, 2015, the Company reassigned $21,625 of the principal balance and accrued interest of a Direct Capital Note to ARC Capital Ltd.  The original note was issued on January 31, 2014 and had a principal balance of $16,000 and accrued interest of $5,625.  The promissory note is unsecured, bears interest at 8% per annum, and matures on April 2, 2016.  During the six months ended September 30, 2016 and 2015, the Company accrued $2,559 and $0 respectively in interest expense. 
+
+On October 2, 2015, the Company recorded a debt discount and derivative liability of $51,900, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a loss of $43,566 and $0 respectively due to the change in value of the derivative liability during the period and debt discount of $120 and $0 respectively was accreted to the statement of operations. 
+
+At September 30, 2016 and 2015, principal balance of $21,625 and $0 respectively, accrued interest of $3,417 and $0 respectively, and a derivative liability of $86,371 and $0 respectively was recorded. 
+
+Blackbridge Capital Note #1  
+
+On September 30, 2015, the Company reassigned $48,000 of the principal balance of a Direct Capital Note to Blackbridge Capital, LLC.  The original note was issued on July 31, 2014 in the sum of $48,000.  The promissory note is unsecured, bears interest at 5% per annum, and matures on February 28, 2016.  During the six months ended September 30, 2016 and 2015, the Company accrued $0 and $0 respectively in interest expense. 
+
+On September 30, 2015, the Company recorded a debt discount and derivative liability of $96,000, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a gain of $1,959 and $0 respectively due to the change in value of the derivative liability during the period. 
+
+During the six months ended September 30, 2016, the Company issued 150,000 common shares pursuant to a reset notice and 200,000 common shares pursuant to a Settlement and Release Agreement, which settles the outstanding principal balance of $2,000 and accrued interest of $135.  The derivative liability amounting to $2,000 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $48,000 respectively, accrued interest of $0 and $0 respectively, debt discount of $0 and $48,000 respectively, and a derivative liability of $0 and $96,000 respectively, was recorded. 
+
+Blackbridge Capital Note #2  
+
+On May 3, 2016, the Company reassigned $100,000 of the principal balance of a Direct Capital Note to Blackbridge Capital, LLC.  The original note was issued on September 30, 2015 in the sum of $240,000.  The promissory note is unsecured, bears interest at 5% per annum, and matures on May 3, 2017.  During the six months ended September 30, 2016 and 2015, the Company accrued $652 and $0 respectively in interest expense. 
+
+On May 3, 2016, the Company recorded a debt discount and derivative liability of $199,448, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a gain of $10,700 and $0 respectively due to the change in value of the derivative liability during the period, and the debt discount of $32,341 and $0 respectively, was accreted to the statement of operations. 
+
+During the six months ended September 30, 2016, the Company issued an aggregate of 400,000 common shares upon the conversion of the principal amount of $19,600.  The derivative liability amounting to $39,093 was re-classified to additional paid in capital. 
+
+On June 2, 2016, the debt assignment to Blackbridge Capital, LLC was cancelled due to non-payment and the balance of $100,000 was returned to Direct Capital Group.  The derivative liability of $149,655 was re-classified to additional paid in capital, and accrued interest of $652 and debt discount of $67,659 were credited to the statement of operations. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded. 
+
+11 
+
+SIMLATUS CORPORATION. 
+
+(Formerly known as Grid Petroleum Corp.) 
+
+(A Development Stage Company) 
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS 
+
+September 30, 2016 
+
+(Unaudited) 
+
+Coventry Enterprises Note #2  
+
+On March 3, 2014, the Company arranged a debt swap under which an Xploration, Inc. note for $4,000 in principal and $46,000 in interest was transferred to Coventry Enterprises, LLC.  The promissory note is unsecured, bears interest at 6% per annum and matures on March 3, 2015.  Any principal amount not paid by the maturity date bears interest at 24% per annum.  During the six months ended September 30, 2016 and 2015, the Company accrued $21 and $2,407 respectively in interest expense. 
+
+On March 3, 2014, the Company recorded a debt discount and derivative liability of $63,693, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a loss of $31 and $3,768 respectively due to the change in value of the derivative liability during the period. 
+
+During the six months ended September 30, 2016, the Company issued an aggregate of 42,282 common shares upon the conversion of principal amount of $2,114.  The derivative liability amounting to $3,514 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $20,000 respectively, accrued interest of $0 and $6,673 respectively, and a derivative liability of $0 and $33,334 respectively, was recorded. 
+
+Direct Capital Note #1  
+
+On December 31, 2012, the Company entered into a Convertible Promissory Note with Direct Capital Group, Inc. in the amount of $70,671.   The promissory note is unsecured, is interest free and is due on demand.  The note may be converted at the option of the holder into common stock of the Company.  The conversion price is 50% of the market price, where market price is defined as  the average of the lowest trading price in the fifteen days prior to the conversion date.  
+
+On December 31, 2012, the Company recorded an initial derivative liability of $94,326 being the fair value of the conversion feature which was determined using the Black-Scholes valuation method.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a gain of $36,479 and $9,097 respectively, due to the change in value of the derivative liability during the period. 
+
+On April 27, 2016, the principal balance of $23,550 was reassigned to Rockwell Capital Partners Inc., and the derivative liability amounting to $46,973 was re-classified to additional paid in capital. 
+
+On July 25, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the balance of the note in the amount of $47,121.  The derivative liability amounting to $56,435 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $70,671 respectively and a derivative liability of $0 and $117,785 respectively, was recorded. 
+
+Direct Capital Note #2  
+
+On October 1, 2013 the Company entered into a Convertible Promissory Note with Direct Capital Group, Inc. in the sum of $384,000.   The promissory note is unsecured, bears interest at 6% per annum, and matures on April 1, 2014.  Any principal amount not paid by the maturity date shall bear interest at the rate of 12% per annum.  During the six months ended September 30, 2016 and 2015, the Company accrued $9,446 and $22,911 respectively in interest expense. 
+
+The note may be converted at the option of the holder into common stock of the Company.  The conversion price is 70% of the market price, where market price is defined as  the average of the lowest three of the last ten closing trading prices on the OTCBB immediately prior to conversion date.  
+
+On October 31, 2013, the Company recorded a debt discount and derivative liability of $268,330, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a loss of $24,558 and a gain of $23,913 respectively, due to the change in value of the derivative liability during the period. 
+
+During the six months ended September 30, 2016, the Company issued an aggregate of 14,073,000 common shares upon the conversion of principal amount of $87,150.  The derivative liability amounting to $123,911 was re-classified to additional paid in capital. 
+
+On March 24, 2016, accrued interest of $30,000 was reassigned to Anthony Super.  On April 12, 2016, accrued interest of $10,000 was reassigned to V2IP, LLC.  On May 13, 2016, accrued interest of $20,000 was reassigned to V2IP, LLC. 
+
+On May 18, the debt assignment to V2IP, LLC was cancelled due to non-payment and the remaining balance of $10,000 was returned to Direct Capital Group. 
+
+On September 7, 2016, the debt assignment to Anthony Super was cancelled due to non-payment and the remaining balance of $9,000 was returned to Direct Capital Group. 
+
+On September 8, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $242,885 plus accrued interest of $69,592 for a total amount of $312,477.  The derivative liability amounting to $366,351 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $380,800 respectively, accrued interest of $0 and $80,351 respectively, and a derivative liability of $0 and $453,333 respectively was recorded. 
+
+12 
+
+SIMLATUS CORPORATION. 
+
+(Formerly known as Grid Petroleum Corp.) 
+
+(A Development Stage Company) 
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS 
+
+September 30, 2016 
+
+(Unaudited) 
+
+Direct Capital Note #3  
+
+On October 1, 2014, the Company entered into a Convertible Promissory Note with Direct Capital Group, Inc. in the sum of $360,000. The promissory note is unsecured, bears interest at 8% per annum, and matures on April 1, 2015.  Any principal amount not paid by the maturity date shall bear interest at a rate of 22% annum.  The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $9,330 and $39,708 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On October 1, 2014, interest expense relating to the beneficial conversion feature of this convertible note of $360,000 was recorded in the financial statements with a corresponding increase to additional paid in capital.  During the six months ended September 30, 2016 and 2015 debt discount of $0 and $989 respectively was accreted to the statement of operations. 
+
+On May 19, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $360,000 plus accrued interest of $103,029 for a total amount of $463,029. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $360,000 respectively and accrued interest of $0 and $53,990 respectively was recorded. 
+
+Direct Capital Note #4  
+
+On January 1, 2015, the Company entered into a Convertible Promissory Note with Direct Capital Group, Inc. in the sum of $360,000. The promissory note is unsecured, bears interest at 8% per annum, and matures on July 1, 2015.  Any principal amount not paid by the maturity date shall bear interest at a rate of 22% annum.  The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $9,330 and $27,143 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On January 1, 2015, interest expense relating to the beneficial conversion feature of this convertible note of $360,000 was recorded in the financial statements with a corresponding increase to additional paid in capital.  During the six months ended September 30, 2016 and 2015 debt discount of $0 and $182,983 respectively was accreted to the statement of operations. 
+
+On March 11, 2016, accrued interest of $20,000 was reassigned to Tide Pool Ventures Capital. 
+
+On May 19, 2016, Direct Capital Group canceled the assignment with Tide Pool Ventures Capital due to non-payment for the remaining debt.  Furthermore, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $360,000 plus accrued interest of $63,204 for a total amount of $423,204. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $360,000 respectively, and accrued interest of $0 and $34,165 respectively, was recorded. 
+
+Direct Capital Note #5  
+
+On March 31, 2015, the Company entered into a Convertible Promissory Note with Direct Capital Group, Inc. in the sum of $240,000. The promissory note is unsecured, bears interest at 8% per annum, and matures on September 30, 2015. Any principal amount not paid by the maturity date shall bear interest at a rate of 22% annum.  The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $6,220 and $9,626 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On March 31, 2015, interest expense relating to the beneficial conversion feature of this convertible note of $240,000 was recorded in the financial statements with a corresponding increase to additional paid in capital.  During the six months ended September 30, 2016 and 2015 debt discount of $0 and $240,000 respectively was accreted to the statement of operations. 
+
+On May 19, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $240,000 plus accrued interest of $42,319 for a total amount of $282,319. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $240,000 respectively, and accrued interest of $0 and $9,626 respectively, was recorded. 
+
+13 
+
+SIMLATUS CORPORATION. 
+
+(Formerly known as Grid Petroleum Corp.) 
+
+(A Development Stage Company) 
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS 
+
+September 30, 2016 
+
+(Unaudited) 
+
+Direct Capital Note #6  
+
+On June 30, 2015, the Company entered into a Convertible Promissory Note with Direct Capital Group, Inc. in the sum of $240,000. The promissory note is unsecured, bears interest at 8% per annum, and matures on December 30, 2015. Any principal amount not paid by the maturity date shall bear interest at a rate of 22% annum.  The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $13,164 and $4,839 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On June 30, 2015, interest expense relating to the beneficial conversion feature of this convertible note of $240,000 was recorded in the financial statements with a corresponding increase to additional paid in capital.  During the six months ended September 30, 2016 and 2015 debt discount of $0 and $120,656 respectively was accreted to the statement of operations. 
+
+On April 28, 2016, accrued interest of $15,886 was reassigned to GHS Investments, LLC. 
+
+On September 8, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $240,000 plus accrued interest of $20,121 for a total amount of $260,121. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $240,000 respectively, accrued interest of $0 and $4,839 respectively, and debt discount of $0 and $119,344 respectively, was recorded. 
+
+Direct Capital Note #7  
+
+On September 30, 2015, the Company entered into a Convertible Promissory Note with Direct Capital Group, Inc. in the sum of $240,000. The promissory note is unsecured, bears interest at 8% per annum, and matures on March 31, 2016. Any principal amount not paid by the maturity date shall bear interest at a rate of 22% annum.  The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $9,668 and $0 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On September 30, 2015, interest expense relating to the beneficial conversion feature of this convertible note of $240,000 was recorded in the financial statements with a corresponding increase to additional paid in capital.  During the six months ended September 30, 2016 and 2015 debt discount of $0 and $0 respectively was accreted to the statement of operations. 
+
+On May 3, 2016, the principal amount of $100,000 was reassigned to Blackbridge Capital, LLC.  On June 2, 2016, the debt assignment to Blackbridge Capital, LLC was cancelled due to non-payment and the balance of $100,000 was returned to Direct Capital Group. 
+
+On September 8, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $240,000 plus accrued interest of $19,291for a total amount of $259,294. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $240,000 respectively, and debt discount of $0 and $240,000 respectively, was recorded. 
+
+Direct Capital Note #8  
+
+On July 31, 2013, the Company entered into a Convertible Promissory Note with Syndication Capital in the sum of $14,072.  The promissory note is unsecured, bears interest at 8% per annum, and matures on February 1, 2014.  Any principal amount not paid by the maturity date bears interest at 22% per annum. The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933.  On August 8, 2015, the note was reassigned to Direct Capital Group, Inc. 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $2 and $776 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On July 1, 2015, the principal amount of $14,000 was reassigned to Santa Rosa Resources, Inc. 
+
+On May 19, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $72 plus accrued interest of $4,941 for a total amount of $5,013. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $14,072 respectively and accrued interest of $0 and $4,931 respectively was recorded. 
+
+14 
+
+SIMLATUS CORPORATION. 
+
+(Formerly known as Grid Petroleum Corp.) 
+
+(A Development Stage Company) 
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS 
+
+September 30, 2016 
+
+(Unaudited) 
+
+Direct Capital Note #11  
+
+On September 30, 2013, the Company entered into a Convertible Promissory Note with Syndication Capital in the sum of $11,000.  The promissory note is unsecured, bears interest at 8% per annum, and matures on April 1, 2014.  Any principal amount not paid by the maturity date bears interest at 22% per annum.  The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933.  On August 8, 2015, the note was reassigned to Direct Capital Group, Inc. 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $603 and $1,213 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On September 8, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $11,000 plus accrued interest of $5,879 for a total amount of $16,879. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $11,000 respectively and accrued interest of $5,879 and $3,453 respectively was recorded. 
+
+Direct Capital Note #17  
+
+On March 31, 2014, the Company entered into a Convertible Promissory Note with Syndication Capital in the sum of $16,000.  The promissory note is unsecured, bears interest at 8% per annum, and matures on October 1, 2014.  Any principal amount not paid by the maturity date bears interest at 22% per annum. The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933.  On August 8, 2015, the note was reassigned to Direct Capital Group, Inc. 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $878 and $1,765 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On September 8, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $16,000 plus accrued interest of $6,795 for a total amount of $22,975. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $16,000 respectively and accrued interest of $0 and $4,152 respectively, was recorded. 
+
+Direct Capital Note #18  
+
+On April 30, 2014, the Company entered into a Convertible Promissory Note with Syndication Capital in the sum of $48,000.  The promissory note is unsecured, bears interest at 8% per annum, and matures on November 1, 2014.  Any principal amount not paid by the maturity date bears interest at 22% per annum. The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933.  On August 8, 2015, the note was reassigned to Direct Capital Group, Inc. 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $596 and $5,294 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On October 23, 2015, the principal amount of $25,000 was reassigned to GHS Investments, LLC. 
+
+On May 19, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $23,000 plus accrued interest of $15,060 for a total amount of $38,060. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $48,000 respectively and accrued interest of $0 and $11,581 respectively was recorded. 
+
+Direct Capital Note #19  
+
+On July 31, 2014, the Company entered into a Convertible Promissory Note with Syndication Capital in the sum of $48,000.  The promissory note is unsecured, bears interest at 8% per annum, and matures on February 1, 2015.  Any principal amount not paid by the maturity date bears interest at 22% per annum. The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933.  On August 8, 2015, the note was reassigned to Direct Capital Group, Inc. 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $0 and $5,294 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On September 30, 2015, the principal balance of $48,000 was reassigned to Blackbridge Capital, LLC. 
+
+On May 19, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $8,919 of accrued interest for a total amount of $8,919. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively and accrued interest of $0 and $8,919 respectively was recorded.  
+
+15 
+
+SIMLATUS CORPORATION.  
+
+(Formerly known as Grid Petroleum Corp.)  
+
+(A Development Stage Company)  
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS  
+
+September 30, 2016  
+
+(Unaudited)  
+
+Direct Capital Note #20  
+
+On October 31, 2014, the Company entered into a Convertible Promissory Note with Syndication Capital in the sum of $48,000.  The promissory note is unsecured, bears interest at 8% per annum, and matures on May 1, 2015.  Any principal amount not paid by the maturity date bears interest at 22% per annum. The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933.  On August 8, 2015, the note was reassigned to Direct Capital Group, Inc. 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $1,170 and $4,724 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On October 31, 2014, interest expense relating to the beneficial conversion feature of this convertible note of $48,000 was recorded in the financial statements with a corresponding increase to additional paid in capital.  During the six months ended September 30, 2016 and 2015 debt discount of $0 and $5,436, respectively was accreted to the statement of operations. 
+
+On October 15, 2015, the principal balance of $48,000 and accrued interest of $6,419 was reassigned to Tangiers Investment Group, LLC. 
+
+On January 1, 2016, the principal balance of $45,157 and accrued interest of $795 was reassigned back to Direct Capital Group, LLC from Tangiers Investment Group, LLC. 
+
+On May 19, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $45,157 plus accrued interest of $4,415 for a total amount of $49,572. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $48,000 respectively, and accrued interest of $0 and $6,312 respectively was recorded. 
+
+Direct Capital Note #21  
+
+On October 31, 2015, the Company entered into a Convertible Promissory Note with Direct Capital Group, Inc. in the sum of $80,000. The promissory note is unsecured, bears interest at 8% per annum, and matures on April 30, 2016. Any principal amount not paid by the maturity date shall bear interest at a rate of 22% annum.  The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $1,153 and $0 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On October 31, 2015, interest expense relating to the beneficial conversion feature of this convertible note of $80,000 was recorded in the financial statements with a corresponding increase to additional paid in capital.  During the six months ended September 30, 2016 and 2015 debt discount of $8,767 and $0 respectively was accreted to the statement of operations. 
+
+On May 19, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $80,000 plus accrued interest of $3,818 for a total amount of $83,818. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded. 
+
+Direct Capital Note #22  
+
+On November 30, 2015, the Company entered into a Convertible Promissory Note with Direct Capital Group, Inc. in the sum of $80,000. The promissory note is unsecured, bears interest at 8% per annum, and matures on May 31, 2016. Any principal amount not paid by the maturity date shall bear interest at a rate of 22% annum.  The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $754 and $0 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On November 30, 2015, interest expense relating to the beneficial conversion feature of this convertible note of $80,000 was recorded in the financial statements with a corresponding increase to additional paid in capital.  During the six months ended September 30, 2016 and 2015 debt discount of $22,149 and $0 respectively was accreted to the statement of operations. 
+
+On May 19, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $80,000 plus accrued interest of $2,893 for a total amount of $82,893. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded. 
+
+16 
+
+SIMLATUS CORPORATION. 
+
+(Formerly known as Grid Petroleum Corp.) 
+
+(A Development Stage Company) 
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS 
+
+September 30, 2016 
+
+(Unaudited) 
+
+Direct Capital Note #23  
+
+On December 31, 2015, the Company entered into a Convertible Promissory Note with Direct Capital Group, Inc. in the sum of $80,000. The promissory note is unsecured, bears interest at 8% per annum, and matures on June 30, 2016. Any principal amount not paid by the maturity date shall bear interest at a rate of 22% annum.  The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $754 and $0 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On December 31, 2015, interest expense relating to the beneficial conversion feature of this convertible note of $80,000 was recorded in the financial statements with a corresponding increase to additional paid in capital.  During the six months ended September 30, 2016 and 2015 debt discount of $40,000 and $0 respectively was accreted to the statement of operations. 
+
+On May 19, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $80,000 plus accrued interest of $2,350 for a total amount of $82,350. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded. 
+
+Direct Capital Note #24  
+
+On January 31, 2016, the Company entered into a Convertible Promissory Note with Direct Capital Group, Inc. in the sum of $80,000. The promissory note is unsecured, bears interest at 8% per annum, and matures on July 31, 2016. Any principal amount not paid by the maturity date shall bear interest at a rate of 22% annum.  The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $754 and $0 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On January 31, 2016, interest expense relating to the beneficial conversion feature of this convertible note of $80,000 was recorded in the financial statements with a corresponding increase to additional paid in capital.  During the six months ended September 30, 2016 and 2015 debt discount of $53,626 and $0 respectively was accreted to the statement of operations. 
+
+On May 19, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $80,000 plus accrued interest of $1,806 for a total amount of $81,806. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded. 
+
+Direct Capital Note #25  
+
+On February 29, 2016, the Company entered into a Convertible Promissory Note with Direct Capital Group, Inc. in the sum of $80,000. The promissory note is unsecured, bears interest at 8% per annum, and matures on August 31, 2016. Any principal amount not paid by the maturity date shall bear interest at a rate of 22% annum.  The Conversion Price shall mean par $.00001 multiplied by the number of Common Stock converted at the time.  The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $754 and $0 respectively in interest expense. 
+
+A portion of the proceeds from issuance of the convertible debt, equal to the intrinsic value, is allocated to additional paid-in capital.  Because the debt is due on demand and is convertible at the date of issuance, the valuation of the beneficial conversion feature is charged to interest expense at the date of issuance. 
+
+On February 29, 2016, interest expense relating to the beneficial conversion feature of this convertible note of $80,000 was recorded in the financial statements with a corresponding increase to additional paid in capital.  During the six months ended September 30, 2016 and 2015 debt discount of $66,522 and $0 respectively was accreted to the statement of operations. 
+
+On May 19, 2016, the Company entered into an agreement with Direct Capital Group, Inc. to extinguish the note for $80,000 plus accrued interest of $1,298 for a total amount of $81,298. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded.  
+
+17 
+
+SIMLATUS CORPORATION.  
+
+(Formerly known as Grid Petroleum Corp.)  
+
+(A Development Stage Company)  
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS  
+
+September 30, 2016  
+
+(Unaudited)  
+
+Direct Capital Note #26  
+
+On April 7, 2016, the Company entered into a Convertible Promissory Note with Direct Capital Group, Inc. in the amount of $25,000.   The promissory note is unsecured, bears interest at 6% per annum, and matures on October 7, 2016.  Any principal amount not paid by the maturity date shall bear interest at the rate of 8% per annum.  The note may be converted at the option of the holder into common stock of the Company.  The conversion price is 32% of the average closing stock price five days prior to the conversion date. 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $723 and $0 respectively in interest expense. 
+
+On April 7, 2016, the Company recorded a debt discount and derivative liability of $78,006, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a loss of $15,599 and $0, respectively due to the change in value of the derivative liability during the period.  During the six months ended September 30, 2016 and 2015, the debt discount of $24,483 and $0 respectively was accreted to the statement of operations. 
+
+At September 30, 2016 and 2015, principal balance of $25,000 and $0 respectively, accrued interest of $723 and $0 respectively, debt discount of $517 and $0 respectively, and a derivative liability of $93,605 and $0 respectively, was recorded. 
+
+Direct Capital Note #27  
+
+On May 17, 2016, the Company entered into a Convertible Promissory Note with Direct Capital Group, Inc. in the amount of $36,000.   The promissory note is unsecured, bears interest at 6% per annum, and matures on November 17, 2016.  Any principal amount not paid by the maturity date shall bear interest at the rate of 8% per annum.  The note may be converted at the option of the holder into common stock of the Company.  The conversion price is 32% of the average closing stock price five days prior to the conversion date. 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued $805 and $0 respectively in interest expense. 
+
+On May 17, 2016, the Company recorded a debt discount and derivative liability of $112,245, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a loss of $22,546 and $0, respectively due to the change in value of the derivative liability during the period.  During the six months ended September 30, 2016 and 2015, the debt discount of $28,855 and $0 respectively was accreted to the statement of operations. 
+
+At September 30, 2016 and 2015, principal balance of $36,000 and $0 respectively, accrued interest of $805 and $0 respectively, debt discount of $7,145 and $0 respectively, and a derivative liability of $134,791 and $0 respectively was recorded. 
+
+GHS Investments LLC Note #1  
+
+On October 23, 2015, the Company reassigned $25,000 of the principal amount of a Direct Capital Note to GHS Investments LLC.  The original note was issued on April 30, 2014 with a principal balance of $48,000.  The promissory note is unsecured, bears interest at 8% per annum, and matures on July 25, 2016.  During the six months ended September 30, 2016 and 2015, the Company accrued $0 and $0 respectively in interest expense. 
+
+On October 23, 2015, the Company recorded a debt discount and derivative liability of $76,316, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a loss of $201 and $0 respectively due to the change in value of the derivative liability during the period and the debt discount of $4,725 and $0 respectively was accreted to the statement of operations. 
+
+During the six months ended September 30, 2016, the Company issued an aggregate of 266,710 common shares upon the conversion of the principal amount of $12,748 and accrued interest of $588.  The derivative liability amounting to $25,424 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded. 
+
+GHS Investments LLC Note #2  
+
+On April 28, 2016, the Company reassigned $15,886 of accrued interest of a Direct Capital Note to GHS Investments LLC.  The original note was issued on April 30, 2014 with a principal balance of $48,000.  The promissory note is unsecured, bears interest at 8% per annum, and matures on January 28, 2017.  During the six months ended September 30, 2016 and 2015, the Company accrued $224 and $0 respectively in interest expense. 
+
+On April 28, 2016, the Company recorded a debt discount and derivative liability of $31,687, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a loss of $12,287 and $0 respectively due to the change in value of the derivative liability during the period and the debt discount of $13,819 and $0 respectively was accreted to the statement of operations. 
+
+During the six months ended September 30, 2016, the Company issued an aggregate of 194,800 common shares upon the conversion of the principal amount of $9,740.  The derivative liability amounting to $19,427 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $6,146 and $0 respectively, accrued interest of $224 and $0 respectively, debt discount of $2,067 and $0 respectively, and a derivative liability of $24,547 and $0 respectively, was recorded. 
+
+18 
+
+SIMLATUS CORPORATION. 
+
+(Formerly known as Grid Petroleum Corp.) 
+
+(A Development Stage Company) 
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS 
+
+September 30, 2016 
+
+(Unaudited) 
+
+GW Holdings Group LLC Note  
+
+On October 13, 2015, the Company reassigned $60,411 of the principal balance and accrued interest of a New Venture Attorneys Note to GW Holdings Group LLC.  The original note was issued on April 1, 2014 and had a principal balance of $50,000 and accrued interest of $10,411.  During the six months ended September 30, 2016 and 2015, the Company accrued $153 and $0 respectively in interest expense. 
+
+On October 13, 2015, the Company recorded a debt discount and derivative liability of $159,082, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a loss of $85,688 and $0 respectively due to the change in value of the derivative liability during the period. 
+
+During the six months ended September 30, 2016, the Company issued an aggregate of 83,051 common shares upon the conversion of the principal amount of $4,000 and accrued interest of $153.  The derivative liability amounting to $7,985 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $42,500 and $0 respectively, and a derivative liability of $169,746 and $0 respectively, was recorded. 
+
+LG Capital Funding Note  
+
+On March 3, 2014, the Company arranged a debt swap under which an Xploration, Inc. note for $40,000 was transferred to LG Capital Funding, LLC.  The promissory note is unsecured, bears interest at 8% per annum and matures on March 3, 2015.  Any principal amount not paid by the maturity date bears interest at 24% per annum.  During the six months ended September 30, 2016 and 2015, the Company accrued $1,625 and $3,490 respectively in interest expense. 
+
+On March 3, 2014, the Company recorded a debt discount and derivative liability of $63,048, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a gain of $3,036 and a loss of $5,933 respectively due to the change in value of the derivative liability during the period. 
+
+During the six months ended September 30, 2016, the Company issued an aggregate of 67,700 common shares upon the conversion of the principal amount of $2,900 and accrued interest of $485.  The derivative liability amounting to $5,785 was re-classified to additional paid in capital. 
+
+On August 3, 2016, the principal balance of $26,100 and accrued interest of $8,900 was reassigned to N600PG, LLC.  The derivative liability amounting to 48,582 was re-classified to additional paid in capital and the accrued interest balance of $2,037 was credited to the statement of operations. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $29,000 respectively, accrued interest of $0 and $9,798 respectively, and a derivative liability of $0 and $58,000 respectively, was recorded. 
+
+Microcap Equity Group LLC Note  
+
+On October 15, 2015, the Company reassigned the principal balance and accrued interest of a Direct Capital Group Note to Microcap Equity Group LLC.  The original note was issued on December 31, 2013 and had a principal balance of $16,000 and accrued interest of $5,033. 
+
+On October 15, 2015, the Company recorded a debt discount and derivative liability of $32,000, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a loss of $1 and $0 respectively due to the change in value of the derivative liability during the period. 
+
+During the six months ended September 30, 2016, the Company issued an aggregate of 145,040 common shares upon the conversion of principal amount of $4,180 and accrued interest of $3,072.  The derivative liability amounting to $8,275 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded. 
+
+N600PG, LLC Note  
+
+On August 3, 2016, the Company reassigned $26,100 of principal and $8,900 in accrued interest of a LG Capital Partners Note to N600PG, LLC.  The original note was issued on March 3, 2014 with a principal amount of $40,000. 
+
+On August 3, 2016, the Company recorded a debt discount and derivative liability of $104,796, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded $0 and $0 respectively, due to the change in value of the derivative liability during the period, and the debt discount of $35,000 and $0 respectively, was accreted to the statement of operations. 
+
+During the six months ended September 30, 2016, the Company issued an aggregate of 7,000,000 common shares upon the conversion of principal amount of $35,000.  The derivative liability amounting to $104,796 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded. 
+
+19 
+
+SIMLATUS CORPORATION. 
+
+(Formerly known as Grid Petroleum Corp.) 
+
+(A Development Stage Company) 
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS 
+
+September 30, 2016 
+
+(Unaudited) 
+
+Rockwell Capital Partners Note #3  
+
+On April 27, 2016, the Company reassigned $23,550 of principal of a Direct Capital Note to Rockwell Capital Partners Inc.  The original note was issued on December 31, 2012 with a principal balance of $70,671. 
+
+On April 27, 2016, the Company recorded a debt discount and derivative liability of $46,973, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a gain of $1 and $0 respectively due to the change in value of the derivative liability during the period and the debt discount of $23,550 and $0 respectively was accreted to the statement of operations. 
+
+During the six months ended September 30, 2016, the Company issued an aggregate of 471,000 common shares upon the conversion of principal amount of $23,550.  The derivative liability amounting to $46,972 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded. 
+
+Southridge Partners LP Note  
+
+On October 27, 2015, the Company reassigned $30,730 of the principal balance and accrued interest of two Direct Capital Note to Southridge Partners LP.  The original notes were issued on July 31, 2013 and August 31, 2013, and had a principal balance of $11,000 and $11,000 respectively and accrued interest of $4,461 and $4,269 respectively.  During the six months ended September 30, 2016 and 2015, the Company accrued $0 and $0 respectively in interest expense. 
+
+On October 27, 2015, the Company recorded a debt discount and derivative liability of $38,817, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a loss of $234 and $0 respectively, due to the change in value of the derivative liability during the period. 
+
+On April 20, 2016, the Company accepted the request from Direct Capital Group to extinguish the note for $15,655, and the derivative liability of $31,222 was reclassified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded. 
+
+Special Situations Fund One Note  
+
+On March 12, 2012, the Company arranged a debt swap under which an Asher Enterprises note for $40,000 was transferred to Special Situations Fund One for the Asher note plus an additional $21,491, for a total of $61,491.  On April 4, 2013, the Company transferred $40,000 of the note to Asher Enterprises.  The promissory note is unsecured, bears interest at 8% per annum, and matures on September 12, 2012.  During the six months ended September 30, 2016 and 2015, the Company accrued $0 and $862 respectively in interest expense. 
+
+On September 9, 2012, the Company recorded a derivative liability of $71,218, being the fair value of the conversion feature which was determined using the Black-Scholes valuation method. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a loss of $318 and a gain of $2,655 respectively due to the change in value of the derivative liability during the period. 
+
+On April 20, 2016, the Company accepted the request from Special Situations Fund One Inc. to extinguish the note for $21,491 plus accrued interest of $12,754, and the derivative liability amounting to $42,019 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $21,491 respectively, accrued interest of $0 and $11,892 respectively, and a derivative liability of $0 and $35,116 respectively, was recorded. 
+
+Syndication Capital Note #1   
+
+On December 31, 2012, the Company entered into a Convertible Promissory Note with Syndication Capital, LLC, Inc. in the amount of $105,000.   The promissory note is unsecured, is interest free and is due on demand.  The note may be converted at the option of the holder into common stock of the Company.  The conversion price is 50% of the market price, where market price is defined as  the average of the lowest three trading price in the ten days prior to the conversion date.   The transaction was handled as a private sale exempt from registration under Section 4(2) of the Securities Act of 1933. 
+
+On December 31, 2012, the Company recorded an initial derivative liability of $140,146 being the fair value of the conversion feature which was determined using the Black-Scholes valuation method. 
+
+On August 4, 2013, the Company transferred $100,000 of the note to Gel Properties, LLC and recorded a credit to derivative liability of $453,305. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a loss of $75 and a gain of $644 respectively due to the change in value of the derivative liability during the period. 
+
+On April 20, 2016, the Company accepted the request from Direct Capital Group to extinguish the note for $5,000, and the derivative liability amounting to $9,972 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $5,000 respectively and a derivative liability of $0 and $8,333 respectively, was recorded. 
+
+20 
+
+SIMLATUS CORPORATION. 
+
+(Formerly known as Grid Petroleum Corp.) 
+
+(A Development Stage Company) 
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS 
+
+September 30, 2016 
+
+(Unaudited) 
+
+Tide Pool Note  
+
+On March 11, 2016, the Company reassigned $20,000 of the accrued interest amount of a Direct Capital Note to Tide Pool Ventures Corporation.  The original note was issued on January 1, 2015 with a principal balance of $360,000. 
+
+On March 11, 2016 the Company recorded a debt discount and derivative liability of $39,725, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a loss of $220 and $0 respectively due to the change in value of the derivative liability during the period. 
+
+During the six months ended September 30, 2016, the Company issued an aggregate of 120,000 common shares upon the conversion of principal amount of $6,000.  The derivative liability amounting to $11,968 was re-classified to additional paid in capital. 
+
+On May 11, 2016, the Company accepted the request from Direct Capital Group to extinguish the note for $8,500, and the derivative liability of $16,954 was reclassified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded. 
+
+V2IP, LLC Note #1  
+
+On April 12, 2016, the Company reassigned $10,000 of accrued interest of a Direct Capital Note to V2IP, LLC.  The original note was issued on October 1, 2013 with a principal amount of $384,000. 
+
+On April 12, 2016, the Company recorded a debt discount and derivative liability of $19,972, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a gain of $16 and $0 respectively due to the change in value of the derivative liability during the period and the debt discount of $10,000 and $0 respectively was accreted to the statement of operations. 
+
+During the six months ended September 30, 2016, the Company issued an aggregate of 200,000 common shares upon the conversion of principal amount of $10,000.  The derivative liability amounting to $19,956 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded. 
+
+V2IP, LLC Note #2  
+
+On May 13, 2016, the Company reassigned $20,000 of accrued interest of a Direct Capital Note to V2IP, LLC.  The original note was issued on October 1, 2013 with a principal amount of $384,000. 
+
+On May 13, 2016, the Company recorded a debt discount and derivative liability of $39,891, being the fair value of the conversion feature which was determined using the Black-Scholes valuation model.  The debt discount is accreted to the statement of operations using the effective interest rate method over the term of the note or to the date of conversion, and the derivative liability is revalued at each reporting date to fair value.  Any change in fair value is credited or charged to the statement of operations in the period. 
+
+During the six months ended September 30, 2016 and 2015, the Company recorded a gain of $6 and $0 respectively due to the change in value of the derivative liability during the period and the debt discount of $20,000 and $0 respectively was accreted to the statement of operations. 
+
+During the six months ended September 30, 2016, the Company issued an aggregate of 200,000 common shares upon the conversion of principal amount of $10,000.  The derivative liability amounting to $19,942 was re-classified to additional paid in capital. 
+
+On May 18, 2016, the debt assignment to V2IP, LLC was cancelled due to non-payment and the remaining balance of $10,000 was returned to Direct Capital Group.  The derivative liability amounting to $19,943 was re-classified to additional paid in capital. 
+
+At September 30, 2016 and 2015, principal balance of $0 and $0 respectively, was recorded. 
+
+21 
+
+SIMLATUS CORPORATION.  
+
+(Formerly known as Grid Petroleum Corp.)  
+
+(A Development Stage Company)  
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS  
+
+September 30, 2016  
+
+(Unaudited)  
+
+6.  LONG TERM NOTE PAYABLE 
+
+Carl Ambrose Note  
+
+On June 6, 2016, the Company entered into a promissory note with Carl Ambrose in the amount of $20,000.  The note is interest free and is due ninety days from the date of the agreement. 
+
+Frank Trapp Notes  
+
+On April 1, 2016, the Company agreed to allow two promissory notes with Frank Trapp in the total amount of $25,000, previously held by RJM Associates, to be transferred to the Company.  The notes were issued on September 18, 2014 and November 3, 2015, and had a principal balance of $10,000 and $15,000 respectively, are due on August 1, 2016 and December 1, 2017, respectively, and are accruing interest at 5% per annum.  As of April 1, the total principal and interest balance on the notes was $21,208.  During the six months ended September 30, 2016, the Company made payments of $4,000, leaving a balance of $17,208 as of September 30, 2016. 
+
+7. DERIVATIVE LIABILITIES 
+
+The Company issued financial instruments in the form of convertible notes with embedded conversion features. Some of the convertible notes payable have conversion rates, which are indexed to the market value of the Company s stock price.  During the six months ended September 30, 2016 and 2015, the Company recorded derivative liabilities for embedded conversion features related to convertible notes payable of face value $433,570 and $96,000 respectively. During the six months ended September 30, 2016 and 2015, $250,924 and $0 respectively of convertible notes payable principal and accrued interest was converted into common stock of the Company. For the six months ended September 30, 2016 and 2015, the Company performed a final mark-to-market adjustment for the derivative liability related to the convertible notes of and the carrying amount of the derivative liability related to the conversion feature of $1,101,528 and $0 respectively, was re-classed to additional paid in capital on the date of conversion in the statement of shareholders  deficit. During the six months ended September 30, 2016 and 2015, the Company recognized a loss of $181,373 and a gain of $17,778 respectively based on the change in fair value (mark-to market adjustment) of the derivative liability associated with the embedded conversion features in the accompanying statement of operations.  
+
+These derivative liabilities have been measured in accordance with fair value measurements, as defined by ASC 820. The valuation assumptions are classified within Level 1 and Level 2 inputs. The following table represents the Company s derivative liability activity for the embedded conversion features discussed above. 
+
+The following table represents the Company s derivative liability activity for the embedded conversion features discussed above : 
+
+These instruments were not issued with the intent of effectively hedging any future cash flow, fair value of any asset, liability or any net investment in a foreign operation. The instruments do not qualify for hedge accounting, and as such, all future changes in the fair value will be recognized currently in earnings until such time as the instruments are exercised, converted or expire.  
+
+8. RELATED PARTY TRANSACTIONS 
+
+Related party transaction is not disclosed elsewhere in the consolidated financial statements are as follows: 
+
+On September 9, 2015 James Powell announced his resignation as President, Secretary, Treasure, and Director of the Company.  There are no known disagreements with Mr. Powell regarding such resignation or any claims the Company may have against him. 
+
+On September 9, 2015 Edward Aruda was appointed President, Director, Secretary, and Treasurer of the Company. 
+
+On March 9, 2016, Mr. Aruda, tendered his resignation as President, Secretary and Treasurer.  Mr. Aruda will remain a Director of the Company.  Mr. Aruda s resignation was not due to any disagreement on any matter relating to the operations, policies, or practices of the Company. 
+
+On March 21, 2016, Mr. Aruda, signed an agreement to waive all of his unpaid salary and expenses to date in the amount of $8,000. This debt has been canceled and removed from the financial statements. 
+
+22 
+
+SIMLATUS CORPORATION.  
+
+(Formerly known as Grid Petroleum Corp.)  
+
+(A Development Stage Company)  
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS  
+
+September 30, 2016  
+
+(Unaudited)  
+
+The Company is indebted to its former officers as follows: 
+
+The amounts consist of unpaid salary and advances made on behalf of the Company.  The loans carry no interest, are unsecured, are due on demand and have no maturity. 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued debt to Direct Capital Group of $0 and $480,000 which was converted into convertible debt. 
+
+During the six months ended September 30, 2016 and 2015, the Company accrued debt to Direct Capital Group of $0 and $480,000 which was converted into convertible debt. 
+
+During the six months ended September 30, 2016 and 2015, the Company is indebted to Direct Capital Group for $225 and $7,642 respectively, for a total amount due of $62,807 and $49,529, respectively. 
+
+9. PREFERRED STOCK 
+
+On January 25, 2011 the Company filed an amendment to its Nevada Certificate of Designation to create two new series of preferred stock: 
+
+Preferred Series A - par value $0.001 - 10,000,000 shares authorized 
+
+Preferred Series B - par value $0.001   10,000,000 shares authorized 
+
+The preferred stock may be converted at will to common stock in the ratio of 0.005 preferred share to one common share. 
+
+On July 1, 2015, the Company s Board of Directors authorized the creation of 1,000 shares of Series B Voting Preferred Stock.  The holder of the shares of the Series B Voting Preferred Stock has the right to vote those shares of the Series B Voting Preferred Stock regarding any matter or action that is required to be submitted to the shareholders of the Company for approval.  The vote of each share of the Series B Voting Preferred Stock is equal to and counted as 4 times the votes of all of the shares of the Company s (i) common stock, and (ii) other voting preferred stock issued and outstanding on the date of each and every vote or consent of the shareholders of the Company regarding each and every matter submitted to the shareholders of the Company for approval. 
+
+On July 1, 2015, the Company filed a Certificate of Designation with the Nevada Secretary of State creating the 1,000 shares of Series B Voting Preferred Stock 
+
+On July 27, 2015, the Company issued 1,000 shares of Series B Voting Preferred Stock to Santa Rosa, representing 100% of the total issued and outstanding shares of the Company s Series B Voting Preferred Stock. 
+
+On March 21, 2016 Mr. DeHererra, agreed to convert all of his outstanding salary and unpaid expenses to Preferred Series A Stock. The Company issued 200,000 shares of Preferred Series A stock to satisfy $358,459 of debt owed to Mr. DeHererra. The stock is locked-up for 24 months. 
+
+On April 3, 2016, 1,000 Preferred Stock Series B shares issued to Santa Rosa Resources, Inc. were transferred in equal amounts of 250 shares each to Robert Stillwaugh, Mike Schatz, Gary Tilden and Donna Marie Murtaugh. 
+
+On August 3, 2016, pursuant to the Asset Purchase Agreement dated March 9, 2016, the Company issued 698,324 shares of Preferred Series A stock in equal amounts of 174,581 shares each to Robert Stillwaugh, Mike Schatz, Gary Tilden and Donna Marie Murtaugh, at a price of $1.79 per share. 
+
+As of September 30, 2016, 10,000,000 Series A preferred shares and 10,000,000 Series B preferred shares of par value $0.001 were authorized, of which 2,217,824 Series A shares were issued and outstanding, (1,519,500 shares as of March 31, 2016) and 1,000 Series B shares were issued and outstanding (1,000 shares as of March 31, 2016).  
+
+23 
+
+SIMLATUS CORPORATION. 
+
+(Formerly known as Grid Petroleum Corp.) 
+
+(A Development Stage Company) 
+
+NOTES TO THE INTERIM CONSOLIDATED FINANCIAL STATEMENTS 
+
+September 30, 2016 
+
+(Unaudited) 
+
+10. COMMON STOCK 
+
+From April 1, 2014 to March 31, 2015, the holders of a convertible notes converted a total of $92,844 of principal and interest into 2,001,759,062 shares of our common stock. 
+
+On July 27, 2015, the Company approved the authorization of a 1 for 1,000 reverse stock split of the Company s outstanding shares of common stock. 
+
+On September 17, 2015, 60,000,000 shares of common shares were issued to Right Energy Incorporated pursuant to an agreement. 
+
+On October 26, 2015, the Company filed a Certificate of Amendment to change the par value of common stock from $0.001 to $0.00001. 
+
+On March 31, 2016, Right Energy, Inc. returned and retired 60,000,000 shares of common stock that was issued on September 17, 2015, pursuant to the  Farmout Agreement  executed on September 14, 2015.  The Company agreed to cancel all of the shares and return all of the 60,000,000 shares to the treasury. 
+
+From April 1, 2015 to March 31, 2016, the holders of convertible notes converted a total of $231,066 of principal and interest into 1,668,797,249 shares of our common stock. 
+
+On June 15, 2016, the Company approved the authorization of a 1 for 1,000 reverse stock split of the Company s outstanding shares of common stock, which was effective on July 22, 2016. 
+
+On August 3, 2016, pursuant to the Asset Purchase Agreement dated March 9, 2016, the Company issued 136,363,636 shares of common stock in equal amounts of 34,090,909 shares each to Robert Stillwaugh, Mike Schatz, Gary Tilden and Donna Marie Murtaugh, at a price of $0.011 per share. 
+
+On August 29, 2016, the Company filed a Certificate of Amendment to reduce the amount of authorized common shares to 163,000,000 shares, par value of $0.00001. 
+
+During the six months ended September 30, 2016, the holders of convertible notes converted a total of $250,924 of principal and interest into 24,663,782 shares of our common stock. 
+
+As of September 30, 2016, 163,000,000 common shares, par value $0.00001, were authorized (7,500,000,000 shares as of March 31, 2016), of which 162,645,819 shares were issued and outstanding (1,615,696 shares as of March 31, 2016). 
+
+11. INCOME TAXES 
+
+A reconciliation of income tax expense to the amount computed at the statutory rates is as follows: 
+
+The Company has net operating losses carried forward of approximately $22,429,877 for tax purposes which will expire in 2026 if not utilized beforehand.   
+
+12. COMMITMENTS 
+
+On June 27, 2016, the Company entered into a Consulting Agreement ( Agreement ) with Channel Sales   Consulting, LLC ( Consultant ).  The Company has agreed to pay the Consultant $3,000 per month for the first two months, and $4,000 per month thereafter.  The Consulting will also be paid a 10% commission on all gross sales generated through a licensed dealer and 30% commission on non-licensed dealers.  The Consultant will receive a signing bonus of $100,000 to be issued in restricted common stock at fair market value, to be issued to the Consultant or entity of their choice.  If within the first twelve months of the Agreement, the Consultant generates gross sales above $2,000,000, the Company will pay an additional 5% commission on gross sales, either in cash or restricted common stock. 
+
+24 
+
+ITEM    2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION OR PLAN OF OPERATION 
+
+FORWARD-LOOKING STATEMENTS 
+
+This Management's Discussion and Analysis of Financial Condition and Results of Operations (MD A) contains forward-looking statements that involve known and unknown risks, significant uncertainties and other factors that may cause our actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed, or implied, by those forward-looking statements. You can identify forward-looking statements by the use of the words may, will, should, could, expects, plans, anticipates, believes, estimates, predicts, intends, potential, proposed, or continue or the negative of those terms. These statements are only predictions. In evaluating these statements, you should consider various factors which may cause our actual results to differ materially from any forward-looking statements. Although we believe that the exceptions reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Therefore, actual results may differ materially and adversely from those expressed in any forward-looking statements. We undertake no obligation to revise or update publicly any forward-looking statements for any reason. 
+
+RESULTS OF OPERATIONS 
+
+Working Capital  
+
+Cash Flows 
+
+Results for the Three months Ended September 30, 2016 Compared to the Three months Ended September 30, 2015 
+
+Operating Revenues 
+
+The Company s revenues for the three months ended September 30, 2016 and September 30, 2015 were $58,365 and $0, respectively.  The increase is due to new product sales. 
+
+Cost of Revenues 
+
+The Company s cost of revenues for the three months ended September 30, 2016 and September 30, 2015 were $8,663 and $0, respectively.  The increase is due to the purchase of raw materials during the quarter. 
+
+Gross Profit (Loss) 
+
+The Company s gross profit for the three months ended September 30, 2016 and September 30, 2015 was $49,702 and $0, respectively. 
+
+25 
+
+Operating Expenses 
+
+Operating expenses for the three months ended September 30, 2016, and September 30, 2015, were $686,268 and $259,870, respectively.  Operating expenses consisted primarily of professional fees, salaries, office expenses and preparing reports and SEC filings relating to being a public company. The increase was primarily attributable to an increase is general and administrative expenses. 
+
+Net Loss from Operations 
+
+The Company s net loss from operations for the three month periods ended September 30, 2016 and 2015 was $(636,566) and $(259,870) respectively.  The increased loss is due to an increase in operating expenses. 
+
+Other Income (Expense) : 
+
+Other income (expense) for the three month periods ended September 30, 2016 and 2015 were $659,300 and $(383,069) respectively.  Other income (expense) consists of change of fair value on derivative valuation and interest expense and debt forgiveness.  The gain or loss on derivative valuation is directly attributable to the change in fair value of the derivative liability.  Interest expense is primarily attributable the initial interest expense associated with the valuation of derivative instruments at issuance and the accretion of the convertible debentures over their respective terms.  The increased income is due to debt forgiveness of $918,687. 
+
+Net Profit (Loss) 
+
+Net profit (loss) for the three month periods ended September 30, 2016 and 2015, was $22,734 and $(642,939) respectively.  The increased profit is due to the sales revenue and debt forgiveness. 
+
+Results for the Six months Ended September 30, 2016 Compared to the Six months Ended September 30, 2015 
+
+Operating Revenues 
+
+The Company s revenues for the six months ended September 30, 2016 and September 30, 2015 were $63,712 and $0, respectively.  The increase is due to new product sales. 
+
+Cost of Revenues 
+
+The Company s cost of revenues for the six months ended September 30, 2016 and September 30, 2015 were $41,186 and $0, respectively.  The increase is due to the purchase of raw materials during the quarter. 
+
+Gross Profit 
+
+The Company s gross profit for the six months ended September 30, 2016 and September 30, 2015 was $22,525 and $0 respectively. 
+
+Operating Expenses 
+
+Operating expenses for the six months ended September 30, 2016, and September 30, 2015, were $1,106,668 and $510,295, respectively.  Operating expenses consisted primarily of consulting fees, management fees, office expenses, amortization expenses and preparing reports and SEC filings relating to being a public company. The increase was primarily attributable to an increase is general and administrative expenses. 
+
+Net Loss from Operations 
+
+The Company s net loss from operations for the six month periods ended September 30, 2016 and 2015 was $(1,084,142) and $(510,295) respectively.  The increased loss is due to an increase in operating expenses. 
+
+Other Income (Expense) : 
+
+Other income (expense) for the three month periods ended September 30, 2016 and 2015 were $(5,223,568) and $(759,932) respectively.  Other income (expense) consists of change of fair value on derivative valuation and interest expense, debt forgiveness and loss on sale of property.  The gain or loss on derivative valuation is directly attributable to the change in fair value of the derivative liability.  Interest expense is primarily attributable the initial interest expense associated with the valuation of derivative instruments at issuance and the accretion of the convertible debentures over their respective terms.  The increased loss is due to debt forgiveness of $982,087 and loss on the sale of mineral property of $5,340,824. 
+
+26 
+
+Net Profit (Loss) 
+
+Net profit (loss) for the three month periods ended September 30, 2016 and 2015, was $(6,307,710) and $(1,270,227) respectively.  The increased loss is due to the increase in operating expenses, interest expenses associated with convertible debentures and loss on sale of mineral property. 
+
+Liquidity and Capital Resources 
+
+As of September 30, 2016, the Company had a cash balance and asset total of $2,109 and $5,598,692 respectively, compared with $2,226 and $13,222,712 of cash and total assets, respectively, as of March 31, 2016. The decrease in assets was due to the sale of the mineral property asset and normal operating activities. 
+
+As of September 30, 2016, the Company had total liabilities of $4,781,873 compared with $10,214,753 as of March 31, 2016. The decrease in total liabilities was primarily attributed to the cancellation of promissory notes. 
+
+The overall working capital increased from $(10,007,671) deficit at March 31, 2016 to $(4,566,306) at September 30, 2016. 
+
+Cash Flow from Operating Activities 
+
+During the six months ended September 30, 2016, cash used in operating activities was $(8,923,491) compared to $(502,161) for the six months ended September 30, 2015. 
+
+Cash Flow from Investing Activities 
+
+During the six months ended September 30, 2016 cash used in investing activities was $7,026,666 compared to $0 for the six months ended September 30, 2015. 
+
+Cash Flow from Financing Activities 
+
+During the six months ended September 30, 2016, cash provided by financing activity was $1,896,708 compared to $502,200 for the six months ended September 30, 2015. 
+
+Quarterly Developments 
+
+None. 
+
+Subsequent Developments 
+
+None. 
+
+Going Concern 
+
+We have not attained profitable operations and are dependent upon obtaining financing to pursue any extensive acquisitions and activities. For these reasons, our auditors stated in their report on our audited financial statements that they have substantial doubt that we will be able to continue as a going concern without further financing. 
+
+Future Financings 
+
+We will continue to rely on equity sales of our common shares in order to continue to fund our business operations. Issuances of additional shares will result in dilution to existing stockholders. There is no assurance that we will achieve any additional sales of the equity securities or arrange for debt or other financing to fund our operations and other activities. 
+
+Off-Balance Sheet Arrangements 
+
+We have no significant off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to stockholders. 
+
+Critical Accounting Policies 
+
+Our financial statements and accompanying notes have been prepared in accordance with United States generally accepted accounting principles applied on a consistent basis. The preparation of financial statements in conformity with U.S. generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting periods. 
+
+We regularly evaluate the accounting policies and estimates that we use to prepare our financial statements. A complete summary of these policies is included in the notes to our financial statements. In general, management's estimates are based on historical experience, on information from third party professionals, and on various other assumptions that are believed to be reasonable under the facts and circumstances. Actual results could differ from those estimates made by management. 
+
+27 
+
+Inflation 
+
+The amounts presented in the financial statements do not provide for the effect of inflation on our operations or financial position. The net operating losses shown would be greater than reported if the effects of inflation were reflected either by charging operations with amounts that represent replacement costs or by using other inflation adjustments. 
+
+Recently Issued Accounting Pronouncements 
+
+On June 10, 2014, The Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update No. 2014-10,  Development Stage Entities (Topic 915):   Elimination of Certain Financial Reporting Requirements, Including an Amendment to Variable Interest Entities Guidance in Topic 810, consolidation,  which removes all incremental financial reporting requirements from GAAP for development stage entities, including the removal of Topic 915 from the FASB Accounting Standards Codification. For the first annual period beginning after December 15, 2014, the presentation and disclosure requirements in Topic 915 will no longer be required for the public business entities. The revised consolidation standards are effective one year later, in annual periods beginning after December 15, 2015. Early adoption is permitted.  
+
+The Company has implemented all other new accounting pronouncements that are in effect. These pronouncements did not have any material impact on the financial statements unless otherwise disclosed, and the Company does not believe that there are any other new accounting pronouncements that have been issued that might have a material impact on its financial position or results of operations. 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+We are a non-accelerated filer and a smaller reporting company, as defined in Rule 12b-2 of the of the Securities Exchange Act of 1934, and as such, are not required to provide the information under this item. 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+
+Evaluation of Disclosure Controls and Procedures 
+
+We maintain disclosure controls and procedures, as defined in Rule 13a-15(e) promulgated under the Securities Exchange Act of 1934 (the "Exchange Act"), that are designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission's rules and forms and that such information is accumulated and communicated to our sole officer, as appropriate to allow timely decisions regarding required disclosure. We carried out an evaluation, under the supervision and with the participation of our sole officer, of the effectiveness of the design and operation of our disclosure controls and procedures as of September 30, 2016. Based on the evaluation of these disclosure controls and procedures, and in light of the material weaknesses in our internal control over financial reporting identified in our Annual Report on Form 10-K for the year ended March 31, 2016, that was filed with the SEC on June 29, 2016, the sole officer concluded that our disclosure controls and procedures are ineffective. 
+
+Changes in Internal Control over Financial Reporting 
+
+We have not yet implemented any of the recommended changes to internal control over financial reporting listed in our Annual Report on Form 10-K for the year ended March 31, 2016. As such, there were no changes in our internal control over financial reporting, as defined in Rule 13a-15(f) promulgated under the Exchange Act, during the quarter ended September 30, 2016 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+28 
+
+PART II- OTHER INFORMATION  
+
+ITEM 1.  LEGAL PROCEEDINGS 
+
+We know of no material, existing or pending legal proceedings against our company, nor are we involved as a plaintiff in any material proceeding or pending litigation. There are no proceedings in which our director, officer or any affiliates, or any registered or beneficial shareholder, is an adverse party or has a material interest adverse to our interest. 
+
+ITEM 1A.  RISK FACTORS 
+
+Our Annual Report on Form 10-K for the fiscal year ended March 31, 2016 includes a detailed discussion of our risk factors. 
+
+ITEM 2.  UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+
+1.   
+
+Quarterly Issuances: 
+
+On August 3, 2016, the Company issued 34,090,909 common shares to each of the Beneficial Shareholders, for a total of 136,363,636 shares. 
+
+On August 3, 2016, the Company issued 174,581 preferred Series-A shares to each of the Beneficial Shareholders, for a total of 698,324 shares. 
+
+. 
+
+On August 16, 2016, the holder of a convertible note converted a total of $68,500 of principal into 13,700,000 shares of our common stock. 
+
+On August 16, 2016, the holder of a convertible note converted a total of $15,000 of principal into 1,000,000 shares of our common stock 
+
+On August 16, 2016, the holder of a convertible note converted a total of $35,000 of principal into 7,000,000 shares of our common stock. 
+
+These securities were issued pursuant to Section 4(2) of the Securities Act and/or Rule 506 promulgated thereunder. The holders represented their intention to acquire the securities for investment only and not with a view towards distribution. The investors were given adequate information about us to make an informed investment decision. We did not engage in any general solicitation or advertising. We directed our transfer agent to issue the stock certificates with the appropriate restrictive legend affixed to the restricted stock. 
+
+2. Subsequent Issuances: 
+
+None. 
+
+These securities were issued pursuant to Section 4(2) of the Securities Act and/or Rule 506 promulgated thereunder. The holders represented their intention to acquire the securities for investment only and not with a view towards distribution. The investors were given adequate information about us to make an informed investment decision. We did not engage in any general solicitation or advertising. We directed our transfer agent to issue the stock certificates with the appropriate restrictive legend affixed to the restricted stock. 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES 
+
+None. 
+
+ITEM 4. SUBSEQUENT EVENTS 
+
+None. 
+
+ITEM 5. OTHER INFORMATION 
+
+On June 15, 2016, the Company approved the authorization of a 1 for 1,000 reverse stock split of the Company s outstanding shares of common stock, which had an effective date of July 22, 2016. 
+
+On July 25, 2016, the Company accepted the request from Direct Capital Group Inc., to extinguish a note between Direct Capital Group, Inc. and the Company dated December 31, 2012 for $70,671.  The note has a remaining balance of $47,121. (See Note 5) 
+
+On August 3, 2016, the Company entered into a Debt Assignment Agreement whereby $26,100 in principal and $8,900 of accrued interest of a LG Capital, LLC note was reassigned to N600PG, LLC.  The promissory note is unsecured, bears interest at 6% per annum, and matures on August 3, 2016. (See Note 5) 
+
+On September 7, 2016, the Company accepted the request from Direct Capital Group, Inc., to cancel the note between Anthony Super and the Company dated March 24, 2016 for $30,000.  The remaining balance of $9,000 was returned to Direct Capital Group, Inc. (See Note 5) 
+
+29 
+
+On September 8, 2016, the Company finalized an agreement with Direct Capital Group Inc., to extinguish the following notes in total value of $871,566: 
+
+ITEM 6. EXHIBITS 
+
+30 
+
+31 
+
+*Pursuant to Regulation S-T, this interactive data file is deemed not filed or part of a registration statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, and otherwise is not subject to liability under these sections. 
+
+SIGNATURES 
+
+In accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+SIMLATUS CORP. 
+
+Dated: November 15, 2016 
+
+/s/ Gary Tilden  
+
+Gary Tilden 
+
+Its: President, Principal Executive Officer   Principal Financial Officer (Principal Accounting Officer) 
+
+32 
+
+<EX-31.1>
+ 2
+ ex311.htm
+ CERTIFICATION
+
+ex311.htm 
+
+CERTIFICATION OF THE PRINCIPAL EXECUTIVE OFFICER PURSUANT TO RULE 13a-14 
+
+I, Gary Tilden, certify that: 
+
+1. I have reviewed this Quarterly Report on Form 10-Q of Simlatus Corporation; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 15, 2016 
+
+/s/ Gary Tilden  
+
+By: Gary Tilden 
+
+Its: Principal Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex312.htm
+ CERTIFICATION
+
+ex312.htm 
+
+CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER PURSUANT TO RULE 13a-14 
+
+I, Gary Tilden, certify that: 
+
+1. I have reviewed this Quarterly Report on Form 10-Q of Simlatus Corporation; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 15, 2016 
+
+/s/   Gary Tilden  
+
+By: Gary Tilden 
+
+Its: Principal Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex321.htm
+ CERTIFICATION
+
+ex321.htm 
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report of Simlatus Corporation (the  Company ) on Form 10-Q for the period ending September 30, 2016, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Gary Tilden, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge and belief: 
+
+(1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+
+/s/   Gary Tilden  
+
+By: Gary Tilden 
+
+Principal Executive Officer and Principal Financial Officer 
+
+Dated: November 15, 2016 
+
+A signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.CAL>
+ 5
+ siml-20160930_cal.xml
+ XBRL CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ siml-20160930_def.xml
+ XBRL DEFINITIONS LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.INS>
+ 7
+ siml-20160930.xml
+ XBRL INSTANCE LINKBASE
+
+</EX-101.INS>
+
+<EX-101.LAB>
+ 8
+ siml-20160930_lab.xml
+ XBRL LABELS LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ siml-20160930_pre.xml
+ XBRL PRESENTATION LINKBASE
+
+</EX-101.PRE>
+
+<EX-101.SCH>
+ 10
+ siml-20160930.xsd
+ XBRL SCHEMA LINKBASE
+
+</EX-101.SCH>
+

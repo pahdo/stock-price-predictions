@@ -1,0 +1,2377 @@
+<Header>
+<FileStats>
+    <FileName>20161114_10-Q_edgar_data_1499961_0001144204-16-133640_1.txt</FileName>
+    <GrossFileSize>6915606</GrossFileSize>
+    <NetFileSize>144749</NetFileSize>
+    <ASCII_Embedded_Chars>390117</ASCII_Embedded_Chars>
+    <HTML_Chars>1912969</HTML_Chars>
+    <XBRL_Chars>3126164</XBRL_Chars>
+    <XML_Chars>1199955</XML_Chars>
+    <N_Tables>78</N_Tables>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001144204-16-133640.hdr.sgml : 20161111
+<ACCEPTANCE-DATETIME>20161114080227
+ACCESSION NUMBER:		0001144204-16-133640
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		69
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161114
+DATE AS OF CHANGE:		20161114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Net Element, Inc.
+		CENTRAL INDEX KEY:			0001499961
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				901025599
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34887
+		FILM NUMBER:		161990672
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3363 NE 163RD STREET
+		STREET 2:		SUITE 705
+		CITY:			NORTH MIAMI BEACH
+		STATE:			FL
+		ZIP:			33160
+		BUSINESS PHONE:		(305) 507-8808
+
+	MAIL ADDRESS:	
+		STREET 1:		3363 NE 163RD STREET
+		STREET 2:		SUITE 705
+		CITY:			NORTH MIAMI BEACH
+		STATE:			FL
+		ZIP:			33160
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Net Element International, Inc.
+		DATE OF NAME CHANGE:	20121002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Cazador Acquisition Corp Ltd.
+		DATE OF NAME CHANGE:	20100825
+
+</SEC-Header>
+</Header>
+
+ 0001144204-16-133640.txt : 20161114
+
+10-Q
+ 1
+ v452394_10q.htm
+ FORM 10-Q
+
+UNITED STATES  
+
+  SECURITIES AND EXCHANGE COMMISSION  
+
+ WASHINGTON, D.C. 20549 
+
+FORM 10-Q  
+
+(Mark One) 
+
+For the quarterly period ended September 30, 2016 
+
+OR 
+
+For the transition period from __________ to __________ 
+
+Commission file number:  001-34887  
+
+Net Element, Inc.  
+
+ (Exact name of registrant as specified in
+its charter) 
+
+Delaware   
+       90-1025599    
+ 
+      (State or other jurisdiction of incorporation  
+      (I.R.S. Employer   
+ 
+       or organization)  
+      Identification No.)   
+
+(305) 507-8808  
+
+ (Registrant s telephone number, including
+area code) 
+
+Not applicable  
+
+ (Former name, former address and former
+fiscal year, if changed since last report) 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. Yes   x 
+   No      
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes   x 
+   No      
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions
+of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2
+of the Exchange Act. (Check one): 
+
+Large accelerated filer      
+      Accelerated filer       
+
+Non-accelerated filer       (Do not check if a smaller reporting company)  
+      Smaller reporting company   x   
+
+Indicate by check
+mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act.) Yes     
+ No    x  
+
+The number of outstanding shares of common
+stock, $.0001 par value, of the registrant as of November 8, 2016 was 15,292,225. 
+
+Defined Terms  
+
+Net Element, Inc. is a corporation organized
+under the laws of the State of Delaware. As used in this Quarterly Report on Form 10-Q (this  Report ), unless the
+context otherwise requires, the terms  Company,   we,   us  and  our  refer to
+Net Element, Inc. and, as applicable, its majority-owned and consolidated subsidiaries. References in this Report to  PayOnline 
+refer, collectively, to PayOnline System LLC, Innovative Payment Technologies LLC, Polimore Capital Limited and Brosword Holding. 
+
+Forward-Looking Statements  
+
+This Report contains forward-looking statements
+within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of
+1934, as amended. Any statements contained in this Report that are not statements of historical fact may be deemed forward-looking
+statements. Forward-looking statements generally are identified by the words  expects,   anticipates, 
+ believes,   intends,   estimates,   aims,   plans,   may, 
+ will,   continue,   seeks,   should,   believe,   potential 
+or the negative of such terms and similar expressions. Forward-looking statements are based on current plans, estimates and projections,
+and therefore you should not place too much reliance on them. Forward-looking statements speak only as of the date they are made,
+and the Company undertakes no obligation to update any forward-looking statement in light of new information or future events,
+except as expressly required by law. Forward-looking statements involve inherent risks and uncertainties, most of which are difficult
+to predict and are generally beyond the Company s control. The Company cautions you that a number of important factors could
+cause actual results or outcomes to differ materially from those expressed in, or implied by, the forward-looking statements. These
+factors include, among other factors: 
+
+the impact of any new or changed laws, regulations,
+card network rules or other industry standards affecting our business including the U.S. government decision to impose sanctions
+or other legal restrictions that may restrict our ability to do business in Russia;    
+
+the impact of any significant chargeback liability
+and liability for merchant or customer fraud, which we may not be able to accurately anticipate and/or collect;    
+
+our ability to secure or successfully migrate merchant
+portfolios to new bank sponsors if current sponsorships are terminated;    
+
+our and our bank sponsors  ability to adhere
+to the standards of the Visa  and MasterCard  payment card associations;    
+
+our reliance on third-party processors and service
+providers;    
+
+our dependence on independent sales groups ( ISGs )
+that do not serve us exclusively to introduce us to new merchant accounts;    
+
+our ability to pass along increases in interchange
+costs and other costs to our merchants;    
+
+our ability to protect against unauthorized disclosure
+of merchant and cardholder data, whether through breach of our computer systems or otherwise;    
+
+the effect of the loss of key personnel on our relationships
+with ISGs, card associations, bank sponsors and our other service providers;    
+
+the effects of increased competition, which could
+adversely impact our financial performance;    
+
+the impact of any increase in attrition due to an
+increase in closed merchant accounts and/or a decrease in merchant charge volume that we cannot anticipate or offset with new accounts;    
+
+the effect of adverse business conditions on our
+merchants;    
+
+our ability to adopt technology to meet changing
+industry and customer needs or trends;    
+
+the impact of any decline in the use of credit cards
+as a payment mechanism for consumers or adverse developments with respect to the credit card industry in general;    
+
+the impact of any adverse conditions in industries
+in which we obtain a substantial amount of our bankcard processing volume;    
+
+the impact of seasonality on our operating results;    
+
+the impact of any failure in our systems due to factors
+beyond our control;    
+
+the impact of any material breaches in the security
+of third-party processing systems we use;    
+
+the impact of any new and potential governmental
+regulations designed to protect or limit access to consumer information;    
+
+the impact on our profitability if we are required
+to pay federal, state or local taxes on transaction processing or VAT on content;    
+
+the impact on our growth and profitability if the
+markets for the services that we offer fail to expand or if such markets contract;    
+
+our ability (or inability) to continue as a going
+concern;    
+
+the willingness of the Company s majority stockholders,
+and/or other affiliates of the Company, to continue investing in the Company s business to fund working capital requirements;    
+
+the Company s ability (or inability) to obtain
+additional financing in sufficient amounts or on acceptable terms when needed;    
+
+the impact on our operating results as a result of
+impairment of our goodwill and intangible assets;    
+
+our material weaknesses in internal control over
+financial reporting and our ability to maintain effective controls over financial reporting in the future; and    
+
+the other factors described in Part I, Item 1A of
+our Annual Report on Form 10-K for the fiscal year ended December 31, 2015 and in Part II, Item 1A of this Report and our subsequent
+filings with the U.S. Securities and Exchange Commission (the  Commission ).    
+
+If these or other risks and uncertainties
+(including those described in Part I, Item 1A of our Annual Report on Form 10-K/A for the fiscal year ended December 31, 2015 and
+in Part II, Item 1A of this Report and the Company s subsequent filings with the Commission) materialize, or if the assumptions
+underlying any of these statements prove incorrect, the Company s actual results may be materially different from those expressed
+or implied by such statements. We undertake no obligation to publicly revise any forward-looking statement to reflect circumstances
+or events after the date of this Report to reflect the occurrence of unanticipated events. You should, however, review the factors
+and risks described in the reports we file from time-to-time with the Commission after the date of this Report. 
+
+World Wide Web addresses contained in this
+Report are for explanatory purposes only and they (and the content contained therein) do not form a part of and are not incorporated
+by reference into this Report. 
+
+Net Element, Inc.  
+
+  Form 10-Q  
+
+  For the Three Months Ended September
+30, 2016  
+
+  Table of Contents  
+
+Page   
+
+No.   
+
+PART I   FINANCIAL INFORMATION   
+
+Item 1.  
+      Financial Statements  
+      4   
+
+Unaudited Condensed Consolidated Balance Sheets   at September 30, 2016 and December 31, 2015   
+      4   
+
+Unaudited Condensed Consolidated Statements of Operations and Comprehensive Loss   for the Three- and Nine- Months Ended September 30, 2016 and 2015   
+      5   
+
+Unaudited Condensed Consolidated Statements of Cash Flows   for the Nine Months Ended September 30, 2016 and 2015   
+      6   
+
+Notes to Unaudited Condensed Consolidated Financial Statements   
+      7   
+
+Item 2.  
+       Management s Discussion and Analysis of Financial Condition and Results of Operations   
+      24   
+
+Item 3.  
+       Quantitative and Qualitative Disclosures About Market Risk   
+      34   
+
+Item 4.  
+       Controls and Procedures   
+      34   
+
+PART II   OTHER INFORMATION   
+
+Item 1.  
+       Legal Proceedings   
+      35   
+
+Item 1A.  
+       Risk Factors   
+      36   
+
+Item 2.  
+       Unregistered Sales of Equity Securities and Use of Proceeds   
+      36   
+
+Item 3.  
+       Defaults Upon Senior Securities   
+      36   
+
+Item 4.  
+       Mine Safety Disclosures   
+      36   
+
+Item 5.  
+       Other Information   
+      36   
+
+Item 6.  
+       Exhibits   
+      36   
+
+Signatures   
+      36   
+
+PART I   FINANCIAL INFORMATION  
+
+NET ELEMENT, INC.  
+
+  UNAUDITED CONDENSED CONSOLIDATED BALANCE SHEETS  
+
+See accompanying notes to unaudited condensed
+consolidated financial statements. 
+
+NET ELEMENT, INC.  
+
+  UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+AND COMPREHENSIVE LOSS  
+
+See accompanying notes to unaudited condensed
+consolidated financial statements. 
+
+NET ELEMENT, INC.  
+
+  CONSOLIDATED STATEMENT OF CASH FLOWS  
+
+See accompanying notes to unaudited condensed
+consolidated financial statements. 
+
+NET ELEMENT, INC.  
+
+  NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES  
+
+Organization  
+
+Net Element, Inc. ( We ,  us ,
+ our  or the  Company ) is a financial technology-driven group specializing in mobile payments and other
+transactional services in emerging countries and in the United States. We have three reportable segments: (i) North America Transaction
+Solutions for electronic commerce, (ii) Mobile Solutions (primarily servicing the Russian Federation and Commonwealth of Independent
+States ( CIS )) and (iii) Online Solutions. We are differentiated by our proprietary technology which enables us to
+provide a broad suite of payment products, end-to-end transaction processing services and superior client support. We are able
+to deliver these services across multiple points of access, or  multi-channel,  including brick and mortar locations,
+software integration, e-commerce, mobile operator billing, mobile and tablet-based solutions. In the United States, via our U.S.
+based subsidiaries, we generate revenues from transactional services and other payment technologies for small and medium-sized
+businesses. Through TOT Group Russia and Net Element Russia, we provide transactional services, mobile payment transactions, online
+payment transactions and other payment technologies in emerging countries in the Russian Federation, CIS, Europe and Asia. 
+
+Business  
+
+Our transactional services business enables
+merchants to accept credit cards as well as other forms of payment, including debit cards, checks, gift cards, loyalty programs
+and alternative payment methods in traditional card-present or swipe transactions, as well as card-not-present transactions, such
+as those conducted over the phone or through the Internet or a mobile device. We market and sell our services through both independent
+sales groups ( ISGs ), which are non-employee, external sales organizations and other third-party resellers of our
+products and services, and directly to merchants through electronic media, telemarketing and other programs, including utilizing
+partnerships with other companies that market products and services to local and international merchants. In addition, we partner
+with banks such as BMO Harris Bank, N.A., Wells Fargo Bank, N.A., Esquire Bank in the United States and VTB Bank, Bank of Moscow,
+Raiffeisen Bank, Kazkommertsbank, and Rietumu Bank in the Russian Federation, CIS, Europe and Asia to sponsor us for membership
+in Visa     , MasterCard      and/or other card associations and to settle transactions with
+merchants. We perform core functions for merchants such as application processing, underwriting, account set-up, risk management,
+fraud detection, merchant assistance and support, equipment deployment and chargeback services. 
+
+Our mobile payments business, Digital Provider,
+LLC (f/k/a Tot Money, LLC) ( Digital Provider ) provides carrier-integrated mobile payments solutions. Our relationships
+with mobile operators give us substantial geographic coverage, a strong capacity for innovation in mobile payments and messaging,
+and the ability to offer our clients in-app, premium SMS, wap click, one click and other carrier billing services.  We also
+market our own branded content which is a new business line for our mobile commerce business. 
+
+PayOnline provides flexible high-tech payment
+solutions to companies doing business on the Internet or in the mobile environment. PayOnline specializes in integration and customization
+of payment solutions for websites and mobile apps. In particular, PayOnline arranges payment on the website of any commercial organization,
+which increases the convenience of using the website and helps maximize the number of successful transactions. In addition, PayOnline
+is focused on providing online and mobile payment acceptance services to the travel industry through direct integration with leading
+Global Distribution Systems, which includes Amadeus  and Sabre . Key regions of the PayOnline company are the CIS, Eastern
+Europe, Central Asia, Western Europe, North America and Asia major sub regions. PayOnline offices are located in Russia, Kazakhstan
+and in the Republic of Cyprus. We included the results of PayOnline starting in May 20, 2015. 
+
+Aptito is a proprietary, next-generation,
+cloud-based payments platform for the hospitality industry, which creates an online consumer experience in offline commerce environments
+via tablet, mobile and all other cloud-connected devices. Aptito s easy to use point-of-sale ( POS ) system makes
+things easier by providing comprehensive solution to the hospitality industry to help streamline management and operations. Orders
+placed tableside by customers directly speed up the ordering process and improve overall efficiency. Aptito's mobile POS system
+provides portability to the staff while performing all the same functions as a traditional POS system, and more. 
+
+Use of Estimates  
+
+The preparation of financial statements
+in conformity with U.S. generally accepted accounting principles ( U.S. GAAP ) requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities
+as of the balance sheet date and the reported amounts of expenses for the period presented. Actual results could differ from those
+estimates. 
+
+Significant estimates include (i) the
+valuation of acquired merchant portfolios, (ii) the recoverability of indeterminate-lived assets, (iii) the remaining
+useful lives of long-lived assets, and (iv) the sufficiency of merchant, aggregator, legal, and other reserves. On an ongoing basis,
+we evaluate the sufficiency and accuracy of our estimates. Actual results could differ from those estimates. 
+
+Reclassifications  
+
+Certain reclassifications have been made
+to the comparative period amounts to conform to our current period presentation. These reclassifications had no impact on previously
+presented financial condition or results of operations. 
+
+Cash and Cash Equivalents  
+
+We maintain our U.S.
+dollar-denominated cash in several non-interest bearing bank deposit accounts and we have no cash equivalents. At September 30,
+2016, the U.S. based bank balances exceeded Federal Deposit Insurance Corporation (FDIC) insured institution limits of $250,000
+by $141,111. The bank balances did not exceed FDIC limits at December 31, 2015. 
+
+We maintained an aggregate of $858,233
+and $922,062 in uninsured bank accounts in Russia, Ukraine, Cyprus and the Cayman Islands at September 30, 2016 and December 31,
+2015, respectively. 
+
+Accounts Receivable and Allowance for Doubtful Accounts  
+
+Accounts receivable are stated net of allowance
+for doubtful accounts. We estimate an allowance based on experience with our service providers and judgment as to the likelihood
+of their ultimate payment. We also consider collection experience and make estimates regarding collectability based on payout trends
+of the customers. In Russia, the service providers are large telecommunication companies and their affiliates, so we do not reserve
+for these receivables given their financial strengths and our historical experience with such companies. The allowance for doubtful
+accounts was $103,030 at September 30, 2016 and December 31, 2015, respectively. 
+
+Other Current Assets  
+
+We maintain an inventory of POS terminals
+(including iPads     used for mobile POS transactions), which we use to service both merchants and independent sales
+agents. If the terminals are sold for a fee, we expense the cost of these terminals, plus any setup fees at the time of the sale.
+Often, we will provide the terminals as an incentive to such merchants and independent sales agents to enter into a merchant contract
+with us, which have an average length of three years. In such case, the cost of the terminal plus any setup fees will be amortized
+over the three years. If the merchants early terminate their contract with us, they are obligated to either return the terminal
+or pay for the terminal. We had $307,434 and $345,459 in terminals and related equipment at September 30, 2016 and December 31,
+2015, respectively, of which $306,015 and $268,501 has been placed with merchants at September 30, 2016 and December 31, 2015,
+respectively. Amortization of these terminals amounted to $43,605 and $112,722 for the three- and nine- months ended September
+30, 2016, respectively, and $33,353 and $95,764 for the three- and nine- months ended September 30, 2015, respectively. 
+
+Fixed Assets  
+
+We depreciate our furniture and equipment
+over a term of three to ten years. Computers and software are depreciated over terms between two and five years. Leasehold improvements
+are depreciated over the shorter of the economic life or term of each lease. All of our assets are depreciated on a straight-line
+basis for financial statement purposes. 
+
+Expenditures for repairs and maintenance
+are charged to operating expense as incurred. Expenditures that increase the value or productive capacity of assets are capitalized.
+At the time of retirements, sales, or other dispositions of property and equipment, the original cost and related accumulated depreciation
+are removed from the respective accounts, and the gains or losses are presented as other expenses. 
+
+Impairment of Long-Lived Assets  
+
+We review our long-lived assets for impairment
+whenever events or changes indicate that the carrying amount of an asset or group of assets may not be recoverable. During the
+nine months ended September 30, 2016 and 2015, we did not recognize any charges for impairment of goodwill and intangible assets. 
+
+Intangible Assets  
+
+Included in our intangible assets are merchant
+portfolios which represent the net carrying value of an acquired merchant customer base. Merchant portfolios are amortized on a
+straight-line basis over their respective useful lives, generally three to five years. Merchant portfolios are assessed for impairment
+if events or circumstances indicate that their respective carrying values are not recoverable from the future anticipated undiscounted
+net cash flows attributable to such assets. In such cases, the amount of any potential impairment would be measured as the excess,
+if any, of carrying value over the fair value of such assets. 
+
+We also capitalize direct expenses associated
+with filing of patents and patent applications, and amortize the capitalized intellectual property costs over five years beginning
+when the patent is approved. 
+
+Additionally, we capitalize the fair value
+of intangible assets acquired in business combinations. We obtain third-party valuations of net assets acquired, and allocate the
+purchase price of each acquired business to its respective net tangible and intangible assets. Acquired intangible assets include:
+merchant portfolios, trade and domain names, non-compete agreements, customer relationships, technology and certain contracts. 
+
+Capitalized Customer Acquisition Costs,
+Net  
+
+Included in intangible assets are capitalized
+customer acquisition costs, which consist of up-front cash payments made to certain ISGs for the establishment of new merchant
+relationships. Capitalized customer acquisition costs represent incremental, direct customer acquisition costs that are recoverable
+through gross margins (future net cash flows) associated with merchant contracts. The up-front payment to the ISG is based on the
+estimated gross margin for the first year of the merchant contract. The deferred customer acquisition cost asset is recorded at
+the time of payment and the capitalized acquisition costs are primarily amortized on a straight-line basis over a period of three
+years. 
+
+Management evaluates the capitalized customer
+acquisition cost for impairment at each balance sheet date by comparing, on a pooled basis by vintage month of origination, the
+expected future net undiscounted cash flows from underlying merchant relationships to the carrying amount of capitalized customer
+acquisition costs. If the estimated future net cash flows are lower than the recorded carrying amount, indicating an impairment
+of the carrying value of the capitalized customer acquisition costs, the impairment loss is charged to operations. 
+
+Unamortized customer acquisition costs
+were $1,568,122 and $1,048,060 at September 30, 2016 and December 31, 2015, respectively, and are reflected as intangible assets
+in the accompanying unaudited condensed consolidated balance sheets.  During the three- and nine- months ended September
+30, 2016, we capitalized customer acquisition costs of $331,430 and $992,880, respectively, and amortized an additional $174,208
+and $472,817, respectively, during such periods. During the three- and nine- months ended September 30, 2015, we capitalized customer
+acquisition costs of $258,725 and $562,500, respectively, and amortized an additional $93,999 and $234,537, respectively, during
+such periods. 
+
+During the twelve months ended December
+31, 2015, we capitalized customer acquisition costs of $878,085 and amortized $356,757. 
+
+Goodwill  
+
+Goodwill represents
+the excess of the cost of the Company's investment in the net assets of acquired companies over the fair value of the underlying
+identifiable net assets at the dates of acquisition. 
+
+Goodwill is not amortized but is tested,
+using the income approach, for impairment on an annual basis and between annual tests if an event occurs or circumstances
+change that would more likely than not reduce the fair value of the related entity below its carrying value. 
+
+The income approach employs a cash flow
+model that takes into account (1) assumptions that market participants would use in their estimates of fair value, (2) current
+period actual results, and (3) budgeted results for future periods that have been vetted by senior management. 
+
+Accrued Residual Commissions  
+
+We pay agent commissions to ISGs and independent
+sales agents based on the processing volume of the merchants enrolled. The commission payments are based on varying percentages
+of the volume processed by us on behalf of the merchants. Percentages vary based on the program type and transaction volume of
+each merchant. We report commission payments as a cost of revenues in the accompanying condensed consolidated statements of operations
+and comprehensive loss. 
+
+At September 30, 2016 and December 31,
+2015, the residual commissions payable to ISGs and independent sales agents were $747,957 and $1,205,751, respectively. 
+
+We pay agent commission on annual fees
+between January and April of each year and pay agent commission on Payment Card Industry Data Security Standard (PCI) annual fees
+during of July each year. We amortize the annual fees paid in equal monthly amounts from date of payment to end of year and PCI
+annual fees from July 1 st  to June 30 th  of the succeeding year. We pay our agent commissions for annual fees
+in advance of recognizing the associated revenue. We deferred $476,151 and $483,090 of agent commissions paid for annual fees at
+September 30, 2016 and December 31, 2015, respectively. In addition, we deferred related prepaid PCI annual fee commissions and
+related costs in the amount of $85,530 and $32,620 at September 30, 2016 and December 31, 2015, respectively. 
+
+Prepaid agent commissions for annual fees,
+prepaid PCI annual fee commissions and prepaid PCI annual fee costs are included in prepaid expenses, and commissions payable are
+included in accounts payable in the accompanying condensed consolidated balance sheets. 
+
+Fair Value Measurements  
+
+Our financial instruments consist primarily
+of cash, accounts receivable, accounts payable and debt instruments. The carrying values of cash, accounts receivable and trade
+payables are considered to be representative of their respective fair values due to the short-term nature of these instruments.
+The carrying amount of the debt instruments of $4,194,717 at September 30, 2016 and $3,965,000 at December 31, 2015 approximates
+fair value because our current borrowing rate does not materially differ from market rates for similar bank borrowings. 
+
+We measure certain non-financial assets
+and liabilities at fair value on a non-recurring basis. Fair value is defined as the exchange price that would be received for
+an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability
+in an orderly transaction between market participants at the measurement date. We use a three-level fair value hierarchy to prioritize
+the inputs used to measure fair value and maximize the use of observable inputs and minimize the use of unobservable inputs. The
+three levels of inputs used to measure fair value are as follows: 
+
+Level 1   Quoted market prices in
+active markets for identical assets or liabilities as of the reporting date 
+
+Level 2   Observable market based
+inputs or unobservable inputs that are corroborated by market data 
+
+Level 3   Unobservable inputs that
+are not corroborated by market data 
+
+These non-financial assets and liabilities
+include intangible assets and liabilities acquired in business combinations as well as impairment calculations, when necessary.
+The fair value of the assets acquired and liabilities assumed in connection with the PayOnline acquisition were measured at fair
+value at the acquisition date. The fair values of our merchant portfolios are primarily based on Level 3 inputs and are generally
+estimated based upon independent appraisals that include discounted cash flow analyses based on our most recent cash flow projections,
+and, for years beyond the projection period, estimates based on assumed growth rates. Assumptions are also made regarding appropriate
+discount rates, perpetual growth rates, and capital expenditures, among others. In certain circumstances, the discounted cash flow
+analyses are corroborated by a market-based approach that utilizes comparable company public trading values, and, where available,
+values observed in private market transactions. The inputs used by management for the fair value measurements include significant
+unobservable inputs that are not corroborated by market data, and therefore, the fair value measurements employed are classified
+as Level 3. The goodwill impairment assessment is primarily based on observable inputs using company specific information and is
+classified as Level 3. 
+
+Foreign Currency Transactions  
+
+We are subject to exchange rate risk
+from our foreign operations in Russia, CIS and Europe, the functional currency of which is the Russian Ruble, Kazakhstan
+Tenge and Euro. In Russia, we generate service fee revenues and incur product development, engineering, website development,
+interest expense, and general and administrative costs and expenses. The Russian operations receive income and pay a majority
+of their operating expenses in Russian Rubles, exposing us to exchange rate risk. Additionally, PayOnline processes
+transactions in U.S. Dollars, British Pounds, Euros, Polish Zlotys, Kazakhstan Tenges and Kyrgyzstanian Soms. Digital
+Provider processes transactions in Russian Rubles and Kazakhstan Tenges. 
+
+We do not engage in any currency hedging
+activities. 
+
+Revenue Recognition  
+
+We recognize revenue when the following
+four basic criteria have been met: (1) persuasive evidence of a sales arrangement exists, (2) performance of services or delivery
+of goods has occurred, (3) the sales price is fixed or determinable, and (4) collectability is reasonably assured. We consider
+persuasive evidence of a sales arrangement to be the receipt of a billable transaction from aggregators, merchants or a signed
+contract. Collectability is assessed based on a number of factors, including transaction history with the customer and the credit
+worthiness of the customer. If it is determined that the collection is not reasonably assured, revenue is not recognized until
+collection becomes reasonably assured, which is generally upon receipt of cash. We record cash received in advance of revenue recognition
+as deferred revenue. Our revenues for the three- and nine- months ended September 30, 2016 and 2015 are principally derived from
+the following sources: 
+
+Transactional Processing
+Fees:   Transactional processing fees are generated primarily from TOT Payments (doing business as Unified Payments), which
+is our U.S. transaction processing company, PayOnline, which is our Russian online transaction processing company, consolidated
+upon acquisition effective May 20, 2015, and Aptito, our POS solution for restaurants. 
+
+Our transactional processing
+companies derive revenues primarily from the electronic processing of services including: credit, debit, electronic benefits transfer
+and alternative payment methods card processing authorized and captured through proprietary and third-party networks, electronic
+gift certificate processing, and equipment sales. These revenues are recorded as bankcard and other processing transactions when
+processed. In addition to generating service fees, Aptito earns monthly license fees for use of its platform. 
+
+Typically, fees charged to merchants
+for these processing services are based on a variable percentage of the dollar amount of each transaction and in some instances,
+additional fees are charged for each transaction. Merchant customers also may be charged miscellaneous fees, including statement
+fees, annual fees, monthly minimum fees, fees for handling chargebacks, gateway fees, and fees for other miscellaneous services. 
+
+Generally, we (i) are the
+primary obligor in our arrangements with our merchant customers, (ii) have latitude in establishing the price of our services,
+(iii) have the ability to change the product and perform parts of the services, (iv) have discretion in supplier selection,
+(v) have latitude in determining the product and service specifications to meet the needs of our merchant customers, and (vi) assume
+credit risk. In such cases, we report revenues as gross of fees deducted by our sponsoring member banks, as well as fees deducted
+from card-issuing member banks and card associations (Visa  and MasterCard ) on behalf of our sponsoring member banks for
+interchange and assessments. These fees charged by the card associations to process the credit card transactions are recorded separately
+as cost of revenue and interchange fees in the accompanying condensed consolidated statement of operations and comprehensive loss. 
+
+Cost of revenues for TOT Payments,
+Aptito and PayOnline is comprised primarily of processing fees paid to third parties attributable to providing transaction processing
+and service fees for POS system usage by our merchant customers. Interchange fees and cost of services are recognized as incurred,
+which generally occurs in the same period in which the corresponding revenue is recognized. Interchange fees are set by the card
+networks, and are paid to the card-issuing bank. Interchange fees are calculated as a percentage of the dollar volume processed
+plus a per transaction fee. We also pay Visa  and MasterCard  network dues. 
+
+Service and Subscription
+Fees:   Service and subscription fees are generated from mobile payment processing services to third-party content aggregators
+provided by Digital Provider. Service fees for services provided for content providers historically have been recorded net of mobile
+operator fees. During 2015, TOT Money began to offer branded content to customers and changed its name to  Digital Provider .
+Digital Provider s revenues for the access of branded content are recorded at the amounts charged to the mobile customer.
+A corresponding charge to cost of sales for mobile operator and content fees is recorded for branded content. 
+
+Mobile payment processing revenues
+for third-party content providers are accounted for as service fees and presented net of aggregator and mobile operator payments
+on the condensed consolidated financial statements as these revenues are considered to be agency fees. 
+
+Subscription revenues for our
+branded content are recognized when a content subscriber initiates the purchase of access to our content using WAP-click, Internet-click,
+or a SMS-to-short number registered to us. Digital Provider s subscription revenues are recorded at the amounts charged to
+the third-party customer. 
+
+Certain service revenues are
+presented net of aggregator payments and associated costs on the condensed consolidated financial statements as these revenues
+are considered to be agency fees. 
+
+Cost of revenues for Digital
+Provider is comprised primarily of mobile operator fees, content provider fees and fees for short numbers paid to mobile operators.
+Additionally, penalties and penalty recoveries are recorded as cost of sales. Funds received from mobile operators, include amounts
+due to aggregators for supplying us with billable transactions from content providers. 
+
+Net Loss per Share  
+
+Basic net loss per common share is computed
+by dividing net loss applicable to common stockholders by the weighted-average number of common shares outstanding during the period.
+Diluted net loss per common share is determined using the weighted-average number of common shares outstanding during the period,
+adjusted for the dilutive effect of common stock equivalents, consisting of shares issuable upon exercise of common stock options
+or warrants. In periods when losses are reported, the weighted-average number of common shares outstanding excludes common stock
+equivalents because their inclusion would have an anti-dilutive effect. At September 30, 2016 and December 31, 2015, we had warrants
+to purchase 893,890 and 1,164,826 shares, respectively, and options to purchase 1,938,037 and 119,194 shares, respectively, that
+are excluded from the calculation of loss per share because they are anti-dilutive. 
+
+Income Taxes  
+
+We account for income taxes under the asset
+and liability method, which requires the recognition of deferred tax assets and liabilities for the expected future tax consequences
+of events that have been included in the condensed consolidated financial statements. Under this method, deferred tax assets and
+liabilities are determined on the basis of the differences between the financial statements and tax basis of assets and liabilities
+using enacted tax rates in effect for the year in which the differences are expected to reverse. The effect of a change in tax
+rates on deferred tax assets and liabilities is recognized in income in the period that includes the enactment date. 
+
+We recognize net deferred tax assets to
+the extent that our management believes these assets are more likely than not to be realized. In making such a determination, management
+considers all available positive and negative evidence, including future reversals of existing taxable temporary differences, projected
+future taxable income, tax-planning strategies, and results of recent operations. If management determines that we would be able
+to realize our deferred tax assets in the future in excess of their net recorded amount, an adjustment would be made to the deferred
+tax asset valuation allowance, which would reduce the provision for income taxes. 
+
+We account for uncertainty in income taxes
+using a two-step approach to recognizing and measuring uncertain tax positions. The first step is to evaluate the tax position
+for recognition by determining if the weight of available evidence indicates that it is more likely than not that the position
+will be sustained on audit, including resolution of related appeals or litigation processes, if any. The second step is to measure
+the tax benefit as the largest amount that is more than 50% likely of being realized upon settlement. We recognize a liability
+for unrecognized tax benefits as current to the extent that we anticipate payment (or receipt) of cash within one year. Interest
+and penalties related to uncertain tax positions are recognized and recorded as necessary in the provision for income taxes. Our
+evaluation of uncertain tax positions was performed for the tax years ended December 31, 2010 and forward, the tax years which
+remain subject to examination at September 30, 2016. Please see Note 15 for discussion of our uncertain tax positions. 
+
+Recently Issued Accounting Pronouncements  
+
+In May 2014, the Financial Accounting Standards
+Board ( FASB ) issued Accounting Standard Update ( ASU ) 2014-09,  Revenue from Contracts with Customers, 
+which supersedes the revenue recognition requirements in Topic 605,  Revenue Recognition  and requires entities to
+recognize revenue in a way that depicts the transfer of promised goods or services to customers in an amount that reflects the
+consideration to which the entity expects to be entitled in exchange for those goods or services. In August 2015, the FASB issued
+ASU 2015-14, which defers by one year the effective date of ASU 2014-09. Accordingly, this guidance is effective for interim and
+annual periods beginning after December 15, 2017 with early adoption permitted for interim and annual periods beginning after
+December 15, 2016. The Company plans to adopt this guidance on January 1, 2018. The Company is currently evaluating the
+effects, if any, that the adoption of this guidance will have on the Company s financial position, results of operations
+and cash flows. 
+
+In November 2015, the FASB issued ASU No. 2015-17,
+ Balance Sheet Classification of Deferred Taxes,  which requires entities to present deferred tax assets and deferred
+tax liabilities as noncurrent in a classified balance sheet. As a result, each jurisdiction will now only have one net noncurrent
+deferred tax asset or liability. This ASU is effective for annual reporting periods beginning after December 15, 2016, including
+interim periods within that reporting period, and entities are permitted to apply either prospectively or retrospectively; early
+adoption is permitted. The Company is currently evaluating the effects, if any, that the adoption of this guidance will have on
+the Company s financial position, results of operations and cash flows. 
+
+In January 2016, the FASB issued ASU No. 2016-01,
+ Financial Instruments-Overall: Recognition and Measurement of Financial Assets and Financial Liabilities . The new
+standard principally affects accounting standards for equity investments, financial liabilities where the fair value option has
+been elected, and the presentation and disclosure requirements for financial instruments. Upon the effective date of the new standards,
+all equity investments in unconsolidated entities, other than those accounted for using the equity method of accounting, will generally
+be measured at fair value through earnings. There will no longer be an available-for-sale classification and therefore, no changes
+in fair value will be reported in other comprehensive income for equity securities with readily determinable fair values. The new
+guidance on the classification and measurement will be effective for public business entities in fiscal years beginning after December 15,
+2017, including interim periods within those fiscal years and early adoption is permitted. The Company is in the process of evaluating
+the impact of the adoption of ASU 2016-01 on the Company s financial position, results of operations and cash flows. 
+
+In February 2016, the FASB issued ASU 2016-02,
+ Leases  which, for operating leases, requires a lessee to recognize a right-of-use asset and a lease liability, initially
+measured at the present value of the lease payments, in its balance sheet. The standard also requires a lessee to recognize a single
+lease cost, calculated so that the cost of the lease is allocated over the lease term, on a generally straight-line basis. The
+ASU is effective for public companies for fiscal years beginning after December 15, 2018, including interim periods within those
+fiscal years. Early adoption is permitted. The Company is currently evaluating the effects that the adoption of ASU 2016-02 will
+have on the Company s consolidated financial statements. 
+
+In March 2016, the FASB issued ASU 2016-08,
+ Revenue from Contracts with Customers (Topic 606): Principal Versus Agent Considerations  to clarify implementation
+guidance on principal versus agent considerations (for reporting revenue on a gross or net basis). ASU 2016-08 is an amendment
+to Topic 606, clarifies the implementation guidance, and requires an entity to account for revenue as an agent when another entity
+controls the specified good or service before that good or service is transferred to the customer. The effective date and transition
+requirements for these amendments are the same as the effective date and transition requirements of ASU 2014-09 discussed above.
+The Company is currently evaluating the effects, if any, which the adoption of this guidance will have on the Company s financial
+position, results of operations and cash flows. 
+
+NOTE 2. BASIS OF PRESENTATION AND PRINCIPLES
+OF CONSOLIDATION  
+
+The accompanying unaudited condensed consolidated
+financial statements have been prepared in accordance with U.S. GAAP and reflect all adjustments, which are of a normal and recurring
+nature, that are, in the opinion of management, necessary for a fair presentation of our condensed consolidated financial position
+and results of operations for the related periods. All significant intercompany transactions and balances have been eliminated
+in consolidation. The consolidated results of operations for any interim periods are not necessarily indicative of results to be
+expected for the full year. 
+
+On May 25, 2016, the Company effected a
+one-for-ten reverse stock split of its common stock. These condensed consolidated financial statements give retrospective effect
+for this change in capital structure for all periods presented. 
+
+Following the consolidation principles
+promulgated by U.S. GAAP, these condensed consolidated financial statements of the Company include the assets, liabilities, results
+of operations, and cash flows of the following subsidiaries: 
+
+(1) TOT Group, Inc., a 100% owned
+subsidiary formed in Delaware; (2) Netlab Systems, LLC, a wholly owned subsidiary formed in Florida; (3) NetLab Systems IP, LLC,
+a wholly owned subsidiary formed in Florida; (4) OOO Net Element Russia ( Net Element Russia ), a wholly owned subsidiary
+formed in Russia; and (5) Net Element Services, LLC, a wholly owned subsidiary formed in Florida. 
+
+The subsidiaries listed above are the parent
+companies of several other subsidiaries, which hold the Company s underlying investments or operating entities. 
+
+TOT Group is the parent company of TOT
+Payments, LLC ( TOT Payments ) doing business as Unified Payments a wholly owned subsidiary formed in Florida, Aptito,
+LLC, a 80% owned subsidiary formed in Florida (acquired June 18, 2013), TOT Group Europe LTD, a wholly owned subsidiary formed
+in the United Kingdom, Unified Portfolios, LLC, a wholly owned subsidiary formed in Florida and OOO TOT Group Russia, a wholly
+owned subsidiary formed in Russia. 
+
+TOT Payments, LLC is the parent company of:    
+
+-    Process Pink, LLC, a wholly
+owned subsidiary formed in Florida;  
+
+-    TOT HPS, LLC, a wholly owned
+subsidiary formed in Florida;  
+
+-    TOT FBS, LLC, a wholly owned
+subsidiary formed in Florida;  
+
+-    TOT New Edge, LLC, a wholly
+owned subsidiary formed in Florida;  
+
+-    TOT BPS, LLC, a wholly owned
+subsidiary formed in Florida  
+
+OOO TOT Group Russia is the parent company of its wholly
+owned subsidiary OOO Digital Provider (f/k/a OOO TOT Money)(a company formed in Russia), PayOnline Systems, LLC (a wholly-owned
+company formed in Russia), Innovative Payment Technologies, LLC (a wholly-owned company formed in Russia) and TOT Group Kazakhstan,
+a wholly owned subsidiary formed in Kazakhstan.    
+
+Netlab Systems, LLC is the parent company of Tech
+Solutions LTD (Cayman Islands).    
+
+Net Element Russia is the parent company of 100%
+owned OOO TOT Group. OOO TOT Group is inactive and in the process of being liquidated.    
+
+TOT Group Europe LTD is 100% owner of Polimore Capital
+Limited (Cyprus) and Brosword Holding Limited (Cyprus)    
+
+All material intercompany accounts and transactions have been
+eliminated in consolidation. 
+
+NOTE 3. LIQUIDITY AND GOING CONCERN
+CONSIDERATIONS  
+
+The independent auditors  report
+on our consolidated financial statements for the year ended December 31, 2015 contained an explanatory paragraph expressing substantial
+doubt as to our ability to continue as a going concern. 
+
+Our condensed consolidated financial statements
+have been prepared on a going concern basis, which contemplates the realization of assets and the settlement of liabilities and
+commitments in the normal course of business. We sustained a net loss of $10.8 million for the nine month period ended September
+30, 2016, an accumulated deficit of $154.6 million and negative working capital of $4.1 million at September 30, 2016. Additionally,
+we have current liabilities associated with our purchase of PayOnline that will require cash payments of $3.2 million during 2017. These conditions raise substantial doubt about our ability to continue as a going concern. 
+
+Failure to successfully continue developing
+the Company s payment processing operations and maintain contracts with merchants, mobile phone carriers and content providers
+to use TOT Group s services could harm our revenues and materially adversely affect our financial condition and results of
+operations. We face all of the risks inherent in a new business, including the need for significant additional capital, management s
+potential underestimation of initial and ongoing costs, and potential delays and other problems in connection with developing our
+technologies and operations. 
+
+We are continuing with our plan to further
+grow and expand our payment processing operations in emerging markets, particularly in countries surrounding Russia. Management
+believes that its current operating strategy will provide the opportunity for us to continue as a going concern as long as we are
+able to obtain additional financing; however, there is no assurance this will occur. The accompanying condensed consolidated financial
+statements do not include any adjustments that might be necessary if we are unable to continue as a going concern. 
+
+NOTE 4. ACCOUNTS RECEIVABLE  
+
+Accounts receivable consist of amounts
+due from processors and mobile operators. Total accounts receivable amounted to $5,866,714 and $5,198,993 at September 30, 2016
+and December 31, 2015, respectively. Accounts receivable included $1,945,848 and $1,764,087 of amounts due from mobile operators
+and $3,718,492 and $3,223,287 of credit card processing receivables at September 30, 2016 and December 31, 2015, respectively. 
+
+For the three- and nine- months ended September
+30, 2016, we recorded bad debt expense of $301,170 and $710,507, respectively, for Automated Clearing House ( ACH )
+rejects in the normal course of operations, offset by bad debt recoveries of $0 and $32,359, respectively, from Russian operations. 
+
+We recorded bad debt expense of $307,154
+and $542,764, respectively, for the three- and nine- months ended September 30, 2015 for ACH rejects in the normal course of operations,
+offset by bad debt recoveries of $22,770 and $117,539, respectively, from Russian operations. 
+
+Occasionally, Digital Provider advances
+funds to content provider aggregators for content. At September 30, 2016 and December 31, 2015, Digital Provider had advances to
+aggregators of $61,323 and $5,863, respectively. 
+
+We monitor all accounts receivable and
+transactions with mobile operators and aggregators on a monthly basis to ensure collectability and the adequacy of loss provisions.
+Considerations include payment history, business volume history, financial statements of borrower, projections of borrower and
+other standard credit review documentation. Management uses its best judgment to adequately reserve for future losses after all
+available information is reviewed. 
+
+NOTE 5. FIXED ASSETS  
+
+Fixed assets are stated at cost less accumulated depreciation
+and amortization as follows: 
+
+Depreciation expense for the three- and
+nine- months ended September 30, 2016 was $20,215 and $39,737, respectively. Depreciation expense for the three- and nine- months
+ended September 30, 2015 was $57,860 and $84,279, respectively. 
+
+NOTE 6.  INTANGIBLE ASSETS  
+
+Shown below are the details of intangible assets at September
+30, 2016 and December 31, 2015: 
+
+Total amortization expense for the three-
+and nine- months ended September 30, 2016 was $744,670 and $2,457,800, respectively, of which $43,605 and $112,722 represented
+amortization of inventory placed with merchants for the three- and nine- months ended September 30, 2016, respectively. The inventory
+and its associated amortization is included in prepaid and other expenses, and is not included in the table above. 
+
+Total amortization expense for the three-
+and nine- months ended September 30, 2015 was $793,774 and $1,832,619, respectively, of which $33,531 and $95,762 represented amortization
+of inventory placed with merchants for the three and nine months ended September 30, 2015, respectively. The inventory and its
+associated amortization is included in prepaid and other expenses and is not included in the table above. 
+
+The following table presents the estimated
+aggregate future amortization expense of other intangible assets: 
+
+Software  
+
+The Company capitalizes software development
+costs that add value to or extend the useful of the related software it develops for internal use and licensing. Costs for routine
+software updates are expensed as incurred. Capitalized costs are amortized over 12 to 36 months on a straight-line basis. Impairment
+is reviewed quarterly to ensure only viable active costs are capitalized. 
+
+During the nine months ended September
+30, 2016 and twelve months ended December 31, 2015, the Company capitalized $81,428 and $163,129, respectively, of development
+costs as follows: 
+
+For the three- and nine- months ended September
+30, 2016, amortization was $246,727 and $950,206, respectively. For the three- and nine- months ended September 30, 2015, amortization
+was $ 262,698 and $461,691, respectively. 
+
+Merchant Portfolios  
+
+Merchant Portfolios consist of portfolios
+purchased by us that earn future streams of income. The useful lives of these portfolios range from 15 to 36 months at the time of
+acquisition. The useful lives of merchant portfolios represent management s best estimate over which we expect to recognize
+the economic benefits of these intangible assets. At September 30, 2016 and December 31, 2015, the net value of these portfolios
+was $961,037 and $1,489,175, respectively. 
+
+For the three- and nine- months ended September
+30, 2016, amortization was $176,046 and $528,138, respectively. For the three- and nine- months ended September 30, 2015, amortization
+was $183,547 and $605,630, respectively. 
+
+Trademarks and Domain Names  
+
+During 2015, we acquired certain trademarks
+with a $708,062 fair market value and domain names with a $429,939 fair market value at the date of acquisition. At September 30,
+2016 and December 31, 2015, the net book values of these trademarks were $436,771 and $561,772, respectively, and the net book
+value of the domain names were $264,149 and $339,146, respectively. 
+
+For the three- and nine- months ended September
+30, 2016, amortization for trademarks was $41,667 and $125,001, respectively. For the three- and nine- months ended September 30,
+2015, amortization was $41,667 and $62,500, respectively. 
+
+For the three- and nine- months ended September
+30, 2016, amortization for domain names was $24,999 and $74,997, respectively. For the three and nine months ended September 30,
+2015, amortization was $25,000 and $37,500, respectively. 
+
+PCI Certification  
+
+During 2015, we acquired a  Payment
+Card Industry  (PCI) Certification with our acquisition of PayOnline. This certification had a fair market value of $449,000
+at the date of acquisition. At September 30, 2016 and December 31, 2015, the net book value of this certification was $243,207
+and $355,458, respectively. 
+
+For the three- and nine- months ended September
+30, 2016, amortization for this certification was $37,417 and $112,251, respectively. For the three- and nine- months ended September
+30, 2015, there was no amortization. 
+
+Non-Compete Agreements  
+
+In connection with the Company s
+acquisition of Unified Payments, LLC in 2013, two key executives signed covenants not to compete. These covenants have a three-year
+life and had a net book value $0 and $81,667 at September 30, 2016 and December 31, 2015, respectively. 
+
+NOTE 7. SHORT TERM DEBT  
+
+In September 2014, Digital Provider entered
+into Supplement Agreements with Alfa-Bank, which renewed and amended the Factoring Credit Facility ( FCF ). Pursuant
+to such amendments, the FCF expired on June 30, 2016. We did not draw any funds under the FCF. 
+
+NOTE 8. ACCRUED EXPENSES  
+
+At September 30, 2016 and December 31,
+2015, accrued expenses amounted to $5,654,994 and $2,975,066, respectively. Accrued expenses represent expenses that are owed
+at the end of the period and have not been billed by the provider or are estimates of services provided. The following table
+details the items comprising the balances outstanding at September 30, 2016 and December 31, 2015. 
+
+The $4.0 million PayOnline accrual at September 30, 2016 consists
+of a $0.3 million earn-out accrual and a $2.3 million stock price guarantee obligation pursuant to a settlement agreement entered
+into in connection with the PayOnline acquisition. Additionally, such accrual includes a $1.4 million obligation for refundable
+merchant reserves assumed pursuant to an amendment to the PayOnline acquisition agreement. See Note 11 for additional information. 
+
+Accrued bonuses are attributed to our TOT
+Group subsidiaries resulting from a discretionary bonus accrual for $0.9 million at September 30, 2016. 
+
+Accrued interest at September 30, 2016
+is comprised of loan costs associated with RBL notes in the amount of $114,180 as a result of the issuance of additional RBL notes
+during the three months ended September 30, 2016 and interest payable of $76,289 associated with the PayOnline settlement agreement. 
+
+NOTE 9. LONG TERM DEBT  
+
+Long term debt consisted of the following: 
+
+RBL Capital Group, LLC  
+
+Effective June 30, 2014, TOT Group, Inc.
+and its subsidiaries as co-borrowers, TOT Payments, LLC, TOT BPS, LLC, TOT FBS, LLC, Process Pink, LLC, TOT HPS, LLC and TOT New
+Edge, LLC, entered into a Loan and Security Agreement with RBL Capital Group, LLC ( RBL ), as lender (the  RBL
+Loan Agreement ). Prior to maturity of the loan, the principal amount of the borrowings under the credit facility will carry
+a fixed interest rate of the higher of 13.90% per annum or the prime rate plus 10.65%. After maturity of the loan, until all borrowings
+are paid in full, with respect to the advances under the credit facility, an additional three percent per annum would be added
+to such interest rate, and for any other amounts, obligations or payments due to RBL, an annual default rate not to exceed the
+lesser of (i) the prime rate plus 13% per annum and (ii) 18.635% per annum. Borrowings from the line of credit in the amounts of
+$3,315,000, $250,000 and $400,000 were converted into term notes. At September 30, 2016 and December 31, 2015, we had $11,423,351
+and $6,035,000, respectively available on the RBL credit line. On May 2, 2016, we renewed our credit facility with RBL, increasing
+the facility from $10 million to $15 million and extending the term through February 2018. 
+
+The co-borrowers  obligations to
+RBL pursuant to the RBL Loan Agreement are secured by a first priority security interest in all of the co-borrowers  tangible
+and intangible assets, including but not limited to their merchants, merchant contracts and proceeds thereof, and all right title
+and interest in co-borrowers  processing contracts, contract rights, and portfolio cash flows with all processors of co-borrowers. 
+
+Effective July 17, 2014, we entered into
+a $3,315,000 promissory note with RBL. Net proceeds from the promissory note were used to repay a $3.0 million note previously
+due to MBF (as defined below) and related costs and interest, in addition to approximately $239 thousand for working capital. The
+promissory note requires interest only payments at 13.90% interest through January 2015 commencing on August 20, 2014 followed
+by monthly interest and principal payments of $90,421 through January 2019 and the promissory note balance reduced the amount
+available under our credit line. The note also provided for a 2% front end fee due at execution of the note and a 4% backend fee
+due at the final payment of the note. At September 30, 2016, the promissory note balance was $1,636,649 and provided for a $44,642
+principal and interest payment, commencing on December 20, 2016. On July 28, 2016, we deferred principal repayments on the remaining
+balance until November 20, 2020. During the nine month period ended September 30, 2016, Crede CG III, Ltd. ( Crede )
+purchased $1,678,349 of the principal balance of this promissory note in various tranches. We exchanged and extinguished these
+promissory note tranches for 219,284 shares of common stock during the second quarter of 2016 and 992,032 shares of our common
+stock during the third quarter of 2016. See   Crede CG III, Ltd.  
+
+Effective February
+10, 2015, we entered into a $400,000 promissory note with RBL. The promissory note provides for interest-only payments at 13.90%
+interest through July 20, 2015. From August 20, 2015 through July 20, 2019, the note maturity date, we are obligated to make interest
+and principal payments of $10,911 per month and the promissory note balance reduced the amount available under our credit line.
+The promissory note also provided for a 2% front end fee, due upon the execution of the promissory note and a 4% back end fee due
+at the final payment of the promissory note. Crede purchased $237,367 of this promissory note on May 9, 2016 and the remaining
+$162,633 balance on May 16, 2016. This promissory note was purchased by Crede, which was exchanged and extinguished for an aggregate
+of 158,148 shares of our common stock on May 9, 2016 and May 16, 2016. 
+
+Effective March 27, 2015, we entered into
+a $250,000 promissory note with RBL. The promissory note provides for interest-only payments at 13.90% interest through July 20,
+2015. From August 20, 2015 through July 20, 2019, the note maturity date, we are obligated to make interest and principal payments
+of $6,819 per month and the promissory note balance reduced the amount available under our credit line. The promissory note also
+provided for a 2% front end fee, due upon the execution of the promissory note and a 4% back end fee due at the final payment of
+the promissory note. This promissory note was purchased by Crede, which was exchanged and extinguished for an aggregate of 97,857
+shares of our common stock on May 2, 2016. 
+
+On May 4, 2016, we entered into a $250,000
+term note with RBL. The term note provides for interest-only payments at 14.15% interest through October 20, 2016. From November
+20, 2016 through October 20, 2020, the note maturity date, we are obligated to make interest and principal payments of $6,850 per
+month. The promissory note also provided for a 2% front end fee, due upon the execution of the promissory note and a 4% back end
+fee due at the final payment of the promissory note. 
+
+On May 20, 2016, we entered into a $400,000
+term note with RBL. The term note provides for interest-only payments at 14.15% interest through November 20, 2015. From December
+20, 2016 through November 20, 2020 the note maturity date, we are obligated to make interest and principal payments of $10,961
+per month. The promissory note also provided for a 2% front end fee, due upon the execution of the promissory note and a 4% back
+end fee due at the final payment of the promissory note. 
+
+On June 23, 2016, we entered into a $190,000
+term note with RBL. The term note provides for interest-only payments at 14.15% interest through December 20, 2016. From January
+20, 2017 through December 20, 2020, the note maturity date, we are obligated to make interest and principal payments of $5,206
+per month. The promissory note also provided for a 2% front end fee, due upon the execution of the promissory note and a 4% backend
+fee due at the final payment of the promissory note. 
+
+Effective July 15, 2016, we entered into
+a $350,000 term note with RBL. The promissory note provides for interest-only payments at 14.15% through January 20, 2017. From
+February 20, 2017 through January 20, 2021, we are obligated to make interest and principal payments of $9,590.62. The promissory
+note also provided for a 2% front end fee, due upon the execution of the loan and a 4% back end fee due at the final payment of
+the promissory note. 
+
+Effective August, 15, 2016, we entered
+into a $400,000 term note with RBL. The promissory note provides for interest only payments at 14.15% through February 20, 2017.
+From March 20, 2017 through February 20, 2021, we are obligated to make interest and principal payments of $10,961. The promissory
+note also provided for a 2% front end fee, due upon the execution of the loan and a 4% back end fee due at the final payment of
+the promissory note. 
+
+Effective September 15, 2016, we entered
+into a $350,000 term note with RBL. The promissory note provides for interest only payments at 14.15% through March 20, 2017. From
+April 20, 2017 through March 20, 2021, we are obligated to make interest and principal payments of $9,591. The promissory note
+also provided for a 2% front end fee, due upon the execution of the loan and a 4% back end fee due at the final payment of the
+promissory note. 
+
+MBF Merchant Capital, LLC  
+
+Effective March 28, 2016, we entered into
+a $75,000 promissory loan note with MBF Merchant Capital, LLC ( MBF ). The loan provides for interest only payments
+at 14% through May 28, 2016. From June 28, 2016 through March 28, 2017, we are obligated to make interest and principal payments
+of $7,990. The loan also provided a 6% backend fee due at the final payment of the loan. MBF is affiliated with one of our board
+members. 
+
+Effective April 19, 2016, we entered into
+a $300,000 promissory loan note with MBF. The loan provides for interest only payments at 15.5% through May 28, 2016. From June
+28, 2016 through May 28, 2018, we are obligated to make interest and principal payments of $14,617. The loan also provided a 6%
+back end fee due at the final payment of the loan. 
+
+Effective July 1, 2016, our subsidiary,
+TOT Group, Inc., entered into a $353,500 promissory loan note with MBF. The loan provides for interest only payments at 15.5% through
+June 28, 2016. From July 28, 2016 through June 28, 2018, we are obligated to make interest and principal payments of $17,224. The
+loan also provided a 1% front end fee and a 6.6% back end fee due at the final payment of the loan. 
+
+Crede CG III, Ltd.  
+
+On May 2, 2016, we entered into a Master
+Exchange Agreement with Crede, an entity that purchased a portion our previously issued notes held by RBL. Pursuit to the Master
+Exchange Agreement, we have the right to request that Crede exchange up to $3,965,000 of the RBL promissory notes for shares of
+our common stock. 
+
+For the quarter ended September 30,
+2016, we exchanged 992,032 shares of our common stock for an aggregate of $1,356,480 in various tranches of the
+original $3,315,000 RBL promissory note purchased by Crede, based on an average per share exchange price of $1.51. The
+exchanges also settled current interest and loan fees of $143,520 and a non-cash exchange premium of $300,903. A summary of
+these exchanges for the quarter ended September 30, 2016 is as follows. See Note 17 Subsequent Events for additional
+exchanges subsequent to September 30, 2016. 
+
+Scheduled Debt Principal Repayment  
+
+Scheduled principal maturities on indebtedness at September
+30, 2016 is as follows: 
+
+NOTE 10. CONCENTRATIONS  
+
+Total revenue was $38,963,559 for the nine
+months ended September 30, 2016, of which $29,442,868 was derived from processing of Visa , MasterCard , Discover 
+and American Express  card transactions, $5,000,137 was derived from processing of mobile electronic payments and $4,521,239
+was derived from our PayOnline transactional gateway services. 
+
+Total revenue was $25,122,250 for the nine
+months ended September 30, 2015, of which $19,275,885 was derived from processing of Visa , MasterCard , Discover 
+and American Express  card transactions, $3,489,550 was derived from processing of mobile electronic payments and $2,356,815
+was derived from our PayOnline transactional gateway services. 
+
+For the nine months ended September 30,
+2016 and 2015, credit card processing revenues were derived from merchant customer transactions, which were processed primarily
+by two third-party processors. For the nine months ended September 30, 2016, we processed 61% of our total revenue with Priority
+Payments, Inc. (f/k/a Cynergy Data, LLC) and 7% with Vantiv, Inc. (f/k/a National Processing Company (NPC)). For the nine months
+ended September 30, 2015, we processed 60% of our total revenue with Priority Payments, Inc. and 13% with Vantiv, Inc. 
+
+For the nine months ended September 30,
+2016, mobile electronic payment revenues were derived from merchant customer transactions, which were processed by one mobile operator
+greater than 5% of sales. For the nine months ended September 30, 2016, we processed 11% of our total revenue with OOO Helpline. 
+
+For the nine months ended September 30,
+2015, mobile electronic payment revenues were derived from merchant customer transactions, which were processed primarily by two
+mobile operators. For the nine months ended September 30, 2015, we processed 2% of our total revenue with Beeline (OJSC Vimpelcom),
+and 2% with MTS (Mobile TeleSystems OJSC). 
+
+Revenues from our Online Solutions segment
+comprises approximately 12% of our total revenue for the nine months ended September 30, 2016 and no individual customer is significant. 
+
+NOTE 11. COMMITMENTS AND CONTINGENCIES  
+
+PayOnline Acquisition Commitments   
+
+On May 20, 2015, our subsidiaries TOT Group
+Europe, Ltd. and TOT Group Russia LLC, entered into an agreement with Maglenta Enterprises Inc. and Champfremont Holding Ltd. (together,
+the  Sellers ) to acquire all of the assets and liabilities that comprise PayOnline. PayOnline s business includes
+the operation of a protected payment processing system to accept bank card payments for goods and services. 
+
+Purchase consideration consisted of a combination
+of $3.6 million in cash, and restricted common shares with a value of $3.6 million, payable in five quarterly installments, and,
+if applicable, additional earn-out payments in cash and restricted common shares based on a multiple of EBITDA and subject to certain
+EBITDA target achievement in the applicable quarter. The PayOnline acquisition agreement set forth the determination of the value
+of such shares based on the closing stock price on the date before each applicable payment date. The agreement called for a guarantee,
+payable in cash, for decreases in the market value of the restricted common shares issued at 12 months from the date of the respective
+issuances. On May 19, 2016, we recognized a charge in the amount of $2,162,861 for decreases in the market value of the restricted
+common shares issued pursuant to the stock price guarantee. 
+
+On October 25, 2016, we entered into a
+settlement agreement with the Sellers relating to the stock price guarantee provision in the PayOnline acquisition agreement pursuant
+to which we agreed to pay the Sellers an aggregate of $2,288,667 plus 10% per annum interest accrued from May 20, 2016 in installments
+pursuant to the payment schedule set forth in the settlement agreement. As a result, for the three month period ended September
+30, 2016, we recorded an additional charge of $125,806 to adjust the accrual relating to the stock price guarantee obligation to
+the amount agreed to in such settlement agreement and a charge of $76,289 for the related accrued interest. In addition, on October
+25, 2016, we entered into an amendment to the PayOnline acquisition agreement with the Sellers, in which we agreed to
+assume $1,433,475 of certain refundable merchant deposit reserves. These reserves are expected to be refunded during the first
+half of 2017, and we have recorded a charge in this amount for the three months ended September 30, 2016. 
+
+Leases   
+
+We lease approximately 5,400 square
+feet of office space in North Miami Beach, Florida. The lease expires December 31, 2016, with monthly payments of approximately
+$19,500. We are currently negotiating a new lease, with increased space, with the same landlord. We plan for short-term lease(s)
+from January 1, 2017 until the new building is ready for occupancy (expected during the 2 nd  half of 2017). 
+
+We lease approximately 1500 square feet
+of office space in Yekaterinburg, Russia. We renewed this lease on July 1, 2016 with a new expiration date of June 1, 2017. The
+new annual payment for rent is $15,120. The Company is also responsible for utilities which are between $6,000 and $8,000 annually. 
+
+Net Element Russia leases approximately
+2,033 square feet of office space in Moscow, Russia at annual rent of $66,514, as well as one corporate apartment at annual rent
+of $14,571. The current lease term for the office space expires on January 31, 2017 and we expect to renew this lease at that time.
+The current lease term for the corporate apartment expires on February 28, 2017. We believe that these facilities are adequate
+for our anticipated needs. 
+
+PayOnline Systems leases approximately
+5,090 square feet of office space in Moscow, Russia at annual rent of $127,243. The current lease term for the office space
+expires on July 15, 2017. We believe that these facilities are adequate for our anticipated needs. 
+
+Litigation   
+
+Wayne Orkin  
+
+ The parties entered into a Settlement Agreement
+on July 19, 2016.  Pursuant to the settlement, both Orkin s arbitration case and the lawsuit filed by Orkin at
+the Los Angeles Superior Court against the Company and other parties have been withdrawn with prejudice.  All
+claims by Orkin and counterclaims by the company have been fully and finally resolved. Pursuant to terms of the settlement,
+we issued 95,694 shares of common stock of the Company with a market value of $200,000 on August 1, 2016. 
+
+Aptito.com, Inc  
+
+ On August 6, 2014, our subsidiary (Aptito,
+LLC) filed a lawsuit against Aptito.com, Inc. and the shareholders of Aptito.com, Inc., in state court in the 11th Judicial Circuit
+in and for Miami-Dade County. This is an interpleader action in regards to 125,000 shares of stock. Aptito, LLC acquired Aptito.com,
+Inc. in exchange for, among other things, 125,000 shares of Net Element, Inc. stock. There has been disagreement among the Aptito.com,
+Inc. shareholders as to proper distribution of the 125,000 shares. To avoid any liability in regards to improper distribution,
+Aptito, LLC filed the interpleader action so as to allow the Defendants to litigate amongst themselves as to how the shares should
+be distributed. Aptito.com, Inc. opposes the motion to interplead and has filed counterclaims relative to Aptito, LLC non-delivery
+of the 125,000 shares. Aptito, LLC recently filed a motion to interplay, which it intends to set for hearing. If the motion to
+interplay is granted, it will be up to the Defendants to litigate as to the proper distribution of shares and Aptito, LLC will
+be discharged from any purported liability. This matter is still proceeding. 
+
+Gene Zell  
+
+ In June 2014, we, as plaintiff, commenced
+an action in the Miami-Dade Circuit Court, Florida against Gene Zell for defamation of our Company and CEO and tortious interference
+with our business relationships. In October 2014, the court granted a temporary injunction against Zell enjoining him from posting
+any information about our Company and CEO on any website and enjoining him from contacting our business partners or investors.
+Zell violated the Court Order and the Court granted a Motion imposing sanctions against Zell. We continue to seek enforcement of
+the Court Order. 
+
+On April 13, 2015, Zell filed a Motion
+to set aside the Court Order alleging he was unaware of the Court Proceedings. The Court, on August 26, 2015, dismissed Zell s
+Motion to dissolve the injunction and the injunction order prohibiting Zell from making further defamatory posts remains
+in place.  The Company intends to protect its rights by ongoing enforcement of the Injunction. 
+
+Dan Hudson  
+
+ In August 2015, we, as plaintiff, commenced
+an action in the Miami-Dade Circuit Court, Florida against Dan Hudson for defamation of our Company and CEO and tortious interference
+with our business relationships. The Motion is for an injunction against Hudson enjoining him from posting any information about
+our Company and CEO on any website and enjoining him from contacting our business partners or investors. Hudson has been evading
+service of process. 
+
+On September 28, 2016, the Court
+filed a Case Management Order to set up a Case Management Conference to move the case forward.  As the process server
+had still been unable to serve Hudson, the Company elected to file a Notice of Voluntary Dismissal of this case.  Accordingly,
+this case has been voluntarily dismissed. 
+
+Other Legal Proceedings  
+
+We are involved in certain legal proceedings
+and claims which arise in the ordinary course of business. In our opinion, based on consultations with outside counsel, the results
+of any of these ordinary course matters, individually and in the aggregate, are not expected to have a material effect on our results
+of operations, financial condition, or cash flows. As more information becomes available, if management should determine that an
+unfavorable outcome is probable on such a claim and that the amount of such probable loss that it will incur on that claim is reasonably
+estimable, we will record a reserve for the claim in question. If and when we record such a reserve is recorded, it could be material
+and could adversely impact our results of operations, financial condition, and cash flows. 
+
+NOTE 12. RELATED PARTY TRANSACTIONS  
+
+At June 30, 2016, we had working capital
+advances of $329,921 from our CEO. During July 2016, our CEO advanced us an additional $117,739 for working capital. At September
+30, 2016, the balance due to our CEO was $447,660. 
+
+See Note 9 with respect to the notes payable
+to MBF, which is affiliated with William Healy, one of our board members. 
+
+NOTE 13. STOCKHOLDERS  EQUITY  
+
+On May 25, 2016, the Company effected a
+one-for-ten reverse stock split of its common stock. The consolidated financial statements give retrospective effect for this change
+in capital structure for all periods presented. In addition, all share amounts and calculations in this Report are based on post
+reverse split shares. 
+
+Share based compensation of $732,701 for
+the three months ended September 30, 2016 for the issuance of 166,004 shares was as follows: 
+
+Agreement with ESOUSA Holdings  
+
+On July 6, 2016, we entered into a common
+stock purchase agreement ( Purchase Agreement ), with ESOUSA Holdings, LLC, a New York limited liability company ( ESOUSA ),
+which provides that ESOUSA is committed to purchase up to an aggregate of $10 million of our shares of common stock over the 30-month
+term of the Purchase Agreement. In consideration for entering into the Purchase Agreement, we paid shares of our common stock with
+a value equivalent $200,000 as a commitment fee to ESOUSA. The number of shares was calculated using the average of volume weighted
+average price for our common stock during the 3 trading day period immediately preceding the date of issuance of such shares. Accordingly,
+on August 31, 2016, we issued 131,171 shares of our common stock to ESOUSA based on the price of $1.5247 per share. 
+
+On September 15, 2016, we issued 454,546
+shares of our common stock to ESOUSA for an aggregate price of $500,000, or $1.10 per share in accordance with the Purchase Agreement.
+See Note 17 Subsequent Events for additional sales to ESOUSA subsequent to September 30, 2016 in connection with the Purchase Agreement. 
+
+NOTE 14. WARRANTS AND OPTIONS  
+
+Warrants  
+
+In 2013, the Company (then known as Cazador
+Acquisition Corporation Ltd.) issued warrants to purchase 894,000 shares of common stock in connection with its private placement
+and initial public offering. At September 30, 2016 and December 31, 2015, we had warrants outstanding to purchase 893,890 shares
+of common stock with a weighted average exercise price of $75.00 and a weighted average contract term of 1.0 year and 1.75
+years, respectively.  
+
+Each warrant entitles the registered holder
+thereof to purchase one share of our common stock at a price of $75.00 per share. The warrants will be exercisable only if a registration
+statement relating to the shares of our common stock issuable upon exercise of the warrants is effective and current. 
+
+The warrants expire on October 1, 2017,
+or earlier upon exercise or redemption. 
+
+Equity Incentive
+Plan Options  
+
+At September 30, 2016, we had 335,894 incentive
+stock options outstanding with a weighted average exercise price of $2.63 and a weighted average remaining contract term of
+9.43 years. All of the stock options were out-of-the-money and had no intrinsic value at September 30, 2016.   
+
+Non-Incentive Options  
+
+At September 30, 2016, we had 1,602,142
+non-incentive options outstanding with an exercise price of $2.18 and a remaining contract term of 4.17 years. These options were
+out of the money at September 30, 2016 and had no intrinsic value. 
+
+NOTE 15. INCOME TAXES   
+
+Our net deferred tax assets primarily are
+comprised of net operating loss carryforwards ( NOLs ), and basis difference in goodwill and intangibles. These NOLs
+total approximately $48.6 million and $44.6 million for federal, and approximately $13.2 million and $9.7 million for foreign NOLs
+as of September 30, 2016 and September 30, 2015, respectively. 
+
+The timing and manner in which we will
+be able to utilize our NOLs is limited by Section 382 of the Internal Revenue Code of 1986, as amended (IRC). IRC Section 382 imposes
+limitations on a corporation s ability to use its NOLs when it undergoes an  ownership change.  Generally, an
+ownership change occurs if one or more shareholders, each of whom owns 5% or more in value of a corporation s stock, increase
+their percentage ownership, in the aggregate, by more than 50% over the lowest percentage of stock owned by such shareholders at
+any time during the preceding three-year period. Because on June 10, 2014, we underwent an ownership change as defined by IRC Section
+382, the limitation applies to us. The losses generated prior to the ownership change date (pre-change losses) are subject to the
+Section 382 limitation. The pre-change losses may only become available to be utilized by us at the rate of $2.4 million per year.
+Any unused losses can be carried forward, subject to their original carry forward limitation periods. In the year 2016, approximately
+$2.4 million in the pre-change losses was released from the Section 382 loss limitation. We can still fully utilize the NOLs generated
+after the change of the ownership, which was approximately $3.3 million. Thus, we expect the total of approximately $13.1 million
+as of September 30, 2016 is available to offset future taxable income. 
+
+In order to fully utilize the net deferred
+tax assets, we will need to generate sufficient taxable income in future years to utilize its NOLs prior to their expiration. ASC
+Topic 740,  Income Taxes , requires us to analyze all positive and negative evidence to determine if, based on the
+weight of available evidence, we are more likely than not to realize the benefit of the net deferred tax assets. The recognition
+of the net deferred tax assets and related tax benefits is based upon our conclusions regarding, among other considerations, estimates
+of future earnings based on information currently available, current and anticipated customers, contracts and product introductions,
+as well as historical operating results and certain tax planning strategies. 
+
+We have evaluated the available evidence and the likelihood
+of realizing the benefit of our net deferred tax assets. From our evaluation, we have concluded that based on the weight of available
+evidence, it is more likely than not that we will not realize any of the benefit of its net deferred tax assets. Accordingly, at
+September 30, 2016, we maintain a full valuation allowance totaling approximately $23.8 million. 
+
+NOTE 16. SEGMENT INFORMATION  
+
+Prior to the fourth quarter of 2015, we
+had a single reportable business segment: payment processing for electronic commerce. On May 20, 2015, we obtained financial and
+operational control of PayOnline, a provider of online payment processing of online transactions in emerging markets for services
+fees. Additionally, we rebranded our mobile payments business to Digital Provider and began reporting gross revenues for mobile
+payments where we provide access to branded content. Given the size of assets and revenues from PayOnline and Digital Provider,
+we began reporting segment information for three operating segments. 
+
+Our three reportable segments include:
+(i) North America Transaction Solutions for electronic commerce, (ii) Mobile Solutions (primarily servicing the Russian Federation
+and CIS) and (iii) Online Solutions. Management determines the reportable segments based on the internal reporting used by our
+Chief Operating Decision Maker to evaluate performance and to assess where to allocate resources. During the nine months ending
+September 30, 2016 and 2015, the principal revenue stream for all segments came from services fees and branded content. 
+
+Factors management used to identify
+the entity s reportable segments  
+
+The Company s reportable segments
+are business units that offer different products and services in different geographies. The reportable segments are each managed
+separately because they offer distinct products with different delivery and service processes. 
+
+North America Transaction Solutions  
+
+Our U.S. payment processing business segment
+consists of the former Unified Payments business and Aptito. This segment operates primarily in North America. In March 2013, we
+acquired all of the business assets of Unified Payments, a provider of comprehensive turnkey, payment processing solutions to small
+and medium size business owners (merchants) and independent sales organizations across the United States. 
+
+In April 2013, we purchased 80% of Aptito,
+a cloud based Software-as-a-Service ( SaaS ) restaurant management solution, which provides integrated POS, mPOS, Kiosk,
+Digital Menus functionality to drive consumer engagement via Apple  iPad -based POS, kiosk and all other cloud-connected
+devices. 
+
+Mobile Solutions  
+
+Our Russian mobile and online payment processing
+segment consists of Digital Provider which operates primarily in the Russian Federation and CIS 
+
+In June 2012, we formed our subsidiary,
+OOO TOT Money, to develop a business in mobile commerce payment processing. TOT Money launched its initial operations in Russia
+as a payment facilitator using SMS (short message services, which is a text messaging service) and MMS (multimedia message services)
+for mobile phone subscribers in Russia. During 2015, we changed or business model, rebranded our name to Digital Provider, and
+began to offer branded content to subscribers. 
+
+Online Solutions  
+
+On May 20, 2015, we acquired the net assets
+that comprise PayOnline, which includes a protected payment processing system to accept bank card payments for goods and services.
+PayOnline primarily operates in Russia and CIS. 
+
+The accounting policies of the individual
+transactions in the reportable segments are the same as those of the Company, as described in Note 1. Transactions between reportable
+segments are primarily conducted at market rates, resulting in segment profits or expenses that are eliminated for reporting consolidated
+results. 
+
+Segment Summary Information  
+
+The following tables present financial
+information of the Company s reportable segments at September 30, 2016 and 2015. The  Corporate Expenses   Eliminations 
+column includes all corporate expenses and intercompany eliminations for consolidated purposes. 
+
+Note: PayOnline was consolidated on May 20, 2015 and revenues
+were reported net. 
+
+Note: PayOnline was consolidated effective May 20, 2015. 
+
+NOTE 17. SUBSEQUENT EVENTS  
+
+On October 25, 2016, we issued 94,340 shares
+of our common stock to ESOUSA for an aggregate price of $100,000 or $1.06 per share, in accordance with the Purchase Agreement. 
+
+Effective November 7, 2016, we entered
+into a $350,000 term note with RBL. The promissory note provides for interest only payments at 14.15% through May 20, 2017. From
+June 20, 2017 through May 20, 2021, we are obligated to make interest and principal payments of $9,591. The promissory note also
+calls for a 2% front end fee, due upon the execution of the loan, and a 4% back end fee due at the final payment of the promissory
+note. 
+
+On November 8, 2016, we exchanged 98,040
+shares of our common stock for an aggregate $81,363 tranche of the original $3,315,000 RBL promissory note purchased by Crede,
+based on a per share exchange price of $1.02. The exchange also settled current interest and loan fees of $18,637 and an exchange
+premium of $9,408. 
+
+On November 14, 2016, we exchanged 98,040 shares of our common
+stock for an aggregate $81,363 tranche of the original $3,315,000 RBL promissory note purchased by Crede, based on a per share
+exchange price of $1.02. 
+
+Item 2. Management s Discussion
+and Analysis of Financial Condition and Results of Operations.  
+
+The following discussion should be read
+and evaluated in conjunction with the unaudited condensed consolidated financial statements and notes thereto contained in this
+Report and with the discussion under  Forward-Looking Statements  on page 2 at the beginning of this Report and the
+Risk Factors set forth in Part I, Item 1A of our Annual Report on Form 10-K/A for the fiscal year ended December 31, 2015 and in
+Part II, Item 1A of this Report.  
+
+Results of Operations for the Three
+Months Ended September 30, 2016 Compared to the Three Months Ended September 30, 2015  
+
+We reported a net loss attributable to
+stockholders of $3,469,540, or $0.25 per share, for the three months ended September 30, 2016 as compared to a net loss attributable
+to stockholders of $5,134,474, or $0.75 per share, for the three months ended September 30, 2015. The decrease in net loss of $1,664,934
+was primarily due to a $996,318 decrease in interest expense and $621,273 decrease in dividends for the benefit of preferred stockholders.
+These items are discussed further below. 
+
+Net revenues consist primarily of payment
+processing fees. Net revenues were $14,009,652 for the three months ended September 30, 2016 as compared to $12,675,123 for the
+three months ended September 30, 2015. Included in Mobile Solutions revenue for the three months ended September 30, 2016 is $1,135,266
+of branded content revenue. The remaining $12,874,386 is part of service fees revenue. 
+
+The increase in net revenue is primarily
+a result of an increase in revenue from our North America Transaction Solutions segment, amounting to $3,359,320, offset by decreases
+in revenue from our Mobile Solutions and Online Solutions segments of $1,569,243 and $455,548, respectively. Increases in our North
+America Transaction Solutions segment revenue were primarily due to a net increase in merchants processing with us. 
+
+The following table sets forth our sources
+of revenues, cost of revenues and gross margins for the three months ended September 30, 2016 and 2015. 
+
+Cost of revenues represents direct costs
+of generating revenues, including commissions, mobile operator fees, content provider fees, purchases of short numbers, interchange
+expense and processing fees. Cost of revenues for the three months ended September 30, 2016 were $11,695,168 as compared to $10,705,327
+for the three months ended September 30, 2015. 
+
+The $989,841 increase in cost of revenue
+was primarily a result of an increase in U.S. transaction volume. The decreases in cost of revenue in each of our Mobile Solutions
+and Online Solutions segments coincided with the decreases in sales for the period in such segments. The Mobile Solutions cost
+of revenue for the three months ended September 30, 2016 includes $1,011,271 of branded content costs. The remaining $34,565 is
+included in the cost of service fees. 
+
+Gross Margin for the three months ended
+September 30, 2016 was $2,314,484, or 17% of net revenue, as compared to $1,969,796, or 16% of net revenue, for the three months
+ended September 30, 2015. Included in the Mobile Solutions gross margin for the three months ended September 30, 2016 is $123,996
+of branded content margin. 
+
+Total operating expenses were $4,083,494
+for the three months ended September 30, 2016, as compared to total operating expenses of $3,896,561 for the three months ended
+September 30, 2015. Total operating expenses for the three months ended September 30, 2016 consisted of general and administrative
+expenses of $2,284,737, non-cash compensation of $732,701, provision for bad debts of $301,170 and depreciation and amortization
+of $764,886. For the three months ended September 30, 2015, total operating expenses consisted of general and administrative expenses
+of $2,159,170, non-cash compensation of $601,371, provision for bad debts of $284,384 and depreciation and amortization of $851,636.
+The components of our general and administrative expenses are discussed below. 
+
+General and administrative expenses and
+share based compensation were $3,017,438 for the three months ended September 30, 2016 as compared to $2,760,541 for the three
+months ended September 30, 2015. General and administrative expenses for the three months ended September 30, 2016 and 2015 consisted
+of operating expenses not otherwise delineated in our unaudited condensed consolidated statements of operations and comprehensive
+loss as follows: 
+
+Salaries, benefits, taxes and contractor
+payments were $1,045,394 for the three months ended September 30, 2016 as compared to $1,009,441 for the three months ended September
+30, 2015, representing an increase of $35,953 as follows: 
+
+The primary reason for the increase was
+a $120,556 increase in salaries from North America Transaction Solutions due to higher headcount and additional sales incentives
+for retention and portfolio performance. Additionally, we had an increase of $47,039 from the acquisition of PayOnline (acquired
+May 20, 2015) and a $22,783 increase to Mobile Solutions from changes in personnel and compensation that was offset by
+a $154,425 decrease to corporate salaries from reduced headcount. 
+
+Professional fees were $672,480 for the
+three months ended September 30, 2016 as compared to $676,531 for the three months ended September 30, 2015, representing a decrease
+of $4,051 as follows: 
+
+General legal expenses decreased
+$195,396 for the three months ended September 30, 2016 compared to the three months ended September 30, 2015 primarily due to
+decreased litigation activity due to the settlement of certain litigation matters. Offsetting the decrease was an increase in
+consulting fees of $230,958 primarily due to a non-cash, one-time accounting adjustment. This was offset by a decrease in
+consulting fees for outside sales support and outsourced operations for our Mobile Solutions and Online Solutions
+segments. 
+
+Other general and administrative expenses
+were $384,954 for the three months ended September 30, 2016 as compared to $300,269 for the three months ended September 30, 2015,
+representing an increase of $84,685. This increase is primarily caused by an increase in insurance expense of $121,232 and office
+expenses of $34,990, which were partially offset by decreases in utilities of $40,243 and taxes of $41,017. 
+
+Non-cash compensation expense from
+share-based compensation was $732,701 for the three months ended September 30, 2016, compared to $601,371 for the three
+months ended September 30, 2015. The $732,701 of share based compensation for the three months ended September 30, 2016
+consisted of $423,261 in shares vesting for a bonus for our CEO, $200,000 for shares provided to settle the Orkin legal
+matter and $109,440 for shares provided as incentive to a key Russian executive. For
+the three months ended September 30, 2015, there was $601,371 in share based
+compensation consisting of
+$224,450 of expense for executive compensation and $355,171 for shares provided as
+bonus for our CEO. 
+
+We recorded bad debt expense of $301,170
+for the three months ended September 30, 2016 as compared to $284,384 for the three months ended September 30, 2015. For the three
+months ended September 30, 2016, we recorded a loss provision which was primarily comprised of $301,132 in ACH rejects. For the
+three months ended September 30, 2015, we recorded a $284,384 loss provision which was comprised of $307,154 in ACH rejects partially
+offset by a $22,811 recovery from our Russian operations. 
+
+Depreciation and amortization expense consists
+primarily of the amortization of merchant portfolios plus depreciation expense on fixed assets, client acquisition costs, capitalized
+software expenses, trademarks, domain names and employee non-compete agreements.  Depreciation and amortization expense
+was $764,886 for the three months ended September 30, 2016 as compared to $851,636 for the three months ended September 30, 2015.
+The $86,751 decrease in depreciation and amortization expense was primarily due to a reduction in portfolio amortization. 
+
+Interest expense was $608,716 for the three
+months ended September 30, 2016 as compared to $1,605,034 for three months ended September 30, 2015, representing a decrease of
+$996,318 as follows: 
+
+The net loss attributable to non-controlling
+interests amounted to $33,683 for three months ended September 30, 2016 as compared to $23,577 for the three months ended September
+30, 2015. 
+
+During the three months ended September
+30, 2016, we recognized a charge of $1,433,475 relating to an amendment to the PayOnline acquisition agreement, which we entered
+into on October 25, 2016. Such amendment calls for our assumption of certain merchant reserve liabilities equal to the charge taken.
+See Note 11 to the condensed consolidated financial statements for additional information. 
+
+During the three months ended September
+30, 2015 we recognized a $1,083,028 loss from the change in fair value and settlement of beneficial conversion derivative relating
+the mark to market of the derivative to the company s common stock. 
+
+During the three months ended September
+30, 2016, no dividends were paid. We paid dividends to our preferred shareholders in the amount of $621,273 during the three months
+ended September 30, 2015. 
+
+Results of Operations for the Nine Months
+Ended September 30, 2016 Compared to the Nine Months Ended September 30, 2015  
+
+We reported a net loss attributable to
+common stock of $10,663,708, or $0.87 per share, for the nine months ended September 30, 2016 as compared to a net loss attributable
+to common stock of $9,663,165, or $1.79 per share, for the nine months ended September 30, 2015. This resulted in an increase in
+net loss of $1,000,543, which was primarily due to a $3,722,142 loss from the stock price guarantee in connection with the PayOnline
+acquisition (see Note 11 to the condensed consolidated financial statements for additional information), partially offset by an
+$1,821,009 decrease in interest expense and a $1,146,470 decrease in dividends for the benefit of preferred stockholders in interest
+expense. These items are discussed further below. 
+
+Net revenues consist primarily of payment
+processing fees. Net revenues were $38,963,559 for the nine months ended September 30, 2016 as compared to $25,122,250 for the
+nine months ended September 30, 2015. Included in Mobile Solutions revenue for the nine months ended September 30, 2016 is $4,607,647
+of branded content revenue. The remaining revenues of $391,806 reported in Mobile Solutions are included in service fees revenue. 
+
+The increase in net revenue is primarily
+a result of an increase in revenue from our North American Transaction Solutions segment, amounting to $10,166,983, and increases
+in revenue from our Mobile Solutions and Online Solutions segments of $1,509,902 and $2,164,424, respectively. Increases in our
+North American Transaction Solutions revenue were primarily due to organic net increases in merchants. 
+
+The following table sets forth our sources
+of revenues, cost of revenues and gross margins for the nine months ended September 30, 2016 and 2015. 
+
+Cost of revenues represents direct costs
+of generating revenues, including commissions, mobile operator fees, content provider fees, purchases of short numbers, interchange
+expense and processing fees. Cost of revenues for the nine months ended September 30, 2016 were $32,565,202 as compared to $20,787,216
+for the nine months ended September 30, 2015. 
+
+The year over year increase in cost of
+revenue of $11,777,986 was primarily a result of an increase in U.S. transaction volume, which resulted in an $8,663,579 increase
+in cost of revenue in our North American Transaction Solutions segment. Additionally, there was a $1,640,059 increase in cost of
+revenue in our Mobile Solutions segment, which now includes mobile operator fees and content provider fees when we provide branded
+content. We also had $1,474,348 in new costs resulting from PayOnline operations (acquired May 20, 2015). Included in cost of revenue
+in our Mobile Solutions segment for the nine months ended September 30, 2016 is $4,279,218 for the cost of branded content. The
+remaining $147,825 is included in the cost of service fees. 
+
+Gross Margin for the nine months ended
+September 30, 2016 was $6,398,357 or 16% of net revenue, as compared to $4,335,034 or 17% of net revenue, for the nine months ended
+September 30, 2015. There were increased margins from our Russian online transaction processing offset by lower margins from our
+branded content provided by Mobile Solutions. Included in the Mobile Solutions gross margin for the nine months ended September
+30, 2016 is $328,428 (6.6% of total Mobile Solutions revenues) for branded content. 
+
+Total operating expenses were $12,656,321
+for the nine months ended September 30, 2016, as compared to total operating expenses of $10,924,990 for the nine months ended
+September 30, 2015. Total operating expenses for the nine months ended September 30, 2016 consisted of general and administrative
+expenses of $6,372,361, non-cash compensation of $3,108,274, provision for bad debts of $678,150 and depreciation and amortization
+of $2,497,538. For the nine months ended September 30, 2015, total operating expenses consisted of general and administrative expenses
+of $6,778,751, non-cash compensation of $1,804,113, provision of bad debts of $425,225 and depreciation and amortization of $1,916,901.
+The components of our general and administrative expenses are discussed below. 
+
+General and administrative expenses and
+share based compensation was $9,480,635 for the nine months ended September 30, 2016 as compared to $8,582,864 for the nine months
+ended September 30, 2015. General and administrative expenses for the nine months ended September 30, 2016 and 2015 consisted of
+operating expenses not otherwise delineated in our unaudited condensed consolidated statements of operations and comprehensive
+loss as follows:  
+
+Salaries, benefits, taxes and contractor
+payments were $3,227,644 for the nine months ended September 30, 2016 as compared to $2,727,785 for the nine months ended September
+30, 2015, representing an increase of $499,859 as follows:  
+
+The primary reason for the increase was
+a $392,564 in salaries from North America Transaction Solutions and $243,217 from the acquisition of PayOnline (acquired May 20, 2015)
+offset by an $181,015 decrease to our corporate division salaries and benefits. North America Transaction Solutions increase is
+due to increased management headcount, increased risk management headcount and additional incentives for portfolio performance. 
+
+Professional fees were $1,874,191 for the
+nine months ended September 30, 2016 as compared to $2,619,682 for the nine months ended September 30, 2015, representing a decrease
+of $745,491 as follows: 
+
+Total professional fees decreased $745,491
+during for the nine months ended September 30, 2016 compared to the nine months ended September 30, 2015 primarily due to decreased
+litigation activity at the corporate level and at our Mobile Solutions segment. Consulting fees decreased $200,253 primarily due
+a transition of consultants into permanent positions in corporate. 
+
+Non-cash compensation expense from share-based
+compensation was $3,108,274 for the nine months ended September 30, 2016, compared to $1,804,113 for the nine months ended September
+30, 2015. The primary reasons for the increase are due to increased charges for stock and option bonuses paid to officers and various
+employees. 
+
+We recorded bad debt expense of $678,150
+for the nine months ended September 30, 2016 as compared to $425,225 for the nine months ended September 30, 2015. For the nine
+months ended September 30, 2016, we recorded a loss which was primarily comprised of $710,508 in ACH rejects offset by a $32,358
+recovery from our Russian operations. For the nine months ended September 30, 2015, we recorded a loss provision which was primarily
+comprised of $542,763 in ACH rejects offset by an $117,569 recovery from our mobile payments business. 
+
+Depreciation and amortization expense consists
+primarily of the amortization of merchant portfolios plus depreciation expense on fixed assets, client acquisition costs, capitalized
+software expenses, trademarks, domain names and employee non-compete agreements. Depreciation and amortization expense was $2,497,538
+for the nine months ended September 30, 2016 as compared to $1,916,901 for the nine months ended September 30, 2015. The $580,637
+increase in depreciation and amortization expense was primarily related to the PayOnline acquisition ($703,479 for IP Software,
+$49,998 for domain names, $74,834 for PCI Certification and $186,096 for portfolios and client lists), offset by a $600,068 decrease
+in portfolio amortization in our North American Transaction Solutions segment as legacy portfolios fully amortized. 
+
+Interest expense was $1,186,207 for the
+nine months ended September 30, 2016 as compared to $3,007,216 for nine months ended September 30, 2015, representing a decrease
+of $1,821,009 as follows:  
+
+The net loss attributable to non-controlling
+interests amounted to $110,350 for nine months ended September 30, 2016 as compared to $42,850 for the nine months ended September
+30, 2015 due to increased losses at Aptito. 
+
+During the nine months ended
+September 30, 2016, we recognized a charge of $3,722,142 relating to the PayOnline acquisition agreement entered into on May
+20, 2015. The PayOnline acquisition agreement calls for a guarantee payment in cash for decreases in the market value of
+certain restricted common shares issued in accordance with the acquisition agreement at 12 months from the date of the
+respective issuances. In addition, this includes a charge of $1,433,475 in connection with an amendment to the PayOnline
+acquisition agreement entered into on October 25, 2016, which calls for our assumption of certain merchant reserve
+liabilities equal to the charge taken. See Note 11 to the condensed consolidated financial statements for additional
+information. 
+
+During the nine months ended September
+30, 2015 we recognized a $939,008 gain from the change in fair value and settlement of beneficial conversion derivative relating
+to the preferred stock issued to Candlewood Tenor. There was no such gain during the nine months ended September 30, 2016. 
+
+During the nine months ended September
+30, 2016 no dividends were paid. We paid dividends to our preferred shareholders in the amount of $1,146,470 during the nine months
+ended September 30, 2015. 
+
+Liquidity and Capital Resources  
+
+Since our inception, we have incurred significant
+operating losses. We incurred a net loss attributable to common stockholders of $10,663,708 for the nine months ended September
+30, 2016 and $14,838,704 for the year ended December 31, 2015. We had a working capital deficit of $4,102,390 and an accumulated
+deficit of $154,618,755 at September 30, 2016. We had a working capital deficit of $3,095,375 and an accumulated deficit of $143,955,048
+at December 31, 2015. These conditions raise substantial doubt about our ability to continue as a going concern. The independent
+auditors  report on our consolidated financial statements for the year ended December 31, 2015 contains an explanatory paragraph
+expressing substantial doubt as to our ability to continue as a going concern. The accompanying condensed consolidated financial
+statements do not include any adjustments that might be necessary if we are unable to continue as a going concern. 
+
+At September 30, 2016, we had total current
+assets of $8,677,685 including $1,385,286 of cash, $5,866,714 of accounts receivable, and $1,425,685 of prepaid expenses and other
+assets. At December 31, 2015, we had total current assets of $7,330,756 including $1,025,747 of cash, $5,198,993 of accounts receivable,
+and $1,106,016 of prepaid expenses and other assets. 
+
+Accounts receivable increased $667,721
+as a result of higher processing volumes in North America Transaction Solutions and Mobile Solutions. Prepaid and other assets
+increased $319,669 primarily due to $300,000 provided for escrow in connection with the PayOnline settlement. 
+
+Our total assets at September 30, 2016
+were $23,395,806 compared to $22,913,561 at December 31, 2015. The $482,245 increase in total assets is primarily attributable
+to a $359,539 increase in cash, a $319,669 increase in prepaid expenses and other assets, a $667,721 increase in accounts receivable
+and a $439,783 increase in other long term assets (which primarily consist of capitalized loan costs and deposits to our loss reserve
+held by our service provider). In addition, there was a $1,270,815 decrease in intangible assets, due primarily due to portfolio
+and software amortization of $1,478,342 offset by a $992,880 increase of client acquisition costs from our North America Transaction
+Solutions segment and an $81,426 increase of capitalized software costs from our Online Solutions segment. 
+
+In May, 2015, we entered into an agreement
+to acquire the net assets of PayOnline for purchase consideration of $3.6 million in cash and restricted common shares with a value
+of $3.6 million, and, if applicable, additional earn-out payments in cash and restricted common shares, payable in five quarterly
+installments, based on a multiple of EBITDA and subject to certain EBITDA target achievement in the applicable quarter. The
+acquisition agreement set forth the determination of the value of such shares based on the closing stock price on the date before
+each applicable payment date. The agreement called for a guarantee payable in cash for decreases in the market value of the restricted
+common shares issued at 12 months from the date of the respective issuances. As of September 30, 2016, we have paid a total of
+$268,192 in common stock of the company and cash in earn-out payments. At September 30, 2016, we have an accrued balance of $4,000,472
+which includes an earn-out accrual of $278,330, a stock price guarantee charge of $2,288,667, a reserve for merchant liabilities
+assumed for $1,433,475 pursuant to an amendment to the PayOnline acquisition agreement. Also see Note 11 to the condensed consolidated
+financial statements for additional information. 
+
+On July 6, 2016, we entered into a common
+stock purchase agreement ( Purchase Agreement ), with ESOUSA Holdings, LLC, a New York limited liability company ( ESOUSA ),
+which provides that ESOUSA is committed to purchase up to an aggregate of $10 million of our shares of common stock over the 30-month
+term of the Purchase Agreement. Concurrently with entering into the Purchase Agreement, we also entered into a registration rights
+agreement with ESOUSA, in which we agreed to file one or more registration statements necessary to register under the Securities
+Act of 1933, as amended, or the Securities Act, the sale of the shares of our common stock that have been and may be issued to
+ESOUSA under the Purchase Agreement. 
+
+In consideration for entering into the
+Purchase Agreement, the Company is obligated, upon the earlier of (i) on or 1 business day after the Commission declares effective
+the registration statement referred to in the Purchase Agreement or (ii) six months after the date of the Purchase Agreement, to
+issue to ESOUSA such number of shares of the Company s common stock that would have a value equivalent to $200,000 calculated
+using the average of volume weighted average price for the Company s common stock during the 3 trading days period immediately
+preceding the date of issuance of such shares. 
+
+Accordingly, on August 31, 2016, the Company
+issued to ESOUSA 131,171 shares of the Company s common stock based on the price of $1.5247 per share. On September 15, 2016,
+the Company opted to present ESOUSA with a purchase notice directing ESOUSA to purchase 454,546 shares of the Company s common
+stock for the aggregate purchase price of $500,000 pursuant to the Purchase Agreement. In addition, on October 25, 2016, the Company
+opted to present ESOUSA with a purchase notice directing ESOUSA to purchase 94,340 shares of the Company s common stock for
+the aggregate purchase price of $100,000 pursuant to the Purchase Agreement 
+
+Management expects that our cash flows
+from operations will not be sufficient to fully execute our business plan through 2016. We expect to have an increase in our capital
+requirements during the 2016 fiscal year due to our expanding of transactional processing operations and portfolio acquisitions. 
+
+We currently believe that we will require
+an additional $4.2 million to finance continuing operations as currently conducted over the next 12 months. Additional funds may
+be raised through debt financing and/or the issuance of equity securities, there being no assurance that any type of financing
+on terms satisfactory to us will be available or otherwise occur. Debt financing must be repaid regardless of whether we generate
+revenues or cash flows from operations and may be secured by substantially all of our assets. Any equity financing or debt financing
+that requires the issuance of equity securities or warrants to the lender would cause the percentage ownership by our current stockholders
+to be diluted, which dilution may be substantial. Also, any additional equity securities issued may have rights, preferences or
+privileges senior to those of existing stockholders. If such financings are not available when required or are not available on
+acceptable terms, we may be unable to implement our business plans or take advantage of business opportunities, any of which could
+have a material adverse effect on our business, financial condition, results of operations and/or prospects and may ultimately
+require us to suspend or cease operations, which could cause investors to lose the entire amount of their investment. 
+
+The net loss attributable to Net
+Element, Inc. stockholders was $10,663,708 for the nine months ended September 30, 2016 compared to $8,516,695 for the nine
+months ended September 30, 2015. Operating activities used $1,067,490 of cash for the nine months ended September 30, 2016 as
+compared to $3,505,559 of cash used for the nine months ended September 30, 2015. 
+
+Negative operating cash flow of $1,067,490
+for the nine months ended September 30, 2016 was primarily due to the net loss of $10,663,708 adjusted for non-cash items. Additionally,
+accounts payable and accrued expenses provided $4,165,778 in working capital primarily due to the accruals for the stock price
+guarantee and assumption of merchant reserves pursuant to the PayOnline settlement. See Note 11 to the condensed consolidated financial
+statements for additional information. 
+
+Operating activities used $3,505,559 for
+the nine months ended September 30, 2015. Negative operating cash flow for the nine months ended September 30, 2015 was primarily
+due to net loss adjusted for non-cash items, an increase of $1,236,319 in accounts receivable offset by a $1,172,979 increase in
+accounts payable and accrued expenses due to increase production and associated pay-outs. 
+
+Investing activities for the nine months
+ended September 30, 2016 used $1,346,718 primarily for $992,860 in client acquisition costs, $124,524 in incremental reserves and
+capitalized upfront loan fees of $146,373. For the nine months ended September 30, 2015, we used $3,829,634 for investing activities
+primarily consisting of $3,195,452 for the purchase of PayOnline. 
+
+Financing activities provided $2,675,845
+in cash for the nine months ended September 30, 2016 as compared to $6,800,000 of cash provided for the nine months ended September
+30, 2015. Financing activities for the nine months ended September 30, 2016 included $2,668,500 proceeds from indebtedness, $117,779
+from related parties advances offset by repayments of indebtedness for $110,434. Financing activities provided $6,800,000 for the
+nine months ending September 30, 2015 primarily from $5,500,000 in proceeds provided from the sale of preferred stock and $650,000
+indebtedness proceeds from RBL and $650,000 advanced from related parties. 
+
+We have Russian operations that transact
+in foreign currencies including Russian Rubles and Euros. The effect of exchange rate changes increased our US Dollar-denominated
+cash balance by $97,900 for the nine months ended September 30, 2016 as compared to a $347,578 increase for the nine months ended
+September 30, 2015.    
+
+Off-balance sheet arrangements  
+
+At September 30, 2016, we did not have
+any off-balance sheet arrangements as defined in Item 303(a)(4) of Regulation S-K.   
+
+Item 3. Quantitative and Qualitative
+Disclosures about Market Risk.  
+
+Not applicable. 
+
+Item 4. Controls and Procedures.  
+
+Our disclosure controls and procedures
+are designed to provide reasonable assurance that information required to be disclosed in our reports filed or submitted under
+the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Commission s rules
+and forms, and that such information is accumulated and communicated to our management, including our chief executive officer and
+chief financial officer, as appropriate, to allow for timely decisions regarding required disclosure. In designing and evaluating
+the disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and
+operated, can provide only reasonable assurance of achieving the desired control objectives, and management is required to apply
+its judgment in evaluating the cost-benefit relationship of possible controls and procedures. 
+
+As of the end of the period covered by
+this Report, our management conducted an evaluation, under the supervision and with the participation of our chief executive officer
+and chief financial officer, of the effectiveness of our disclosure controls and procedures (as defined in Rule 13a-15(e) and Rule
+15d-15(e) under the Exchange Act). Based on that evaluation, our chief executive officer and chief financial officer concluded
+that our disclosure controls and procedures were not effective because there are a limited number of personnel employed and we
+cannot have an adequate segregation of duties, and due to the material weaknesses in our internal control over financial reporting
+as discussed below under  Management s Report on Internal Control Over Financial Reporting.  Accordingly, management
+cannot provide reasonable assurance of achieving the desired control objective. Management works to mitigate these risks by being
+personally involved in all substantive transactions and attempts to obtain verification of transactions and accounting policies
+and treatments involving our operations, including those overseas. We are in the process of reviewing and, where necessary, modifying
+controls and procedures throughout the Company, particularly in light of our recent acquisitions and the continued integration
+of these businesses. We will continue to address deficiencies as resources permit. 
+
+Management s Report on Internal
+Control over Financial Reporting  
+
+Management of the Company is responsible
+for establishing and maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f) under Exchange
+Act). Internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted
+accounting principles. Internal control over financial reporting includes those policies and procedures that: (i) pertain to the
+maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets
+of the Company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial
+statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the Company are being
+made only in accordance with authorizations of management and directors of the Company; and (iii) provide reasonable assurance
+regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company s assets that could
+have a material effect on the financial statements. 
+
+We recognize that because of its inherent
+limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation
+of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions,
+or that the degree of compliance with the policies and procedures may deteriorate. 
+
+Management of the Company conducted an
+assessment of the effectiveness of the Company s internal control over financial reporting as of September 30, 2016, based
+on the framework in Internal Control   Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of
+the Treadway Commission (the  COSO II Framework ). Based on management s assessment in accordance with the criteria
+in the COSO Framework, our management concluded that our internal control over financial reporting was not effective as of September
+30, 2016. 
+
+Management is aware of the following material
+weaknesses (a material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting
+such that there is a reasonable possibility that a material misstatement of the Company s annual or interim financial statements
+will not be prevented or detected and corrected on a timely basis) in the Company s internal control over financial reporting: 
+
+Control Environment  
+
+Inadequate
+Policies and Procedures: Based on management s review of key accounting policies and procedures, our management determined
+that such policies and procedures were inadequate as of September 30, 2016. Management identified certain policies and procedures
+as inadequate regarding the design of the control and formal written documentation.  
+
+We
+do not have sufficient personnel or financial resources to provide adequate risk assessment functions.  
+
+New
+Board of Director Members: A changing organizational structure provided challenges to ensure a sound control environment with
+appropriate tone, authority, responsibilities, and high ethical values. Due to continued changes in board membership, executive
+management and the composition of Company subsidiaries, we have not been able to provide adequate board training to new board
+members and establish adequate best practice procedures.  
+
+Control Activities  
+
+Testing
+of Internal Controls: The Company s accounting staff is relatively small and the Company does not have the required infrastructure
+for meeting the demands of being a U.S. public company. As a result we have identified deficiencies in our internal controls within
+our key business processes, particularly with respect to the design of quarterly accounting, financial statement close, consolidation,
+and external financial reporting procedures. Management believes there are control procedures that are effective in implementation
+within our key business processes. However, certain of these processes could not be formally tested because of lack of design,
+inadequate documentation, and lack of financial resources.  
+
+Information and Communication  
+
+We
+did not have adequate written procedures, risk assessment processes or board of directors training at September 30, 2016. Our
+quarterly reporting process, particularly in Russia, requires additional controls and processes.  
+
+Monitoring  
+
+Internal
+Control Monitoring: As a result of our limited financial personnel and ineffective controls (both preventative and detective)
+management s ability to monitor the design and operating effectiveness of our internal controls is limited. Accordingly,
+management s ability to timely detect, prevent and remediate deficiencies and potential fraud risks is inadequate.  
+
+These material weaknesses impede the ability
+of management to adequately oversee our internal control over financial reporting on a consistent basis. Management intends to
+continue focusing its remediation efforts in the near term on providing board and committee members with tools and COSO training
+designing revised accounting and financial reporting policies and procedures that will help ensure that adequate internal controls
+over financial reporting are met. Additionally, these revised procedures will be formally documented and procedures will focus
+on transaction processing, period-end account analyses and providing for additional review and monitoring procedures and periodically
+assess the need for additional accounting resources as the business develops and resources permit. Management also is committed
+to taking further action and implementing enhancements or improvements as resources permit. We recognize that, due to the size
+and stage of development of our foreign businesses, implementation of additional measures may take considerable time. 
+
+Notwithstanding the material weaknesses
+discussed above, our management has concluded that the financial statements included in this Report fairly present in all material
+respects our financial condition, results of operations and cash flows for the periods presented in conformity with generally accepted
+accounting principles. 
+
+Except as specifically described above
+in this Item 4, there was no change in our internal control over financial reporting during our third fiscal quarter of 2016 that
+has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+PART II   OTHER INFORMATION  
+
+Item 1. Legal proceedings.  
+
+For a discussion of legal proceedings,
+see   Litigation  in Note 11 to the condensed consolidated financial statements contained in Part I, Item 1 of
+this Report, which section is incorporated by reference herein. 
+
+Item 1A. Risk Factors.  
+
+In addition to the information set forth
+in this Report, you should carefully consider the factors discussed in Part I, Item 1A.  Risk Factors  in our Annual
+Report on Form 10-K for the year ended December 31, 2015, which could materially affect our business, financial condition
+or future results. The risks described in such reports are not the only risks facing us. Additional risks and uncertainties not
+currently known to us or that we currently deem to be immaterial also may eventually prove to materially adversely affect our business,
+financial condition and/or operating results. 
+
+Item 2. Unregistered Sales of Equity
+Securities and Use of Proceeds.  
+
+Sales of Unregistered Securities   
+
+Information required by Item 701 of Regulation
+S-K as to other unregistered equity securities we sold during the period covered by this Report that were not registered under
+the Securities Act has been previously reported in the Company s Current Reports on Form 8-K filed with the Commission in
+addition to the following: 
+
+On August 1, 2016, we issued 95,694 shares
+of our common stock in connection with the settlement of a litigation claim. Such shares of common stock were issued under an exemption
+from the registration requirements of the Securities Act in reliance upon Section 4(a)(2) of the Securities Act . See Note 11 to
+the condensed consolidated financial statements for additional information. 
+
+On August 12, 2016, we exchanged 103,617
+shares of our common stock for an aggregate $184,114 tranche of the original $3,315,000 RBL promissory note purchased by Crede
+CG III, Ltd. ( Crede ), based on a per share exchange price of $1.93. The exchange also settled current interest and
+loan fees of $15,886  and an exchange premium of $34,173. Such shares of common stock were issued to Crede under an exemption from the
+registration requirements of the Securities Act in reliance upon Section 3(a)(9) of the Securities Act. See Note 9 to the condensed
+consolidated financial statements for additional information. 
+
+On November 14, 2016, we exchanged 98,040 shares of our common
+stock for an aggregate $81,363 tranche of the original $3,315,000 RBL promissory note purchased by Crede CG III, Ltd. ( Crede ),
+based on a per share exchange price of $1.02. Such shares of common stock were issued to Crede under an exemption from the registration
+requirements of the Securities Act in reliance upon Section 3(a)(9) of the Securities Act. See Note 9 to the condensed consolidated
+financial statements for additional information. 
+
+Item 3.  Defaults Upon Senior
+Securities.  
+
+None. 
+
+Item 4.  Mine Safety Disclosures.  
+
+Not applicable. 
+
+Item 5.  Other Information.  
+
+None. 
+
+Item 6. Exhibits.  
+
+A list of the exhibits filed as a
+part of this Report is set forth on the Exhibit Index that follows page  36 of this Report and is incorporated herein by
+reference. 
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized. 
+
+Net Element, Inc.     
+
+Date: November 14, 2016  
+      By:  
+      /s/ Jonathan New     
+
+Name: Jonathan New     
+
+Title: Chief Financial Officer   
+
+(Principal Financial Officer   
+
+and Duly Authorized   
+
+Signatory)     
+
+EXHIBIT INDEX  
+
+3.1  
+       
+      Certificate of Corporate Domestication of Cazador, filed with the Secretary of State of the State of Delaware on October 2, 2012 (incorporated by reference to Exhibit 3.1 to the Company s Current Report on Form 8-K filed with the Commission on October 5, 2012)   
+
+3.2  
+       
+      Amended and Restated Certificate of Incorporation of Net Element International, Inc., a Delaware corporation, filed with the Secretary of State of the State of Delaware on October 2, 2012 (incorporated by reference to Exhibit 3.2 to the Company s Current Report on Form 8-K filed with the Commission on October 5, 2012)   
+
+3.3  
+       
+      Amended and Restated Bylaws of Net Element International, Inc., a Delaware corporation (incorporated by reference to Exhibit 3.3 to the Company s Current Report on Form 8-K filed with the Commission on October 5, 2012)   
+
+3.4  
+       
+      Certificate of Merger, filed with the Secretary of State of the State of Delaware on October 2, 2012 (incorporated by reference to Exhibit 3.4 to the Company s Current Report on Form 8-K filed with the Commission on October 5, 2012)   
+
+3.5  
+       
+      Certificate of Amendment to Amended and Restated Certificate of Incorporation, dated December 5, 2013, changing the Company s name from Net Element International, Inc. to Net Element, Inc. (incorporated by reference to Exhibit 3.1 to the Company s Current Report on Form 8-K filed with the Commission on December 6, 2013)   
+
+3.6  
+       
+      Certificate of Amendment to Amended and Restated Certificate of Incorporation, to increase authorized common stock to 200 million shares (incorporated by reference to Exhibit 3.1 of the Company s Current Report on Form 8-K filed with the Commission on December 17, 2014)   
+
+3.7  
+       
+      Certificate of Designations, Preferences and Rights of Series A Convertible Preferred Stock (incorporated by reference to Exhibit 3.1 to the Company s Current Report on Form 8-K filed with the Commission on May 1, 2015)   
+
+3.8  
+       
+      Certificate of Amendment to Amended and Restated Certificate of Incorporation, dated June 15, 2015, to increase authorized common stock to 300 million shares (incorporated by reference to Exhibit 3.1 to the Company s Current Report on Form 8-K filed with the Commission on June 16, 2015)   
+
+3.9  
+       
+      Amendment No. 1 to the Bylaws of the Company, dated June 15, 2015 (incorporated by reference to Exhibit 3.2 to the Company s Current Report on Form 8-K filed with the Commission on June 16, 2015)   
+
+3.10  
+       
+      Amendment No. 2 to the Bylaws of the Company, dated July 10, 2015 (incorporated by reference to Exhibit 3.1 to the Company s Current Report on Form 8-K filed with the Commission on July 10, 2015)   
+
+3.11  
+       
+      Certificate of Amendment to Amended and Restated Certificate of Incorporation, as amended, of the Company (incorporated by reference to Exhibit 3.1 to the Company s second Current Report on Form 8-K filed with the Commission on May 24, 2016)   
+
+3.12  
+       
+      Certificate of Amendment to Amended and Restated Certificate of Incorporation of the Company, dated June 15, 2016 (incorporated by reference to Exhibit 3.1 of the Company s Current Report on Form 8-K filed with the Commission on June 16, 2016)   
+
+4.1  
+       
+      Registration Rights Agreement, dated as of July 6, 2016, between Net Element, Inc. and ESOUSA Holdings, LLC (incorporated by reference to Exhibit 4.1 to the Company s Current Report on Form 8-K filed with the Commission on July 12, 2016)   
+
+10.1  
+       
+      Settlement Agreement Amendment among Net Element, Inc., TOT Group Europe, Ltd.,  OT Group Russia LLC, Maglenta Enterprises Inc. and Champfremont Holding Ltd. (incorporated by reference to Exhibit 10.1 of the Company s Current Report on Form 8-K filed with the Commission on October 31, 2016)   
+
+10.2  
+       
+      Amendment to the Acquisition Agreement among Net Element, Inc., TOT Group Europe, Ltd.,  OT Group Russia LLC, Maglenta Enterprises Inc., Champfremont Holding Ltd. and the Target Companies parties to thereto (incorporated by reference to Exhibit 10.2 of the Company s Current Report on Form 8-K filed with the Commission on October 31, 2016)   
+
+31.1*  
+       
+      Certification of Chief Executive Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) under the Securities Exchange Act of 1934   
+
+31.2*  
+       
+      Certification of Chief Financial Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) under the Securities Exchange Act of 1934   
+
+32.1*  
+       
+      Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C.   1350   
+
+101.INS*  
+       
+      XBRL Instance Document   
+
+101.SCH*  
+       
+      XBRL Taxonomy Extension Schema Document   
+
+101.CAL*  
+       
+      XBRL Taxonomy Extension Calculation Linkbase Document   
+
+101.DEF*  
+       
+      XBRL Taxonomy Extension Definition Linkbase Document   
+
+101.LAB*  
+       
+      XBRL Taxonomy Extension Label Linkbase Document   
+
+101.PRE*  
+       
+      XBRL Taxonomy Extension Presentation Linkbase Document   
+
+* Filed herewith. 
+
+<EX-31.1>
+ 2
+ v452394_ex31-1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1 
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+PURSUANT TO 
+
+ RULE 13a-14(a) OR RULE 15d-14(a) OF THE
+SECURITIES EXCHANGE ACT OF 1934 
+
+I, Oleg Firer, certify that: 
+
+1.    I
+have reviewed this quarterly report on Form 10-Q of Net Element, Inc.;  
+
+2.    Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+to the period covered by this report;  
+
+3.    Based
+on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented
+in this report;  
+
+4.    The
+registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+(a)    Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;  
+
+(b)  
+      Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;   
+
+(c)  
+      Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and   
+
+(d)  
+      Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and   
+
+5.    The
+registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or
+persons performing the equivalent functions):  
+
+(a)  
+      All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and   
+
+(b)  
+     
+         Any fraud, whether or not material,
+that involves management or other employees who have a significant role in the registrant s internal control over financial
+reporting.   
+
+November 14, 2016   
+      By:  
+      /s/ Oleg Firer     
+ 
+      Date  
+      Oleg Firer     
+
+Chief Executive Officer     
+
+(Principal Executive Officer)     
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ v452394_ex31-2.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2 
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER
+PURSUANT TO 
+
+ RULE 13a-14(a) OR RULE 15d-14(a) OF THE
+SECURITIES EXCHANGE ACT OF 1934 
+
+I, Jonathan New, certify that: 
+
+1.    I
+have reviewed this quarterly report on Form 10-Q of Net Element, Inc.;  
+
+2.    Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+to the period covered by this report;  
+
+3.    Based
+on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented
+in this report;  
+
+4.    The
+registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+(a)    Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;  
+
+(b)    Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles;  
+
+(c)    Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such
+evaluation; and  
+
+(d)    Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially
+affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and  
+
+5.    The
+registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or
+persons performing the equivalent functions):  
+
+(a)    All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and  
+
+(b)    Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting.  
+
+November 14, 2016   
+      By:  
+      /s/ Jonathan New     
+ 
+      Date  
+      Jonathan New     
+
+Chief Financial Officer   
+
+(Principal Financial Officer and 
+         Principal Accounting Officer)   
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ v452394_ex32-1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1 
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+AND CHIEF FINANCIAL OFFICER 
+
+ PURSUANT TO 18 U.S.C.  1350, AS ADOPTED
+PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+In connection with the accompanying Quarterly
+Report on Form 10-Q of Net Element, Inc. (the  Company ) for the quarterly period ended September 30, 2016 (the  Report ),
+each of the undersigned hereby certifies pursuant to 18 U.S.C.  1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that to the undersigned s knowledge: 
+
+(i) the Report fully complies with the
+requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(ii) the information contained in the Report
+fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+November 14, 2016   
+      By:  
+      /s/ Oleg Firer   
+ 
+      Date  
+      Oleg Firer   
+
+Chief Executive Officer   
+
+(Principal Executive Officer)   
+
+November 14, 2016   
+      By:  
+      /s/ Jonathan New   
+ 
+      Date  
+      Jonathan New   
+
+Chief Financial Officer   
+
+(Principal Financial Officer and   
+
+Principal Accounting Officer)   
+
+A signed original of this written statement
+required by Section 906 has been provided to Net Element, Inc. and will be retained by Net Element, Inc. and furnished to the Securities
+and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ nete-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ nete-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ nete-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ nete-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ nete-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ nete-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

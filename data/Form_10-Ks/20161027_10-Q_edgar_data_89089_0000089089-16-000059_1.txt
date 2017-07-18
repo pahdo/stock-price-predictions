@@ -1,0 +1,1197 @@
+<Header>
+<FileStats>
+    <FileName>20161027_10-Q_edgar_data_89089_0000089089-16-000059_1.txt</FileName>
+    <GrossFileSize>16123596</GrossFileSize>
+    <NetFileSize>137039</NetFileSize>
+    <ASCII_Embedded_Chars>658880</ASCII_Embedded_Chars>
+    <HTML_Chars>6065942</HTML_Chars>
+    <XBRL_Chars>7139917</XBRL_Chars>
+    <XML_Chars>1835860</XML_Chars>
+    <N_Tables>72</N_Tables>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000089089-16-000059.hdr.sgml : 20161027
+<ACCEPTANCE-DATETIME>20161027164526
+ACCESSION NUMBER:		0000089089-16-000059
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		91
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161027
+DATE AS OF CHANGE:		20161027
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SERVICE CORPORATION INTERNATIONAL
+		CENTRAL INDEX KEY:			0000089089
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PERSONAL SERVICES [7200]
+		IRS NUMBER:				741488375
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06402
+		FILM NUMBER:		161956072
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1929 ALLEN PKWY
+		STREET 2:		P O BOX 130548
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77019
+		BUSINESS PHONE:		7135225141
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 130548
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77219-0548
+
+</SEC-Header>
+</Header>
+
+ 0000089089-16-000059.txt : 20161027
+
+10-Q
+ 1
+ sci-2016930x10q.htm
+ 10-Q
+
+Document 
+
+Table of Contents  
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+  WASHINGTON, D. C. 20549 
+    
+  FORM 10-Q 
+
+or 
+                 o 
+    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from   __________   to   __________ 
+
+Commission file number 1-6402-1 
+  SERVICE CORPORATION INTERNATIONAL 
+  (Exact name of registrant as specified in its charter) 
+                   Texas 
+      
+    74-1488375 
+      (State or other jurisdiction of incorporation or organization) 
+      
+    (I. R. S. employer identification number) 
+
+1929 Allen Parkway, Houston, Texas 
+      
+    77019 
+      (Address of principal executive offices) 
+      
+    (Zip code) 
+
+713-522-5141 
+      
+      (Registrant s telephone number, including area code) 
+
+None 
+      
+      (Former name, former address, or former fiscal year, if changed since last report) 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. YES       NO   o 
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). YES       NO   o 
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one): 
+                     Large accelerated filer     
+    Accelerated filer   o 
+    Non-accelerated filer   o 
+    Smaller reporting company   o 
+
+(Do not check if smaller reporting company) 
+
+Indicate by check mark whether the registrant is a shell company (as defined by Rule 12b-2 of the Exchange Act). YES   o   NO     
+  The number of shares outstanding of the registrant s common stock as of   October 26, 2016   was   190,489,048   (net of treasury shares). 
+
+Table of Contents  
+
+SERVICE CORPORATION INTERNATIONAL 
+  INDEX 
+
+Page 
+       Glossary  
+     3 
+       Part I. Financial Information  
+     5 
+       Item 1. Financial Statements  
+     5 
+       Unaudited Condensed Consolidated Statement of Operations   Three and Nine Months Ended September 30, 2016 and 2015  
+     5 
+       Unaudited Condensed Consolidated Statement of Comprehensive Income   Three and Nine Months Ended September 30, 2016 and 2015  
+     6 
+       Unaudited Condensed Consolidated Balance Sheet   September 30, 2016 and December 31, 2015  
+     7 
+       Unaudited Condensed Consolidated Statement of Cash Flows   Nine Months Ended September 30, 2016 and 2015  
+     8 
+       Unaudited Condensed Consolidated Statement of Equity   Nine Months Ended September 30, 2016  
+     9 
+       Notes to Unaudited Condensed Consolidated Financial Statements  
+     10 
+       Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations  
+     40 
+       The Company  
+     40 
+       Financial Condition, Liquidity, and Capital Resources  
+     40 
+       Results of Operations - Three and Nine Months Ended September 30, 2016 and 2015  
+     46 
+       Critical Accounting Policies  
+     51 
+       Cautionary Statement on Forward-Looking Statements  
+     51 
+       Item 3. Quantitative and Qualitative Disclosures About Market Risk  
+     52 
+       Item 4. Controls and Procedures  
+     52 
+       Part II. Other Information  
+     53 
+       Item 1. Legal Proceedings  
+     53 
+       Item 1A. Risk Factors  
+     53 
+       Item 2. Unregistered Sales of Equity Securities and Use of Proceeds  
+     53 
+       Item 6. Exhibits  
+     53 
+       Signature  
+     54 
+
+2 
+
+Table of Contents  
+
+GLOSSARY  
+  The following terms are common to the deathcare industry, are used throughout this report, and have the following meanings: 
+  Atneed     Funeral, including cremation, and cemetery arrangements sold once death has occurred. 
+  Burial Vault     A reinforced container intended to inhibit the subsidence of the earth and house the casket after it is placed in the ground, also known as outer burial containers.  
+  Cancellation     Termination of a preneed contract, which relieves us of the obligation to provide the goods and services included in the contract. Cancellations may be requested by the customer or be initiated by us for failure to comply with the contractual terms of payment. State or provincial laws govern the amount of refund, if any, owed to the customer.  
+  Care Trust Corpus     The deposits and net realized capital gains and losses included in a perpetual care trust that cannot be withdrawn. In certain states, some or all of the net realized capital gains can be distributed, so they are not included in the corpus. 
+  Cemetery Perpetual Care or Endowment Care Fund (ECF)     A trust fund established for the purpose of maintaining cemetery grounds and property into perpetuity, also referred to as a cemetery perpetual care trust. For these trusts, the corpus remains in the trust in perpetuity and the net ordinary investment earnings are distributed to us regularly and are intended to defray our expenses incurred to maintain the cemetery. In certain states, some or all of the net realized capital gains can also be distributed.  
+  Cemetery Property     Developed lots, lawn crypts, mausoleum spaces, niches and cremation memorialization property items(constructed and ready to accept interments) and undeveloped land we intend to develop for the sale of interment rights. Includes the construction-in-progress balance during the pre-construction and construction phases of projects creating new property inventory. 
+  Cemetery Property Amortization     The non-cash recognized expenses of cemetery property interment rights, which are recorded by specific identification with the cemetery property revenue for each contract. 
+  Cemetery Property Revenue     Recognized sales of interment rights in cemetery property when a minimum of 10% of the sales price has been collected and the property has been constructed and is available for interment.  
+  Cemetery Merchandise and Services     Stone and bronze memorials, markers, burial vaults, floral placement, graveside services, merchandise installations, urns, outer burial containers, and burial openings and closings. 
+  Cremation     The reduction of human remains to bone fragments by intense heat. 
+  Cremation Memorialization     Products specifically designed to commemorate and honor the life of an individual that has been cremated. These products include cemetery property inventory types that provide for the disposition of cremated remains within our cemeteries such as benches, boulders, statues, etc. They also include memorial walls and books where the name of the individual is inscribed but the remains have been scattered or kept by the family.  
+  Funeral Merchandise and Services     Merchandise such as burial caskets and related accessories, burial vaults, urns and other cremation receptacles, casket and cremation memorialization products, and flowers and professional services relating to funerals including arranging and directing services, use of funeral facilities and motor vehicles, removal, preparation, embalming, cremations, memorialization, visitations, and catering.  
+  Funeral Recognized Preneed Revenue     Funeral merchandise and travel protection sold on a preneed contract and delivered before a death has occurred. 
+  Funeral Services Performed     The number of funeral services, including cremations, provided after the date of death, sometimes referred to as funeral volume. 
+  General Agency (GA) revenue     Commissions we receive from third-party life insurance companies for life insurance policies sold to preneed customers for the purpose of funding preneed funeral arrangements. The commission rate paid is determined based on the product type sold, the length of payment terms, and the age of the insured/annuitant. 
+  Interment     The burial or final placement of human remains in the ground, in mausoleums, in niches, or in cremation memorialization property.  
+  Lawn Crypt     An underground outer burial receptacle constructed of concrete and reinforced steel, which is usually pre-installed in predetermined designated areas. 
+  Marker     A method of identifying a deceased person in a particular burial space, crypt, niche, or cremation memorialization property. Permanent burial and cremation memorialization markers are usually made of bronze or stone. 
+  Maturity     When the underlying contracted merchandise is delivered or service is performed, typically at death. This is the point at which preneed contracts are converted to atneed contracts (note   delivery of certain merchandise and services can occur prior to death). 
+  Mausoleum     An above ground structure that is designed to house caskets and cremation urns.  
+  
+    3 
+
+     Table of Contents  
+
+Merchandise and Service Trust     A trust account established in accordance with state or provincial law into which we deposit the required percentage of customers  payments for preneed funeral, cremation, or cemetery merchandise and services to be delivered or performed by us in the future. The amounts deposited can be withdrawn only after we have completed our obligations under the preneed contract or the cancellation of the contract. 
+  Preneed     Purchase of cemetery property interment rights and merchandise and services prior to death occurring.  
+  Preneed Backlog     Future revenue from unfulfilled preneed funeral, cremation, and cemetery contractual arrangements. 
+  Preneed Cemetery Production     Sales of preneed or atneed cemetery contracts. These sales are recorded in   Deferred preneed cemetery revenue   until the merchandise is delivered, the service is performed, or when a minimum of 10% of the sales price has been collected and the property has been constructed and is available for interment. 
+  Preneed Funeral Production     Sales of preneed funeral trust-funded and insurance-funded contracts. Preneed funeral trust-funded contracts are recorded in   Deferred preneed funeral revenue   until the merchandise is delivered or the service is performed. We do not reflect the unfulfilled insurance-funded preneed funeral contract amounts in our Consolidated Balance Sheet. The proceeds of the life insurance policies will be reflected in revenue as these funerals are performed by us in the future. 
+  Sales Average     Average revenue per funeral service performed, excluding the impact of funeral recognized preneed revenue, GA revenue, and certain other revenue. 
+  Trust Fund Income     Recognized investment earnings from our merchandise and service and perpetual care trust investments. 
+  As used herein,  SCI ,  Company ,  we ,  our , and  us  refer to Service Corporation International and companies owned directly or indirectly by Service Corporation International, unless the context requires otherwise. 
+  
+    4 
+
+Table of Contents  
+
+PART I. FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+
+SERVICE CORPORATION INTERNATIONAL 
+  CONDENSED CONSOLIDATED STATEMENT OF OPERATIONS 
+  (UNAUDITED) 
+
+(See notes to unaudited condensed consolidated financial statements) 
+  
+    5 
+
+Table of Contents  
+
+SERVICE CORPORATION INTERNATIONAL 
+  CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME 
+  (UNAUDITED) 
+
+(See notes to unaudited condensed consolidated financial statements) 
+
+6 
+
+Table of Contents  
+
+SERVICE CORPORATION INTERNATIONAL 
+  CONDENSED CONSOLIDATED BALANCE SHEET 
+  (UNAUDITED)   
+ (See notes to unaudited condensed consolidated financial statements) 
+  
+    7 
+
+Table of Contents  
+
+SERVICE CORPORATION INTERNATIONAL 
+  CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS 
+  (UNAUDITED) 
+
+(See notes to unaudited condensed consolidated financial statements) 
+  
+    8 
+
+Table of Contents  
+
+SERVICE CORPORATION INTERNATIONAL 
+  CONDENSED CONSOLIDATED STATEMENT OF EQUITY 
+  (UNAUDITED) 
+  (In thousands) 
+
+(See notes to unaudited condensed consolidated financial statements) 
+
+9 
+
+Table of Contents  
+
+SERVICE CORPORATION INTERNATIONAL 
+  NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Dollars in thousands, except per share amounts) 
+   
+  1. Nature of Operations 
+  We are North America s largest provider of deathcare products and services, with a network of funeral service locations and cemeteries operating in the United States and Canada. Our funeral and cemetery operations consist of funeral service locations, cemeteries, funeral service/cemetery combination locations, crematoria, and related businesses, which enable us to serve a wide array of customer needs. We sell cemetery property and funeral and cemetery merchandise and services at the time of need and on a preneed basis. 
+  Funeral service locations provide all professional services relating to funerals and cremations, including the use of funeral facilities and motor vehicles, arranging and directing services, removal, preparation, embalming, cremations, memorialization, and catering. Funeral merchandise, including burial caskets and related accessories, urns and other cremation receptacles, outer burial containers, flowers, online and video tributes, stationery products, casket and cremation memorialization products, and other ancillary merchandise, is sold at funeral service locations. 
+  Our cemeteries provide cemetery property interment rights, including developed lots, lawn crypts, mausoleum spaces, niches, and other cremation memorialization and interment options. Cemetery merchandise and services, including memorial markers and bases, outer burial containers, flowers and floral placement, other ancillary merchandise, graveside services, merchandise installation, and burial openings and closings, are sold at our cemeteries. 
+   
+  2. Summary of Significant Accounting Policies 
+  Principles of Consolidation and Basis of Presentation 
+  Our unaudited condensed consolidated financial statements include the accounts of Service Corporation International (SCI) and all subsidiaries in which we hold a controlling financial interest. Our financial statements also include the accounts of the merchandise and service trusts and cemetery perpetual care trusts in which we have a variable interest and are the primary beneficiary. Our interim condensed consolidated financial statements are unaudited but include all adjustments, consisting of normal recurring accruals and any other adjustments, which management considers necessary for a fair statement of our results for these periods. Our unaudited condensed consolidated financial statements have been prepared in a manner consistent with the accounting policies described in our Annual Report on Form 10-K for the year ended   December 31, 2015  , unless otherwise disclosed herein, and should be read in conjunction therewith. The accompanying year-end condensed Consolidated Balance Sheet data was derived from audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States of America. Operating results for interim periods are not necessarily indicative of the results that may be expected for the full year period. 
+  Reclassifications to Prior Period Financial Statements and Adjustments 
+  Certain reclassifications have been made to prior period amounts to conform to the current period financial statement presentation with no effect on our previously reported results of operations, consolidated financial position, or cash flows. For the first nine months of 2016, we recorded in   General and administrative expenses   an out-of-period expense of   $5.5 million   for previously improperly capitalized acquisition costs. Such amounts are immaterial to both current and prior period financial statements. 
+  Use of Estimates in the Preparation of Financial Statements 
+  The preparation of the unaudited condensed consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions as described in our Annual Report on Form 10-K for the year ended   December 31, 2015  . These estimates and assumptions may affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the unaudited condensed consolidated financial statements and the reported amounts of revenue and expenses during the reporting periods. As a result, actual results could differ from these estimates. 
+  Accounting Standards Adopted in 2016 
+  Consolidation 
+  In February 2015, the Financial Accounting Standards Board (FASB) amended "  Consolidation"   to revise the consolidation model for limited partnerships, variable interest entities, and certain investment funds. Further, the amendment provides guidance on how fee arrangements and related parties should be considered when determining whether to consolidate variable interest entities. As a result of this amendment, all legal entities were reevaluated to determine if they should be consolidated. We adopted the amendment effective January 1, 2016, with no impact on our consolidated results of operations, consolidated financial position, and cash flows. 
+  
+    10 
+
+     Table of Contents  
+
+Debt Issuance Costs 
+  In April 2015, the FASB amended "  Interest Imputation of Interest"   to simplify the presentation of debt issuance costs on the balance sheet. Prior to adoption of this amendment, debt issuance costs were included in   Other current assets   and   Deferred charges and other assets   on our unaudited condensed Consolidated Balance Sheet. The amendment requires that these costs instead be presented as a direct deduction from the carrying amount of   Current maturities of long-term debt   and   Long-term debt  , consistent with the presentation of debt discounts.  
+  In August 2015, the FASB issued an additional amendment that provides additional guidance to "  Interest Imputation of Interest"   since it did not address presentation or subsequent measurement of debt issuance costs related to line-of-credit arrangements. The amendment noted that the SEC staff would not object to an entity deferring and presenting debt issuance costs as an asset and subsequently amortizing the deferred debt issuance costs ratably over the term of the line-of-credit arrangement, regardless of whether there are any outstanding borrowings on the line-of-credit arrangement. 
+  These changes do not impact the manner in which the debt issuance costs are expensed over the term of the debt. We have retrospectively adopted the changes in presentation effective January 1, 2016. As a result, we recast our Consolidated Balance Sheet as of   December 31, 2015   to reduce   Other current assets   and   Current maturities of long-term debt   by   $8.4 million   and to reduce   Deferred charges and other assets   and   Long-term debt   by   $34.1 million  .  
+  Cloud Computing Arrangements 
+  In April 2015, the FASB amended "  Intangibles Goodwill and Other Internal-Use Software"   to provide guidance on whether a cloud computing arrangement contains a software license. If a cloud computing arrangement includes a software license, then we should account for the software license element of the arrangement consistent with the acquisition of other software licenses. If a cloud computing arrangement does not include a software license, we should account for the arrangement as a service contract. We adopted the amendment effective January 1, 2016, with no impact on our consolidated results of operations, consolidated financial position, and cash flows. 
+  Fair Value Measurements 
+  In May 2015, the FASB amended "  Fair Value Measurements"   to remove the requirement to disclose the fair value measurement hierarchy level associated with investments measured at net asset value as a practical expedient. Other disclosures required by the standard for these assets remain the same. This amendment does not change the underlying accounting for these investments. We retrospectively adopted the amendment effective January 1, 2016, and have made the appropriate disclosures in Notes 3, 4, and 5 to our unaudited condensed consolidated financial statements 
+  Business Combinations 
+  In September 2015, the FASB amended "  Business Combinations"   to eliminate the requirement for an acquirer in a business combination to account for measurement-period adjustments retrospectively. Under the new guidance, acquirers must recognize measurement-period adjustments in the period in which they determine the amount of the adjustment. We adopted the amendment on January 1, 2016 and it will be applied prospectively to measurement-period adjustments occurring after that date, if any. 
+  Recently Issued Accounting Standards 
+  Revenue Recognition 
+  In   May 2014  , the FASB issued   "Revenue from Contracts with Customers,"   which supersedes the revenue recognition requirements in   "Revenue Recognition"   and most industry-specific guidance. This new standard is based on the principle that revenue is recognized to depict the transfer of goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. It also requires additional disclosure about the nature, amount, and timing of revenue and cash flows arising from customer contracts, including significant judgments and changes in judgments and assets recognized from costs incurred to obtain or fulfill a contract. Additionally, the new standard requires the deferral of direct incremental selling costs to the period in which the underlying revenue is recognized. In August 2015, the FASB issued an amendment that defers implementation of "  Revenue from Contracts with Customers"   for all entities by one year. In 2016, the FASB issued additional amendments clarifying guidance on principal versus agent considerations, identifying performance obligations, and licensing, under the new standard. The new standard will be effective for us beginning January 1, 2018 and we intend to implement the standard with the modified retrospective approach, which recognizes the cumulative effect of application recognized on that date. We are still evaluating the impact of adoption on our consolidated results of operations, consolidated financial position, and cash flows. 
+
+11 
+
+     Table of Contents  
+
+Inventory 
+  In July 2015, the FASB amended   "Inventory"   to state that an entity using an inventory method other than last-in, first out ("LIFO") or the retail inventory method should measure inventory at the lower of cost or net realizable value. The new guidance clarifies that net realizable value is the estimated selling prices in the ordinary course of business, less reasonably predictable costs of completion, disposal, and transportation. The new guidance is effective for us on January 1, 2017, and we do not believe adoption will materially impact our consolidated results of operations, consolidated financial position, and cash flows. 
+  Financial Instruments 
+  In January 2016, the FASB amended   "Financial Instruments"   to provide additional guidance on the recognition and measurement of financial assets and liabilities. The amendment requires investments in equity instruments to be measured at fair value with changes in fair value reflected in net income. The new guidance is effective for us on January 1, 2018, and we are still evaluating the impact of adoption on our consolidated results of operations, consolidated financial position, and cash flows. 
+  In June 2016, the FASB amended   "Financial Instruments"   to provide financial statement users with more decision-useful information about the expected credit losses on debt instruments and other commitments to extend credit held by a reporting entity at each reporting date. This amendment replaces the incurred loss impairment methodology in the current standard with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to inform credit loss estimates. The new guidance is effective for us on January 1, 2020, and we are still evaluating the impact of adoption on our consolidated results of operations, consolidated financial position, and cash flows. 
+  Leases 
+  In February 2016, the FASB amended   "Leases"   to increase transparency and comparability among organizations. Under the new standard, an entity will be required to recognize lease assets and liabilities on its balance sheet and disclose key information about leasing arrangements. In addition, the new standard offers specific accounting guidance for a lessee, a lessor, and sale and leaseback transactions. Lessees and lessors are required to disclose qualitative and quantitative information about leasing arrangements to enable a user of the financial statements to assess the amount, timing, and uncertainty of cash flows arising from leases. This new standard will be effective for us on January 1, 2019. We are evaluating the impact of adoption on our consolidated results of operations, consolidated financial position, and cash flows. 
+  Stock Compensation 
+  In March 2016, the FASB amended   "Stock Compensation"   to simplify certain aspects of the accounting for share-based payment transactions, including the income tax consequences, classification of awards as either equity or liabilities, and classification on the statement of cash flows. The new guidance is effective for us on January 1, 2017. If we had adopted this amendment for the nine-months ended September 30, 2016,   Net cash provided by operating activities   and   Net cash used in financing activities   would have both increased by   $11.5 million   and our   Provision for income taxes   would have decreased by   $11.5 million  . 
+  Cash Flow 
+  In August 2016, the FASB amended   "Statement of Cash Flows"   to clarify guidance on the classification of certain cash receipts and cash payments. Amended guidance includes clarification on debt prepayment   extinguishment costs, contingent consideration in business combinations, and proceeds from insurance claims. The new guidance is effective for us on January 1, 2018, and we are still evaluating the impact of adoption on our consolidated statement of cash flows. 
+   
+  3. Preneed Funeral Activities 
+  Preneed funeral receivables, net and trust investments   represent trust investments, including investment earnings, and customer receivables, net of unearned finance charges, related to unperformed price-guaranteed preneed funeral contracts. Our merchandise and service trusts are variable interest entities. We have determined that we are the primary beneficiary of these trusts, as we absorb a majority of the losses and returns associated with these trusts. Our trust investments detailed in Notes 4 and 5 are also accounted for as variable interest entities. When we receive payments from the customer, we deposit the amount required by law into the trust and reclassify the corresponding amount from   Deferred preneed funeral revenue   into   Deferred preneed receipts held in trust.   Amounts are withdrawn from the trusts after the contract obligations are performed. Cash flows from preneed contracts are presented as operating cash flows in our unaudited condensed Consolidated Statement of Cash Flows. 
+     Preneed funeral receivables, net and trust investments   are reduced by the trust investment earnings (realized and unrealized) that we have been allowed to withdraw in certain states prior to maturity. These earnings are recorded in   Deferred preneed funeral revenue   until the merchandise is delivered or the service is performed. 
+  
+    12 
+
+     Table of Contents  
+
+The table below sets forth certain investment-related activities associated with these preneed merchandise and service trusts: 
+
+The components of   Preneed funeral receivables, net and trust investments   in our unaudited condensed Consolidated Balance Sheet at   September 30, 2016   and   December 31, 2015   are as follows: 
+
+The costs and values associated with trust investments measured at market at   September 30, 2016   and   December 31, 2015   are detailed below. Cost reflects the investment (net of redemptions) of control holders in the trusts. Value represents the value of the underlying securities held by the trusts. 
+  
+    13 
+
+     Table of Contents  
+
+14 
+
+     Table of Contents  
+
+Valuation policies and procedures are determined by our Trust Services department, which reports to our Chief Financial Officer.  Additionally, valuations are reviewed quarterly by the Investment Committee of the Board of Directors. 
+  Where quoted prices are available in an active market, securities are classified as Level 1 investments pursuant to the fair value measurements hierarchy. 
+  Where quoted market prices are not available for the specific security, fair values are estimated by using either quoted prices of securities with similar characteristics or an income approach fair value model with observable inputs that include a combination of interest rates, yield curves, credit risks, prepayment speeds, ratings, and tax-exempt status. These funds are classified as Level 2 investments pursuant to the fair value measurements hierarchy. 
+  The valuation of other investments requires management judgment due to the absence of quoted market prices, inherent lack of liquidity, and the long-term nature of such assets. These funds are classified as Level 3 investments pursuant to the fair value measurements hierarchy. 
+  Fixed income commingled funds and private equity investments are measured at net asset value. Fixed income commingled funds are redeemable for net asset value with two weeks' notice. Our private equity investments include several funds that invest in limited partnerships, distressed debt, real estate, and mezzanine financing. These investments can never be redeemed by the funds. Instead, due to the nature of the investments in this category, distributions are received through the liquidation of the underlying assets of the funds. We estimate that the underlying assets will be liquidated over the next   2   to   10   years. As of   September 30, 2016  , our unfunded commitment for our private equity investments was   $35.8 million   which, if called, would be funded by the assets of the trusts.  
+  
+    15 
+
+     Table of Contents  
+
+The change in our trust investments measured at fair value with significant unobservable inputs (Level 3) is as follows: 
+
+______________________________________________ 
+            (1)   
+    All unrealized gains (losses) recognized in   Accumulated other comprehensive income   for our merchandise and service trust investments are attributable to our preneed customers and are offset by a corresponding reclassification in   Accumulated other comprehensive income   to   Deferred preneed receipts held in trust  . See Note 6 for further information related to our   Deferred preneed receipts held in trust  . 
+     Maturity dates of our fixed income securities range from   2016   to   2041  . Maturities of fixed income securities, excluding mutual funds, at   September 30, 2016   are estimated as follows: 
+
+Earnings from all our merchandise and service trust investments are recognized in revenue when merchandise is delivered or a service is performed. Fees charged by our wholly-owned registered investment advisor are also included in current revenue. In addition, we are entitled to retain, in certain jurisdictions, a portion of collected customer payments when a customer cancels a preneed contract; these amounts are also recognized in current revenue in the period in which they are earned. Recognized trust fund income (realized and unrealized) related to   these trust investments was     $13.0 million     and     $12.7 million     for the     three     months ended     September 30, 2016     and     2015  , respectively.     Recognized trust fund income (realized and unrealized) related to   these trust investments was     $37.1 million   and   $41.1 million     for the     nine months ended     September 30, 2016     and     2015  , respectively.    
+  We assess our trust investments for other-than-temporary declines in fair value on a quarterly basis. Impairment charges resulting from this assessment are recognized as investment losses in   Other income (expense), net   and a decrease to   Preneed funeral receivables, net and trust investments  . These investment losses, if any, are offset by the corresponding reclassification in   Other income (expense), net,   which reduces   Deferred preneed receipts held in trust  . See Note 6 for further information related to our   Deferred preneed receipts held in trust  .  
+  We have determined that the remaining unrealized losses in our merchandise and service trust investments are considered temporary in nature, as the unrealized losses were due to temporary fluctuations in interest rates and equity prices. The investments are diversified across multiple industry segments using a balanced allocation strategy to minimize long-term risk. We believe that none of the remaining securities are other-than-temporarily impaired based on our analysis of the investments. Our analysis included a review of the portfolio holdings and discussions with the individual money managers as to the sector exposures, credit ratings, and the severity and duration of the unrealized losses. Our merchandise and service trust investment unrealized losses, their associated values, and the duration of unrealized losses as of   September 30, 2016   and   December 31, 2015  , respectively, are shown in the following tables: 
+  
+    16 
+
+     Table of Contents  
+
+17 
+
+Table of Contents  
+
+4. Preneed Cemetery Activities 
+     Preneed cemetery receivables, net and trust investments   represent trust investments, including investment earnings, and customer receivables, net of unearned finance charges, for contracts sold in advance of when the property interment rights, merchandise, or services are needed. Our merchandise and service trusts are variable interest entities. We have determined that we are the primary beneficiary of these trusts, as we absorb a majority of the losses and returns associated with these trusts. The trust investments detailed in Notes 3 and 5 are also accounted for as variable interest entities. When we receive payments from the customer, we deposit the amount required by law into the trust and reclassify the corresponding amount from   Deferred preneed cemetery revenue   into   Deferred preneed receipts held in trust.   Amounts are withdrawn from the trusts when the contract obligations are performed. Cash flows from preneed cemetery contracts are presented as operating cash flows in our unaudited condensed Consolidated Statement of Cash Flows. 
+  Preneed cemetery receivables, net and trust investments   are reduced by the trust investment earnings (realized and unrealized) that we have been allowed to withdraw in certain states prior to maturity. These earnings are recorded in   Deferred preneed cemetery revenue   until the merchandise is delivered or the service is performed. 
+  The table below sets forth certain investment-related activities associated with these preneed merchandise and service trusts: 
+
+The components of   Preneed cemetery receivables, net and trust investments   in our unaudited condensed Consolidated Balance Sheet at   September 30, 2016   and   December 31, 2015   are as follows: 
+
+18 
+
+     Table of Contents  
+
+The costs and values associated with the trust investments measured at market at   September 30, 2016   and   December 31, 2015   are detailed below. Cost reflects the investment (net of redemptions) of control holders in the trusts. Value represents the market value of the underlying securities held by the trusts. 
+
+19 
+
+     Table of Contents  
+
+Valuation policies and procedures are determined by our Trust Services department, which reports to our Chief Financial Officer.  Additionally, valuations are reviewed quarterly by the Investment Committee of the Board of Directors.  
+  Where quoted prices are available in an active market, securities held by the trusts are classified as Level 1 investments pursuant to the fair value measurements hierarchy. 
+  Where quoted market prices are not available for the specific security, fair values are estimated by using either quoted prices of securities with similar characteristics or an income approach fair value model with observable inputs that include a combination of interest rates, yield curves, credit risks, prepayment speeds, ratings, and tax-exempt status. These funds are classified as Level 2 investments pursuant to the fair value measurements hierarchy. 
+  The valuation of other investments requires management judgment due to the absence of quoted market prices, inherent lack of liquidity, and the long-term nature of such assets. These funds are classified as Level 3 investments pursuant to the fair value measurements hierarchy. 
+  Fixed income commingled funds and private equity investments are measured at net asset value. Fixed income commingled funds are redeemable for net asset value with two weeks notice. Our private equity investments include several funds that invest in limited partnerships, distressed debt, real estate, and mezzanine financing. These investments can never be redeemed by the funds. Instead, due to the nature of the investments in this category, distributions are received through the liquidation of the underlying assets of the funds. We estimate that the underlying assets will be liquidated over the next   2   to   10   years. As of   September 30, 2016  , our unfunded commitment for our private equity investments was   $36.9 million   which, if called, would be funded by the assets of the trusts.  
+  
+    20 
+
+     Table of Contents  
+
+The change in our trust investments measured at fair value with significant unobservable inputs (Level 3) is as follows: 
+
+________________________________________ 
+           (1) 
+    All unrealized gains (losses) recognized in   Accumulated other comprehensive income   for our merchandise and service trust investments are attributable to our preneed customers and are offset by a corresponding reclassification in   Accumulated other comprehensive income   to   Deferred preneed receipts held in trust  . See Note 6 for further information related to our   Deferred preneed receipts held in trust  . 
+     Maturity dates of our fixed income securities range from   2016   to   2041  . Maturities of fixed income securities, excluding mutual funds, at   September 30, 2016   are estimated as follows: 
+
+Earnings from all our merchandise and service trust investments are recognized in current revenue when merchandise is delivered or a service is performed. Fees charged by our wholly-owned registered investment advisor are also included in current revenue. In addition, we are entitled to retain, in certain jurisdictions, a portion of collected customer payments when a customer cancels a preneed contract; these amounts are also recognized in current revenue in the period in which they are earned. Recognized trust fund income (realized and unrealized) related to these trust investments was   $11.2 million   and   $10.7 million   for the   three   months ended   September 30, 2016   and   2015  , respectively. Recognized trust fund income (realized and unrealized) related to these trust investments was   $31.5 million   and   $34.9 million   for the   nine months ended     September 30, 2016   and   2015  , respectively.  
+  We assess our trust investments for other-than-temporary declines in fair value on a quarterly basis. Impairment charges resulting from this assessment are recognized as investment losses in   Other income (expense), net   and a decrease to   Preneed cemetery receivables, net and trust investments  . These investment losses, if any, are offset by the corresponding reclassification in   Other income (expense), net,   which reduces   Deferred preneed receipts held in trust  . See Note 6 for further information related to our   Deferred preneed receipts held in trust  .  
+  We have determined that the remaining unrealized losses in our merchandise and service trust investments are considered temporary in nature, as the unrealized losses were due to temporary fluctuations in interest rates and equity prices. The investments are diversified across multiple industry segments using a balanced allocation strategy to minimize long-term risk. We believe that none of the remaining securities are other-than-temporarily impaired based on our analysis of the investments. Our analysis included a review of the portfolio holdings and discussions with the individual money managers as to the sector exposures, credit ratings, and the severity and duration of the unrealized losses. Our merchandise and service trust investment unrealized losses, their associated values and the duration of unrealized losses as of   September 30, 2016   and   December 31, 2015  , respectively, are shown in the following tables: 
+  
+    21 
+
+     Table of Contents  
+
+22 
+
+Table of Contents  
+
+5. Cemetery Perpetual Care Trusts 
+  We are required by state and provincial law to pay into cemetery perpetual care trusts a portion of the proceeds from the sale of cemetery property interment rights. Our cemetery perpetual care trusts are variable interest entities. We have determined that we are the primary beneficiary of these trusts, as we absorb a majority of the losses and returns associated with these trusts. The trust investments detailed in Notes 3 and 4 are also accounted for as variable interest entities. We consolidate our cemetery perpetual care trust investments with a corresponding amount recorded as   Care trusts  corpus.   Cash flows from cemetery perpetual care trusts are presented as operating cash flows in our unaudited condensed Consolidated Statement of Cash Flows. 
+  The table below sets forth certain investment-related activities associated with our cemetery perpetual care trusts: 
+
+The components of   Cemetery perpetual care trust investments   in our unaudited condensed Consolidated Balance Sheet at   September 30, 2016   and   December 31, 2015   are as follows: 
+
+The costs and values associated with trust investments, at market at   September 30, 2016   and   December 31, 2015   are detailed below. Cost reflects the investment (net of redemptions) of control holders in the trusts. Value represents the value of the underlying securities or cash held by the trusts. 
+  
+    23 
+
+     Table of Contents  
+
+24 
+
+     Table of Contents  
+
+Valuation policies and procedures are determined by our Trust Services department, which reports to our Chief Financial Officer. Additionally, valuations are reviewed quarterly by the Investment Committee of the Board of Directors.  
+  Where quoted prices are available in an active market, securities held by the trusts are classified as Level 1 investments pursuant to the fair value measurements hierarchy. 
+  Where quoted market prices are not available for the specific security, fair values are estimated by using either quoted prices of securities with similar characteristics or an income approach fair value model with observable inputs that include a combination of interest rates, yield curves, credit risks, prepayment speeds, ratings, and tax-exempt status. These funds are classified as Level 2 investments pursuant to the fair value measurements hierarchy. 
+  The valuation of other investments requires management judgment due to the absence of quoted market prices, inherent lack of liquidity, and the long-term nature of such assets. These funds are classified as Level 3 investments pursuant to the fair value measurements hierarchy. 
+   Private equity investments are measured at net asset value. Our private equity investments include several funds that invest in limited partnerships, distressed debt, real estate, and mezzanine financing. These investments can never be redeemed by the funds. Instead, due to the nature of the investments in this category, distributions are received through the liquidation of the underlying assets of the funds. We estimate that the underlying assets will be liquidated over the next   2   to   10   years. As of   September 30, 2016  , our unfunded commitment for our private equity investments was   $34.9 million   which, if called, would be funded by the assets of the trusts.  
+  
+    25 
+
+     Table of Contents  
+
+The change in our trust investments measured at fair value with significant unobservable inputs (Level 3) is as follows: 
+
+_________________________________________ 
+           (1) 
+    All unrealized gains (losses) recognized in   Accumulated other comprehensive income   for our cemetery perpetual care trust investments are offset by a corresponding reclassification in   Accumulated other comprehensive income   to   Care trusts  corpus  . See Note 6 for further information related to our   Care trusts  corpus  . 
+     Maturity dates of our fixed income securities range from   2016   to   2040  . Maturities of fixed income securities at   September 30, 2016   are estimated as follows: 
+
+Distributable earnings from these cemetery perpetual care trust investments are recognized in current cemetery revenue to the extent we incur qualifying cemetery maintenance costs. Fees charged by our wholly-owned registered investment advisor are also included in current revenue. Recognized trust fund income related to these trust investments was   $11.5 million   and   $10.5 million   for the   three   months ended   September 30, 2016   and   2015  , respectively. Recognized trust fund income related to these trust investments was   $47.6 million   and   $43.5 million   for the   nine months ended     September 30, 2016   and   2015  , respectively.  
+  We assess our trust investments for other-than-temporary declines in fair value on a quarterly basis. Impairment charges resulting from this assessment are recognized as investment losses in   Other income (expense), net   and a decrease to   Cemetery perpetual care trust investments  . These investment losses, if any, are offset by the corresponding reclassification in   Other income (expense), net,   which reduces   Care trusts  corpus  . See Note 6 for further information related to our   Care trusts  corpus  . 
+  We have determined that the remaining unrealized losses in our cemetery perpetual care trust investments are considered temporary in nature, as the unrealized losses were due to temporary fluctuations in interest rates and equity prices. The investments are diversified across multiple industry segments using a balanced allocation strategy to minimize long-term risk. We believe that none of the remaining securities are other-than-temporarily impaired based on our analysis of the investments. Our analysis included a review of the portfolio holdings and discussions with the individual money managers as to the sector exposures, credit ratings, and the severity and duration of the unrealized losses. Our cemetery perpetual care trust investment unrealized losses, their associated values and the duration of unrealized losses as of   September 30, 2016   and   December 31, 2015  , respectively, are shown in the following tables: 
+  
+    26 
+
+     Table of Contents  
+
+27 
+
+     Table of Contents  
+
+6. Deferred Preneed Receipts Held in Trust and Care Trusts  Corpus 
+  Deferred Preneed Receipts Held in Trust 
+  We consolidate the merchandise and service trusts associated with our preneed activities. Although the consolidation of the merchandise and service trusts is required by accounting standards, it does not change the legal relationships among the trusts, us, or our customers. The customers are the legal beneficiaries of these merchandise and service trusts, and therefore their interests in these trusts represent a liability to us. The components of   Deferred preneed receipts held in trust   in our unaudited condensed Consolidated Balance Sheet at   September 30, 2016   and   December 31, 2015   are detailed below. 
+
+28 
+
+     Table of Contents  
+
+Care Trusts  Corpus 
+  The   Care trusts  corpus   reflected in our unaudited condensed Consolidated Balance Sheet represents the cemetery perpetual care trusts, including the related accrued expenses. The components of   Care trusts  corpus   in our unaudited condensed Consolidated Balance Sheet at   September 30, 2016   and   December 31, 2015   are detailed below. 
+
+Other Income (Expense), Net 
+  The components of   Other income (expense), net   in our unaudited condensed Consolidated Statement of Operations for the   three   and   nine months ended September 30, 2016   and   2015   are detailed below. See Notes 3, 4, and 5 for further discussion of the amounts related to the funeral, cemetery, and cemetery perpetual care trusts. 
+
+29 
+
+     Table of Contents  
+
+7. Income Taxes 
+  Income tax expense during interim periods is based on our estimated annual effective income tax rate plus any discrete items, which are recorded in the period in which they occur. Discrete items include, among others, such events as changes in estimates due to the finalization of tax returns, tax audit settlements, expiration of statutes of limitation, and increases or decreases in valuation allowances on deferred tax assets. Our effective tax rate was   36.6%   and   35.3%   for the   three   months ended   September 30, 2016   and   2015  , respectively. Our effective tax rate was   40.8%   and   36.5%   for the   nine months ended September 30, 2016   and   2015  , respectively. The effective tax rate for the   three and nine months ended     September 30, 2016   is above the   35%   federal statutory tax rate primarily due to state tax expense and impairment charges related to the planned divestiture of certain funeral homes in Los Angeles, California, as well as the change in uncertain tax liabilities, partially offset by lower rates on foreign earnings. 
+  Unrecognized Tax Benefits 
+  As of   September 30, 2016  , the total amount of our unrecognized tax benefits was   $178.3 million   and the total amount of our accrued interest was   $55.8 million  . Additional interest expense of   $4.1 million   was accrued during the   nine months ended September 30, 2016  . 
+  A number of years may elapse before particular tax matters, for which we have unrecognized tax benefits, are settled. While we have effectively concluded our   2003   through   2005   tax years with respect to our affiliate, SCI Funeral   Cemetery Purchasing Cooperative, Inc., SCI and subsidiaries' tax years   1999   through   2005   remain under review at the IRS Appeals level. The completion of the audit for the amended returns for the tax years 2006 through 2007 is also pending the IRS Appeals finalization of the tax years 1999-2005. Furthermore, SCI and its affiliates are under audit by various state and foreign jurisdictions for years 2010 through 2014. The outcome of each of these audits cannot be predicted at this time. It is reasonably possible that the amount of our unrecognized tax benefits could significantly increase or decrease over the next twelve months either because we prevail on positions or because the tax authorities prevail. Due to the uncertainty regarding the timing of  
+  
+    30 
+
+     Table of Contents  
+
+completion of audits and possible outcomes, a current estimate of the range of increases or decreases that may occur within the next twelve months cannot be made. 
+   
+  8. Debt 
+  Debt as of   September 30, 2016   and   December 31, 2015   was as follows: 
+
+Current maturities of debt at   September 30, 2016   include amounts due under our Term Loan, mortgage notes and other debt, and capital leases within the next year. Our consolidated debt had a weighted average interest rate of   4.6%   and   5.2%   at   September 30, 2016   and   December 31, 2015  , respectively. Approximately   63%   and   76%   of our total debt had a fixed interest rate at   September 30, 2016   and   December 31, 2015  , respectively. 
+  During the   nine months ended September 30, 2016   and   2015  , we paid   $98.8 million   and   $99.3 million   in cash interest, respectively.  
+  Bank Credit Agreement 
+  In   March 2016  , we entered into a new   $1.4 billion   bank credit agreement due   March 2021   with a syndicate of banks.  
+  As of   September 30, 2016  , we have   $325.0 million   of outstanding borrowings under our Bank Credit Facility due   March 2021  ;   $682.5 million   of outstanding borrowings under our Term Loan due   March 2021  ; and have issued   $33.0 million   of letters of credit. The bank credit agreement due   March 2021   provides us with flexibility for working capital, if needed, and is guaranteed by a majority of our domestic subsidiaries. The subsidiary guaranty is a guaranty of payment of the outstanding amount of the total lending commitment, including letters of credit. The bank credit agreement contains certain financial covenants, including a minimum interest coverage ratio, a maximum leverage ratio, and certain dividend and share repurchase restrictions. We pay a quarterly fee on the unused commitment, which was   0.30%   at   September 30, 2016  . As of   September 30, 2016  , we have   $342.0 million   in borrowing capacity under the Bank Credit Facility. 
+  As of   December 31, 2015  , we had a   $500.0 million   Bank Credit Facility due   July 2018   with a syndicate of financial institutions, including a sublimit of   $175.0 million   for letters of credit. In March 2016, the new   $1.4 billion   credit agreement replaced the existing   $500.0 million   Bank Credit Facility due   July 2018   and   $600.0 million   Term Loan due   July 2018   providing for a new   $700.0 million   Bank Credit Facility and a   $700.0 million   Term Loan, both maturing in   March 2021  , including a sublimit of   $100.0 million   for letters of credit. 
+  Debt Issuances and Additions  
+  In   September 2016  , we drew   $75.0 million   on our Bank Credit Facility due   March 2021   to make required payments on our Term Loan due   March 2021   and for general corporate purposes. 
+  In   June 2016  , we drew   $50.0 million   on our Bank Credit Facility due   March 2021   to fund acquisition activity and make required payments on our Term Loan due   March 2021  . 
+  
+    31 
+
+     Table of Contents  
+
+In   April 2016  , we drew   $170.0 million   on our Bank Credit Facility due   March 2021  , and   $150.0 million   on our Term Loan due   March 2021  , to repay our   $295.0 million     7.0% Senior Notes due June 2017   and associated transaction costs. 
+  In January 2016, we drew   $10.0 million   on our Bank Credit Facility due   July 2018   for general corporate purposes. In   March 2016  , we drew   $30.0 million   on our Bank Credit Facility due   March 2021   and   $550.0 million   on our Term Loan due   March 2021   to repay outstanding borrowings under our Bank Credit Facility due   July 2018   and our Term Loan due   July 2018  . These transactions resulted in the addition of   $5.2 million   in debt issuance costs. 
+  During the   nine months ended September 30, 2015  , we drew $  90.0 million   on our Bank Credit Facility due   July 2018  , which was used to make required payments on our Term Loan due   July 2018   and for general corporate purposes. 
+  Debt Extinguishments and Reductions 
+  During the   nine months ended September 30, 2016  , we made debt payments of   $902.7 million   for scheduled and early extinguishment payments including:  
+      During the   nine months ended September 30, 2015  , we made debt payments of   $342.5 million   for scheduled and early extinguishment payments including: 
+              
+    $100.0 million   in aggregate principal of our Bank Credit Facility; and 
+
+9. Fair Value of Financial Instruments 
+  Fair Value Estimates 
+  The fair value estimates of the following financial instruments have been determined using available market information and appropriate valuation methodologies. The carrying values of cash and cash equivalents, trade receivables, and trade payables approximate the fair values of those instruments due to the short-term nature of the instruments. The fair value of receivables on preneed contracts are impracticable to estimate because of the lack of a trading market and the diverse number of individual contracts with varying terms. 
+  The fair value of our debt instruments at   September 30, 2016   and   December 31, 2015   was as follows: 
+
+The fair value of our long-term, fixed-rate loans were estimated using market prices for those loans, and therefore they are classified within Level 2 of the fair value measurements hierarchy. The Term Loan, Bank Credit Facility agreement and the mortgage and other debt are classified within Level 3 of the fair value measurements hierarchy. The fair value of these instruments have been estimated using a discounted cash flow analysis based on our incremental borrowing rate for similar borrowing arrangements. An increase (decrease) in the inputs results in a directionally opposite change in the fair value of the instruments. 
+  
+    32 
+
+Table of Contents  
+
+10. Share-Based Compensation 
+  Stock Benefit Plans 
+  We maintain benefit plans whereby shares of our common stock may be issued pursuant to the exercise of stock options, restricted stock, or other stock-based awards granted to officers and key employees. In May 2016, our shareholders approved the 2016 Equity Incentive Plan that reserves   13,000,000   shares of common stock for outstanding and future awards of stock options, restricted stock, and other stock-based awards to officers and key employees.  
+  We utilize the Black-Scholes option valuation model for estimating the fair value of our stock options. This model uses a range of assumptions related to volatility, the risk-free interest rate, the expected life, and the dividend yield. The fair values of our stock options are calculated using the following weighted average assumptions for the   nine   months ended   September 30, 2016  : 
+
+Stock Options 
+  The following table sets forth stock option activity for the   nine   months ended   September 30, 2016  : 
+
+As of   September 30, 2016  , the unrecognized compensation expense related to stock options of   $10.3 million   is expected to be recognized over a weighted average period of   1.3   years. 
+  Restricted Stock Awards 
+  Restricted stock awards activity for the   nine   months ended   September 30, 2016   was as follows: 
+
+As of   September 30, 2016  , the unrecognized compensation expense related to restricted stock awards of   $7.1 million   is expected to be recognized over a weighted average period of   1.8   years. 
+  Restricted Stock Units 
+  Restricted stock units activity for the   nine   months ended   September 30, 2016   was as follows:   
+
+  As of   September 30, 2016  , the unrecognized compensation expense related to restricted stock units of   $2.7 million   is expected to be recognized over a weighted average period of   2.3 years  . 
+  
+    33 
+
+Table of Contents  
+
+11. Equity 
+  (All shares reported in whole numbers) 
+  Our components of   Accumulated other comprehensive income   are as follows: 
+
+The assets and liabilities of foreign operations are translated into U.S. dollars using the current exchange rate. The U.S. dollar amount that arises from such translation, as well as exchange gains and losses on intercompany balances of a long-term investment nature, are included in the foreign currency translation adjustment in   Accumulated other comprehensive income  .  
+  Share Repurchases  
+  Subject to market conditions, normal trading restrictions, and limitations in our debt covenants, we may make purchases in the open market or through privately negotiated transactions under our stock repurchase program. During the   nine   months ended   September 30, 2016  , we repurchased   7,542,812   shares of common stock at an aggregate cost of   $193.0 million  , which is an average cost per share of   $25.59  . After these repurchases, the remaining dollar value of shares authorized to be purchased under our share repurchase program was approximately   $88.0 million   at   September 30, 2016  . 
+   
+  12. Segment Reporting 
+  Our operations are both product-based and geographically-based, and the reportable operating segments presented below include our funeral and cemetery operations. Our geographic areas include the United States and Canada, where we conduct both funeral and cemetery operations. 
+  Our reportable segment information is as follows: 
+  
+    34 
+
+     Table of Contents  
+
+The following table reconciles gross profit from reportable segments to our consolidated income before income taxes: 
+
+Our geographic area information is as follows: 
+
+35 
+
+Table of Contents  
+
+13. Supplementary Information 
+  Revenue and Costs and Expenses 
+  The detail of certain income statement accounts as presented in the unaudited condensed consolidated Statement of Operations is as follows: 
+
+Non-Cash Investing and Financing Transactions   
+
+14. Commitments and Contingencies 
+  Insurance Loss Reserves 
+  We purchase comprehensive general liability, morticians  and cemetery professional liability, automobile liability, and workers  compensation insurance coverage all of which are structured with high deductibles. The high-deductible insurance program means we are primarily self-insured for claims and associated costs and losses covered by these policies. As of   September 30, 2016   and   December 31, 2015  , we have self-insurance reserves of   $78.3 million   and   $76.6 million  , respectively. 
+  Litigation 
+  We are a party to various litigation matters, investigations, and proceedings. Some of the more frequent ordinary routine litigations incidental to our business are based on burial practices claims and employment related matters, including discrimination, harassment, and wage and hour laws and regulations. For each of our outstanding legal matters, we evaluate the merits of the case, our exposure to the matter, possible legal or settlement strategies, and the likelihood of an unfavorable outcome. We intend to vigorously defend ourselves in the lawsuits described herein; however, if we determine that an  
+  
+    36 
+
+     Table of Contents  
+
+unfavorable outcome is probable and can be reasonably estimated, we establish the necessary accruals. We hold certain insurance policies that may reduce cash outflows with respect to an adverse outcome of certain of these litigation matters. We accrue such insurance recoveries when they become probable of being paid and can be reasonably estimated. 
+  Wage and Hour Claims  . We are named a defendant in various lawsuits alleging violations of federal and state laws regulating wage and hour pay, including but not limited to the Samborsky and Vasquez lawsuits described below. 
+  Charles Samborsky, et al, individually and on behalf of those persons similarly situated, v. SCI California Funeral Services, Inc., et al ;   Case No. BC544180; in the Superior Court of the State of California for the County of Los Angeles, Central District-Central Civil West Courthouse. This lawsuit was filed in April 2014 against an SCI subsidiary and purports to have been brought on behalf of employees who worked as family service counselors in California since April 2010. The plaintiffs allege causes of action for various violations of state laws regulating wage and hour pay. The plaintiffs seek unpaid wages, compensatory and punitive damages, attorneys  fees and costs, interest, and injunctive relief. The claims have been sent to arbitration. We cannot quantify our ultimate liability, if any, in this lawsuit. 
+  Adrian Mercedes Vasquez, an individual and on behalf of others similarly situated, v. California Cemetery and Funeral Services, LLC, et al;   Case No. BC58837; in the Superior Court of the State of California for the County of Los Angeles. This lawsuit was filed in July 2015 against SCI subsidiaries and purports to be brought on behalf of current and former non-exempt California employees of defendants during the four years preceding the filing of the complaint. The plaintiff alleges numerous causes of action for alleged wage and hour pay violations. The plaintiff seeks unpaid wages, compensatory and punitive damages, attorneys  fees and costs, interest and injunctive relief. The claims have been ordered to arbitration, with the arbitrator to determine whether the claims will proceed as a class or individual claims. In addition, the plaintiff filed an unfair labor practice charge against defendants with the National Labor Relations Board alleging that by enforcing a mandatory arbitration provision, defendants allegedly violated the National Labor Relations Act. We cannot quantify our ultimate liability, if any, in this lawsuit. 
+     Claims Regarding Acquisition of Stewart Enterprises  . We are involved in the following lawsuits. 
+  Karen Moulton, Individually and on behalf of all others similarly situated v. Stewart Enterprises, Inc., Service Corporation International and others ;   Case No. 2013-5636; in the Civil District Court Parish of New Orleans. This case was filed as a class action in June 2013 against SCI and our subsidiary in connection with SCI's proposed acquisition of Stewart Enterprises, Inc. The plaintiffs allege that SCI aided and abetted breaches of fiduciary duties by Stewart Enterprises and its board of directors in negotiating the combination of Stewart Enterprises with a subsidiary of SCI. The plaintiffs seek damages concerning the combination. We filed exceptions to the plaintiffs  complaint that were granted in June 2014. Thus, subject to appeals, SCI will no longer be party to the suit. The case will continue against our subsidiary Stewart Enterprises and its former individual directors. We cannot quantify our ultimate liability, if any, for the payment of damages. 
+  S.E. Funeral Homes of California, Inc. v. The Roman Catholic Archbishop of Los Angeles, et al.;   Case No. BC559142; in the Superior Court of the State of California for the County of Los Angeles. The plaintiff is a company indirectly owned by Stewart Enterprises, Inc. The plaintiff filed this action in September 2014 to prevent The Roman Catholic Archbishop of Los Angeles (the  Archdiocese ) from terminating six ground leases. In reliance on the leases having 40 year terms beginning at the earliest in 1997, the plaintiff had previously made material investments since 1997 in constructing and operating funeral homes, chapels, mausoleums, and other improvements on the leased premises. In addition, the plaintiff has created a material backlog of deferred preneed revenue that plaintiff expects to receive in the coming years. In September 2014, the Archdiocese delivered notices purporting to terminate the leases and alleging that the leases were breached because the plaintiff did not obtain the Archdiocese s consent before Stewart Enterprises, Inc. entered into a reverse merger with an affiliate of SCI. The plaintiff disputes this contention and seeks, among other things, a declaratory judgment declaring that the Archdiocese s purported termination notices are invalid, requiring specific performance of the leases, or, in the alternative, awarding the plaintiff compensatory damages. The Archdiocese filed a counterclaim and a separate action for unlawful detainer in October 2014, and all claims and actions of the respective parties have been consolidated into one case for all purposes. In February 2016, the Court entered a ruling on the parties  cross motions for summary adjudication based on the parties  opposing interpretations of the relevant lease provisions and adopted the Archdiocese s interpretation of its right to terminate the leases.  
+  On July 27, 2016, the parties executed an agreement to settle the consolidated case. Under the settlement agreement, the Company has agreed to sell to the Archdiocese substantially all of the assets used in the operations of the six mortuaries located on cemeteries of the Archdiocese and to terminate its rights under the related ground leases. In exchange, the Archdiocese will pay the Company   $24.0 million   when the Company closes on the sale of the assets, as well as make three additional annual payments, based on a formula related to gross revenue of the mortuary operations going forward of between   $800,000   to   $1,000,000   per payment. The closing of the sale is expected to take place on November 30, 2016. As a result of the settlement, the consolidated case pending between the parties will be dismissed.  
+  The ultimate outcome of the matters described above cannot be determined at this time. We intend to vigorously defend all of the above lawsuits; however, an adverse decision in one or more of such matters could have a material effect on us, our financial condition, results of operations, and cash flows. 
+  
+    37 
+
+Table of Contents  
+
+15. Earnings Per Share 
+  Basic earnings per common share (EPS) excludes dilution and is computed by dividing   Net income attributable to common stockholders   by the weighted average number of common shares outstanding for the period. Diluted EPS reflects the potential dilution that could occur if securities or other obligations to issue common stock were exercised or converted into common stock or resulted in the issuance of common shares that then shared in our earnings. 
+  A reconciliation of the numerators and denominators of the basic and diluted EPS computations is presented below: 
+
+Earnings per share from discontinued operations were less than $0.005 for all periods; therefore, net income from continuing operations attributable to common stockholders per share is the same as net income per share in the table above. 
+  The computation of diluted EPS excludes outstanding stock options and restricted stock units in certain periods in which the inclusion of such options and restricted share units would be anti-dilutive in the periods presented. Total options and restricted share units not included in the computation of dilutive EPS are as follows (in shares):    
+
+38 
+
+Table of Contents  
+
+16. Divestiture-Related Activities 
+  As divestitures occur in the normal course of business, gains or losses on the sale of such locations are recognized in the income statement line item   Gains   (  losses) on divestitures and impairment charges, net,   which consist of the following: 
+
+We classified certain funeral homes as held-for-sale in connection with the settlement of litigation with the Archdiocese of Los Angeles and recognized a   $31.2 million   non-cash impairment charge related to this planned divestiture, which is included in the schedule below. The carrying value of total assets held-for-sale as presented in our unaudited condensed consolidated     Balance Sheet as of September 30, 2016 is as follows (in thousands): 
+
+39 
+
+Table of Contents  
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+   
+  The Company 
+  We are North America s largest provider of deathcare products and services, with a network of funeral service locations and cemeteries unequaled in geographic scale and reach. At   September 30, 2016  , we operated   1,531   funeral service locations and   471   cemeteries (including   262   funeral service/cemetery combination locations), which are geographically diversified across   45   states,   eight   Canadian provinces, the District of Columbia, and Puerto Rico.  
+  We are well known for our Dignity Memorial  brand, North America's first transcontinental brand of deathcare products and services. Our other brands are Dignity Planning , National Cremation Society , Advantage  Funeral and Cremation Services, Funeraria del Angel , Making Everlasting Memories , Neptune Society , and Trident Society . Our funeral and cemetery operations consist of funeral service locations, cemeteries, funeral service/cemetery combination locations, crematoria, and related businesses, which enables us to serve a wide array of customer needs. We sell cemetery property and funeral and cemetery merchandise and services at the time of need and on a preneed basis. 
+  Our financial position is enhanced by our approximately   $10.0   billion backlog of future revenue from both trust and insurance-funded sales at   September 30, 2016  , which is the result of preneed sales. Preneed selling provides us with a current opportunity to lock-in future market share while deterring the customer from going to a competitor in the future. We believe it adds to the stability and predictability of our revenue and cash flows. While revenue on the majority of preneed merchandise and service sales is deferred until the time of need, sales of preneed cemetery property provide opportunities for full current revenue recognition (to the extent we collect 10% from the customer and the property is developed). 
+  We believe we have the financial strength and flexibility to reward shareholders through dividends while maintaining a prudent capital structure and pursuing new opportunities for profitable growth. 
+  Factors affecting our operating results include: demographic trends in terms of population growth and average age, which impact death rates and number of deaths; establishing and maintaining leading market share positions supported by strong local heritage and relationships; effectively responding to increasing cremation trends by selling complementary services and merchandise; controlling salary and merchandise costs; and exercising pricing leverage related to our at-need revenue. The average revenue per funeral contract is influenced by the mix of traditional and cremation services because our average cremation service revenue is approximately half of the average revenue earned from a traditional burial service. To further enhance revenue opportunities, we have developed memorialization merchandise and services that specifically appeal to cremation customers. We believe that these additional merchandise and services will help drive increases in the average revenue for a cremation in future periods.  
+  For further discussion of our key operating metrics, see our   Results of Operations   and   Cash Flow   sections below. 
+   
+   Financial Condition, Liquidity and Capital Resources 
+   
+  Capital Allocation Considerations 
+  We rely on cash flow from operations as a significant source of liquidity. Our cash flow from operating activities provided   $358.5 million   in the   nine months ended September 30, 2016  . We have   $342.0 million   in borrowing capacity under our bank credit agreement.  
+  Our bank credit agreement requires us to maintain certain leverage and interest coverage ratios. As of   September 30, 2016  , we were in compliance with all of our debt covenants. Our financial covenant requirements and actual ratios as of   September 30, 2016   are as follows: 
+
+We believe our sources of liquidity can be supplemented by our ability to access the capital markets for additional debt or equity securities. In   March 2016  , we entered into a new   $1.4 billion   bank credit agreement due   March 2021   with a syndicate of banks. The credit agreement consists of a   $700.0 million   Bank Credit Facility and a   $700.0 million   Term Loan. We used   $550.0 million   of the Term Loan due   March 2021   and   $30.0 million   of the Bank Credit Facility due   March 2021   to repay   $270.0 million   outstanding borrowings on the Bank Credit Facility due   July 2018   and   $310.0 million   outstanding borrowings on the Term Loan due   July 2018  . In April 2016, we drew   $170.0 million   on our Bank Credit Facility due   March 2021  , and   $150.0 million   on our Term Loan due   March 2021  , to repay our   $295.0 million     7.0% Senior Notes due June 2017   and associated transaction costs, which resulted in the recognition of a   $21.7 million   loss on early extinguishment of debt. 
+  We believe that our unencumbered cash on hand, future operating cash flows, and the available capacity under our bank credit agreement will give us adequate liquidity to meet our short-term needs as well as our long-term financial obligations. Due to cash balances residing in Canada and expected minimum operating cash in transit, a portion of our cash on hand is encumbered. 
+  
+    40 
+
+     Table of Contents  
+
+We intend to evaluate the best uses of our cash flow that will yield the highest value and return on capital. Our capital deployment strategy is prioritized as follows: 
+  Invest in acquisitions and new builds.   We intend to make acquisitions of funeral service locations and cemeteries when pricing and terms are favorable. We expect an acquisition investment to earn an after-tax cash return that is in excess of our weighted average cost of capital with room for execution risk. We will also invest in the construction of funeral service locations. We target businesses with favorable customer segments and/or where we can achieve additional economies of scale.  
+  Pay a dividend.   Our quarterly dividend rate has steadily grown from $0.025 per common share in 2005 to $0.13 per common share in 2016. We target a payout ratio of 35% to 45% and intend to grow our cash dividend commensurate with the growth in our business. While we intend to pay regular quarterly cash dividends for the foreseeable future, all future dividends are subject to limitations in our debt covenants and final determination by our Board of Directors each quarter upon review of our financial performance. 
+  Repurchase shares.   Absent a strategic acquisition opportunity, we believe share repurchases are attractive at the appropriate price. During the   nine   months ended   September 30, 2016  , we repurchased   7,542,812   shares of common stock at an aggregate cost of   $193.0 million  , which is an average cost per share of   $25.59  . After these repurchases, the remaining dollar value of shares authorized to be purchased under our share repurchase program was approximately   $88.0 million   at   September 30, 2016  . We intend to make purchases from time to time in the open market or through privately negotiated transactions, subject to market conditions, debt covenants, and normal trading restrictions. Our bank credit agreement contains covenants that limit our ability to repurchase our common stock. There can be no assurance that we will buy our common stock under our share repurchase program in the future. 
+  Repurchase debt.   We will seek to make open market debt repurchases when it is opportunistic to do so relative to other capital development opportunities to manage our near-term debt maturity profile. We have a relatively consistent annual cash flow stream that is generally resistant to down economic cycles. This cash flow stream and our significant liquidity is available to substantially reduce our long-term debt maturities should we choose to do so. Furthermore, our capital expenditures are generally discretionary in nature and can be managed based on the availability of operating cash flow. 
+   
+  Cash Flow 
+  We believe our ability to generate strong operating cash flow is one of our fundamental financial strengths and provides us with substantial flexibility in meeting our operating and investing needs. 
+  Operating Activities 
+  Net cash provided by operating activities was   $358.5 million   in the   first nine months of 2016  , compared to   $396.6 million   in the   first nine months of 2015  . 
+  Operating cash flows are impacted by the following items:   
+
+   Excluding the above items, cash flow from operations decreased   $23.0 million   for the   first nine months of 2016   versus the same period in   2015  . The   2016   decrease is primarily due to expected higher cash tax payments of   $29.9 million  , partially offset by favorable working capital initiatives. 
+  Investing Activities 
+  Cash flows from investing activities used   $179.1 million   in the   first nine months of 2016   compared to using   $125.8 million   in the same period of   2015  . This was primarily attributable to an increase of   $24.7 million   in cash spent on acquisitions, a   $26.5 million   increase in capital expenditures, and a   $2.9 million   increase in net withdrawals of restricted funds, partially offset by a   $1.7 million   increase in cash receipts from divestitures and asset sales. The increase in capital expenditures primarily relates to the development of contemporary cemetery property, which enables our sales force to drive sustainable growth in our preneed cemetery property sales, and the construction of new funeral homes. 
+  Financing Activities 
+  Financing activities used   $140.3 million   in the   first nine months of 2016   compared to using   $298.4 million   in the same period of   2015  . This decrease was primarily driven by a decrease in purchases of Company common stock of   $112.5 million   and an increase in debt issuance proceeds net of payments of $  69.4 million   partially offset by decreased proceeds from exercise  
+  
+    41 
+
+     Table of Contents  
+
+of stock options of $  14.5 million  , a decrease of $  5.8 million   in excess tax benefits from share based awards, and a   $9.6 million   increase in payments of dividends. 
+  We repurchased   7.5 million   shares in the   first nine months of 2016   for $  193.0   million and   11.0 million   shares in the same period of   2015   for   $305.5   million. We paid cash dividends of $  73.7   million in the   first nine months of 2016   and   $64.1   million in the same period of   2015  . 
+   
+  Financial Assurances 
+  In support of our operations, we have entered into arrangements with certain surety companies whereby such companies agree to issue surety bonds on our behalf as financial assurance and/or as required by existing state and local regulations. The surety bonds are used for various business purposes; however, the majority of the surety bonds issued and outstanding have been used to support our preneed funeral and cemetery sales activities. The obligations underlying these surety bonds are recorded on the unaudited condensed Consolidated Balance Sheet as   Deferred preneed funeral revenue   and   Deferred preneed cemetery revenue.   The breakdown of surety bonds between funeral and cemetery preneed arrangements, as well as surety bonds for other activities, is described below. 
+
+When selling preneed contracts, we may post surety bonds where allowed by state law. We post the surety bonds in lieu of trusting a certain amount of funds received from the customer. The amount of the bond posted is generally determined by the total amount of the preneed contract that would otherwise be required to be trusted, in accordance with applicable state law. For the   three months ended     September 30, 2016   and   2015  , we had   $5.5 million   and   $5.2 million  , respectively, of cash receipts attributable to bonded sales. For the   nine months ended     September 30, 2016   and   2015  , we had   $16.1 million   and   $15.2 million  , respectively, of cash receipts attributable to bonded sales. These amounts do not consider reductions associated with taxes, obtaining costs, or other costs. 
+  Surety bond premiums are paid annually and are automatically renewable until maturity of the underlying preneed contracts, unless we are given prior notice of cancellation. Except for cemetery pre-construction bonds (which are irrevocable), the surety companies generally have the right to cancel the surety bonds at any time with appropriate notice. In the event a surety company were to cancel the surety bond, we are required to obtain replacement surety assurance from another surety company or fund a trust for an amount generally less than the posted bond amount. Management does not expect that we will be required to fund material future amounts related to these surety bonds because of lack of surety capacity or surety company non-performance. 
+   
+  Preneed Funeral and Cemetery Activities and Backlog of Contracts 
+  In addition to selling our products and services to client families at the time of need, we sell price-guaranteed preneed contracts, which provide for future funeral or cemetery services and merchandise. Since preneed merchandise or services will not be provided until sometime in the future, most states and provinces require that all or a portion of the funds collected from customers on preneed contracts be paid into merchandise and service trusts until the merchandise is delivered or the service is performed. These trust funds own investments in equity and debt securities and mutual funds, which are sensitive to current market prices. In certain situations, as described above, where permitted by state or provincial laws, we may post a surety bond as financial assurance for a certain amount of the preneed contract in lieu of placing funds into trust accounts. 
+     Trust-Funded Preneed Contracts:   The funds are deposited into trust and invested by independent trustees in accordance with state and provincial laws. We retain any funds above the amounts required to be deposited into trust accounts and use them for working capital purposes, generally to offset the selling and administrative costs of our preneed programs. 
+  
+    42 
+
+     Table of Contents  
+
+The tables below detail our results of preneed production and maturities, excluding insurance contracts, for the   three   and   nine   months ended   September 30, 2016   and   2015  . 
+
+Insurance-Funded Preneed Contracts:   Where permitted by state or provincial law, customers may arrange their preneed contract by purchasing a life insurance policy from third-party insurance companies, for which we earn a commission as a general sales agent for the insurance company. The policy amount of the insurance contract between the customer and the third-party insurance company generally equals the amount of the preneed contract. As the insurance contract is between the insurance company and the customer, we do not reflect the unfulfilled insurance-funded preneed contract amounts in our unaudited condensed Consolidated Balance Sheet. 
+  The table below details the results of insurance-funded preneed production and maturities for the   three   and   nine   months ended   September 30, 2016   and   2015  , and the number of contracts associated with those transactions. 
+
+(1) 
+    Amounts are not included in our unaudited condensed Consolidated Balance Sheet. 
+     Backlog of Preneed Contracts:   The following table reflects our backlog of trust-funded deferred preneed contract revenue, including amounts related to   Deferred preneed receipts held in trust   at   September 30, 2016   and   December 31, 2015  . Additionally, the table reflects our backlog of unfulfilled insurance-funded contracts (which are not included in our unaudited condensed Consolidated Balance Sheet) at   September 30, 2016   and   December 31, 2015  . The backlog amounts presented are reduced by an amount that we believe will cancel before maturity based on historical experience. 
+  
+    43 
+
+     Table of Contents  
+
+The table also reflects our preneed receivables and trust investments (fair value and cost bases) associated with the backlog of deferred preneed contract revenue, net of the estimated cancellation allowance. We believe that the table below is meaningful because it sets forth the aggregate amount of future revenue we expect to recognize as a result of preneed sales, as well as the amount of assets associated with this revenue. Because the future revenue exceeds the asset amounts, future revenue will exceed the cash distributions actually received from the associated trusts. The following table does not include backlog associated with businesses held-for-sale. 
+
+(1) 
+    Amounts are not included in our unaudited condensed Consolidated Balance Sheet. 
+     The fair value of our trust investments was based on a combination of quoted market prices, observable inputs such as interest rates or yield curves, and appraisals. As of   September 30, 2016  , the difference between the backlog and asset fair value amounts represents $0.26 billion related to contracts for which we have posted surety bonds as financial assurance in lieu of trusting, $0.11 billion collected from customers that were not required to be deposited into trust, and $0.20 billion in allowable cash distributions from trust assets.  
+  The table also reflects the amounts expected to be received from insurance companies through the assignment of policy proceeds related to insurance-funded contracts. We do not reflect the unfulfilled insurance-funded preneed amounts in our unaudited condensed Consolidated Balance Sheet because they are not assets or liabilities as defined in Statement of Accounting Concepts No. 6 as we have no claim to the insurance proceeds until the contract is fulfilled and no obligation under the contract until the benefits are assigned to us upon or after the time of need. 
+   
+  Trust Investments 
+  In addition to selling our products and services to client families at the time of need, we enter into price-guaranteed preneed funeral and cemetery contracts, which provide for future funeral or cemetery merchandise and services. Since preneed funeral and cemetery merchandise or services will generally not be provided until sometime in the future, most states and provinces require that all or a portion of the funds collected from customers on preneed funeral and cemetery contracts be paid into trusts and/or escrow accounts until the merchandise is delivered or the service is performed. Investment earnings associated with the trust investments are expected to mitigate the inflationary costs of providing the preneed funeral and cemetery merchandise and services in the future at the prices that were guaranteed at the time of sale. 
+  
+    44 
+
+     Table of Contents  
+
+Also, we are required by state and provincial law to pay a portion of the proceeds from the preneed or atneed sale of cemetery property interment rights into perpetual care trusts. For these investments, the original corpus remains in the trust in perpetuity and the net ordinary earnings are distributed with the intention of offsetting the expense to maintain the cemetery property. While many states require that net capital gains or losses be retained and added to the corpus, certain states allow the net realized capital gains and losses to be included in the net ordinary earnings that are distributed. 
+  Independent trustees manage and invest the majority of the funds deposited into the funeral and cemetery merchandise and services trusts as well as the cemetery perpetual care trusts. The majority of trustees are selected based on their respective geographic footprint and qualifications per state and provincial regulations. Most of the trustees engage the same independent investment managers. These trustees, with input from SCI's wholly-owned registered investment advisor, establish an investment policy that serves as an operating document to guide the investment activities of the trusts including asset allocation and manager selection. The investments are also governed by state and provincial guidelines. Asset allocation is based on the liability structure of each funeral, cemetery, and perpetual care trust. The investment advisor recommends investment managers to the trustees, which are selected on the basis of various criteria set forth in the investment policy. The primary investment objectives for the funeral and cemetery merchandise and service trusts include 1) preserving capital within acceptable levels of volatility and risk and 2) achieving growth of principal over time sufficient to preserve and increase the purchasing power of the assets. Preneed funeral and cemetery contracts generally take years to mature; therefore, the funds associated with these contracts are often invested through several market cycles. The cemetery perpetual care trusts' investment objectives emphasize providing a steady stream of current investment income with some capital appreciation. All of the trusts seek to control risk and volatility through a combination of asset classes, investment styles, and a diverse mix of investment managers. 
+  As of   September 30, 2016  , approximately 87% of our trusts were under the control and custody of three large financial institutions. The U.S. trustees primarily use three managed limited liability companies (LLCs), one for each trust type, and each with a different independent trustee as custodian. Each financial institution acting as trustee manages its allocation of trust assets in accordance with the investment policy through the purchase of the LLCs' units. For those accounts not eligible for participation in the LLCs or in the event a particular state's regulations contain investment restrictions, the trustee utilizes institutional mutual funds that comply with our investment policy or with such state restrictions. The U.S. trusts include a modest allocation to alternative investments, which comprise private equity and real estate investments. These investments are structured as LLCs and are managed by certain trustees. The trusts that are eligible to allocate a portion of their investments to alternative investments purchase units of the respective LLCs. 
+  Investment Structures 
+  Each financial institution, acting as trustee, manages its allocation of trust assets in compliance with the investment policy primarily through the purchase of three managed limited liability companies (LLCs), one or each trust type and each with a different, independent trustee acting as custodian. The managed LLCs use the following structures for investments: 
+  Commingled funds.   These funds allow the trusts to access, at a reduced cost, the same investment managers and strategies used elsewhere in the portfolios. 
+  Mutual funds.     The trust funds employ institutional share class mutual funds where operationally or economically efficient. These mutual funds are utilized to invest in various asset classes including U.S. equities, non-U.S. equities, corporate bonds, government bonds, Treasury inflation protected securities (TIPS), high yield bonds, and commodities, all of which are governed by guidelines outlined in their individual prospectuses. 
+  Separately managed accounts.     To reduce the costs to the investment portfolios, the trusts utilize separately managed accounts where appropriate.  
+  For those accounts not eligible for participation in the managed LLCs, the trustee utilizes institutional share class mutual funds that comply with our investment policy statement or with applicable state or provincial regulations. The U.S. trusts also include a modest allocation to alternative investments, which comprise primarily private equity investments. These investments are also held in LLCs and are managed by certain trustees. 
+  Asset Classes 
+  Fixed income investments   are intended to preserve principal, provide a source of current income, and reduce overall portfolio volatility. The majority of the fixed income allocation for the trusts is in institutional share class mutual funds. Where the trusts have direct investments in individual fixed income securities, these are primarily in government and corporate instruments. 
+  Canadian government fixed income securities are investments in Canadian federal and provincial government instruments. In many cases, regulatory restrictions mandate that the funds from the sales of preneed funeral and cemetery products sold in certain Canadian jurisdictions must be invested in these instruments. 
+  Equity investments   have historically provided long-term capital appreciation in excess of inflation. The trusts have direct investments in individual equity securities primarily in domestic equity portfolios that include large, mid, and small capitalization companies of different investment styles (i.e., growth and value). The majority of the equity allocation is managed by institutional investment managers that specialize in an objective-specific area of expertise. Our equity securities  
+  
+    45 
+
+     Table of Contents  
+
+are exposed to market risk; however, we believe these securities are well-diversified. As of   September 30, 2016  , the largest single equity position represented less than 1% of the total securities portfolio. 
+  The objective of   private equity     investments is to provide high rates of return with reduced volatility. These investments are typically long-term in duration. These investments are diversified by strategy, sector, manager, and vintage year. The investments consist of numerous limited partnerships, including private equity, real estate, fund of funds, distressed debt, and mezzanine financing. The trustees that have oversight of their respective alternative LLCs work closely with the investment advisor in making all investment decisions. 
+  Trust Performance 
+  The trust fund income recognized from these investment assets is volatile. During the nine months ended   September 30, 2016  , the Standard and Poor s 500 Index increased 7.8% and the Barclay s Aggregate Index increased 5.8%, while the combined SCI trusts increased 7.7%. 
+  SCI, the trustees, and the investment advisor monitor the capital markets and the trusts on an ongoing basis. The trustees, with input from the investment advisor, take prudent action as needed to achieve the investment goals and objectives of the trusts. 
+   
+  Results of Operations   Three Months Ended   September 30, 2016   and   2015    
+   
+  Management Summary 
+  In the   third quarter of 2016  , we reported net income attributable to common stockholders of $  47.7 million   (  $0.24   per diluted share) compared to net income attributable to common stockholders in the   third quarter of 2015   of   $47.4 million   (  $0.23   per diluted share). These results were affected by the following items: 
+
+In addition to the above items, growth in cemetery revenue, higher recognized preneed funeral revenue, lower interest expense, and effective management of our back office overhead expenses were partially offset by lower funeral services performed and increases in cemetery administrative and maintenance costs. 
+  
+    46 
+
+Table of Contents  
+
+Funeral Results   
+
+           (1) 
+    We define comparable (or same store) operations as those funeral locations owned by us for the entire period beginning   January 1, 2015   and ending   September 30, 2016  . 
+              (2) 
+    We calculate comparable average revenue per service by dividing comparable funeral revenue, excluding general agency revenue, recognized preneed revenue, and other revenue to avoid distorting our average of normal funeral services revenue, by the comparable number of services performed during the period. Recognized preneed revenues are preneed sales of merchandise that are delivered at the time of sale, including memorial merchandise and travel protection, and are excluded from our calculation of comparable average revenue per service because the associated service has not yet been performed. 
+     Funeral Revenue 
+  Consolidated revenue from funeral operations was   $445.5 million   for the   third quarter of 2016   compared to   $449.3 million   for the same period in   2015  . This decrease is primarily attributable to a   $6.9 million   decrease in comparable revenue as described below as well as the loss of   $1.7 million   in revenue contributed by properties that have been subsequently divested. These decreases were partially offset by   $4.8 million   in revenue contributed by acquired properties.  
+  Comparable revenue from funeral operations was   $438.0 million   for the   third quarter of 2016   compared to   $444.9 million   for the same period in   2015  . This   $6.9 million   decrease was primarily due to a   1.8%   decrease in comparable services performed and lower general agency revenue due to a temporary mix change between trust and insurance production as well as the decision to cease production at the Catholic mortuaries in the Los Angeles Archdiocese. These decreases were partially offset by a   $1.9 million   increase in recognized preneed revenue driven by an increase in the number of contracts sold through our non-funeral home channel and the average price per contract. The decrease in services performed comprises a   2.3%   decrease in services performed by our funeral homes offset by a   3.4%   increase in cremation services performed by our non-funeral home channel.  
+  Average revenue per funeral service increased   1.0%   in the   third quarter of 2016   compared to the   third quarter of 2015  . Organic growth at the customer level of 2.1% was partially offset by the increase in our cremation mix. Our total comparable cremation rate increased to   52.1%   in the   third quarter of 2016   from   51.3%   in   2015   as a result of an increase in both direct cremations and cremations with service. 
+  Funeral Gross Profit 
+  Consolidated funeral gross profit decreased   $2.1 million   in the   third quarter of 2016   compared to the same period in   2015  . This decrease is primarily attributable to a decrease in comparable funeral gross profit of   $3.2 million  , or   4.1%  . The impact of the decline in higher margin core revenue due to lower funeral services performed and a decline in general agency revenue was partially offset by lower operating expenses and increases in recognized preneed revenue from our non-funeral home channel.   
+  
+    47 
+
+Table of Contents  
+
+Cemetery Results 
+
+(1) 
+    We define comparable (or same store) operations as those cemetery locations owned by us for the entire period beginning   January 1, 2015   and ending   September 30, 2016  . 
+     Cemetery Revenue 
+  Consolidated revenue from our cemetery operations increased   $10.8 million  , or   4.1%  , in the   third quarter of 2016   compared to the same period in   2015   primarily due to a   $10.9 million   increase in comparable cemetery revenue in the   third quarter of 2016   compared to the same period in   2015  . This increase primarily resulted from increased recognized preneed revenue from higher preneed sales production and higher merchandise deliveries. 
+  Cemetery Gross Profit 
+  Consolidated cemetery gross profit increased   $1.3 million  , or   2.0%  , in the   third quarter of 2016   compared to the same period in   2015  . This increase is primarily the result of a   $1.9 million   increase in comparable gross profit primarily driven by growth in recognized preneed revenue, partially offset by increases in cemetery administrative and maintenance costs. 
+   
+  Other Financial Statement Items 
+  General and Administrative Expenses 
+  General and administrative expenses decreased   $1.0 million   to   $26.9 million   in the   third quarter of 2016   compared to   $27.9 million   in the same period of   2015  . The current quarter includes an increase of $2.2 million in system transition costs primarily related to the 2016 implementation of a new general ledger system. Excluding this $2.2 million, general and administrative expenses decreased $3.2 million compared to prior year quarter as we effectively managed our back office overhead expenses. 
+  Gains (Losses) on Divestitures and Impairment Charges, Net 
+  Gains (losses) on divestitures and impairment charges, net decreased $10.2 million in the   third quarter of 2016   compared to the same period of 2015 as we divested non-strategic funeral and cemetery locations in the prior year quarter. 
+  Interest expense 
+  Interest expense decreased   $4.4 million   to   $39.5 million   in the   third quarter of 2016   as we benefited from the debt refinancings over the past year by lowering interest on our Senior Notes and increasing our proportion of lower variable rate debt. 
+  Loss on Early Extinguishment of Debt 
+  During the third quarter of 2015, we recognized a   $6.9 million   loss on early extinguishment of debt as we took advantage of historically low interest rates to refinance our 6.75% Senior Notes due 2016. 
+  Provision for Income Taxes 
+  Income tax expense during interim periods is based on our estimated annual effective income tax rate plus any discrete items, which are recorded in the period in which they occur. Discrete items include, among others, such events as changes in estimates due to the finalization of tax returns, tax audit settlements, expiration of statutes of limitations, and increases or decreases in valuation allowances. Our effective tax rate was   36.6%   and   35.3%   for the   three   months ended   September 30, 2016   and   2015  , respectively. The higher effective tax rate for the   three months ended September 30, 2016   is primarily due to increased interest expense accruals associated with uncertain tax positions. 
+  Weighted Average Shares 
+  
+    48 
+
+     Table of Contents  
+
+The diluted weighted average number of shares outstanding was   196.6 million   in the   third quarter of 2016  , compared to   203.4 million   in the same period in   2015  . The decrease in the number of shares reflects the impact of shares repurchased under our share repurchase program. 
+   
+  Results of Operations     Nine Months Ended September 30, 2016   and   2015    
+  Management Summary 
+  In the   nine months ended September 30, 2016  , we reported net income attributable to common stockholders of   $110.8 million   (  $0.56   per diluted share) compared to net income attributable to common stockholders for the same period in   2015   of   $161.4 million   (  $0.78   per diluted share). These results were affected by the following items: 
+
+In addition to the above items, growth in cemetery revenue, higher recognized preneed funeral revenue, lower interest expense, and effective management of our back office overhead were partially offset by lower funeral services performed and increases in cemetery administrative and maintenance costs. 
+   
+  Funeral Results   
+
+           (1) 
+    We define comparable (or same store) operations as those funeral locations owned by us for the entire period beginning   January 1, 2015   and ending   September 30, 2016  . 
+              (2) 
+    We calculate comparable average revenue per service by dividing comparable funeral revenue, excluding general agency revenue, recognized preneed revenue, and other revenue to avoid distorting our average of normal funeral services revenue, by the comparable number of services performed during the period. Recognized preneed revenues are preneed sales of merchandise that are delivered at the time of sale, including memorial merchandise and travel protection, and are excluded from our calculation of comparable average revenue per service because the associated service has not yet been performed. 
+     Funeral Revenue 
+  
+    49 
+
+     Table of Contents  
+
+Consolidated revenue from funeral operations was   $1,404.6 million   for the   nine months ended September 30, 2016   compared to   $1,428.5 million   for the same period in   2015  . This decrease is primarily attributable to a   $25.3 million   decrease in comparable revenue as described below.  
+  Comparable revenue from funeral operations was   $1,390.5 million   for the   nine months ended September 30, 2016   compared to   $1,415.8 million   for the same period in   2015  . This decrease was primarily due to a   3.5%   decrease in comparable services performed, impacted by an unusually strong flu season in the first half of 2015. This decrease was partially offset by an increase in recognized preneed revenue driven by an increase in the number of contracts sold through our non-funeral home channel and the average price per contract. The decrease in services performed comprises a   4.1%   decrease in services performed by our funeral homes partially offset by a   3.3%   increase in cremation services performed by our non-funeral home channel.  
+  Average revenue per funeral service increased   0.5%   in the   first nine months of 2016   compared to the same period in   2015  . Organic growth at the customer level of 2.7% was largely offset by the increase in our cremation mix, lower trust fund income, and an unfavorable Canadian currency impact. Our total comparable cremation rate increased to   51.9%   in the   first nine months of 2016   from   51.0%   in   2015   as a result of an increase in both direct cremations and cremations with service.  
+  The decrease in funeral services performed was partially offset by a   $3.4 million   increase in general agency revenue from higher preneed insurance sales production and an   $11.1 million   increase in recognized preneed revenue as we sold more contracts through our non-funeral home channel and the average contract price increased. 
+  Funeral Gross Profit 
+  Consolidated funeral gross profit decreased   $25.9 million   in the   first nine months of 2016   compared to the same period in   2015  . This decrease is primarily attributable to a decrease in comparable funeral gross profit of   $27.9 million  . The decline in higher margin revenue from funeral services performed by our funeral homes was partially offset by lower operating expenses and increased gross profit from recognized preneed revenue.  
+   
+  Cemetery Results 
+
+(1) 
+    We define comparable (or same store) operations as those cemetery locations owned by us for the entire period beginning   January 1, 2015   and ending   September 30, 2016  . 
+     Cemetery Revenue 
+  Consolidated revenue from our cemetery operations increased   $29.2 million  , or   3.7%  , in the   nine months ended September 30, 2016   compared to the same period in   2015   primarily attributable to the   $26.7 million   increase in comparable revenue. The increase in comparable revenue is primarily the result of an increase in recognized preneed revenue, higher preneed property production, and an increase in cash distributions of capital gains received from perpetual care trusts. 
+  Cemetery Gross Profit 
+  Consolidated cemetery gross profit increased   $4.7 million  , or   2.5%  , in the   nine months ended September 30, 2016   compared to the same period in   2015  . This increase is primarily the result of a   $4.3 million   increase in comparable gross profit. The gross profit increase was driven by growth in recognized preneed and atneed revenue and higher preneed property production, partially offset by increased selling commissions from higher sales production and increases in cemetery administrative and maintenance costs. 
+   
+  Other Financial Statement Items 
+  General and Administrative Expenses 
+  General and administrative expenses increased $5.8 million to   $102.7 million   in the   nine months ended September 30, 2016   compared to   $96.9 million   in the same period of   2015  . The current period includes $5.5 million in acquisition costs and  
+  
+    50 
+
+     Table of Contents  
+
+$11.2 million in system transition costs primarily related to our 2016 implementation of a new general ledger system. The prior year period includes $4.1 million of acquisition and system transition costs. Excluding these costs, general and administrative expenses decreased $6.8 million in the   nine months ended September 30, 2016   compared to the same period in   2015   as we effectively managed our back office overhead expenses. 
+  Gains (Losses) on Divestitures and Impairment Charges, Net 
+  Gains (losses) on divestitures and impairment charges, net decreased   $33.8 million   in the   nine months ended September 30, 2016   compared to the same period of 2015. The   nine months ended September 30, 2016   includes $31.2 million of impairment charges related to the planned divestiture of certain funeral homes in Los Angeles, California. The   nine months ended September 30, 2015   primarily comprises losses on the divestiture of underperforming properties. 
+  Interest expense 
+  Interest expense decreased $7.9 million to $122.0 million in the   nine months ended September 30, 2016   as we benefited from the debt refinancings over the past year by lowering interest on our Senior Notes and increasing our proportion of lower variable rate debt. 
+  Loss on Early Extinguishment of Debt 
+  We incurred a   $22.5 million   loss on early extinguishment of debt in the   nine months ended September 30, 2016   primarily to manage our near-term debt maturity profile and lower our effective interest rate by refinancing our Senior Notes due 2017. We expect this transaction to result in cash interest savings of approximately $9.0 million in 2016. 
+  During the   nine months ended September 30, 2015  , we recognized a   $6.9 million   loss on early extinguishment of debt as we took advantage of historically low interest rates to refinance out 6.75% Senior Notes due 2016. 
+  Provision for Income Taxes 
+  Income tax expense during interim periods is based on our estimated annual effective income tax rate plus any discrete items, which are recorded in the period in which they occur. Discrete items include, among others, such events as changes in estimates due to the finalization of tax returns, tax audit settlements, expiration of statute of limitations, and increases or decreases in valuation allowances. Our effective tax rate was   40.8%   and   36.5%   for the   nine months ended September 30, 2016   and   2015  , respectively. The higher effective tax rate for the   nine months ended September 30, 2016   is primarily due to the impairment charges described above and the increased interest expense accruals associated with uncertain tax positions. 
+  Weighted Average Shares 
+  The diluted weighted average number of shares outstanding was   197.2 million   in the   nine months ended September 30, 2016  , compared to   206.0 million   in the same period in   2015  . The decrease in the number of shares reflects the impact of shares repurchased under our share repurchase program. 
+   
+  Critical Accounting Policies 
+  The preparation of financial statements in accordance with accounting principles generally accepted in the United States requires management to make estimates and assumptions that affect the amounts reported in the unaudited condensed consolidated financial statements and accompanying notes. Actual results could differ from those estimates. Our critical accounting policies are disclosed in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+  There were no significant changes to our accounting policies that have occurred subsequent to   December 31, 2015  , except as described below within   Recent Accounting Pronouncements and Accounting Changes  . 
+  Recent Accounting Pronouncements and Accounting Changes 
+  For discussion of recent accounting pronouncements and accounting changes, see Part I, Item 1. Financial Statements, Note 2. 
+   
+  Cautionary Statement on Forward-Looking Statements 
+    
+  The statements in this Form 10-Q that are not historical facts are forward-looking statements made in reliance on the  safe harbor  protections provided under the Private Securities Litigation Reform Act of 1995. These statements may be accompanied by words such as  believe,   estimate,   project,   expect,   anticipate,  or  predict,  that convey the uncertainty of future events or outcomes. These statements are based on assumptions that we believe are reasonable; however, many important factors could cause our actual results in the future to differ materially from the forward-looking statements made herein and in any other documents or oral presentations made by us, or on our behalf. Important factors, which could cause actual results to differ materially from those in forward-looking statements include, among others, the following: 
+             
+    Our affiliated funeral and cemetery trust funds own investments in equity securities, fixed income securities, and mutual funds, which are affected by market conditions that are beyond our control. 
+                
+    We may be required to replenish our affiliated funeral and cemetery trust funds in order to meet minimum funding requirements, which would have a negative effect on our earnings and cash flow. 
+     
+    51 
+
+     Table of Contents  
+
+Our ability to execute our strategic plan depends on many factors, some of which are beyond our control.  
+                
+    Our credit agreements contain covenants that may prevent us from engaging in certain transactions. 
+                
+    If we lost the ability to use surety bonding to support our preneed funeral and preneed cemetery activities, we may be required to make material cash payments to fund certain trust funds. 
+                
+    The funeral and cemetery industry is competitive. 
+                
+    Increasing death benefits related to preneed contracts funded through life insurance contracts may not cover future increases in the cost of providing a price-guaranteed service. 
+                
+    The financial condition of third-party insurance companies that fund our preneed funeral contracts may impact our future revenue. 
+                
+    Unfavorable results of litigation could have a material adverse impact on our financial statements. 
+                
+    Unfavorable publicity could affect our reputation and business. 
+                
+    If the number of deaths in our markets declines, our cash flows and revenue may decrease. 
+                
+    If we are not able to respond effectively to changing consumer preferences, our market share, revenue, and profitability could decrease. 
+                
+    The continuing upward trend in the number of cremations performed in North America could result in lower revenue and gross profit. 
+                
+    Our funeral home and cemetery businesses are high fixed-cost businesses. 
+                
+    Regulation and compliance could have a material adverse impact on our financial results. 
+                
+    Cemetery burial practice legal claims could have a material adverse impact on our financial results. 
+                
+    We use a combination of insurance, self-insurance and large deductibles in managing our exposure to certain inherent risks, as such, we could be exposed to unexpected costs that could negatively affect our financial performance. 
+                
+    A number of years elapse before particular tax matters, for which we have established accruals, are audited and finally resolved. 
+                
+    Declines in overall economic conditions beyond our control could reduce future potential earnings and cash flows and could result in future impairments to goodwill and/or other intangible assets. 
+                
+    Any failure to maintain the security of the information relating to our customers, their loved ones, our associates, and our vendors could damage our reputation, could cause us to incur substantial additional costs and to become subject to litigation, and could adversely affect our operating results. 
+                
+    Our Canadian business exposes us to operational, economic, and currency risks. 
+                
+    Our level of indebtedness could adversely affect our ability to raise additional capital to fund our operations, limit our ability to react to changes in the economy or our industry, and may prevent us from fulfilling our obligations under our indebtedness. 
+                
+    Failure to maintain effective internal control over financial reporting could adversely affect our results of operations, investor confidence, and our stock price. 
+     For further information on these and other risks and uncertainties, see our Securities and Exchange Commission filings, including our 2015 Annual Report on Form 10-K. Copies of this document as well as other SEC filings can be obtained from our website at www.sci-corp.com. We assume no obligation to publicly update or revise any forward-looking statements made herein or any other forward-looking statements made by us, whether as a result of new information, future events or otherwise. 
+   
+  Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+  Marketable Equity and Debt Securities   Price Risk 
+  In connection with our preneed operations and sales, the related trust funds own investments in equity and debt securities and mutual funds, which are sensitive to current market prices. 
+  Cost and market values as of   September 30, 2016   are presented in Part I, Item 1. Financial Statements and Notes 3, 4, and 5 of this Form 10-Q. Also, see Item 2, Management s Discussion and Analysis of Financial Condition and Results of Operations,   Financial Conditions, Liquidity and Capital Resources  , for discussion of trust investments. 
+   
+  Item 4. Controls and Procedures 
+  Disclosure Controls and Procedures 
+  As of   September 30, 2016  , we carried out an evaluation, under the supervision and with the participation of our Chief Executive Officer (CEO) and Chief Financial Officer (CFO), of the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act)). Our disclosure controls and procedures are designed to ensure that information required to be disclosed in the Securities and  
+  
+    52 
+
+     Table of Contents  
+
+Exchange Commission (SEC) reports we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time period specified by the SEC s rules and forms and that such information is accumulated and communicated to management, including our CEO and CFO, as appropriate, to allow timely decisions regarding required disclosure. Based on our evaluation, our CEO and CFO have concluded that our disclosure controls and procedures are effective as of   September 30, 2016   and that the unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q fairly present, in all material respects, our financial condition, results of operations, and cash flows for the periods presented in conformity with US GAAP. 
+    
+  Changes in Internal Control Over Financial Reporting 
+  On July 5, 2016, we deployed a new financial management system that is an integrated and scalable application leveraged to interface with other internal and external computer systems and has resulted in the elimination of certain manual processes while automating and streamlining those tasks. The new financial management system is intended to provide enhanced transactional processing, analysis, and reporting compared to our legacy system and is further intended to strengthen our internal controls over financial reporting. Other than the new financial management system, there were no changes in our internal control over financial reporting as for the quarter ended   September 30, 2016  , which have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+PART II. OTHER INFORMATION 
+   
+  Item 1. Legal Proceedings 
+  Information regarding legal proceedings is set forth in Note 14 in Item 1 of Part I of this Form 10-Q, which information is hereby incorporated by reference herein. 
+   
+  Item 1A. Risk Factors 
+  There have been no material changes in our Risk Factors as set forth in Item 1A of our Annual Report on Form 10-K for the fiscal year ended   December 31, 2015  . 
+   
+  Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+  On   September 30, 2016  , we issued 1,623 deferred common stock equivalents, or units, pursuant to provisions regarding dividends under the Amended and Restated Director Fee Plan to four non-employee directors and one estate of a former director. We did not receive any monetary consideration for the issuances. These issuances were unregistered because they did not constitute a  sale  within the meaning of Section 2(3) of the Securities Act of 1933, as amended. 
+  The following table summarizes our share repurchases during the three months ended   September 30, 2016  : 
+
+Item 6. Exhibits 
+                 12.1 
+    Ratio of earnings to fixed charges for the three and nine months ended September 30, 2016 and 2015. 
+      31.1 
+    Certification of Thomas L. Ryan as Principal Executive Officer in satisfaction of Section 302 of the Sarbanes-Oxley Act of 2002. 
+      31.2 
+    Certification of Eric D. Tanzberger as Principal Financial Officer in satisfaction of Section 302 of the Sarbanes-Oxley Act of 2002. 
+      32.1 
+    Certification of Periodic Financial Reports by Thomas L. Ryan as Principal Executive Officer in satisfaction of Section 906 of the Sarbanes-Oxley Act of 2002. 
+      32.2 
+    Certification of Periodic Financial Reports by Eric D. Tanzberger as Principal Financial Officer in satisfaction of Section 906 of the Sarbanes-Oxley Act of 2002. 
+      101 
+    Interactive data file. 
+
+53 
+
+Table of Contents  
+
+SIGNATURE 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+                   October 27, 2016 
+      
+    SERVICE CORPORATION INTERNATIONAL 
+        
+    By: 
+    /s/ Tammy Moore 
+
+Tammy Moore 
+
+Vice President and Corporate Controller 
+  (Principal Accounting Officer) 
+
+54 
+
+<EX-12.1>
+ 2
+ sci-2016930xex121.htm
+ EXHIBIT 12.1
+
+Exhibit 
+
+Exhibit 12.1 
+    
+  SERVICE CORPORATION INTERNATIONAL 
+  RATIO OF EARNINGS TO FIXED CHARGES 
+  (In thousands, except ratio amounts) 
+
+</EX-12.1>
+
+<EX-31.1>
+ 3
+ sci-2016930xex311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  Service Corporation International 
+  a Texas corporation 
+  CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+  Section 302 Certification 
+    
+  I, Thomas L. Ryan, certify that: 
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Service Corporation International, a Texas corporation (the  registrant  
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a) 
+    designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           b) 
+    designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           c) 
+    evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d) 
+    disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+       
+           5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+       
+           a) 
+    all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize, and report financial information; and 
+       
+           b) 
+    any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+       
+                   Date: 
+    October 27, 2016 
+    /s/ Thomas L. Ryan   
+
+Thomas L. Ryan Chairman of the Board and Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ sci-2016930xex312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  Service Corporation International 
+  a Texas corporation 
+  CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+  Section 302 Certification 
+    
+  I, Eric D. Tanzberger, certify that: 
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Service Corporation International, a Texas corporation (the  registrant  
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a) 
+    designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           b) 
+    designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           c) 
+    evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d) 
+    disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+       
+           5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+       
+           a) 
+    all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize, and report financial information; and 
+       
+           b) 
+    any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+       
+                   Date: 
+    October 27, 2016 
+    /s/ Eric D. Tanzberger 
+
+Eric D. Tanzberger 
+
+Chief Financial Officer and Treasurer 
+  (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ sci-2016930xex321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+  Certification of Chief Executive Officer 
+  I, Thomas L. Ryan, of Service Corporation International, certify, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+    
+           (1) 
+    the Quarterly Report on Form 10-Q for the quarterly period ended   September 30, 2016   (the  Periodic Report ) which this statement accompanies fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+              (2) 
+    the information contained in the Periodic Report fairly presents, in all material respects, the financial condition and results of operations of Service Corporation International. 
+       
+                   Dated: 
+    October 27, 2016 
+    /s/ Thomas L. Ryan   
+
+Thomas L. Ryan Chairman of the Board and Chief Executive Officer (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ sci-2016930xex322.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+  Certification of Chief Financial Officer 
+  I, Eric D. Tanzberger, of Service Corporation International, certify, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+    
+           (1) 
+    the Quarterly Report on Form 10-Q for the quarterly period ended   September 30, 2016   (the  Periodic Report ) which this statement accompanies fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+              (2) 
+    the information contained in the Periodic Report fairly presents, in all material respects, the financial condition and results of operations of Service Corporation International. 
+       
+                   Dated: 
+    October 27, 2016 
+    /s/ Eric D. Tanzberger 
+
+Eric D. Tanzberger 
+
+Chief Financial Officer and Treasurer 
+  (Principal Financial Officer)  
+
+</EX-32.2>
+
+<EX-101.INS>
+ 7
+ sci-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ sci-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ sci-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ sci-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ sci-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ sci-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

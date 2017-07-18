@@ -1,0 +1,1027 @@
+<Header>
+<FileStats>
+    <FileName>20161031_10-Q_edgar_data_1527709_0001527709-16-000127_1.txt</FileName>
+    <GrossFileSize>5534757</GrossFileSize>
+    <NetFileSize>139267</NetFileSize>
+    <ASCII_Embedded_Chars>340182</ASCII_Embedded_Chars>
+    <HTML_Chars>1598278</HTML_Chars>
+    <XBRL_Chars>2433553</XBRL_Chars>
+    <XML_Chars>934663</XML_Chars>
+    <N_Tables>25</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001527709-16-000127.hdr.sgml : 20161031
+<ACCEPTANCE-DATETIME>20161031172147
+ACCESSION NUMBER:		0001527709-16-000127
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		69
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161031
+DATE AS OF CHANGE:		20161031
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Mid-Con Energy Partners, LP
+		CENTRAL INDEX KEY:			0001527709
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				452842469
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35374
+		FILM NUMBER:		161962554
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2431 E. 61ST STREET
+		STREET 2:		SUITE 850
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74136
+		BUSINESS PHONE:		918-743-7575
+
+	MAIL ADDRESS:	
+		STREET 1:		2431 E. 61ST STREET
+		STREET 2:		SUITE 850
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74136
+
+</SEC-Header>
+</Header>
+
+ 0001527709-16-000127.txt : 20161031
+
+10-Q
+ 1
+ mcep0930201610-q.htm
+ 10-Q
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+  FORM 10-Q 
+
+For the quarterly period ended   September 30, 2016    
+  OR 
+
+Commission File No.: 1-35374 
+  Mid-Con Energy Partners, LP 
+  (Exact name of registrant as specified in its charter  ) 
+    
+                   Delaware 
+      
+    45-2842469 
+      (State or other jurisdiction of 
+  incorporation or organization) 
+      
+    (I.R.S. Employer 
+  Identification Number) 
+
+2431 East 61st Street, Suite 850 
+  Tulsa, Oklahoma 74136 
+  (Address of principal executive offices and zip code) 
+  (918) 743-7575 
+  (Registrant s telephone number, including area code) 
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.    Yes    x     No      
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes    x      No      
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of "large accelerated filer," "accelerated filer" and "smaller reporting company" in Rule 12b-2 of the Exchange Act. (Check one): 
+    
+                           Large accelerated filer 
+
+Accelerated filer 
+      
+    x 
+
+Non-accelerated filer 
+      
+    o    (Do not check if a smaller reporting company) 
+       
+    Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).    Yes           No    x 
+  As of   October 31, 2016  , the registrant had 29,912,230 limited partner units and   360,000   general partner units outstanding.                 
+
+TABLE OF CONTENTS 
+   PART I  
+  FINANCIAL INFORMATION 
+    
+                  Forward-Looking Statements  
+    3 
+       ITEM 1. FINANCIAL STATEMENTS  
+      
+       Unaudited Condensed Consolidated Balance Sheets  
+    5 
+       Unaudited Condensed Consolidated Statements of Operations  
+    6 
+       Unaudited Condensed Consolidated Statements of Cash Flows  
+    7 
+       Unaudited Condensed Consolidated Statements of Changes in Equity  
+    8 
+       Notes to Unaudited Condensed Consolidated Financial Statements  
+    9 
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS  
+    24 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+    33 
+       ITEM 4. CONTROLS AND PROCEDURES  
+    34 
+
+PART II  
+      OTHER INFORMATION 
+
+ITEM 1. LEGAL PROCEEDINGS  
+    35 
+       ITEM 1A. RISK FACTORS  
+    35 
+       ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS  
+    36 
+       ITEM 3. DEFAULTS UPON SENIOR SECURITIES  
+    36 
+       ITEM 4. MINE SAFETY DISCLOSURES  
+    36 
+       ITEM 5. OTHER INFORMATION  
+    36 
+       ITEM 6. EXHIBITS  
+    36 
+
+Signature  
+    39 
+
+2 
+
+FORWARD-LOOKING STATEMENTS 
+  This Quarterly Report on Form 10-Q ("Form 10-Q") contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (each a "forward-looking statement"). These forward-looking statements are subject to a number of risks and uncertainties, many of which are beyond our control, which may include statements about our: 
+
+business strategies; 
+                
+    volatility or continued low or further declining commodity prices; 
+                
+    future financial and operating results; 
+                
+    our ability to pay distributions; 
+                
+    ability to replace the reserves we produce through acquisitions and the development of our properties; 
+                
+    revisions to oil and natural gas reserves estimates as a result of changes in commodity prices;  
+                
+    future capital requirements and availability of financing; 
+                
+    technology; 
+                
+    realized oil and natural gas prices; 
+                
+    production volumes; 
+                
+    lease operating expenses; 
+                
+    general and administrative expenses; 
+                
+    cash flow and liquidity; 
+                
+    availability of production equipment; 
+                
+    availability of oil field labor; 
+                
+    capital expenditures; 
+                
+    availability and terms of capital; 
+                
+    marketing of oil and natural gas; 
+                
+    general economic conditions; 
+                
+    competition in the oil and natural gas industry; 
+                
+    effectiveness of risk management activities; 
+                
+    environmental liabilities; 
+                
+    counterparty credit risk; 
+                
+    governmental regulation and taxation;  
+                
+    developments in oil producing and natural gas producing countries; and 
+                
+    plans, objectives, expectations and intentions. 
+     All of these types of statements, other than statements of historical fact included in this Form 10-Q, are forward-looking statements. These forward-looking statements may be found in Item 1. "Financial Statements," Item 2. "Management s Discussion and Analysis of Financial Condition and Results of Operations" and other items within this Form 10-Q. In some 
+  cases, forward-looking statements can be identified by terminology such as "may," "will," "could," "should," "expect," "plan," "project," "intend," "anticipate," "believe," "estimate," "predict," "potential," "pursue," "target," "continue," "goal," "forecast," "guidance," "might," "scheduled" and the negative of such terms or other comparable terminology. 
+  The forward-looking statements contained in this Form 10-Q are largely based on our expectations, which include estimates and assumptions made by our management. These estimates and assumptions reflect our best judgment based on currently known market conditions and other factors. Although we believe such estimates and assumptions to be reasonable, they are inherently uncertain and involve a number of risks and uncertainties that are beyond our control. In addition, management s assumptions about future events may prove to be inaccurate. All readers are cautioned that the forward-looking  
+  
+   3 
+
+statements contained in this Form 10-Q are not guarantees of future performance and we cannot assure any reader that such statements will be realized or that the forward-looking events will occur. Actual results may differ materially from those anticipated or implied in the forward-looking statements due to factors described in the "Risk Factors" section included in Item 1A. of our Annual Report on Form 10-K for the year ended   December 31, 2015   ("Annual Report") and Item 1A. in this form 10-Q. This document is available through our website   www.midconenergypartners.com   or through the Securities and Exchange Commission s ("SEC") Electronic Data Gathering and Analysis Retrieval System at   www.sec.gov  . All forward-looking statements speak only as of the date made, and other than as required by law, we do not intend to update or revise any forward-looking statements as a result of new information, future events or otherwise. These cautionary statements qualify all forward-looking statements attributable to us or persons acting on our behalf. 
+  INFORMATION AVAILABLE ON OUR WEBSITE 
+  We make available, free of charge on our website (  www.midconenergypartners.com  ), copies of our Annual Reports, Form 10-Qs, Current Reports on Form 8-K, amendments to those reports filed or furnished to the SEC pursuant to Section 13(a) or 15(d) of the Exchange Act and reports of holdings of our securities filed by our officers and directors under Section 16 of the Exchange Act as soon as reasonably practicable after filing such material electronically or otherwise furnishing it to the SEC. Copies of our Code of Business Conduct and the written charter of our Audit Committee are also available on our website and we will provide copies of these documents upon request. Our website and any contents thereof are not incorporated by reference into this report. 
+  We also make available on our website the Interactive Data Files required to be submitted and posted pursuant to Rule 405 of Regulation S-T. 
+  
+   4 
+
+PART I 
+  FINANCIAL INFORMATION 
+   
+  ITEM 1. FINANCIAL STATEMENTS 
+   
+  Mid-Con Energy Partners, LP and subsidiaries 
+  Condensed Consolidated Balance Sheets 
+  (in thousands, except number of units) 
+  (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements 
+  
+   5 
+
+Mid-Con Energy Partners, LP and subsidiaries 
+  Condensed Consolidated Statements of Operations 
+  (in thousands, except per unit data) 
+  (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements 
+
+6 
+
+Mid-Con Energy Partners, LP and subsidiaries 
+  Condensed Consolidated Statements of Cash Flows 
+  (in thousands) 
+  (Unaudited)    
+
+  See accompanying notes to condensed consolidated financial statements 
+  
+   7 
+
+Mid-Con Energy Partners, LP and subsidiaries 
+  Condensed Consolidated Statements of Changes in Equity 
+  (in thousands) 
+  (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements 
+
+8 
+
+Mid-Con Energy Partners, LP and subsidiaries 
+  Notes to Unaudited Condensed Consolidated Financial Statements 
+   
+  Note 1. Organization and Nature of Operations 
+  Nature of Operations 
+  Mid-Con Energy Partners, LP ("we," "our," "us," the "Partnership," the "Company") is a publicly held Delaware limited partnership formed in July 2011 that engages in the ownership, acquisition, exploitation and development of producing oil and natural gas properties in North America, with a focus on enhanced oil recovery ("EOR"). Our limited partner units ("common units") are traded on the National Association of Securities Dealers Automated Quotation System Global Select Market ("NASDAQ") under the symbol "MCEP." Our general partner is Mid-Con Energy GP, LLC, a Delaware limited liability company.  
+  Basis of Presentation 
+  Our unaudited condensed consolidated financial statements included herein have been prepared pursuant to the rules and regulations of the SEC. These financial statements have not been audited by our independent registered public accounting firm, except that the condensed consolidated balance sheet at   December 31, 2015   is derived from the audited financial statements. Accordingly, certain information and footnote disclosures normally included in the financial statements prepared in accordance with accounting principles generally accepted in the United States of America ("GAAP") have been condensed or omitted in this Form 10-Q. We believe that the presentations and disclosures herein are adequate to make the information not misleading.  
+  The unaudited condensed consolidated financial statements reflect all adjustments (consisting of normal recurring adjustments) necessary for a fair presentation of the interim periods. The results of operations for the interim periods are not necessarily indicative of the results of operations to be expected for the full year. These interim financial statements should be read in conjunction with our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+  All intercompany transactions and account balances have been eliminated.  
+  Reclassifications 
+  The consolidated statements of income for previous periods include certain reclassifications to the other income (expense) accounts that were made to conform to current presentation. Such reclassifications have no impact on previously reported net income (loss). 
+  Non-cash Investing, Financing and Supplemental Cash Flow Information 
+  The following presents the non-cash investing, financing and supplemental cash flow information for the periods presented:                           
+    Nine Months Ended   September 30, 
+        
+    2016 
+      
+    2015 
+        
+    (in thousands) 
+      Non-cash investing information: 
+
+Change in accrued capital expenditures-oil and natural gas properties 
+    513 
+
+619 
+      
+      Change in accrued capital expenditures-other property and equipment 
+    (14 
+    ) 
+
+Tenant improvement allowance deferred-other property and equipment 
+    (124 
+    ) 
+
+Change in accrued receivable-acquisition post-close adjustment 
+    419 
+
+Change in accrued receivable-divestiture post-close adjustment 
+    354 
+
+Non-cash financing information: 
+
+Change in accrued capital expenditures-offering costs 
+    (302 
+    ) 
+
+Supplemental cash flow information: 
+
+Cash paid for interest 
+    5,063 
+
+4,606 
+
+9 
+
+Liquidity and Capital Resources 
+  Our ability to finance our operations, fund our capital expenditures and acquisitions, meet or refinance our debt obligations and meet our collateral requirements will depend on our future cash flows. Our ability to generate cash is subject to a number of factors, some of which are beyond our control, including weather, oil and natural gas prices, operating costs and maintenance capital expenditures, as well as general economic, financial, competitive, legislative, regulatory and other factors. Historically, our primary use of cash has been for debt reduction and to fund capital spending and distributions. 
+  Oil prices fell to 13-year lows during 2016, impacting the way we conduct business. We have implemented a number of adjustments to strengthen our financial position. In January 2015, we restructured a significant portion of our hedge portfolio to limit downside and volatility due to the then prevailing commodity price environment. We have since then entered into additional oil commodity derivative contracts covering a portion of our anticipated oil production through 2019. In the third quarter of 2015, we indefinitely suspended our quarterly cash distributions on common units. We are also aggressively pursuing cost reductions to improve profitability and maximize cash flows. Our primary cost reduction initiatives encompass periodic economic review of each well within our portfolio along with ongoing scrutiny of lease operating expenses and general and administrative expenses.  
+  Our liquidity position at September 30, 2016 consisted of approximately   $2.1 million   of available cash and   $12.1 million   of available borrowings under our revolving credit facility (  $140.0 million   borrowing base less   $127.9 million   of outstanding borrowings). Our borrowing base is redetermined in the spring and fall of each year.  
+  In conjunction with closing the Permian Bolt-On acquisition during the third quarter of 2016, we completed a non-scheduled borrowing base redetermination and executed Amendment No. 10 to the credit agreement on August 11, 2016. As such, our senior lenders unanimously agreed to increase the conforming borrowing base of our revolving credit facility to   $140.0 million  . See Note 7 in this section for additional information regarding our credit facility. 
+   Based on our cash balance, forecasted cash flows from operating activities and availability under our revolving credit facility, we expect to be able to fund our planned capital expenditures budget, meet our debt service requirements and fund our other commitments and obligations. Although we currently expect our sources of cash to be sufficient to meet our near-term liquidity needs, there can be no assurance that our liquidity requirements will continue to be satisfied given current oil prices and the discretion of our lenders to decrease our borrowing base. Due to the volatility of commodity prices, we may not be able to obtain funding in the equity or capital markets on terms we find acceptable. The cost of obtaining money from the credit markets generally has increased as many lenders and institutional investors have increased interest rates, enacted tighter lending standards and reduced and, in some cases, ceased to provide any new funding.  
+
+Note 2. Acquisitions and Divestitures 
+    
+  Permian Bolt-On Acquisition  
+    
+  On August 11, 2016, we acquired multiple oil and natural gas properties located in Nolan County, Texas ("Permian Bolt-On") for an aggregate purchase price of approximately   $18.7 million  , after estimated post-closing purchase price adjustments. The Permian Bolt-On acquisition was accounted for under the acquisition method of accounting. The assets acquired and liabilities assumed in the acquisition were recorded in our unaudited condensed consolidated balance sheets at their estimated fair values as of the acquisition date using assumptions that represent Level 3 fair value measurement inputs. See Note 5 in this section for additional discussion of our fair value measurements. Results of operations attributable to the acquisition subsequent to the closing were included in our unaudited condensed consolidated statements of operations. The transaction was funded by a private offering of   $25.0 million   Class A Convertible Preferred Units ("Preferred Units"). See Note 9 in this section for additional information regarding the issuance of Preferred Units. The recognized fair values of the assets acquired and liabilities assumed are as follows (in thousands): 
+
+10 
+
+Hugoton Divestiture  
+  On July 28, 2016, we sold our properties located in the Hugoton Basin for proceeds of approximately   $17.9 million  , prior to post-closing adjustments, and recognized a loss of approximately   $0.5 million   which is included as "Loss on sales of oil and natural gas properties, net" in our unaudited condensed consolidated statements of operations.  
+  The following table presents revenues and expenses of the oil and natural gas properties sold included in the accompanying unaudited condensed consolidated statements of operations for the periods presented: 
+
+(1)    Expenses include lease operating expenses, production taxes, accretion, depletion and impairment expenses. 
+
+Note 3. Equity Awards 
+  We have a long-term incentive program (the "Long-Term Incentive Program") for employees, officers, consultants and directors of our general partner and its affiliates, including Mid-Con Energy Operating, LLC ("Mid-Con Energy Operating") and ME3 Oilfield Service, LLC ("ME3 Oilfield Service"), who perform services for us. The Long-Term Incentive Program allows for the award of unit options, unit appreciation rights, unrestricted units, restricted units, phantom units, distribution equivalent rights granted with phantom units and other types of awards. The Long-Term Incentive Program is administered by the members of our general partner (the "Founders") and approved by the Board of Directors of the general partner. If an employee terminates employment prior to the restriction lapse date, the awarded units are forfeited and canceled and are no longer considered issued and outstanding.  
+  On November 20, 2015, the Board of Directors of the general partner approved an amendment to the Long-Term Incentive Program that increased the number of common units available for issuance from   1,764,000   to   3,514,000  .  
+  The following table shows the number of existing awards and awards available under the Long-Term Incentive Program at   September 30, 2016  : 
+
+We recognized   $0.3 million   and   $1.0 million   of total equity-based compensation expense for the three and nine months ended September 30, 2016, respectively, and we recognized   $0.6 million   and   $3.0 million   of total equity-based compensation expense for the three and nine months ended September 30, 2015, respectively. These costs are reported as a component of general and administrative expense in our unaudited condensed consolidated statements of operations.   
+  Unrestricted unit awards 
+  We account for unrestricted awards as equity awards since they are settled by issuing common units. During the nine months ended September 30, 2016, we granted   73,932   unrestricted units with an average grant date fair value of   $1.20   per unit. During the nine months ended September 30, 2015, we granted   274,550   unrestricted units with an average grant date fair value of   $4.85   per unit. 
+
+11 
+
+Restricted unit awards 
+  We account for restricted awards as equity awards since they will be settled by issuing common units. These units vest over a   two   or   three   year period. The compensation expense we recognize associated with our restricted units is net of estimated forfeitures. We estimate our forfeiture rate based on prior experience and adjust it as circumstances warrant. We did not issue any restricted units during the nine months ended September 30, 2016. During the nine months ended September 30, 2015, we granted   268,000   restricted units with one-third vesting immediately and the other two-thirds vesting over   two   years, and   26,100   restricted units with a   three   year vesting period.  
+  A summary of our restricted unit awards for the nine months ended   September 30, 2016   is presented below: 
+
+As of   September 30, 2016  , there were approximately   $0.3   million of unrecognized compensation costs related to non-vested restricted units. The cost is expected to be recognized over a weighted average period of approximately   eight months  .  
+  Equity-settled phantom unit awards 
+  We account for equity-settled phantom awards as equity awards since they will be settled by issuing common units. These units vest over a   two   or   three   year period and do not have any rights or privileges of a common unitholder, including right to distributions, until vesting and the resulting conversion into common units. The compensation expense we recognize associated with our equity-settled phantom units is net of estimated forfeitures. We estimate our forfeiture rate based on prior experience and adjust it as circumstances warrant. During the nine months ended September 30, 2016, we granted   347,500   equity-settled phantom awards with   one-third   vesting immediately and the other   two-thirds   vesting over   two   years and   27,000   equity-settled phantom awards with a   three   year vesting period. During the nine months ended September 30, 2015, we granted   69,000   equity-settled phantom units with one-third vesting immediately and the other two-thirds vesting over two years and   46,500   equity-settled phantom units with a three year vesting period. 
+  A summary of our equity-settled phantom unit awards for the nine months ended September 30, 2016 is presented below: 
+
+As of   September 30, 2016  , there were approximately   $0.4   million of unrecognized compensation costs related to equity-settled phantom units. The cost is expected to be recognized over a weighted average period of approximately   one year, nine months  . 
+   
+  Note 4. Derivative Financial Instruments 
+  Our risk management program is intended to reduce our exposure to commodity price volatility and to assist with stabilizing cash flows. Accordingly, we utilize commodity derivative contracts (swaps, calls, puts and collars) to manage a portion of our exposure to commodity prices and specific delivery points. The commodity derivative contracts that we have entered into generally have the effect of providing us with a fixed price or a floor for a portion of our expected future oil production over a fixed period of time. We enter into commodity derivative contracts or modify our portfolio of existing  
+  
+   12 
+
+commodity derivative contracts when we believe market conditions or other circumstances suggest that it is prudent to do so, or as required by our lenders. These are presented as derivative financial instruments on our unaudited condensed consolidated financial statements. We account for our commodity derivative contracts at fair value. See Note 5 in this section for a description of our fair value measurements. 
+  At September 30, 2016, our derivative contracts were in a net liability position with a fair value of approximately   $2.9   million. At December 31, 2015, our derivative contracts were in a net asset position with a fair value of approximately   $25.6   million. All of our commodity derivative contracts are with major financial institutions that are also members of our banking group. Should one of these financial counterparties not perform, we may not realize the benefit of some of our commodity derivative contracts under lower commodity prices and we could incur a loss. As of September 30, 2016, all of our counterparties have performed pursuant to their commodity derivative contracts. 
+  At September 30, 2016 and December 31, 2015, our commodity derivative contracts had maturities that extended through December 2018 and December 2017, respectively, and were comprised of commodity price swap, call, put and collar contracts.  
+  For commodity price swap contracts, at the time of execution the seller agrees to receive a fixed price at maturity in exchange for any gains or losses that might be realized from allowing the price of the underlying commodity to float with the market until maturity. From the perspective of the seller, these instruments limit exposure to price declines below the price fixed by the swap at the expense of participating in any price increases above the price fixed by the swap.   
+  For commodity price call contracts, in return for a premium received, which can be effected at either execution or settlement, the seller is obliged to pay the difference, when positive, between the market price of the underlying commodity at maturity and the strike price. From the perspective of the seller, these instruments provide income via the premium received at the expense of any incremental gains that would have otherwise been received above the strike price.   
+  For commodity price put contracts, in return for a premium paid, which can be effected at either execution or settlement, the purchaser has the right to receive the difference, when positive, between the strike price and the market price of the underlying commodity at maturity. From the perspective of the purchaser, these instruments limit exposure to price declines below the strike price at the expense of premiums paid. 
+   For commodity price collar contracts, a collar is the combination of a put purchased or sold by a party and a call option sold or purchased by the same party. The collar is defined as costless when the value of the option purchased is approximately offset by the value of the option sold. 
+  We do not designate derivatives as hedges for accounting purposes; therefore, the mark-to-market adjustment reflecting the change in the fair value of our commodity derivative contracts is recorded in current period earnings. When prices for oil are volatile, a significant portion of the effect of our hedging activities consists of non-cash gains or losses due to changes in the fair value of our commodity derivative contracts. In addition to mark-to-market adjustments, gains or losses arise from net payments made or received on monthly settlements, proceeds or payments for termination of contracts prior to their expiration and premiums paid or received for new contracts. Any deferred premiums are recorded as a liability and recognized in earnings as the related contracts mature. Gains and losses on derivatives are included in cash flows from operating activities. Pursuant to the accounting standard that permits netting of assets and liabilities where the right of offset exists, we present the fair value of commodity derivative contracts on a net basis. 
+  At   September 30, 2016  , we had the following oil derivatives net positions: 
+
+13 
+
+At December 31, 2015, we had the following oil derivatives net positions:   
+
+  During the first quarter of 2015, we restructured a significant portion of our existing commodity derivative contracts that were in place at December 31, 2014 and entered into new commodity derivative contracts which extended through September 2016. In connection with the early termination of our commodity derivative contracts, we received net proceeds of approximately   $11.1   million. We received approximately   $5.9   million from selling calls and paid approximately   $19.8   million in premiums to extend the contracts through September 2016. The restructuring also resulted in approximately   $4.1   million of deferred premium put options. As of September 30, 2016, all deferred premiums related to these restructured contracts have been paid. 
+  In connection with the fall 2015 semi-annual redetermination of our borrowing base, we entered into additional commodity derivative contracts resulting in total commodity derivative contracts covering at least   80%   of our 2016 projected monthly production and at least   50%   of our 2017 projected monthly production, calculated based on Proved Developed Producing reserves. No cash settlements were required and the contracts included deferred premiums of approximately   $7.8   million that will be paid through December 2017. As of September 30, 2016, we had paid approximately   $1.6 million   of the deferred premiums in connection with these contract settlements.  
+  In connection with the spring 2016 semi-annual redetermination of our borrowing base, we unwound and early terminated existing hedges covering production from July 2016 through September 2016 and entered into new commodity derivative contracts which extend through June 2018. In connection with the early termination of our commodity derivative contracts, we received proceeds of approximately   $5.8 million   and paid related deferred premiums of approximately   $1.5 million  . 
+  In connection with the non-scheduled redetermination of our borrowing base and Amendment No.10 to our credit agreement executed in August 2016, we entered into new commodity derivative contracts covering at least   75%   of our 2017 projected monthly production and at least   50%   of our 2018 projected monthly production, calculated based on Proved Developed Producing reserves. The new contracts extend through December 2018. No cash settlements were required and the contracts included deferred premiums of approximately   $0.4 million   that will be paid through December 2018. 
+  The following tables summarize the gross fair value by the appropriate balance sheet classification, even when the derivative financial instruments are subject to netting arrangements and qualify for net presentation in our unaudited condensed consolidated balance sheets at   September 30, 2016   and December 31, 2015: 
+  
+   14 
+
+The following table presents the impact of derivative financial instruments and their location within the unaudited condensed consolidated statements of operations: 
+
+15 
+
+Note 5. Fair Value Disclosures 
+  Fair Value of Financial Instruments 
+  The carrying amounts reported in our unaudited condensed consolidated balance sheets for cash, accounts receivable and accounts payable approximate their fair values. The carrying amount of debt under our revolving credit facility approximates fair value because the revolving credit facility s variable interest rate resets frequently and approximates current market rates available to us. We account for our commodity derivative contracts at fair value as discussed in "Assets and Liabilities Measures at Fair Value on a Recurring Basis" below. 
+  Fair Value Measurements 
+  Fair value is the price that would be received upon the sale of an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. GAAP establishes a three-tier fair value hierarchy that is intended to increase consistency and comparability in fair value measurements and related disclosures. The hierarchy gives the highest priority to quoted prices in active markets for identical assets or liabilities (Level 1) and the lowest priority to unobservable inputs (Level 3). 
+  Assets and liabilities recorded in the balance sheet are categorized based on the inputs to the valuation technique as follows: 
+  Level 1   Financial assets and liabilities for which values are based on unadjusted quoted prices for identical assets or liabilities in an active market that management has the ability to access. We consider active markets to be those in which transactions for the assets or liabilities occur in sufficient frequency and volume to provide pricing information on an on-going basis. 
+  Level 2   Financial assets and liabilities for which values are based on quoted prices in markets that are not active or model inputs that are observable either directly or indirectly for substantially the full term of the asset or liability. Level 2 instruments primarily include swap, call and put contracts.  
+  Level 3   Financial assets and liabilities for which values are based on prices or valuation techniques that require inputs that are both unobservable and significant to the overall fair value measurement. These inputs reflect management s own assumptions about the assumptions a market participant would use in pricing the asset or liability. 
+  When the inputs used to measure fair value fall within different levels of the hierarchy in a liquid environment, the level within which the fair value measurement is categorized is based on the lowest level input that is significant to the fair value measurement in its entirety. Changes in the observability of valuation inputs may result in a reclassification for certain financial assets or liabilities. We had no transfers in or out of Levels 1, 2 or 3 at September 30, 2016 and December 31, 2015.  
+  Our estimates of fair value have been determined at discrete points in time based on relevant market data. These estimates involve uncertainty and cannot be determined with precision. There were no changes in valuation techniques or related inputs for the nine months ended September 30, 2016 and for the year ended December 31, 2015. 
+  Assets and Liabilities Measured at Fair Value on a Recurring Basis 
+  We account for commodity derivative contracts and their corresponding deferred premiums at fair value on a recurring basis utilizing certain pricing models. Inputs to the pricing models include publicly available prices from a compilation of data gathered from third parties and brokers. We validate the data provided by third parties by understanding the pricing models used, obtaining market values from other pricing sources, analyzing pricing data in certain situations and confirming that those securities trade in active markets. See Note 4 in this section for a summary of our derivative financial instruments.  
+  Assets and Liabilities Measured at Fair Value on a Non-recurring Basis 
+  We estimate the fair value of our Asset Retirement Obligations ("ARO") based on discounted cash flow projections using numerous estimates, assumptions and judgments regarding such factors as the existence of a legal obligation for ARO, amounts and timing of settlements, the credit-adjusted risk-free rate to be used and inflation rates. See Note 6 in this section for a summary of changes in ARO.  
+  The estimated fair values of proved oil and natural gas properties assumed in business combinations are based on a discounted cash flow model and market assumptions as to future commodity prices, projections of estimated quantities of oil and natural gas reserves, expectations for timing and amount of future development and operating costs, projections of future rates of production, expected recovery rates and risk-adjusted discount rates. The estimated fair values of unevaluated oil and  
+  
+   16 
+
+natural gas properties were based on geological studies, historical well performance, location and applicable mineral lease terms. Based on the unobservable nature of certain of the inputs, the estimated fair value of the oil and natural gas properties assumed is deemed to use Level 3 inputs. See Note 2 in this section for further discussion of the Partnership's acquisitions. 
+  We calculate the estimated fair values of reserves and properties using valuation techniques consistent with the income approach, converting future cash flows to a single discounted amount. Significant inputs used to determine the fair values of proved properties include estimates of: (i) reserves; (ii) future operating and developmental costs; (iii) future commodity prices; (iv) a market-based weighted average cost of capital rate; and (v) the rate at which future cash flows are discounted to estimate present value. We discount future values by a per annum rate of   10%   because we believe this amount approximates our long-term cost of capital and accordingly, is well aligned with our internal business decisions. The underlying commodity prices embedded in our estimated cash flows are the product of a process that begins with Level 1 NYMEX-WTI forward curve pricing, as well as Level 3 assumptions including: pricing adjustments for estimated location and quality differentials, production costs, capital expenditures, production volumes, decline rates and estimated reserves. The need to test an asset for impairment may result from significant declines in sales prices or downward revisions in estimated quantities of oil and natural gas reserves. If the carrying value of the long-lived assets exceeds the sum of estimated undiscounted future net cash flows, an impairment loss is recognized for the difference between the estimated fair value and the carrying value of the assets. There were no impairment charges for the three months ended September 30, 2016. During the nine months ended September 30, 2016, we recorded a non-cash impairment charge of approximately   $0.9   million resulting from a revision of reserve estimates for a property in our Permian core area. The impairment is included in "Impairment of proved oil and natural gas properties" in our unaudited condensed consolidated statements of operations. During the nine months ended September 30, 2016, we recorded a non-cash impairment charge of approximately   $3.6 million   related to the Hugoton core area divestiture to reduce the carrying amount of those assets to their fair value. These assets and liabilities were deemed to meet held-for-sale accounting criteria as of June 30, 2016, accordingly, the impairment is included in "Impairment of proved oil and natural gas properties sold" in our unaudited condensed consolidated statements of operations. During the three and nine months ended September 30, 2015, we recorded a non-cash impairment charge of approximately   $40.9   million due to a decline in commodity prices and to a lesser degree, reduced reserve estimates. The impairment charges are included in  Impairment of proved oil and natural gas properties" in our unaudited condensed consolidated statements of operations. 
+    
+  The following sets forth, by level within the hierarchy, the fair value of our assets and liabilities measured at fair value as of   September 30, 2016   and   December 31, 2015  : 
+
+17 
+
+A summary of the changes in Level 3 fair value measurements for the periods presented are as follows: 
+
+Note 6.  Asset Retirement Obligations 
+  We have obligations under our lease agreements and federal regulations to remove equipment and restore land at the end of oil and natural gas production operations. These ARO are primarily associated with plugging and abandoning wells. We typically incur this liability upon acquiring or drilling a well and determine our ARO by calculating the present value of estimated cash flow related to the estimated future liability. Determining the removal and future restoration obligation requires management to make estimates and judgments, including the ultimate settlement amounts, inflation factors, credit adjusted risk-free rates, timing of settlement and changes in the legal, regulatory, environmental and political environments. We are required to record the fair value of a liability for the ARO in the period in which it is incurred with a corresponding increase in the carrying amount of the related long-lived asset. We review our assumptions and estimates of future asset retirement obligations on an annual basis, or more frequently, if an event or circumstances occur that would impact our assumptions. To the extent future revisions to these assumptions impact the present value of the abandonment liability, management will make corresponding adjustments to both the ARO and the related oil and natural gas property asset balance. Over time, the liability is accreted each period toward its future value and is recorded in our unaudited condensed consolidated statements of operations. The discounted capitalized cost is amortized to expense through the depreciation calculation over the life of the assets based on proved developed reserves. Upon settlement of the liability, a gain or loss is recognized to the extent the actual costs differ from the recorded liability.  
+  As of   September 30, 2016   and   December 31, 2015  , our ARO were reported as "Asset retirement obligations" in our unaudited condensed consolidated balance sheets. Changes in our ARO for the periods indicated are presented in the following table: 
+
+(1)    The revision of estimates that occurred during the year ended December 31, 2015 was primarily due to a change in estimated plugging and abandonment costs based on 2015 settlements. 
+
+18 
+
+Note 7. Debt 
+  A summary of our debt at September 30, 2016 and year ended December 31, 2015 is presented below:   
+
+At September 30, 2016, we had   $127.9 million   of borrowings outstanding under our revolving credit facility that matures in November 2018.  
+  The borrowing base of our revolving credit facility is collectively determined by our lenders based on the value of our proved oil and natural gas reserves using assumptions regarding future prices, costs and other matters that may vary. The borrowing base is subject to scheduled redeterminations in the spring and fall of each year with an additional redetermination, either at our request or at the request of the lender, during the period between each scheduled borrowing base redetermination. An additional borrowing base redetermination may be made at the request of the lenders in connection with a material disposition of our properties or a material liquidation of a hedge contract.  
+  Borrowings under the revolving credit facility bear interest at a floating rate based on, at our election: (i) the greater of the prime rate of the Wells Fargo Bank, National Association, the federal funds effective rate plus   0.50%   and the one month adjusted London Interbank Offered Rate ("LIBOR") plus   1.0%  , all of which are subject to a margin that varies from   1.00%   to   2.75%   per annum according to the borrowing base usage (which is the ratio of outstanding borrowings and letters of credit to the borrowing base then in effect), or (ii) the applicable LIBOR plus a margin that varies from   2.00%   to   3.75%   per annum according to the borrowing base usage. For the three months ended September 30, 2016, the average effective rate was approximately   3.74%  . Any unused portion of the borrowing base will be subject to a commitment fee that varies from   0.375%   to   0.50%   per annum according to the borrowing base usage. 
+  We may use borrowings under the facility for acquiring and developing oil and natural gas properties, for working capital purposes, for general partnership purposes and for funding distributions to our unitholders. The revolving credit facility includes customary affirmative and negative covenants, such as limitations on the creation of new indebtedness and on certain liens, restrictions on certain transactions and payments, including distributions. If we fail to perform our obligations under these and other covenants, the revolving credit commitments may be terminated and any outstanding indebtedness under the credit agreement, together with accrued interest, could be declared immediately due and payable. We were in compliance with these covenants as of and during the nine months ended September 30, 2016. 
+  During February 2015, the revolving credit facility was amended to allow our Consolidated EBITDAX calculation, as defined in section 7.13 of the original revolving credit agreement, to reflect the net cash flows attributable to the restructured commodity derivative contracts that occurred during January 2015 for the periods of the first quarter 2015 through the third quarter of 2016. 
+  During the spring 2015 semi-annual redetermination and amendment to the credit agreement completed in April 2015, the borrowing base under the revolving credit facility was reduced to   $220.0   million from   $240.0   million. No other material terms of the original credit agreement were amended. 
+  During the fall 2015 semi-annual redetermination and amendment to the credit agreement completed in November 2015, the borrowing base under the underlying revolving credit facility was reduced to   $190.0   million from   $220.0 million  , consisting of a   $165.0   million conforming tranche, which required six monthly commitment reductions of   $2.5   million each through May 2016, and a   $25.0   million non-conforming tranche that matured on May 1, 2016. The credit facility amendment also designated Wells Fargo Bank, National Association, as our administrative and collateral agent, replacing Royal Bank of Canada. This redetermination also required that by December 10, 2015 we enter into commodity derivative contracts of not less than   80%   of our 2016 projected monthly production and not less than   50%   of our 2017 projected monthly production, calculated based on Proved Developed Producing reserves at the time of the agreement. These requirements were satisfied during November 2015 with the execution of additional commodity derivative contracts maturing in 2016 and 2017. In connection with this amendment to our revolving credit facility, we incurred financing fees and expenses of approximately   $0.7    
+  
+   19 
+
+million, which will be amortized over the remaining life of the revolving credit facility. Such amortized expenses are recorded as "interest expense" in our unaudited condensed consolidated statements of operations. 
+  During the spring 2016 semi-annual redetermination and amendment to the credit agreement completed in May 2016, the effective borrowing base as of June 1, 2016 was reduced to   $163.0 million   and was comprised of a   $110.0 million   conforming tranche and a permitted overadvance of   $53.0 million  . The permitted overadvance was scheduled to mature on November 1, 2016. In addition, the amendment (i) required the Partnership to provide a monthly excess cash flow report; (ii) required the Partnership to make varied minimum monthly principal payments totaling approximately   $1.9 million   through October 31, 2016; (iii) reduced the conforming borrowing base to   $105.0 million   upon the close of the previously announced Hugoton divestiture; (iv) allowed an additional non-scheduled borrowing base redetermination between September 1, 2016 and November 1, 2016 to be requested by any lender; (v) increased the minimum collateral coverage from   90%   to   95%   of proved reserves (and   100%   of PDP reserves); (vi) required the Partnership to unwind and early terminate existing hedges covering production from July 2016 through September 2016 and add new at-the-market swap contracts to replace these hedge terminations; and (vii) required the net proceeds from the previously announced Hugoton sale and from the early termination of hedge contracts to be applied to debt reduction. 
+  During August 2016, we completed a non-scheduled redetermination and amendment to the credit agreement in conjunction with our Permian Bolt-On acquisition. Among other changes, the amendment to the credit agreement increased the conforming borrowing base of the Partnership s revolving credit facility to   $140.0 million   as of August 11, 2016, modified the definition of  Indebtedness  to exclude the Preferred Units and modified the limitations on restricted payments to specifically provide for the payment of cash distributions on the Preferred Units. The amendment also required that by August 18, 2016, we enter into commodity derivative contracts of not less than   75%   of our 2017 projected monthly production and not less than   50%   of our 2018 projected monthly production, calculated based on Proved Developed Producing reserves at the time of the agreement. These requirements were satisfied with the execution of additional commodity derivative contracts maturing in 2018. The amendment also required that within   30   days we extend our collateral coverage to include the reserves acquired in the Permian Bolt-On acquisition.  
+   
+  Note 8. Commitments and Contingencies 
+  We lease corporate office space in Tulsa, Oklahoma and Abilene, Texas. We are also allocated office rent from Mid-Con Energy Operating. Total lease expenses were approximately   $0.1 million   each for the three months ended September 30, 2016 and 2015, and approximately   $0.3 million   each for the nine months ended September 30, 2016 and 2015, respectively. These expenses are included in general and administrative expenses in our unaudited condensed consolidated statements of operations. 
+  Future minimum lease payments under the non-cancellable operating leases at September 30, 2016 were as follows (in thousands):   
+
+  We are party to a services agreement with Mid-Con Energy Operating pursuant to which Mid-Con Energy Operating provides certain services to us including management, administrative and operational services. Under the services agreement, we reimburse Mid-Con Energy Operating, on a monthly basis, for the allocable expenses it incurs in its performance under the services agreement. See Note 10 in this section for additional information. 
+  Our general partner has entered into employment agreements with the following named employees of our general partner: Jeffrey R. Olmstead, President and Chief Executive Officer, and Charles R. Olmstead, Executive Chairman of the Board. The employment agreements automatically renew for one-year terms unless either we or the employee gives written notice of termination by at least February1st preceding any such August 1st. Pursuant to the employment agreements, each employee will serve in his respective position with our general partner, as set forth above, and has duties, responsibilities and authority as the Board of Directors of our general partner may specify from time to time, in roles consistent with such positions that are assigned to them. The agreement stipulates that if there is a change of control, termination of employment, with cause or  
+  
+   20 
+
+without cause, or death of the executive certain payments will be made to the executive officer. These payments, depending on the reason for termination, currently range from   $0.3   million to   $0.7   million, including the value of vesting of any outstanding units. 
+  We are party to various claims, legal actions and complaints arising in the ordinary course of business. In the opinion of management and our General Counsel, the ultimate resolution of all claims, legal actions and complaints after consideration of amounts accrued, insurance coverage or other indemnification arrangements will not have a material adverse effect on our financial position, results of operations or cash flows. 
+   
+    Note 9. Equity 
+  Common Units 
+  At   September 30, 2016   and   December 31, 2015  , the Partnership s equity consisted of   29,912,230   and   29,724,890   common units, respectively, representing approximately a   98.8%   limited partnership interest in us. 
+  On May 5, 2015, we entered into an Equity Distribution Agreement to sell, from time to time through or to the Managers (as defined in the agreement), up to   $50.0   million in common units representing limited partner interests. In connection with the Class A Convertible Preferred Units agreement described below, the Partnership suspended the Equity Distribution Agreement effective as of the closing date until the fifth anniversary of the closing date of the Preferred Units purchase agreement, or the consent of a majority of the holders of the outstanding Preferred Units.  
+  Class A Convertible Preferred Units 
+  On August 11, 2016, we completed our previously announced private placement of   11,627,906   Class A Convertible Preferred Units for an aggregate offering price of   $25.0 million  . The Preferred Units were issued at a price of   $2.15   per preferred unit (the "Unit Purchase Price"). Proceeds from this issuance were used to fund the Permian Bolt-On acquisition and for general partnership purposes, including the reduction of borrowings under our revolving credit facility.  
+  We will pay holders of the Preferred Units a cumulative, quarterly distribution on all Preferred Units then outstanding (i) in cash at an annual rate of   8.0%  , or (ii) in the event that the Partnership's existing secured indebtedness prevents the payment of a cash distribution to all holders of the Preferred Units, in kind (additional Preferred Units), at an annual rate of   10.0%  . Such distributions will be paid for each such quarter within   45 days   after such quarter end. 
+  At any time after the six-month anniversary and prior to the   five   year anniversary of the closing date, each holder of the Preferred Units shall have the right, subject to certain conditions, to convert all or a portion of their Preferred Units into common units representing limited partner interests in the Partnership on a one-for-one basis, subject to adjustment for splits, subdivisions, combinations and reclassifications of the common units; provided that any holder electing conversion requests the conversion of at least the lesser of (i)   100%   of such holder's remaining Preferred Units or (ii)   $1,000,000   of Preferred Units, based on the Unit Purchase Price. On the fifth anniversary of the closing date of the offering, each holder shall have the right to cause the Partnership to redeem all or any portion of their Preferred Units for cash at the Unit Purchase Price, and any remaining Preferred Units will thereafter be converted to common units on a one-for-one basis, subject to adjustment for splits, reverse splits, subdivisions, combinations and reclassifications of the common units. Upon conversion of Preferred Units, the Partnership will pay any distributions (to the extent accrued and unpaid as of the then most recent Preferred Units distribution date) on the converted units in cash. 
+  Upon a change of control, each holder will have the right, at its election, to either (i) if the Partnership is the surviving entity of such change of control, continue to hold Preferred Units; or (ii) convert all or any portion of the Preferred Units held by such holder into common units on a one-for-one basis, subject to adjustments for splits, reverse splits, subdivisions, combinations and reclassifications. If any Preferred Units remain outstanding following a change of control in which the Partnership is not the surviving entity, then immediately following effectiveness of such change of control, the Partnership shall redeem in cash all, but not less than all, of the outstanding Preferred Units at a price per Preferred Unit equal to the Unit Purchase Price multiplied by the change of control redemption multiple then in effect.  
+  Under the registration rights agreements, we are required to use reasonable best efforts to file, within   90 days   of the closing date, a registration statement registering resales of common units issued or to be issued upon conversion of the Preferred Units and have the registration statement declared effective within   180 days   after the closing date. We are required to use reasonable best efforts to continue to maintain the effectiveness of the registration statement until all securities have been sold or the third anniversary of the effectiveness deadline. In addition, from and after the first anniversary of the closing date, holders of an aggregate of at least   $1,000,000   of Preferred Units (based on the Unit Purchase Price) shall have piggyback registration rights on all Partnership registrations, subject to customary carve backs, and holders of an aggregate of at least  
+  
+   21 
+
+$5,000,000   of Preferred Units (based on the Unit Purchase Price) shall have demand registration rights; provided that the holders shall be entitled to a demand registration right not more frequently that once during any twelve month period.  
+  In the event of any liquidation, dissolution or winding-up of the Partnership, each preferred unit will receive in preference to the holders of all existing classes or series of equity securities of the Partnership a per unit amount equal to the Unit Purchase Price (subject to any customary anti-dilution adjustments), plus all accrued and unpaid distributions on such Preferred Units (the "liquidation preference"). 
+   The Preferred Unit purchase agreement also requires the Partnership to suspend sales of common units pursuant to the Equity Distribution Agreement from the closing date through the fifth anniversary of the closing date and prohibits the Partnership from incurring any indebtedness (other than under the Partnership s existing revolving credit facility and trade accounts payable arising in the ordinary course of business) without the consent of the majority of the holders of the Preferred Units. 
+  We received net proceeds of approximately   $24.7 million   (net of issuance costs of approximately   $0.3 million  ) in connection with the issuance of Preferred Units. We allocated these net proceeds, on a relative fair value basis, to the Preferred Units (approximately   $18.7 million  ) and the beneficial conversion feature (approximately   $6.0 million  ). A beneficial conversion feature is defined as a non-detachable conversion feature that is in the money at the commitment date. Per accounting guidance, we are required to allocate a portion of the proceeds from the Preferred Units to the beneficial conversion feature based on the intrinsic value of the beneficial conversion feature. The intrinsic value is calculated at the commitment date based on the difference between the fair value of the common units at the issuance date (number of common units issuable at conversion multiplied by the per-share value of our common units at the issuance date) and the proceeds attributed to the Preferred Units. We will record the accretion attributed to the beneficial conversion feature as a deemed distribution using the straight line method over the five year period prior to the effective date of the holders conversion right. Accretion of the beneficial conversion feature was approximately   $0.2 million   for the three months ended September 30, 2016.  
+  Our Distributions 
+  Our partnership agreement requires us to distribute all of our available cash on a quarterly basis. Our available cash is our cash on hand at the end of a quarter after the payment of our expenses and the establishment of reserves for future capital expenditures and operational needs, including cash from working capital borrowings. There is no assurance as to the future cash distributions since they are dependent upon our projections for future earnings, cash flows, capital requirements, financial conditions and other factors.  
+  Preferred Unit holders will receive quarterly distributions in cash at an annual rate of   8.0%   or, under certain circumstances, in additional Preferred Units at an annual rate of   10.0%  . The holders of the Preferred Units are entitled to certain rights that are senior to the rights of holders of common units, such as rights to distributions and rights upon liquidation of the Partnership. No payment or distribution on common units for any quarter is permitted prior to the payment in full of the Preferred Units distribution (including any outstanding arrearages). As announced on October 27, 2016, the Board of Directors of the general partner declared a distribution for the period from August 11, 2016 to September 30, 2016 of approximately   $0.3 million   to be paid on November 14, 2016 to holders of record as of the close of business on November 7, 2016.  
+  As of September 30, 2016, cash distributions to our common units continue to be indefinitely suspended. Our credit agreement stipulates written consent from our lenders is required in order to reinstate common unit distributions and also prohibits us from making common unit cash distributions if any potential default or event of default, as defined in the credit agreement, occurs or would result from the cash distribution. Management and the Board of Directors will continue to evaluate, on a quarterly basis, the appropriate level of cash reserves in determining future distributions. The suspension of common unit cash distributions is designed to preserve liquidity and reallocate excess cash flow towards capital expenditure projects and debt reduction to maximize long-term value for our unitholders. 
+  Allocation of Net Income or Loss 
+  Net income or loss, net of distributions on the Preferred Units and amortization of the preferred unit beneficial conversion feature (see Class A Convertible Preferred Units section), is allocated between our general partner and the limited partner unitholders in proportion to their pro rata ownership (exclusive of the Preferred Units limited partnership interest) during the period. The allocation of net income or loss is presented in our unaudited condensed consolidated statements of operations. 
+
+22 
+
+Note 10. Related Party Transactions 
+  Agreements with Affiliates 
+  The following agreements were negotiated among affiliated parties and, consequently, are not the result of arm s length negotiations. The following is a description of those agreements that have been entered into with the affiliates of our general partner and with our general partner.  
+  Services Agreement.   We are party to a services agreement with Mid-Con Energy Operating pursuant to which Mid-Con Energy Operating provides certain services to us, including management, administrative and operational services. The operational services include marketing, geological and engineering services. Under the services agreement, we reimburse Mid-Con Energy Operating, on a monthly basis, for the allocable expenses it incurs in its performance under the services agreement. These expenses include, among other things, salary, bonus, incentive compensation and other amounts paid to persons who perform services for us or on our behalf and other expenses allocated by Mid-Con Energy Operating to us. These expenses are included in general and administrative expenses in our unaudited condensed consolidated statements of operations. 
+  Operating Agreements  . We, various third parties with an ownership interest in the same property and our affiliate, Mid-Con Energy Operating, are party to standard oil and natural gas joint operating agreements, pursuant to which we and those third parties pay Mid-Con Energy Operating overhead charges associated with operating our properties. We and those third parties pay Mid-Con Energy Operating for its direct and indirect expenses that are chargeable to the wells under their respective operating agreements. The majority of these expenses are included in lease operating expenses in our unaudited condensed consolidated statements of operations.  
+  Oilfield Services  . We are party to operating agreements, pursuant to which Mid-Con Energy Operating bills us for oilfield services performed by our affiliate ME3 Oilfield Service. These amounts are either included in lease operating expenses in our unaudited condensed consolidated statements of operations or are capitalized as part of oil and natural gas properties in our unaudited condensed consolidated balance sheets. 
+  The following table summarizes the affiliates' transactions for the periods indicated:      
+
+  At   September 30, 2016   and December 31, 2015, we had net payables to Mid-Con Energy Operating of approximately   $0.1 million   and   $0.5 million  , respectively, which were included in accounts payable-related parties in our unaudited condensed consolidated balance sheets.  
+   
+  Note 11. New Accounting Standards 
+   In May 2014, the Financial Accounting Standards Board ("FASB") issued a comprehensive new revenue recognition standard that supersedes the revenue recognition requirements in Topic 605,   Revenue Recognition,   and industry-specific guidance in Subtopic 932-605,   Extractive Activities-Oil and Gas-Revenue Recognition  . The core principle of the new guidance is that a company should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the company expects to be entitled in exchange for transferring those goods or services. The new standard also requires significantly expanded disclosure regarding the qualitative and quantitative information of an entity's nature, amount, timing and uncertainty of revenue and cash flows arising from contracts with customers. The standard creates a five-step model that requires companies to exercise judgment when considering the terms of a contract and all relevant facts and circumstances. The standard allows for several transition methods: (a) a full retrospective adoption in which the standard is applied to all of the periods presented, or (b) a modified retrospective adoption in which the standard is applied only to the most current period presented in the financial statements, including additional disclosures of the standard's application impact to individual financial statement line items. This standard is effective for annual reporting periods beginning after December 15, 2017, including interim periods within that reporting period. The Partnership is currently evaluating the impact this guidance will have on its consolidated financial statements upon adoption of this standard. 
+  
+   23 
+
+In August 2014, the FASB issued Accounting Standards Update No. 2014-15,   Presentation of Financial Statements - Going Concern   (Subtopic 205-40)  : Disclosure of Uncertainties about an Entity's Ability to Continue as a Going Concern.   The amendments in ASU 2014-15 are intended to define management's responsibility to evaluate whether there is a substantial doubt about an entity s ability to continue as a going concern and to provide related footnote disclosures. This standard is effective for the annual periods ending after December 15, 2016, and for interim periods within annual period beginning after December 15, 2016. Early adoption is permitted. As of September 30, 2016, the Partnership has not elected early adoption.  
+  In February 2016, the FASB issued ASU No. 2016-02,    Leases   (Topic 842),  which supersedes current lease guidance. The new lease standard requires all leases with a term greater than one year to be recognized on the balance sheet while maintaining substantially similar classifications for finance and operating leases. Lease expense recognition on the income statement will be effectively unchanged. This guidance is effective for reporting periods beginning after December 15, 2018 and early adoption is permitted. As of September 30, 2016, the Partnership has not elected early adoption.  
+  In March 2016, the FASB issued Accounting Standards Update No. 2016-09,   Improvements to Employee Share-Based Payment Accounting.   The guidance simplifies the accounting for employee stock-based payment transactions including the accounting for income taxes, forfeitures and statutory tax withholding requirements, as well as classification of awards as either equity or liabilities, and classification of related amounts within the statement of cash flows. The guidance requires the recognition of the income tax effects of awards in the income statement when the awards vest or are settled, thus eliminating additional paid in capital pools. The guidance also allows for the employer to repurchase more of an employee s shares for tax withholding purposes without triggering liability accounting. In addition, the guidance allows for a policy election to account for forfeitures as they occur rather than on an estimated basis. The guidance is effective for annual reporting periods beginning after December 15, 2016, including interim periods within that reporting period and early adoption is permitted. As of September 30, 2016, the Partnership has not elected early adoption. 
+  In August, 2016, the FASB issued Accounting Standards Update No. 2016-15,   Classification of Certain Cash Receipts and Cash Payments   (a consensus of the Emerging Issues Task Force). The amendments in ASU 2016-15 address eight specific cash flow issues and apply to all entities that are required to present a statement of cash flows under FASB Accounting Standards Codification (FASB ASC) 230, Statement of Cash Flows. The amendments in ASU 2016-15 are effective for public business entities for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years. Early adoption is permitted, including adoption during an interim period. As of September 30, 2016, the Partnership has not yet adopted this update and is currently evaluating the impact this guidance will have on its consolidated financial statements upon adoption of this standard.  
+   
+  Note 12. Subsequent Events 
+  Class A Convertible Preferred Units 
+  As announced on October 27, 2016, the Board of Directors of the general partner declared a distribution for the period from August 11, 2016 to September 30, 2016 of approximately   $0.3 million   to be paid on November 14, 2016 to holders of record as of the close of business on November 7, 2016.  
+  Fall 2016 Borrowing Base Redetermination 
+  On October 28, 2016, the Partnership completed its fall 2016 semi-annual borrowing base redetermination under its reserve based revolving credit facility. The lender group agreed to reaffirm the previously existing conforming borrowing base of   $140.0 million   effective October 28, 2016. There were no changes to the terms or conditions of the credit agreement. The next regularly scheduled borrowing base redetermination will occur on or about May 1, 2017. 
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+  Management s Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction with our unaudited condensed consolidated financial statements and the related notes thereto, as well as our Annual Report. 
+
+24 
+
+Overview 
+    
+  Mid-Con Energy Partners, LP ("we," "our," "us," the "Partnership," the "Company") is a publicly held Delaware limited partnership formed in July 2011 that engages in the ownership, acquisition, exploitation and development of producing oil and natural gas properties in North America, with a focus on EOR. Our general partner is Mid-Con Energy GP, LLC, a Delaware limited liability company. Our common units are traded on the NASDAQ under the symbol "MCEP." 
+  Our properties are located primarily in the Mid-Continent and Permian Basin regions of the United States in four core areas: Southern Oklahoma, Northeastern Oklahoma, Texas Gulf Coast and Texas within the Eastern Shelf of the Permian ("Permian"). Our properties primarily consist of mature, legacy onshore oil reservoirs with long-lived, relatively predictable production profiles and low production decline rates. 
+  Recent Developments 
+  Early Termination of Derivative Contracts 
+  On July 1, 2016, in connection with our spring 2016 borrowing base redetermination, we terminated some of our commodity derivative contracts covering July 2016 through September 2016 production, resulting in net cash receipts of approximately $4.3 million. These funds were used to reduce our outstanding debt.  
+  Hugoton Divestiture 
+  On July 28, 2016, we completed the sale of the Hugoton Basin properties for proceeds of approximately $17.9 million, prior to post-closing adjustments, and recognized a loss of approximately $0.5 million. See Note 2 to our unaudited condensed consolidated financial statements included in this Quarterly Report for additional information regarding this transaction. 
+  Permian Bolt-On Acquisition 
+  On August 11, 2016, we acquired oil and natural gas properties located in Nolan County, Texas ("Permian Bolt-On") for an aggregate purchase price of approximately $18.7 million, after estimated post-closing purchase price adjustments. The transaction was funded by a private placement of Class A Convertible Preferred Units. See Note 2 to our unaudited condensed consolidated financial statements included in this Quarterly Report for additional information regarding this transaction. 
+  Class A Convertible Preferred Units 
+  In conjunction with the Permian Bolt-On acquisition, on August 11, 2016, we completed our previously announced private offering of $25.0 million aggregate principal amount of Class A Convertible Preferred Units ("Preferred Units"). See Note 9 to our unaudited condensed consolidated financial statements included in this Quarterly Report for additional information. 
+  Conforming Borrowing Base 
+  On August 11, 2016, Amendment No. 10 to our credit agreement was executed. This amendment increased the conforming borrowing base of our revolving credit facility to $140.0 million.     See Note 7 to our unaudited condensed consolidated financial statements included in this Quarterly Report for additional information.  
+  Operating Performance 
+  Low oil and natural gas prices continue to constrain the Partnership's operating income by negatively impacting top-line revenues and corresponding operating margins. As detailed below, the Partnership has responded to this operating environment with numerous cost control initiatives and ongoing portfolio evaluations. Total cash operating expenses, including cash paid for interest expense, were $25.35 per Boe during the three months ended September 30, 2016. This reflected an approximate 7% decline from the three months ended September 30, 2015, capturing efficiencies that exceeded an approximate 19% decline in production volumes year-over-year. Approximately 62% of our cash operating cost profile during the three months ended September 30, 2016 was attributable to LOE, and the Partnership realized declines in LOE per Boe by 20% year-over-year.  
+  Development of our large waterflood projects continued in the third quarter of 2016, notably in our Cleveland Field Unit (Northeastern Oklahoma) and Corsica Bend Conglomerate Unit (Permian). The Cleveland Field Unit continues to demonstrate a strong waterflood response to injection. Additional capital is planned for the remainder of 2016 to further expand the waterflood development of the Cleveland Field Unit based on recent approval of additional injection permits by the Oklahoma Corporation Commission. Expansion of our waterflood development at the Corsica Bend Conglomerate Unit will continue in  
+  
+   25 
+
+the fourth quarter with plans in place to convert four producing wells to injection in an under-developed portion of the Corsica Bend Conglomerate Unit characterized by high oil cuts. This development expansion is due to waterflood response observed in the third quarter 2016 from new injection initiated in 2015. Additional development capital is planned for the remainder of 2016 and first half of 2017. 
+  In the third quarter of 2016, we drilled and completed three wells, one well in the Northeastern Oklahoma core area and two wells in the Permian core area. Six recompletions (two in the Northeastern Oklahoma core area and four in the Permian core area) were initiated in the third quarter. 
+   Low Price Environment Initiatives 
+  In response to the significant decline in benchmark oil prices that have unfolded since November 2014 and have persisted in 2016, we remain focused on cost reductions. Our ongoing cost reduction initiatives encompass periodic economic review of each well within our portfolio along with ongoing scrutiny of lease operating expenses and general and administrative expenses. Wells that are not economically viable, at prevailing prices, are shut-in provided there are no contractual, operating or reservoir constraints precluding the suspension of operations. Based on this assessment, we elected to shut-in approximately 184 uneconomic wells, the majority of which were shut-in late January 2016. Of the 184 wells shut-in for economic reasons in early 2016, approximately 65 wells were located in the recently divested Hugoton core area and the majority of the remaining wells continued to be shut-in at September 30, 2016. We will monitor pricing and expenses to determine when to return these wells to production.  
+  Commodity Prices 
+  Our revenues and net income are sensitive to oil and natural gas prices which have been, and are expected to continue to be, volatile. In the third quarter of 2016, the front-month NYMEX-WTI futures price averaged approximately $45 per barrel, compared to approximately $47 per barrel in the third quarter of 2015. During the three months ended September 30, 2016, the front-month NYMEX-WTI futures price ranged from a low of approximately $40 per barrel to a high of approximately $49 per barrel. 
+  Distributions 
+  As announced on October 27, 2016, the Board of Directors of the general partner declared a distribution for the period from August 11, 2016 to September 30, 2016 of approximately $0.3 million to be paid on November 14, 2016 to the Preferred Unit holders of record as of the close of business on November 7, 2016. 
+  As of September 30, 2016, cash distributions on our common units continued to be indefinitely suspended. Our credit agreement stipulates written consent from our lenders is required in order to reinstate common unit distributions and also prohibits us from making common unit cash distributions if any potential default or event of default, as defined in the credit agreement, occurs or would result from the cash distribution. Management and the Board of Directors will continue to evaluate, on a quarterly basis, the appropriate level of cash reserves in determining future distributions. The suspension of common unit cash distributions is designed to preserve liquidity and reallocate excess cash flow towards capital expenditure projects and debt reduction to maximize long-term value for our unitholders. 
+  Business Environment 
+  The markets for oil, natural gas and NGLs have been volatile and we expect this volatility to continue, which means that the price of oil may fluctuate widely. Sustained periods of low prices for oil could materially and adversely affect our financial position, our results of operations, the quantities of oil reserves that we can economically produce and our access to capital. Oil and natural gas prices have been subject to significant fluctuations during the past several years. In general, average oil and natural gas prices were significantly lower during the comparable periods of 2016 measured against 2015. For perspective, prices for front month NYMEX-WTI crude oil futures traded within a range of $39.51 and $48.99 per barrel in the third quarter of 2016, ending the quarter at $48.24 per barrel while front month NYMEX Henry Hub natural gas futures traded within a range of $2.55 to $3.06 per MMBtu over the same period, ending the quarter at $2.91 per MMBtu. The continued volatility in commodity prices has had an impact on our unit price. During the nine months ended September 30, 2016, our common unit price fluctuated between a closing high of $3.95 per unit to a closing low of $0.78 per unit. 
+  Our risk management program is intended to reduce our exposure to commodity price volatility and to assist with stabilizing cash flows. Accordingly, we utilize commodity derivative contracts (swaps, calls, puts and collars) to manage a portion of our exposure to commodity prices and specific delivery points. The commodity derivative contracts that we have entered into generally have the effect of providing us with a fixed price or a floor for a portion of our expected future oil  
+  
+   26 
+
+production over a fixed period of time. We enter into commodity derivative contracts or modify our portfolio of existing commodity derivative contracts when we believe market conditions or other circumstances suggest that it is prudent to do so, or as required by our lenders. We conduct our risk management activities exclusively with participant lenders in our revolving credit facility. In January 2015, we restructured a significant portion of our hedge portfolio to limit downside and volatility due to the then prevailing commodity price environment. We have since then entered into additional oil commodity derivative contracts covering a portion of our anticipated oil production in 2016 through 2019.  
+  Our business faces the challenge of natural production declines. As initial reservoir pressures are depleted, oil production from a given well or formation decreases. Although our waterflood operations tend to restore reservoir pressure and production, once a waterflood is fully effected, production, once again, begins to decline. Our future growth will depend on our ability to continue to add reserves in excess of our production. Our focus on adding reserves is primarily through improving the economics of producing oil from our existing fields and, secondarily, through acquisitions of additional proved reserves. Our ability to add reserves through exploitation projects and acquisitions is dependent upon many factors, including our ability to raise capital, obtain regulatory approvals, procure contract drilling rigs and personnel and successfully identify and close acquisitions. 
+  We focus our efforts on increasing oil and natural gas reserves and production while controlling costs at a level that is appropriate for long-term operations. Our future cash flows from operations are impacted by our ability to manage our overall cost structure. 
+  How We Evaluate Our Operations 
+  Our primary business objective is to manage our oil and natural gas properties for the purpose of generating stable cash flows, which will provide stability and, over time, growth of distributions to our unitholders. The amount of cash that we can distribute to our unitholders depends principally on the cash we generate from our operations, which will fluctuate from quarter to quarter based on, among other factors: 
+             
+    the amount of oil and natural gas we produce; 
+                
+    the prices at which we sell our oil and natural gas production; 
+                
+    our ability to hedge commodity prices; and 
+                
+    the level of our operating and administrative costs. 
+     We use a variety of financial and operational metrics to assess the performance of our oil and natural gas properties, including: 
+             
+    Oil and natural gas production volumes; 
+                
+    Realized prices on the sale of oil and natural gas, including the effect of our commodity derivative contracts; 
+                
+    Lease operating expenses; and 
+                
+    Adjusted EBITDA. 
+     Adjusted EBITDA is used as a supplemental financial measure by our management and by external users of our financial statements, such as industry analysts, investors, lenders, rating agencies and others, to assess: 
+             
+    the cash flow generated by our assets, without regard to financing methods, capital structure or historical cost basis; and 
+                
+    our ability to incur and service debt and fund capital expenditures. 
+     In addition, management uses Adjusted EBITDA to evaluate actual potential cash flow available to reduce debt, develop existing reserves or acquire additional oil properties and pay distributions to our unitholders. Adjusted EBITDA is a non-U.S. GAAP measure and should not be considered an alternative to net income, net cash provided by (used in) operating activities or any other performance or liquidity measure determined in accordance with U.S. GAAP. In addition, our calculations of Adjusted EBITDA are not necessarily comparable to EBITDA or Adjusted EBITDA as calculated by other companies. 
+  
+   27 
+
+Results of Operations 
+  The table below summarizes certain results of operations and period-to-period comparisons for the periods indicated (dollars in thousands, except price per unit data): 
+
+(2) 
+    For the three and nine months ended September 30, 2016, effect of net settlements on matured derivative instruments does not include the $5.8 million received and the $1.5 million of deferred premiums paid upon early termination of previous oil derivative contracts in July 2016 or the related $2.8 million premiums paid at inception of the oil derivative contracts in January 2015. For the three and nine months ended September 30, 2015, effect of net settlements on matured derivative instruments does not include the $11.1 million received from restructuring the previous oil derivative contracts in January 2015. 
+              (3) 
+    Natural gas sales price per Mcf includes the sales of natural gas liquids. 
+
+28 
+
+Three Months Ended   September 30, 2016   Compared with the Three Months Ended   September 30, 2015 
+  We reported net loss of approximately   $2.4 million   for the three months ended September 30, 2016 compared to net loss of approximately   $25.5   million for the three months ended September 30, 2015. The   $23.1   million change was attributable to lower impairment charges, depreciation, depletion and amortization expense ("DD A"), lease operating expenses ("LOE") and general and administrative expenses ("G A"), partially offset by the unfavorable net effect of derivatives combined with lower oil volumes and sales prices in the three months ended September 30, 2016. 
+  Sales Revenues.   Revenues from oil and natural gas sales for the three months ended September 30, 2016 were approximately   $14.4   million compared to approximately   $18.5   million for the three months ended September 30, 2015. The revenue decrease was primarily due to lower oil sales volumes combined with slightly lower oil prices driven by market conditions. Our average sales price per barrel of oil, excluding commodity derivative contracts, for the three months ended September 30, 2016 was approximately   $41.33   per barrel compared to approximately   $42.98   per barrel for the three months ended September 30, 2015. Commodity prices continue to be volatile. During the three months ended September 30, 2016, the front-month NYMEX-WTI futures price ranged from a low of approximately $40 per barrel to a high of approximately $49 per barrel. 
+  On average, our production volumes for the three months ended September 30, 2016 were approximately   364   MBoe, or approximately   3,957   Boe per day. In comparison, our total production volumes for the three months ended September 30, 2015 were approximately   447   MBoe, or approximately   4,859   Boe per day. The decrease in production volumes was primarily attributed to the shut-in of 184 uneconomic wells during the first quarter of 2016, the Hugoton core area divestiture completed in July 2016 and reduced capital spending, partially offset by incremental volumes from our recently acquired Permian Bolt-On properties in August 2016. Of the 184 wells shut-in for economic reasons in early 2016, approximately 65 wells were located in the recently divested Hugoton core area and the majority of the remaining wells continued to be shut-in at September 30, 2016.  
+     Effects of Commodity Derivative Contracts.   We utilize NYMEX-WTI derivative contracts to hedge against changes in commodity prices. To the extent the future commodity prices decrease between measurement periods, we will have gains on our commodity derivative contracts, net of deferred premiums. To the extent future commodity prices increase between measurement periods, we will have losses on our commodity derivative contracts, including deferred premiums. For the three months ended September 30, 2016, we recorded a net loss of approximately   $0.4 million   which was comprised of approximately $7.4 million non-cash loss on changes in fair value of commodity derivative contracts, approximately $1.2 million gain on net cash settlements of commodity derivative contracts and approximately $5.8 million net cash settlements for the early termination of commodity derivative contracts in July 2016. For the three months ended September 30, 2015, we recorded a net gain of approximately $19.8 million which was comprised of approximately $11.4 million non-cash gain on changes in fair value of our commodity derivative contracts and approximately an $8.4 million gain on net cash settlements of commodity derivative contracts.  
+  Lease Operating Expenses.   For the three months ended September 30, 2016, LOE was approximately   $5.7 million  , or   $15.68   per Boe, compared to approximately   $8.8   million, or approximately   $19.60   per Boe, for the three months ended September 30, 2015. The decrease in total LOE and average costs per Boe for the three months ended September 30, 2016 reflects the impact of company-wide cost savings initiatives including the shut-in of uneconomic wells during the first quarter of 2016 and deferral of certain workover activities. The Partnership realized cost reductions in most LOE billing categories and in all key core areas. 
+  Production Taxes.   Production taxes are calculated as a percentage of our oil and natural gas revenues and exclude the effects of our commodity derivative contracts. Production taxes for the three months ended September 30, 2016 were approximately   $0.8   million, or approximately   $2.07   per Boe (effective tax rate of approximately   5.2%  ), compared to approximately   $0.2   million, or approximately   $0.46   per Boe (effective tax rate of approximately   1.1%  ) for the three months ended September 30, 2015. The increase in production taxes, both in aggregate, per BOE and as a percentage of total revenue for the three months ended September 30, 2016 was attributable to a reduction in taxes for the three months ended September 30, 2015 due to the approval of the Enhanced Oil Production tax exemption ("EOR exemption") and recoupment of approximately $0.8 million in production taxes previously paid for one of our Northeastern Oklahoma units. 
+  Impairment Expense.   There were no impairment charges for the three months ended September 30, 2016. For the three months ended September 30, 2015, we recorded a non-cash impairment charge of approximately $40.9 million primarily in our former Hugoton core area, and our Gulf Coast and Permian core areas due to a decline in commodity prices and to a lesser degree, reduced reserve estimates. 
+  Depreciation, Depletion and Amortization Expenses.   DD A on producing properties for the three months ended September 30, 2016 was approximately   $5.7   million, or approximately   $15.56   per Boe, compared to approximately   $9.7   million, or approximately   $21.60   per Boe, for the three months ended September 30, 2015. The decrease in DD A and DD A  
+  
+   29 
+
+per Boe was primarily due to the asset impairment recorded in the third and fourth quarters of 2015 which reduced the carrying value of our oil and natural gas properties.  
+     General and Administrative Expenses.   G A was approximately   $1.7   million, or approximately   $4.71   per Boe, for the three months ended September 30, 2016, compared to approximately   $2.3   million, or approximately   $5.04   per Boe, for the three months ended September 30, 2015. The decrease in G A was primarily due to decreases in non-cash equity-based compensation costs resulting from the lower price of our common units and to a lesser extent, lower non-recurring legal and professional services costs and lower salaries expense. G A expenses included non-cash equity-based compensation of approximately $0.3 million and approximately $0.6 million for the three months ended September 30, 2016 and 2015, respectively.  
+  Interest Expense.   Interest expense for the three months ended September 30, 2016 was approximately   $1.7 million  , compared to approximately $1.8 million for the three months ended September 30, 2015. The decrease in interest expense during the three months ended September 30, 2016 was due to lower borrowings outstanding under the revolving credit facility and a lower effective interest based on borrowing base utilization. 
+    
+  Nine Months Ended   September 30, 2016   Compared with the Nine Months Ended   September 30, 2015 
+  We reported a net loss of approximately   $21.5 million   for the nine months ended September 30, 2016 compared to a net loss of approximately   $37.5 million   for the nine months ended September 30, 2015. The   $16.0 million   change was primarily attributable to lower impairment charges, DD A, LOE and G A, partially offset by the unfavorable net effect of derivatives and lower oil and natural gas sales volumes and prices. 
+    
+  Sales Revenues.   Revenues from oil and natural gas sales for the nine months ended September 30, 2016 were approximately   $40.5 million   compared to approximately   $57.7 million   for the nine months ended September 30, 2015. In 2016, revenues were negatively affected by the volatility of commodity prices and decreased production volumes. Our average sales price per barrel of oil, excluding commodity derivative contracts, for the nine months ended September 30, 2016 was   $37.43   per barrel, compared to approximately   $46.84   per barrel for the nine months ended September 30, 2015. During the nine months ended September 30, 2016, the front-month NYMEX-WTI futures price averaged approximately $42 per barrel, compared to approximately $51 per barrel in the same period of 2015. During the nine months ended September 30, 2016, the front-month NYMEX-WTI futures price ranged from a low of approximately $26 per barrel to a high of approximately $51 per barrel. 
+    
+  On average, our production volumes for the nine months ended September 30, 2016 were approximately   1,125   MBoe, or approximately   4,106   Boe per day. In comparison, our total production volumes for the nine months ended September 30, 2015 were approximately   1,279   MBoe, or approximately   4,685   Boe per day. The decrease in production volumes was primarily due to the shut-in of 184 uneconomic wells, to the Hugoton core area divestiture and reduced capital spending year to date, partially offset by volumes from our recently acquired Permian Bolt-On properties. Of the 184 wells shut-in for economic reasons in early 2016, approximately 65 wells were located in the recently divested Hugoton core area and the majority of the remaining wells continued to be shut-in at September 30, 2016.  
+    
+  Effects of Commodity Derivative Contracts.   We utilize NYMEX-WTI derivative contracts to hedge against changes in commodity prices. To the extent the future commodity prices decrease between measurement periods, we will have gains on our commodity derivatives, net of deferred premiums. To the extent future commodity prices increase between measurement periods, we will have losses on our commodity derivatives contracts, including deferred premiums. For the nine months ended September 30, 2016, we recorded a net loss of approximately $8.0 million which was comprised of approximately $32.3 million non-cash loss on changes in fair value of our commodity derivative contracts, approximately $18.5 million gain on net cash settlements of our commodity derivative contracts and $5.8 million net cash settlements for the early termination of commodity derivative contracts. For the nine months ended September 30, 2015, we recorded a net gain from our commodity derivative contracts of approximately $12.5 million, which was comprised of approximately $15.5 million gain on net cash settlements of our commodity derivative contracts, $11.1 million net cash settlements for the early termination of contracts and approximately $14.1 million non-cash loss on changes in fair value of our commodity derivative contracts. The non-cash loss on changes in fair value of derivative contracts of approximately $14.1 million included an $11.1 million impact of the gain from early termination of the contracts and a $3.6 million gain upon settlement in January 2015 for contracts that were not early terminated or modified, both of which were previously recognized in the results of operations during the year ended December 31, 2014. 
+    
+  Lease Operating Expenses.   For the nine months ended September 30, 2016, LOE was approximately   $17.6   million, or  
+  
+   30 
+
+approximately   $15.60   per Boe, compared to approximately   $25.3   million, or approximately   $19.78   per Boe, for the nine months ended September 30, 2015. The decrease in total LOE and average cost per Boe for the nine months ended September 30, 2016 reflects the impact of company-wide cost savings initiatives including the shut-in of uneconomic wells during first quarter 2016.  
+     Production Taxes.   Production taxes are calculated as a percentage of our oil and natural gas sales revenues and exclude the effects of our commodity derivative contracts. Production taxes for the nine months ended September 30, 2016 were approximately   $2.1   million, or approximately   $1.85   per Boe (effective tax rate of approximately   5.1%  ), compared to approximately   $2.6   million, or approximately   $2.06   per Boe (effective tax rate of approximately   4.6%  ), for the nine months ended September 30, 2015. The decrease in production taxes for the nine months ended September 30, 2016 was attributable to lower oil and natural gas revenues driven by lower volumes and prices and to an EOR Production Tax Exemption for one of our Northeastern Oklahoma units. The EOR exemption will extend through March 2018. The decrease in production tax per Boe and the effective tax rate was primarily attributable to a greater proportion of Permian production, which bears a lower state production tax rate, and a greater proportion of Northeastern Oklahoma production, which is subject to a reduced tax rate based on the EOR exemption.  
+    
+  Impairment Expense.   For the nine months ended September 30, 2016, we recorded a non-cash impairment charge of approximately $0.9 million due to revisions in reserve estimates in one of our Permian properties. For the nine months ended September 30, 2015, we recorded a non-cash impairment charge of approximately $40.9 million primarily in our former Hugoton core area, and our Gulf Coast and Permian core areas due to a decline in commodity prices and to a lesser degree, reduced reserve estimates. 
+    
+  Depreciation, Depletion and Amortization Expenses.   DD A on producing properties for the nine months ended September 30, 2016, was approximately   $17.6   million, or approximately   $15.60   per Boe, compared to approximately   $25.7   million, or approximately   $20.09   per Boe, for the nine months ended September 30, 2015. The decrease in DD A and DD A per Boe was primarily due to the asset impairment recorded in the third and fourth quarters of 2015 which reduced the carrying value of our oil and natural gas properties. 
+    
+  General and Administrative Expenses.   G A was approximately   $5.3 million   or approximately   $4.69   per Boe for the for the nine months ended September 30, 2016, compared to approximately   $7.5 million  , or approximately   $5.89   per Boe, for the nine months ended September 30, 2015. The decrease in G A for the nine months ended September 30, 2016 was primarily due to lower non-cash equity-based compensation costs resulting from the lower price of our common units and fewer units issued and to a lesser extent, lower non-recurring legal and professional services costs and lower salaries expense. G A included non-cash equity-based compensation of approximately $1.0 million and approximately $3.0 million for the nine months ended September 30, 2016 and 2015, respectively. 
+    
+  Interest Expense.   Our interest expense for the nine months ended September 30, 2016 was approximately   $6.0 million  , compared to approximately   $5.4 million   for the nine months ended September 30, 2015. The increase in interest expense during the nine months ended September 30, 2016 was due to a higher effective interest rate as a result of the higher pricing grid established during the fall 2015 redetermination.  
+   
+  Liquidity and Capital Resources  
+  Our ability to finance our operations, fund our capital expenditures and acquisitions, meet or refinance our debt obligations and meet our collateral requirements will depend on our future cash flows. Our ability to generate cash is subject to a number of factors, some of which are beyond our control, including weather, oil and natural gas prices, operating costs and maintenance capital expenditures, as well as general economic, financial, competitive, legislative, regulatory and other factors. Historically, our primary use of cash has been for debt reduction and to fund capital spending and distributions. 
+  Oil prices fell to 13-year lows during 2016, impacting the way we conduct business. We have implemented a number of adjustments to strengthen our financial position. In January 2015, we restructured a significant portion of our hedge portfolio to limit downside and volatility due to the then prevailing commodity price environment. We have since then entered into additional oil commodity derivative contracts covering a portion of our anticipated oil production in 2016 through 2019. In the third quarter 2015, we indefinitely suspended our quarterly cash distributions on common units. We are also aggressively pursuing cost reductions to improve profitability and maximize cash flows. Our primary cost reduction initiatives encompass periodic economic review of each well within our portfolio along with ongoing scrutiny of lease operating expenses and general and administrative expenses. 
+  
+   31 
+
+Our liquidity position at September 30, 2016 consisted of approximately   $2.1 million   of available cash and $12.1 million of available borrowings under our revolving credit facility ($140.0 million borrowing base less $127.9 million of outstanding borrowings). Our borrowing base is redetermined in the spring and fall of each year.  
+  In conjunction with closing the Permian Bolt-On acquisition during the third quarter of 2016, we completed a non-scheduled borrowing base redetermination and executed Amendment No. 10 to the credit agreement on August 11, 2016. As such, our senior lenders unanimously agreed to increase the conforming borrowing base of our revolving credit facility to $140.0 million. See Note 7 to the unaudited condensed consolidated financial statements for additional information regarding our credit facility. 
+  Based on our cash balance, forecasted cash flows from operating activities and availability under our revolving credit facility, we expect to be able to fund our planned capital expenditures budget, meet our debt service requirements and fund our other commitments and obligations. Although we currently expect our sources of cash to be sufficient to meet our near-term liquidity needs, there can be no assurance that our liquidity requirements will continue to be satisfied given current oil prices and the discretion of our lenders to decrease our borrowing base. Due to the volatility of commodity prices, we may not be able to obtain funding in the equity or capital markets on terms we find acceptable. The cost of obtaining money from the credit markets generally has increased as many lenders and institutional investors have increased interest rates, enacted tighter lending standards and reduced and, in some cases, ceased to provide any new funding.  
+  Cash Flows 
+  Cash flows provided by (used in) each type of activity was as follows: 
+
+Operating Activities.   Net cash provided by operating activities was approximately $35.6 million and $31.3 million for the nine months ended September 30, 2016 and 2015, respectively. The $4.3 million change from 2015 to 2016 was primarily attributable to the positive net impact of our hedging activities, lower LOE due to the shut-in of uneconomic wells and lower production taxes, offset by lower oil sales revenues resulting from lower oil prices and lower production in 2016.  
+  Investing Activities.   Net cash used in investing activities was approximately $7.0 million and approximately $11.3 million for the nine months ended September 30, 2016 and 2015, respectively. Cash used in investing activities during the nine months ended September 30, 2016 included approximately $19.1 million for acquisitions of oil and natural gas properties in the Permian area and approximately $5.1 million of capital expenditures for drilling and completion activities primarily in our Permian and Northeastern Oklahoma core areas, offset by proceeds from the sale of our oil and natural gas properties in the Hugoton core area of approximately $17.3 million. Cash used in investing activities during the nine months ended September 30, 2015 included capital expenditures of approximately $11.3 million primarily for drilling and completion activities in our Northeastern Oklahoma and Permian properties.  
+  Financing Activities.   Net cash used in financing activities was approximately $27.2 million and $22.4 million for the nine months ended September 30, 2016 and 2015, respectively. Cash used in financing activities during the nine months ended September 30, 2016 included payments on our revolving credit facility of approximately $52.1 million, offset by proceeds of approximately $25.0 million received from the sale of Preferred Units. Net cash used in financing activities during the nine months ended September 30, 2015 included cash distributions to unitholders of approximately $11.3 million and net payments on our revolving credit facility of approximately $11.0 million.   
+  Capital Requirements 
+  Our business requires continual investment to upgrade or enhance existing operations in order to increase and maintain our production and the size of our asset base. The primary purpose of growth capital is to acquire and develop producing assets that allow us to increase our production and asset base. Given the current commodity pricing situation, we have limited capital spending to include only the most economically viable development projects. To date, we have funded acquisition transactions through a combination of cash, available borrowing capacity under our revolving credit facility and through the issuance of equity.  
+  
+   32 
+
+We currently expect capital spending for the remainder of 2016 for the development, growth and maintenance of our oil and natural gas properties to be approximately $2.7 million. We will consider adjustments to this capital program based on surplus operating cash flows in concert with our evaluation of additional development opportunities that are identified during the year.  
+  Revolving Credit Facility 
+  At September 30, 2016 our borrowing base was $140.0 million and our outstanding borrowings under the credit facility were approximately $127.9 million. 
+  During August 2016, we completed a non-scheduled redetermination and Amendment No. 10 to the credit agreement in conjunction with our Permian Bolt-On acquisition. The conforming borrowing base as of August 11, 2016 was increased to $140.0 million. Our borrowing base is redetermined in the spring and fall of each year. See Note 7 to the unaudited condensed consolidated financial statements for additional information.  
+  Commodity Derivative Contracts 
+  Our risk management program is intended to reduce our exposure to commodity price volatility and to assist with stabilizing cash flows. Accordingly, we utilize commodity derivative contracts (swaps, calls, puts and collars) to manage a portion of our exposure to commodity prices and specific delivery points. The commodity derivative contracts that we have entered into generally have the effect of providing us with a fixed price or a floor for a portion of our expected future oil production over a fixed period of time. We enter into commodity derivative contracts or modify our portfolio of existing commodity derivative contracts when we believe market conditions or other circumstances suggest that it is prudent to do so, or as required by our lenders. At September 30, 2016, we had commodity derivative contracts covering approximately 81% of the remainder of our 2016 average daily production and approximately 64% and 37%, respectively, of our estimated 2017 and 2018 average daily production (calculated based on the mid-point of our 2016 production guidance released on October 31, 2016). At September 30, 2016, our open commodity derivative contracts were in a net liability position with a fair value of approximately $2.9 million. See Note 4 to the unaudited condensed consolidated financial statements for additional information regarding our commodity derivative contracts.  
+  Off Balance Sheet Arrangements 
+  As of   September 30, 2016  , we had no off-balance sheet arrangements. 
+  Recently Issued Accounting Pronouncements 
+    
+  There are no recently issued accounting pronouncements that we expect to materially impact our financial statements. See Note 11 to the unaudited condensed consolidated financial statements for additional information regarding recently issued accounting pronouncements.  
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+  We are exposed to a variety of market risks including commodity price risk, interest rate risk and credit risk. The primary objective of the following information is to provide quantitative and qualitative information about our potential exposure to market risks. The disclosures are not meant to be precise indicators of expected future losses, but rather indicators of reasonably possible losses. 
+  Commodity Price Risk 
+  Our primary market risk exposure is the pricing we receive for our oil and natural gas sales. Historically, energy prices have exhibited, and are generally expected to continue to exhibit, some of the highest volatility levels observed within the commodity and financial markets. The prices we receive for our oil and natural gas sales depend on many factors outside of our control, such as the strength of the global economy and changes in supply and demand.  
+  Our risk management program is intended to reduce exposure to commodity price volatility and to assist with stabilizing cash flows. Accordingly, we utilize commodity derivatives contracts (swap, calls, puts and costless collars) to manage a portion of our exposure to commodity prices and specific delivery points. The commodity derivative contracts that we have entered into generally have the effect of providing us with a fixed price for a portion of our expected future oil production over a fixed period of time. We enter into commodity derivative contracts or modify our portfolio of existing commodity derivative contracts when we believe market conditions or other circumstances suggest that it is prudent to do so, or as required by our lenders.   
+  
+   33 
+
+Our commodity derivative contracts expose us to credit risk in the event of nonperformance by counterparties. While we do not require the counterparties to our commodity derivative contracts to post collateral, it is our policy to enter into commodity derivative contracts only with counterparties that are major, creditworthy financial institutions deemed by management as competent and competitive market makers. We evaluate the credit standing of such counterparties by reviewing their credit ratings. The counterparties to our commodity derivative contracts currently in place are lenders under our revolving credit facility and have investment grade ratings. We expect to enter into future commodity derivative contracts with these or other lenders under our revolving credit facility whom we expect will also carry investment grade ratings. 
+  Our commodity price risk management activities are recorded at fair value and thus changes to the future commodity prices could have the effect of reducing net income and the value of our securities. The fair value of our oil commodity derivative contracts at September 30, 2016 was a net liability of approximately $2.9 million. A 10% change in oil prices, with all other factors held constant, would result in a change in the fair value (generally correlated to our estimated future net cash flows from such instruments) of our oil commodity derivative contracts of approximately   $10.6   million. See Note 4 to the unaudited condensed consolidated financial statements for additional information regarding our commodity derivative contracts. 
+  Interest Rate Risk 
+  Our exposure to changes in interest rates relates primarily to debt obligations. At September 30, 2016, we had debt outstanding of $127.9 million, with an effective interest rate of 4.03%. Assuming no change in the amount outstanding, the impact on interest expense of a 10% increase or decrease in the average interest rate would be approximately $0.5 million on an annual basis. At September 30, 2016, our revolving credit facility allowed for borrowings up to $140.0 million bearing interest at a floating rate based on, at our election: (i) the greater of the prime rate of the Wells Fargo Bank, National Association, the federal funds effective rate plus 0.50% and the one month adjusted London Interbank Offered Rate ("LIBOR") plus 1.0%, all of which are subject to a margin that varies from 1.00% to 2.75% per annum according to the borrowing base usage (which is the ratio of outstanding borrowings and letters of credit to the borrowing base then in effect), or (ii) the applicable LIBOR plus a margin that varies from 2.00% to 3.75% per annum according to the borrowing base usage. See Note 7 to the unaudited condensed consolidated financial statements for additional information regarding our revolving credit facility. 
+  Counterparty and Customer Credit Risk 
+  We are subject to credit risk due to the concentration of our revenues attributable to a small number of customers for our current production. The inability or failure of any of our customers to meet its obligations to us or its insolvency or liquidation may adversely affect our financial results. We monitor our exposure to these counterparties primarily by reviewing credit ratings and payment history. As of September 30, 2016, our current purchasers had positive payment histories.  
+
+ITEM 4. CONTROLS AND PROCEDURES 
+  Evaluation of Disclosure Controls and Procedures 
+  As required by Rule 13a-15(b) of the Exchange Act, we have evaluated, under the supervision and with the participation of our chief executive officer (principal executive officer) and chief financial officer (principal financial officer), the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of   September 30, 2016  . Our disclosure controls and procedures are designed to provide reasonable assurance that the information required to be disclosed by us in reports that we filed under the Exchange Act is accumulated and communicated to our management, including our chief executive officer and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure and is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the SEC. Based on this evaluation, our chief executive officer and chief financial officer have concluded that our disclosure controls and procedures were effective as of the end of the period covered by this Form 10-Q. 
+  Changes in Internal Controls Over Financial Reporting 
+  There were no changes in our system of internal control over financial reporting (as defined in Rule 13a-15(f) and Rule 15d-15(f) under the Exchange Act) that occurred during the quarterly period ended   September 30, 2016  , that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+  In the course of our ongoing preparations for making management s report on internal control over financial reporting as required by Section 404 of the Sarbanes-Oxley Act of 2002, from time to time we have identified areas in need of improvement and have taken remedial actions to strengthen the affected controls as appropriate. We make these and other changes to enhance  
+  
+   34 
+
+the effectiveness of our internal control over financial reporting, which do not have a material effect on our overall internal control over financial reporting. 
+
+PART II 
+  OTHER INFORMATION 
+
+ITEM 1. LEGAL PROCEEDINGS 
+  Although we may, from time to time, be involved in litigation and claims arising out of our operations in the normal course of business, we are not currently a party to any material legal proceedings. In addition, we are not aware of any significant legal or governmental proceedings against us, or contemplated to be brought against us, under the various environmental protection statutes to which we are subject. 
+   
+  ITEM 1A. RISK FACTORS 
+  Except for the risk factors discussed below, there have been no material changes with respect to the risk factors disclosed in our Annual Report for the year ended December 31, 2015. 
+    
+  The holders of our Class A Convertible Preferred Units have rights, preferences and privileges that are not held by, and are preferential to the rights of, holders of our common units, and could dilute or otherwise adversely affect the holders of our common units. 
+    
+  In August 2016, we issued 11,627,906 Class A Convertible Preferred Units ( Preferred Units ), which rank senior to the common units with respect to distribution rights and rights upon liquidation. Subject to certain exceptions, as long as any Preferred Units remain outstanding, we may not declare any distribution on our common units unless all accumulated and unpaid distributions have been declared and paid on the Preferred Units. In the event of our liquidation, winding-up or dissolution, the holders of the Preferred Units would have the right to receive proceeds from any such transaction before the holders of the common units. The payment of the liquidation preference could result in common unitholders not receiving any consideration if we were to liquidate, dissolve or wind-up, either voluntarily or involuntarily. Additionally, the existence of the liquidation preference may reduce the value of the common units, make it harder for us to issue and sell common units in the future, or prevent or delay a change in control. 
+  Our obligation to pay distributions on the Preferred Units, or on the common units issued following the conversion of the Preferred Units, could impact our liquidity and reduce the amount of cash flow available for working capital, capital expenditures, growth opportunities, acquisitions and other general partnership purposes.  Also, as long as any Preferred Units are outstanding, subject to certain exceptions, the affirmative vote or consent of the holders of at least a majority of the outstanding Preferred Units, voting together as a separate class, will be necessary for effecting or validating, among other things: (i) any action to be taken that adversely affects any of the rights, preferences or privileges of the Preferred Units, (ii) amending the terms of the Preferred Units, (iii) the issuance of any additional Preferred Units or equity security senior or   pari passu   in right of distribution or in liquidation to the Preferred Units, (iv) the ability to incur indebtedness (other than under the Partnership s existing credit facility or trade payables arising in the ordinary course of business) or (v) lift the suspension of the at-the-market offering program. These restrictions may adversely affect our ability to finance future operations or capital needs or to engage in other business activities. 
+  In addition, the holders of our Preferred Units may convert the Preferred Units into common units on a one-for-one basis at any time after the six-month anniversary of the closing date, in whole or in part, subject to certain conversion thresholds. At any time after the fifth anniversary of the closing date, each holder of the Preferred Units shall have the right to cause the Partnership to redeem all or any portion of the outstanding Preferred Units at a price per Preferred Unit equal to the Unit Purchase Price of $2.15 as described in the purchase agreement for the Preferred Units. Immediately prior to the effectiveness of a change of control of the Partnership, each Preferred Unit holder may elect to (i) have such holder s Preferred Units converted into common units, plus accrued but unpaid distributions to the conversion date; or (ii) if the Partnership is the surviving entity of the change of control, continue to hold its Preferred Units. If a holder of Preferred Units does not elect to convert all of its Preferred Units into common units representing limited partner interests in the Partnership upon the effectiveness of a change of control, then, unless the Partnership is the surviving entity of the change of control, the Partnership shall redeem any remaining Preferred Units in cash. 
+  
+   35 
+
+If a substantial portion of the Preferred Units are converted into common units, common unitholders could experience significant dilution. Further, if holders of converted Preferred Units dispose of a substantial portion of such common units in the public market, whether in a single transaction or series of transactions, it could adversely affect the market price for our common units. These sales, or the possibility that these sales may occur, could make it more difficult for us to sell our common units in the future. 
+   
+  ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+  During the three months ended September 30, 2016, we issued $25.0 million of Class A Convertible Preferred Units. See Note 9 to our unaudited condensed consolidated financial statements included in this Quarterly Report for additional information regarding this transaction. The Preferred Units were issued in reliance upon an exemption from the registration requirements of the Securities Act of 1933, as amended (the    Securities Act   ), pursuant to Section 4(a)(2) thereof, as a transaction by an issuer not involving any public offering. 
+   
+  ITEM 3. DEFAULTS UPON SENIOR SECURITIES 
+  None. 
+   
+  ITEM 4. MINE SAFETY DISCLOSURES 
+  Not applicable. 
+   
+  ITEM 5. OTHER INFORMATION 
+  None. 
+   
+  ITEM 6. EXHIBITS 
+  The exhibits listed below are filed or furnished as part of this Quarterly Report: 
+  
+   36 
+
+Exhibit No. 
+      
+    Exhibit Description 
+
+10.1 
+      
+    Amendment No.6 to Credit Agreement, dated as of February 12, 2015, among Mid-Con Energy Properties, LLC, as Borrower, Royal Bank of Canada, as Administrative Agent and Collateral Agent and the lenders party thereto (incorporated by reference to Exhibit 10.01 to Mid-Con Energy Partners, LP's current report on Form 8-K filed with the SEC on February 17, 2015). 
+
+10.2 
+      
+    Amendment No.7 to Credit Agreement, dated as of November 30, 2015, among Mid-Con Energy Properties, LLC, as Borrower, Royal Bank of Canada, as Administrative Agent and Collateral Agent and the lenders party thereto (incorporated by reference to Exhibit 10.1 to Mid-Con Energy Partners, LP's current report on Form 8-K filed with the SEC on December 1, 2015). 
+
+10.3 
+      
+    Amendment No.8 to Credit Agreement, dated as of April 29, 2016, among Mid-Con Energy Properties, LLC, as Borrower, Wells Fargo Bank, National Association, as Administrative Agent and Collateral Agent and the lenders party thereto (incorporated by reference to Exhibit 10.3 to Mid-Con Energy Partners, LP's Quarterly Report on Form 10-Q, filed with the SEC on May 2, 2016). 
+
+10.4 
+      
+    Amendment No.9 to Credit Agreement, dated as of May 31, 2016, among Mid-Con Energy Properties, LLC, as Borrower, Wells Fargo Bank, National Association, as Administrative Agent and Collateral Agent and the lenders party thereto (incorporated by reference to Exhibit 10.1 to Mid-Con Energy Partners, LP's current report on Form 8-K filed with the SEC on June 2, 2016). 
+
+10.5 
+      
+    Amendment No.10 to Credit Agreement, dated as of August 11, 2016, among Mid-Con Energy Properties, LLC, as Borrower, Wells Fargo Bank, National Association, as Administrative Agent and Collateral Agent and the lenders party thereto (incorporated by reference to Exhibit 10.1 to Mid-Con Energy Partners, LP's current report on Form 8-K filed with the SEC on August 16, 2016). 
+
+10.6 
+      
+    Amendment No. 1 to Mid-Con Energy Partners, LP Long-Term Incentive Program (incorporated by reference to Exhibit 10.1 to Mid-Con Energy Partners, LP's current report on Form 8-K filed with the Commission on November 20, 2015).  
+
+10.7 
+      
+    Class A Convertible Preferred Unit Purchase Agreement, dated as of July 31, 2016, by and among Mid-Con Energy Partners, LP and the Purchasers named on Schedule A thereto (incorporated by reference to Exhibit 10.1 to Mid-Con Energy Partners, LP's current report on Form 8-K file with the SEC on August 3, 2016). 
+
+10.8 
+      
+    Purchase and Sale Agreement dated as of May 26, 2016, among Mid-Con Energy Properties, LLC, Mid-Con Energy Operating, LLC as sellers, and PO G Panhandle, LP, as purchaser thereto (incorporated by reference to Exhibit 10.7 to Mid-Con Energy Partners, LP's Quarterly Report on Form 10-Q, filed with the SEC on August 4, 2016). 
+
+10.9 
+      
+    Purchase and Sale Agreement, dated as of July 28, 2016, among Mid-Con Energy Properties, LLC, as purchaser, and Walter Exploration Company, JMW LTD, and Wildcat Properties L.P., as sellers thereto (incorporated by reference to Exhibit 10.8 to Mid-Con Energy Partners, LP's Quarterly Report on Form 10-Q, filed with the SEC on August 4, 2016). 
+
+31.1+ 
+      
+    Rule 13a-14(a)/ 15(d)- 14(a) Certification of Chief Executive Officer 
+
+31.2+ 
+      
+    Rule 13a-14(a)/ 15(d)- 14(a) Certification of Chief Financial Officer 
+
+32.1+ 
+      
+    Section 1350 Certificate of Chief Executive Officer 
+
+32.2+ 
+      
+    Section 1350 Certificate of Chief Financial Officer 
+
+101.INS++ 
+      
+    XBRL Instance Document 
+
+101.SCH++ 
+      
+    XBRL Taxonomy Extension Schema Document 
+
+101.CAL++ 
+      
+    XBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.DEF++ 
+      
+    XBRL Taxonomy Extension Definition Linkbase Document 
+
+101.LAB++ 
+      
+    XBRL Taxonomy Extension Label Linkbase Document 
+
+101.PRE++ 
+      
+    XBRL Taxonomy Extension Presentation Linkbase Document 
+
+37 
+
+_________________________ 
+    
+  +    Filed herewith  
+           ++ 
+    In accordance with Rule 406T of Regulation S-T, the XBRL information in Exhibit 101 to this Form 10-Q shall not be deemed to be "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (Exchange Act), or otherwise subject to the liability of that section, and shall not be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act. The financial information contained in the XBRL-related documents is "unaudited" or "unreviewed." 
+
+38 
+
+SIGNATURE 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+MID-CON ENERGY PARTNERS, LP 
+
+By: 
+    Mid-Con Energy GP, LLC, its general partner 
+
+October 31, 2016 
+      
+    By: 
+    /s/ Matthew R. Lewis 
+
+Matthew R. Lewis 
+
+Chief Financial Officer 
+
+39 
+
+<EX-31.1>
+ 2
+ mcep09302016ex311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1  
+  I, Jeffrey R. Olmstead, certify that:  
+    
+           1. 
+    I have reviewed this Quarterly Report on Form 10-Q of Mid-Con Energy Partners, LP; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent function): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+       
+  Date:   October 31, 2016    
+                   
+    /s/ Jeffrey R. Olmstead 
+        
+    Jeffrey R. Olmstead 
+        
+    Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ mcep09302016ex312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  I, Matthew R. Lewis, certify that:  
+    
+           1. 
+    I have reviewed this Quarterly Report on Form 10-Q of Mid-Con Energy Partners, LP; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent function): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+       
+  Date:   October 31, 2016    
+                   
+    /s/ Matthew R. Lewis 
+        
+    Matthew R. Lewis 
+        
+    Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ mcep09302016ex321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1  
+  CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,  
+  AS ADOPTED PURSUANT TO SECTION 906  
+  OF THE SARBANES-OXLEY ACT OF 2002  
+    
+  In connection with the accompanying report on Form 10-Q for the period ended   September 30, 2016  , of Mid-Con Energy Partners, LP (the  Partnership ) and filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Jeffrey R. Olmstead, Chief Executive Officer of Mid-Con Energy GP, LLC, the general partner of the Partnership, hereby certify, pursuant to 18 U.S.C   1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:  
+    
+           1. 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              2. 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Partnership. 
+       
+  Date:   October 31, 2016    
+
+/s/ Jeffrey R. Olmstead 
+        
+    Jeffrey R. Olmstead 
+        
+    Chief Executive Officer   
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ mcep09302016ex322.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+  CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,  
+  AS ADOPTED PURSUANT TO SECTION 906  
+  OF THE SARBANES-OXLEY ACT OF 2002  
+    
+  In connection with the accompanying report on Form 10-Q for the period ended   September 30, 2016  , of Mid-Con Energy Partners, LP (the  Partnership ) and filed with the Securities and Exchange Commission on the date hereof (the  Report ), I,  Matthew R. Lewis, Chief Financial Officer of Mid-Con Energy GP, LLC, the general partner of the Partnership, hereby certify, pursuant to 18 U.S.C   1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:  
+    
+           1. 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              2. 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Partnership. 
+       
+  Date:   October 31, 2016    
+
+/s/ Matthew R. Lewis 
+        
+    Matthew R. Lewis 
+        
+    Chief Financial Officer  
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ mcep-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ mcep-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ mcep-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ mcep-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ mcep-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ mcep-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

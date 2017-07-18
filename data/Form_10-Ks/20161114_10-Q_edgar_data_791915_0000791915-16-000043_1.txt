@@ -1,0 +1,1213 @@
+<Header>
+<FileStats>
+    <FileName>20161114_10-Q_edgar_data_791915_0000791915-16-000043_1.txt</FileName>
+    <GrossFileSize>11526971</GrossFileSize>
+    <NetFileSize>177769</NetFileSize>
+    <ASCII_Embedded_Chars>632163</ASCII_Embedded_Chars>
+    <HTML_Chars>3577506</HTML_Chars>
+    <XBRL_Chars>5137375</XBRL_Chars>
+    <XML_Chars>1810722</XML_Chars>
+    <N_Tables>57</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000791915-16-000043.hdr.sgml : 20161111
+<ACCEPTANCE-DATETIME>20161114173718
+ACCESSION NUMBER:		0000791915-16-000043
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		105
+CONFORMED PERIOD OF REPORT:	20161002
+FILED AS OF DATE:		20161114
+DATE AS OF CHANGE:		20161114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CYPRESS SEMICONDUCTOR CORP /DE/
+		CENTRAL INDEX KEY:			0000791915
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				942885898
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0117
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10079
+		FILM NUMBER:		161996342
+
+	BUSINESS ADDRESS:	
+		STREET 1:		198 CHAMPION COURT
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+		BUSINESS PHONE:		4089432600
+
+	MAIL ADDRESS:	
+		STREET 1:		198 CHAMPION COURT
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+
+</SEC-Header>
+</Header>
+
+ 0000791915-16-000043.txt : 20161114
+
+10-Q
+ 1
+ cy-10022016x10xq.htm
+ 10-Q
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+
+FORM 10-Q 
+
+For the quarterly period ended   October 2, 2016    
+  OR 
+
+Commission file number 1-10079    
+
+CYPRESS SEMICONDUCTOR CORPORATION 
+  (Exact name of registrant as specified in its charter)    
+
+Delaware 
+      
+    94-2885898 
+
+(State or other jurisdiction of 
+  incorporation or organization) 
+      
+    (I.R.S. Employer 
+  Identification No.) 
+
+198 Champion Court, San Jose, California 95134 
+  (Address of principal executive offices and zip code) 
+  (408) 943-2600 
+  (Registrant s telephone number, including area code) 
+    
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes           No    
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes          No    
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of  large accelerated filer,   accelerated filer,  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one): 
+    
+                           Large accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated filer 
+      
+       (Do not check if a smaller reporting company) 
+      
+    Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes        No      
+  The total number of outstanding shares of the registrant s common stock as of November 1, 2016 was 322,699,760.    
+
+INDEX 
+
+Page 
+       PART I FINANCIAL INFORMATION  
+       Forward-Looking Statements  
+    4 
+
+Item 1. 
+     Condensed Consolidated Financial Statements (Unaudited)  
+    5 
+      Item 2. 
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    39 
+      Item 3. 
+     Quantitative and Qualitative Disclosures about Market Risk  
+    51 
+      Item 4. 
+     Controls and Procedures  
+    52 
+        
+       PART II OTHER INFORMATION  
+      Item 1. 
+     Legal Proceedings  
+    53 
+      Item 1A. 
+     Risk Factors  
+    53 
+      Item 2. 
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+    55 
+      Item 3. 
+     Defaults Upon Senior Securities  
+    56 
+      Item 4. 
+     Mine Safety Disclosures  
+    56 
+      Item 5. 
+     Other Information  
+    56 
+      Item 6. 
+     Exhibits  
+    56 
+        
+     Signatures  
+    58 
+        
+     Exhibit Index  
+    59 
+
+3 
+
+PART I FINANCIAL INFORMATION 
+   
+  Forward-Looking Statements 
+  The discussion in this Quarterly Report on Form 10-Q contains statements that are not historical in nature, but are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These statements involve risks and uncertainties that could cause actual results to differ materially from those anticipated by the forward-looking statements. Forward-looking statements include, but are not limited to, statements relating to: the expected timing and costs related to the integration of Cypress Semiconductor Corporation ( Cypress  or the  Company ) with Spansion Inc. ( Spansion ) as a result of our merger; our ability to execute on planned synergies related to the merger with Spansion and our related restructuring activities; the anticipated timing of the payout of the remaining Spansion restructuring reserve balance; the anticipated technological feasibility of our in-process research and development; estimated further amortization expense related to intangible assets; our expectations regarding our active litigation matters and our intent to defend ourselves in those matters; events that could cause a material change in unrecognized tax benefits and our ability to recognize those benefits; the specific strategies we are pursuing to achieve our goals on revenue growth and profitability; our ability to position the Company in high-growth markets; the value of non-GAAP financial measures to investors; the estimates we make in preparing our financial statements, including but not limited to those relating to our critical accounting policies; the expected impact on our operating results of changes in market interest rates applicable to our investment portfolio; our expectations regarding dividends and the tax treatment of dividends for recipients; our expectations regarding stock repurchases; our foreign currency exposure and the impact exchange rates could have on our operating results; the adequacy of our cash and working capital positions; and the value and liquidity of our investments. We use words such as  may,   will,   should,   expect,   plan,   intend,   anticipate,   believe,   estimate,   predict,   potential,   continue  and similar expressions to identify forward-looking statements. Such forward-looking statements are made as of the date hereof and are based on our current expectations, beliefs and intentions regarding future events or our financial performance and the information available to management as of the date hereof. We assume no responsibility to update any such forward-looking statements. Our actual results could differ materially from those expected, discussed or projected in the forward-looking statements contained in this Quarterly Report on Form 10-Q for any number of reasons, including, but not limited to: global economic and market conditions; business conditions and growth trends in the semiconductor market; our ability to compete effectively; the volatility in supply and demand conditions for our products, including but limited to the impact of seasonality on supply and demand; our ability to develop, introduce and sell new products and technologies; potential problems relating to our manufacturing activities and restructuring initiatives; the impact of acquisitions, including but limited to the continuing integration of Spansion and the recent acquisition of Broadcom s IoT business; our ability to attract and retain key personnel; and/or the materialization of one or more of the risks set forth in Part II, Item 1A (Risk Factors) in this Quarterly Report on Form 10-Q and in Part I, Item 1A (Risk Factors) in our Annual Report on Form 10-K for the fiscal year ended January 3, 2016. 
+
+4 
+
+ITEM 1. FINANCIAL STATEMENTS 
+
+CYPRESS SEMICONDUCTOR CORPORATION 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+  5 
+
+CYPRESS SEMICONDUCTOR CORPORATION 
+  CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+  6 
+
+CYPRESS SEMICONDUCTOR CORPORATION 
+  CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+  7 
+
+CYPRESS SEMICONDUCTOR CORPORATION 
+  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  (Unaudited)    
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+  8 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+  9 
+
+CYPRESS SEMICONDUCTOR CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Unaudited) 
+
+NOTE 1. BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+  Fiscal Years 
+  Cypress Semiconductor Corporation ( Cypress  or the  Company ) reports on a fiscal-year basis. The Company ends its quarters on the Sunday closest to the end of the applicable calendar quarter, except in a 53-week fiscal year, in which case the additional week falls into the fourth quarter of that fiscal year. Fiscal 2016 has 52 weeks and Fiscal 2015 had 53 weeks. The third quarter of fiscal 2016 ended on October 2, 2016 and the third quarter of fiscal 2015 ended on September 27, 2015. 
+  Basis of Presentation 
+  In the opinion of management, the accompanying unaudited condensed consolidated financial statements contain all adjustments of a normal, recurring nature, which are necessary to state fairly the financial information included therein. These financial statements should be read in conjunction with the audited consolidated financial statements and related notes thereto included in Cypress's Annual Report on Form 10-K for the fiscal year ended January 3, 2016. The year-end condensed balance sheet data was derived from audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States of America. 
+  On March 12, 2015, the Company completed the merger ( Spansion Merger ) with Spansion Inc. ( Spansion ) pursuant to the Agreement and Plan of Merger and Reorganization, as of December 1, 2014 (the "Merger Agreement"), for a total consideration of approximately   $2.8 billion  . Consequently, the financial condition and results of operations includes the financial results of legacy Spansion beginning March 12, 2015.  The comparability of our results for the nine months ended   October 2, 2016   to the same periods in fiscal 2015 is impacted by the Spansion Merger. 
+  On July 5, 2016, the Company completed its acquisition of certain assets primarily related to the Internet of Things business of Broadcom Corporation ("IoT business") pursuant to an Asset Purchase Agreement with Broadcom, dated April 28, 2016, for a total consideration of approximately   $550 million  .  Consequently, the financial condition and results of operations includes the financial results of IoT business beginning July 5, 2016.  The comparability of our results for the nine months ended   October 2, 2016   to the same periods in fiscal 2015 is impacted by this acquisition.  See Note 2 to the Notes to the Condensed Consolidated Financial Statements. 
+  Effective as of July 29, 2016, the Company has changed the method of accounting for its investment in Deca Technologies Inc. ("Deca") from consolidation to the equity method of accounting as a result of the investment by certain third party investors in Deca.  The comparability of our results for the nine months ended   October 2, 2016   to the same periods in fiscal 2015 is impacted by the said change.  See Note 6 for further details. 
+  Certain balances included in the Condensed Consolidated Balance Sheet and Condensed Consolidated Statement of Cash Flows for prior periods have been reclassified to conform to the current period presentation. 
+  The preparation of financial statements in conformity with accounting principles generally accepted in the United States ( GAAP ) requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. Actual results could differ from those estimates. 
+  The condensed consolidated results of operations for the three and nine months ended   October 2, 2016   are not necessarily indicative of the results to be expected for the full fiscal year. 
+    
+  During the three months ended October 2, 2016, the Company recorded out-of-period correcting adjustments primarily related to cut-off errors for foundry manufacturing costs, errors related to stock rotation balances, prior accounting for the non-controlling interest in Deca, and the over accrual of certain employee bonuses.      For the three months ended October 2, 2016, these out-of-period corrections resulted in a   $6.6 million   increase in the cost of revenues, a   $3.7 million   decrease in research and development expenses, and a   $2.1 million   reduction in the recognized gain on the investment in Deca, for an aggregate reduction in net income of   $5.0 million  . Of the aggregate out-of-period errors,   $4.0 million  ,   $8.3 million   and   $4.3 million   of the cost of revenues cut-off errors originated in the quarter and six months ended July 3, 2016 and the quarter ended April 3, 2016, respectively, whereas the errors related to the stock rotation balances, employee bonuses and accounting for the non-controlling interests primarily related to prior fiscal years.  The Company has assessed the impact of these errors and concluded that the amounts were not material, either individually or in the aggregate, to any prior periods financial statements and the impact of  
+  
+   10 
+
+correcting these errors in the three months ended October 2, 2016 is not material to the current consolidated financial statements or expected to be material to the full year fiscal 2016 financial statements. 
+  Summary of Significant Accounting Policies 
+  Revenue Recognition 
+  The Company has historically recognized a significant portion of revenue through distributors at the time the distributor resold the product to its end customer (also referred to as the sell-through basis of revenue recognition) given the difficulty in estimating the ultimate price of these product shipments and amount of potential returns. The Company continuously reassesses its ability to reliably estimate the ultimate price of these products and, over the past several years, has made investments in its systems and processes around its distribution channel to improve the quality of the information it receives from its distributors. Given these ongoing investments, and based on the financial framework we use for estimating potential price adjustments, in the fourth quarter of 2014 the Company began recognizing revenue on certain product families and with certain distributors (less its estimate of future price adjustments and returns) upon shipment to the distributors (also referred to as the sell-in basis of revenue recognition).   
+  During the three months ended   October 2, 2016  , the Company did not recognize any incremental revenue from conversion of new product families to the sell-in revenue recognition model. During the three months ended   September 27, 2015  , the Company recognized an incremental   $17.3 million   of revenue on additional product families for which revenue was previously recognized on a sell-through basis as it determined that it could reasonably estimate returns and pricing concessions at the time of shipment to distributors. This change resulted in a benefit to net income of approximately   $9.4 million   for the three months ended   September 27, 2015  , or   $0.03   per basic and diluted share. 
+    
+  During the nine months ended   October 2, 2016  , the Company recognized approximately   $46.4 million   of incremental revenue from this change in revenue recognition, which resulted in a reduction of the Company s net loss of approximately   $15.1 million   for the nine months ended   October 2, 2016  , or approximately   $0.05   per basic and   $0.04   per diluted share. During the nine months ended   September 27, 2015  , the Company recognized approximately   $39.1 million   of incremental revenue from this change, which resulted in a benefit to net income of approximately   $21.4 million   for the nine months ended   September 27, 2015  , or approximately   $0.07   per basic and diluted share.   
+    
+  During the three months ended   October 2, 2016  , the Company recognized approximately   $359.2 million   or   93.3%   of distribution revenue on a sell-in basis. During the three months ended   September 27, 2015  , the Company recognized approximately   $235.0 million   or   71.0%   of distribution revenue on a sell-in basis. During the nine months ended   October 2, 2016  , the Company recognized approximately   $899.2 million   or   89.4%   of distribution revenue on a sell-in basis. During the nine months ended   September 27, 2015  , the Company recognized approximately   $401.0 million   or   57.0%   of distribution revenue on a sell-in basis. 
+  Net income (loss) per Share 
+  Basic net income (loss) per share is calculated by dividing net loss available to common stockholders by the weighted average number of common shares outstanding during the period. Diluted EPS gives effect to all dilutive potential of shares of common stock outstanding during the period including stock options or warrants, using the treasury stock method (by using the average stock price for the period to determine the number of shares assumed to be purchased from the exercise of stock options or warrants), and convertible debt, using the treasury stock method. Diluted EPS excludes all dilutive potential of shares of common stock if their effect is anti-dilutive. 
+  Convertible debt 
+  In accounting for each series of Senior Exchangeable Notes at issuance, the Company separated the Notes into debt and equity components according to accounting standards codification ("ASC") 470-20 for convertible debt instruments that may be fully or partially settled in cash upon conversion. The carrying amount of the debt component, which approximates its fair value, was estimated by using an interest rate for non-convertible debt, with terms similar to the Notes. The excess of the principal amount of the Notes over the fair value of the debt component was recorded as a debt discount and a corresponding increase in additional paid-in capital. The debt discount is accreted to the carrying value of the Notes over their term as interest expense using the effective interest method. In accounting for the transaction costs incurred relating to issuance of the Notes, the Company allocated the costs of the offering in proportion to the fair value of the debt and equity recognized in accordance with the accounting standards. The transaction costs allocated to the debt are being amortized as interest expense over the term of the Notes. 
+  
+   11 
+
+In accounting for the cost of the capped call transaction entered in connection with the issuance of the Senior Exchangeable Notes, the Company included the cost as a net reduction to additional paid-in capital in the stockholders  equity section of the consolidated balance sheet, in accordance with the guidance in ASC 815-40 Derivatives and Hedging-Contracts in Entity s Own Equity.  See Note 11 for further details. 
+    
+  Assets Held for Sale 
+    
+  The Company considers properties to be assets held for sale when management approves and commits to a plan to actively market a property or group of properties for sale. Assets held for sale are recorded initially at the lower of its carrying value or its estimated fair value, less estimated costs to sell. Upon designation as an asset held for sale, the Company stops recording depreciation expense on such asset.  Costs to sell a disposal group include incremental direct costs to transact the sale and represent the costs that result directly from and are essential to a sale transaction that would not have been incurred by the entity had the decision to sell not been made. 
+    
+  The properties that are held for sale prior to the sale date are classified as held for sale and would be presented separately in the appropriate asset and liability sections of the balance sheet, unless the Company will have continuing involvement after the sale. See Note 5 for further details. 
+    
+  Recent Accounting Pronouncements 
+    
+  The following are the accounting pronouncements issued but not adopted that may materially affect the Company s consolidated financial statements: 
+    
+  In May 2014, the Financial Accounting Standard Board ( FASB ) issued Accounting Standard Update ( ASU ) 2014-09, "Revenue from Contracts with Customers." This standard update outlines a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers and supersedes most current revenue recognition guidance. The guidance is effective for annual reporting periods including interim reporting periods beginning after December 15, 2017. Early adoption is permitted for annual reporting periods including interim reporting periods beginning after December 15, 2016. As the new standard will supersede substantially all existing revenue guidance affecting the Company under GAAP, it could impact revenue and cost recognition on sales across all the Company's business segments, in addition to its business processes and its information technology systems. The Company is currently evaluating the impact the guidance will have on its consolidated financial statements and related disclosures and has not selected the transition method. 
+    
+  In August 2014, the Financial Accounting Standards Board ("FASB") issued Accounting Standard Update ("ASU") No. 2014-15, "Presentation of Financial Statements - Going Concern." The amendment requires that an entity's management evaluate whether there are conditions or events, considered in the aggregate, that raise substantial doubt about the entity's ability to continue as a going concern within one year after the date that the financial statements are issued. If conditions or events raise substantial doubt about an entity's ability to continue as a going concern additional disclosure is required to enable users of the financial statements to understand the conditions or events, management's evaluation of the significance of those conditions and management's plans to that are intended to alleviate or management's plans that have alleviated substantial doubt. The amendment is effective for annual periods ending after December 15, 2016, and for annual periods and interim periods thereafter. Early application is permitted. The Company does not believe that the adoption of this guidance will have any material impact on its consolidated financial statements. 
+           
+  In February 2016, the FASB issued ASU 2016-02,  Leases (Topic 842).  The core principle of Topic 842 is that a lessee should recognize the assets and liabilities that arise from leases. All leases create an asset and a liability for the lessee in accordance with FASB Concepts Statement No. 6, Elements of Financial Statements, and, therefore, recognition of those lease assets and lease liabilities represents an improvement over previous GAAP, which did not require lease assets and lease liabilities to be recognized for most leases. This ASU is effective for annual and interim periods beginning after December 15, 2018. Early adoption is permitted. The recognition, measurement, and presentation of expenses and cash flows arising from a lease by a lessee have not significantly changed from previous GAAP. The Company is currently evaluating the impact the guidance will have on its consolidated financial statements and related disclosures. 
+    
+  In March 2016, the FASB issued ASU 2016-08 which clarifies and provides operational and implementation guidance regarding principal and agent considerations. In April 2016, the FASB issued ASU 2016-10 which clarifies and provides guidance regarding identifying performance obligations and the licensing implementation guidance, while retaining the related principles for those areas as discussed in ASU 2014-09. The Company is currently evaluating the impact, if any, the adoption of this guidance will have on its consolidated financial statements. 
+  
+   12 
+
+In March 2016, the FASB issued ASU 2016-05,  Derivatives and Hedging (Topic 815): Effect of Derivative Contract Novations on Existing Hedge Accounting Relationships,  a consensus of the FASB Emerging Issues Task Force. The new guidance clarifies the hedge accounting impact when there is a change in one of the counterparties to the derivative contract   i.e., a novation. The new guidance clarifies that a change in the counterparty to a derivative contract, in and of itself, does not require the de-designation of a hedging relationship. An entity will, however, still need to evaluate whether it is probable that the counterparty will perform under the contract as part of its ongoing effectiveness assessment for hedge accounting. Therefore, a novation of a derivative to a counterparty with a sufficiently high credit risk could still result in the de-designation of the hedging relationship. The new guidance will be effective for public business entities in fiscal years beginning after December 15, 2016, including interim periods within those years. The Company is currently evaluating the impact the guidance will have on its consolidated financial statements and related disclosures. 
+    
+  In March 2016, the FASB issued ASU 2016-07,  Investments   Equity and Joint Ventures (Topic 323): Simplifying the Transition to the Equity Method of Accounting.  The new guidance requires that the equity method investor add the cost of acquiring the additional interest in the investee to the current basis of the investor s previously held interest and adopt the equity method of accounting as of the date the investment becomes qualified for equity method accounting. Therefore, upon qualifying for the equity method of accounting, no retroactive adjustment of the investment is required. Also, for an available for sale investment, the Company should recognize through earnings the unrealized holding gain or loss in accumulated other comprehensive income at the date the investment becomes qualified for use of the equity method. The new guidance will be effective for fiscal years and interim periods within those fiscal years, beginning after December 15, 2016. The Company does not believe the adoption of the guidance will have a material impact on its consolidated financial statements upon adoption. 
+  In March 2016, the FASB issued ASU 2016-09,  Compensation   Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting.  ASU 2016-09 simplifies several aspects of the accounting for share-based payments transactions, including the income tax consequences, classification of awards as either equity or liabilities, and classification on the statement of cash flows. For public entities, ASU 2016-09 is effective for fiscal years beginning after December 15, 2016, and interim periods within those fiscal years. Early adoption is permitted. The Company is currently evaluating the potential impact of adopting this guidance on its consolidated financial statements. 
+    
+  In August 2016, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No. 2016-15, Statement of Cash Flows (Topic 320): Classification of certain cash receipts and cash payments.  The updated guidance changes how certain cash receipts and cash payments are presented and classified in the statement of cash flows under Topic 230, Statement of Cash Flows, and other Topics.  The update to the standard is effective for the Company beginning January 1, 2018, with early application permitted. The Company is currently evaluating the impact the guidance will have on its consolidated financial statements.  
+
+NOTE 2. ACQUISITION  
+    
+  On July 5, 2016, the Company completed its acquisition of certain assets primarily related to the IoT business of Broadcom Corporation ( Broadcom ) pursuant to an Asset Purchase Agreement, dated April 28, 2016. In connection with the closing of the transaction, the Company paid Broadcom   $550 million   in cash. The results of business acquired as part of this acquisition is reported in the Company s Data Communications Division. 
+       The acquisition was accounted for using the purchase method of accounting. During the three months and nine months ended October 2, 2016 approximately   $5.9 million   and   $7.0 million   in expense were incurred as acquisition expenses related to the IoT business and were recorded in Selling, general and administrative line item in the Condensed Consolidated Statements of Operations. 
+    The table below represents the preliminary allocation of the purchase price to the net assets acquired based on their estimated fair values as of July 5, 2016: 
+  
+   13 
+
+The purchase price has been allocated based on the estimated net tangible and intangible assets of the IoT business that existed on the date of the acquisition. The fair value of identifiable intangible assets acquired was based on estimates and assumptions made by management at the time of the acquisition. As additional information becomes available, the Company may revise its preliminary purchase price allocation and such revisions or changes may be material.  
+  Identifiable intangible assets  
+  The table below shows the valuation of the intangible assets acquired from Broadcom along with their estimated remaining useful lives: 
+
+In-process research and development ("IPR D") consists of   6   projects.  These projects are expected to be completed over the next   1   year. The estimated remaining costs to complete the IPR D projects were approximately   $8.9 million   as of the acquisition date. The acquired IPR D will not be amortized until completion of the related products which is determined by when the underlying projects reach technological feasibility and commence commercial production. Upon completion, each IPR D project will be amortized over its useful life which are expected to be approximately   4   years. 
+    
+  Goodwill  
+  The excess of the fair value of the purchase consideration over the fair values of these identifiable assets and liabilities was recorded as goodwill. The goodwill recognized is primarily attributable to the assembled workforce, a reduction in costs and other synergies, and an increase in product development capabilities. Goodwill was allocated to the Company s Data Communications Division.  The goodwill resulting from the acquisition is expected to be deductible for tax purposes. 
+  Pro forma consolidated results of operations 
+  
+   14 
+
+The following unaudited pro forma consolidated results of operations for the three months and nine months ended October 2, 2016 and September 27, 2015 assume that the acquisition had occurred at the beginning of fiscal year 2015. The pro forma information includes adjustments to amortization and depreciation for intangible assets and property, plant and equipment, adjustments to stock-based compensation expense, and interest expense for the incremental indebtedness incurred, amortization of the step up to fair value of acquired inventory and the acquisition related expenses. The pro forma data are for informational purposes only and are not necessarily indicative of the consolidated results of operations of the combined business had the acquisition actually occurred at the beginning of fiscal year 2015 or of the results of future operations of the combined business. Consequently, actual results will differ from the unaudited pro forma information presented below. 
+
+NOTE 3. GOODWILL 
+    
+  Goodwill represents the excess of the purchase price over the fair value of the net tangible and identifiable intangible assets acquired in a business combination. The Company has   four   reporting units of which   two  , Memory Products Division (MPD) and Programmable Systems Division (PSD), carried goodwill in the amounts of   $770.0 million   and   $968.8 million   respectively, as of January 3, 2016. 
+    
+  During the second quarter of fiscal 2016, the Company concluded that a combination of factors, including (a) decreases in our forecasted operating results when compared with the expectations of the PSD reporting unit at the time of the Merger, primarily in consumer markets as the Company has subsequently increased its focus on the automotive and industrial end markets, (b) evaluation of business priorities due to recent changes in management, and (c) certain market conditions necessitated a quantitative impairment analysis for the carrying value of the Goodwill related to PSD which resulted in an impairment charge of   $488.5 million  .   
+    
+  As the first step of the quantitative test ( Step 1 ), the Company estimated the fair value of the net assets, including goodwill related to PSD. In estimating these fair values, a combination of a market approach and an income approach was utilized. This combination was deemed to be the best indication of the reporting unit s estimated fair value in an orderly transaction between market participants and is consistent with the methodology of the Company used for the goodwill impairment tests in prior years. In performing the Step 1 analysis in the second quarter of fiscal 2016, the Company applied a weighting of   75%   to the income approach and   25%   to the market approach. Under the market approach, the Company utilizes publicly-traded comparable company information to determine revenue and earnings multiples that are used to value the reporting units. Under the income approach, the Company determines fair value based on estimated future cash flows of the reporting unit discounted by an estimated weighted-average cost of capital, reflecting the overall level of inherent risk of the reporting unit and the rate of return an outside investor would expect to earn. The Company based cash flow projections for PSD on a forecast of cash flows and a terminal value based on perpetuity growth model for the industry. The forecast and related assumptions were derived from a recently completed five-year outlook which included adjustments arising from the changes in strategic decisions as discussed above. 
+    
+  Based on the Step 1 analysis, the Company concluded that the carrying value of PSD s net assets exceeded their estimated fair value as of June 1, 2016, the date of the analysis. 
+    
+  The Company then performed an analysis as of June 1, 2016, as required by ASC 350 and did not note an impairment in the carrying value of the long-lived assets related to PSD. 
+
+15 
+
+    CYPRESS SEMICONDUCTOR CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+The difference between the carrying and estimated fair value of the net assets as noted in Step 1, required the second step of the quantitative test ( Step 2 ) to be performed by comparing the carrying value of the goodwill related to PSD to its implied fair value. The implied fair value is calculated by allocating all of the assets and liabilities of the reporting unit, including any unrecognized intangible assets, in a hypothetical analysis that calculates the implied fair value of goodwill in the same manner as if the reporting unit was being acquired in a business combination. An impairment charge is recognized for the excess of the carrying value of goodwill over its implied fair value. 
+    
+  The Company finalized the Step 2 of the goodwill impairment test in the third quarter of fiscal 2016 with no further adjustments to the goodwill impairment charge. 
+    
+  Given the partial impairment recorded in the PSD reporting unit, it is reasonably possible that even small future changes in judgments, assumptions and estimates the Company made in assessing the implied fair value of goodwill could cause the Company to determine that some or all of the remaining goodwill of the PSD reporting unit has become impaired. In addition, a future decline in market conditions and/or changes in the Company s market share could negatively impact the market comparables, estimated future cash flows and discount rates used in the market and income approaches to determine the fair value of the reporting unit and could result in another material impairment charge in the future. 
+    
+  During the nine months ended   October 2, 2016  , the Company did not note any triggering events that necessitated an impairment analysis for the MPD reporting unit. 
+  The changes in the carrying amount of goodwill by reportable segment for the nine months ended   October 2, 2016   were as follows: 
+
+(1) 
+    The Company had previously recorded an impairment charge of   $351.3 million   in the fourth quarter of fiscal 2008. 
+
+NOTE 4. INTANGIBLE ASSETS 
+  The following table presents details of the Company's intangible assets: 
+
+(a) 
+    Included in the intangible assets are in-process research and development ( IPR D ) projects acquired as part of the Spansion Merger and the acquisition of the IoT business, that had not attained technological feasibility and commercial production. IPR D assets are accounted for initially as indefinite-lived intangible assets until the completion the associated research and development efforts.  Upon completion, the carrying value of every related intangible asset will be amortized over the remaining estimated life of the asset beginning in the period in which the project is completed. 
+     
+   16 
+
+The below table presents details of the In-process-research and development assets as of October 2, 2016: 
+
+In the first quarter of fiscal 2016, the Company recognized a   $33.9 million   impairment charge related to   two   IPR D projects that were cancelled due to changes in the Company s product portfolio strategy.  The impairment charges are included in the  Impairment of acquisition-related intangible assets  line in the Condensed Consolidated Statements of Operations. 
+    
+  The Company expects the remaining IPR D projects as of   October 2, 2016   to attain technological feasibility by the third quarter of fiscal 2017. 
+  The estimated future amortization expense related to developed technology and other intangible assets as of   October 2, 2016   is as follows: 
+
+17 
+
+NOTE 5. ASSETS HELD FOR SALE  
+    
+    In the third quarter of fiscal 2016, the Company committed to a plan to sell its wafer manufacturing facility located in Bloomington, Minnesota, as well as a building in Austin, Texas.  The sale of both of these groups of assets is expected to be completed in the next   12   months. 
+    
+  The carrying value of these assets held for sale at the end of the quarter reflects the lower of carrying value or fair value, net of estimated costs to sell the assets. The Company performed an analysis and estimated the fair value of the assets, less estimated selling costs, and determined the value was lower than the carrying value of the assets. As a result, based on this analysis the Company recorded an impairment charge of   $35.3 million   during the third quarter of fiscal 2016 to write these assets down to their estimated fair value, less selling costs.   
+
+NOTE 6. INVESTMENT IN DECA TECHNOLOGIES INC. 
+    
+  On July 29, 2016,  Deca Technologies Inc. ("Deca"), a majority owned subsidiary of the Company entered into a share purchase agreement (the "Purchase Agreement"), whereby certain third-party investors purchased   41.1%   of the shares outstanding at the said date for an aggregate consideration of approximately   $111.4 million  . Concurrently, Deca repurchased certain of its preferred shares from Cypress.  
+  After giving effect to the above transactions, the Company's ownership in Deca was reduced to   52.2%   as of July 29, 2016.  As a consequence of the substantive rights afforded to third party new investors in the Purchase Agreement, including, among other things, participation on the Board of Directors of Deca, the approval of operating plans, approval of indebtedness, the Company determined that it no longer has the power to direct the activities of Deca that most significantly impact Deca's economic performance.  However, since the Company continues to have significant influence over Deca's financial and operating policies, effective July 29, 2016, the investment in Deca is being accounted for as an equity method investment and is no longer a consolidated subsidiary.  The carrying value of this equity method investment was determined based on the fair value of the equity in Deca, which the Company calculated to be   $142.5 million  . The fair value of the remaining   52.5%   investment in Deca retained by the Company was calculated with reference to the investment by the third-party investors. This represents the Company's remaining investment in Deca immediately following the investments by the third-party investors.   As a result of the change in the method of accounting for the Company's investment in Deca from consolidation to the equity method of accounting, the net carrying value of the assets and liabilities related to Deca, and the adjustments related to the recognition of the initial fair value of the equity method investment resulted in a gain of   $112.8 million   which has been reflected as "Gain related to investment in Deca Technologies Inc." in the Condensed Consolidated Statements of Operations and was calculated as follows: 
+
+18 
+
+NOTE 7. BALANCE SHEET COMPONENTS 
+  Accounts Receivable, Net 
+
+Inventories 
+
+Other Current Assets 
+
+19 
+
+Other Long-term Assets 
+
+Other Current Liabilities 
+
+Other Long-term Liabilities 
+
+NOTE 8. RESTRUCTURING 
+  Spansion Integration-Related Restructuring Plan 
+  In March 2015, the Company began the implementation of planned cost reduction and restructuring activities in connection with the Merger. 
+  The following table summarizes the restructuring charges recorded in the Company s Condensed Consolidated Statements of Operations for the periods presented pursuant to the Spansion Integration-Related Restructuring Plan: 
+  
+   20 
+
+All restructuring costs are included in Costs and expenses under "Restructuring costs" in the Condensed Consolidated Statements of Operations.  
+    
+  2016 Restructuring Plan 
+    
+  In September 2016, the Company began implementation of a reduction in workforce ("2016 Plan") which is expected to result in elimination of approximately   450   positions worldwide across various functions.  The personnel costs related to the 2016 plan during the three months ended October 2, 2016 were   $7.7 million  .  The Company expects that the cash costs incurred under the 2016 plan will be paid out through second quarter of fiscal 2017. 
+    
+  The following table summarizes the restructuring charges recorded in the Company s Condensed Consolidated Statements of Operations for the periods presented pursuant to the 2016 Plan: 
+  Restructuring activity under the Spansion Integration   Related Restructuring Plan and the 2016 Plan, during the nine months ended   October 2, 2016   was as follows: 
+
+The Company anticipates that the remaining restructuring accrual balance will be paid out in cash through the second quarter of fiscal 2017 for employee terminations and over the remaining lease term through 2026 for the excess lease obligation related to the buildings Spansion had leased prior to the Merger, which the Company decided not to occupy in the post-Merger period. 
+
+21 
+
+NOTE 9. FAIR VALUE MEASUREMENTS 
+  Assets/Liabilities Measured at Fair Value on a Recurring Basis 
+  The following tables present the fair value hierarchy for the Company's financial assets and liabilities measured at fair value on a recurring basis and its non-financial liabilities measured at fair value on a non-recurring basis as of   October 2, 2016   and January 3, 2016: 
+
+(1) 
+    Available for sale securities, maturing within   one year  .  There were   no   unrealized gains or losses recorded during the three and nine months ended   October 2, 2016   and   September 27, 2015   related to these securities. 
+     The Company did not have any assets or liabilities measured at fair value on a recurring basis using level 3 inputs as of   October 2, 2016   and January 3, 2016.  There were   no   transfers between Level 1, Level 2 and Level 3 fair value hierarchies during the nine months ended   October 2, 2016  . 
+    
+  There have been no changes to the valuation techniques used to measure the fair value of the Company's assets and liabilities. For a description of the valuation techniques, refer to Note 5 of the Notes to Consolidated Financial Statements included in the Company's Annual Report on Form 10-K for the year ended January 3, 2016. 
+    
+  Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis 
+  Certain of the Company s assets, including Intangible Assets and Goodwill are carried at historical cost but are re-measured on a non-recurring basis and are subject to fair value adjustments only in certain circumstances (for example, when there is evidence of impairment).  For the nine months ended   October 2, 2016  , the Company recorded a   $33.9 million   impairment charge related to   two   IPR D projects acquired in the Merger. During the same period the Company recorded a   $488.5 million   goodwill impairment charge related to the PSD reporting unit based on a fair value measurement that included  
+  
+   22 
+
+level 3 inputs.  During the three months ended October 2, 2016, the Company recorded a   $35.3 million   impairment charge related to assets held for sale based on a fair value measurement that included level 3 inputs. See Note 5 for further details. There were   no   impairment charges recorded for the three and nine months ended   September 27, 2015  . 
+  As of   October 2, 2016  , the carrying value of the Company's Revolving Credit Facility was   $327.0 million   (See Note 11). The carrying value of the Company's Credit Facility approximates its fair value since it bears an interest rate that is comparable to rates on similar credit facilities and is determined using Level 2 inputs. 
+  The Company's   2.00%   Senior Exchangeable Notes assumed as part of the Merger are traded in the market and are categorized as a Level 2 liability. The carrying value and the estimated fair value of the said Notes as of   October 2, 2016   were   $134.5 million   and   $343.9 million  , respectively.  See Note 11 for further details. 
+  The Company s   4.50%   Senior Convertible Notes are traded in the secondary market and the fair value is determined using Level 2 inputs.  The carrying value and the estimated fair value of the debt portion of the said Notes as of   October 2, 2016   were   $234.0 million   and   $325.8 million  , respectively.  See Note 11 for further details. 
+  Investments in Equity Securities 
+  The Company's investments in equity securities include long-term investments in non-marketable equity securities of privately-held companies with carrying values of approximately   $203.8 million   and   $50.5 million   as of   October 2, 2016   and January 3, 2016, respectively. 
+  Included in the Company's non-marketable equity securities recorded within  Other long-term assets  line item of the Condensed Consolidated Balance Sheet is an investment in Enovix Corporation ( Enovix ).  This investment is being accounted for using the equity method. During the three and nine months ended   October 2, 2016  , the Company invested an additional   $6.0 million   and   $18.0 million  , respectively, in Enovix, which increased the Company s cumulative total investment to   $74.5 million  .  This represented   44.8%   of the investee's outstanding voting shares as of   October 2, 2016  . The Company held   38.7%   of this investee s voting shares as of January 3, 2016.  Also included in the Company's  Other long-term assets  line item of the Condensed Consolidated Balance Sheet is the Company's investment in Deca.  Effective as of July 29, 2016, the Company has changed the method of accounting for its investment in Deca from consolidation to equity method of accounting as a result of investment by certain third party investors in Deca.  The Company held   52.2%   of Deca's outstanding voting shares as of October 2, 2016.  See Note 6 for further details. 
+  The Company s total investments in equity securities accounted for under the cost method included in long-term investments in non-marketable equity securities (investments in privately-held companies) are   $11.4 million   and   $9.2 million  , as of October 2, 2016 and January 3, 2016, respectively.  
+
+NOTE 10. EMPLOYEE STOCK PLANS AND STOCK-BASED COMPENSATION 
+  The Company's equity incentive plans are broad-based, long-term programs intended to attract and retain talented employees and align stockholder and employee interests. 
+  The following table summarizes the stock-based compensation expense by line item recorded in the Condensed Consolidated Statements of Operations: 
+
+As of   October 2, 2016   and January 3, 2016, stock-based compensation capitalized in inventories totaled   $4.1 million   and   $4.3 million  , respectively. 
+  
+   23 
+
+The following table summarizes the stock-based compensation expense by type of awards: 
+
+The following table summarizes the unrecognized stock-based compensation expense, net of estimated forfeitures, by type of awards: 
+
+During the second quarter of fiscal 2016, the Company, as part of the severance agreement executed with Dr. T.J. Rodgers, accelerated the vesting of the PSU s previously granted and modified the vesting conditions such that   100%   of such awards effective date of his termination which was April 28, 2016. During the third quarter of fiscal 2016, as part of the severance agreements executed with   two   executives, the Company accelerated vesting of options, RSU's and PSU's previously granted and modified the vesting conditions. Included in the stock-based compensation expense for the nine months ended October 2, 2016 is an amount of   $4.3 million   related to the impact of the said modifications. 
+  Equity Incentive Program 
+  As of   October 2, 2016  , approximately   24.4 million   stock options, or   15.1 million   RSUs/PSUs were available for grant as share based awards under the 2013 Stock Plan, the 2010 Equity Incentive Award Plan (formerly the Spansion 2010 Equity Incentive Award Plan) and the 2012 Incentive Award Plan (formerly the Ramtron Plan).  As of   October 2, 2016  , there were   2.6 million   shares of stock available for issuance under the ESPP plan. 
+  Stock Options 
+  The following table summarizes the Company's stock option activities: 
+
+24 
+
+There were   no   options granted for the three and nine months ended   October 2, 2016  . 
+  Restricted Stock Units ( RSUs ) and Performance-Based Restricted Stock Units ( PSUs ) 
+  The following table summarizes the Company's RSU/PSU activities: 
+
+The increase in shares granted in the third quarter of fiscal 2016 is primarily due to stock issued in connection with the acquisition of the IoT business. 
+  On April 1, 2016, the Compensation Committee of the Company approved the grant of   0.9 million   awards of restricted stock units to certain of the Company s executive officers (the  2016 Grants ). Approximately   57%   of the 2016 Grants are in the form of PSUs which vest based on achievement of   two   performance milestones: product development and production milestones and Gross Margin goals over the next   two years  .  Such PSU grants will be capped at target levels if Cypress s total shareholder return (TSR) is negative, even if the product development and production or Gross Margin performance milestones  
+  
+   25 
+
+are achieved at above-target or maximum levels. The remaining   43%   of the 2016 Grants are in the form of RSUs which cliff vest based on continued service over   two years  . 
+  In addition to PSUs subject to the milestones specified above, a portion of the grants under the 2015 performance based restricted stock ( PARS ) Program are RSUs which have service-based vesting terms under which employees are eligible to earn   100%   of their RSUs if they remain an employee of the Company through specified dates between fiscal 2016 and 2018. 
+
+NOTE 11. DEBT 
+    
+  Total debt is comprised of the following: 
+
+4.50% Senior Exchangeable Notes 
+    
+  On June 23, 2016, the Company, issued at face value,   $287.5 million   of Senior Exchangeable Notes due in 2022 (the  Notes ) in a private placement to qualified institutional buyers under Rule 144A of the Securities Act of 1933, as amended. The Notes are governed by an Indenture ( Indenture ), dated June 23, 2016, between the Company and U.S. Bank National Association, as Trustee. The Notes will mature on   January 15, 2022  , unless earlier repurchased or converted, and bear interest of   4.50%   per year payable semi-annually in arrears on January 15 and July 15, commencing on January 15, 2017. The Notes may be due and payable immediately in certain events of default. 
+    
+  The Notes are exchangeable for an initial exchange rate of   74.1372   shares of common stock per   $1,000   principal amount of the Notes (equivalent to an initial exchange price of approximately   $13.49   per share) subject to adjustments for anti-dilutive issuances and make-whole adjustments upon a fundamental change. A fundamental change includes a change in control, delisting of the Company s stock and liquidation, consolidation or merger of the Company. Prior to October 15, 2021, the Notes will be exchangeable under certain specified circumstances as described in the Indenture.  On or after October 15, 2021, until the close of business on the second scheduled trading day immediately preceding the maturity date, the Notes will be convertible in multiples of   $1,000   principal amount regardless of the foregoing circumstances.   
+    
+  Upon conversion, the Company may pay or deliver, as the case may be, cash, shares of its common stock or a combination of cash and shares of its common stock, at its election. If the Company satisfies its conversion obligation solely in cash or through payment and delivery, as the case may be, of a combination of cash and shares of its common stock, the amount of cash and shares of common stock, if any, due upon conversion will be based on a pre-defined conversion value. 
+    
+  It is the Company s intent that upon conversion, the Company would pay the holders of the Notes cash for an amount up to the aggregate principal the Notes. If the conversion value exceeds the principal amount, the Company intends to deliver shares of its common stock in respect to the remainder of its conversion obligation in excess of the aggregate principal amount  
+  
+   26 
+
+( conversion spread ). Accordingly, for the purposes of calculating diluted earnings per share, there would be no adjustment to the numerator in the net income per common share computation for the cash settled portion of the Notes, as that portion of the debt liability is expected to be settled in cash. The conversion spread, will be included in the denominator for the computation of diluted net income per common share, using the treasury stock method. 
+    
+  In accordance with ASC 470-20, Debt with Conversion and Other Options, the Company separated the Notes into liability and equity components. The carrying amount of the liability component was calculated by measuring the estimated fair value of a similar liability that does not have an associated convertible feature. Such amount was based on the contractual cash flows discounted at an appropriate market rate for non-convertible debt at the date of issuance, which was determined to be   82.9%   of the par value of the Notes or   $238.3 million  . The carrying amount of the equity component of   $49.2 million   representing the conversion option was determined by deducting the fair value of the liability component from the face value of the Convertible Notes as a whole. The excess of the principal amount of the liability component over its carrying amount ("debt discount") is accreted to interest expense over the term of the Notes using the effective interest method. The equity component is not re-measured as long as it continues to meet the conditions for equity classification. 
+    
+  The Company incurred transaction costs of approximately   $8.63 million   relating to the issuance of the Notes.  The transaction costs of   $8.63 million   include   $7.91 million   of financing fees paid to the initial purchasers of the Notes, and other estimated offering expenses payable by the Company. In accounting for these costs, the Company allocated the costs of the offering in proportion to the fair value of the debt and equity recognized in accordance with the accounting standards. The transaction costs allocated to the debt component of approximately   $7.2 million   and are being amortized as interest expense over the term of the Notes using the effective yield method. The transaction costs allocated to the equity component of approximately   $1.5 million   were recorded as a reduction of additional paid-in capital.   
+    
+  At the debt issuance date, the Convertible Notes, net of issuance costs, consisted of the following (in thousands): 
+
+The following table includes total interest expense related to the Notes recognized during the three and nine months ended   October 2, 2016   (in thousands): 
+
+The net liability component of the Notes as of   October 2, 2016   is comprised of the following (in thousands): 
+
+27 
+
+Capped Calls 
+    
+  In connection with the issuance of the Notes, the Company entered into capped call transactions with certain bank counterparties to reduce the risk of potential dilution of the Company s common stock upon the exchange of the Notes. The capped call transactions have a strike price of approximately   $13.49   and a cap price of approximately   $15.27  , and are exercisable when and if the Notes are converted. If upon conversion of the Notes, the price of the Company s common stock is above the strike price of the capped calls, the counterparties will deliver shares of the Company s common stock and/or cash with an aggregate value approximately equal to the difference between the price of the Company s common stock at the conversion date (as defined, with a maximum price for purposes of this calculation equal to the cap price) and the strike price, multiplied by the number of shares of the Company s common stock related to the capped call transactions being exercised. The capped calls expire in   January 2022  . The Company paid   $8.2 million   for these capped calls which was recorded as a reduction of additional paid-in capital. 
+     Senior Secured Revolving Credit Facility 
+  On April 27, 2016, the Company amended and restated its existing senior secured revolving credit facility ("Credit Facility") of   $540 million  . The borrowings under the Credit Facility bear interest, at the Company's option, at an adjusted base rate plus a spread of   1.25%  , or an adjusted LIBOR rate plus a spread of   2.25%  . The borrowings under the Credit Facility are guaranteed by certain present and future wholly-owned material domestic subsidiaries of the Company (the  Guarantors ) and are secured by a security interest in substantially all assets of the Company and the Guarantors. The financial covenants include the following conditions: 1) maximum total leverage ratio of   4.50  x through October 2016,   4.25  x until January 1, 2017,   4.00   x until April 2, 2017 and   3.75  x thereafter, and 2) minimum fixed charge coverage ratio of   1.00  x. The Company incurred financing costs of   $2.6 million   related to the Credit Facility which has been capitalized and recognized in other long-term assets on the Condensed Consolidated Balance Sheet. These costs will be amortized over the life of the Credit Facility and recorded in  Interest Expense  on the Condensed Consolidated Statement of Operations. 
+    
+  As per the terms of the Credit Facility, the Company entered into a Joinder Agreement on December 22, 2015 under which the Company borrowed an additional   $100 million   ( Term Loan A ). Term Loan A is subject to, at the Company s option, either an interest rate equal to (i)   3.25%   over LIBOR or (ii) an interest rate equal to   2.25%   over the greater of (x) the prime lending rate published by the Wall Street Journal, (y) the federal funds effective rate plus   0.50%  , and (z) the LIBOR rate for a one month interest period plus   1%  . The Company paid a   1.00%   upfront fee in connection with the Term Loan A. Such Term Loan A is payable in quarterly installments equal to   1.25%   of the principal per quarter for 2016,   1.875%   of the principal per quarter for 2017 and 2018, and   2.50%   of the principal per quarter thereafter, with the remaining outstanding principal amount due at final maturity on   March 12, 2020  . It may be voluntarily prepaid at the Company s option and is subject to mandatory prepayments equal to (i)   50%   of excess cash flow, as defined in the agreement, (stepping down to   25%   and   0%   based on a decrease in total leverage ratio over time) at the end of each fiscal year, (ii) the net cash proceeds from certain asset sales (subject to certain reinvestment rights) and (iii) the proceeds from any debt issuances not otherwise permitted under the Credit Agreement. The Company incurred financing costs of   $2.8 million   to the lenders of Term Loan A which has been capitalized and recognized as a deduction of the Term Loan A balance in  Long-term revolving credit facility and long term debt  on the Consolidated Balance Sheet. These costs will be amortized over the life of Term Loan A and recorded in  Interest Expense  on the Condensed Consolidated Statement of Operations. 
+    
+  On July 5, 2016 the Company entered into a Joinder and Amendment Agreement with the guarantors party thereto, the initial incremental term loan lenders party thereto and Morgan Stanley Senior Funding, Inc., as administrative agent and collateral agent . The Joinder Agreement supplements the Company s existing Amended and Restated Credit and Guaranty Agreement, dated as of March 12, 2015, by and among the Company, the guarantors, the lenders, the Agent, and Morgan Stanley Bank, N.A., as issuing bank and others. 
+  The Joinder and Amendment Agreement provides for the incurrence by the Company of an incremental term loan in an aggregate principal amount of   $450.0 million   ( Term Loan B ). The incurrence of Term Loan B is permitted as an incremental loan under the Credit Agreement and is subject to the terms of the Credit Agreement and to additional terms set forth in the Joinder and Amendment Agreement. Term Loan B will initially bear interest at (i)  an adjusted LIBOR rate loan  
+  
+   28 
+
+plus an applicable margin of   5.50%   or (ii) an adjusted base rate loan plus an applicable margin of   4.50%  .  Following the delivery of the Compliance Certificate and the financial statements for the period ending the last day of the third Fiscal Quarter of 2016, Term Loan B shall bear interest, at the Company s option, at (i) an adjusted LIBOR rate plus an applicable margin of either   5.25%   or   5.50%  , or (ii) an adjusted base plus an applicable margin of either   4.25%   or   4.50%  , with the applicable margin in each case determined based on the Company s total net leverage ratio for the trailing twelve month period ended as of the last day of the Company s most recently ended fiscal quarter. The Company paid an upfront fee to the initial incremental lenders in an amount equal to   1.5%   of the aggregate principal amount of the Incremental Term Loan funded. The Company is required to pay a prepayment premium of   1%   of the principal amount prepaid if it prepays the Incremental Term Loan in certain circumstances prior to the date that is twelve months after the Closing Date. Term Loan B was fully funded on the Closing Date and matures on July 5, 2021.The Company incurred financing costs of   $11.5 million   to the lenders of Term Loan B which has been capitalized and recognized as a deduction of the Term Loan B balance in  Long-term revolving credit facility and long term debt  on the Condensed Consolidated Balance Sheet. These costs will be amortized over the life of Term Loan B and recorded in  Interest Expense  on the Condensed Consolidated Statement of Operations. 
+    
+  As of   October 2, 2016  ,   $873.9 million   aggregate principal amount of loans, including Term Loan A, Term Loan B and letters of credit, were outstanding under the Credit Facility. 
+  As of   October 2, 2016  , the Company was in compliance with all of the financial covenants under the Credit Facility. 
+  2.00% Senior Exchangeable Notes 
+  Pursuant to the Merger, Cypress assumed Spansion's   2.00%   Senior Exchangeable Notes (the  Assumed Notes ) on March 12, 2015. They are fully and unconditionally guaranteed on a senior unsecured basis by the Company. The Assumed Notes will mature on September 1, 2020, unless earlier repurchased or converted, and bear interest of   2.00%   per year payable semi-annually in arrears on March 1 and September 1. The Assumed Notes may be due and payable immediately in certain events of default. 
+  As of   October 2, 2016  , the Assumed Notes are exchangeable for   190.3   shares of common stock per   $1,000   principal amount of the Notes (equivalent to an exchange price of approximately   $5.26  ) subject to adjustments for dividends, anti-dilutive issuances and make-whole adjustments upon a fundamental change. A fundamental change includes a change in control, delisting of the Company s stock and liquidation, consolidation or merger of the Company. According to the Indenture, a change in control occurs when a person or group becomes the beneficial owner directly or indirectly, of more than   50%   of the Company s common stock. In the case of a consolidation or merger, if the surviving entity continues to be listed, no change of control will be triggered. Prior to June 1, 2020, the Assumed Notes will be exchangeable under certain specified circumstances as described in the Indenture. 
+  Upon conversion, the Company may pay or deliver, as the case may be, cash, shares of our common stock or a combination of cash and shares of its common stock, at its election. If the Company satisfies its conversion obligation solely in cash or through payment and delivery, as the case may be, of a combination of cash and shares of our common stock, the amount of cash and shares of common stock, if any, due upon conversion will be based on a pre-defined conversion value. 
+  It is Company s intent that upon conversion, the Company would pay the holders of the Notes cash for an amount up to the aggregate principal the Notes. If the conversion value exceeds the principal amount, the Company intends to deliver shares of its common stock in respect to the remainder of its conversion obligation in excess of the aggregate principal amount ( conversion spread ). Accordingly, for the purposes of calculation of diluted earnings per share, there would be no adjustment to the numerator in the net income per common share computation for the cash settled portion of the Notes, as that portion of the debt liability is expected to be settled in cash. The conversion spread, will be included in the denominator for the computation of diluted net income per common share, using the treasury stock method. 
+  The net carrying amount of the liability component of the Assumed Notes as of   October 2, 2016   consists of the following: 
+
+29 
+
+The following table presents the interest on the Assumed Notes recognized as an expense during the three and nine months ended   October 2, 2016   and   September 27, 2015  : 
+
+Equipment Loans 
+  In December 2011, the Company obtained equipment loans from a financial institution for an aggregate amount of approximately   $14.1 million   which are collateralized by certain manufacturing equipment and bear interest of   3.15%   to   3.18%   per annum payable in   60   equal installments.  The balance of   $0.3 million   outstanding against these loans as of   October 2, 2016   is payable within the remaining three months of fiscal 2016. 
+  Capital Leases 
+  In 2011, the Company entered into capital lease agreements which allow it to borrow up to   $35.0 million   to finance the acquisition of certain manufacturing equipment. Assets purchased under all capital leases are included in  Property, plant and equipment, net  on the Company's Condensed Consolidated Balance Sheet. 
+  As of   October 2, 2016  , the gross value and net book value of manufacturing equipment purchased under these capital leases were   $18.8 million   and   $9.4 million  , respectively.  As of January 3, 2016, the gross value and net book value of manufacturing equipment purchased under these capital leases were   $20.5 million   and   $11.9 million  , respectively. 
+  Future Debt Payments 
+  For each of the next five years and beyond, the scheduled maturities of the Company's debt including interest as of   October 2, 2016  , are as follows: 
+
+NOTE 12. EQUITY TRANSACTIONS 
+  $450 million Stock Buyback Program 
+    
+  On October 20, 2015, the Company entered into a new   $450 million   stock buyback program ( October 2015 program ). The program allows the Company to purchase its common stock or enter into equity derivative transactions related to our common stock. The timing and actual amount expended with the new authorized funds will depend on a variety of factors including the market price of the Company s common stock, regulatory, legal, and contractual requirements, alternatives uses of cash, availability of on-shore cash and other market factors. The October 2015 program does not obligate the Company to  
+  
+   30 
+
+repurchase any particular amount of common stock and may be modified or suspended at any time at the Company s discretion. Through the end of third quarter of fiscal 2016, the Company has repurchased a total of   29.5 million   shares for a total cost of   $239.0 million   under the October 2015 program. Of this,   23.8 million   shares worth   $182.5 million   were repurchased in the nine months ended   October 2, 2016  , which includes withholdings for tax obligations on vested stock-based awards. 
+    
+  Dividends 
+  On August 9, 2016, the Company's Board of Directors approved a cash dividend of   $0.11   per share payable to holders of record of its common stock at the close of the business day on September 29, 2016. This cash dividend was paid on October 20, 2016 and totaled approximately   $35.4 million   which was accrued for and shown as  Dividends payable  on the Condensed Consolidated Balance Sheet as of   October 2, 2016  . 
+    
+  For US income tax purposes, the Company will make a determination as to whether 2016 distributions are to be treated as a return of capital or a dividend after the Company's 2016 fiscal year end. At this time the Company anticipates that 2016 distributions will be taxable dividends and should be treated accordingly by dividend recipients until a final determination can be made. The Company s distribution policy and the payment of cash distributions under that policy are subject to the Board's continuing determination that the distribution policy and the declaration of dividends are in the best interests of the Company s stockholders and are in compliance with all laws and agreements of the Company applicable to the declaration and payment of cash distributions. This policy may be changed or cancelled in the Company s discretion at any time. 
+
+NOTE 13. COMMITMENTS AND CONTINGENCIES 
+  Operating Lease Commitments 
+  The Company leases certain facilities and equipment under non-cancelable operating lease agreements that expire at various dates through fiscal   2020  . Some leases include renewal options, which would permit extensions of the expiration dates at rates approximating fair market rental values at the time of the extension. 
+  As of   October 2, 2016  , future minimum lease payments under non-cancelable operating leases were as follows: 
+
+Restructuring accrual balances related to operating facility leases were   $14.9 million   and   $17.4 million   as of   October 2, 2016   and January 3, 2016, respectively. 
+  Product Warranties 
+  The Company generally warrants its products against defects in materials and workmanship for a period of   one year   and that product warranty is generally limited to a refund of the original purchase price of the product or a replacement part. The Company estimates its warranty costs based upon its historical warranty claim experience. Warranty returns are recorded as an allowance for sales returns. The allowance for sales returns is reviewed quarterly to verify that it properly reflects the remaining obligations based on the anticipated returns over the balance of the obligation period. 
+  The following table presents the Company's warranty reserve activities: 
+
+31 
+
+Litigation and Asserted Claims 
+  In a matter associated with Ramtron International Corporation ( Ramtron ), a wholly owned subsidiary of Cypress, bankruptcy proceedings are ongoing in Italy where the trustee for   four   bankrupt entities of Finmek S.pA. is seeking refunds of approximately   $2.8 million   in payments made by Finmek to Ramtron prior to Finmek s bankruptcy in 2004. In November 2014, one of the courts presiding over these proceedings found that   two   payments should be refunded to Finmek, which currently total approximately   $0.5 million  , including interest and fees. The Company believes this ruling was made in error and has filed an appeal (Court of Appeal of Venice, Docket no. 2706/2015). The Company has prevailed in all other related proceedings, which the trustee may appeal (Court of Appeal of Venice, Docket Nos. 1387/2014 and 2487/2015; Tribunal of Padua Docket No. 5378/2009). Due to the current stage of the proceedings and the appellate process, the Company cannot reasonably estimate the loss or the range of possible losses, if any. 
+  In 2013, a former employee filed a grievance against the Company with the U.S. Department of Labor ( DOL ) seeking back pay and reinstatement or forward pay. That matter was tried before an administrative law judge in July 2014. In December 2014, the administrative law judge issued a ruling in favor of the former employee for amounts totaling approximately   $1.3 million  . On March 30, 2016, the ruling was affirmed by the DOL Administrative Review Board.  The Company believes both rulings were erroneous and filed an appeal in the United States Court of Appeals for the Tenth Circuit on April 29, 2016 (Case No. 16-9523).  The respective positions of the parties and the appellate process prevent a reasonable determination of the outcome at this time. This former employee also filed a complaint for wrongful termination in state court in El Paso County, Colorado on March 4, 2015 (Case No. 2015-cv-30632). The state court litigation is stayed pending resolution of the DOL matter. The Company believes the state court action is meritless and will defend against the allegations.  Due to the current stage of the proceedings and the appellate process, the Company cannot reasonably estimate the loss or the range of possible loss, if any. 
+  After our announcement of the merger between the Company and Spansion Inc. in December 2014,   two   separate putative class action complaints   (Walter Jeter v. Spansion Inc., et. al.   (No. 114-cv-274635) and   Shiva Y. Stein v. Spansion Inc., et. al.   (No. 114-cv-274924)) were filed in Santa Clara County Superior Court in December 2014, alleging claims of breach of fiduciary duty against Spansion s board of directors and naming Cypress as a defendant for aiding and abetting the alleged breach of fiduciary duty. While Cypress believes these lawsuits to be meritless, Spansion and Cypress entered into a memorandum of understanding with plaintiffs, the terms of which required additional disclosures by the Company and payment of nominal attorneys  fees to the class counsel. Final resolution of these litigations matters will require court approval of a final settlement agreement.  Due to the current stage of the proceedings, the Company cannot reasonably estimate the loss or the range of possible loss, if any. 
+  The Company is involved in various trademark opposition proceedings with Kingston Technology Corporation ( Kingston ) concerning Kingston s  HYPERX  trademark and the Company s  HYPERRAM  trademark, including Trademark Trial and Appeal Board Proceeding Nos. 91218100, 91222728, and 92061796.  The Company believes its defenses and counterclaims have merit and will continue to defend its intellectual property.  Due to the current stage of the proceedings, the Company cannot reasonably estimate the loss or the range of possible loss, if any. 
+    
+  On May 17, 2016, a patent infringement case was filed by North Star Innovations, Inc. ( North Star ) against the Company and UMC Group USA ( UMC ) in the U.S. District Court for the District of Delaware (Case No. 16-cv-368).  North Star alleges that the Company infringes   three   patents.  On September 26, 2016, North Star filed a second case against the Company and UMC in the U.S. District Court for the Central District of California (Case No. 16-cv-01721), asserting   two   additional patents against the Company, as well as   one   of the patents asserted in the Delaware lawsuit.  These matters are still in  
+  
+   32 
+
+the very early stages and the Company will defend against the allegations accordingly.  Due to the current stage of the proceedings, the Company cannot reasonably estimate the loss or the range of possible loss, if any. 
+    
+  On August 15, 2016, a patent infringement lawsuit was filed by the California Institute of Technology ( Caltech ) against the Company in the U.S. District Court for the Central District of California (Case No. 16-cv-03714).  The other co-defendants are Apple Inc., Avago Technologies Limited, Broadcom Corporation, and Broadcom Limited.  Caltech alleges that defendants infringe   four   patents.  The matter is still in the very early stages and the Company will defend against the allegations accordingly.  Due to the current stage of the proceedings, the Company cannot reasonably estimate the loss or the range of possible losses, if any. 
+    
+  In September 2016, the Company was named in a lawsuit filed by Standard Communications Pty Ltd. in Sydney, Australia, for approximately   $1.1 million   in costs associated with a product recall.  The matter is still in the very early stages and the Company will defend against the allegations accordingly.  Due to the current stage of the proceedings, the Company cannot reasonably estimate the loss or the range of possible losses, if any. 
+  The Company is currently a party to various other legal proceedings, claims, disputes and litigation arising in the ordinary course of business. Based on its own investigations, the Company believes the ultimate outcome of the current legal proceedings, individually and in the aggregate, will not have a material adverse effect on its financial position, results of operation or cash flows. However, because of the nature and inherent uncertainties of the litigation, should the outcome of these actions be unfavorable, the Company's business, financial condition, results of operations or cash flows could be materially and adversely affected. 
+  Indemnification Obligations 
+  The Company is a party to a variety of agreements pursuant to which it may be obligated to indemnify other parties to such agreements with respect to certain matters. Typically, these obligations arise in the context of contracts that the Company has entered into, under which the Company customarily agrees to hold the other party harmless against losses arising from a breach of representations and covenants or terms and conditions related to such matters as the sale and/or delivery of its products, title to assets sold, certain intellectual property claims, defective products, specified environmental matters and certain income taxes. In these circumstances, payment by the Company is customarily conditioned on the other party making a claim pursuant to the procedures specified in the particular contract, which procedures typically allow the Company to challenge the other party s claims and vigorously defend itself and the third party against such claims. Further, the Company's obligations under these agreements may be limited in terms of time, amount or the scope of its responsibility and in some instances, the Company may have recourse against third parties for certain payments made under these agreements. 
+  It is not possible to predict the maximum potential amount of future payments under these agreements due to the conditional nature of the Company's obligations and the unique facts and circumstances involved in each particular agreement. Historically, payments the Company has made under these agreements have not had a material effect on the Company s business, financial condition or results of operations. Management believes that if the Company were to incur a loss in any of these matters, such loss would not have a material effect on its business, financial condition, cash flows or results of operations, although there can be no assurance of this. As of   October 2, 2016  , the Company had no reason to believe a loss exceeding amounts already recognized had been incurred. 
+
+NOTE 14. FOREIGN CURRENCY DERIVATIVES 
+  The Company enters into multiple foreign exchange forward contracts to hedge certain operational exposures resulting from fluctuations in Japanese yen and Euro exchange rates.  The Company does not enter into derivative securities for speculative purposes. The Company s hedging policy is designed to mitigate the impact of foreign currency exchange rate fluctuations on its operating results. Some foreign currency forward contracts were considered to be economic hedges that were not designated as hedging instruments while others were designated as cash flow hedges. Whether designated or undesignated as cash flow hedges or not, these forward contracts protect the Company against the variability of forecasted foreign currency cash flows resulting from revenues, expenses and net asset or liability positions designated in currencies other than the U.S. dollar.  The maximum original duration of any contract allowable under the Company s hedging policy is   13 months  . 
+  Cash Flow Hedges 
+  The Company enters into cash flow hedges to protect non-functional currency inventory purchases and certain other operational expenses, in addition to its on-going program of cash flow hedges to protect its non-functional currency revenues against variability in cash flows due to foreign currency fluctuations. The Company s foreign currency forward contracts that  
+  
+   33 
+
+were designated as cash flow hedges have maturities between   three   and   nine months  . All hedging relationships are formally documented, and the hedges are designed to offset changes to future cash flows on hedged transactions at the inception of the hedge. The Company recognizes derivative instruments from hedging activities as either assets or liabilities on the balance sheet and measures them at fair value on a monthly basis. The Company records changes in the intrinsic value of its cash flow hedges in accumulated other comprehensive income on the Condensed Consolidated Balance Sheets, until the forecasted transaction occurs. Interest charges or  forward points  on the forward contracts are excluded from the assessment of hedge effectiveness and are recorded in interest and other income (expense), net in the Condensed Consolidated Statements of Operations. When the forecasted transaction occurs, the Company reclassifies the related gain or loss on the cash flow hedge to revenue or costs, depending on the risk hedged.  In the event the underlying forecasted transaction does not occur, or it becomes probable that it will not occur, the Company will reclassify the gain or loss on the related cash flow hedge from accumulated other comprehensive income to interest and other income (expense), net in its Condensed Consolidated Statements of Operations at that time. 
+  The Company evaluates hedge effectiveness at the inception of the hedge prospectively as well as retrospectively and records any ineffective portion of the hedge in interest and other income (expense), net in its Condensed Consolidated Statements of Operations. 
+  At   October 2, 2016  , the Company had outstanding forward contracts to buy approximately    3,578 million   for   $34.9 million  . 
+  Non-designated hedges 
+  Total notional amounts of net outstanding contracts were as summarized below: 
+
+The effect of derivative instruments on the Condensed Consolidated Statements of Operations for the three and nine months ended   October 2, 2016   was immaterial. 
+    
+  The gross fair values of derivative instruments on the Condensed Consolidated Balance Sheets as of   October 2, 2016   and January 3, 2016 were as follows: 
+
+NOTE 15. INCOME TAXES 
+  The Company's income tax expense was   $3.3 million   and    $2.3 million   for the three months ended   October 2, 2016   and   September 27, 2015  , respectively.  The income tax expense for the three months ended October 2, 2016 and September 27, 2015 was primarily due to non-U.S. income taxes on income earned in foreign jurisdictions.  The Company s income tax expense was   $1.8 million   for the nine months ended   October 2, 2016   and   $1.2 million   for the nine months ended   September 27, 2015  .  The income tax expense for the nine months ended   October 2, 2016   was primarily attributable to income taxes associated with the Company s non-US operations, primarily offset by release of previously accrued taxes related to the lapsing  
+  
+   34 
+
+of statutes of limitation.  The income tax expense for the nine months ended   September 27, 2015   was primarily a result of non-U.S. income taxes on income earned in foreign jurisdictions which was partially offset by the tax impact of accounting for certain acquired assets and liabilities as a result of the Merger resulting in   $5.3 million    of the Company s valuation allowance being released.   
+  Unrecognized Tax Benefits 
+  As of   October 2, 2016   and January 3, 2016 the amount of unrecognized tax benefits that, if recognized, would affect the Company's effective tax rate totaled   $26.7 million   and   $28.4 million  , respectively. 
+  Management believes events that could occur in the next 12 months which could cause a material change in unrecognized tax benefits include, but are not limited to, the following: 
+     completion of examinations by the U.S. or foreign taxing authorities; and 
+     expiration of statute of limitations on the Company's tax returns. 
+  The calculation of unrecognized tax benefits involves dealing with uncertainties in the application of complex global tax regulations. Management regularly assesses the Company s tax positions in light of legislative, bilateral tax treaty, regulatory and judicial developments in the countries in which the Company does business. The Company believes it is reasonably possible that it may recognize up to approximately   $3.6 million   of its existing unrecognized tax benefits within the next twelve months as a result of the lapse of statutes of limitations and the resolution of agreements with domestic and various foreign tax authorities. 
+  Classification of Interest and Penalties 
+  The Company classifies interest and penalties as components of the income tax provision in the Condensed Consolidated Statements of Operations. As of   October 2, 2016   and January 3, 2016, the amounts of accrued interest and penalties totaled   $9.9 million   and   $12.0 million  , respectively. 
+
+NOTE 16. NET INCOME (LOSS) PER SHARE 
+  The following table sets forth the computation of basic and diluted net loss per share: 
+
+For the three months ended   October 2, 2016   and   September 27, 2015  , approximately   4.8 million   and   8.8 million  , weighted average potentially dilutive securities consisting of outstanding stock options, unvested RSUs and PSUs and convertible debt, respectively, were excluded in the computation of diluted net income (loss) per share because their effect would have been anti-dilutive. For the nine months ended   October 2, 2016   and   September 27, 2015  , approximately   8.9 million   and   3.3 million  , weighted average potentially dilutive securities consisting of outstanding stock options, unvested RSUs and PSU s and convertible debt, respectively, were excluded in the computation of diluted net income (loss) per share because their effect would have been anti-dilutive. 
+
+NOTE 17. SEGMENT, GEOGRAPHICAL AND CUSTOMER INFORMATION 
+  Segment Information 
+  
+   35 
+
+The Company designs, develops, manufactures and markets a broad range of high-performance solutions for embedded systems, from automotive, industrial and networking platforms to highly interactive consumer devices. In connection with Cypress s merger with Spansion, the Company has aligned Spansion's   two   major product groups with Cypress's existing business segments: legacy Spansion flash memory products are reported in the Company's Memory Products Division and legacy Spansion microcontroller and analog products are reported in the Company's Programmable Systems Division.  IoT products acquired from Broadcom are reported in the Company's Data Communications Division. 
+    
+  Effective as of July 29, 2016, the Company has changed the method of accounting for its investment in Deca from consolidation to the equity method of accounting as a result of the investment by certain third party investors in Deca. Deca was included in the Company s Emerging Technologies Division. 
+
+Revenue 
+
+Income (loss) before Income Taxes 
+
+The Company does not allocate goodwill and intangible assets impairment charges, impact of purchase accounting, IPR D, severance and retention costs, acquisition-related costs, stock-based compensation, interest income and other, and  
+  
+   36 
+
+interest expense to its segments. In addition, the Company does not allocate assets to its segments. The Company excludes these items consistent with the manner in which it internally evaluates its results of operations. 
+  Geographical Information 
+  The following table presents revenues by geographical locations    1     
+
+1    Prior period numbers have been revised to conform to current period presentation.  During the second quarter of fiscal 2016, the Company started presenting this information based on location of customers to whom the sale of products was made. 
+    
+   2    Greater China includes China, Taiwan and Hong Kong. 
+    
+  Property, plant and equipment, net, by geographic locations were as follows: 
+
+The Company tracks its assets by physical location. Although management reviews asset information on a corporate level and allocates depreciation expense by segment, the Company s chief operating decision maker does not review asset information on a segment basis. 
+  Customer Information 
+  Outstanding accounts receivable from   three   of the Company's distributors accounted for   28%  ,   7%   and   7%   of its consolidated accounts receivable as of   October 2, 2016  . Outstanding accounts receivable from   three   of the Company's distributors, accounted for   42%  ,   11%   and   9%   of its consolidated accounts receivable as of January 3, 2016. 
+  Revenue generated through   one   of the Company's distributors accounted for   24.0%   of its consolidated revenue for the three months ended   October 2, 2016  .  Revenue generated through   one   of the Company s distributor accounted for   24.0%   of its consolidated revenue for the nine months   October 2, 2016  .   No   end customer accounted for   10%   or more of the Company's revenues for the three and nine months ended   October 2, 2016  . 
+  Revenue generated through   one   of the Company's distributors accounted for   27%   of its consolidated revenue for the three months ended   September 27, 2015  .  Revenue generated through   two   of the Company s distributors accounted for   25%   and   10%   of its consolidated revenue for the nine months ended   September 27, 2015  .    No   end customer accounted for   10%   or more of the Company s revenue for the three and nine months ended   September 27, 2015  . 
+  
+   37 
+
+38 
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+  The Management s Discussion and Analysis of Financial Condition and Results of Operations ( MD A ) in this Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, that involve risks and uncertainties, which are discussed in the  Forward-Looking Statements  section under Part I of this Quarterly Report on Form 10-Q. 
+  EXECUTIVE SUMMARY 
+  Overview 
+  Cypress Semiconductor Corporation ( Cypress  or  the Company ) manufactures and sells advanced embedded system solutions for automotive, industrial, home automation and appliances, consumer electronics and medical products. Cypress s programmable systems-on-chip, general-purpose microcontrollers, analog ICs, IoT and USB-based connectivity solutions and memories help engineers design differentiated products and help with speed to market. Cypress is committed to providing customers with quality support and engineering resources. 
+    
+  Mergers   acquisitions  
+  Merger with Spansion 
+  On March 12, 2015, we completed the merger ( Merger ) with Spansion Inc. ("Spansion") pursuant to the Agreement and Plan of Merger and Reorganization, dated as of December 1, 2014 (the "Merger Agreement"), for a total consideration of approximately $2.8 billion. In accordance with the terms of the Merger Agreement, Spansion shareholders received 2.457 Cypress shares for each Spansion share they owned. The Merger has been accounted for under the acquisition method of accounting in accordance with Financial Accounting Standards Board Accounting Standard Topic 805, Business Combinations, with Cypress treated as the accounting acquirer. To date, the Company has incurred $102.8 million of merger and integration costs in addition to restructuring and other items associated with the Merger and integration. The post-Merger company is expected to realize more than $180 million in cost synergies on an annualized basis within two years, and create a leading global provider of microcontrollers and specialized memories needed in today's embedded systems. 
+  Acquisition of Broadcom Corporation s Internet of Things business ( IoT business ) 
+  On July 5, 2016, we completed the acquisition of certain assets primarily related to the IoT business of Broadcom pursuant to an Asset Purchase Agreement with Broadcom Corporation, dated April 28, 2016, for a total consideration of $550 million.  Consequently, our financial condition and results of operations includes the financial results of the IoT business beginning July 5, 2016.  The comparability of our results for the nine months ended October 2, 2016 to the same periods in fiscal 2015 is significantly impacted by the acquisition.  To date, we have incurred approximately $13.0 million of acquisition related costs, including professional fees and other costs associated with the acquisition. 
+   In our discussion and analysis of comparative periods, we have quantified the contribution of additional revenue or expense resulting from this transaction wherever such amounts were material and identifiable. While identified amounts may provide indications of general trends, the analysis cannot completely address the effects attributable to integration efforts.  
+    
+  The following MD A includes the financial results of legacy Spansion beginning March 12, 2015 and the financial results of the IoT business acquired from Broadcom beginning July 5, 2016.  The comparability of our results for the three and nine months ended October 2, 2016 to the same prior year periods is significantly impacted by these transactions. 
+  Divestiture of TrueTouch      Business 
+  In connection with the sale of the TrueTouch      Mobile touchscreen business to Parade Technologies ( Parade ) on August 1, 2015, we entered into a Manufacturing Service Agreement ( MSA ) in which we agreed to sell finished wafers and devices to Parade during the one-year period following the close of the transaction.  The terms of the MSA provide that we would sell finished products to Parade at agreed-upon prices that were considered below fair market value, indicating that there was an embedded fair value that would be realized by Parade through those terms.  Accordingly, we have allocated approximately $19.9 million from the $98.6 million proceeds to the fair value of the MSA based on the forecasted wafer sales to Parade for the subsequent one-year period.  That amount was deferred on our consolidated balance sheet initially and is being amortized to revenue as we sell products to Parade.  During the three and nine months ended   October 2, 2016  , we recognized approximately $5.9 million and $14.4 million of revenue from amortization of the deferred revenue. 
+  
+   39 
+
+Investment in Deca Technologies Inc. 
+  On July 29, 2016,  Deca Technologies Inc. ("Deca"), our majority owned subsidiary entered into a share purchase agreement (the "Purchase Agreement"), whereby certain third-party investors purchased 41.1% of the shares outstanding at the said date for an aggregate consideration of approximately $111.4 million. Concurrently, Deca repurchased certain of its preferred shares from us.  
+  After giving effect to the above transactions, our ownership in Deca reduced to 52.2% as at July 29, 2016.  As a consequence of the substantive rights afforded to third party new investors in the purchase agreement, including, among other things, participation on the Board of directors of Deca, approval of operating plans, approval of indebtedness etc., we determined that we no longer have the power to direct the activities of Deca that most significantly impacts Deca's economic performance. However, as we continue to have significant influence over Deca's financial and operating policies, effective July 29, 2016, the investment in Deca is being accounted for as an equity method investment  and is no longer a consolidated subsidiary.  The carrying value of this equity method investment was determined based on the fair value of the equity in Deca, which the Company calculated to be $142.5 million.  This represents our remaining investment in Deca immediately following the investments by third-party investors.  As a result of the change in the method of accounting for our investment in Deca from consolidation to the equity method of accounting, the net carrying value of the assets and liabilities related to Deca, and the adjustments related to the recognition of the initial fair value of the equity method investment resulted in  a gain of $112.8 million which has been reflected as "Gain related to investment in Deca Technologies Inc." in the Condensed Consolidated Statements of Operations. 
+  New Chief Executive Officer and Executive Chairman 
+    
+  Effective August 10, 2016, Hassane El-Khoury was promoted to the position of President and Chief Executive Officer of the Company. Upon the effectiveness of Mr. El-Khoury s appointment as President and Chief Executive Officer, the Office of President and Chief Executive Officer, which had been performing the duties of the President and Chief Executive Officer since April 2016, was dissolved by the Board.  Mr. El-Khoury served as Executive Vice President, Programmable Systems Division from 2012 until his appointment as President and Chief Executive Officer.  
+    
+  Effective August 10, 2016, the Board appointed H. Raymond Bingham as Executive Chairman, a newly created position pursuant to which Mr. Bingham will function as both an executive officer of the Company and as Chairman of the Board. As Executive Chairman, Mr. Bingham will report directly to the Board.  
+  Business Segments 
+  We evaluate our reportable business segments in accordance with the applicable accounting guidance. In connection with our Merger, we have aligned Spansion's two major product groups for embedded applications with our existing product divisions: Spansion's flash memory with our Memory Products Division and Spansion's microcontroller and analog products with our Programmable Systems Division. Products from the IoT business are included in our Data Communications Division. 
+  We operate in the following four reportable business segments: 
+
+40 
+
+Business Segments 
+      
+    Description 
+
+PSD  : Programmable Systems Division 
+      
+    PSD focuses on high-performance, programmable solutions. The portfolio includes Traveo  automotive microcontrollers, PSoC      programmable system-on-chip products, ARM      Cortex     -M4, -M3, -M0+ microcontrollers and R4 CPUs, analog PMIC Power Management ICs and automotive LED drivers, CapSense      capacitive-sensing controllers,  automotive and industrial touchscreen solutions and PSoC solutions for the IoT. Effective March 12, 2015, PSD added Spansion s microcontroller and analog products. 
+
+DCD  : Data Communications Division 
+      
+    DCD focuses on USB controllers, including solutions for the USB Type-C and USB Power Delivery standards; Wi-Fi     , Bluetooth     , Bluetooth Low Energy and ZigBee      solutions; PRoC  programmable radio-on-chip solutions; WirelessUSB  solutions. Effective July 5, 2016, DCD added Broadcom s IoT business products. 
+
+MPD  : Memory Products Division 
+      
+    MPD focuses on high-performance serial and parallel NOR Flash memories, NAND Flash memories, static random access memory (SRAM), and high-reliability F-RAM  ferroelectric memory and nonvolatile SRAM (nvSRAM) devices. Effective March 12, 2015, MPD added Spansion s flash memory products. 
+
+ETD  : Emerging Technologies Division 
+      
+    Also known as our  startup  division, ETD includes subsidiaries AgigA Tech Inc. and Deca Technologies Inc., as well as our foundry business and other development-stage activities. Effective as of July 29, 2016, we changed the method of accounting for its investment in Deca from consolidation to equity method of accounting. 
+
+O  ur primary focus is profitable growth in our key markets. With the addition of the legacy Spansion business and our acquisition of Broadcom Corporation s IoT business, we plan to capitalize on our expanded product portfolio and market positions in advanced embedded systems solutions to extend our penetration of global markets such as automotive, industrial, communications, consumer, computation, communications. Our revenue model is based on the following product and market strategies: (a) growing revenue from our high-performance, programmable solutions and derivatives including PSoC programmable system-on-chip products and microcontrollers in the automotive and industrial markets, (b) increasing our DCD revenue through the integration of Wi-Fi , Bluetooth  and ZigBee  connectivity from the Broadcom  IoT Business acquisition and through the introduction of new products such as USB Type-C solutions, SuperSpeed USB 3.0 peripheral controllers and Bluetooth  Low Energy solutions that leverage Cypress s PRoC  programmable radio-on-chip technology for the IoT and other applications, (c) increasing market share in our memory products by leveraging our market position and expanding our portfolio with new and complementary products, and (d) revenue growth from ETD, which includes our internal startup companies. For profitability, our focus is to finish integrating the acquired Spansion and IoT businesses successfully and fully realize the anticipated product cost and operational cost synergies. Our integration effort includes the re-focusing of portions of the legacy Spansion business to higher-margin opportunities, particularly in the Flash memory business. We monitor our operating expenses closely to improve our operating leverage. 
+  In order to achieve our goals on revenue growth and profitability, Cypress will continue to pursue the following strategies: 
+             
+    Cross-sell products from Cypress s expanded product portfolio in the wake of the Spansion Merger and Broadcom IoT business acquisition  . We will continue to pursue product and business synergies to grow our revenue.  We will expand our efforts to offer our customers system solutions that leverage multiple Cypress products, providing more value and driving revenue growth and gross margin improvement.  We will continue to pursue business synergies to achieve more efficient operations. 
+                
+    Focus on large and growing markets,     particularly automotive, industrial and Internet of Things.   We will continue to pursue business opportunities in large and growing markets leveraging our unique mix of PSoC and microcontrollers, memories, Wi-Fi, Bluetooth, Bluetooth Low Energy and ZigBee wireless solutions, USB Type-C controllers, capacitive touch-sensing solutions, analog power management ICs and other products. 
+                
+    Successfully complete the integration of our business with Spansion.   We are committed to integrating the businesses of Cypress and Spansion successfully to finish realizing the anticipated cost synergies and improve profitability. 
+     
+   41 
+
+Drive profitability through tight management of operating expenses  . Cypress maintains a corporate wide focus on margin and operating expenses. We are committed to maintaining our operating expense management without compromising our new product development. 
+                
+    Collaborate with customers to build system-level solutions.   We work closely with our customers from initial product design through manufacturing and delivery to optimize their design efforts, help them achieve product differentiation, improve their time-to-market and help them to develop whole product solutions.  
+                
+    Drive programmable technologies, extend our leadership in programmable products and drive PSoC proliferation.   We will continue to define, design and develop new programmable products and solutions that offer our customers increased flexibility and efficiency, higher performance, and higher levels of integration with a focus on analog functionality. We will continue to drive PSoC and microcontroller adoption in our key market segments. 
+                
+    Leverage flexible manufacturing.   Our manufacturing strategy combines capacity from leading foundries with output from our internal manufacturing facilities. This enables us to adjust to rapid swings in customer demand while reducing the burden of fixed costs. 
+                
+    Pursue complementary strategic relationships.   We will continue to assess opportunities to develop strategic relationships through acquisitions, investments, licensing and joint development projects.  
+                
+    G  ross margin expansion initiatives  . We will continue to execute to our gross margin improvement plan, which includes our initiatives to increase utilization of our Fab and to improve our Flash margins. 
+     As we continue to implement our strategies, there are many internal and external factors that could impact our ability to meet any or all of our objectives. Some of these factors are discussed under Part I Item 1A in our Annual Report on Form 10-K for the year ended January 3, 2016 as well as in Part II Item 1A in this Quarterly Report on Form 10-Q. 
+  Results of Operations 
+  Revenues 
+  Our total revenues increased by $  60.0 million   or   12.9%   to   $523.8 million   for the three-month period ended   October 2, 2016   compared to the same period in the prior year primarily due to the impact of the IoT business acquisition. The overall average selling price of our products for the three months ended   October 2, 2016   was $1.10 and it decreased by $0.13 compared with the same period in the prior year.  The decrease in average selling price is primarily due to price decline in products in PSD and MPD divisions. 
+  Our total revenues increased by $  235.2 million    or   20.3%   to   $1,392.9 million   for the nine-month period ended   October 2, 2016   compared to the same period in the prior year. Revenue for the nine months ended   October 2, 2016  , benefited by $206.8 million from sales of the legacy Spansion products, as compared to the revenues for the nine months ended September 27, 2015 which included such sales only for a partial period offset by the divestiture of the True Touch  business. 
+  Revenue recorded during the nine months ended October 2, 2016, benefited by $62.6 million from sales of IoT business products, as the acquisition closed in the third quarter of fiscal 2016. The overall average selling price of our products for the nine months ended   October 2, 2016   was $1.14 which decreased by $0.06 compared with the same period in the prior year.  The decrease in average selling price is primarily due to price decline in products in the MPD division. 
+  Consistent with our accounting policies and generally accepted accounting principles, we have historically recognized a significant portion of revenue through distributors at the time the distributor resold the product to its end customer (also referred to as the sell-through basis of revenue recognition) given the difficulty in estimating the ultimate price of these product shipments and amount of potential returns. We continually reassess our ability to reliably estimate the ultimate price of these products and, over the past several years, we have made investments in our systems and processes around our distribution channel to improve the quality of the information we receive from our distributors. Given these ongoing investments, and based on the financial framework we use for estimating potential price adjustments,  in the fourth quarter of 2014 the Company began recognizing revenue on certain product families and with certain distributors (less its estimate of future price adjustments and returns) upon shipment to the distributors (also referred to as the sell-in basis of revenue recognition).   
+  During the three months ended   October 2, 2016  , we did not recognize any incremental revenue from conversion of new product families to the sell-in revenue recognition model.  During the three months ended   September 27, 2015  , we recognized an incremental $17.3 million of revenue on new product families or distributors for which we recognized revenue on a sell-in basis.  During the nine months ended   October 2, 2016  , we recognized approximately $46.4 million of incremental revenue from this change in revenue recognition, which resulted in an increase to our net income of approximately $15.1 million for the nine months ended   October 2, 2016  , or approximately $0.05 per basic and $0.04 per diluted shares. During the nine months ended   September 27, 2015  , we recognized approximately $39.1 million of incremental revenue from this change, which  
+  
+   42 
+
+resulted in a benefit to our net income of approximately $21.4 million for the nine months ended   September 27, 2015  , or approximately $0.07 per basic and diluted shares.   
+  During the three months ended   October 2, 2016  , we recognized approximately $359.2 million or 93.3% of distribution revenue on a sell-in basis. During the three months ended   September 27, 2015  , we recognized approximately $235.0 million or 71.0% of distribution revenue on a sell-in basis.  During the nine months ended   October 2, 2016  , we recognized approximately $899.2 million or 89.4% of distribution revenue on a sell-in basis. During the nine months ended   September 27, 2015  , we recognized approximately $401.0 million or 57.0% of distribution revenue on a sell-in basis. 
+  The following table summarizes our consolidated revenues by segments: 
+
+Programmable Systems Division: 
+  Revenues from PSD increased by $  3.8 million   and $  57.0 million   in the three and nine months ended or increased by   2.1%   and   12.5%  , respectively, compared to the same prior-year period.   The increase in the three months ended   October 2, 2016   as compared to the same prior-year period was driven by increase in sales in the automotive segment.  The increase for the nine-month period ended   October 2, 2016   as compared to the same prior-year period was due to $98.0 million of revenue contributions from Spansion products.  Excluding the impact of Spansion revenues, revenues from PSD decreased $41.0 million for the nine months ended   October 2, 2016   or $23.9%, compared to same prior-year period primarily due to a $41.3 million decrease in revenue from the TrueTouch      mobile business as a result of divestiture of the business on August 1, 2015. 
+  The overall average selling price of our products for PSD for the three and nine months ended   October 2, 2016   was $1.01 and $1.10 which decreased by $0.07 and increased by $0.07 compared with the same prior-year period.  The decrease in average selling price for the three months ended October 2, 2016 compared to the same prior year period was primarily due to price decline in microcontroller and analog products.  The increase  in the average selling price for the nine months ended October 2, 2016 was primarily due to product mix as a result of divestiture of the True Touch      mobile business. 
+  Memory Products Division: 
+  Revenues from MPD decreased by approximately $  21.2 million   and increased by $  61.9 million   or decreased by   8.3%   and increased by   10.0%   in the three and nine months ended   October 2, 2016  , compared to the same prior-year period. The decrease in the three months ended   October 2, 2016   as compared to the same prior-year period was primary driven by decrease in the consumer market segment and a strategic decision to exit low margin business. The increase for the nine-month period ended   October 2, 2016   as compared to the same prior-year period was due to $108.0 million of revenue contribution from the Spansion flash memory business which was partially offset by $37.5 million of decrease in revenue from SRAM products. 
+  The overall ASP s of our products for MPD for the three and nine months ended   October 2, 2016   were $1.28 for both periods,  which decreased by $0.13 and $0.16, respectively, compared with the same prior-year periods.  The decrease is primarily due to decline in sales of NOR and NAND products. 
+  Data Communications Division: 
+  Revenues from the DCD increased by approximately $71.1 million and $79.1 million or 404.0% and 143.1% in the three and nine months ended October 2, 2016, respectively, compared to the same prior-year period due to additional revenue from the IoT business. During the three months ended October 2, 2016, revenue related to the IoT business was $62.6 million. Excluding the IoT business, revenue has increased by $8.5 million and $16.5 million for the three and nine month ended October 2, 2016 respectively. For the legacy Cypress business the increase was mostly driven by increase in revenue from USB Type C and USB 3.0 products for the three and nine month period ended October 2, 2016. 
+  
+   43 
+
+The overall ASP s of our products for DCD, for the three and nine months ended October 2, 2016 were $0.93 and $0.80, respectively, which increased  by $0.13 compared to  three months ended September 27, 2015 and stayed flat compared to the nine months ended September 27, 2015. The increase in average selling price for the three months ended October 2, 2016 compared to the same prior year period was primarily due to product mix as a result of the acquisition of the IoT business. The average selling price for the nine months ended October 2, 2016 stayed flat primarily due to price decline in the USB products, and product mix as a result of the IoT business acquisition. 
+  Excluding the impact of the IoT business, the ASPs were $0.60 and $0.62 and these ASPs decreased by $0.20 and $0.18 for the three and nine months ended October 2, 2016, respectively, compared to the same prior year period. Excluding the impact of IoT, the decrease in ASPs was primarily due to decline in price in USB 3.0 products. 
+  Emerging Technologies Division: 
+    
+  Revenues from the ETD increased by approximately  $6.4 million and $37.2 million or 48.7%  and 133.7% in the three and nine months ended October 2, 2016, respectively, compared to the same prior-year periods primarily due to the overall increase in customer demand at all of our ETD companies.  The increase was also attributable to increases in our foundry revenues as we began selling products to Parade Technologies in August 2015 under the Manufacturing Services Agreement, which was signed in connection with our disposition of the TrueTouch  Mobile business.  These increases were partially offset by the change in the method of accounting for our investment in Deca from consolidation to equity method of accounting as a result of investment by certain third party investors in Deca effective July 29, 2016. 
+  Cost of Revenues 
+
+Our cost of revenue ratio is significantly impacted by the mix of products we sell, which is often difficult to forecast with accuracy. Therefore, if we achieve significant revenue growth in our lower margin (i.e. revenue less cost of revenue) product lines, or if we are unable to earn as much revenue as we expect from higher margin product lines, our gross margin may be negatively impacted. Our cost of revenue ratio improved from 65.4% during the three months ended September 27, 2015  to   62.1%    in the three months ended October 2, 2016. The primary driver of the improvement was lower amortization of fair value adjustments, net of reserves, relating to acquired Spansion inventory.  Write downs of inventories were $6.8 million and $13.7 million for the three months ended October 2, 2016 and September 27, 2015, respectively.  Sale of inventory that was previously written-off or written-down aggregated $24.4 million and $13.9 million for the three months ended October 2, 2016 and September 27, 2015, respectively, which favorably impacted our cost of revenues ratio by 4.7% for the three months ended October 2, 2016 and by 3.0% for the three months ended September 27, 2015.  This impact was offset by lower fab utilization, which was 56.0% and in the third quarter of fiscal 2016 compared to 64% in the third quarter of fiscal 2015. 
+  Our cost of revenue ratio improved from 77.8% during the nine months ended September 27, 2015 to   65.3%   in the nine months ended October 2, 2016. The primary driver of the improvement in the cost of revenue ratio was lower write downs of carrying value of inventory during the nine months ended October 2, 2016 as compared to the same period in the previous fiscal year.  Included in the cost of revenues in the nine months ended September 27, 2015 was $133.0 million write-down of carrying value of inventory assumed as a part of the Spansion Merger as well as a write down of $18.8 million of certain other inventories. In comparison, write-down of inventories in the nine months ended October 2, 2016 was $21.6 million.  Sale of inventory that was previously written-off or written-down aggregated $44.2 million and $6.2 million for the nine months ended October 2, 2016 and September 27, 2015, respectively, which favorably impacted our cost of revenues ratio by 3.2% and 0.5% for the nine months ended October 2, 2016 and September 27, 2015, respectively. This impact was offset by lower fab utilization which was 54.0% for the nine months ended October 2, 2016, lower as compared to 64% in the same period prior -year.  Our gross margin for the nine months ended October 2, 2016 was also impacted by $7.8 million of amortization of fair value adjustments, net of reserves, relating to acquired legacy Spansion inventory as compared to $75.1 million for the nine months ended September 27, 2015. 
+  Research and Development ( R D ) Expenses 
+  
+   44 
+
+R D expenditures increased by $  19.5 million   in the three months ended   October 2, 2016   compared to the same prior-year period. The increase was mainly attributable to $19.4 million of expenses due to the IoT business acquisition, primarily comprised of $11.5 million of increase in labor costs due to increased headcount and increase of $7.9 million in expensed assets.  Increase of $  5.5 million   in stock based compensation expense. The above increases were partially offset by a $5.8 million decrease in other R D expenses. 
+    
+  R D expenditures increased by $  31.8 million   in the nine months ended   October 2, 2016   compared to the same prior-year period. The increase was mainly attributable to $19.4 million of expenses due to the IoT acquisition, primarily comprised of $11.5 million of increase in labor costs due to increased headcount and increase of $7.9 million in expensed assets. Increase of $9.0 million in other R D expenses, increase of $2.2 million in outside services and increase of $5.1 million on stock-compensation expense.  The above increases were partially offset by a $4.3 million of decrease in employee compensation expense due to a change in bonus structure. 
+  Selling, General and Administrative ( SG A ) Expenses 
+
+SG A expenses increased by $  8.1 million   in the three months ended   October 2, 2016   compared to the same prior-year period. The increase was primarily attributable to $12.9 million of acquisition expenses related to the IoT business acquisition, $2.4 million increase in labor costs due to additional headcount, $2.7 million of increase in employee deferred compensation expense primarily due to increase in the value of the assets held under the employee deferred compensation plan, offset by $6.0 million decrease in other SG A expenses and a $  3.6 million   decrease in stock based compensation expense. 
+  SG A expenses increased by $  2.1 million   in the nine months ended   October 2, 2016   compared to the same prior-year period. The increase was mainly due to $12.9 million of acquisition expenses related to the IoT business acquisition, $6.1 million increase in building, supplies, repairs, other overhead expenses and professional services costs, $5.7 million increase in labor costs due to additional headcount, $2.2 million of increase in employee deferred compensation expense primarily due to increase in the value of the assets held under the employee deferred compensation plan,  $5.0 million of executive severance costs, offset by $15.6 million decrease in acquisition, integration expenses related to the Merger with Spansion, a $3.7 million decrease in other SG A expenses and a $  8.5 million   decrease in stock based compensation expense. 
+  Amortization of acquisition-related intangible assets 
+  Amortization expense increased by $  24.0 million   in the three months ended   October 2, 2016   compared to the same period in the prior year mainly due to amortization related to capitalized in-process research and development projects as well as intangibles acquired as part of the IoT business acquisition. 
+  Amortization expense increased by $  48.5 million   in the nine months ended   October 2, 2016   compared to the same period in the prior year.  The increase was mainly due to the amortization on the intangibles acquired in connection with the Spansion Merger, IoT business acquisition as well as capitalization of certain in-process research and development projects. 
+  Impairment of acquisition-related intangible assets 
+  
+   45 
+
+In the nine months ended   October 2, 2016  , we recognized approximately $33.9 million of impairment charge related to two IPR D projects that were cancelled due to certain changes in our long-term product portfolio strategy during fiscal 2016.   
+    
+  Gain related to investment in Deca Technologies Inc. 
+  On July 29, 2016,  Deca Technologies Inc. ("Deca"), our majority owned subsidiary entered into a share purchase agreement (the "Purchase Agreement"), whereby certain third-party investors purchased 41.1% of the shares outstanding at the said date for an aggregate consideration of approximately $111.4 million. Concurrently, Deca repurchased certain of its preferred shares from us.  
+  After giving effect to the above transactions, our ownership in Deca reduced to 52.2% as at July 29, 2016.  As a consequence of the substantive rights afforded to third party new investors in the purchase agreement, including, among other things, participation on the Board of directors of Deca, approval of operating plans, approval of indebtedness etc., we determined that we no longer have the power to direct the activities of Deca that most significantly impacts Deca's economic performance. However, as we continue to have significant influence over Deca's financial and operating policies, effective July 29, 2016, the investment in Deca is being accounted for as an equity method investment  and is no longer a consolidated subsidiary.  The carrying value of this equity method investment was determined based on the fair value of the equity in Deca, which the Company calculated to be $142.5 million.  This represents our remaining investment in Deca immediately following the investments by third-party investors.  As a result of the change in the method of accounting for our investment in Deca from consolidation to the equity method of accounting, the net carrying value of the assets and liabilities related to Deca, and the adjustments related to the recognition of the initial fair value of the equity method investment resulted in  a gain of $112.8 million which has been reflected as "Gain related to investment in Deca Technologies Inc." in the Condensed Consolidated Statements of Operations. 
+    
+  Impairment related to assets held for sale 
+  In the third quarter of fiscal 2016, we committed to a plan to sell our wafer manufacturing facility located in Bloomington, Minnesota, as well as a building in Austin, Texas.  Sale of both these assets is expected to be completed in the next 12 months. We recorded an impairment of $35.3 million during the third quarter of fiscal 2016, to reflect the estimated fair value, net of cost to sell these assets.  
+  Goodwill impairment charge 
+  Our results for the nine months ended   October 2, 2016   included a goodwill impairment charge of $488.5 million related to our PSD reporting unit. The goodwill impairment charge resulted from a combination of factors including, (a) decreases in our forecasted operating results when compared with the expectations of the PSD reporting unit at the time of the Merger, primarily in consumer markets as the Company has subsequently increased its focus on the automotive and industrial end markets, (b) evaluation of business priorities due to recent changes in management, and (c) certain market conditions necessitated a quantitative impairment analysis for the carrying value of the goodwill related to PSD. 
+  Restructuring 
+  Spansion Integration-Related Restructuring Plan 
+  In March 2015, we began the implementation of planned cost reduction and restructuring activities in connection with the Merger. The restructuring charges of $  8.0 million   and $  8.9 million   recorded for the three and nine months ended October 2, 2016, respectively, primarily consisted of severance costs. The lease termination restructuring costs recorded in the nine months ended   September 27, 2015   included $17.9 million related to the buildings Spansion had leased prior to the Merger, which we decided not to occupy in the post-Merger period.  The initial term of these leases commenced on January 1, 2015 and will expire on December 31, 2026. 
+  The following table summarizes the restructuring charges recorded in our Condensed Consolidated Statements of Operations for the periods presented pursuant to the Spansion Integration-Related Restructuring Plan: 
+
+46 
+
+As of October 2, 2016, we have realized approximately $175.8 million of synergy savings on an annualized basis from the restructuring actions taken. Upon completion of all of our actions, we anticipate our annualized synergy savings in fiscal year 2016 to be approximately $180 million. When complete, we estimate approximately 30% of the savings will impact cost of goods sold and the remaining 70% will impact operating expenses. There can be no assurance that we will achieve these anticipated savings. 
+    
+  2016 Restructuring Plan 
+    
+  In September 2016, the Company began implementation of a reduction in workforce ("2016 Plan") which is expected to result in elimination of approximately 450 positions worldwide across various functions.  The personnel cost related to the 2016 Plan during the three months ended October 2, 2016 were $7.7 million. The Company estimates recording approximately $37.0 million of additional restructuring costs related to the 2016 Plan through the first quarter of fiscal 2017.  The Company expects that the costs incurred under the 2016 Plan will be paid out in cash through the second quarter of fiscal 2017.  Depending on the final outcome of the pending actions related to the remaining expense to be recorded and the cash payouts maybe materially different from our current estimates. 
+    
+  We anticipate that the remaining restructuring liability balance will be paid out in cash through the second quarter of fiscal 2017 for employee terminations and over the remaining lease term through 2026 for the excess lease obligation. 
+    
+  We plan to reinvest a substantial portion of the savings generated from the 2016 Restructuring Plan into certain business initiatives and opportunities. Consequently, the 2016 Restructuring Plan may not result in a material reduction in our future operating expenses. 
+  Income Taxes 
+  Our income tax expense was $  3.3 million   and $  2.3 million   for the three months ended   October 2, 2016   and   September 27, 2015  , respectively.  The income tax expense for the three months ended October 2, 2016 and September 27, 2015 was primarily due to non-U.S. income taxes on income earned in foreign jurisdictions.  Our income tax expense was $  1.8 million   and $  1.2 million   for the nine months ended   October 2, 2016   and   September 27, 2015  , respectively. The income tax expense for the nine months ended   October 2, 2016   was primarily attributable to income taxes associated with our non-US operations, primarily offset by release of previously accrued taxes related to the lapsing of statutes of limitation. The income tax expense for the nine months ended   September 27, 2015   was primarily a result of non-U.S. income taxes on income earned in foreign jurisdictions, which were more than offset by the tax impact of accounting for certain acquired assets and liabilities as a result of the Merger resulting in $5.3 million of the Company s valuation allowance being released.   
+  LIQUIDITY AND CAPITAL RESOURCES 
+  The following table summarizes information regarding our cash and cash equivalents and short-term investments and working capital: 
+
+47 
+
+Key Components of Cash Flows 
+
+Operating Activities 
+  Net cash provided by operating activities of   $127.6 million   during the nine months ended   October 2, 2016   was primarily due to a net loss of   $614.6 million   offset by net non-cash items of   $745.0 million   and   $2.8 million   decrease in cash due to changes in operating assets and liabilities .  The non-cash items a primarily consisted of  
+     depreciation and amortization of   $197.0 million  ,  
+     stock based compensation expense of   $69.7 million  , 
+     restructuring costs and other of $9.4 million,  
+             
+    accretion of interest expense on Senior Exchangeable Notes and amortization of debt and financing costs on other debt of   $8.1 million  , 
+                
+    Share in net loss of equity method investees of   $8.9 million    
+        goodwill impairment charge of   $488.5 million  ,  
+     gain related to investment in Deca Technologies Inc. of   $112.8 million  ,  
+     impairment charge related to assets held for sale of   $35.3 million    
+     impairment charge for acquisition-related intangibles of   $33.9 million  . 
+  Decrease in net cash due to changes in operating assets and liabilities for the nine months ended   October 2, 2016   of   $2.8 million   which was primarily due to the following: 
+
+a decrease in inventories of   $5.9 million   as part of our lean inventory initiative pursuant to which we are running our manufacturing facilities below demand levels to burn through excess inventory from the Spansion Merger; 
+                
+    an increase in other current and long-term assets of   $28.2 million  , primarily due to timing of payments for certain licenses; 
+                
+    an increase in accounts payable, accrued and other liabilities of   $67.3 million   due to timing of payments; and 
+                
+    a decrease in deferred income of   $58.7 million   due to the transition of additional product families to the sell-in basis of revenue recognition. 
+     Investing Activities 
+  
+   48 
+
+During the nine months ended   October 2, 2016  , we used approximately   $594.4 million   of cash in our investing activities primarily due to   $550.0 million   for acquisition of the IoT business,   $45.5 million   of cash used for property and equipment expenditures relating to purchases of certain tooling, laboratory and manufacturing facility equipment and $100.7 million cash paid for certain investments, of which $20.5 million related to our investment in Enovix Corporation ( Enovix ).  Such decreases were offset by sale and maturities of investments of $85.9 million. 
+  Financing Activities 
+  During the nine months ended   October 2, 2016  , we generated approximately   $326.8 million   of cash in our financing activities primarily related to our net borrowings on the 4.50% Senior Convertible Notes of $286.0 million, $450 million borrowing on our Term Loan B and proceeds of $43.5 million from employee equity awards.  Such borrowings were primarily offset by the repurchase of stock in the amount of   $175.7 million  , net repayments of $122.0 million on the revolving credit facility, $106.1 million dividend payments, purchase of capped call for the 4.50% Senior Exchangeable Notes of $8.2 million and repayments of capital leases and Term Loan A of $13.5 million.   
+  Liquidity and Contractual Obligations 
+  Contractual Obligations 
+  The following table summarizes our contractual obligations as of   October 2, 2016  : 
+
+(1) 
+    Purchase obligations primarily include non-cancelable purchase orders for materials, services, manufacturing equipment, building improvements and supplies in the ordinary course of business. Purchase obligations are defined as enforceable agreements that are legally binding on us and that specify all significant terms, including quantity, price and timing. 
+              (2) 
+    Operating leases includes payments relating to Spansion's lease for office space in San Jose for a new headquarters entered on May 22, 2014, which is no longer required. The lease is for a period of 12 years, with two options to extend for periods of five years each after the initial lease term. The term of the lease commenced on January 1, 2015 and expires on December 31, 2026. 
+     As of October 2, 2016, our unrecognized tax benefits were   $26.7 million  , which were classified as long-term liabilities. We believe it is possible that we may recognize up to approximately   $3.6 million   of our existing unrecognized tax benefits within the next twelve months as a result of the lapse of statutes of limitations and the resolution of agreements with domestic and various foreign tax authorities. 
+  Equity Investment Commitments 
+  We have committed to purchase additional preferred stock from Enovix. During the three and nine months ended   October 2, 2016  , we purchased an additional   $6.0 million   and   $18.0 million  , respectively,  of preferred stock which was recorded as part of our investments in non-marketable securities. Subject to the attainment of certain milestones, we may purchase additional preferred stock of this company. 
+  
+   49 
+
+Capital Resources and Financial Condition 
+  Our long-term strategy is to maintain a minimum amount of cash and cash equivalents for operational purposes and to invest the remaining amount of our cash in interest-bearing and highly liquid cash equivalents and debt securities, payments of regularly scheduled cash dividends, the repayment of debt, and the purchase of our stock through our stock buyback program. As of   October 2, 2016  , in addition to $  86.7 million   in cash and cash equivalents, we had   $1.0 million   invested in short-term investments for a total cash, cash equivalents and short-term investment balance of   $87.6 million  .  As of   October 2, 2016  , approximately 36.9% of our cash, cash equivalents and available-for-sale investments were held in offshore funds. While these amounts are primarily invested in U.S. dollars, a portion is held in foreign currencies. All offshore balances are exposed to local political, banking, currency control and other risks. In addition, these amounts, if repatriated, may be subject to tax and other transfer restrictions.   
+  On July 5, 2016 we entered into a Joinder and Amendment Agreement with the guarantor s party thereto for an incremental term loan in an aggregate principal amount of $450.0 million. The incurrence of the Incremental Term Loan is permitted as an incremental loan under the Credit Agreement and is subject to the terms of the Credit Agreement and to additional terms set forth in the Joinder and Amendment Agreement. The proceeds of the Incremental Term Loan were used to finance a portion of the purchase price for the Company s acquisition of certain assets related to the IoT business, and to pay fees and expenses incurred in connection with the acquisition. The contractual obligations table above does not include the commitments related to the said incremental term loan. 
+  We believe that the liquidity provided by existing cash, cash equivalents and available-for-sale investments and our borrowing arrangements will provide sufficient capital to meet our requirements for at least the next twelve months. However, should economic conditions and/or financial, business and other factors beyond our control adversely affect the estimates of our future cash requirements, we could be required to fund our cash requirements by alternative financing. There can be no assurance that additional financing, if needed, would be available on terms acceptable to us or at all. In addition, we may choose at any time to raise additional capital or debt to strengthen our financial position, facilitate growth, enter into strategic initiatives (including the acquisition of other companies) and provide us with additional flexibility to take advantage of other business opportunities that arise.  As of   October 2, 2016  , we were in compliance with all of the financial covenants under the Credit Facility. 
+  Non-GAAP Financial Measures 
+  To supplement our consolidated financial results presented in accordance with GAAP, we use certain non-GAAP financial measures which are adjusted from the most directly comparable GAAP financial measures, and have been presented in our Current Report on Form 8-K furnished with the SEC on October 27, 2016.  For clarity, the information in such Current Report and accompanying Exhibit, is not incorporated by reference in this Quarterly Report on From 10-Q. 
+  CRITICAL POLICIES AND ESTIMATES 
+  The discussion and analysis of our financial condition and results of operations are based upon our Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10-Q and the data used to prepare them. Our Condensed Consolidated Financial Statements have been prepared in accordance with accounting principles generally accepted in the United States and we are required to make estimates, judgments and assumptions in the course of such preparation. Note 1 of the Notes to Condensed Consolidated Financial Statements under Part I Item 1 describes the significant accounting policies and methods used in the preparation of the consolidated financial statements. On an ongoing basis, we re-evaluate our judgments and estimates including those related to revenue recognition, allowances for doubtful accounts receivable, inventory valuation, valuation of long-lived assets, goodwill and financial instruments, stock-based compensation, settlement costs, and income taxes. We base our estimates and judgments on historical experience, knowledge of current conditions and our beliefs of what could occur in the future considering available information. Actual results may differ from these estimates under different assumptions or conditions. 
+  As discussed in Part II, Item 7,      Management's Discussion and Analysis of Financial Condition and Results of Operations  of our Annual Report on Form 10-K for the year ended January 3, 2016, we consider the following accounting policies to be the most critical in understanding the judgments that are involved in preparing our consolidated financial statements: 
+             
+    Revenue Recognition 
+                
+    Business Combinations 
+                
+    Allowance for Doubtful Accounts Receivables 
+                
+    Valuation of Inventories 
+     
+   50 
+
+Valuation of Long-Lived Assets 
+                
+    Valuation of Goodwill 
+                
+    Fair Value of Financial Instruments 
+                
+    Cash Flow Hedges 
+                
+    Stock-Based Compensation 
+                
+    Employee Benefits Plan 
+                
+    Accounting for Income Taxes 
+     There have been no changes to our critical accounting policies since the filing of our last Annual Report on Form 10-K. 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+  Interest Rate Risks 
+    
+  Our investment portfolio consists of a variety of financial instruments that expose us to interest rate risk, including, but not limited to, money market funds, certificate of deposit and corporate securities. These investments are generally classified as available-for-sale and, consequently, are recorded on our balance sheets at fair market value with their related unrealized gain or loss reflected as a component of accumulated other comprehensive income in stockholders  equity. Due to the relatively short-term nature of our investment portfolio, we do not believe that an immediate increase in interest rates would have a material effect on the fair market value of our portfolio. 
+  Our debt obligations consists of a variety of financial instruments that expose us to interest rate risk, including, but not limited to Revolving Credit Facility, Term Loans and Convertible Notes. Interest on the Notes is fixed and interest on our Term Loans are at variable rate. The interest rate on each of these instruments is tied to short term interest rate benchmarks including the Prime Rate and LIBOR. For example, a one hundred basis point change in the contractual interest rates would change our interest expense for the Term Loans by approximately $5.3 million annually. 
+  We would not expect our long term operating results or cash flows to be materially affected to any significant degree by a sudden change in market interest rates since this debt may be refinanced with alternative sources of liquidity, such as convertible debt. 
+  Foreign Currency Exchange Risk 
+  We operate and sell products in various global markets and purchase capital equipment using foreign currencies but predominantly the U.S. dollar. We are exposed to certain risks associated with changes in foreign currency exchange rates in Japanese yen and other foreign currencies and are exposed to foreign currency exchange rate fluctuations. 
+  For example, 
+             
+    sales of our products to Fujitsu are denominated in U.S. dollars, Japanese yen and Euros; 
+                
+    some of our manufacturing costs are denominated in Japanese yen, and other foreign currencies such as the Thai baht and Malaysian ringgit; 
+                
+    some of our operating expenses are denominated in Japanese yen and other foreign currencies and  
+                
+    some fixed asset purchases and sales are denominated in other foreign currencies. 
+     Consequently, movements in exchange rates could cause our revenues and our expenses to fluctuate, affecting our profitability and cash flows. We use foreign currency forward contracts to reduce our foreign exchange exposure on our foreign currency denominated assets and liabilities. We also hedge a percentage of our forecasted revenue denominated in Japanese yen with foreign currency forward contracts. The objective of these contracts is to mitigate impact of foreign currency exchange rate movements to our operating results on a short term basis. We do not use these contracts for speculative or trading purposes. 
+  We recognize derivative instruments from hedging activities as either assets or liabilities on the balance sheet and measure them at fair value. Gains and losses resulting from changes in fair value are accounted for depending on the use of the derivative and whether it is designated and qualifies for hedge accounting. To receive hedge accounting treatment, all hedging relationships are formally documented at the inception of the hedge, and the hedges must be highly effective in offsetting changes to future cash flows on hedged transactions. We record changes in the intrinsic value of these cash flow hedges in accumulated other comprehensive loss on the Condensed Consolidated Balance Sheets, until the forecasted transaction occurs. When the forecasted transaction occurs, we reclassify the related gain or loss on the cash flow hedge to the appropriate revenue or expense line of the Condensed Consolidated Statements of Operations. In the event the underlying forecasted transaction does not occur, or it becomes probable that it will not occur, we will reclassify the gain or loss on the related cash flow hedge  
+  
+   51 
+
+from accumulated other comprehensive loss to interest and other income (expense), net in our Condensed Consolidated Statements of Operations at that time. 
+  We evaluate hedge effectiveness at the inception of the hedge prospectively as well as retrospectively and record any ineffective portion of the hedging instruments in interest and other income (expense), net in our Condensed Consolidated Statements of Operations. 
+  We analyzed our foreign currency exposure, including our hedging strategies, to identify assets and liabilities denominated in other currencies. For those assets and liabilities, we evaluated the effects of a 10% shift in exchange rates between those currencies and the U.S. dollar. We have determined that there would be an immaterial effect on our results of operations from such a shift. Please see Note 14 of the Notes to Condensed Consolidated Financial Statements for details on the contracts. 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+  Evaluation of Disclosure Controls and Procedures 
+  We maintain  disclosure controls and procedures,  as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the  Exchange Act ), that are designed to ensure that information required to be disclosed by us in reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in Securities and Exchange Commission rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. In designing and evaluating our disclosure controls and procedures, management recognized that disclosure controls and procedures, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the disclosure controls and procedures are met. Additionally, in designing disclosure controls and procedures, our management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible disclosure controls and procedures. The design of any disclosure controls and procedures also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. 
+  Based on their evaluation as of the end of the period covered by this Quarterly Report on Form 10-Q and subject to the foregoing, our Chief Executive Officer and Chief Financial Officer have concluded that our disclosure controls and procedures were effective at a reasonable assurance level. 
+  Changes in Internal Control over Financial Reporting 
+  During the nine months ended   October 2, 2016  , the Company expanded the scope of its internal controls over financial reporting to include the former operations of Spansion and its subsidiaries.  There were no other changes in our internal control over financial reporting that occurred during the three-month period ended   October 2, 2016   that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+52 
+
+PART II-OTHER INFORMATION 
+
+ITEM 1. LEGAL PROCEEDINGS 
+  The information required by this item is included in Note 13 of Notes to Condensed Consolidated Financial Statements under Item 1, Part 1 of this Quarterly Report on Form 10-Q and is incorporated herein by reference. 
+
+ITEM 1A. RISK FACTORS 
+  In addition to the other information set forth in this report, including the following risk factors, you should carefully consider the risks and uncertainties discussed in Part I,  Item 1A. Risk Factors  in our Annual Report on Form 10-K for the year ended January 3, 2016, which could materially affect our business, financial condition or future results.  Unless they change in a material way, risk factors in the 10-K are not repeated here, but are incorporated by reference from the 10-K.  The risks described in our Annual Report on Form 10-K are not the only risks facing our Company.  Additional risks and uncertainties not currently known to us or that we currently deem to be not material also may materially and adversely affect our business, financial condition and/or operating results. 
+  The trading price of our common stock has been and will likely continue to be volatile due to various factors, some of which are beyond our control, and each of which could adversely affect our stockholders  value. 
+  The trading price of our common stock has been and will likely continue to be volatile due to various factors, some of which are beyond our control, including, but not limited to: 
+             
+    Revenue fluctuations due to unexpected shifts in customer orders; 
+                
+    Announcements about our earnings or the earnings of our competitors that are not in line with analyst expectations; 
+                
+    Our ability to achieve the planned synergies related to our 2015 merger with Spansion; 
+                
+    The impact on our business and financial results of our July 2016 acquisition of the Internet of Things ( IoT ) business of Broadcom Corporation ( Broadcom  
+                
+    Credit conditions and our ability to refinance our existing debt at commercially reasonable terms, which may limit the Company s working capital; 
+                
+    Quarterly variations in our results of operations or those of our competitors, including but not limited to fluctuations due to significant non-cash charges such as the $488.5 million goodwill impairment charge we recorded in the second quarter of 2016; 
+                
+    Announcements by us or our competitors of acquisitions, new products, significant contracts, design wins, commercial relationships or capital commitments; 
+                
+    The perceptions of general market conditions in the semiconductor industry and global market conditions; 
+                
+    Our ability to develop and market new and enhanced products on a timely basis; 
+                
+    Any major change in our board or senior management; 
+                
+    Our ability to execute on our restructuring initiatives and shift our focus to high-growth businesses; 
+                
+    Changes in governmental regulations or in the status of our regulatory compliance that impact our business; 
+                
+    Recommendations by securities analysts or changes in earnings estimates concerning us or our customers or competitors; 
+                
+    The volume of short sales, hedging and other derivative transactions on shares of our common stock; 
+                
+    Economic conditions and growth expectations in the markets we serve; 
+                
+    Changes in our policy regarding dividends or our ability to declare a dividend; and 
+                
+    Our ability to execute our lean inventory initiative to reduce excess inventory, which could lead to a disruption in the supply of our products and adversely affect our business. 
+     Further, the stock market in general, and the market for technology companies in particular, have experienced extreme price and volume fluctuations. These broad market and industry factors may seriously harm the market price of our common stock, regardless of our actual operating performance. In the past, following periods of volatility in the overall market and the market price of a company s securities, securities class action litigation has often been instituted against these companies. This litigation, if instituted against us, could result in substantial costs and a diversion of our management s attention and resources. Finally, our executive officers, who may hold a substantial number of shares of our common stock, may from time to time pledge all or a portion of their holdings as collateral or include such holdings in margin accounts. If our stock price were to drop suddenly, such margin accounts could be called and the shares in such accounts may be automatically sold by a third party in the open market, even during a trading blackout period under our Insider Trading Policy. 
+
+53 
+
+In the second quarter of 2016, we incurred a material impairment charge with respect to our goodwill, and we may in the future incur additional impairments in the value of our goodwill, intangibles and property, plant and equipment. 
+  Goodwill represents the excess of the purchase price over the fair value of the net tangible and identifiable intangible assets acquired in a business combination. We test goodwill for impairment annually, and more frequently when events occur or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying amount. In the second quarter of 2016, we conducted impairment testing on the goodwill in our Programmable Systems Division reporting unit, which we acquired in the Spansion merger, and recorded an impairment charge of $488.5 million. In addition, our other long-lived assets which include intangibles and property, plant and equipment are evaluated for impairments whenever events or changes in circumstances indicate the carrying value may not be recoverable. Either of these situations may occur for various reasons, including changes in actual or expected income or cash flow. We continue to evaluate current conditions to assess whether any impairment exists. Additional impairments could occur in the future if any of the following occur: market or interest rate environments deteriorate, significant adverse changes in business climate, unanticipated competition, loss of key customers, changes in technology, expected future cash flows of our reporting units decline, or reporting unit carrying values change materially compared with changes in respective fair values. 
+  We face significant risks in connection with our acquisition of the IoT business of Broadcom that could impact our future growth and profitability. 
+  On July 5, 2016, we completed our acquisition of the IoT business of Broadcom.  For additional information, see Note 2 of the Notes to Condensed Consolidated Financial Statements. The success of the transaction will depend on a number of factors, including but not limited to our ability to successfully integrate the assets of the IoT business (including employees) into our Data Communications Division operations; our ability to achieve the anticipated strategic benefits of the acquisition; and our ability to keep transaction costs within an anticipated range. The addition of Broadcom s IoT assets may not improve our ability to address the IoT market as much or as quickly as we anticipate. We have incurred significant costs associated with transaction fees, professional services and other costs related to the acquisition and we will continue to incur additional costs in connection with the integration of the business. If these costs exceed our expectations, it could have a material adverse impact on our operating results. Furthermore, we incurred substantial indebtedness to pay for the acquisition.  For additional information, see the risk factor entitled    We utilize debt financing and such indebtedness could adversely affect our business, financial condition, results of operations and earnings per share. We may be unable to meet our payment obligations.  
+  We utilize debt financing and such indebtedness could adversely affect our business, financial condition, results of operations and earnings per share.  We may be unable to meet our payment obligations. 
+  We incur indebtedness to finance our operations and we have substantial amounts of outstanding indebtedness and debt service requirements. Our credit facility contains customary affirmative, negative and financial covenants, including a maximum total leverage ratio and a minimum fixed charge coverage ratio. Our ability to meet our payment and other obligations and covenants under our indebtedness depends on our ability to generate significant cash flow. This, to some extent, is subject to general economic, financial, competitive, legislative and regulatory factors as well as other factors that are beyond our control. There is no assurance that our business will generate cash flow from operations, or that future borrowings will be available to us under our existing (or any amended) credit facilities or otherwise, in an amount sufficient to enable us to meet payment obligations under any indebtedness we may incur from time to time. If we are not able to generate sufficient cash flow to service our debt obligations or meet required debt covenants, we may need to refinance or restructure our debt, sell assets, reduce or delay capital investments, or seek to raise additional capital. There is no assurance that we will be able to implement any of these alternatives on commercially reasonable terms, if at all. If we are unable to implement one or more of these alternatives, we may not be able to meet our payment obligations under any indebtedness we owe.  In addition, an inability to meet our payment obligations under any indebtedness may trigger a default, and possible acceleration of payment terms, under the applicable debt financing agreements. 
+  Furthermore, the interest rate on certain of these instruments is tied to short term interest rate benchmarks including the Prime Rate and LIBOR.  Interest rates have remained at historically low levels for a prolonged period of time and we expect interest rates to rise in the future. If the rate of interest we pay on our borrowings increases it would increase our debt-related expenditures.  There is no assurance that our business will generate cash flow from operations, or that future borrowings will be available to us under our existing (or any amended) credit facilities or otherwise, in an amount sufficient to enable us to meet payment obligations (including any increased interest payment obligations) under any indebtedness we may incur from time to time 
+
+54 
+
+As of October 2, 2016, our outstanding debt included $  327.0 million   related to our Senior Secured Revolving Credit Facility, $150.0 million of 2.00% Senior Exchange Notes assumed from Spansion, $96.3 million Term Loan A, $450.0 million Term Loan B, $287.5 million of 4.50% Exchangeable Senior Notes, and $  0.3 million   of equipment loans. See Note 11 of the Notes to Condensed Consolidated Financial Statements for additional information regarding our debt obligation. 
+    
+  We cannot be assured that our restructuring initiatives will be successful. 
+      
+  From time to time, we have implemented restructuring plans to reduce our operating costs and/or shift our expenditures to different areas of our business.  However, if we have not sufficiently reduced operating expenses or if revenues are below our expectations, we may be required to engage in additional restructuring activities, which could result in additional restructuring charges. These restructuring charges could harm our results of operations. Further, our restructuring plans could result in potential adverse effects on employee capabilities, on our ability to achieve design wins, and our ability to maintain and enhance our customer base.  Such events could harm our efficiency and our ability to act quickly and effectively in the rapidly changing technology markets in which we sell our products.  In addition, we may be unsuccessful in our efforts, under the 2016 Restructuring Plan adopted by the Company on September 27, 2016, to realign our organizational structure and shift our investments and focus to our high-growth businesses. 
+    
+  Our ability to operate our business could be seriously harmed if we lose members of our senior management team or other key employees or we are not able to attract, integrate and retain qualified new personnel. 
+  Our business is dependent on the efforts and abilities of our senior management and other key personnel. A lack of management continuity could impact our results of operations and stock price and may make recruiting for future management positions more difficult. In addition, changes in key management positions may temporarily affect our financial performance and results of operations as new management becomes familiar with our business. The loss of any of our key officers or other employees, or our inability to attract, integrate and retain qualified employees, could require us to dedicate significant financial and other resources to such personnel matters, disrupt our operations and seriously harm our operations and business. 
+  We may dispose of certain businesses, product lines or assets, which could adversely affect our results of operations. 
+  From time to time, we may divest certain businesses, product lines or assets, both acquired or otherwise, that are no longer strategically important, or we may exit minority investments, which could materially affect our cash flows and results of operations. If we decide to divest a business, product line or assets, we may encounter difficulty in finding or completing such divestiture opportunity (or alternative exit strategy) on acceptable terms or in a timely manner. These circumstances could delay the achievement of our strategic objectives or cause us to incur additional expenses with respect to the business, product line or assets that we want to dispose of, or we may dispose of the business, product line or assets at a price or on terms that are less favorable than we had anticipated. Even following a divestiture, we may be contractually obligated with respect to certain continuing obligations to customers, vendors, landlords or other third parties. We may also have continuing obligations for pre-existing liabilities related to the divested assets or businesses. Such obligations may have a material adverse impact on our results of operations and financial condition. Any such dispositions could also result in disruption to other parts of our business, potential loss of employees or customers, potential loss of revenue, negative impact on our margins, exposure to unanticipated liabilities or result in ongoing obligations and liabilities to us following any such divestiture. We may also incur significant costs associated with exit or disposal activities, related impairment charges, or both. 
+    
+  Industry consolidation may lead to increased competition and may harm our operating results.  
+    
+  There has been a trend toward industry consolidation in our markets for several years. We expect this trend to continue as companies attempt to strengthen or hold their market positions in an evolving industry and as companies are acquired or are unable to continue operations. Industry consolidation may result in stronger companies that are better able to compete with the Company. This could have a material adverse effect on our business, operating results, and financial condition 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+  Issuer Purchase of Equity Securities 
+  On October 20, 2015, we entered into a new $450 million stock buyback program.  Refer to Note 12 of the Notes to Condensed Consolidated Financial Statements for further details. 
+  
+   55 
+
+The table below sets forth the information with respect to repurchases of common stock made in the third quarter of fiscal 2016 under the $450 million stock buyback program. 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES 
+  None. 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+  Not applicable. 
+
+ITEM 5. OTHER INFORMATION 
+  None. 
+
+ITEM 6. EXHIBITS  
+
+56 
+
++ 
+    Identifies a management contract or compensatory plan or arrangement. 
+
+++ 
+    Exhibits 32.1 and 32.2 are being furnished and shall not be deemed to be  filed  for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liability of that section, nor shall such exhibits be deemed to be incorporated by reference in any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as otherwise specifically stated in such filing. 
+
+57 
+
+SIGNATURES 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+CYPRESS SEMICONDUCTOR CORPORATION 
+
+Date: November 14, 2016 
+      
+    By: 
+      
+    /s/  THAD TRENT    
+
+Thad Trent 
+
+Executive Vice President, Finance and Administration 
+  and Chief Financial Officer 
+
+58 
+
+EXHIBIT INDEX  
+
++ 
+    Identifies a management contract or compensatory plan or arrangement. 
+
+++ 
+    Exhibits 32.1 and 32.2 are being furnished and shall not be deemed to be  filed  for purposes of Section 18 of the Securities   Exchange Act of 1934, as amended (the Exchange Act), or otherwise subject to the liability of that section, nor shall such exhibits be deemed to be incorporated by reference in any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as otherwise specifically stated in such filing. 
+
+59 
+
+<EX-31.1>
+ 2
+ cy-10022016xex311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  CERTIFICATION 
+  PURSUANT TO SECTION 302 OF SARBANES-OXLEY ACT OF 2002 
+  I, Hassane El-Khoury, certify that: 
+           1. 
+    I have reviewed this Quarterly Report on Form 10-Q of Cypress Semiconductor Corporation; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.  
+
+Dated: 
+    November 14, 2016 
+    By: 
+    /s/ HASSANE EL-KHOURY 
+
+HASSANE EL-KHOURY 
+
+President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ cy-10022016xex312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  CERTIFICATION 
+  PURSUANT TO SECTION 302 OF SARBANES-OXLEY ACT OF 2002 
+  I, Thad Trent, certify that: 
+           1. 
+    I have reviewed this Quarterly Report on Form 10-Q of Cypress Semiconductor Corporation; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and     
+              b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Dated: 
+    November 14, 2016 
+    By: 
+    /s/ THAD TRENT 
+
+Thad Trent 
+
+Executive Vice President, Finance and 
+  Administration and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ cy-10022016xex321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350 
+  AS ADOPTED PURSUANT TO SECTION 906 
+  OF THE SARBANES-OXLEY ACT OF 2002 
+  I, Hassane El-Khoury, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report on Form 10-Q of Cypress Semiconductor Corporation for the quarter ended   October 2, 2016   fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and the information contained in such Quarterly Report on Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of Cypress Semiconductor Corporation. 
+    
+                     Dated: 
+    November 14, 2016 
+    By: 
+    /s/ HASSANE EL-KHOURY 
+
+HASSANE EL-KHOURY 
+
+President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ cy-10022016xex322.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350 
+  AS ADOPTED PURSUANT TO SECTION 906 
+  OF THE SARBANES-OXLEY ACT OF 2002 
+  I, Thad Trent, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report on Form 10-Q of Cypress Semiconductor Corporation for the quarter ended   October 2, 2016   fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and the information contained in such Quarterly Report on Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of Cypress Semiconductor Corporation. 
+    
+                     Dated: 
+    November 14, 2016 
+    By: 
+    /s/ THAD TRENT 
+
+Thad Trent 
+
+Executive Vice President, Finance and 
+  Administration and Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ cy-20161002.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ cy-20161002.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ cy-20161002_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ cy-20161002_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ cy-20161002_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ cy-20161002_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

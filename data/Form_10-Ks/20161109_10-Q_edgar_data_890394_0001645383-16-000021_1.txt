@@ -1,0 +1,960 @@
+<Header>
+<FileStats>
+    <FileName>20161109_10-Q_edgar_data_890394_0001645383-16-000021_1.txt</FileName>
+    <GrossFileSize>6669132</GrossFileSize>
+    <NetFileSize>73950</NetFileSize>
+    <ASCII_Embedded_Chars>244760</ASCII_Embedded_Chars>
+    <HTML_Chars>2056196</HTML_Chars>
+    <XBRL_Chars>2628117</XBRL_Chars>
+    <XML_Chars>1199422</XML_Chars>
+    <N_Tables>34</N_Tables>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001645383-16-000021.hdr.sgml : 20161109
+<ACCEPTANCE-DATETIME>20161109154358
+ACCESSION NUMBER:		0001645383-16-000021
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		52
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161109
+DATE AS OF CHANGE:		20161109
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MoSys, Inc.
+		CENTRAL INDEX KEY:			0000890394
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				770291941
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-32929
+		FILM NUMBER:		161984075
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3301 OLCOTT STREET
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		408 418 7500
+
+	MAIL ADDRESS:	
+		STREET 1:		3301 OLCOTT STREET
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MONOLITHIC SYSTEM TECHNOLOGY INC
+		DATE OF NAME CHANGE:	19960613
+
+</SEC-Header>
+</Header>
+
+ 0001645383-16-000021.txt : 20161109
+
+10-Q
+ 1
+ mosy-20160930x10q.htm
+ 10-Q
+
+mosy_Current_Folio_10Q
+
+Table of Contents   
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, DC 20549 
+
+FORM 10-Q 
+
+(Mark one) 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the quarterly period ended September 30, 2016 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from                to                
+
+Commission file number 000-32929 
+
+MOSYS, INC. 
+
+(Exact name of registrant as specified in its charter) 
+
+Delaware  
+
+77-0291941  
+
+(State or other jurisdiction  
+
+(I.R.S. Employer  
+
+of Incorporation or organization)  
+
+Identification Number)  
+
+3301 Olcott Street 
+
+Santa Clara, California, 95054 
+
+(Address of principal executive office and zip code) 
+
+(408) 418-7500 
+
+(Registrant s telephone number, including area code) 
+
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to filing requirements for the past 90 days.  YES    NO   
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  YES    NO   
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of  large accelerated filer,   accelerated filer,  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large accelerated filer    
+
+Accelerated filer    
+
+Non-accelerated filer    
+
+Smaller reporting company    
+
+(Do not check if a smaller reporting company)  
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes    No   
+
+As of November7, 2016, 66,306,047 shares of the Registrant s common stock, $0.01 par value, were outstanding. 
+
+Table of Contents   
+
+MOSYS, INC. 
+
+FORM 10-Q 
+
+September 30, 2016 
+
+TABLE OF CONTENTS   
+
+PART I     
+
+FINANCIAL INFORMATION   
+
+3 
+
+Item 1.    
+
+3 
+
+Condensed Consolidated Balance Sheets as of September 30, 2016 and December 31, 2015   
+
+3 
+
+Condensed Consolidated Statements of Operations and Comprehensive Loss for the three and nine months ended September 30, 2016 and 2015   
+
+4 
+
+Condensed Consolidated Statements of Cash Flows for the nine months ended September 30, 2016 and 2015   
+
+5 
+
+Notes to Condensed Consolidated Financial Statements   
+
+6 
+
+Item 2.    
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations   
+
+18 
+
+Item 3.    
+
+Qualitative and Quantitative Disclosures About Market Risk   
+
+24 
+
+Item 4.    
+
+Controls and Procedures   
+
+24 
+
+PART II      
+
+OTHER INFORMATION   
+
+24 
+
+Item 1.    
+
+Legal Proceedings   
+
+24 
+
+Item 1A.    
+
+Risk Factors   
+
+25 
+
+Item 3.    
+
+Unregistered Sales of Equity Securities   
+
+25 
+
+Item 6.    
+
+Exhibits   
+
+25 
+
+Signatures   
+
+26 
+
+Table of Contents   
+
+PART I FINANCIAL INFORMATION     
+
+Item 1. Financial Statements   
+
+MOSYS, INC. 
+
+CONDENSED CONSOLIDATED BALANCE SHEETS   
+
+(Unaudited) 
+
+(In thousands, except par value) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+
+3 
+
+Table of Contents   
+
+MOSYS, INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS   
+
+(Unaudited) 
+
+(In thousands, except per share data) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+
+4 
+
+Table of Contents   
+
+MOSYS, INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS   
+
+(Unaudited) 
+
+(In thousands) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+
+5 
+
+Table of Contents   
+
+MOSYS, INC. 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+(Unaudited) 
+
+Note 1. The Company and Summary of Significant Accounting Policies 
+
+The Company 
+
+MoSys, Inc. (the  Company ) was incorporated in California in September 1991, and reincorporated in September 2000 in Delaware. The Company s strategy and primary business objective is to be an IP-rich fabless semiconductor company focused on the development and sale of integrated circuit (IC) products. Prior to 2011, the Company s primary business activities were designing, developing, marketing and licensing high-performance semiconductor memory and high-speed parallel and serial interface, or SerDes, intellectual property (IP) used by the semiconductor industry and communications, networking and storage equipment manufacturers. Since 2011, the Company has developed two IC product lines under the  Bandwidth Engine  and  LineSpeed  product names. Bandwidth Engine ICs combine the Company s proprietary high-density embedded memory with its high-speed 10 gigabits per second and higher interface technology. The LineSpeed IC product line is comprised of non-memory based, high-speed SerDes devices with gearbox or retimer functionality that convert lanes of data received on line cards or by optical modules into different configurations and/or ensure signal integrity. Both product lines are being marketed to networking and communications systems companies. The Company s future success and ability to achieve and maintain profitability depends on its success in developing a market for its ICs. 
+
+The accompanying condensed consolidated financial statements of the Company have been prepared without audit in accordance with the rules and regulations of the Securities and Exchange Commission (SEC).  The condensed consolidated balance sheet at December 31, 2015 has been derived from the audited consolidated financial statements at that date. Certain information and disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States (GAAP) have been condensed or omitted in accordance with these rules and regulations. The information in this report should be read in conjunction with the Company s consolidated financial statements and notes thereto included in its most recent annual report on Form 10-K filed with the SEC. 
+
+In the opinion of management, the accompanying unaudited condensed consolidated financial statements reflect all adjustments (consisting only of normal recurring adjustments) necessary to summarize fairly the Company s financial position, results of operations and cash flows for the interim periods presented. The operating results for the three and nine months ended September 30, 2016 are not necessarily indicative of the results that may be expected for the year ending December 31, 2016 or for any other future period. 
+
+Basis of Presentation 
+
+The condensed consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. All significant intercompany transactions and balances have been eliminated in consolidation. The Company s fiscal year ends on December 31 of each calendar year. 
+
+Use of Estimates 
+
+The preparation of financial statements in accordance with accounting principles generally accepted in the United States requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses recognized during the reported period. Actual results could differ from those estimates. 
+
+Cash Equivalents and Investments 
+
+The Company has invested its excess cash in money market accounts, certificates of deposit, commercial paper, corporate debt, government-sponsored enterprise bonds and municipal bonds and considers all highly liquid debt instruments purchased with an original maturity of three months or less to be cash equivalents. Investments with original maturities greater than three months and remaining maturities less than one year are classified as short-term investments.   
+
+6 
+
+Table of Contents   
+
+Investments with remaining maturities greater than one year are classified as long-term investments. Management generally determines the appropriate classification of securities at the time of purchase. All securities are classified as available-for-sale. The Company s available-for-sale short-term and long-term investments are carried at fair value, with the unrealized holding gains and losses reported in accumulated other comprehensive loss. Realized gains and losses and declines in the value judged to be other than temporary are included in the other income, net line item in the condensed consolidated statements of operations and comprehensive loss. The cost of securities sold is based on the specific identification method. 
+
+Fair Value Measurements 
+
+The Company measures the fair value of financial instruments using a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value into three broad levels: 
+
+Level 1  Inputs used to measure fair value are unadjusted quoted prices that are available in active markets for the identical assets or liabilities as of the reporting date. 
+
+Level 2  Pricing is provided by third party sources of market information obtained through the Company s investment advisors, rather than models. The Company does not adjust for, or apply, any additional assumptions or estimates to the pricing information it receives from advisors. The Company s Level 2 securities include cash equivalents and available-for-sale securities, which consisted primarily of certificates of deposit, corporate debt, and government agency and municipal debt securities from issuers with high-quality credit ratings. The Company s investment advisors obtain pricing data from independent sources, such as Standard   Poor s, Bloomberg and Interactive Data Corporation, and rely on comparable pricing of other securities because the Level 2 securities are not actively traded and have fewer observable transactions. The Company considers this the most reliable information available for the valuation of the securities. 
+
+Level 3  Unobservable inputs that are supported by little or no market activity and reflect the use of significant management judgment are used to measure fair value. These values are generally determined using pricing models for which the assumptions utilize management s estimates of market participant assumptions. The determination of fair value for Level 3 investments and other financial instruments involves the most management judgment and subjectivity. 
+
+Allowance for Doubtful Accounts 
+
+The Company establishes an allowance for doubtful accounts to ensure that its trade receivables balances are not overstated due to uncollectability. The Company performs ongoing customer credit evaluations within the context of the industry in which it operates and generally does not require collateral from its customers. A specific allowance of up to 100% of the invoice value is provided for any problematic customer balances. Delinquent account balances are written off after management has determined that the likelihood of collection is remote. The Company grants credit only to customers deemed creditworthy in the judgment of management. There was no allowance for doubtful accounts receivable at either September 30, 2016 or December 31, 2015. 
+
+Inventory 
+
+The Company values its inventories at the lower of cost, which approximates actual cost on a first-in, first-out basis, or market value. The Company records inventory reserves for estimated obsolescence or unmarketable inventories based upon assumptions about future demand and market conditions. Once a reserve is established, it is maintained until the product to which it relates is sold or otherwise disposed of. If actual market conditions are less favorable than those expected by management, additional adjustment to inventory valuation may be required. Charges for obsolete and slow moving inventories are recorded based upon an analysis of specific identification of obsolete inventory items and quantification of slow moving inventory items.  The Company recorded no inventory reserves during the three or nine months ended September 30, 2016.  Charges for the three and nine months ended September 30, 2015 were $0.2 million. 
+
+7 
+
+Table of Contents   
+
+Revenue Recognition 
+
+General 
+
+The Company generates revenue from the sales of IC products and licensing of its IP. The Company recognizes revenue when persuasive evidence of an arrangement exists, delivery or performance has occurred, the sales price is fixed or determinable, and collectability is reasonably assured. Evidence of an arrangement generally consists of signed agreements or customer purchase orders. 
+
+IC products 
+
+The Company sells products both directly to customers, as well as through distributors. Revenue from sales directly to customers is generally recognized at the time of shipment. The Company may record an estimated allowance, at the time of shipment, for future returns and other charges against revenue consistent with the terms of sale. IC product revenue and costs relating to sales made through distributors with rights of return or stock rotation are generally deferred until the distributors sell the product to end customers due to the Company s inability to estimate future returns and credits to be issued. Distributors are generally able to return up to 10% of their purchases for slow, non-moving or obsolete inventory for credit every six months. At the time of shipment to distributors, an accounts receivable for the selling price is recorded, as there is a legally enforceable right to receive payment, and inventory is relieved, as legal title to the inventory is transferred upon shipment. Revenues are recognized upon receiving notification from the distributors that products have been sold to end customers. Distributors provide information regarding products and quantity, end customer shipments and remaining inventory on hand. The associated deferred margin is included in the accrued expenses and other line item in the condensed consolidated balance sheets. 
+
+Royalty 
+
+The Company s licensing contracts typically provide for royalties based on the licensee s use of the Company s memory technology in their currently shipping commercial products. The Company recognizes royalties in the quarter in which it receives the licensee s report. 
+
+Cost of Net Revenue 
+
+Cost of net revenue consists primarily of direct and indirect costs of IC product sales and engineering personnel costs directly related to maintenance and support services specified in licensing agreements. Maintenance and support typically include engineering support to assist in the commencement of production of a licensee s products. 
+
+Goodwill 
+
+The Company reviews goodwill for impairment on an annual basis or whenever events or changes in circumstances indicate the carrying value of an asset may not be recoverable. The Company first assesses qualitative factors to determine whether it is more-likely-than-not that the fair value of the reporting unit is less than the carrying amount as a basis for determining whether it is necessary to perform the two-step impairment test. If the qualitative assessment warrants further analysis, the Company compares the fair value of the reporting unit to its carrying value. The fair value of the reporting unit is determined using the market approach. If the fair value of the reporting unit exceeds the carrying value of net assets of the reporting unit, goodwill is not impaired, and the Company is not required to perform further testing. If the carrying value of the reporting unit s goodwill exceeds its implied fair value, then the Company must record an impairment charge equal to the difference. The Company has determined that it has a single reporting unit for purposes of performing its goodwill impairment test. As the Company uses the market approach to assess impairment in the second step of the analysis, the price of its common stock is an important component of the fair value calculation. If the Company s stock price continues to experience significant price and volume fluctuations, this will impact the fair value of the reporting unit, which can lead to potential impairment in future periods. The Company performed step one of the annual impairment test in September 2016 and concluded no factors indicated impairment of goodwill.  
+
+Per Share Amounts 
+
+Basic net loss per share is computed by dividing net loss for the period by the weighted-average number of shares of common stock outstanding during the period. Diluted net loss per share gives effect to all potentially dilutive common   
+
+8 
+
+Table of Contents   
+
+shares outstanding during the period. Potentially dilutive common shares consist of incremental shares of common stock issuable upon the exercise of stock options, vesting of stock awards and purchases under the employee stock purchase plan.  
+
+The following table sets forth securities outstanding which were excluded from the computation of diluted net loss per share as their inclusion would be anti-dilutive (in thousands): 
+
+Comprehensive Loss 
+
+Comprehensive loss includes unrealized gains and losses on available-for-sale securities.  Realized gains and losses on available-for-sale securities are reclassified from accumulated other comprehensive loss and included in other income, net in the condensed consolidated statements of operations and comprehensive loss.  All amounts recorded in the three and nine months ended September 30, 2016 and 2015 were not considered significant. 
+
+Debt Issuance Costs 
+
+Debt issuance costs are capitalized and amortized to interest expense using the effective interest method.  Unamortized debt issuances costs are presented in the condensed consolidated balance sheet as a direct deduction from the carrying amount of the related debt liability and accounted for as debt discounts. 
+
+Recent Accounting Pronouncements 
+
+In March 2016, the Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update ( ASU ) No. 2016-08,   Revenue from Contracts with Customers (Topic 606): Principal versus Agent Considerations (Reporting Revenue Gross versus Net),   which clarified the revenue recognition implementation guidance on principal versus agent considerations. In April 2016, the FASB issued ASU No. 2016-10,   Revenue from Contracts with Customers (Topic 606): Identifying Performance Obligations and Licensing,   which clarified the revenue recognition guidance regarding the identification of performance obligations and the licensing implementation. In May 2016, the FASB issued ASU No. 2016-12,   Revenue from Contracts with Customers (Topic 606): Narrow-Scope Improvements and Practical Expedients,   which narrowly amended the revenue recognition guidance regarding collectibility, noncash consideration, presentation of sales tax and transition. ASU 2016-08, ASU 2016-10 and ASU 2016-12 will be effective during the same period as ASU No. 2014-09,   Revenue from Contracts with Customers  , which is effective for annual reporting periods beginning after December 15, 2017, with the option to adopt one year earlier. The Company is still evaluating the impact of the adoption of these ASUs.    
+
+Note 2: Fair Value of Financial Instruments 
+
+The estimated fair values of financial instruments outstanding were (in thousands): 
+
+9 
+
+Table of Contents   
+
+As of September 30, 2016, unrealized losses on available for sale securities were insignificant.  As of December 31, 2015 the estimated fair values of available-for-sale securities with unrealized losses were (in thousands): 
+
+As of December 31, 2015, substantially all of the available-for-sale securities with unrealized losses had been in a loss position for less than 12 months. 
+
+The following table represents the Company s fair value hierarchy for its financial assets (cash equivalents and investments) as of September 30, 2016 and December 31, 2015 (in thousands): 
+
+There were no transfers in or out of Level 1 and Level 2 securities during the three or nine months ended September 30, 2016 and 2015. 
+
+Note 3. Balance Sheet Detail 
+
+10 
+
+Table of Contents   
+
+Identifiable intangible assets relating to a patent license were (dollar amounts in thousands): 
+
+The net carrying value of the patent license has been included in the other assets line item in the condensed consolidated balance sheets.  Amortization expense has been included in research and development expense in the condensed consolidated statements of operations and comprehensive loss.  The estimated aggregate amortization expense to be recognized in future years is less than $0.1 million for the remainder of 2016 and $0.1 million annually for 2017 and 2018. 
+
+Note 4. Commitments and Contingencies 
+
+Indemnification 
+
+In the ordinary course of business, the Company enters into contractual arrangements under which it may agree to indemnify the counterparties from any losses incurred relating to breach of representations and warranties, failure to perform certain covenants, or claims and losses arising from certain events as outlined within the particular contract, which may include, for example, losses arising from litigation or claims relating to past performance. Such indemnification clauses may not be subject to maximum loss clauses. The Company has also entered into indemnification agreements with its officers and directors. No material amounts were reflected in the Company s condensed consolidated financial statements for the three or nine months ended September 30, 2016 or 2015 related to these indemnifications. 
+
+The Company has not estimated the maximum potential amount of indemnification liability under these agreements due to the limited history of prior claims and the unique facts and circumstances applicable to each particular agreement. To date, the Company has not made any material payments related to these indemnification agreements. 
+
+Legal Matters 
+
+The Company is not a party to any material legal proceeding that the Company believes is likely to have a material adverse effect on its consolidated financial position or results of operations. From time to time the Company may be subject to legal proceedings and claims in the ordinary course of business. These claims, even if not meritorious, could result in the expenditure of significant financial resources and diversion of management efforts. 
+
+Note 5. Business Segments, Concentration of Credit Risk and Significant Customers 
+
+The Company operates in one business segment and uses one measurement of profitability for its business.  Net revenue attributed to the United States and to all foreign countries is based on the geographical location of the customer. 
+
+Financial instruments that potentially subject the Company to significant concentrations of credit risk consist principally of cash, cash equivalents, short term and long term investments and accounts receivable. Cash, cash equivalents and short term and long-term investments are deposited with high credit quality institutions. 
+
+11 
+
+Table of Contents   
+
+The Company recognized revenue from shipment of ICs and licensing of its technologies to customers by geographical location as follows (in thousands): 
+
+Customers who accounted for at least 10% of total net revenue were: 
+
+*  Represents less than 10% 
+
+Two customers accounted for 81% of net accounts receivable at September 30, 2016. Three customers accounted for 94% of net accounts receivable at December 31, 2015. 
+
+Note 6. Income Tax Provision 
+
+The Company determines deferred tax assets and liabilities based upon the differences between the financial statement and tax bases of the Company s assets and liabilities using tax rates in effect for the year in which the Company expects the differences to affect taxable income. A valuation allowance is established for any deferred tax assets for which it is more likely than not that all or a portion of the deferred tax assets will not be realized. 
+
+The Company files U.S. federal and state and foreign income tax returns in jurisdictions with varying statutes of limitations.  All tax returns from 2011 to 2015 may be subject to examination by the Internal Revenue Service, California and other states. Returns filed in foreign jurisdictions may be subject to examination for the years 2007 to 2015.  As of September 30, 2016, the Company has not recorded any liability for unrecognized tax benefits related to uncertain tax positions. 
+
+Note 7. Stock-Based Compensation 
+
+The expense relating to stock options is recognized on a straight-line basis over the requisite service period, usually the vesting period, based on the grant-date fair value. The unamortized compensation cost, net of expected forfeitures, as of September 30, 2016 was $2.9 million related to stock options and is expected to be recognized as expense over a weighted average period of approximately 2.8 years.  The expense related to restricted stock units (RSUs) is recognized over a three-to-five year vesting period and is based on the fair value of the underlying stock on the dates of grant.  The unamortized compensation cost, net of expected forfeitures, as of September 30, 2016 was $0.7 million related to RSUs which is expected to be recognized as expense over a weighted average period of approximately 2.3 years. 
+
+The Company presents the tax benefits resulting from tax deductions in excess of the compensation cost recognized from the exercise of stock options as financing cash flows in the condensed consolidated statements of cash flows. For the three and nine months ended September 30, 2016 and 2015, there were no such tax benefits associated with the exercise of stock options due to the Company s loss positions. 
+
+12 
+
+Table of Contents   
+
+Valuation Assumptions 
+
+The fair value of the Company s stock options granted for the three and nine months ended September 30, 2016 and 2015 was estimated on the grant dates using the Black-Scholes valuation option-pricing model with the following assumptions:  
+
+The risk-free interest rate was derived from the Daily Treasury Yield Curve Rates, as published by the U.S. Department of the Treasury as of the grant date for terms equal to the expected terms of the options. The expected volatility was based on the historical volatility of the Company s stock price over the expected term of the options. The expected term of options granted was derived from historical data based on employee exercises and post vesting employment termination behavior. A dividend yield of zero is applied because the Company has never paid dividends and has no intention to pay dividends in the near future. 
+
+The stock based compensation expense recorded is adjusted based on estimated forfeiture rates. An annualized forfeiture rate has been used as a best estimate of future forfeitures based on the Company s historical forfeiture experience. The stock based compensation expense will be adjusted in later periods if the actual forfeiture rate is different from the estimate. 
+
+Common Stock Options and Restricted Stock 
+
+A summary of the option and RSU activity under the Company s Amended and Restated 2000 Stock Option and Equity Incentive Plan (Amended 2000 Plan) and Amended and Restated 2010 Equity Incentive Plan (Amended 2010 Plan), referred to collectively as the  Plans,  is presented below (in thousands, except exercise price): 
+
+The Company also has awarded options to new employees outside of the Plans and may continue to do so, as material inducements to the acceptance of employment with the Company, as permitted under the Listing Rules of the Nasdaq Stock Market. These grants must be approved by the compensation committee of the board of directors, a majority of the independent directors or, below a specified share level, by an authorized executive officer. 
+
+13 
+
+Table of Contents   
+
+A summary of the inducement grant option activity is presented below (in thousands, except exercise price): 
+
+A summary of RSU activity under the Plans is presented below (in thousands, except for fair value): 
+
+The total intrinsic value of the restricted stock units outstanding as of September 30, 2016 was $1.1 million. 
+
+The following table summarizes significant ranges of outstanding and exercisable options as of September 30, 2016 (in thousands, except contractual life and exercise price): 
+
+There were no stock options exercised during the nine months ended September 30, 2016. The intrinsic value of stock options exercised during the nine months ended September 30, 2015 was approximately $0.3 million. 
+
+14 
+
+Table of Contents   
+
+On July 26, 2016, the Company initiated a one-time option exchange program pursuant to which employees (excluding the chief executive officer and non-employees, including members of the Company s board of directors) who held certain options to purchase shares of the Company s common stock (such options,  eligible options ) were given the opportunity to exchange such eligible options for a lesser number of replacement options with a lower exercise price.  Upon the expiration of the option exchange program on August 23, 2016, the Company accepted for cancellation exchanged options to purchase an aggregate of 4,569,959 shares of common stock and issued from the Amended 2010 Plan replacement options covering 3,340,273 shares of common stock.  The exchanged eligible options included options to purchase 1,135,313 shares of the Company s common stock, which were originally inducement grants. The replacement options have an exercise price of $0.72 per share and vest monthly over three years.  This one-time option exchange was treated as a modification for accounting purposes and resulted in incremental expense of approximately $926,000 which was calculated using the Black-Scholes option pricing model. The incremental expense and the unamortized expense remaining on the exchanged options are being amortized over the three-year vesting period of the replacement options. 
+
+Employee Stock Purchase Plan 
+
+In June 2010, the Company s stockholders approved the 2010 Employee Stock Purchase Plan (ESPP). A total of 2,000,000 shares of common stock were initially reserved for issuance under the ESPP in 2010. On September 1, 2010, the Company commenced the first offering period under the ESPP. In May 2015, the Company s stockholders approved an amendment increasing the number of shares reserved for issuance by 2,000,000 shares. The ESPP, which is intended to qualify under Section 423 of the Internal Revenue Code, is administered by the board of directors or the compensation committee of the board of directors. The ESPP provides that eligible employees may purchase up to $25,000 worth of the Company s common stock annually over the course of two six-month offering periods. The purchase price to be paid by participants is 85% of the price per share of the Company s common stock either at the beginning or the end of each six-month offering period, whichever is less.  
+
+On February 29, 2016, approximately 373,000 shares of common stock were issued for an aggregate purchase price of $197,000 under the ESPP. On August 31, 2016, approximately 319,000 shares of common stock were issued for an aggregate purchase price of $168,000.  As of September 30, 2016, there were approximately 1.5 million shares authorized and unissued under the ESPP. 
+
+Note 8.   Convertible Notes 
+
+On March 14, 2016, the Company entered into a 10% Senior Secured Convertible Note Purchase Agreement (the  Purchase Agreement ) with the purchasers of $8,000,000 principal amount of 10% Senior Secured Convertible Notes due August 15, 2018 (the  Notes ), at par, in a private placement transaction effected pursuant to an exemption from the registration requirements under the Securities Act of 1933, as amended. The conversion price of the Notes is $0.90 per share and is subject to adjustment upon certain events as set forth in the Purchase Agreement. Pursuant to a security agreement entered into by the Company, the Notes are secured by a security interest in all of the assets of the Company. 
+
+The Notes bear interest at the annual rate of 10%. Accrued interest is payable semi-annually in cash or in kind through the issuance of identical new Notes, or with a combination of the two, at the Company s option. The Notes are noncallable and nonredeemable by the Company. The Notes are redeemable at the election of the holders if the Company experiences a fundamental change (as defined in the Notes), which generally would occur in the event (i) any person acquires beneficial ownership of shares of common stock of the Company entitling such person to exercise at least 40% of the total voting power of all of the shares of capital stock of the Company entitled to vote generally in elections of directors, (ii) an acquisition of the Company by another person through a merger or consolidation, or the sale, transfer or lease of all or substantially all of the Company s assets, or (iii) the Company s current directors cease to constitute a majority of the board of directors of the Company within a 12-month period, disregarding for this purpose any director who voluntarily resigns as a director or dies while serving as a director. The redemption price is 120% of the principal amount of the Note to be repurchased plus accrued and unpaid interest as of the redemption date. 
+
+The conversion price of $0.90 per share of common stock shall be reset, if, prior to the maturity date, the Company sells new shares of capital stock, or other securities convertible into or exercisable for capital stock, in a financing with one or more accredited investors that yields proceeds to the Company (net of transaction fees, expenses and discounts and commission) of at least $1,000,000 at a price lower than the then applicable conversion price in effect immediately before the closing of such financing; provided that in no event shall the applicable conversion price be reset to less than   
+
+15 
+
+Table of Contents   
+
+$0.85 per share of common stock.  The Notes also will be subject to anti-dilution adjustments for stock splits, stock dividends, and the like.  
+
+No Note holder shall be entitled to convert such holder s Notes if effective upon the applicable conversion date (i) the holder would have beneficial ownership of more than 9.9% of the voting capital stock of the Company as determined in accordance with Rule 13d-3 under the Securities Exchange Act of 1934, as amended, (with exceptions specified in the Purchase Agreement), or (ii) if the shares are being acquired or held with a purpose or effect of changing or influencing control of the Company, or in connection with or as a participant in any transaction having that purpose or effect, as determined in the sole discretion of the board of directors of the Company. There is no required sinking fund for the Notes. The Notes have not been registered for resale, and the holder(s) do not have registration rights. 
+
+The Notes restrict the ability of the Company to incur any indebtedness for borrowed money, unless such indebtedness by its terms is expressly subordinated to the Notes in right of payment and to the security interest of the Note holder(s) in respect to the priority and enforcement of any security interest in property of the Company securing such new debt; provided that the Note holder(s) security interest and cash payment rights under the Notes shall be subordinate to a maximum of $5,000,000 of indebtedness for a secured accounts receivable line of credit facility provided to the Company by a bank or institutional lender; and, provided further, that in no event may the amount of indebtedness to which the  security interest of the Note holder(s) is subordinated exceed the outstanding balance of accounts receivable less than 90 days old for which the Company has not recorded an allowance for doubtful accounts pledged under such credit facility. 
+
+The Notes define an event of default generally as any failure by the Company to pay an amount owed under the Notes when due (subject to cure periods), a default with respect to other indebtedness of the Company  resulting  in acceleration of such indebtedness, the commencement of bankruptcy or insolvency proceedings, or the cessation of business.  If an event of default occurs under the Notes, the holder(s) of a majority-in-interest of the outstanding principal amount of the Notes may declare the outstanding principal amount thereof to be immediately due and payable and pursue all available remedies, including taking possession of the assets of the Company and selling them to pay the amount of debt then due, plus expenses, in accordance with applicable laws and procedures. 
+
+The Company incurred debt issuance costs of approximately $0.1 million which were recorded as a debt discount and are being amortized to interest expense over the repayment period for the loan using the effective interest rate method.  The interest expense related to the debt discount during the nine months ended September 30, 2016 was approximately $23,000. 
+
+In August 2016, the first semi-annual interest payment was made in-kind with the issue of an additional note ( Interest Note ) to the Purchasers.  The Interest Note has a principal amount of approximately $336,000 and has terms identical to the Notes.  As of September 30, 2016, the Notes and Interest Note could be converted into a maximum of 9,806,499 shares of common stock at $0.85 per share, excluding the effects of future payments of interest in-kind. 
+
+16 
+
+Table of Contents   
+
+Note 9. Restructuring 
+
+In the first quarter of 2016, the Company effected a reduction in its workforce and associated operating expenses, net loss and cash burn and realigned resources, as the Company has substantially concluded development of new products, including its third generation Bandwidth Engine IC product family, and is bringing these products to market in 2016. The Company reduced United States headcount by 12 positions and ceased operations at its subsidiary in Hyderabad, India, which had 18 employees.  As a result of these reductions, the Company has incurred total charges of approximately $0.7 million, including $0.6 million of charges for severance benefits and other one-time termination costs. The remaining charges represent lease obligations, asset impairments and other expenses related to the Company s Indian subsidiary. Substantially all of these charges were realized and resulted in cash expenditures of $0.6 million in the first quarter of 2016. The remaining charges are expected to be paid during 2016. Expenses related to the restructure are included in the restructuring charges line on the condensed consolidated statements of operations and comprehensive loss and the remaining liability is included in accrued expenses and other on the condensed consolidated balance sheet consisting of, (in thousands): 
+
+Costs related to workforce reductions primarily represented severance payments and related payroll taxes and benefits. Facility costs and other costs primarily include termination fees related to leases and services. Non-cash settlement costs primarily represent the write-off of fixed assets at the Company s Indian subsidiary. 
+
+17 
+
+Table of Contents   
+
+ITEM 2. Management s Discussion and Analysis of Financial Condition and Results of Operations   
+
+This Management s Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction with the accompanying condensed consolidated financial statements and notes included in this report. This Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, which include, without limitation, statements about the market for our technology, our strategy, competition, expected financial performance and capital raising efforts, all information disclosed under Item 3 of this Part I, and other aspects of our business identified in our most recent annual report on Form 10-K filed with the Securities and Exchange Commission on March 15, 2016 and in other reports that we file from time to time with the Securities and Exchange Commission. Any statements about our business, financial results, financial condition and operations contained in this Form 10-Q that are not statements of historical fact may be deemed to be forward-looking statements. Without limiting the foregoing, the words  believes,   anticipates,   expects,   intends,   plans,   projects,  or similar expressions are intended to identify forward-looking statements. Our actual results could differ materially from those expressed or implied by these forward-looking statements as a result of various factors, including the risk factors described below in  Company Overview,   Liquidity and Capital Resources; Changes in Financial Condition,   Risk Factors  and elsewhere in this report and under Item 1A of our annual report on Form 10-K for the year ended December 31, 2015. We undertake no obligation to update publicly any forward-looking statements for any reason, except as required by law, even as new information becomes available or events occur in the future. 
+
+Company Overview 
+
+Our strategy and primary business objective is to become a fabless semiconductor company focused on the development and sale of integrated circuits, or ICs, for the high-speed networking, communications, storage and data center markets. Our solutions deliver time-to-market, performance, power, area and economic benefits for system original equipment manufacturers, or OEMs. We have developed two families of ICs under the Bandwidth Engine  and LineSpeed  product names. Bandwidth Engine ICs combine our proprietary 1T-SRAM  high-density embedded memory, integrated macro functions and high-speed serial interface, or SerDes, I/O, with our intelligent access technology and a highly efficient interface protocol. The LineSpeed IC product line, is comprised of non-memory, high-speed SerDes I/O devices with clock data recovery, gearbox and retimer functionality, which convert lanes of data received on line cards or by optical modules into different configurations and/or ensure signal integrity. 
+
+Certain SerDes products have been developed under a strategic development and marketing agreement with Credo Semiconductor Ltd., or Credo. As of September 30, 2016, we had paid Credo $4.8 million cumulatively for achievement of development milestones, as well as for mask costs and wafer purchases from third-party vendors. All amounts incurred have been recorded as research and development expenses. Currently, under the strategic development and marketing agreement, we are entitled to a remaining reimbursement amount of $3.5 million of development costs based on payments made to Credo to date. This amount is subject to increase for any additional payments made to Credo. The reimbursement will be funded by the gross profits earned by us from the sale of the relevant SerDes products, with the initial gross profits being primarily applied to reimbursing us for these development payments and a portion paid to Credo. Once the full amount has been reimbursed, the gross profits from these products will be shared equally by us and Credo. 
+
+Historically, our primary business was the design, development, marketing, sale and support of differentiated intellectual property, or IP, including embedded memory and high-speed parallel and SerDes I/O used in advanced systems-on-chips, or SoCs. Currently, we are focused on developing differentiated IP-rich IC products and are dedicating all our research and development, marketing and sales budget to these IC products. 
+
+Our future success and ability to achieve and maintain profitability are dependent on the marketing and sales of our IC products into networking, communications and other markets requiring high-bandwidth memory access. 
+
+In the first quarter of 2016, we effected a reduction in our workforce and associated operating expenses, net loss and cash burn and to realign resources, as we have substantially concluded development of new products, including our third generation Bandwidth Engine IC product family, and has brought these products to market in 2016. We reduced United States headcount by 12 positions and ceased operations at our subsidiary in Hyderabad, India, which had 18 employees. As a result of these reductions, the Company has incurred total charges of  approximately $0.7 million, including $0.6 million of charges for severance benefits and other one-time termination costs. The remaining charges represent lease obligations, asset impairments and other expenses related to our Indian subsidiary. Substantially all of   
+
+18 
+
+Table of Contents   
+
+these charges were realized and resulted in cash expenditures of $0.6 million in the first quarter of 2016. The remaining charges are expected to be paid during 2016.We expect to realize approximately $3.3 million of savings on an annualized basis from the restructuring. 
+
+Sources of Revenue 
+
+Product.    Product revenue is generally recognized at the time of shipment to our customers. An estimated allowance may be recorded, at the time of shipment, for future returns and other charges against revenue consistent with the terms of sale.  IC product revenue and costs relating to sales made through distributors with rights of return and stock rotation are deferred until the distributors sell the product to end customers due to our inability to estimate future returns and credits to be issued.  At the time of shipment to distributors, an account receivable for the selling price is recorded, as there is a legally enforceable right to receive payment, inventory is relieved, as legal title to the inventory is transferred upon shipment, and the associated deferred margin is recorded as deferred revenues in the condensed consolidated balance sheets.  Revenues are recognized upon receiving notification from the distributors that products have been sold to end customers. 
+
+Royalty.    Royalty revenue represents amounts earned under provisions in our memory licensing contracts that require our licensees to report royalties and make payments at a stated rate based on actual units manufactured or sold by licensees for products that include our memory IP. Our license agreements require the licensee to report the manufacture or sale of products that include our technology after the end of the quarter in which the sale or manufacture occurs, and we recognize royalties in the quarter in which we receive the licensee s report. The timing and level of royalties are difficult to predict. They depend on the licensee s ability to market, produce and sell products incorporating our technology. 
+
+Critical Accounting Policies and Estimates 
+
+The discussion and analysis of our financial condition and results of operations are based upon our condensed consolidated financial statements, which have been prepared in accordance with GAAP. The preparation of these financial statements requires us to make certain estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses. On an ongoing basis we make these estimates based on our historical experience and on assumptions that we consider reasonable under the circumstances. Actual results may differ from these estimates, and reported results could differ under different assumptions or conditions. Our significant accounting policies and estimates are disclosed in Note 1 of the  Notes to Consolidated Financial Statements  in our Annual Report on Form 10-K for the year ended December 31, 2015. As of September 30, 2016, there have been no material changes to our significant accounting policies and estimates. 
+
+Recent Accounting Pronouncements 
+
+In March 2016, the Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update ( ASU ) No. 2016-08,   Revenue from Contracts with Customers (Topic 606): Principal versus Agent Considerations (Reporting Revenue Gross versus Net),   which clarified the revenue recognition implementation guidance on principal versus agent considerations. In April 2016, the FASB issued ASU No. 2016-10,   Revenue from Contracts with Customers (Topic 606): Identifying Performance Obligations and Licensing,   which clarified the revenue recognition guidance regarding the identification of performance obligations and the licensing implementation. In May 2016, the FASB issued ASU No. 2016-12,   Revenue from Contracts with Customers (Topic 606): Narrow-Scope Improvements and Practical Expedients,   which narrowly amended the revenue recognition guidance regarding collectibility, noncash consideration, presentation of sales tax and transition. ASU 2016-08, ASU 2016-10 and ASU 2016-12 will be effective during the same period as ASU No. 2014-09,   Revenue from Contracts with Customers  , which is effective for annual reporting periods beginning after December 15, 2017, with the option to adopt one year earlier. The Company is still evaluating the impact of the adoption of these ASUs. 
+
+19 
+
+Table of Contents   
+
+Results of Operations 
+
+Net Revenue. 
+
+Product revenue increased for the three and nine months ended September 30, 2016 compared with the same periods of 2015 primarily due to higher shipment volumes of our Bandwidth Engine products. 
+
+Royalty and other revenue includes revenues generated from licensing agreements.  Royalty and other revenue decreased primarily due to a decrease in shipment volumes by licensees whose products incorporate our licensed IP. 
+
+Cost of Net Revenue and Gross Profit. 
+
+Cost of net revenue is primarily comprised of direct and indirect costs related to the sale of IC products. 
+
+Cost of net revenue decreased for the three months ended September 30, 2016 compared with the same period of 2015 primarily due to reduced product manufacturing costs. Cost of net revenue increased for the nine months ended September 30, 2016 compared with the same period of 2015 primarily due to higher IC shipment volumes partially offset by reduced product manufacturing costs. 
+
+Gross profit increased for the three and nine months ended September 30, 2016, compared with the same period of 2015, primarily due to the increase in gross profit from our product sales due to higher shipment volumes and reduced manufacturing costs, partially offset by the decrease in royalty and other revenue which has no corresponding costs. 
+
+20 
+
+Table of Contents   
+
+Research and Development. 
+
+Our research and development expenses include costs related to the development of our IC products and amortization of intangible assets. We expense research and development costs as they are incurred. 
+
+The decreases for the three and nine months ended September 30, 2016 compared with the same periods in 2015 were primarily due to reduced new product mask tooling and expensed equipment costs, personnel costs, computer-aided design software and stock-based compensation charges. 
+
+We expect research and development expenses to decrease in 2016 as compared with 2015 due to reductions in personnel as a result of our restructuring activity in the first quarter of 2016, as well as reduced new product mask tooling and computer-aided design software expenses. 
+
+Research and development expenses included stock-based compensation expense of $0.5 million and $0.6 million for the three months ended September 30, 2016 and 2015, respectively. Research and development expenses included stock-based compensation expense of $1.3 million and $2.2 million for the nine months ended September 30, 2016 and 2015, respectively. 
+
+Selling, General and Administrative. 
+
+Selling, general and administrative, or SG A, expenses consist primarily of personnel and related overhead costs for sales, marketing, finance, human resources and general management. 
+
+The decrease for the three months ended September 30, 2016 compared with the same period in 2015 was primarily due to lower compensation costs. The decrease for the nine months ended September 30, 2016 compared with the same period in 2015 was primarily due to a decrease in stock compensation expense and personnel costs partially offset by an increase in professional services fees.  We expect SG A expenses to decrease slightly in 2016 as compared with 2015 due to the effects of our restructuring activity in the first quarter of 2016, partially offset by increased commission expenses due to increases in product revenue. 
+
+Selling, general and administrative expenses included stock-based compensation expense of $0.2 million for each of the three month periods ended September 30, 2016 and 2015.  Selling, general and administrative expenses included stock-based compensation expense of $0.5 million and $0.7 million for the nine month periods ended September 30, 2016 and 2015, respectively. 
+
+Restructuring Charges. 
+
+21 
+
+Table of Contents   
+
+In the first quarter of 2016, we recorded restructuring charges attributable to a reduction in force in the United States and the closure of our operations at our Indian subsidiary.  See Note 9 in the Notes to Condensed Consolidated Financial Statements for additional disclosure. 
+
+Interest expense and other income, net 
+
+Interest expense and other income (expense), net primarily consisted of interest expense on our senior secured convertible notes, partially offset by interest income on our investments as well as foreign currency transaction activity and other non-operating items. The Company paid the accumulated interest through August 15, 2016 in-kind through the issuance of an identical new senior secured convertible notes. 
+
+Income Tax Provision. 
+
+The income tax provisions for the three and nine months ended September 30, 2016 and 2015 were primarily attributable to taxes on earnings of our foreign subsidiaries and branches. We expect our income tax provision to decline in future periods, as we have ceased operations at our Indian subsidiary. We believe that, based on the history of our operating losses and other factors, the weight of available evidence indicates that it is more likely than not that we will be unable to realize the benefit of our net operating losses, which are primarily generated in the United States. Accordingly, a full valuation reserve has been recorded against our net deferred tax assets. 
+
+Liquidity and Capital Resources; Changes in Financial Condition 
+
+Cash Flows 
+
+As of September 30, 2016, we had cash, cash equivalents and short-term investments of $12.8 million and had total working capital of $12.9 million. Our primary capital requirements are to fund working capital, including development of our IC products and any acquisitions that we make that require cash consideration or expenditures. 
+
+Net cash used in operating activities was $15.0 million for the first nine months of 2016, which primarily resulted from our net loss of $17.6 million, partially offset by non-cash charges, including stock-based compensation expense of $1.8 million and depreciation and amortization expenses of $0.9 million. 
+
+Net cash used in operating activities was $23.1 million for the first nine months of 2015, which primarily resulted from our net loss of $25.0 million and $1.8 million in the net reduction in assets and liabilities, partially offset by non-cash charges, including stock-based compensation expense of $2.9 million and depreciation and amortization expenses of $0.8 million. 
+
+Net cash provided by investing activities was $11.2 million for the first nine months of 2016, and included net amounts transferred to cash and cash equivalents from investments of $11.9 million, which did not impact our liquidity, and $0.6 million for purchases of fixed assets. 
+
+22 
+
+Table of Contents   
+
+Net cash used in investing activities was $1.5 million for the first nine months of 2015, and included net amounts transferred from cash and cash equivalents to investments of $1.2 million, which did not impact our liquidity, and $0.4 million for purchases of fixed assets. 
+
+Our proceeds from financing activities for the first nine months of 2016 consisted primarily of net proceeds received from the issuance of senior secured convertible notes. 
+
+Our proceeds from financing activities for the first nine months of 2015 consisted primarily of net proceeds received from the sale of common stock through a public offering and proceeds from the exercise of stock options and purchases of common stock under our employee stock purchase plan. 
+
+Our future liquidity and capital requirements are expected to vary from quarter to quarter, depending on numerous factors, including: 
+
+level of revenue;     
+
+cost, timing and success of technology development efforts;     
+
+inventory levels, timing of product shipments and length of billing and collection cycles;     
+
+fabrication costs, including mask tooling costs, of our ICs, currently under development;     
+
+variations in manufacturing yields, materials costs and other manufacturing risks;     
+
+costs of acquiring other businesses and integrating the acquired operations;     
+
+profitability of our business; and     
+
+whether interest payments on the Notes are paid in cash or, at our election, in kind through the issuance of new Notes with identical terms for the accrued interest.     
+
+We expect our cash expenditures to continue to exceed receipts for the foreseeable future as our revenues will not be sufficient to offset our operating expenses, which include significant research and development expenditures for the expansion and fabrication of our IC products. We intend to continue our current product and research and development activities, although total expenditures on a monthly and quarterly basis will vary, primarily based on need for additional mask tooling costs.  Because we do not expect positive cash flows from operations in the foreseeable future, we will need to obtain additional funds to continue operating at the current level of expenditures. We might decide to raise additional capital at such times and upon such terms as management considers favorable and in our interests, including, but not limited to, from the sale of our debt and/or equity securities under our existing shelf registration statement. There can be no assurance that such funding will be available to us on favorable terms, if at all.   
+
+If we were to raise additional capital through sales of our equity securities, our stockholders would suffer dilution of their equity ownership. If we engage in additional debt financing, we may be required to accept terms that restrict our ability to incur additional indebtedness, prohibit us from paying dividends, repurchasing our stock or making investments, and force us to maintain specified liquidity or other ratios, any of which could harm our business, operating results and financial condition. If we need additional capital and cannot raise it on acceptable terms, we may not be able to, among other things: 
+
+: 
+
+develop or enhance our products;     
+
+continue to expand our product development and sales and marketing organizations;     
+
+acquire complementary technologies, products or businesses;     
+
+expand operations, in the United States or internationally;     
+
+hire, train and retain employees; or     
+
+respond to competitive pressures or unanticipated working capital requirements.     
+
+23 
+
+Table of Contents   
+
+Our failure to do any of these things could seriously harm our ability to execute our business strategy and may force us to curtail our research and development plans or existing operations. 
+
+Contractual Obligations 
+
+The impact that our contractual obligations as of September 30, 2016 are expected to have on our liquidity and cash flow in future periods is as follows (in thousands): 
+
+As of September 30, 2016, our software licenses were primarily for computer-aided design software. 
+
+ITEM 3. Qualitative and Quantitative Disclosures about Market Risk   
+
+Our investment portfolio consists of money market accounts, certificates of deposit, commercial paper, corporate debt, government-sponsored enterprise bonds and municipal bonds. The portfolio dollar-weighted average maturity of these investments is within 12 months.  Our primary objective with this investment portfolio is to invest available cash while preserving principal and meeting liquidity needs.  No single security should exceed 5% of the portfolio or $2.0 million at the time of purchase. In accordance with our investment policy, we place investments with high credit-quality issuers and limit the amount of credit exposure to any one issuer. These securities, which approximated $11.1 million as of September 30, 2016 and earned an average annual interest rate of approximately 0.4% during 2016, are subject to interest rate and credit risks. We do not have any investments denominated in foreign currencies, and, therefore, are not subject to foreign currency risk on such investments. 
+
+ITEM 4. Controls and Procedures   
+
+Disclosure Controls and Procedures.    Our management is responsible for establishing and maintaining adequate internal control over our financial reporting. Because of inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934. Based on this evaluation, our management concluded that as of September 30, 2016, our disclosure controls and procedures were effective. 
+
+Changes in Internal Control over Financial Reporting.    During the third quarter of 2016, there was no change in our internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+PART II OTHER INFORMATION   
+
+ITEM 1. Legal Proceedings   
+
+The discussion of legal matters in Note 4 of the Notes to Condensed Consolidated Financial Statements included in Part I, Item 1 of this report under the heading  Legal Matters  is incorporated by reference in response to this Part II, Item 1. 
+
+24 
+
+Table of Contents   
+
+ITEM 1A. Risk Factors   
+
+We face many significant risks in our business, some of which are unknown to us and not presently foreseen.  These risks could have a material adverse impact on our business, financial condition and results of operations in the future.  We have disclosed a number of material risks under Item 1A of our annual report on Form 10-K for the year ended December 31, 2015, which we filed with the Securities and Exchange Commission on March 15, 2016. 
+
+ITEM 3. Unregistered Sales of Equity Securities and Use of Proceeds 
+
+On August 23, 2016, the Company accepted for cancellation exchanged options to purchase an aggregate of 4,569,959 shares of common stock and issued from the Amended 2010 Plan replacement options covering 3,340,273 shares of common stock.  The exchange was effected pursuant to the exemption from registration provided under Section 3(a)(9) of the Securities Act of 1933, as amended.  The option exchange resulted in a net reduction in the number of shares underlying our outstanding derivative equity securities   of   1,229  ,  686. The disclosure of this option exchange under Note 7 of the Notes to Financial Statements in Part I, Item 1 is incorporated by reference in partial response to this item. 
+
+ITEM 6. Exhibits   
+
+25 
+
+Table of Contents   
+
+Signatures   
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+Dated: November 9, 2016  
+
+MOSYS, INC.  
+
+By:  
+
+/s/ Leonard Perham  
+
+Leonard Perham  
+
+President and Chief Executive Officer  
+
+By:  
+
+/s/ James W. Sullivan  
+
+James W. Sullivan  
+
+Vice President of Finance and Chief Financial Officer  
+
+(Principal Financial Officer)  
+
+26 
+
+Table of Contents   
+
+EXHIBIT INDEX 
+
+27 
+
+<EX-31.1>
+ 2
+ mosy-20160930ex31128d4ce.htm
+ EX-31.1
+
+mosy_Ex31_1
+
+Exhibit 31.1 
+
+CERTIFICATION PURSUANT TO 
+
+RULE 13a-14 THE SECURITIES EXCHANGE ACT OF 1934 
+
+I, Leonard Perham, certify that: 
+
+2.  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;     
+
+4. 
+
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:     
+
+(a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;     
+
+(b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;     
+
+(c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and     
+
+(d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and     
+
+5. 
+
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):     
+
+(a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and     
+
+(b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.     
+
+Date: November 9, 2016  
+
+/s/ Leonard Perham  
+
+Leonard Perham  
+
+President and Chief Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ mosy-20160930ex312cff01b.htm
+ EX-31.2
+
+mosy_Ex31_2
+
+Exhibit 31.2 
+
+CERTIFICATION PURSUANT TO 
+
+RULE 13a-14 THE SECURITIES EXCHANGE ACT OF 1934 
+
+I, James W. Sullivan, certify that: 
+
+2.  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3.  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4.  The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;     
+
+(b)  Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c)  Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d)  Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.  The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and     
+
+(b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.     
+
+Ovember 10  
+
+Date: November 9, 2016  
+
+/s/ James W. Sullivan  
+
+James W. Sullivan  
+
+Vice President of Finance and Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ mosy-20160930ex321c6b9e2.htm
+ EX-32.1
+
+mosy_Ex32_1
+
+Exhibit 32.1 
+
+CERTIFICATION OF CEO AND CFO FURNISHED PURSUANT TO 
+
+18 U.S.C.   1350, 
+
+AS ADOPTED PURSUANT TO 
+
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report on Form 10-Q of MoSys, Inc. (the  Company ) for the quarterly period ended September 30, 2016 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), each of Leonard Perham, Chief Executive Officer of the Company, and James W. Sullivan, Chief Financial Officer of the Company, hereby certifies, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, to the best of his knowledge, that: 
+
+(1)  The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and  
+
+(2)  The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.  
+
+/s/ Leonard Perham  
+
+Leonard Perham  
+
+President and Chief Executive Officer  
+
+November 9, 2016  
+
+/s/ James W. Sullivan  
+
+James W. Sullivan  
+
+Vice President of Finance and Chief Financial Officer  
+
+November 9, 2016  
+
+This certification accompanies this Report pursuant to   906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by the Sarbanes-Oxley Act of 2002, or otherwise required, be deemed filed by the Company for purposes of   18 of the Securities Exchange Act of 1934, as amended. 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ mosy-20160930.xml
+ EX-101.INS
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ mosy-20160930.xsd
+ EX-101.SCH
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ mosy-20160930_cal.xml
+ EX-101.CAL
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ mosy-20160930_def.xml
+ EX-101.DEF
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ mosy-20160930_lab.xml
+ EX-101.LAB
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ mosy-20160930_pre.xml
+ EX-101.PRE
+
+</EX-101.PRE>
+

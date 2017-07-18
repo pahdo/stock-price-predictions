@@ -1,0 +1,1135 @@
+<Header>
+<FileStats>
+    <FileName>20161114_10-Q_edgar_data_1660734_0001660734-16-000031_1.txt</FileName>
+    <GrossFileSize>1359127</GrossFileSize>
+    <NetFileSize>119124</NetFileSize>
+    <ASCII_Embedded_Chars>0</ASCII_Embedded_Chars>
+    <HTML_Chars>1134646</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>41</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001660734-16-000031.hdr.sgml : 20161111
+<ACCEPTANCE-DATETIME>20161114171727
+ACCESSION NUMBER:		0001660734-16-000031
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161114
+DATE AS OF CHANGE:		20161114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Triton International Ltd
+		CENTRAL INDEX KEY:			0001660734
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EQUIPMENT RENTAL & LEASING, NEC [7359]
+		IRS NUMBER:				981276572
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37827
+		FILM NUMBER:		161995929
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CANON'S COURT
+		STREET 2:		22 VICTORIA STREET
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM 12
+		BUSINESS PHONE:		1 (441) 295-2287
+
+	MAIL ADDRESS:	
+		STREET 1:		CANON'S COURT
+		STREET 2:		22 VICTORIA STREET
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM 12
+
+</SEC-Header>
+</Header>
+
+ 0001660734-16-000031.txt : 20161114
+
+10-Q
+ 1
+ newtriton-2016930x10q.htm
+ 10-Q
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  WASHINGTON, D.C. 20549 
+
+FORM 10-Q 
+
+For The Quarterly Period Ended   September 30, 2016    
+  Or   
+
+  For the Transition Period from                             to    
+  Commission file number- 001-37827 
+  Triton International Limited 
+  (Exact name of registrant as specified in the charter) 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirement for the past 90 days. Yes   o      No     
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes          No   o 
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See definitions of "large accelerated filer," "accelerated filer" and "smaller reporting company" in Rule 12b-2 of the Exchange Act. 
+                           Large Accelerated Filer   o 
+      
+    Accelerated Filer   o 
+      
+    Non-accelerated filer     
+      
+    Smaller reporting company   o 
+
+(Do not check if a smaller reporting company) 
+
+Indicate by check mark whether the registrant is a shell company (as defined in rule 12b-2 of the Exchange Act). YES   o      NO     
+  As of   November 4, 2016  , there were   74,376,025   common shares,   $0.01   par value, of the Registrant outstanding. 
+
+Triton International Limited   
+  Index 
+
+2 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+  This quarterly report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, or the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act, that involve substantial risks and uncertainties. In addition, we, or our executive officers on our behalf, may from time to time make forward-looking statements in reports and other documents we file with the Securities and Exchange Commission, or SEC, or in connection with oral statements made to the press, potential investors or others. All statements, other than statements of historical facts, including statements regarding our strategy, future operations, future financial position, future revenues, projected costs, prospects, plans and objectives of management are forward-looking statements. The words "expect," "estimate," "anticipate," "predict," "believe," "think," "plan," "will," "should," "intend," "seek," "potential" and similar expressions and variations are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. 
+  Forward-looking statements in this report are subject to a number of known and unknown risks and uncertainties that could cause our actual results, performance or achievements to differ materially from those described in the forward-looking statements, including, but not limited to, the risks and uncertainties described in this Report on Form 10-Q, the section entitled "Risk Factors" in our Form S-4, filed with the SEC on May 6, 2016, and those described in Part I, Item 1A of the Annual Report on Form 10-K for the year ended December 31, 2015 of TAL International Group, Inc. ("TAL"), as well as in the other documents we file with the SEC from time to time, and such risks and uncertainties are specifically incorporated herein by reference. 
+  Forward-looking statements speak only as of the date the statements are made. Except as required under the federal securities laws and rules and regulations of the SEC, we undertake no obligation to update or revise forward-looking statements to reflect actual results, changes in assumptions or changes in other factors affecting forward-looking information. We caution you not to unduly rely on the forward-looking statements when evaluating the information presented in this report. 
+  MERGER OF TRITON CONTAINER INTERNATIONAL LIMITED AND TAL INTERNATIONAL GROUP, INC. TO FORM TRITON INTERNATIONAL LIMITED 
+    
+  On November 9, 2015, TAL and Triton Container International Limited ("TCIL") announced that they entered into a definitive agreement, under which the companies agreed to combine in an all-stock merger, pursuant to the Transaction Agreement, dated as of November 9, 2015  (the "Transaction Agreement"), by and among TAL, Triton International Limited ("Triton" or the "Company"), TCIL, Ocean Delaware Sub, Inc., a Delaware corporation and direct wholly owned subsidiary of Triton, and Ocean Bermuda Sub Limited, a Bermuda exempted company and direct wholly owned subsidiary of Triton. On July 12, 2016, TAL and TCIL combined under Triton, a holding company, which is domiciled in Bermuda and is listed on the New York Stock Exchange under the ticker symbol "TRTN". 
+    
+  Post-Transaction Organization Structure Relevant to this Form 10-Q 
+    
+  On July 12, 2016, the transactions contemplated by the Transaction Agreement (the "mergers") were approved by the stockholders of TAL and became effective. Immediately following the completion of the mergers, former TCIL shareholders owned approximately 55% of the outstanding equity of the Company and former TAL stockholders owned approximately 45% of the outstanding equity of the Company. Triton, through its subsidiaries, leases intermodal transportation equipment, primarily maritime containers, and provides maritime container management services through a worldwide network of offices, third-party depots and other facilities. The Company operates through its subsidiaries in both international and U.S. markets. The majority of Triton s business is derived from leasing its containers to shipping line customers through a variety of long-term and short-term contractual lease arrangements. Triton also sells its own containers and containers purchased from third parties and enters into management agreements with third party container owners under which Triton manages the leasing and selling of containers on behalf of the third party owners for a fee. The Company's registered office is located at 22 Victoria Street, Hamilton HM12, Bermuda. 
+  Following the completion of the mergers, Brian M. Sondey, who was the Chairman, President and Chief Executive Officer of TAL, serves as the Chairman and Chief Executive Officer of Triton; Simon R. Vernon, who was the President and Chief Executive Officer of TCIL, serves as President of Triton; and John Burns, who was the Chief Financial Officer of TAL, serves as the Chief Financial Officer of Triton. 
+
+3 
+
+Table of contents  
+
+TRITON INTERNATIONAL LIMITED 
+  Consolidated Balance Sheets 
+  (Dollars in thousands, except share data) 
+  (Unaudited) 
+
+The accompanying Notes to the Unaudited Consolidated Financial Statements are  
+  an integral part of these statements. 
+  
+   4 
+
+Table of contents  
+
+TRITON INTERNATIONAL LIMITED 
+  Consolidated Statements of Operations 
+  (Dollars and shares in thousands, except per share amounts) 
+  (Unaudited)   
+      The accompanying Notes to the Unaudited Consolidated Financial Statements are an integral part of these statements. 
+  
+   5 
+
+Table of contents  
+
+TRITON INTERNATIONAL LIMITED 
+  Consolidated Statements of Comprehensive Income (Loss) 
+  (Dollars in thousands) 
+  (Unaudited) 
+
+The accompanying Notes to the Unaudited Consolidated Financial Statements are 
+  an integral part of these statements. 
+  
+   6 
+
+Table of contents  
+
+TRITON INTERNATIONAL LIMITED 
+  Consolidated Statements of Cash Flows  
+   (Dollars in thousands) 
+  (Unaudited) 
+
+The accompanying Notes to the Unaudited Consolidated Financial Statements are an integral part of these statements.         
+  
+   7 
+
+Table of Contents  
+  TRITON INTERNATIONAL LIMITED 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS 
+
+Note 1 Description of the Business, Basis of Presentation and Recently Adopted Accounting Pronouncements 
+  A.    Description of the Business 
+  Triton, through its subsidiaries, leases intermodal transportation equipment, primarily maritime containers, and provides maritime container management services through a worldwide network of service subsidiaries, third-party depots and other facilities. The Company operates in both international and U.S. markets. The majority of Triton s business is derived from leasing its containers to shipping line customers through a variety of long-term and short-term contractual lease arrangements. Triton also sells its own containers and containers purchased from third parties and enters into management agreements with third party container owners under which the Company manages the leasing and selling of containers on behalf of the third party owners for a fee. The Company's registered office is located at 22 Victoria Street, Hamilton HM12, Bermuda. 
+  B.    Basis of Presentation 
+  The consolidated financial statements of Triton presented herein reflect, for each period presented below that follows the completion of the mergers, the consolidated results of operations of TAL and TCIL.  The consolidated financial statements of Triton presented herein represent the historical financial statements of TCIL, the accounting acquirer, and also reflect the results of operations of TAL after July 12, 2016, the date of the acquisition. 
+  In addition, certain information and note disclosures normally included in financial statements prepared in accordance with U.S. generally accepted accounting principles have been condensed or omitted pursuant to such rules and regulations, although the Company believes that the disclosures are adequate to make the information presented not misleading. These financial statements reflect, in the opinion of management, all adjustments (consisting only of normal recurring adjustments) necessary to present fairly the results for the interim periods. The results of operations for such interim periods are not necessarily indicative of the results for the full year. These financial statements should be read in conjunction with the consolidated financial statements and the notes thereto included in the Company's Form S-4 filed with the SEC, on   May 6, 2016   and our other reports filed with the SEC through the current date pursuant to the Exchange Act. 
+  The preparation of financial statements in conformity with U.S. generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the reported amounts of revenues and expenses during the reporting period and disclosure of contingent assets and liabilities at the date of the financial statements. Such estimates include our estimates in connection with purchase accounting, residual value, depreciable lives, values of assets held for sale, and estimates related to the bankruptcy of a lessee (including amounts for recoveries under insurance policies as described below) among others. Actual results could differ from those estimates. 
+  The consolidated financial statements include the accounts of the Company and its subsidiaries. All intercompany transactions and balances have been eliminated in consolidation. Certain reclassifications have been made to the accompanying prior period financial statements and notes to conform to the current year's presentation. 
+  C.    Impact from Lessee Bankruptcy 
+  On August 31, 2016, Hanjin Shipping Co. ("Hanjin"), a lessee of the Company, filed for court protection and immediately began a liquidation process.  At that time, we had approximately   87,000   container units on lease to Hanjin with a net book value of   $243.3 million  .  
+    
+  The Company maintains credit insurance to cover the value of such containers that are unrecoverable, costs incurred to recover containers and a portion of lost lease revenue, (limited up to six months or until a container is recovered, repaired, and available for re-lease) all subject to a deductible. In connection with the Hanjin bankruptcy, the Company has recorded a charge to bad debt expense in the three and nine-months ended September 30, 2016 of   $23.4 million  , and an accrual for additional costs not expected to be recovered under our insurance policies due to the deductible limits of   $6.5 million  . Upon the announcement of the Hanjin bankruptcy, the Company ceased recognizing revenue from the customer which amounted to   $6.3 million   during the three and nine-months ended September 30, 2016. A portion of this lost revenue has been applied towards the deductible under the policies. The Company has recorded a receivable under one insurance policy of approximately   $0.6 million   since the deductible has been achieved. At the present time, the Company believes the anticipated losses as a result of Hanjin will be recoverable under the insurance policies, subject to the deductible limits. 
+     The Company estimates that a large portion of its equipment will ultimately be recovered, and this estimate has been considered into the estimated loss described above. 
+  
+   8 
+
+     Table of Contents  
+  TRITON INTERNATIONAL LIMITED 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+
+Note 1 Description of the Business, Basis of Presentation and Recently Adopted Accounting Pronouncements (continued) 
+  D.    New Accounting Pronouncements 
+  In March 2016, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update No. 2016-08 ("ASU No. 2016-08"),   Revenue from Contracts with Customers (Topic 606),   amending previous updates regarding this topic. The effective date is interim periods beginning after December 15, 2017. Earlier application is permitted. The Company is evaluating the transition method that will be elected and the potential effects of adopting the provisions of ASU No. 2016-08. 
+  In August 2014, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update No. 2014-15 ("ASU No. 2014-15"),   Presentation of Financial Statements (Topic 205): Disclosure of Uncertainties about an Entity's Ability to Continue as a Going Concern  . This standard requires management to evaluate whether there are conditions or events, considered in the aggregate, that raise substantial doubt about the entity s ability to continue as a going concern within one year after the date that financial statements are issued and to disclose those conditions if management has concluded that substantial doubt exists.  Subsequent to adoption, this guidance will need to be applied by management at the end of each annual period and interim period therein to determine what, if any, impact there will be on the Consolidated Financial Statements in a given reporting period.  These changes become effective for the Company for the 2016 annual period. Management has determined that the adoption of these changes will not have an impact on the Consolidated Financial Statements as this standard is disclosure only. 
+  In April 2015, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update No. 2015-03 ("ASU No. 2015-03"),   Imputation of Interest (Topic 835): Simplifying the Presentation of Debt Issuance Costs  , which was updated in August 2015 by Accounting Standards Update No. 2015-15 ("ASU No. 2015-15"),   Imputation of Interest (Topic 835): Presentation and Subsequent Measurement of Debt Issuance Costs Associated with Line-of-Credit Agreements.   These standards change the presentation of debt issuance costs in the financial statements but do not affect the recognition and measurement of debt issuance costs. Generally, the ASU specifies that debt issuance costs related to debt shall be reported in the balance sheet as a direct deduction from the face amount of that note and that amortization of debt issuance costs also shall be reported as interest expense. These changes became effective for the Company as of December 31, 2015. The Company adopted ASU No. 2015-15 in conjunction with ASU No. 2015-03, with no impact on its results of operations or cash flows and no material impact on its financial position. 
+  In February 2016, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update No. 2016-02 ("ASU No. 2016-02"),   Leases (Topic 842)   that replaces existing lease guidance. The accounting applied by lessors under Topic 842 is largely unchanged from previous GAAP. The new lease guidance will become effective for the Company for periods beginning after December 15, 2018. The Company is currently evaluating the effect the guidance will have on the Consolidated Financial Statements, but does not expect any material impact to its Consolidated Financial Statements. 
+  In March 2016, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update No. 2016-09 ("ASU No. 2016-09"),   Compensation-Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting  . The updated guidance changes how companies account for certain aspects of share-based payment awards to employees, including the accounting for income taxes, forfeitures, and statutory tax withholding requirements, as well as classification in the statement of cash flows. The update to the standard is effective for the Company for periods beginning after December 15, 2016. The Company is currently evaluating the effect the guidance will have on the Consolidated Financial Statements. 
+
+9 
+
+Table of Contents  
+  TRITON INTERNATIONAL LIMITED 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+
+Note 2 Common Shares  
+  As of July 12, 2016, the effective time of the mergers, Triton is authorized to issue up to   294,000,000   (par value   $0.01  ) common shares and up to   6,000,000   (par value   $0.01  ) undesignated shares.  
+  In the event of a voluntary or involuntary liquidation, dissolution or winding up of Triton, the holders of Triton common shares will be entitled to share equally in any of the assets available for distribution after Triton has paid in full all of its debts.  
+  Triton common shares issued upon the completion of the mergers on July 12, 2016 were validly issued, fully paid and non-assessable (meaning that no further sums are required to be paid by the holders of such shares in connection with the issue of such shares). Holders of Triton common shares will not be entitled to preemptive rights. Triton common shares will not be convertible into shares of any other class of common shares.  
+   
+  Note 3 Acquisition 
+  On November 9, 2015, TCIL and TAL announced that they entered into a definitive agreement, under which the companies agreed to combine in an all-stock merger, pursuant to the Transaction Agreement, dated as of November 9, 2015 (the "Transaction Agreement"), by and among TAL, Triton International Limited ("Triton" or the "Company"), TCIL, Ocean Delaware Sub, Inc., a Delaware corporation and direct wholly owned subsidiary of Triton, and Ocean Bermuda Sub Limited, a Bermuda exempted company and direct wholly owned subsidiary of Triton.  
+  On July 12, 2016, the transactions contemplated by the Transaction Agreement (the "mergers") were approved by the stockholders of TAL and became effective. Immediately following the completion of the mergers, former TCIL shareholders owned approximately   55%   of the outstanding equity of the Company and former TAL stockholders owned approximately   45%   of the outstanding equity of the Company. 
+  The Company has accounted for the mergers described above under the acquisition method of accounting in accordance with the FASB Accounting Standards Topic No. 805,   Business Combinations   ( ASC No. 805 ).  Triton has been treated as the acquirer in the mergers for accounting purposes. In making the determination of the accounting acquirer, Triton considered all pertinent information and facts related to the combined entity as identified by ASC No. 805-10-55-12 to 15, which included relative voting rights, presence of a large minority interest, composition of the Board of Directors and senior management, terms of the exchange of equity interests, and relative size.  In the aggregate, it was concluded that factors, such as the former Triton shareholders    55%   voting rights in the combined entity, after considering certain voting limitations, the presence of a large minority voting interest concentrated within the former Company shareholders and the relative size of Triton in relation to TAL, indicated that Triton should be the accounting acquirer.   
+  The consideration for the transaction was paid in common shares of Triton with TAL stockholders receiving one common share of Triton in exchange for each share of TAL common shares of   33.4 million   and TCIL s shareholders received approximately   0.80   of Triton common shares for each of TCIL's common shares. The fair value of the consideration, or the purchase price in the following preliminary purchase price allocation is approximately   $510.2 million  . This amount was derived based on the fair value of the shares issued to former TAL shareholders. 
+  Triton has allocated the purchase price to the fair value of the TAL assets acquired and liabilities assumed based on preliminary estimates.  The preliminary purchase price allocation below has been developed based on preliminary estimates of fair value using the historical financial statements of TAL as of July 12, 2016.  In addition, the allocation of the purchase price to acquired tangible and intangible assets is based on preliminary fair value estimates and is subject to final management analysis, with the assistance of third-party valuation advisers. 
+  Since the date of acquisition, total leasing revenues and net loss attributable to shareholders include TAL's results of   $94.6 million   and   $22.6 million  , respectively.  
+
+10 
+
+     Table of Contents  
+  TRITON INTERNATIONAL LIMITED 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+
+Note 3 Acquisition (continued) 
+  The residual amount of the purchase price after the preliminary allocation to identifiable intangibles has been allocated to goodwill.  The actual amounts recorded when the final allocations are complete may differ materially from the preliminary amounts presented below: 
+
+Triton reported transaction and other costs related to the mergers. These expenses are included in "Transaction and other costs" in our Consolidated Statements of Operations. Transaction and other costs associated with the mergers for the three and   nine   months ended   September 30, 2016   and   2015  , respectively, were as follows: 
+
+Employee compensation costs include costs to maintain and retain key employees, severance expenses, and certain stock compensation expense, including retention and stock compensation expense pursuant to plans established as part of TCIL's 2011 re-capitalization. The accrual related to employee compensation costs is   $56.7 million   included in accounts payable and other accrued expenses as of   September 30, 2016  . 
+  Professional fees and legal expenses include costs paid for services directly related to the closing of the mergers and include legal fees, accounting fees and transaction and advisory fees.  
+  
+   11 
+
+     Table of Contents  
+  TRITON INTERNATIONAL LIMITED 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+
+Note 3 Acquisition (continued) 
+  Pro Forma Disclosure 
+  The following table provides the unaudited pro forma results of operations, which gives effect to the transaction as if it had occurred on the first day of the earliest period presented (January 1, 2015).  The pro forma results of operations reflects adjustments (i) to adjust amortization and depreciation expense resulting from the write-down of leasing equipment to fair value and the fair value of operating lease contracts over the current market rate as a result of purchase accounting and (ii) to eliminate non-recurring charges that were incurred in connection with the transactions including acquisition-related share-based compensation, transaction costs related to legal, accounting, and other advisory fees, and transaction costs related to retention and benefit costs. 
+  The unaudited pro forma results do not include any anticipated synergies or other expected benefits of the mergers. The unaudited pro forma financial information presented below is not necessarily indicative of either future results of operations or results that might have been achieved had the mergers occurred as of January 1, 2015. 
+
+Note 4 Fair Value of Financial Instruments 
+  The Company believes that the carrying amounts of its cash and cash equivalents, accounts receivable, equipment purchases payable, and accounts payable approximated their fair value as of   September 30, 2016   and   December 31, 2015  . 
+  Fair value represents the price that would be received upon the sale of an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. The Company utilizes the following fair value hierarchy when selecting inputs for its valuation techniques, with the highest priority given to Level 1: 
+             
+    Level 1 Financial assets and liabilities whose values are based on observable inputs such as quoted prices for identical instruments in active markets (unadjusted).  
+                
+    Level 2 Financial assets and liabilities whose values are based on observable inputs such as (i) quoted prices for similar instruments in active markets, (ii) quoted prices for identical or similar instruments in markets that are not active, or (iii) model-derived valuations in which all significant inputs are observable in active markets. 
+                
+    Level 3 Financial assets and liabilities whose values are derived from valuation techniques based on one or more significant unobservable inputs. 
+     The Company does not record debt at fair value in its consolidated balance sheets. The fair value, which was measured using Level 2 inputs, and the carrying value of the Company's debt is listed in the table below as of the dates indicated (in thousands):    
+ ______________________________________________________________________________ 
+  (1) Excludes unamortized deferred financing costs of   $20.5 million   and   $19.0 million   as of   September 30, 2016   and   December 31, 2015  , respectively. 
+  The Company estimated the fair value of its debt instruments based on the net present value of its future payments, using a discount rate which reflects the Company's estimate of current market interest rates and spreads as of the balance sheet date. 
+  For the fair value of derivatives, please refer to Note 9 - "Derivative Instruments". 
+  
+   12 
+
+Table of Contents  
+  TRITON INTERNATIONAL LIMITED 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+
+Note 5 Dividends 
+  Dividends 
+  The Company paid the following quarterly dividends during the   nine   months ended   September 30, 2016   on its issued and outstanding common shares adjusted for the effects of the mergers:   
+
+Note 6 Restricted Shares, Share Options and Accumulated Other Comprehensive (Loss) 
+  The Company accounts for compensation cost relating to share-based payment transactions in accordance with the FASB Accounting Standards Codification No. 718,   Compensation-Stock Compensation  .  The cost is measured at the grant date, based on the calculated fair value of the award, and is recognized as an expense over the employee's requisite service period (generally the vesting period of the equity award) on a straight-line basis. 
+  Unvested restricted shares of approximately   538,000   as of   September 30, 2016   were considered anti-dilutive due to net losses for the three and    nine   months ended   September 30, 2016  . 
+  TCIL 
+    
+  Share Options 
+    
+  Effective May 23, 2011, TCIL adopted a share-based compensation plan (the  Option Plan ) for the benefit of certain executives of TCIL and its consolidated subsidiaries. The Option Plan allows for the issuance of service-based and market-based options.  
+    
+  On November 9, 2015, TCIL entered into option transaction agreements (the  Option Transaction Agreements ) with option holders in anticipation of the closing of the merger with TAL. In accordance with the terms of the Option Transaction Agreements, TCIL settled and cancelled all vested and unvested market-based options as of November 9, 2015 in exchange for   865,157   fully vested Class A common shares at   $14.51   per share, of which approximately   371,000   were redeemed to satisfy tax withholding obligations in respect of the settlement.  
+    
+  On July 8, 2016, TCIL settled and cancelled all vested and unvested service-based options in exchange for approximately   647,000   fully vested Class A common shares at   $10.94   per share, of which approximately   291,000   were redeemed to satisfy tax withholding obligations in respect of the settlement. 
+    
+  Restricted Shares 
+    
+  On July 8, 2016, approximately   143,000   restricted Class A common shares were issued to Option Plan participants after approval and authorization by the Board of Directors. The shares were granted at   $10.94  , which will be amortized on a straight line basis over an approximately   30  -month vesting period. On July 12, 2016, the   143,000   restricted Class A common shares were converted to approximately   114,000   common shares of the Company under the terms of the mergers pursuant to which TCIL shareholders received approximately   0.80   common shares of the Company for each of TCIL's common shares. 
+    
+  Non-Employee Director Equity Plan 
+    
+  On May 19, 2016, TCIL entered into equity repurchase and cash bonus agreements with certain management shareholders and non-employee directors whereby TCIL agreed to repurchase approximately   30,700   restricted Class A common shares at a fair market value redemption price of   $12.26   per share. On July 12, 2016, these restricted Class A common shares became fully vested and converted as a result of the mergers. 
+
+13 
+
+     Table of Contents  
+  TRITON INTERNATIONAL LIMITED 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+
+Note 6 Restricted Shares, Share Options and Accumulated Other Comprehensive (Loss) (continued) 
+  TAL 
+    
+  TAL Stock Based Compensation Plan 
+    
+  TAL s previously existing stock-based compensation plans consisted of the 2005 Management Omnibus Incentive Plan and the 2014 Equity Incentive Plan. The TAL restricted shares granted in 2014 and 2015 vested on July 12, 2016 upon the closing of 
+  the mergers.  A total of   140,000   restricted shares granted in January 2016 were converted to Triton restricted shares and will vest in approximately   2.25   years in accordance with their original terms. Unearned compensation expense of   $1.4 million   will be amortized to Administrative expenses on a straight line basis over the remaining vesting period. 
+    
+  Triton 
+    
+  2016 Triton Plan 
+    
+  On September 7, 2016, the Company s Compensation Committee approved the grants of restricted shares to various executives, certain employees and directors. Under the Company s 2016 Equity Incentive Plan the total number of restricted shares granted to executives and employees was approximately   418,000   at a fair value of   $14.55   per share and will vest over   3 years  . Additional shares may be granted based upon performance. There were approximately   47,000   shares granted at   $14.55   per share to directors and these shares vested immediately on September 7, 2016. Total unrecognized compensation costs of approximately   $6.8 million   as of   September 30, 2016   related to the September 2016 grants of restricted shares will be recognized over the remaining weighted average vesting period of approximately   2.9   years. 
+  Accumulated Other Comprehensive (Loss) 
+  Accumulated other comprehensive (loss)   consisted of the following as of the dates indicated (in thousands and net of tax effects):   
+
+14 
+
+     Table of Contents  
+  TRITON INTERNATIONAL LIMITED 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+
+Note 6 Restricted Shares, Share Options and Accumulated Other Comprehensive (Loss) (continued) 
+  The following table presents reclassifications out of   Accumulated other comprehensive (loss)   for the period indicated (in thousands):                                                 
+    Amounts Reclassified From Accumulated Other Comprehensive (Loss) 
+    Affected Line Item  
+  in the Consolidated  
+  Statements of Income 
+        
+    Three Months Ended   September 30, 
+      
+    Nine Months Ended   September 30, 
+        
+    2016 
+      
+    2015 
+      
+    2016 
+      
+    2015 
+      Amounts reclassified from Accumulated other comprehensive (loss) related to designated interest rate swaps 
+    $ 
+    (284 
+    ) 
+      
+    $ 
+
+$ 
+    (284 
+    ) 
+      
+    $ 
+
+Interest and debt expense 
+      Income tax (benefit) 
+    100 
+
+100 
+
+Income tax expense 
+      Amounts reclassified from Accumulated other comprehensive (loss) 
+    $ 
+    (184 
+    ) 
+      
+    $ 
+
+$ 
+    (184 
+    ) 
+      
+    $ 
+
+Net income 
+
+Note 7 Net Investment in Finance Leases 
+  The following table represents the components of the net investment in finance leases (in thousands):   
+
+  The Company evaluates potential losses in its finance lease portfolio by regularly reviewing the specific receivables in the portfolio and analyzing historical loss experience. Net investment in finance lease receivables is generally charged off after an analysis is completed which indicates that collection of the full balance is remote.  
+  In order to estimate its allowance for losses contained in the gross finance lease receivables, the Company categorizes the credit worthiness of the receivables in the portfolio based on internal customer credit ratings, which are reviewed and updated, as appropriate, on an ongoing basis. The internal customer credit ratings are developed based on a review of the financial performance and condition, operating environment, geographical location and trade routes of our customers. 
+  The following table represents the activity of the Company's allowance on gross finance lease receivables for the periods presented (in thousands):                                       
+    Beginning 
+  Balance 
+      
+    Additions/ 
+  (Reversals) 
+      
+    Ending 
+  Balance 
+      Finance Lease  Allowance for doubtful accounts: 
+
+For the nine months ended 
+
+September 30, 2016 
+    $ 
+    526 
+
+$ 
+    1 
+
+$ 
+    527 
+
+15 
+
+Table of Contents  
+  TRITON INTERNATIONAL LIMITED 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+
+Note 8 Debt 
+  Debt consisted of the following (amounts in thousands):   
+
+  As of   September 30, 2016  , the Company had   $3.3 billion   of debt outstanding on facilities with fixed interest rates and   $3.1 billion   of debt outstanding on facilities with interest rates based on floating rate indices (primarily LIBOR). The Company economically hedges the risks associated with fluctuations in interest rates on a portion of its floating rate borrowings by entering into interest rate swap agreements that convert a portion of its floating rate debt to a fixed rate basis, thus reducing the impact of interest rate changes on future interest expense. As of   September 30, 2016  , the Company had interest rate swaps in place with a notional amount of   $1.6 billion   to fix the floating interest rates on a portion of its floating rate debt obligations. 
+  The Company is subject to certain financial covenants under its debt facilities, and as of   September 30, 2016  , was in compliance with all such covenants. 
+  Asset Backed Securitization Term Notes 
+  On April 8, 2016, TCF-III and the holders of the TCF-III Series 2009-1 Notes restructured the TCF-III Series 2009-1 Notes from a warehouse facility to a five-year amortizing term loan.  Effective April 8, 2016, TCF-III was no longer able to borrow under the TCF-III Series 2009-1 Notes.  The outstanding principal balance of the TCF-III Series 2009-1 Notes at closing was   $316.7 million  . The contractual interest rate of the TCF-III Series 2009 1 Notes was modified from (i) one-month LIBOR, or the commercial paper rate, plus an applicable margin of   1.60%  , to (ii) one-month LIBOR, or the commercial paper rate, plus an applicable margin of   2.00  %. 
+  Between May 31, 2016 and June 1, 2016, TCF-III entered into three interest rate swap agreements in order to fix the interest rate on a portion of the outstanding principal balance of the TCF-III Series 2009-1 Notes.  These interest rate swaps have fixed interest rates ranging between   1.11%   and   1.12%   per year and termination dates through April 2021 and had a total notional amount of   $229.1 million   at September 30, 2016. 
+  TCIL Credit Facility 
+  On April 15, 2016, TCIL and a group of commercial banks entered into an amendment and restatement of the TCIL Credit Facility providing for the extension of the facility termination date from November 4, 2016 to April 15, 2021, and the reduction of the aggregate commitment amount thereunder from   $600.0 million   (which was shared under the prior TCIL Credit Facility with the TCI Credit Facility) to an aggregate commitment, available to TCIL only, of   $300.0 million  .  An accordion feature provided for up to   $300.0 million   of increased and/or additive commitments for TCIL (for a total of up to   $600.0 million   of aggregate commitments).  No changes were made to the borrowing base or to the pricing of the TCIL Credit Facility. 
+  On May 23, 2016, the aggregate commitments under the TCIL Credit Facility were increased to   $555.0 million   pursuant to the accordion feature. On August 31, 2016, the aggregate commitments under the TCIL Credit Facility were increased to   $600.0 million  . 
+
+16 
+
+Table of Contents  
+  TRITON INTERNATIONAL LIMITED 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+
+Note 9 Derivative Instruments 
+  Interest Rate Swaps 
+  The Company has entered into interest rate swap agreements to manage interest rate risk exposure. Interest rate swap agreements utilized by the Company effectively modify the Company's exposure to interest rate risk by converting a portion of its floating rate debt to a fixed rate basis, thus reducing the impact of interest rate changes on future interest expense. Such agreements involve the receipt of floating rate amounts in exchange for fixed rate interest payments over the lives of the agreements without an exchange of the underlying principal amounts. The counterparties to the Company's interest rate swap agreements are highly rated financial institutions. In the unlikely event that the counterparties fail to meet the terms of the interest rate swap agreements, the Company's exposure is limited to the interest rate differential on the notional amount at each monthly settlement period over the life of the agreements. The Company does not anticipate any non-performance by the counterparties. Substantially all of the assets of certain indirect, wholly owned subsidiaries of the Company have been pledged as collateral for the underlying indebtedness and the amounts payable under the interest rate swap agreements for each of these entities. In addition, certain assets of the Company's subsidiaries are pledged as collateral for various credit facilities and the amounts payable under certain interest rate swap agreements. 
+    
+  As of   September 30, 2016  , the Company had interest rate swap agreements in place to fix the floating interest rates on a portion of the borrowings under its debt facilities as summarized below:                               Derivatives 
+      
+    Net Notional Amount 
+      
+    Weighted Average Fixed Leg (Pay) Interest Rate 
+      
+    Cap Rate 
+      
+    Weighted Average Remaining Term 
+      Interest rate swaps 
+      
+    $1.6 Billion 
+      
+    1.73% 
+      
+     % 
+      
+    5.0 years 
+      Interest rate caps 
+      
+    $92.1 Million 
+      
+     % 
+      
+    4.0% 
+      
+    1.0 year 
+
+Fair Value of Derivative Instruments 
+  Under the criteria established by ASC 820, the Company has elected to use the income approach to value its interest rate swap agreements, using observable Level 2 market expectations at the measurement date and standard valuation techniques to convert future amounts to a single present amount (discounted) assuming that participants are motivated, but not compelled to transact. The Level 2 inputs for the interest rate swap and forward valuations are limited to quoted prices for similar assets or liabilities in active markets and inputs other than quoted prices that are observable for the asset or liability (specifically LIBOR cash and swap rates, basis swap adjustments and credit risk at commonly quoted intervals).  
+
+17 
+
+     Table of Contents  
+  TRITON INTERNATIONAL LIMITED 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+
+Note 9 Derivative Instruments (Continued) 
+  Location of Derivative Instruments in Financial Statements   
+
+Effect of Derivative Instruments on Consolidated Statements of Income and Consolidated Statements of Comprehensive Income  (In Millions) 
+
+Three Months Ended    September 30, 
+      
+    Nine Months Ended   September 30, 
+        
+    Location of  Loss (Gain) on Derivative Instruments 
+
+2016 
+      
+    2015 
+      
+    2016 
+      
+    2015 
+      Realized loss on non-designated interest rate swaps 
+    Realized loss on derivative instruments, net 
+      
+    $ 
+    0.9 
+
+$ 
+    1.4 
+
+$ 
+    2.3 
+
+$ 
+    4.4 
+      
+      Change in fair value of derivatives, designated as cash flow hedges 
+    Other comprehensive income 
+      
+    (0.9 
+    ) 
+
+(0.9 
+    ) 
+
+Realized (gain) on designated interest rate swap agreements 
+    Interest and debt expense 
+      
+    (0.3 
+    ) 
+
+(0.3 
+    ) 
+
+Net (gain) loss on interest rate swaps, not designated 
+    Unrealized (gain) loss on derivative instruments, net 
+      
+    $ 
+    (3.5 
+    ) 
+      
+    $ 
+    4.2 
+
+$ 
+    5.2 
+
+$ 
+    5.8 
+
+18 
+
+Table of Contents  
+  TRITON INTERNATIONAL LIMITED 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+
+Note 10 Segment and Geographic Information 
+  Industry Segment Information 
+  The Company conducts its business activities in   one   industry, intermodal transportation equipment, and has   two   reporting segments: 
+             
+    Equipment leasing the Company owns, leases and ultimately disposes of containers and chassis from its lease fleet, as well as manages leasing activities for containers owned by third parties. 
+
+Equipment trading the Company purchases containers from shipping line customers, and other sellers of containers, and resells these containers to container retailers and users of containers for storage or one-way shipment. Included in the Equipment trading segment revenues are leasing revenues from equipment purchased for resale that is currently on lease until the containers are dropped off. 
+     Triton acquired the Equipment trading segment as part of the acquisition on July 12, 2016 and had no such reporting segment prior to that time. The purchase price allocation and goodwill are preliminary estimates as of   September 30, 2016  , and therefore, the goodwill allocated to the equipment trading segment is also preliminary.  
+  The following tables show segment information for the periods indicated and the consolidated totals reported (in thousands):   
+ _______________________________________________________________________________ 
+           (1) 
+    Segment income before income taxes excludes unrealized gains or losses on interest rate swaps and the write-off of deferred financing costs. Unrealized gains on interest rate swaps were   $3.5 million   and unrealized losses on interest rate swaps of   $4.2 million   for the three months ended   September 30, 2016   and   2015  , respectively. There were   no   write-offs of deferred financing costs the three months ended   September 30, 2016   and   2015  , respectively.  
+
+_______________________________________________________________________________ 
+  
+   19 
+
+     Table of Contents  
+  TRITON INTERNATIONAL LIMITED 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+
+Note 10 Segment and Geographic Information (Continued) 
+           (1) 
+    Segment income before income taxes excludes unrealized gains or losses on interest rate swaps and the write-off of deferred financing costs. Unrealized losses on interest rate swaps were   $5.2 million   and   $5.8 million   for the   nine    
+     months ended   September 30, 2016   and   2015  , respectively. Write-offs of deferred financing costs for the   nine   months ended   September 30, 2016   were   $0.1 million   and there were   no   such write-offs for the   nine   months ended September 30,   2015  . 
+    
+           (2) 
+    Represents cash disbursements for purchases of leasing equipment and investments in finance leases as reflected in the consolidated statements of cash flows for the periods indicated, but excludes cash flows associated with the purchase of equipment held for resale. 
+     There are   no   intercompany revenues or expenses between segments. Additionally, certain administrative expenses have been allocated between segments based on an estimate of services provided to each segment. A portion of the Company's equipment purchased for resale was purchased through certain sale-leaseback transactions with our shipping line customers. Due to the expected longer term nature of these transactions, these purchases are reflected as leasing equipment as opposed to equipment held for sale and the cash flows associated with these transactions are reflected as purchases of leasing equipment and proceeds from the sale of equipment in investing activities in the Company's consolidated statements of cash flows. 
+  Geographic Segment Information 
+  The Company earns most of its leasing revenues from international containers which are deployed by its customers in a wide variety of global trade routes. Substantially all of the Company's leasing related revenue is denominated in U.S. dollars.  
+  The following table represents the geographic allocation of equipment leasing revenues for the periods indicated based on customers' primary domicile (in thousands): 
+
+As most of the Company's containers are used internationally, where no one container is domiciled in one particular place for a prolonged period of time, substantially all of the Company's long-lived assets are considered to be international. 
+  The following table represents the geographic allocation of equipment trading revenues for the periods indicated based on the location of sale (in thousands): 
+
+20 
+
+Table of Contents  
+  TRITON INTERNATIONAL LIMITED 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+
+Note 11 Commitments and Contingencies 
+  Purchase Commitments 
+  At   September 30, 2016  , commitments for capital expenditures totaled approximately   $123.2 million  .  
+   
+  Note 12 Income Taxes 
+  The consolidated income tax expense for the   three and nine   months ended   September 30, 2016   and   2015  , respectively, was determined primarily based upon estimates of the Company's consolidated effective income tax rates for the year ending   December 31, 2016   and the year ended   December 31, 2015  . The difference between the consolidated effective income tax rate and the U.S. federal statutory rate is primarily attributable to state income taxes, foreign income taxes, and the effect of certain permanent tax differences. The effective tax rate change from 2015 to 2016 is directly attributable to the acquisition.  
+   
+  Note 13 Related Party Transactions    
+  Payments to Affiliate  
+  Payments made to an affiliate for services which were mainly related to container repositioning for the periods indicated below were as follows: 
+  International Asset Systems ("IAS") is a leader in cloud-based solutions for global logistics and transportation management in which two of our significant shareholders have an interest. IAS serves providers of global transportation, focusing on first- and last-mile landside movement for logistics service providers, motor carriers, ocean carriers, railroads and equipment lessors. On July 21, 2016, REZ-1, Inc., a leading provider of asset management, equipment reservation, billing and reload services to the domestic intermodal industry, announced its acquisition of IAS. Payments made to IAS for the periods indicated below were as follows (in thousands):  
+
+Marine Container Services (India) Private Limited ( MCS ) is a related party, as MCS is party to a joint venture agreement with TCIL.  Payments made to MCS for services related primarily to container operations for the periods indicated below were as follows (in thousands):   
+
+Note 14 Subsequent Events 
+  Quarterly Dividend 
+  On November 9, 2016, the Company's Board of Directors approved and declared a   $0.45   per share quarterly cash dividend on its issued and outstanding common shares, payable on   December 22, 2016   to shareholders of record at the close of business on   December 2, 2016  . 
+  
+   21 
+
+Table of contents  
+
+ITEM 2.    MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+            The following discussion and analysis of the consolidated financial condition and results of operations of Triton International Limited and its subsidiaries should be read in conjunction with related consolidated financial data and our annual audited consolidated financial statements and related notes thereto included in our Form S-4 filed with the SEC on   May 6, 2016  . The statements in this discussion regarding industry outlook, our expectations regarding our future performance, liquidity and capital resources and other non-historical statements are subject to numerous risks and uncertainties, including, but not limited to, the risks and uncertainties described herein and under "Risk Factors" and "Forward-Looking Statements" in our Form S-4. Our actual results may differ materially from those contained in or implied by any forward-looking statements  . 
+   
+  Our Company 
+  On July 12, 2016, TAL and TCIL combined in an all-stock merger.  Under the terms of the Transaction Agreement, TAL and TCIL combined under a holding company, Triton, which is domiciled in Bermuda.  
+  Triton is the world's largest and one of the oldest lessors of intermodal containers and chassis. Intermodal containers are large, standardized steel boxes used to transport freight by ship, rail or truck. Because of the handling efficiencies they provide, intermodal containers are the primary means by which many goods and materials are shipped internationally. Chassis are used for the transportation of containers. 
+  We operate our business in one industry, intermodal transportation equipment, and have two business segments: 
+             
+    Equipment leasing - we own, lease and ultimately dispose of containers and chassis from our lease fleet, as well as manage containers owned by third parties. 
+
+Equipment trading - we purchase containers from shipping line customers, and other sellers of containers, and resell these containers to container retailers and users of containers for storage or one-way shipment. 
+
+Operations 
+  Our operations include the acquisition, leasing, re-leasing and subsequent sale of multiple types of intermodal containers and chassis. As of   September 30, 2016  , our total fleet consisted of   3,029,183   containers and chassis, representing   4,950,384   twenty-foot equivalent units ("TEU"). We have an extensive global presence, offering leasing services through   21   service subsidiaries in   14   countries and approximately   490   third party container depot facilities in approximately   54   countries as of   September 30, 2016  . Our customers are among the largest shipping lines in the world. For the   nine   months ended   September 30, 2016  , our   twenty   largest customers accounted for   81%   of our leasing revenues, our   five   largest customers accounted for   53%   of our combined leasing revenues, our largest customer,   CMA CGM  , accounted for   16%   of our leasing revenues, and our second largest customer, MSC, accounted for   15%   of our leasing revenues. 
+  We lease five types of equipment: (1) dry freight containers, which are used for general cargo such as manufactured component parts, consumer staples, electronics and apparel, (2) refrigerated containers, which are used for perishable items such as fresh and frozen foods, (3) special containers, which are used for heavy and over-sized cargo such as marble slabs, building products and machinery, (4) tank containers, which are used to transport bulk liquid products such as chemicals, and (5) chassis, which are used for the transportation of containers domestically. Our in-house equipment sales group manages the sale process for our used containers and chassis from our equipment leasing fleet and buys and sells used and new containers and chassis acquired from third parties. 
+
+22 
+
+     Table of contents  
+
+The following tables provide the composition of our equipment fleet as of the dates indicated in units, TEU and cost-equivalent units, or "CEU". TCIL and TAL fleet information have been combined by mathematical addition for periods ending prior to July 13, 2016 for comparative purposes.   
+
+_______________________________________________________________________________ 
+  (1)  As of   September 30, 2016  , managed equipment accounted for   0.5%  ,   0.5%  , and   0.3%   of our equipment fleet in units, TEU, and CEU, respectively.                                  
+  In the equipment fleet tables above, we have included total fleet count information based on CEU. CEU is a ratio used to convert the actual number of containers in our fleet to a figure based on the relative purchase prices of our various equipment types to that of a 20 foot dry container. For example, the CEU ratio for a 40 foot standard height dry container is 1.6, and a 40 foot high cube refrigerated container is 10.0. The CEU ratios used in this calculation may differ slightly from current actual cost ratios and CEU ratios used by others in the industry. 
+  The following table provides the percentage of our equipment fleet in units and of leasing revenues. TCIL and TAL fleet and leasing revenue information have been combined by mathematical addition prior to July 13, 2016. The percentage of our equipment fleet by equipment type as of   September 30, 2016   and the percentage of our leasing revenues by equipment type for the   nine   months ended   September 30, 2016   are as follows: 
+
+We generally lease our equipment on a per diem basis to our customers under three types of leases: long-term leases, finance leases and service leases. Long-term leases, typically with initial contractual terms ranging from three to eight years, provide us with stable cash flow and low transaction costs by requiring customers to maintain specific units on-hire for the duration of the lease. Finance leases, which are typically structured as full payout leases, provide for a predictable recurring  
+  
+   23 
+
+     Table of contents  
+
+revenue stream with the lowest cost to the customer because customers are generally required to retain the equipment for the duration of its useful life. Service leases command a premium per diem rate in exchange for providing customers with a greater level of operational flexibility by allowing the pick-up and drop-off of units during the lease term. We also have expired long-term leases whose fixed terms have ended but for which the related units remain on-hire and for which we continue to receive rental payments pursuant to the terms of the initial contract. Some leases have contractual terms that have features reflective of both long-term and service leases and we classify such leases as either long-term or service leases, depending upon which features we believe are predominant. 
+  The following table provides a summary of our equipment leasing fleet portfolio by lease type, based on CEU as of the dates indicated below. TCIL and TAL have been combined by mathematical addition for periods ending prior to July 13, 2016 for comparative purposes. These percentages do not necessarily reflect what the results would have been had the transaction occurred as of the beginning of last year. 
+
+As of   September 30, 2016  ,   December 31, 2015   and   September 30, 2015  , our long-term and finance leases combined had average remaining contract terms of approximately   36 months  ,   35 months  , and   35 months   respectively, assuming no leases are renewed. 
+   
+  Operating Performance 
+  The following discussion of our operating performance refers to a variety of the Company s critical business metrics, such as fleet size, utilization, average lease rates and used container sale volumes and prices. In this section, the relevant performance measures for TCIL and TAL have been combined by mathematical addition for comparative purposes for periods ending prior to July 13, 2016.  These combined results do not necessarily reflect what the results would be if the transaction occurred as of the beginning of last year. 
+  Fleet size.      As of   September 30, 2016  , our owned fleet included   6,406,191   CEU, an increase of   3.5%   from the combined TCIL and TAL owned fleets as of   December 31, 2015   and an increase of   4.3%   from the combined owned fleets as of   September 30, 2015  . The   increase   in our fleet size from   September 30, 2015   was primarily due to purchases of new containers and completion of several large sale-leaseback transactions in the last quarter of 2015 and during 2016. 
+  Global containerized trade growth in   2016   has been relatively weak. Clarksons is currently projecting loaded container liftings to increase   3.3%   in   2016  , down from a long-term average growth rate near 10%.  In 2015 and 2016, the rate of containerized trade growth has been negatively impacted by slower global economic growth and a stabilization in the level of global trade as a share of global GDP.  Until recently, global trade was increasing as a share of global GDP, providing an extra lever for growth in global containerized trade.  
+  Over the last twelve months, our equipment fleet has grown slightly faster than containerized trade growth, reflecting an increase in the share of leased containers relative to the share of containers owned by our shipping line customers.  The increased share for leased containers reflects an increase in the portion of containers purchased by leasing companies and increased interest from our customers in concluding sale-leaseback transactions for previously owned containers in their fleets.  Our shipping line customers have faced several years of weak freight rates and poor profitability due to excess vessel capacity, making leased containers a more attractive option relative to direct investment.     
+  As of   November 4, 2016  , TCIL and TAL, on a combined basis have invested approximately   $845 million   in new and sale-leaseback containers for delivery in   2016  . Over $600 million of this combined investment has been placed in the second half of 2016, reflecting a recent improvement in leasing demand. Leasing demand had been weak from the second quarter of 2015 through the middle of 2016. The low rate of trade growth in 2015 was not expected, and we faced an excess supply of containers in 2015 due to over-ordering early in the year. Shipping lines and leasing companies reduced their level of container ordering starting in the summer of 2015, and global supply and demand for containers returned to balance by the summer of 2016.  
+  
+   24 
+
+     Table of contents  
+
+During the third quarter and so far in the fourth quarter of 2016, the pace of leasing transactions and our lease-out activity accelerated, and in response, we have begun to purchase new containers more aggressively.  We also concluded a large sale-leaseback transaction in the third quarter.  We currently expect leasing demand to remain strong into 2017. 
+  Utilization.      Our average utilization was   92.4%   during the   third   quarter of   2016  , a decrease from   93.3%   in the second quarter of   2016   and a decrease from   96.2%   in the   third   quarter of   2015  . This decrease was due to weak leasing demand and the excess supply of containers that developed during 2015. Our utilization started to increase during the second quarter of 2016 as the global supply / demand balance for containers started to improve. Our utilization continued to increase during the third quarter, peaking at 94.0% as of August 30   th   .  However, on August 31, Hanjin, one of our largest customers filed for court protection and defaulted on our leases. Roughly 3% of our containers were on-hire to Hanjin, and since we are no longer accruing revenue on these containers, they are reflected as off-hire for the purpose of calculating utilization. We currently have recovered or issued delivery clearances for approximately   50%   of the containers previously on-hire to Hanjin, and we expect to have recovered up to 70% of the containers by the end of 2016. Our utilization will benefit as more of the containers are recovered and redeployed into the leasing market. Our utilization also continues to be supported by the high percentage of our units that are on-hire to customers on long-term or finance leases. 
+  The following tables set forth our equipment fleet utilization(1) for the periods indicated below.  
+
+_______________________________________________________________________________ 
+    
+           (1) 
+    Utilization is computed by dividing our total units on lease (in CEU) by the total units in our fleet (in CEU) excluding new units not yet leased and off-hire units designated for sale. 
+     Average lease rates.      Average lease rates in the   third   quarter of   2016   for our dry container product line   decreased   by   12.6%   from the   third   quarter of   2015  . New container prices have decreased significantly over the last several years due to a significant drop in steel prices in China and a decrease in the demand for new containers.  Very low long-term interest rates and aggressive competition for new leasing transactions have combined with low new container prices to push market lease rates to historical low levels.  New container prices and market lease rates appear to have bottomed in the second quarter of 2016.  New container prices, leasing demand and market lease rates for dry containers improved during the third quarter of 2016, and the increase in market lease rates has continued into the fourth quarter.  However, market lease rates remain well below our portfolio average.  
+  Low market lease rates negatively impact our overall average lease rates as we add new containers to our fleet and as leases covering existing containers expire and are re-priced. If market lease rates remain near their current low level, we expect the decrease in our average dry container lease rates will continue for the remainder of 2016 and into 2017. 
+  Average lease rates in the   third   quarter of   2016   for our refrigerated container product line   decreased   by   5.6%   from the   third   quarter of   2015  . For several years our average lease rates for refrigerated containers have been negatively impacted by the addition of new refrigerated containers placed on lease at rates lower than our portfolio average. The cost of refrigerated containers has trended down over the last few years, which has led to lower market lease rates. Lease rates for new refrigerated containers are also being negatively impacted by aggressive pricing from new entrants seeking to build market share. 
+  The average lease rates for special containers   decreased   approximately   3.2%   in the   third   quarter of   2016   compared to the   third   quarter of   2015  . This   decrease   is mainly the result of certain lease renegotiations.   
+  Equipment disposals.    We have been recording sizable losses on container disposals since the middle of 2015 due to decreasing used container sale prices. Used container sale prices for dry containers decreased   51%   from January 1, 2015 through June 30, 2016. During this time, used container sale prices were negatively impacted by increased selling volumes due to a global excess supply of containers and lower prices for new containers. Disposal prices stabilized in the third quarter of 2016 and have started to increase slightly due to the improvement in the global container supply and demand balance and the increase in new container prices. If leasing demand and new container prices remain at their current level, we expect used container selling prices to increase further. 
+  
+   25 
+
+     Table of contents  
+
+While still significant, the level of disposal losses recorded in the third quarter of 2016 was meaningfully reduced from the combined TCIL and TAL disposal loss in the second quarter of 2016. In the second quarter, we recorded disposal losses on containers sold in the quarter as well as a large mark-to-market loss on our inventory of containers held for sale, which reflected the impact of the decrease in our average selling prices during the quarter.  The stabilization of sale prices in the third quarter led to a lower mark-to-market adjustment.  
+  Hanjin Bankruptcy.      On August 31, 2016, Hanjin, one of our largest customers, filed for bankruptcy court protection and defaulted on our lease agreements. Hanjin quickly ceased active operations and notified us that they would terminate our lease agreements. Hanjin had approximately   87,000   containers on lease with a net book value of   $243.3 million  .  
+  We maintain more than $100 million of credit insurance to cover the value of containers that are unrecoverable, costs incurred to recover containers and up to six months of lost lease revenue, subject to our deductibles. Accordingly, the Company estimated the negative impact of Hanjin, net of the expected insurance recovery proceeds to be   $29.7 million   in the third quarter. This impact was reflected as a   $23.4 million   charge to bad debt expense and   $6.3 million   of unrecognized lease revenue, the majority of which was applied toward the insurance deductible of   $6.5 million  . We expect the financial impact of the Hanjin default to be lower in future periods.  Over the next few quarters, we expect that insurance accruals will offset most of the costs we incur recovering and redeploying containers, though we will not recognize expected insurance payments related to lost revenue of approximately $3 million per month for all of the containers on-lease to Hanjin until the payments are received. 
+  The recovery process related to the Hanjin default remains a major operational effort. We have gained control or have issued delivery clearances for about   50%   of our containers previously on-hire to Hanjin, and we expect the share of recovered containers will increase to be in the range of 70% by the end of the year. We expect we will eventually recover the vast majority of our containers, but it will take time to recover the  tail  of containers that are scattered across many locations. 
+   We remain concerned with the overall credit risk of our customers. The container shipping industry has been suffering from excess vessel capacity and low freight rates for several years, and most of our shipping line customers are currently generating losses.  Many of our customers also have a high degree of financial leverage. We anticipate that the high volume of new vessels entering service over the next several years will complicate our customers  efforts to increase freight rates, and we expect our customers  financial performance will remain under pressure for some time. 
+   
+  Dividends 
+  We paid the following quarterly dividends during the   nine   months ended   September 30, 2016   on our issued and outstanding common shares adjusted for the effects of the mergers: 
+
+26 
+
+Table of contents  
+
+Results of Operations 
+  The following table summarizes our results of operations for the three months ended   September 30, 2016   and   2015  , respectively (in thousands).  The results for the three months ended   September 30, 2016   are most significantly impacted by the mergers. The table below shows the effect of the mergers and the results of operations exclusive of the effects of the mergers which are explained in the following narrative. 
+
+27 
+
+     Table of contents  
+
+The following table summarizes our results of operations for the   nine   months ended   September 30, 2016   and   2015   (in thousands).  The results for the   nine   months ended   September 30, 2016   are most significantly impacted by the mergers. The table below shows the effect of the mergers and the results of operations exclusive of the effects of the mergers which are explained in the following narrative. 
+
+28 
+
+Table of contents  
+
+Comparison of   Three Months Ended September 30, 2016   to   Three Months Ended September 30, 2015    
+  The tables presented in our period-over-period comparisons summarize our Consolidated Statements of Operations and illustrate key financial indicators used to assess the consolidated financial results. Throughout our Management Discussion and Analysis, insignificant changes may be deemed not meaningful and are generally excluded from the discussion. The results of operations for the three months ended   September 30, 2016   are most significantly impacted by the mergers. The effects of the mergers for the three months ended   September 30, 2016   are described in the preceding tables. The narrative below discusses the results of operations exclusive of the mergers.  
+  Leasing revenues.      The principal components of our leasing revenues are presented in the following table. Per diem revenue represents daily usage revenue earned under operating lease contracts; fee and ancillary lease revenue represent fees billed for the pick-up and drop-off of containers in certain geographic locations and billings of certain reimbursable operating costs such as repair and handling expenses; and finance lease revenue represents interest income earned under finance lease contracts. 
+
+Total leasing revenues were   $153.4 million   in the three months ended   September 30, 2016  , compared to   $175.7 million   in the same period in   2015  ,   a decrease   of   $22.3 million  , or   12.7%  . 
+  Per diem revenue   decreased   by   $21.2 million  , or   13.0%  , compared to the three months ended   September 30, 2015  . The primary reasons for this   decrease   was due to the following: 
+             
+    $13.8 million     decrease   due to   lower   average per diem rates; and a 
+                
+    $5.5 million     decrease   due to   a decrease   of approximately   96,000   CEU in the average number of containers on-hire under operating leases. 
+     Fee and ancillary lease revenue   decreased   by   $1.1 million   compared to the three months ended   September 30, 2015   primarily due to a decrease in net drop-off volumes. 
+  Net (loss) gain on sale of leasing equipment.      Loss on sale of equipment was   $4.0 million   for the three months ended   September 30, 2016  , compared to a loss on sale of equipment of   $3.3 million   in the same period in   2015  , an increase in losses of   $0.7 million  . The increase in our disposal losses was mainly due to lower average used container selling prices.  
+  Depreciation and amortization.      Depreciation and amortization was   $74.4 million   in the   third   quarter of   2016  , compared to   $77.2 million   in the   third   quarter of   2015  ,   a decrease   of   $2.8 million   or   3.6%  . Depreciation expense   decreased   mainly due to management s decision in the third quarter of 2016 to designate certain assets to be classified as held for sale. As a result of this decision, impairment charges related to assets identified as held for sale shifted from depreciation expense to net loss or gain on sale. This shift reduced depreciation expense by $4.9 million in the third quarter of 2016. This was partially offset by an increase of $1.6 million due to the residual value adjustment incorporated in the fourth quarter of 2015. There was also an increase in the size of the depreciable fleet of $0.6 million. 
+  Direct operating expenses.      Direct operating expenses primarily consist of our costs to repair equipment returned off lease, store the equipment when it is not on lease and reposition equipment that has been returned to locations with weak leasing demand. 
+  
+   29 
+
+     Table of contents  
+
+Direct operating expenses were   $12.4 million   in the three months ended   September 30, 2016  , compared to   $12.9 million   in the same period in   2015  ,   a decrease   of   $0.5 million  . This decrease was due to lower repairs, storage and positioning costs due to an increase in on-hire activity. 
+  Administrative expenses.      Administrative expenses were   $8.3 million   in the   third   quarter of   2016   compared to   $12.2 million   in the same period in   2015  ,   a decrease   of   $3.9 million   or 32.0%. This   decrease   was mainly due to a reduction in employee compensation costs resulting from a reclassification of accrued incentive compensation from Administrative expenses to Transaction costs for certain employees identified as transitioning out of the Company due to the mergers. 
+  Transaction and other costs.      Transaction and other costs were   $38.1 million   in the   third   quarter of   2016   compared to   $2.4 million   in the same period in   2015  . Transaction and other costs increased $35.7 million due to the closing of the mergers in the third quarter of 2016 and consist of severance, legal costs, and professional fees.  
+  Provision for doubtful accounts.      We had a   provision   for doubtful accounts of   $13.4 million   in the   third   quarter of   2016  , compared to a small provision in the   third   quarter of   2015  . The provision for doubtful accounts   increased   mainly due to the bankruptcy filing and lease default by Hanjin. A provision of $13.6 million represents the establishment of a full reserve against pre-bankruptcy receivables, which are not covered by our insurance. We expect that on-going container recovery costs above the deductible amount of $1.5 million will be covered by our insurance policies, and this expectation was reflected in our estimate of the net loss to TCIL from the Hanjin default.  
+  Interest and debt expense.      Interest and debt expense was   $33.1 million   in the   third   quarter of   2016  , compared to   $35.4 million   in the   third   quarter of   2015  ,   a decrease   of $2.3 million. Interest and debt expense   decreased   mainly due to a decrease in TCIL's average daily debt balance to   $3.0 billion   in the third quarter of 2016 compared to   $3.4 billion   in the third quarter of 2015. This decrease was partially offset by   an increase   in the effective interest rate from 4.13% to 4.31%.  
+  Realized loss on derivative instruments, net.      Realized loss on derivative instruments, net was   $0.9 million   in the   third   quarter of   2016  , compared to a realized loss on derivative instruments, net of   $1.4 million   in the   third   quarter of   2015  , a decrease of   $0.5 million  . This decrease in the realized loss on derivative instruments, net is mainly due to certain swaps being terminated or reaching maturity.  
+  Unrealized (gain) loss on derivative instruments.      Unrealized gain on derivative instruments, net was   $3.2 million   in the   third   quarter of   2016  , compared to an unrealized loss on derivative instruments, net of   $4.2 million   in the   third   quarter of   2015  . Unrealized gain on derivative instruments, net increased   $7.4 million  .  
+
+30 
+
+Table of contents  
+
+Comparison of   Nine Months Ended September 30, 2016   to   Nine Months Ended September 30, 2015    
+  The tables presented in our period-over-period comparisons summarize our Consolidated Statements of Operations and illustrate key financial indicators used to assess the consolidated financial results. Throughout our Management Discussion and Analysis, insignificant changes may be deemed not meaningful and are generally excluded from the discussion. The results of operations for the   nine   months ended   September 30, 2016   are most significantly impacted by the mergers. The effects of the mergers for the   nine   months ended   September 30, 2016   are described in a preceding table. The narrative below discusses the results of operations exclusive of the mergers. 
+  Leasing revenues.      The principal components of our leasing revenues are presented in the following table. Per diem revenue represents daily usage revenue earned under operating lease contracts; fee and ancillary lease revenue represent fees billed for the pick-up and drop-off of containers in certain geographic locations and billings of certain reimbursable operating costs such as repair and handling expenses; and finance lease revenue represents interest income earned under finance lease contracts.   
+
+  Total leasing revenues were   $474.7 million   in the   nine   months ended   September 30, 2016  , compared to   $534.8 million   in the same period in   2015  ,   a decrease   of   $60.1 million  , or   11.2%  . 
+  Per diem revenue   decreased   by   $56.9 million  , or   11.4%  , compared to the   nine   months ended   September 30, 2015  . The primary reasons for this   decrease   are as follows: 
+             
+    $38.5 million     decrease   due to   lower   average per diem rates; and a 
+                
+    $13.7 million     decrease   due to   a decrease   of approximately   76,000   CEU in the average number of containers on-hire under operating leases. 
+     Fee and ancillary lease revenue   decreased   by   $3.2 million   compared to the   nine   months ended   September 30, 2015   primarily due to a net decrease in drop-off volumes. 
+     Net (loss) gain on sale of leasing equipment.      Loss on sale of equipment was   $7.8 million   in the   nine   months ended   September 30, 2016  , compared to a gain on sale of equipment of   $3.1 million   in the same period in   2015  . The   decrease   in our disposal results of   $10.9 million   was mainly due to a decrease in our average used container selling prices.  
+  Depreciation and amortization.      Depreciation and amortization was   $234.7 million   in the   nine   months ended   September 30, 2016  , compared to   $217.3 million   in the same period in   2015  ,   an increase   of   $17.4 million   or   8.0%  . Depreciation expense   increased   mainly due to fleet impairment of $8.7 million, an increase of $4.9 million due to the residual value adjustment incorporated in the fourth quarter of 2015, and an increase of $2.8 million due to an increase in the size of the depreciable fleet. 
+  In third quarter of 2016, a management decision was made to designate specific assets to be classified as held for sale. The accounting implications of this management change are to move the impairment charge associated with these specific assets to the net loss or gain on sale of leasing equipment.  
+  Direct operating expenses.      Direct operating expenses primarily consist of our costs to repair equipment returned off lease, to store the equipment when it is not on lease and to reposition equipment that has been returned to locations with weak leasing demand. 
+  
+   31 
+
+     Table of contents  
+
+Direct operating expenses were   $38.9 million   in the   nine   months ended   September 30, 2016  , compared to   $39.0 million   in the same period in   2015  ,   a decrease   of   $0.1 million  . Higher off-hires in 2016 led to an increase in storage, handling, and repair costs. This increase was largely offset by the receipt of insurance proceeds for a prior customer default. 
+  Administrative expenses.      Administrative expenses were   $36.0 million   in the   nine   months ended   September 30, 2016   compared to   $41.9 million   in the   nine   months ended   September 30, 2015  , a decrease of $5.9 million or 14.1%. This   decrease   was mainly due to a decrease in employee compensation expense resulting from a reclassification of accrued incentive compensation from Administrative expenses to Transaction costs for certain employees identified as transitioning out of the Company due to the mergers. 
+  Transaction and other costs.      Transaction and other costs were   $45.0 million   in the   nine   months ended   September 30, 2016  , compared to   $12.4 million   in the same period in   2015  . Transaction and other costs increased   $32.6 million   due to the closing of the mergers on July 12, 2016 and consist of severance, legal costs, and professional fees.  
+  Provision for doubtful accounts.      We had a   provision   for doubtful accounts of   $13.3 million   in the   nine   months ended   2016  , compared to a   $2.1 million   reversal for doubtful accounts in the   nine   months ended   2015  . The provision for doubtful accounts   increased   mainly due to the bankruptcy filing and lease default by Hanjin. A provision of $13.6 million represents the establishment of a full reserve against pre-bankruptcy receivables, which are not covered by our insurance. We expect that on-going container recovery costs above the deductible amount of $1.5 million will be covered by our insurance policies, and this expectation was reflected in our estimate of the net loss to TCIL from the Hanjin default.  
+  Interest and debt expense.      Interest and debt expense was   $100.3 million   in the   nine   months ended   September 30, 2016  , compared to   $105.9 million   in the   nine   months ended   September 30, 2015  , a decrease of   $5.6 million  .  Interest and debt expense   decreased   mainly due to a decrease in TCIL's average daily debt balance to   $3.1 billion   in the   nine   months ended 2016 compared to   $3.4 billion   in the   nine   months ended 2015. This decrease was partially offset by an increase in the effective interest rate from 4.10% to 4.31%.  
+  Realized loss on derivative instruments, net.      Realized loss on derivative instruments, net was   $2.3 million   in the   nine   months ended   September 30, 2016  , compared to a realized loss on derivative instruments, net of   $4.4 million   in the   nine   months ended   September 30, 2015  . The decrease in the realized loss on derivative instruments, net is mainly due to certain swaps being terminated or reaching maturity.   
+     Unrealized (gain) loss on derivative instruments.      Unrealized loss on derivative instruments, net was   $5.5 million   in the   nine   months ended   September 30, 2016  , compared to an unrealized loss on derivative instruments, net of   $5.8 million   in the nine months ended   September 30, 2015  .  
+   
+  Business Segments 
+  We operate our business in   one   industry, intermodal transportation equipment, and in   two   business segments, Equipment leasing and Equipment trading. 
+  Equipment leasing 
+  We own, lease and ultimately dispose of containers and chassis from our leasing fleet, as well as manage containers owned by third parties. Equipment leasing segment revenues represent leasing revenues from operating and finance leases, fees earned on managed container leasing activities, as well as other revenues. Expenses related to equipment leasing include direct operating expenses, administrative expenses, depreciation expense and interest expense. The Equipment leasing segment also includes gains and losses on the sale of owned leasing equipment.  
+  The results of operations of our leasing segment are discussed above. 
+  Equipment trading 
+  We purchase containers from shipping line customers and other sellers of containers, and resell these containers to container retailers and users of containers for storage or one-way shipment. Equipment trading segment revenues represent the proceeds on the sale of containers purchased for resale. Expenses related to equipment trading include the cost of containers purchased for resale that were sold and related selling costs, as well as direct operating expenses, administrative expenses and interest expense. 
+  Triton acquired the Equipment trading segment as part of the acquisition on July 12, 2016 and had no such reporting unit prior to that time. 
+  
+   32 
+
+     Table of contents  
+
+Segment (loss) income before income taxes 
+  The following table lists the income before income taxes for the Equipment leasing and Equipment trading segments for the periods indicated:   
+ _______________________________________________________________________________ 
+           (1) 
+    Segment income before income taxes excludes unrealized gains or losses on interest rate swaps and the write-off of deferred financing costs. Unrealized gains on interest rate swaps were   $3.5 million   and unrealized losses on interest rate swaps were   $4.2 million   for the three months ended   September 30, 2016   and   2015  , respectively. There were no write-offs of deferred financing costs for the three months ended   September 30, 2016   and   2015  , respectively.  
+       
+  Segment income before income taxes excludes unrealized gains or losses on interest rate swaps and the write-off of deferred financing costs. Unrealized losses on interest rate swaps were   $5.2 million   and   $5.8 million   for the   nine   months ended   September 30, 2016   and   2015  , respectively. Write-offs of deferred financing costs for the   nine   months ended   September 30, 2016   were   $0.1 million   and there were   no   write-offs of deferred financing costs for the   nine   months ended September 30,   2015  . 
+   
+  Liquidity and Capital Resources 
+  The following discussion of our liquidity and capital resources discusses cash flow figures that are based on the mathematical addition of these figures from TCIL and TAL for the nine months ended September 30, 2016. This non-GAAP combined financial information does not reflect pro-forma results on a GAAP basis nor does it reflect any purchase accounting adjustments related to the completion of the transaction. 
+  Our principal sources of liquidity are cash flows provided by operating activities, proceeds from the sale of our leasing equipment, principal payments on finance lease receivables and borrowings under our credit facilities. Our cash in-flows and borrowings are used to finance capital expenditures, meet debt service requirements and pay dividends. 
+  We continue to have sizable cash in-flows. For the twelve months ended combined   September 30, 2016  , cash provided by operating activities, together with the proceeds from the sale of our leasing equipment and principal payments on our finance leases, was   $1,012.7 million  . In addition, as of   September 30, 2016   we had   $129.1 million   of unrestricted cash and   $571.1 million   of additional borrowing capacity under our current credit facilities.  
+  As of   September 30, 2016  , major committed cash outflows in the next 12 months include   $524.6 million   of scheduled principal payments on our existing debt facilities and   $185.8 million   of committed but unpaid capital expenditures. 
+  We believe that cash provided by operating activities and existing cash, proceeds from the sale of our leasing equipment, principal payments on our finance lease receivables and availability under our borrowing facilities will be sufficient to meet our obligations over the next 12 months. 
+  
+   33 
+
+     Table of contents  
+
+At   September 30, 2016  , our outstanding indebtedness was comprised of the following (amounts in millions):    
+
+  * Excludes purchase accounting adjustments. 
+  The maximum commitment levels depicted in the chart above may not reflect the actual availability under all of the credit facilities. Certain of these facilities are governed by borrowing bases or an asset base that limits borrowing capacity to an established percentage of relevant assets, which vary by facility. 
+  As of   September 30, 2016  , we had   $3.3 billion   of debt outstanding on facilities with fixed interest rates and   $3.1 billion   of debt outstanding on facilities with interest rates based on floating rate indices (primarily LIBOR). We economically hedge the risks associated with fluctuations in interest rates on our floating rate borrowings by entering into interest rate swap agreements that convert a portion of our floating rate debt to a fixed rate basis, thus reducing the impact of interest rate changes on future interest expense. As of   September 30, 2016  , we had interest rate swaps in place with a notional amount of   $1.6 billion   to fix the floating interest rates on a portion of our floating rate debt obligations. 
+  Debt Covenants 
+  We are subject to certain financial covenants under our debt agreements. None of the debt facilities at TCIL or TAL were impacted by the completion of the mergers, and therefore such agreements remain the obligations of the respective subsidiaries and all related debt covenants are calculated at the subsidiary level. Covenant compliance is tested at TCIL and TAL in their capacity as a borrower as well as in their capacity as manager for certain wholly-owned special purpose entities ( SPEs ). As of   September 30, 2016  , we were in compliance with all such covenants. Below are the primary financial covenants to which we are subject: 
+    
+  TCIL Facilities: 
+             
+    Ratio of Consolidated Net Income Available for Fixed Charges to Fixed Charges ("Fixed Charge Coverage Ratio"); 
+                
+    Consolidated Tangible Net Worth ("Minimum CTNW"); and 
+                
+    Funded Debt Ratio. 
+     TAL Facilities: 
+             
+    Minimum Earnings Before Interest and Taxes ("Covenant EBIT") to Cash Interest Expense; 
+                
+    Minimum Tangible Net Worth ("TNW"); and 
+                
+    Maximum Indebtedness to TNW. 
+     Non-GAAP Measures 
+  We primarily rely on our results measured in accordance with generally accepted accounting principles ("GAAP") in evaluating our business. Covenant EBIT, Cash Interest Expense, Fixed Charge Coverage Ratio, Funded Debt Ratio, TNW, and Indebtedness are non-GAAP financial measures defined in our debt agreements that are used to determine our compliance with certain covenants contained in our debt agreements and should not be used as a substitute for analysis of our results as reported under GAAP. However, we believe that the inclusion of this non-GAAP information provides additional information to investors regarding our debt covenant compliance. 
+  
+   34 
+
+     Table of contents  
+
+TCIL - Ratio of Consolidated Net Income Available for Fixed Charges to Fixed Charges ("Fixed Charge Coverage Ratio") 
+  The Fixed Charge Ratio is a six-quarter average of the consolidated net income of the TCIL subsidiary of Triton available for fixed charges to fixed charges. Consolidated net income for fixed charges is the sum of consolidated net income for such period, plus cash distributions received from unrestricted subsidiaries, and all fixed charges.  Consolidated net income excludes any non-cash gains and/or losses resulting from derivatives. Fixed charges are the sum of interest expense, imputed interest expense on capitalized leases, operating rental obligations other than those related to container equipment and operating rental expense on operating leases of container equipment.                        Entity/Issuer 
+    Minimum Ratio of Consolidated Net Income Available for Fixed Charges to Fixed Charges 
+      
+    Actual Ratio of Consolidated Net Income Available for Fixed Charges to Fixed Charges 
+      TCIL Bank Facilities 
+    1.25 
+      
+    1.55 
+      TCIL Private Placement notes 
+    1.15 
+      
+    1.37 
+
+TCIL - Minimum CTNW  
+  Consolidated Tangible Net Worth ("CTNW") of the TCIL subsidiary of Triton is defined as the equity of TCIL and its restricted subsidiaries, excluding any non-cash gains and/or losses from derivatives, less the sum of all intangible assets and restricted investments of TCIL and its subsidiaries.  CTNW is to be no less than $855 million. For the purpose of calculating Minimum CTNW, TCIL's investments in unrestricted subsidiaries are included in equity. As of   September 30, 2016  , the actual CTNW was   $1,180.2 million  . 
+  TCIL - Funded Debt Ratio 
+  Funded Debt Ratio is the ratio of total debt of the TCIL subsidiary of Triton to CTNW plus deferred income related to the sales of container equipment to subsidiaries.  
+                     Entity/Issuer 
+    Maximum Funded Debt Ratio 
+      
+    Actual Funded Debt Ratio 
+      TCIL 
+    4.00 
+      
+    3.20 
+
+TAL - Minimum Covenant EBIT to Cash Interest Expense 
+  For the purpose of this covenant, Covenant EBIT is calculated based on the cumulative sum of our earnings for the last four quarters (excluding income taxes, non-cash interest expense, amortization, net gain or loss on interest rate swaps and certain non-cash charges). Cash Interest Expense is calculated based on interest expense adjusted to exclude interest income, amortization of deferred financing costs, and the difference between current and prior period interest expense accruals. 
+  Minimum Covenant EBIT to Cash Interest Expense is calculated on a consolidated basis of the TAL subsidiary of Triton and for certain of our wholly-owned special purpose entities ("SPEs"), whose primary activity is to issue asset backed notes. Covenant EBIT for each of our SPEs is calculated based on the net earnings generated by the assets pledged as collateral for the underlying debt issued. The actual Covenant EBIT to Cash Interest Expense ratio for each SPE may differ depending on the specific net earnings associated with those pledged assets.                      Entity/Issuer 
+    Minimum Covenant EBIT to Cash Interest Expense Ratio 
+      
+    Actual Covenant EBIT to Cash Interest Expense Ratio 
+      TAL - borrower level test 
+    1.10 
+      
+    1.64 
+      TAL - manager level test for ABS term notes 
+    1.10 
+      
+    1.53 
+      TAL asset backed warehouse 
+    1.30 
+      
+    1.79 
+      TAL asset backed securitization ("ABS") term notes 
+    1.10 
+      
+    2.24* 
+
+*   Reflects the weighted average for all series of notes issued by TAL Advantage V, LLC.  Each series of notes must comply separately with this covenant, and as of   September 30, 2016  , each series is in compliance. 
+  
+   35 
+
+     Table of contents  
+
+TAL - Minimum Tangible Net Worth 
+  Minimum Tangible Net Worth ("TNW") is calculated as total tangible assets less total indebtedness which excludes the fair value of derivative instruments liability. The Minimum TNW requirement in relation to the TAL subsidiary of Triton ranges from $300.0 million to $746.8 million. As of   September 30, 2016  , the actual TNW was $1,017.1 million.  
+  TAL - Maximum Indebtedness to TNW 
+  Maximum Indebtedness to TNW is calculated as the ratio of Indebtedness to TNW for the TAL subsidiary of Triton. 
+                     Entity/Issuer 
+    Maximum Indebtedness to TNW Ratio 
+      
+    Actual Indebtedness to TNW Ratio 
+      TAL 
+    4.75 
+      
+    3.25 
+
+Pursuant to the terms of certain debt agreements, we are also required to maintain certain restricted cash accounts. As of September 30, 2016, we had restricted cash of $  58.0 million  . 
+  Failure to comply with these covenants could result in a default under the related credit agreements and/or could result in the acceleration of our outstanding debt if we were unable to obtain a waiver from the creditors. 
+   
+  Cash Flow 
+  The following table sets forth certain cash flow information presented in accordance with U.S. GAAP and therefore includes the effects of purchase accounting and TAL cash flow activity for the period from July 13, 2016 through September 30, 2016 and TCIL cash flow activity for the   nine   months ended   September 30, 2016   and   2015  , respectively (in thousands):   
+
+  Operating Activities 
+  Net cash provided by   operating activities   decreased   by   $19.5 million   to   $337.5 million   in the   nine   months ended   September 30, 2016  , compared to   $357.0 million   in the same period in   2015  . Our earnings, excluding non-cash expenses decreased operating cash flows by $53.9 million. Partially offsetting these decreases was a change in accounts payable and accrued expenses of $17.2 million due to the non-cash accrual of severance and retention related expenses and net collections on receivables of $9.2 million. 
+  Investing Activities 
+  Net cash used in   investing activities   decreased   by   $23.2 million   to   $210.1 million   in the   nine   months ended   September 30, 2016  , compared to   $233.3 million   in the same period in   2015  . This   decrease   was primarily due to lower proceeds from the sale of equipment.  
+  Financing Activities 
+  In the   nine   months ended   September 30, 2016  , cash flows used in financing activities was   $55.0 million  , compared to   $127.6 million   in the same period in   2015  . The decrease in cash flows used in financing activities was mainly due to net payments under debt facilities of $3.7 million for the nine months ended September 30, 2016 compared to $94.5 million for the nine months ended September 30, 2015. In addition, distributions made to noncontrolling interest decreased by $18.9 million  
+  
+   36 
+
+     Table of Contents  
+  TRITON  INTERNATIONAL LIMITED  
+  Notes to Unaudited Consolidated Financial Statements 
+  (Dollars in Thousands Except Per Share Data) 
+
+and restricted cash balances decreased by $15.0 million. These decreases were partially offset by dividend payments of   $51.6 million   for the nine months ended September 30, 2016. 
+   
+  Contractual Obligations 
+  We are party to various operating and capital leases and are obligated to make payments related to our long-term borrowings. We are also obligated under various commercial commitments, including obligations to our equipment manufacturers. Our equipment manufacturer obligations are in the form of conventional accounts payable, and are satisfied by cash flows from operations and long-term financing activities. This non-GAAP combined financial information does not reflect pro-forma results on a GAAP basis nor does it reflect any purchase accounting adjustments related to the completion of the transaction. 
+  The following table summarizes our contractual obligations and commercial commitments as of   September 30, 2016  :      
+ _______________________________________________________________________________ 
+           (1) 
+    Amounts include actual for fixed interest debt and estimated interest for floating rate debt based on   September 30, 2016   rates and the net effect of our interest rate swaps. 
+              (2) 
+    Amounts include interest.  
+      
+  Off-Balance Sheet Arrangements 
+  As of   September 30, 2016  , we did not have any relationships with unconsolidated entities or financial partnerships, such entities which are often referred to as structured finance or special purpose entities, which were established for the purpose of facilitating off-balance sheet arrangements. We are, therefore, not exposed to any financing, liquidity, market or credit risk that could arise if we had engaged in such relationships. 
+   
+  Critical Accounting Policies 
+  Our consolidated financial statements have been prepared in conformity with United States generally accepted accounting principles, which require us to make estimates and assumptions that affect the amounts and disclosures reported in the consolidated financial statements and accompanying notes. Our estimates are based on historical experience and currently available information. Actual results could differ from such estimates. Our critical accounting policies are discussed in our Form S-4 filed with the SEC, on   May 6, 2016  , as amended.  
+  
+   37 
+
+Table of contents  
+
+ITEM 3.    QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+  Market risk represents the risk of changes in value of a financial instrument, derivative or non-derivative, caused by fluctuations in interest rates, foreign exchange rates and equity prices. Changes in these factors could cause fluctuations in the results of our operations and cash flows. In the ordinary course of business, we are exposed to fluctuations in interest rates. These risks include interest rate and foreign currency exchange rate risks. 
+  Interest Rate Risk 
+  We enter into interest rate swap agreements to fix the interest rates on a portion of our floating rate debt. We assess and manage the external and internal risk associated with these derivative instruments in accordance with our overall operating goals. External risk is defined as those risks outside of our direct control, including counterparty credit risk, liquidity risk, systemic risk and legal risk. Internal risk relates to those operational risks within the management oversight structure and includes actions taken in contravention of our policy. 
+  The primary external risk of our interest rate swap agreements is counterparty credit exposure, which is defined as the ability of a counterparty to perform its financial obligations under a derivative agreement.   All   of our derivative agreements are with highly rated financial institutions. Credit exposures are measured based on the market value of outstanding derivative instruments. Both current and potential exposures are calculated for each derivative agreement to monitor counterparty credit exposure. 
+  As of   September 30, 2016  , we had interest rate swap agreements in place to fix interest rates on a portion of our borrowings under debt facilities with floating interest rates as summarized below: 
+                               Derivatives 
+      
+    Net Notional Amount 
+      
+    Weighted Average Fixed Leg (Pay) Interest Rate 
+      
+    Cap Rate 
+      
+    Weighted Average Remaining Term 
+      Interest rate swaps 
+      
+    $1.6 Billion 
+      
+    1.73% 
+      
+     % 
+      
+    5.0 years 
+      Interest rate caps 
+      
+    $92.1 Million 
+      
+     % 
+      
+    4.0% 
+      
+    1.0 year 
+
+For the three months and   nine   months ended   September 30, 2016  , we recognized unrealized   gains   of   $0.9 million   in accumulated other comprehensive loss related to changes in the fair value of the designated agreement.  
+  Since   53%   of our floating rate debt is hedged using interest rate swaps, our interest expense is not significantly affected by changes in interest rates. However, a 100 basis point increase in the interest rates on our floating rate debt (primarily LIBOR) would result in an increase of approximately   $13.8 million   in interest expense over the next 12 months. 
+
+ITEM 4.    CONTROLS AND PROCEDURES. 
+  The Company filed an amended Current Report on Form 8-K/A on November 14, 2016 to correct certain information in our quarterly earnings release issued on November 10, 2016 relating to the calculation of earnings per share and the balance sheet treatment of derivative liabilities, other comprehensive income and accounts payable and other accrued expense. These errors were identified by management through our normal review process which was completed prior to filing this Quarterly Report on Form 10-Q, but after issuing our earnings release. The delay in the completion of our normal review process was a result of the initial challenges associated with purchase accounting.   
+  Our senior management has evaluated the effectiveness and design of our disclosure controls and procedures (as defined under Rules 13a-15(e) and 15d-15(e)), as of   September 30, 2016  . Based upon the failure to correct the errors described above prior to the issuance of our earnings release, our Chief Executive Officer and our Chief Financial Officer concluded that as of   September 30, 2016  , because not performed timely, our disclosure controls and procedures were ineffective in ensuring that information was gathered, analyzed and disclosed on a timely basis. The Company has and will continue to take steps to address these issues in connection with future reporting. 
+  Except for the matter discussed above, there has been no change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during our fiscal quarter ended   September 30, 2016  , that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.  As a result of the mergers, we have begun a review of our internal control over financial reporting to ensure it is appropriate and effective given the added complexity of financial reporting for the combined entity, and we expect to make some enhancements in the   fourth   quarter. 
+
+38 
+
+Table of contents  
+
+PART II OTHER INFORMATION 
+   
+  ITEM 1.    LEGAL PROCEEDINGS. 
+  From time to time, we are a party to litigation matters arising in connection with the normal course of our business. While we cannot predict the outcome of these matters, in the opinion of our management, based on information presently available to us, we believe that we have adequate legal defenses, reserves or insurance coverage and any liability arising from these matters will not have a material adverse effect on our business. Nevertheless, unexpected adverse future events, such as an unforeseen development in our existing proceedings, a significant increase in the number of new cases or changes in our current insurance arrangements could result in liabilities that have a material adverse impact on our business. 
+   
+  ITEM 1A.    RISK FACTORS. 
+  For a detailed discussion of our risk factors, refer to our Form S-4, as amended filed, with the SEC, on   May 6, 2016  . 
+   
+  ITEM 2.    UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS. 
+    
+  On November 9, 2015, TCIL entered into option transaction agreements (the  Option Transaction Agreements ) with option holders in anticipation of the closing of the merger with TAL. In accordance with the terms of the Option Transaction Agreements, TCIL settled and cancelled all vested and unvested market-based options as of November 9, 2015 in exchange for   865,157   fully vested Class A common shares at $14.51 per share, of which approximately   371,000   were redeemed.  
+    
+  On July 8, 2016, TCIL settled and cancelled all vested and unvested service-based options in exchange for approximately   647,000   fully vested Class A common shares at   $10.94   per share, of which approximately   291,000   were redeemed. 
+    
+  Restricted Shares 
+    
+  On July 8, 2016, approximately   143,000   restricted Class A common shares were issued to Option Plan participants after approval and authorization by the Board of Directors. The shares were granted at   $10.94  , which will be recognized evenly over an approximately   30   month vesting period. On July 12, 2016, the   143,000   restricted Class A common shares were converted to approximately   114,000   of the Company s common shares under the terms of the mergers pursuant to which TCIL shareholders received approximately   0.80   common shares of the Company for each of TCIL's common shares. 
+    
+  Non-Employee Director Equity Plan 
+    
+  On May 19, 2016, TCIL entered into equity repurchase and cash bonus agreements with certain management shareholders and non-employee directors whereby TCIL agreed to repurchase approximately   30,700   shares at a fair market value redemption price of   $12.26   per share. On July 12, 2016, these restricted Class A common shares became fully vested. 
+    
+  On September 13, 2016, we entered into a settlement and release agreement with a former TAL stockholder that had sought appraisal rights with respect to   230,857   shares of TAL common stock. The settlement provided for the payment by TAL of $15.28 per share (the closing price of TAL stock on the merger date, July 12, 2016) in cash for the acquisition of such shares, and for a release of claims by the former TAL stockholder. 
+  
+   39 
+
+Table of contents  
+
+ITEM 6.    EXHIBITS.   
+ ______________________________________________________________________________                 * 
+    Filed herewith. 
+
+40 
+
+Table of contents  
+
+SIGNATURE 
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+TRITON INTERNATIONAL LIMITED 
+
+November 14, 2016 
+    By: 
+    /s/ JOHN BURNS 
+
+John Burns 
+
+Chief Financial Officer  
+
+41 
+
+<EX-31.1>
+ 2
+ exhibit3119-30x2016.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  CERTIFICATION 
+  I, Brian M. Sondey, certify that: 
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Triton International Limited; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f) and 15(d)-15(f) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+     Date:   November 14, 2016    
+                   
+    /s/ BRIAN M. SONDEY    Brian M. Sondey 
+  Chairman and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ exhibit3129-30x2016.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  CERTIFICATION 
+  I, John Burns, certify that: 
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Triton International Limited; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f) and 15(d)-15(f) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+     Date:   November 14, 2016    
+                   
+    /s/ JOHN BURNS    John Burns 
+  Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ exhibit3219-30x2016.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+  CERTIFICATION BY CHIEF EXECUTIVE OFFICER 
+  PURSUANT TO 18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES OXLEY ACT OF 2002 
+  In connection with the Quarterly Report of Triton International Limited (the  Company ) on Form 10-Q for the period ended   September 30, 2016   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Brian M. Sondey, Chairman and Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes Oxley Act of 2002, that: 
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+                    Date: November 14, 2016 
+    /s/ BRIAN M. SONDEY    Brian M. Sondey 
+  Chairman and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ exhibit3229-30x2016.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+  CERTIFICATION BY CHIEF FINANCIAL OFFICER 
+  PURSUANT TO 18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES OXLEY ACT OF 2002 
+  In connection with the Quarterly Report of Triton International Limited (the  Company ) on Form 10-Q for the period ended   September 30, 2016   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, John Burns, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes Oxley Act of 2002, that: 
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+</EX-32.2>
+

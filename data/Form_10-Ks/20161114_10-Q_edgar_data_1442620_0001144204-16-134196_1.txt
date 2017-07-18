@@ -1,0 +1,2142 @@
+<Header>
+<FileStats>
+    <FileName>20161114_10-Q_edgar_data_1442620_0001144204-16-134196_1.txt</FileName>
+    <GrossFileSize>5993836</GrossFileSize>
+    <NetFileSize>109175</NetFileSize>
+    <ASCII_Embedded_Chars>344677</ASCII_Embedded_Chars>
+    <HTML_Chars>1769990</HTML_Chars>
+    <XBRL_Chars>2564670</XBRL_Chars>
+    <XML_Chars>1064052</XML_Chars>
+    <N_Tables>86</N_Tables>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001144204-16-134196.hdr.sgml : 20161111
+<ACCEPTANCE-DATETIME>20161114161618
+ACCESSION NUMBER:		0001144204-16-134196
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		93
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161114
+DATE AS OF CHANGE:		20161114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Recon Technology, Ltd
+		CENTRAL INDEX KEY:			0001442620
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL, GAS FIELD SERVICES, NBC [1389]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34409
+		FILM NUMBER:		161994995
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROOM 1902, BUILDING C,
+		STREET 2:		KING LONG INTL MANSION, NO. 9 FULIN ROAD
+		CITY:			BEIJING
+		STATE:			F4
+		ZIP:			100107
+		BUSINESS PHONE:		025-52313015
+
+	MAIL ADDRESS:	
+		STREET 1:		ROOM 1902, BUILDING C,
+		STREET 2:		KING LONG INTL MANSION, NO. 9 FULIN ROAD
+		CITY:			BEIJING
+		STATE:			F4
+		ZIP:			100107
+
+</SEC-Header>
+</Header>
+
+ 0001144204-16-134196.txt : 20161114
+
+10-Q
+ 1
+ v452229_10q.htm
+ FORM 10-Q
+
+U. S. SECURITIES AND EXCHANGE COMMISSION 
+
+ WASHINGTON, DC 20549 
+
+FORM 10-Q 
+
+For the quarterly period ended September
+30, 2016 
+
+For the transition period from                to               . 
+
+Commission File Number 001-34409 
+
+RECON TECHNOLOGY, LTD  
+
+ (Exact name of registrant as specified in
+its charter)  
+
+Cayman Islands   
+       
+       Not Applicable    
+
+(State or other jurisdiction of 
+         incorporation or organization)  
+
+(I.R.S. employer 
+         identification number)   
+
+1902 Building C, King Long International
+Mansion  
+
+  9 Fulin Road, Beijing 100107  
+
+  People s Republic of China  
+
+ (Address of principal
+executive offices and zip code) 
+
+  +86 (10) 8494-5799  
+
+ (Registrant s telephone number, including
+area code) 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such
+reports) and (2) has been subject to such filing requirements for the past 90 days.    Yes   x    No       
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes   x    No       
+
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. 
+
+Large accelerated filer  
+
+Accelerated filer  
+
+Non-accelerated filer  
+          
+       (Do not check if a smaller reporting company)  
+       
+      Smaller reporting company  
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes         No   x    
+
+Indicate the number of shares outstanding of each of the issuer s
+classes of ordinary shares, as of the latest practicable date. The Company is authorized to issue 100,000,000 ordinary shares.
+As of October 31, 2016 , the Company has issued and outstanding 6,230,792 shares. 
+
+RECON TECHNOLOGY, LTD  
+
+  FORM 10-Q  
+
+  INDEX  
+
+Special Note Regarding Forward-Looking Statements     
+     ii  
+ 
+      Part I      Financial Information     
+     1  
+ 
+     Item 1. 
+      Financial Statements (Unaudited).     
+     1  
+ 
+     Item 2. 
+      Management s Discussion and Analysis of Financial Condition and Results of Operations.     
+     1  
+ 
+     Item 3. 
+      Quantitative and Qualitative Disclosures about Market Risk.     
+     13  
+ 
+     Item 4. 
+      Controls and Procedures.     
+     14  
+ 
+      Part II     Other Information     
+     15  
+ 
+     Item 1. 
+      Legal Proceedings.     
+     15  
+ 
+     Item 1A. 
+      Risk Factors.     
+     15  
+ 
+     Item 2. 
+      Unregistered Sales of Equity Securities and Use of Proceeds.     
+     15  
+ 
+     Item 3. 
+      Defaults upon Senior Securities.     
+     15  
+ 
+     Item 4. 
+      Mine Safety Disclosures.     
+     15  
+ 
+     Item 5. 
+      Other Information.     
+     15  
+ 
+     Item 6. 
+      Exhibits.     
+     16  
+
+Special Note Regarding Forward-Looking
+Statements 
+
+This document contains
+certain statements of a forward-looking nature. Such forward-looking statements, including but not limited to projected growth,
+trends and strategies, future operating and financial results, financial expectations and current business indicators are based
+upon current information and expectations and are subject to change based on factors beyond the control of the Company. Forward-looking
+statements typically are identified by the use of terms such as  look,   may,   should,   might, 
+ believe,   plan,   expect,   anticipate,   estimate  and similar words,
+although some forward-looking statements are expressed differently. The accuracy of such statements may be influenced by a number
+of business risks and uncertainties that could cause actual results to differ materially from those projected or anticipated, including
+but not limited to the following: 
+
+the timing of the development of future products;   
+
+projections of revenue, earnings, capital structure and other financial items;   
+
+statements of our plans and objectives;   
+
+statements regarding the capabilities of our business operations;   
+
+statements of expected future economic performance;   
+
+statements regarding competition in our market; and   
+
+assumptions underlying statements regarding us or our business.   
+
+Readers are cautioned
+not to place undue reliance on these forward-looking statements, which speak only as of the date hereof. The Company undertakes
+no obligation to update this forward-looking information. Nonetheless, the Company reserves the right to make such updates from
+time to time by press release, periodic report or other method of public disclosure without the need for specific reference to
+this report. No such update shall be deemed to indicate that other statements not addressed by such update remain correct or create
+an obligation to provide any other updates. 
+
+ii  
+
+Part I Financial Information 
+
+Item 1.    Financial Statements.  
+
+See the unaudited condensed consolidated
+financial statements following the signature page of this report, which are incorporated herein by reference. 
+
+Item 2.    Management s Discussion
+and Analysis of Financial Condition and Results of Operations.  
+
+The following discussion and analysis
+of our company s financial condition and results of operations should be read in conjunction with our unaudited condensed
+consolidated financial statements and the related notes included elsewhere in this report. This discussion contains forward-looking
+statements that involve risks and uncertainties. Actual results and the timing of selected events could differ materially from
+those anticipated in these forward-looking statements as a result of various factors.  
+
+Overview  
+
+We are a company with
+limited liability incorporated in 2007 under the laws of the Cayman Islands. Headquartered in Beijing, we provide products and
+services to oil and gas companies and their affiliates through Nanjing Recon Technology Co. Ltd ( Nanjing Recon ) and
+Beijing BHD Petroleum Technology Co, Ltd ( BHD ), hereafter referred to as our domestic companies (the  Domestic
+Companies ), which are established under the laws of the People s Republic of China ( PRC ). As the Company
+contractually controls the Domestic Companies, we serve as the center of strategic management, financial control and human resources
+allocation. Due to this contractual control and our obligation to bear the losses of the Domestic Companies, we consider them to
+be variable interest entities ( VIEs ) for accounting purposes and consolidate their results in our financial statements. 
+
+Through Nanjing Recon
+and BHD, our business is mainly focused on the upstream sectors of the oil and gas industry. We derive our revenues from the sales
+and provision of (1) oilfield automation products, (2) equipment for oil and gas production and transportation, (3) waste water
+treatment products, and (4) engineering services. Our products and services involve most of the key procedures of the extraction
+and production of oil and gas, and include automation systems, equipment, tools and on-site technical services. 
+
+Nanjing Recon: Nanjing Recon is a high-tech company that specializes in automation services for oilfield companies. It mainly
+focuses on providing automation solutions to the oil exploration industry, including monitoring wells, automatic metering to the
+joint station production, process monitor, and a variety of oilfield equipment and control systems.   
+
+BHD: BHD is a high-tech company that specializes in transportation equipment and stimulation productions and services. Possessing
+proprietary patents and substantial industry experience, BHD has built up stable and strong working relationships with the major
+oilfields in China.   
+
+Recent Developments   
+
+As of the first quarter of fiscal year 2017,
+the Company has achieved remarkable achievement in oilfield waste water treatment segment. In January 2016, the Company announced
+its cooperation with Qinghai Oilfield Company, signing an agreement to sell the oilfield RMB3.98 million of related products and
+services. For the three months period as of September 30, 2016, the Company has completed this agreement and continues to expand
+markets in environmental protection industry, including oilfield water treatment and other industrial and sewage disposal projects. 
+
+The Company has also developed new clients
+in China s top producing Changqing Oilfield, which is located in China s Xi an Province. The Company has signed
+sales contracts for furnaces as of the report day. Management expects further improvement in the coming year. 
+
+Products and Services    
+
+We currently provide
+products and services to oil and gas field companies focused on the development and production of oil and natural gas. Our products
+and services described below correlate to the numbered stages of the oilfield production system graphical expression shown below. 
+
+Our products and services include: 
+
+Equipment for Oil and Gas Production
+and Transportation   
+
+High-Efficiency Heating
+Furnaces  (as shown above) . Crude petroleum contains certain impurities that must be removed before it can be sold,
+including water and natural gas. To remove the impurities and to prevent solidification and blockage in transport pipes, companies
+employ heating furnaces. BHD researched, developed and implemented a new oilfield furnace that is advanced, highly automated, reliable,
+easy to operate, safe and highly heat-efficient (90% efficiency). 
+
+Burner  (as
+shown above) . We serve as an agent for the Unigas Burner, which is designed and manufactured by UNIGAS, a European burning
+equipment production company. The burner we provide has the following characteristics: high degree of automation, energy conservation,
+high turn-down ratio, high security and environmental safety. 
+
+Oil and Gas Production Improvement Techniques  
+
+Packers of Fracturing.
+This utility model is used in concert with the security joint, hydraulic anchor, and slide brushing of sand spray in the well.
+It is used for easy seat sealing and sand uptake prevention. The utility model reduces desilting volume and prevents sand-up, which
+makes the deblocking processes easier to realize. The back flushing is sand-stick proof. 
+
+Production Packer. At varying withdrawal
+points, the production packer separates different oil layers and protects the oil pipe from sand and permeation, promoting the
+recovery ratio. 
+
+Sand Prevention in Oil and Water Well.
+This technique processes additives that are resistant to elevated temperatures into  resin sand  which is transported
+to the bottom of the well via carrying fluid. The resin sand goes through the borehole, piling up and compacting at the borehole
+and oil vacancy layer. An artificial borehole wall is then formed, functioning as a means of sand prevention. This sand prevention
+technique has been adapted to more than 100 wells, including heavy oil wells, light oil wells, water wells and gas wells, with
+a 100% success rate and a 98% effective rate. 
+
+Water Locating and Plugging Technique.
+High water cut affects the normal production of oilfields. Previously, there was no sophisticated method for water locating and
+tubular column plugging in China. The mechanical water locating and tubular column plugging technique we have developed resolves
+the problem of high water cut wells. This technique conducts a self-sealing test during multi-stage usage and is reliable to separate
+different production sets effectively. The water location switch forms a complete set by which the water locating and plugging
+can be finished in one trip. The tubular column is adaptable to several oil drilling methods and is available for water locating
+and plugging in second and third class layers. 
+
+Fissure Shaper. This is our proprietary
+product that is used along with a perforating gun to effectively increase perforation depth by between 46% and 80%, shape stratum
+fissures, improve stratum diversion capability and, as a result, improve our ability to locate oilfields and increase the output
+of oil wells. 
+
+Fracture Acidizing. We inject acid to layers
+under pressure, which can form or expand fissures. The treatment process of the acid is defined as fracture acidizing. The technique
+is mainly adapted to oil and gas wells that are blocked up relatively deeply, or oil and gas wells in low permeability zones. 
+
+Electronic Break-Down Service. This service
+resolves block-up and freezing problems by generating heat from the electric resistivity of the drive pipe and utilizing a loop
+tank composed of an oil pipe and a drive pipe. This technique saves energy and is environmentally friendly. It can increase the
+production of oilfields that are in the middle and later periods. 
+
+Automation System and Services   
+
+Pumping Unit Controller. This controller
+functions as a monitor to the pumping unit and also collects data for load, pressure, voltage, and startup and shutdown control. 
+
+RTU Monitor. This monitor collects gas
+well pressure data. 
+
+Wireless Dynamometer and Wireless Pressure
+Gauge. These products replace wired technology with cordless displacement sensor technology. They are easy to install and significantly
+reduce the work load associated with cable laying. 
+
+Electric Multi-way Valve for Oilfield Metering
+Station Flow Control. This multi-way valve is used before the test separator to replace the existing three valve manifolds. It
+facilitates the electronic control of the connection of the oil lead pipeline with the separator. 
+
+Natural Gas Flow Computer System. The flow
+computer system is used in natural gas stations and gas distribution stations to measure flow. 
+
+Recon Supervisory Control and Data Acquisition
+System ( SCADA ). Recon SCADA is a system which applies to the oil well, measurement station and the union station
+for supervision and data collection. 
+
+EPC Service of Pipeline SCADA System. This
+service technique is used for pipeline monitoring and data acquisition after crude oil transmission. 
+
+EPC Service of Oil and Gas Wells SCADA
+System. This service technique is used for monitoring and data acquisition of oil wells and natural gas wells. 
+
+EPC Service of Oilfield Video Surveillance
+and Control System. This video surveillance technique is used for controlling the oil and gas wellhead area and the measurement
+station area. 
+
+Technique Service for  Digital oilfield 
+Transformation. This service includes engineering technique services such as oil and gas SCADA systems, video surveillance and
+control systems and communication systems. 
+
+Factors Affecting Our Business   
+
+Business Outlook  
+
+The oilfield engineering and technical
+service industry is generally divided into five sectors: (1) exploration, (2) drilling and completion, (3) testing and logging,
+(4) production and (5) oilfield construction. Thus far our businesses have been involved in the completion, production and construction
+processes. Our management still believes we need to expand our core business, move into new markets and develop new businesses
+quickly for the coming years. Management anticipates there will be opportunities in new markets and our existing markets. We also
+believe that many existing wells and oilfields need to improve or renew their equipment and service to maintain production and
+techniques and services like ours will be needed as new oil and gas fields are developed. In the next three years, we plan to focus
+on the following: 
+
+Measuring Equipment and Service.   Digital
+oil field technology and the management of oil companies are highly regarded in the industry. We believe our oilfield SCADA system
+and assorted products, production managing expert software, and related technical support services will address the needs of the
+oil well automation system market, for which we believe there will be increasing demand over the short term and strong needs in
+the long term. 
+
+Gathering and Transferring Equipment  . With
+more new wells developed, our management anticipates that demand for our furnaces and burners will grow as compared to last year,
+especially in the Qinghai Oilfield and Zhongyuan Oilfield. 
+
+New business  . We have been
+developing new products for oilfield wastewater treatment and achieved preliminary business on this segment. Our management anticipates
+expanding the new business more rapidly in the coming year. 
+
+Growth Strategy  
+
+As a smaller China-focused company, our
+basic strategy focuses on developing our onshore oilfield business in the upstream sector of the industry. 
+
+Large domestic oil companies have historically
+focused on their exploration and development businesses to earn higher margins and maintain their competitive advantage. With regard
+to private oilfield service companies, we estimate that approximately 90% specialize in the manufacture of drilling and production
+equipment. Thus, the market for technical support and project service is still in its early stage. Our management is focused on
+providing high quality products and services in oilfields in which we have a geographical advantage. This helps us to avoid conflicts
+of interest with bigger suppliers of drilling equipment while protecting our position within this market segment. Our mission is
+to increase the automation and safety levels of industrial petroleum production in China and improve the underdeveloped working
+process and management mode used by many companies by providing advanced technologies. At the same time, we are always looking
+to improve our business and to increase our earning capability. 
+
+Recent Industry Developments   
+
+Affected by the worldwide decrease in oil
+prices, CNPC and Sinopec, parent companies of our direct clients, reduced their capital expenditure and production activities,
+resulting in a declining market and intensive competition. Management will closely monitor the situation and will seek to
+extend our business on the industrial chain, such as through providing more integrated services and advanced products and through
+growing our business from a predominantly above-ground business to include some downhole services as well. 
+
+On January 1, 2015, China formally
+began implementing an updated Environmental Protection Law (the China EPL). The EPL is perceived as the most progressive and
+stringent law in the history of environmental protection in China. It details harsher penalties for environmental offences
+and imposes additional requirements for oil and gas production companies. As a result, although they reduced capital
+expenditures and production activities, China s oil companies have strengthened their investment    and
+resources in oil field environment protection and this market is estimated to be billions of RMB. The Company also focused
+on this segment and started to develop its own products and service from year 2015. 
+
+Factors Affecting Our Results of Operations   
+
+Our operating results
+in any period are subject to general conditions typically affecting the Chinese oilfield service industry and included but are
+not limited to: 
+
+oil and gas prices;   
+
+the amount of spending by our customers, primarily those in the oil and gas industry;   
+
+growing demand from large corporations for improved management and software designed to achieve such corporate performance;   
+
+the procurement processes of our customers, especially those in the oil and gas industry;   
+
+competition and related pricing pressure from other oilfield service solution providers, especially those targeting the Chinese oil and gas industry;   
+
+the ongoing development of the oilfield service market in China; and   
+
+inflation and other macroeconomic factors.   
+
+Unfavorable changes
+in any of these general conditions could negatively affect the number and size of the projects we undertake, the number of products
+we sell, the amount of services we provide, the price of our products and services, and otherwise affect our results of operations. 
+
+Our operating results
+in any period are more directly affected by company-specific factors including: 
+
+our revenue growth, in terms of the proportion of our business dedicated to large companies and our ability to successfully develop, introduce and market new solutions and services;   
+
+our ability to increase our revenues from both old and new customers in the oil and gas industry in China;   
+
+our ability to effectively manage our operating costs and expenses; and   
+
+our ability to effectively implement any targeted acquisitions and/or strategic alliances so as to provide efficient access to markets and industries in the oil and gas industry in China.   
+
+Critical Accounting
+Policies and Estimates  
+
+Estimates and Assumptions    
+
+We prepare our unaudited condensed consolidated
+financial statements in conformity with accounting principles generally accepted in the United States of America ( US GAAP ),
+which require us to make judgments, estimates and assumptions. We continually evaluate these estimates and assumptions based on
+the most recently available information, our own historical experience and various other assumptions that we believe to be reasonable
+under the circumstances. Since the use of estimates is an integral component of the financial reporting process, actual results
+could differ from those estimates. An accounting policy is considered critical if it requires an accounting estimate to be made
+based on assumptions about matters that are highly uncertain at the time such estimate is made, and if different accounting estimates
+that reasonably could have been used, or changes in the accounting estimates that are reasonably likely to occur periodically,
+could materially impact the unaudited condensed consolidated financial statements. We believe that the following policies involve
+a higher degree of judgment and complexity in their application and require us to make significant accounting estimates. The following
+descriptions of critical accounting policies, judgments and estimates should be read in conjunction with our unaudited condensed
+consolidated financial statements and other disclosures included in this quarterly report. Significant accounting estimates reflected
+in our Company s unaudited condensed consolidated financial statements include revenue recognition, allowance for doubtful
+accounts, inventory valuation, fair value of share based payments, and useful lives of property and equipment. 
+
+Consolidation of VIEs    
+
+We recognize an entity
+as a VIE if it either (i) has insufficient equity to permit the entity to finance its activities without additional subordinated
+financial support or (ii) has equity investors who lack the characteristics of a controlling financial interest. We consolidate
+a VIE as our primary beneficiary when we have both the power to direct the activities that most significantly impact the entity s
+economic performance and the obligation to absorb losses or the right to receive benefits from the entity that could potentially
+be significant to the VIE. We perform ongoing assessments to determine whether an entity should be considered a VIE and whether
+an entity previously identified as a VIE continues to be a VIE and whether we continue to be the primary beneficiary. 
+
+Assets recognized
+as a result of consolidating VIEs do not represent additional assets that could be used to satisfy claims against our general assets.
+Conversely, liabilities recognized as a result of consolidating these VIEs do not represent additional claims on our general assets;
+rather, they represent claims against the specific assets of the consolidated VIEs. 
+
+Revenue Recognition    
+
+We recognize revenue when the following
+four criteria are met: (1) persuasive evidence of an arrangement exists, (2) delivery has occurred or services have been
+provided, (3) the sales price is fixed or determinable, and (4) collectability is reasonably assured. Delivery does not
+occur until products have been shipped or services have been provided to the customers and the customers have signed a completion
+and acceptance report, risk of loss has transferred to the customer, customer acceptance provisions have lapsed, or the Company
+has objective evidence that the criteria specified in a customer s acceptance provisions have been satisfied. The sales price
+is not considered to be fixed or determinable until all contingencies related to the sale have been resolved. 
+
+Hardware and software   
+
+Revenue from hardware and software sales
+is generally recognized when the product with the embedded software system is shipped to the customer and when there are no unfulfilled
+company obligations that affect the customer s final acceptance of the arrangement. Revenue from software is recognized according
+to project contracts. Usually this is short term. Revenue is not recognized until completion of the contracts and receipt of acceptance. 
+
+Services  
+
+The Company provides services to improve
+software functions and system requirements on separated fixed-price contracts. Revenue is recognized when services are completed
+and acceptance is determined by a completion report signed by the customer. 
+
+Deferred income represents unearned amounts
+billed to customers related to sales contracts. 
+
+Cost of Revenues    
+
+When the criteria for revenue recognition
+have been met, costs incurred are recognized as cost of revenue. Cost of revenues includes wages, materials, handling charges,
+the cost of purchased equipment and pipes, other expenses associated with manufactured products and services provided to customers,
+and inventory reserve. We expect cost of revenues to grow as our revenues grow. It is possible that we could incur development
+costs with little revenue recognition, but based upon our past history, we expect our revenues to grow. 
+
+Fair Values of Financial Instruments   
+
+The US GAAP accounting
+standards regarding fair value of financial instruments and related fair value measurements define fair value, establish a three-level
+valuation hierarchy that requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs
+when measuring fair value. 
+
+The three levels of
+inputs are defined as follows: 
+
+Level 1 inputs to the valuation
+methodology are quoted prices (unadjusted) for identical assets or liabilities in active markets. 
+
+Level 2 inputs to the valuation
+methodology include quoted prices for similar assets and liabilities in active markets, and inputs that are observable for the
+asset or liability, either directly or indirectly, for substantially the full term of the financial instrument. 
+
+Level 3 inputs to the valuation
+methodology are unobservable. 
+
+The carrying amounts
+reported in the unaudited condensed consolidated balance sheets for trade accounts receivable, other receivables, advances to suppliers,
+trade accounts payable, accrued liabilities, advances from customers and notes payable approximate fair value because of the immediate
+or short-term maturity of these financial instruments. Long-term receivables and borrowings approximate fair value because their
+interest rates charged approximate the market rates for financial instruments with similar terms. 
+
+Receivables   
+
+Trade receivables
+are carried at the original invoiced amount less a provision for any potential uncollectible amounts. Provisions are applied to
+trade receivables where events or changes in circumstances indicate that the balance may not be collectible. The identification
+of doubtful accounts requires the use of judgment and estimates of management. Our management must make estimates of the collectability
+of our accounts receivable. Management specifically analyzes accounts receivable, historical bad debts, customer creditworthiness,
+current economic trends and changes in our customer payment terms when evaluating the adequacy of the allowance for doubtful accounts.
+Increases in our allowance for doubtful accounts would lower our net income and earnings per share.  
+
+Valuation of Long-Lived Assets    
+
+We review the carrying
+values of our long-lived assets for impairment whenever events or changes in circumstances indicate that they may not be recoverable.
+When such an event occurs, we project undiscounted cash flows to be generated from the use of the asset and its eventual disposition
+over the remaining life of the asset. If projections indicate that the carrying value of the long-lived asset will not be recovered,
+we reduce the carrying value of the long-lived asset by the estimated excess of the carrying value over the projected discounted
+cash flows. In the past, we have not had to make significant adjustments to the carrying values of our long-lived assets, and we
+do not anticipate a need to do so in the future. However, circumstances could cause us to have to reduce the value of our capitalized
+assets more rapidly than we have in the past if our revenues were to significantly decline. Estimated cash flows from the use of
+the long-lived assets are highly uncertain and therefore the estimation of the need to impair these assets is reasonably likely
+to change in the future. Should the economy or acceptance of our assets change in the future, it is likely that our estimate of
+the future cash flows from the use of these assets will change by a material amount. There were no impairments at June 30, 2016
+and September 30, 2016. However, if impairments were required, our net income and earnings per share would decrease accordingly. 
+
+Share-Based Compensation   
+
+The Company accounts
+for share-based compensation in accordance with Accounting Standards Codification (ASC) Topic 718, Share-Based Payment. Under
+the fair value recognition provisions of this topic, share-based compensation cost is measured at the grant date based on the fair
+value of the award and is recognized as expense with graded vesting on a straight line basis over the requisite service period
+for the entire award. The Company has elected to mainly utilize the Black-Scholes valuation model to estimate an award s
+fair value. 
+
+Recently enacted accounting pronouncements   
+
+In October 2016, the FASB has issued Accounting
+Standards Update (ASU) No. 2016-17, Consolidation (Topic 810): Interest Held through Related Parties That Are under Common Control,
+to provide guidance on the evaluation of whether a reporting entity is the primary beneficiary of a VIE by amending how a reporting
+entity, that is a single decision maker of a VIE, treats indirect interests in that entity held through related parties that are
+under common control. The amendments are effective for public business entities for fiscal years beginning after December 15, 2016,
+including interim periods within those fiscal years. For all other entities, the amendments are effective for fiscal years beginning
+after December 15, 2016, and interim periods within fiscal years beginning after December 15, 2017. Early adoption is permitted,
+including adoption in an interim period. The Company is currently evaluating the impact of this new standard on its unaudited condensed
+consolidated financial statements and related disclosures. 
+
+Results of Operations  
+
+The following consolidated results of operations
+include the results of operations of the Company and its variable interest entities ( VIEs ), BHD and Nanjing Recon. 
+
+Our historical reporting results are not
+necessarily indicative of the results to be expected for any future period. 
+
+Three Months Ended September 30, 2015 Compared to Three
+Months Ended September 30, 2016   
+
+Revenue   
+
+Our total revenues for
+the three months ended September 30, 2016 were approximately  7.8 million ($1.2 million), an increase of approximately  4.2
+million or 117.1% from  3.6 million for the three months ended September 30, 2015. The overall increase in revenue was mainly
+caused by our increased hardware and software revenue, which includes revenue from automation products and embedded software, equipment
+and accessories. The increase in hardware and software revenue was mainly caused by increased demand for our waste water treatment
+products, and equipment and furnaces for the first quarter of fiscal year 2017.  
+
+Revenue  
+Hardware and software- non-related parties   
+
+(1)  Revenue from automation products and embedded software increased slightly by  56.1 thousand ($8.4 thousand).   
+
+(2)  As shown above, the overall increase in revenue was significantly affected by equipment sales increases due to more furnaces
+provided to our new client, Changqing Oilfield, a major subsidiary of PetroChina.   
+
+(3)  During fiscal year 2016, the Company expanded the new market of oilfield waste water treatment products. As of first
+                                                                quarter of fiscal year 2017, this segment continued to contribute revenue and margin to our operation. Management expects to
+                                                                obtain more business in the coming months due to the quality of our products and long-term cooperation with oilfield
+                                                                companies.   
+
+Cost and Margin   
+
+Cost of Revenues . Our cost of revenues
+includes raw materials and costs related to design, implementation, delivery and maintenance of products and services. All materials
+and components we need can be purchased or manufactured by subcontractors. Usually the prices of electronic components do not fluctuate
+dramatically due to market competition and will not significantly affect our cost of revenues. However, specialized equipment and
+incentive chemical products may be directly influenced by metal and oil price fluctuations. Additionally, the prices of some imported
+accessories mandated by our customers can also affect our costs. Inventory reserve for changes in price level, impairment of inventory,
+slow moving inventory or other similar causes will also affect our cost. 
+
+Our cost of revenues increased from approximately
+ 3.2 million in the three months ended September 30, 2015 to approximately  6.7 million ($1.0 million) for the same period
+in 2016, an increase of approximately  3.5 million ($0.5 million), or 110.2% . This increase was mainly caused by higher
+revenue during the three months ended September 30, 2016 compared to the same period of 2015. 
+
+Gross Profit . Our gross profit increased
+to approximately  1.1 million ($0.2 million) for the three months ended September 30, 2016 from approximately  0.4 million
+for the same period in 2015. Our gross profit as a percentage of revenue increased to 14.0% for the three months ended September
+30, 2016 from 11.2% for the same period in 2015. This was mainly due to the increase of higher margin hardware sales during this
+period. 
+
+In 2015, there was a slow-down in the oilfield
+industry, thus customers negotiated a lower selling price which caused the margin percentage to be depressed. In 2016, the gross
+margin percentage increased to a normal amount. 
+
+In more detail: 
+
+Revenue from hardware and software to non-related
+parties increased by approximately  4.3 million mainly due to the increased orders of waste water treatment products and furnaces.
+The gross profit from hardware and software sales to non-related parties increased  0.8 million ($0.1 million) compared to
+the same period of last year. 
+
+Service
+revenue for the three months ended September 30, 2015 and 2016 consisted mainly of maintenance services, which were provided upon
+request by customers.  
+
+Operating Expenses  
+
+Selling and Distribution Expenses .  Selling and
+distribution expenses consist primarily of salaries and related expenditures of our sales and marketing organization, sales commissions,
+costs of our marketing programs including traveling charges, advertising and trade shows, and an allocation of our facilities,
+depreciation expenses and rental expense, as well as shipping charges. Selling expenses decreased approximately  62.5 thousand
+($9.4 thousand) for  the  three months ended September 30 , 2016 compared to the
+same period in 2015. This decrease was primarily due to a decrease in service fees and shipping charges, as we began working with
+qualified vendors  located closer to our customers. Selling expenses were 31.0% of total revenues in the three months ended
+September 30, 2015 and 13.5% of total revenues in the same period of 2016. 
+
+General and Administrative Expenses .
+General and administrative expenses consist primarily of costs in human resources, facilities costs, depreciation expenses, professional
+advisor fees, audit fees, stock based compensation expense and other miscellaneous expenses incurred in connection with general
+operations. General and administrative expenses increased by 20.5% or  0.8 million ($0.1 million), from approximately
+ 4.1 million in the  three months ended September 30 , 2015 to approximately
+ 4.9 million ($0.7 million) in the same period of 2016. The increase in general and administrative expenses was mainly
+due to an increase in share-based compensation.  General and administrative expenses were 62.8% of total revenues in the  three
+months ended September 30 , 2016 and 113.2% of total revenues in the same period of 2015, due to the increase in our
+total revenue. 
+
+Provision for doubtful accounts  .
+Provision for doubtful accounts is the estimated amount of bad debt that will arise from accounts receivables, other receivables
+and purchase advances. We recorded a provision for doubtful accounts of  2.1 million for the  three
+months ended September 30 , 2015 and  8.0 thousand ($1.2 thousand) for the same period in 2016. The decrease in provision
+of doubtful accounts was mainly caused by provision for purchase advances of  2.0 million in the three months ended September
+30, 2015. During the last few years, we made various down payments for some customized products with a non-refundable requirement.
+As those projects were canceled or postponed due to unfavorable industry conditions, management recorded a provision for these
+down payments while still trying to minimize the potential losses in the fiscal year of 2016. 
+
+Research and development ( R D )
+expenses .  Research and development expenses consist primarily of salaries and related expenditures for our research and
+development projects. Research and development expenses decreased from approximately  1.8 million for  three
+months ended September 30,  2015 to approximately  0.6 million ($0.1 million) for the same period of 2016. This decrease
+was primarily due to less research and development expense  spent on design of chemical products used for waste water treatment. 
+
+Net Income  
+
+Loss from operations  .
+ Loss from operations was approximately  5.5 million ($0.8 million) for the three months ended September 30, 2016, compared
+to a loss of  8.7 million for the same period of 2015. This decrease in loss from operations was primary due to an increase
+in gross profit, and a decrease in provision for doubtful accounts and research and development expenses.  
+
+Interest and other income (expense) .
+ Interest and other income was approximately  3.1 thousand ($0.5 thousand)
+for the three months ended September 30, 2016, compared to interest and other expense of  0.2 million for the same period of
+2015. The  0.2 million ($0.03 million) increase in interest and other income was primarily due to the increased other income
+and the decreased interest expense.  
+
+Benefit for income tax . Benefit
+for income tax was approximately  20.1 thousand ($3.0 thousand) for the three months ended September 30, 2016, compared to
+ 16.5 thousand for the three months ended September 30, 2015. This increase in benefit for income tax was mainly due to an
+increase in income tax benefit of Nanjing Recon as a result of increased tax rebate for the three months ended September 30, 2016
+compared to the same period of 2015. 
+
+Net loss .  As
+a result of the factors described above, net loss was approximately  5.5 million ($0.8 million) for the three months ended
+September 30, 2016, a decrease of approximately  3.3 million ($0.5 million) from net loss of  8.8 million for the same
+period of 2015.  
+
+Liquidity and Capital Resources  
+
+As of September 30, 2016, we had cash in
+the amount of approximately  554.6 thousand ($83.2 thousand). As of June 30, 2016, we had cash in the amount of approximately
+ 1.8 million. 
+
+Indebtedness . As of September 30,
+2016, except for approximately  12.5 million ($1.9 million) of short-term borrowings from related parties, we did not have
+any finance leases or purchase commitments, guarantees or other material contingent liabilities. 
+
+Holding Company Structure . We are
+a holding company with no operations of our own. All of our operations are conducted through our Domestic Companies. As a result,
+our ability to pay dividends and to finance any debt that we may incur is dependent upon the receipt of dividends and other distributions
+from the Domestic Companies. In addition, Chinese legal restrictions permit payment of dividends to us by our Domestic Companies
+only out of their respective accumulated net profits, if any, determined in accordance with Chinese accounting standards and regulations.
+Under Chinese law, our Domestic Companies are required to set aside a portion (at least 10%) of their after-tax net income (after
+discharging all cumulated loss), if any, each year for compulsory statutory reserve until the amount of the reserve reaches 50%
+of our Domestic Companies  registered capital. These funds may be distributed to shareholders at the time of each Domestic
+Company s wind up. 
+
+Off-Balance Sheet Arrangements .
+We have not entered into any financial guarantees or other commitments to guarantee the payment obligations of any third parties.
+In addition, we have not entered into any derivative contracts that are indexed to our own shares and classified as shareholders 
+equity, or that are not reflected in our financial statements. Furthermore, we do not have any retained or contingent interest
+in assets transferred to an unconsolidated entity that serves as credit, liquidity or market risk support to such entity. Moreover,
+we do not have any variable interest in an unconsolidated entity that provides financing, liquidity, market risk or credit support
+to us or engages in leasing, hedging or research and development services with us. 
+
+Capital Resources . To date we have
+financed our operations primarily through cash flows from operations and financing activities. As of September 30, 2016, we had
+total assets of approximately  76.4 million ($11.4 million), which includes cash of approximately  0.6 million ($0.08 million),
+net accounts receivable due from third parties of approximately  37.3 million ($5.6 million), working capital of approximately
+ 41.2 million ($6.2 million). Shareholders  equity amounted to approximately  37.9 million ($5.7 million). 
+
+Cash from Operating Activities .
+Net cash used in operating activities was approximately  0.3 million ($0.05 million) for the three months ended September 30,
+2016. This was a decrease of approximately  0.7 million ($0.1 million) compared to net cash used in operating activities of
+approximately  1.0 million for the three months ended September 30, 2015. The decrease in net cash used in operating activities
+for the three months ended September 30, 2016 was primarily attributable to collections of notes receivable of  1.6 million
+($0.2 million), collections from trade accounts receivable due from third parties of  1.0 million ($0.2 million), collections
+of other receivable due from third parties of  1.9 million ($0.3 million) and an increase in trade accounts payable due from
+third parties of  1.7 million ($0.3 million), partly offset by payments for advances due from third parties of  2.9 million
+($0.4 million). 
+
+Cash from Investing Activities .
+Net cash provided by investing activities was approximately  22.3 thousand ($3.3 thousand) for the three months ended September
+30, 2016, which was an increase in cash provided by investing activities of approximately  0.5 million compared to the same
+period in 2015, which increase is due to a decrease in the Company s purchase of additional property and equipment and an
+increase in proceeds from disposal of equipment. 
+
+Cash from Financing
+Activities . Net cash used in financing activities amounted to  1.0 million ($0.1 million) for the three months ended
+September 30, 2016, as compared to net cash used in financing activities of $7.1 million for the same period in 2015. During
+the three months ended September 30, 2016, we repaid  5.3 million ($0.8 million) in short-term borrowings to two related
+parties and repaid  0.5 million ($0.08 million) in  short-term borrowings to one third-party, and we received
+ 4.8 million ($0.7 million) from two related parties. 
+
+Working Capital .  Total working
+capital as of September 30, 2016 amounted to approximately  41.2 million ($6.2 million), compared to approximately  44.5
+million as of June 30, 2016. Total current assets as of September 30, 2016 amounted to approximately  71.4 million ($10.7 million),
+a decrease of approximately  2.9 million ($0.4 million) compared to approximately  74.3 million at June 30, 2016. The decrease
+in total current assets at September 30, 2016 compared to June 30, 2016 was mainly due to decreases in cash, notes receivable and
+other receivables, partially offset by an increase in purchase advance. 
+
+Current liabilities amounted to approximately
+ 30.3 million ($4.5 million) at September 30, 2016, in comparison to approximately  29.9 million at June 30, 2016. This
+increase of liabilities was attributable mainly to an increase in trade accounts payable, partially offset by a decrease in short-term
+borrowings-third parties and short-term borrowings-related parties. 
+
+The decrease in working capital of approximately
+ 3.3 million helped to support the loss from operation of approximately  5.4 million. 
+
+Capital Needs . With the uncertainty
+of the current market, our management believes it is necessary to enhance collection of outstanding accounts receivable and other
+receivables, and to be cautious on operational decisions and project selection. Our management believes that our current operations
+can satisfy our daily working capital needs. We may also raise capital through public offerings or private placements of our securities
+to finance our development of our business and to consummate any merger and acquisition, if necessary. 
+
+Item 3.    Quantitative and Qualitative
+Disclosures about Market Risk.  
+
+Not applicable. 
+
+Item 4.    Controls and Procedures.  
+
+Disclosure Controls
+and Procedures  
+
+As of September 30,
+2016, the company carried out an evaluation, under the supervision of and with the participation of management, including our Company s
+chief executive officer and chief financial officer, of the effectiveness of the design and operation of our Company s disclosure
+controls and procedures under the 2013 COSO framework. Because we do not currently have enough full-time employees with experience
+with U.S. generally accepted accounting principles, the chief executive officer and chief financial officer concluded that
+our Company s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange
+Act of 1934) were ineffective in timely alerting them to information required to be included in the Company s periodic Securities
+and Exchange Commission filings. 
+
+Changes in Internal
+Control over Financial Reporting  
+
+Management continues
+to focus on internal control over financial reporting. As of September 30, 2016, the Company intends to further implement the following
+remedial initiatives 
+
+Improve the design and documentation related to multiple
+levels of review over financial statements included in our SEC filings; 
+
+Expand the design and assessment test work over the
+monitoring function of entity level controls; 
+
+Enhance documentation retention policies over test
+work related to continuous management assessments of internal control effectiveness; and 
+
+Expand documentation practices and policies related
+to various key controls to provide support and audit trails for both internal management assessment as well as external auditor
+testing. 
+
+There were no changes
+ in the Company s internal control over financial reporting (as defined in Rule 13a-15(f) of the Securities Exchange
+Act of 1934) during the three months ended September 30, 2016 that have materially affected, or are reasonably likely to materially
+affect, the Company s internal control over financial reporting, except as disclosed above. 
+
+Part II Other Information 
+
+Item 1.    Legal Proceedings.  
+
+None. 
+
+Item 1A.    Risk Factors.  
+
+Not applicable. 
+
+Item 2.    Unregistered Sales of
+Equity Securities and Use of Proceeds.  
+
+(a)  
+      None   
+
+(b)  
+      None   
+
+(c)  
+      None   
+
+Item 3.    Defaults upon Senior
+Securities.  
+
+None. 
+
+Item 4.    Mine Safety Disclosures.  
+
+Not applicable. 
+
+Item 5.    Other Information.  
+
+None. 
+
+Item 6.    Exhibits.  
+
+The following exhibits are filed herewith: 
+
+Exhibit  
+          Number   
+
+Document    
+
+3.1  
+       
+      Amended and Restated Articles of Association of the Registrant    (1)    
+
+3.2  
+       
+      Amended and Restated Memorandum of Association of the Registrant    (1)    
+
+4.1  
+       
+      Specimen Share Certificate    (1)    
+
+10.1  
+       
+      Translation of Exclusive Technical Consulting Service Agreement between Recon Technology (Jining) Co., Ltd. and Beijing BHD Petroleum Technology Co., Ltd.    (1)    
+
+10.2  
+       
+      Translation of Power of Attorney for rights of Chen Guangqiang in Beijing BHD Petroleum Technology Co., Ltd.    (1)    
+
+10.3  
+       
+      Translation of Power of Attorney for rights of Yin Shenping in Beijing BHD Petroleum Technology Co., Ltd.    (1)    
+
+10.4  
+       
+      Translation of Power of Attorney for rights of Li Hongqi in Beijing BHD Petroleum Technology Co., Ltd.    (1)    
+
+10.5  
+       
+      Translation of Exclusive Equity Interest Purchase Agreement between Recon Technology (Jining) Co. Ltd., Chen Guangqiang and Beijing BHD Petroleum Technology Co., Ltd.    (1)    
+
+10.6  
+       
+      Translation of Exclusive Equity Interest Purchase Agreement between Recon Technology (Jining) Co. Ltd., Yin Shenping and Beijing BHD Petroleum Technology Co., Ltd.    (1)    
+
+10.7  
+       
+      Translation of Exclusive Equity Interest Purchase Agreement between Recon Technology (Jining) Co. Ltd., Li Hongqi and Beijing BHD Petroleum Technology Co., Ltd.    (1)    
+
+10.8  
+       
+      Translation of Equity Interest Pledge Agreement between Recon Technology (Jining) Co., Ltd., Chen Guangqiang and Beijing BHD Petroleum Technology Co., Ltd.    (1)    
+
+10.9  
+       
+      Translation of Equity Interest Pledge Agreement between Recon Technology (Jining) Co., Ltd., Yin Shenping and Beijing BHD Petroleum Technology Co., Ltd.    (1)    
+
+10.10  
+       
+      Translation of Equity Interest Pledge Agreement between Recon Technology (Jining) Co., Ltd., Li Hongqi and Beijing BHD Petroleum Technology Co., Ltd.    (1)    
+
+10.11  
+       
+      Translation of Exclusive Technical Consulting Service Agreement between Recon Technology (Jining) Co., Ltd. and Jining ENI Energy Technology Co., Ltd.    (1)    
+
+10.12  
+       
+      Translation of Power of Attorney for rights of Chen Guangqiang in Jining ENI Energy Technology Co., Ltd.    (1)    
+
+10.13  
+       
+      Translation of Power of Attorney for rights of Yin Shenping in Jining ENI Energy Technology Co., Ltd.    (1)    
+
+10.14  
+       
+      Translation of Power of Attorney for rights of Li Hongqi in Jining ENI Energy Technology Co., Ltd.    (1)    
+
+10.15  
+       
+      Translation of Exclusive Equity Interest Purchase Agreement between Recon Technology (Jining) Co. Ltd., Chen Guangqiang and Jining ENI Energy Technology Co., Ltd.    (1)    
+
+10.16  
+       
+      Translation of Exclusive Equity Interest Purchase Agreement between Recon Technology (Jining) Co. Ltd., Yin Shenping and Jining ENI Energy Technology Co., Ltd.    (1)    
+
+10.17  
+       
+      Translation of Exclusive Equity Interest Purchase Agreement between Recon Technology (Jining) Co. Ltd., Li Hongqi and Jining ENI Energy Technology Co., Ltd.    (1)    
+
+10.18  
+       
+      Translation of Equity Interest Pledge Agreement between Recon Technology (Jining) Co., Ltd., Chen Guangqiang and Jining ENI Energy Technology Co., Ltd.    (1)    
+
+10.19  
+       
+      Translation of Equity Interest Pledge Agreement between Recon Technology (Jining) Co., Ltd., Yin Shenping and Jining ENI Energy Technology Co., Ltd.    (1)    
+
+10.20  
+       
+      Translation of Equity Interest Pledge Agreement between Recon Technology (Jining) Co., Ltd., Li Hongqi and Jining ENI Energy Technology Co., Ltd.    (1)    
+
+10.21  
+       
+      Translation of Exclusive Technical Consulting Service Agreement between Recon Technology (Jining) Co., Ltd. and Nanjing Recon Technology Co., Ltd.    (1)    
+
+10.22  
+       
+      Translation of Power of Attorney for rights of Chen Guangqiang in Nanjing Recon Technology Co., Ltd.    (1)    
+
+10.23  
+       
+      Translation of Power of Attorney for rights of Yin Shenping in Nanjing Recon Technology Co., Ltd.    (1)    
+
+10.24  
+       
+      Translation of Power of Attorney for rights of Li Hongqi in Nanjing Recon Technology Co., Ltd.    (1)    
+
+10.25  
+       
+      Translation of Exclusive Equity Interest Purchase Agreement between Recon Technology (Jining) Co. Ltd., Chen Guangqiang and Nanjing Recon Technology Co., Ltd.    (1)    
+
+10.26  
+       
+      Translation of Exclusive Equity Interest Purchase Agreement between Recon Technology (Jining) Co. Ltd., Yin Shenping and Nanjing Recon Technology Co., Ltd.    (1)    
+
+10.27  
+       
+      Translation of Exclusive Equity Interest Purchase Agreement between Recon Technology (Jining) Co. Ltd., Li Hongqi and Nanjing Recon Technology Co., Ltd.    (1)    
+
+10.28  
+       
+      Translation of Equity Interest Pledge Agreement between Recon Technology (Jining) Co., Ltd., Chen Guangqiang and Nanjing Recon Technology Co., Ltd.    (1)    
+
+10.29  
+       
+      Translation of Equity Interest Pledge Agreement between Recon Technology (Jining) Co., Ltd., Yin Shenping and Nanjing Recon Technology Co., Ltd.    (1)    
+
+10.30  
+       
+      Translation of Equity Interest Pledge Agreement between Recon Technology (Jining) Co., Ltd., Li Hongqi and Nanjing Recon Technology Co., Ltd.    (1)    
+
+10.33  
+       
+      Employment Agreement between Recon Technology (Jining) Co., Ltd. and Mr. Yin Shenping    (1)    
+
+10.34  
+       
+      Employment Agreement between Recon Technology (Jining) Co., Ltd. and Mr. Chen Guangqiang    (1)    
+
+101.INS  
+       
+      XBRL Instance Document    (3)    
+
+101.SCH  
+       
+      XBRL Taxonomy Extension Schema Document    (3)    
+
+101.CAL  
+       
+      XBRL Taxonomy Extension Calculation Linkbase Document    (3)    
+
+101.LAB  
+       
+      XBRL Taxonomy Extension Label Linkbase Document    (3)    
+
+101.PRE  
+       
+      XBRL Taxonomy Extension Presentation Linkbase Document    (3)    
+
+101.DEF  
+       
+      XBRL Taxonomy Extension Definition Linkbase Document    (3)    
+
+SIGNATURES  
+
+In accordance with the requirements of
+the Exchange Act, the Company caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+RECON
+    TECHNOLOGY, LTD    
+
+November 14, 2016  
+      By:  
+       
+      /s/ Liu Jia   
+
+Liu Jia   
+
+Chief Financial
+    Officer   
+
+(Principal Financial
+    and Accounting Officer)   
+
+SIGNATURES  
+
+In accordance with the requirements of
+the Exchange Act, the Company caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+RECON
+    TECHNOLOGY, LTD    
+
+November 14, 2016  
+      By:  
+       
+      /s/ Yin Shenping   
+
+Yin Shen ping   
+
+Chief Executive
+    Officer   
+
+RECON TECHNOLOGY, LTD  
+
+INDEX TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS    
+     PAGE  
+
+Unaudited Condensed Consolidated Balance Sheets as of June 30, 2016 and September 30, 2016     
+     F-2  
+
+Unaudited Condensed Consolidated Statements of Operations and Comprehensive Loss for the three months ended September 30, 2015 and 2016      
+     F-3  
+
+Unaudited Condensed Consolidated Statements of Cash Flows for the three months ended September 30, 2015 and 2016     
+     F-4  
+
+Notes to the Unaudited Condensed Consolidated Financial Statements     
+     F-5  
+
+RECON TECHNOLOGY,
+LTD  
+
+   Condensed
+Consolidated Balance Sheets   
+
+  (unAUDITED)  
+
+The
+accompanying notes are an integral part of these unaudited condensed consolidated financial statements 
+
+RECON TECHNOLOGY,
+LTD  
+
+   CONDENSED
+Consolidated Statements of operations and Comprehensive LOSS   
+
+ (UNAUDITED) 
+
+The
+accompanying notes are an integral part of these unaudited condensed consolidated financial statements 
+
+RECON TECHNOLOGY,
+LTD  
+
+   CONDENSED
+Consolidated Statements of Cash flows   
+
+  (UNAUDITED)  
+
+The
+accompanying notes are an integral part of these unaudited condensed consolidated financial statements 
+
+RECON TECHNOLOGY, LTD     Notes to the unaudited condensed consolidated financial statements   
+
+NOTE
+1.  
+ORGANIZATION AND NATURE OF OPERATIONS 
+
+Organization      Recon
+Technology, Ltd (the  Company ) was incorporated under the laws of the Cayman Islands on August 21, 2007 by Messrs.
+Yin Shenping, Chen Guangqiang and Li Hongqi (the  Founders ) as a limited liability company. The Company provides specialized
+oilfield equipment, automation systems, tools, chemicals and field services to petroleum companies mainly in the People s
+Republic of China (the  PRC ).  
+
+The Company, along with its wholly-owned subsidiaries, Recon
+Technology Co., Limited ( Recon HK ), Jining Recon Technology Ltd. ( Recon JN ), Recon Investment Ltd.
+( Recon IN ) and Recon Hengda Technology (Beijing) Co., Ltd. ( Recon BJ ), conducts its business through
+the following PRC legal entities ( Domestic Companies ) that are consolidated as variable interest entities ( VIEs )
+and operate in the Chinese oilfield equipment   service industry: 
+
+1.   Beijing BHD Petroleum Technology Co., Ltd. ( BHD ),   
+
+2.  Nanjing Recon Technology Co., Ltd. ( Nanjing Recon ).   
+
+The Company has signed Exclusive Technical Consulting Service
+Agreements with each of the Domestic Companies, which are our VIEs and Equity Interest Pledge Agreements and Exclusive Equity Interest
+Purchase Agreements with their shareholders. Through these contractual arrangements, the Company has the ability to substantially
+influence each of the Domestic Companies  daily operations and financial affairs, appoint their senior executives and approve
+all matters requiring shareholder approval. As a result of these contractual arrangements, which enable the Company to control
+the Domestic Companies, the Company is considered as the primary beneficiary of each Domestic Company. Thus, the Company is able
+to absorb 90% of net interest or 100% of net loss of those VIEs. 
+
+On December 17, 2015, Huang Hua BHD Petroleum Equipment Manufacturing
+Co. LTD, a fully owned subsidiary established by BHD was organized under the laws of the PRC. 
+
+Nature
+of Operations      The Company engaged in (1) providing
+equipment, tools and other hardware related to oilfield production and management, including simple installations in connection
+with some projects; (2) service to improve production and efficiency of exploited oil wells, and (3) developing and selling its
+own specialized industrial automation control and information solutions. The products and services provided by the Company include:  
+
+NOTE 2. LIQUIDITY   
+
+As reflected in the Company s unaudited condensed consolidated
+financial statements, the Company had recurring net losses for the three months ended September 30, 2015 and 2016.  In assessing its liquidity, management monitors and analyzes the Company s cash on-hand and its ability
+to generate sufficient revenue sources in the future to support its operating and capital expenditure commitments. The Company
+plans to fund its continuing operations through identifying new prospective joint venture and strategic alliance opportunities
+for new revenue sources, financial supports by major shareholders and reducing costs to improve profitability and replenish working
+capital. Management believes that the foregoing measures collectively will provide sufficient liquidity for the Company to meet
+its future liquidity and capital obligations. 
+
+NOTE 3. SIGNIFICANT ACCOUNTING POLICIES 
+
+Basis
+of presentation -     The accompanying unaudited condensed
+consolidated financial statements have been prepared in conformity with accounting principles generally accepted in the United
+States of America for interim financial information pursuant to the rules of the SEC and have been consistently applied. In the
+opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation have
+been included. These financial statements should be read in conjunction with the audited financial statements and notes thereto
+included in the Company s Form 10-K for the fiscal year ended June 30, 2016. The results of operations for the interim periods
+presented may not be indicative of the operating results to be expected for the Company s fiscal year ending June 30, 2017.  
+
+RECON TECHNOLOGY, LTD     Notes to the unaudited condensed consolidated financial statements   
+
+Principles
+of Consolidation -     The unaudited condensed consolidated
+financial statements include the accounts of the Company, all the subsidiaries and VIEs of the Company. All transactions and balances
+between the Company and its subsidiaries and VIEs have been eliminated upon consolidation.  
+
+Variable
+Interest Entities      -    A
+VIE is an entity that either (i) has insufficient equity to permit the entity to finance its activities without additional subordinated
+financial support or (ii) has equity investors who lack the characteristics of a controlling financial interest. A VIE is consolidated
+by its primary beneficiary. The primary beneficiary has both the power to direct the activities that most significantly impact
+the entity s economic performance and the obligation to absorb losses or the right to receive benefits from the entity that
+could potentially be significant to the VIE. The Company performs ongoing assessments to determine whether an entity should be
+considered a VIE and whether an entity previously identified as a VIE continues to be a VIE and whether the Company continues to
+be the primary beneficiary.  
+
+Assets recognized as a result of consolidating VIEs do not represent
+additional assets that could be used to satisfy claims against the Company s general assets. Conversely, liabilities recognized
+as a result of consolidating these VIEs do not represent additional claims on the Company s general assets; rather, they
+represent claims against the specific assets of the consolidated VIEs. 
+
+Currency
+Translation       -   The
+Company s functional currency is the Chinese Yuan ( RMB ) and the accompanying unaudited condensed consolidated
+financial statements have been expressed in Chinese Yuan. The unaudited condensed consolidated financial statements as of and for
+the three months ended September 30, 2016 have been translated into United States dollars ( U.S. dollars ) solely for
+the convenience of the readers. The translation has been made at the rate of  6.6702 = US$1.00, the approximate exchange rate
+prevailing on September 30, 2016. These translated U.S. dollar amounts should not be construed as representing Chinese Yuan amounts
+or that the Chinese Yuan amounts have been or could be converted into U.S. dollars.  
+
+Estimates
+and assumptions       -   The
+preparation of the unaudited condensed consolidated financial statements in conformity with U.S. GAAP requires that management
+make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and
+liabilities at the dates of the financial statements and the reported amounts of revenues and expenses during the reporting periods.
+Estimates are adjusted to reflect actual experience when necessary. Significant accounting estimates reflected in the Company s
+unaudited condensed consolidated financial statements include revenue recognition, allowance for doubtful accounts, allowance for
+inventory, the useful lives of property and equipment and the fair value of share- based payments. Since the use of estimates is
+an integral component of the financial reporting process, actual results could differ from those estimates.  
+
+Fair
+Values of Financial Instruments     -   The
+US GAAP accounting standards regarding fair value of financial instruments and related fair value measurements define fair value,
+establish a three-level valuation hierarchy that requires an entity to maximize the use of observable inputs and minimize the use
+of unobservable inputs when measuring fair value.  
+
+The three levels of inputs are defined
+as follows: 
+
+Level 1 inputs to the valuation
+methodology are quoted prices (unadjusted) for identical assets or liabilities in active markets. 
+
+Level 2 inputs to the valuation
+methodology include quoted prices for similar assets and liabilities in active markets, and inputs that are observable for the
+asset or liability, either directly or indirectly, for substantially the full term of the financial instrument.  
+
+Level 3 inputs to
+the valuation methodology are unobservable. 
+
+RECON TECHNOLOGY, LTD     Notes to the unaudited condensed consolidated financial statements   
+
+The carrying amounts reported in the unaudited condensed consolidated
+balance sheets for trade accounts receivable, other receivables, purchase advances, trade accounts payable, accrued liabilities,
+advances from customers, short-term bank loan and short-term borrowings approximate fair value because of the immediate or short-term
+maturity of these financial instruments. It was impracticable to estimate the fair value of long-term other receivables, because
+this is due from the Company s former VIE and there are no comparable markets for receivables with similar terms. 
+
+Trade
+Accounts and Other Receivables     -   Accounts
+receivable are carried at original invoiced amount less a provision for any potential uncollectible amounts. Accounts are considered
+past due when the related receivables are more than a year old. Provision is made against trade accounts and other receivables
+to the extent they are considered to be doubtful. Accounts are written off after extensive efforts at collection. Other receivables
+arise from transactions with non-trade customers.  
+
+Purchase
+Advances     -   Purchase
+advances are the amounts prepaid to suppliers for purchases of inventory and are recognized as inventory when the final amount
+is paid to the suppliers and the inventory is delivered.  
+
+Inventories       -   Inventories
+are stated at the lower of cost or market value, on a first-in-first-out basis. The methods of determining inventory costs are
+used consistently from year to year. Allowance for inventory obsolescence is provided when the market value of certain inventory
+items is lower than the cost.  
+
+Property
+and Equipment       -   Property
+and equipment are stated at cost. Depreciation on motor vehicles and office equipment is computed using the straight-line method
+over the estimated useful lives of the assets, which range from two to ten years. Leasehold improvements are amortized over the
+shorter of the lease term or the estimated useful life of the assets.  
+
+Items   
+       Useful life    
+ 
+      Motor vehicles  
+      5-10 years   
+ 
+      Office equipment  
+      2-5 years   
+ 
+      Leasehold improvement  
+      5 years   
+ 
+      Production equipment  
+      10 years   
+
+Long-Lived
+Assets     -   The
+Company applies the ASC Topic 360  Property, plant and equipment.  ASC Topic 360 requires that long-lived assets, such
+as property and equipment be reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount
+of an asset or asset group may not be recoverable. Recoverability of assets to be held and used is measured by a comparison of
+the carrying amount of an asset to estimated undiscounted future cash flows expected to be generated by the asset. If the carrying
+amount of an asset exceeds its estimated undiscounted future cash flows, an impairment charge is recognized for the amount by which
+the carrying amount of the asset exceeds the fair value of the asset. Fair value is determined based on the estimated discounted
+future cash flows expected to be generated by the asset. There were no impairments at June 30, 2016 and September 30, 2016.  
+
+Revenue
+Recognition     -   The
+Company recognizes revenue when the following four criteria are met: (1) persuasive evidence of an arrangement, (2) delivery has
+occurred or services have been provided, (3) the sales price is fixed or determinable, and (4) collectability is reasonably assured.
+Delivery does not occur until products have been shipped or services have been provided to the customers and the customers have
+signed a completion and acceptance report, risk of loss has transferred to the customers, customers  acceptance provisions
+have lapsed, or the Company has objective evidence that the criteria specified in customers  acceptance provisions have been
+satisfied. The sales price is not considered to be fixed or determinable until all contingencies related to the sale have been
+resolved.  
+
+Hardware and software: 
+
+ Revenue from hardware and software sales is generally recognized
+when the product with the embedded software system is shipped to the customer and when there are no unfulfilled company obligations
+that affect the customer s final acceptance of the arrangement. Revenue from software is recognized according to project
+contracts. Usually this is short term. Revenue is not recognized until completion of the contracts and receipt of acceptance. 
+
+RECON TECHNOLOGY, LTD     Notes to the unaudited condensed consolidated financial statements   
+
+Service: 
+
+ The Company provides services to improve software function and
+system operation on separated fixed-price contracts. Revenue is recognized on the completed contract method when acceptance is
+determined by a completion report signed by the customer. 
+
+Share-Based
+Compensation -     The Company accounts for share-based
+compensation in accordance with ASC Topic 718, Share-Based Payment. Under the fair value recognition provisions of this topic,
+share-based compensation cost is measured at the grant date based on the fair value of the award and is recognized as expense
+with graded vesting on a straight line basis over the requisite service period for the entire award. The Company has elected
+to recognize compensation expenses using the Binomial Lattice valuation model estimated at the grant date based on the award s
+fair value.  
+
+Income
+Taxes     - Provisions for income taxes are based on taxes
+payable or refundable for the current year and deferred taxes. Deferred taxes are provided on differences between the tax bases
+of assets and liabilities and their reported amounts in the financial statements, and tax carry forwards. Deferred tax assets and
+liabilities are included in the financial statements at currently enacted income tax rates applicable to the period in which the
+deferred tax assets and liabilities are expected to be realized or settled. As changes in tax laws or rates are enacted, deferred
+tax assets and liabilities are adjusted through the provision for income taxes. The Company has not been subject to any income
+taxes in the United States or the Cayman Islands.  
+
+The Company may recognize the tax benefit from an uncertain
+tax position only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities,
+based on the technical merits of the position. The tax benefits recognized in the financial statements from such a position would
+be measured based on the largest benefit that has a greater than fifty percent likelihood of being realized upon ultimate settlement. 
+
+Loss
+per Share       -   Basic
+Earnings/Loss Per Share     ( EPS )     is
+computed by dividing net loss by the weighted average number of ordinary shares outstanding. Diluted EPS are computed by dividing
+net loss by the weighted-average number of ordinary shares and dilutive potential ordinary share equivalents outstanding.  
+
+Potentially dilutive ordinary shares consist of ordinary shares
+issuable upon the conversion of ordinary stock options, restricted shares and warrants (using the treasury stock method). The effect
+from options, restricted shares and warrants would have been anti-dilutive due to the fact that we incurred a net loss during the
+three months ended September 30, 2015 and 2016. 
+
+Recently Issued Accounting Pronouncements   
+
+In October 2016, the FASB has issued  Accounting
+Standards Update  (ASU) No. 2016-17, Consolidation (Topic 810): Interest Held through Related Parties That Are under Common
+Control, to provide guidance on the evaluation of whether a reporting entity is the primary beneficiary of a VIE by amending how
+a reporting entity, that is a single decision maker of a VIE, treats indirect interests in that entity held through related parties
+that are under common control. The amendments are effective for public business entities for fiscal years beginning after December
+15, 2016, including interim periods within those fiscal years. For all other entities, the amendments are effective for fiscal
+years beginning after December 15, 2016, and interim periods within fiscal years beginning after December 15, 2017. Early adoption
+is permitted, including adoption in an interim period. The Company is currently evaluating the impact of this new standard on its
+unaudited condensed consolidated financial statements and related disclosures. 
+
+NOTE 4. TRADE ACCOUNTS RECEIVABLE, NET 
+
+Accounts receivable consisted of the following: 
+
+RECON TECHNOLOGY, LTD     Notes to the unaudited condensed consolidated financial statements   
+
+*The receivable from Yabei Nuoda was recognized primarily from
+the sale of automation system and services based on written contracts. Based on the repayment agreement signed on September 2,
+2015, the outstanding balance was to be collected in three installments during the period from September, 2015 to December, 2017,
+with each installment of  2,467,036 ($369,858). During the year ended June 30, 2016, the Company received the first payment
+on time as scheduled.     
+
+Provision for accounts receivables due from third party was
+ 32,038 for the three months ended September 30, 2015 and recovery of accounts receivables due from third party was  205,944
+($30,875) for the three months ended September 30, 2016, respectively.   
+During the three months ended September 30, 2016, no accounts receivable write-off against allowance for doubtful accounts, the
+recovery was due to the collections of accounts receivable. 
+
+NOTE 5. OTHER RECEIVABLES, NET 
+
+Other receivables consisted of the following: 
+
+Provision for other receivables was  19,000 and  17,648
+($2,646) for the three months ended September 30, 2015 and 2016, respectively. 
+
+(A)    The remaining part of this loan will be repaid over four years with
+quarterly installments of  699,147, which is due by June 30, 2017. The Company has continued to receive the payments under
+the agreement.     
+
+(B)    Loans to third-parties are mainly used for short-term funding to
+support the Company s external business partners. These loans are due on demand bearing no interest.    
+
+(C)  Business advances to staffs represent advances for
+business travel and sundry expenses related to oilfield or on-site installation and inspection of products through customer approval
+and acceptance. 
+
+RECON TECHNOLOGY, LTD     Notes to the unaudited condensed consolidated financial statements   
+
+NOTE 6. PURCHASE ADVANCES 
+
+The Company purchased products and services from a third party
+and a related party during the normal course of business. Purchase advances consisted of the following: 
+
+Provision for purchase advances were  2,058,888 and  196,322
+($29,432) for the three months ended September 30, 2015 and 2016, respectively. The Company recorded allowance for these down payments
+and will continue to try to collect or get inventories delivered. These payments were advanced for certain customized equipment
+of the planned projects. As those projects were delayed or canceled or there is rare chance to be profitable, the Company decided
+to suspend those projects and recorded allowances related to advanced payments for those projects as the Company may not be able
+to receive those funds back. Management is still making efforts to collect partially or negotiate with venders for some other alternative
+solutions to minimize the Company s loss. 
+
+NOTE 7. INVENTORIES 
+
+Inventories consisted of the following: 
+
+Recovery of slow moving inventory was  123,332 for the three
+months ended September 30, 2015 and provision for slow moving inventory was  262,135 ($39,299) for the three months ended September
+30, 2016, respectively. 
+
+NOTE 8. PROPERTY AND EQUIPMENT, NET 
+
+Property and equipment consisted of the following: 
+
+RECON TECHNOLOGY, LTD     Notes to the unaudited condensed consolidated financial statements   
+
+Depreciation expense was  259,768 and  205,580 ($30,821)
+for the three months ended September 30, 2015 and 2016, respectively. 
+
+NOTE 9. OTHER PAYABLES 
+
+Other payables consisted of the following: 
+
+NOTE 10. TAXES PAYABLE 
+
+Taxes payable
+consisted of the following:  
+
+RECON TECHNOLOGY, LTD     Notes to the unaudited condensed consolidated financial statements   
+
+NOTE 11. SHORT-TERM BORROWINGS  
+
+Short-term borrowings from a third party were fully repaid in
+2016 without interest, due on August 15, 2016. 
+
+Short-term borrowings from related parties consisted of the
+following: 
+
+Interest expense for short-term borrowings due to related parties
+was  171,448 and  132,490 ($19,863) for the three months ended September 30, 2015 and 2016, respectively. 
+
+NOTE 12. SHAREHOLDERS  EQUITY 
+
+Stock offering   
+
+In June 2015, the Company entered into a securities purchase
+agreement with certain institutional investors for the sale of 297,197 ordinary shares in a registered direct offering (4,000 shares
+at an average of $1.64 on June 9, 2015; 288,105 shares at an average of $2.12 on June 10, 2015; 5,092 shares at an average of $2.00
+on June 11, 2015). The net cash proceeds received from the stock offering, after deducting  1,294,922 ($212,673) underwriter
+commission and other associated fees, were  2,392,027 (approximately $0.6 million). 
+
+During
+the year ended June 30, 2016, the Company offered 15,874 ordinary shares under the same purchase agreement from June 2015.
+The net cash proceeds received from the stock offering were  158,268 ($23,820) . During the three months ended
+September 30, 2016, the Company did not offer any ordinary shares under the purchase agreement.  
+
+Appropriated Retained Earnings  
+-  According to the Memorandum and Articles of Association, the Company
+is required to transfer a certain portion of its net profit, as determined under PRC accounting regulations, from current net income
+to the statutory reserve fund. In accordance with the PRC Company Law, companies are required to transfer 10% of their profit after
+tax, as determined in accordance with PRC accounting standards and regulations, to the statutory reserves until such reserves reach
+50% of the registered capital or paid-in capital of the companies. As of June 30, 2016 and September 30, 2016, the balance of total
+statutory reserves was  4,148,929 and  4,148,929 ($622,008), respectively . 
+
+NOTE 13. STOCK-BASED COMPENSATION 
+
+Stock-Based Awards Plan   
+
+2012
+Incentive Plan            The
+Company granted options to purchase 415,000 ordinary shares to its employees and non-employee director on March 26, 2012. The options
+have an excise price of $2.96, which was equal to the share price of the Company s ordinary shares at March 26, 2012, and
+will vest over a period of five years, with the first 20% vesting on March 26, 2013. The options expire ten years after the date
+of grant, on March 26, 2022. The Company recognizes compensation cost for awards with graded vesting on a straight-line basis over
+the requisite service period for the entire award. The grant date fair value of the options was  10.06 ($1.49) per share.  
+
+2015
+Incentive Plan        The Company granted options
+to purchase 400,000 ordinary shares to its employees and non-employee director on January 31, 2015. The options have an excise
+price of $1.65, which was equal to the share price of the Company s ordinary shares at January 31, 2015, and will vest equally
+over a period of three years, with one third vesting on January 31, 2016. The options expire ten years after the date of grant,
+on January 31, 2025.  
+
+RECON TECHNOLOGY, LTD     Notes to the unaudited condensed consolidated financial statements   
+
+The Company recognizes compensation cost for awards with graded vesting on a straight-line basis over
+the requisite service period for the entire award. The grant date fair value of the options was  10.13 ($1.65) per share. 
+
+The following is a summary of the stock options activity: 
+
+The following is a summary of the status of options outstanding
+and exercisable at September 30, 2016: 
+
+The Share-based compensation expense recorded
+for stock options granted were  509,528 and  543,102 ($81,422) for the three months ended September 30, 2015 and 2016,
+respectively. The total unrecognized share-based compensation expense for stock options as of September 30, 2016 was approximately
+ 2.3 million ($0.35 million), which is expected to be recognized over a weighted average period of approximately 1.21 years. 
+
+Restricted Shares to senior manager  
+
+As of September 30, 2016, the Company has
+granted restricted shares of common stock to senior management as follows: 
+
+On December 13, 2013, the Company granted
+95,181 restricted shares to Mr. Yin Shenping and 135,181 restricted shares to Mr. Chen Guangqiang at an aggregate value of  4,207,496
+($688,782), based on the stock closing price of $2.99 at December 13, 2013. These restricted shares will vest over three years
+with one third of the shares vesting every year from the grant date. The first one third was vested on December 13, 2014 and are
+now non-restricted. 
+
+On January 31, 2015, the Company granted
+150,000 restricted shares to Mr. Yin Shenping and 150,000 restricted shares to Mr. Chen Guangqiang at an aggregate value of  3,038,558($495,000),
+based on the stock closing price of $1.65 at January 31, 2015. These restricted shares will vest over three years with one third
+of the shares vesting every year from the grant date. 
+
+RECON TECHNOLOGY, LTD     Notes to the unaudited condensed consolidated financial statements   
+
+On October 18, 2015, the Company granted
+800,000 restricted shares to its employees and non-employee director as compensation cost for awards. The fair value of the restricted
+shares was $704,000 based on the closing stock price $0.88 at October 18, 2015. 
+
+On July 27, 2016, the Company granted 876,000
+restricted shares to its employees and non-employee director as compensation cost for awards. The fair value of the restricted
+shares was $963,600 based on the closing stock price $1.10 at July 27, 2016, and no shares were issued as of September 30, 2016. 
+
+The Share-based compensation expense recorded
+for restricted shares granted were  617,024 and  1,423,568 ($213,421) for the three months ended September 30, 2015 and
+2016, respectively. The total unrecognized share-based compensation expense for restricted shares granted as of September 30, 2016
+was approximately  11.0 million ($1.66 million), which is expected to be recognized over a weighted average period of approximately
+2.33 years. 
+
+Restricted Shares for service  
+
+For the three months ended September 30,
+2016, the Company has granted restricted shares of common stock to consultants as follows: 
+
+On July 27, 2016, the Company
+approved the grant of 250,000 restricted shares with a value of $275,000 to designees of an independent consulting firm as
+compensation for advisory services. Those restricted shares were officially issued on October 21,
+2016. 
+
+Following is a summary of the restricted
+stock granted: 
+
+NOTE 14. INCOME TAX 
+
+The Company is not subject to any income taxes in the United
+States or the Cayman Islands and had minimal operations in jurisdictions other than the PRC. BHD and Nanjing Recon are subject
+to PRC s income taxes as PRC domestic companies. The Company follows Implementing Rules for the Enterprise Income Tax Law
+( Implementing Rules ), which took effect on January 1, 2008 and unified the income tax rate for domestic-invested
+and foreign-invested enterprises at 25%. 
+
+Nanjing Recon was approved as a government-certified high  technology
+company on December 11, 2013 and is subject to a reduced income tax rate of 15% through December 11, 2016. Nanjing Recon reapplied
+for high-technology enterprise approval and has passed all relevant reviews. 
+
+As approved by the domestic tax authority in the PRC, BHD was
+recognized as a government-certified high technology company on November 25, 2009 and is subject to a reduced income tax rate of
+15% through November 25, 2018. 
+
+RECON TECHNOLOGY, LTD     Notes to the unaudited condensed consolidated financial statements   
+
+Loss before provision for income taxes consisted of:  
+
+Deferred tax asset is comprised of the following:    
+
+Deferred tax liability is comprised of the following: 
+
+The Company s tax benefit is comprised of the following: 
+
+RECON TECHNOLOGY, LTD     Notes to the unaudited condensed consolidated financial statements   
+
+NOTE 15. NON-CONTROLLING INTEREST 
+
+Non-controlling interest consisted of the following: 
+
+NOTE 16. CONCENTRATIONS 
+
+For the three months ended September 30, 2015 and 2016, the
+two largest customers, China National Petroleum Corporation ( CNPC ) and China Petroleum   Chemical Corporation
+Limited ( SINOPEC ), represented approximately 81.21% and 91.77% of the Company s total revenue, respectively. 
+
+For
+the three months ended September 30, 2015, four major suppliers accounted for 60% of the company s total purchases. 
+For the  three months ended September  30, 2016, two major suppliers
+accounted for 58% of the company s total purchases.    
+
+NOTE 17. COMMITMENTS AND CONTINGENCY  
+
+(a)    Office Leases    
+
+The Company leases three offices in Beijing
+(two for BHD; one for Recon-JN) and one office in Nanjing for Nanjing Recon. Future payments under such leases are as follows as
+of September 30, 2016: 
+
+(b) Contingency  
+
+The Labor Contract Law of the PRC requires employers to assure
+the liability of severance payments if employees are terminated and have been working for the employers for at least two years
+prior to January 1, 2008. The employers will be liable for one month of severance pay for each year of the service provided by
+the employees. As of September 30, 2016, the Company estimated its severance payments of approximately  1.7 million ($0.25
+million) which has not been reflected in its unaudited condensed consolidated financial statements, because management cannot predict
+what the actual payment, if any, will be in the future. 
+
+RECON TECHNOLOGY, LTD     Notes to the unaudited condensed consolidated financial statements   
+
+NOTE 18. RELATED PARTY TRANSACTIONS
+AND BALANCES 
+
+Purchases from related parties     purchases
+from related parties consisted of the following: 
+
+Leases
+from related parties     - The Company has various agreements
+for the lease of office space owned by the Founders and their family members. The terms of the agreement state that the Company
+will continue to lease the property at a monthly rent of  140,000 with annual rental expense at  1.68 million ($0.25 million).
+The one-year lease agreements between Nanjing Recon and Mr. Yin and his family member started from April 1, 2016. The one-year
+lease agreements between BHD and Mr. Chen Guangqiang and his family member started from January 1, 2016 and the annual lease between
+Recon BJ and Mr. Yin started from July 1, 2016.   
+
+Short-term
+borrowings from related parties       - The Company
+borrowed  12,941,848 and  12,515,253 ($1,876,288) from the Founders and their family members as of June 30, 2016 and September
+30, 2016, respectively. For the specific terms and interest rates of the borrowings, see Note 11.  
+
+Expenses paid by the owner on behalf of Recon -   One
+owner of Nanjing Recon, Mr. Yin and the major owner of BHD, Mr. Chen paid certain operating expenses for the Company. As of June
+30, 2016 and September 30, 2016,  3,144,263 and  2,889,437 ($433,185) was due to them, respectively. 
+
+NOTE
+19. Variable Interest Entities  
+
+The Company reports its VIEs  portion of unaudited condensed
+consolidated net income and stockholders  equity as non-controlling interests in the unaudited condensed consolidated financial
+statements. 
+
+RECON TECHNOLOGY, LTD     Notes to the unaudited condensed consolidated financial statements   
+
+Summary information regarding consolidated VIEs is as follows: 
+
+The financial performance of VIEs reported in the unaudited
+condensed consolidated statement of operations and comprehensive income for the three months ended September 30, 2016 includes
+revenues of  7,802,103 ($1,169,692), operating expenses of  3,106,810 ($465,773), and net loss of  2,013,555 ($301,872). 
+
+NOTE
+20. SUBSEQUENT EVENTS  
+
+On October 11, 2016, the Company borrowed  720,000 ($107,942)
+from one of its founders bearing an annual interest of 5.66%, due by October 11, 2017 to supplement the Company s working
+capital. 
+
+On November 1, 2016, the Company borrowed  1,420,000 ($212,887)
+from one of its founders bearing an annual interest of 5.66%, due by August 31, 2017 to supplement the Company s working
+capital. 
+
+On November 12, 2016, the Board approved to issue 330,000 restricted
+shares to Beijing San Li Hai Tian Technology Co. Ltd. ( BJSL ) for certain mold and software platform development
+services. The fair value of the restricted shares was $306,900 based on the closing stock price of $0.93 on November 11, 2016.  
+
+<EX-31.1>
+ 2
+ v452229_ex31-1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1   
+
+Certification of Principal Executive
+Officer  
+
+  Pursuant to Section 302 of the Sarbanes-Oxley
+Act of 2002  
+
+  and Securities and Exchange Commission
+Release 34-46427  
+
+I, Shenping Yin, certify that: 
+
+(1)         I
+have reviewed this Form 10-Q of Recon Technology, Ltd;  
+
+(2)         Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+the period covered by this report;   
+
+(3)         Based
+on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented
+in this report;  
+
+(4)         The
+registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+(a)         Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;  
+
+(b)         Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles;  
+
+(c)         Evaluated
+the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and  
+
+(d)         Disclosed
+in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most
+recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or
+is reasonably likely to materially affect, the registrant's internal control over financial reporting; and  
+
+(5)         The
+registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the
+equivalent functions):  
+
+(a)         All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information;
+and  
+
+(b)         Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal
+control over financial reporting.  
+
+Date: November 14, 2016  
+       /s/ Shenping Yin    
+
+Shenping Yin   
+
+Chief Executive Officer (Principal Executive Officer)   
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ v452229_ex31-2.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2   
+
+Certification of Principal Financial
+Officer  
+
+  Pursuant to Section 302 of the Sarbanes-Oxley
+Act of 2002  
+
+  and Securities and Exchange Commission
+Release 34-46427  
+
+I, Jia Liu, certify that: 
+
+(1)         I
+have reviewed this Form 10-Q of Recon Technology, Ltd;  
+
+(2)         Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+the period covered by this report;   
+
+(3)         Based
+on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented
+in this report;  
+
+(4)         The
+registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+(a)         Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;  
+
+(b)         Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles;  
+
+(c)         Evaluated
+the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and  
+
+(d)         Disclosed
+in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most
+recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or
+is reasonably likely to materially affect, the registrant's internal control over financial reporting; and  
+
+(5)         The
+registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the
+equivalent functions):  
+
+(a)         All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information;
+and  
+
+(b)         Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal
+control over financial reporting.  
+
+Date: November 14, 2016  
+       /s/ Jia Liu    
+
+Jia Liu   
+
+Chief Financial Officer (Principal Financial Officer)   
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ v452229_ex32-1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1   
+
+CERTIFICATION PURSUANT TO  
+
+  18 U.S.C. SECTION 1350,  
+
+  AS ADOPTED PURSUANT TO  
+
+  SECTION 906 OF THE SARBANES-OXLEY ACT
+OF 2002  
+
+In
+connection with this Form 10-Q report of Recon Technology, Ltd for the period ended September 30, 2016 as filed with the Securities
+and Exchange Commission on the date hereof and pursuant to 18 U.S.C. 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, I, Shenping Yin, certify that:   
+
+(1)         This
+report containing the financial statements fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange
+Act of 1934; and  
+
+(2)         The
+information contained in the this period report fairly presents, in all material respects, the financial condition and results
+of operations of Recon Technology, Ltd.  
+
+Date: November 14, 2016  
+       /s/ Shenping Yin    
+
+Shenping Yin   
+
+Chief Executive Officer (Principal Executive Officer)   
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ v452229_ex32-2.htm
+ EXHIBIT 32.2
+
+Exhibit 32.2   
+
+CERTIFICATION PURSUANT TO  
+
+  18 U.S.C. SECTION 1350,  
+
+  AS ADOPTED PURSUANT TO  
+
+  SECTION 906 OF THE SARBANES-OXLEY ACT
+OF 2002  
+
+In
+connection with this Form 10-Q report of Recon Technology, Ltd for the period ended September 30, 2016 as filed with the Securities
+and Exchange Commission on the date hereof and pursuant to 18 U.S.C. 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, I, Jia Liu, certify that:   
+
+(1)         This
+report containing the financial statements fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange
+Act of 1934; and  
+
+(2)         The
+information contained in the this period report fairly presents, in all material respects, the financial condition and results
+of operations of Recon Technology, Ltd.  
+
+Date: November 14, 2016  
+       /s/ Jia Liu    
+
+Jia Liu   
+
+Chief Financial Officer (Principal Financial Officer)   
+
+</EX-32.2>
+
+<EX-99.3>
+ 6
+ v452229_ex99-3.htm
+ EXHIBIT 99.3
+
+Exhibit 99.3  
+
+Recon Technology, Ltd. Reports First
+Quarter Fiscal Year 2017 Financial Results  
+
+BEIJING, Nov. 14, 2016 /PRNewswire/ -- 
+
+Recon Technology  (the  Company  or  Recon )
+ (NASDAQ: RCON) , ( Recon  or the  Company ), a leading independent oilfield services provider operating
+primarily in China, today reported its financial results for the first quarter of fiscal year 2017, which ended September
+30, 2016. 
+
+Q1 FY2017 Financial Highlights:    
+
+Newly launched Oilfield waste management business saw RMB1.9 million
+($0.3 million) in revenues, as compared to RMB0 in the same period of last year;     
+
+Operating loss was RMB5.5 million ($0.8 million) for the first quarter
+of FY2017, compared to a loss of RMB8.7 million for the same period last fiscal year;     
+
+Mr. Shenping Yin, Chairman and CEO of Recon stated,  We
+continued to develop and expand our new oilfield waste management business this quarter. We are pleased with these results so far
+in fiscal 2017. And we look forward to expanding more business sectors and potential markets in the following quarters.  
+
+Q1 FY2017 Financial Results  
+
+Revenues  
+
+Revenues for the three months ended September 30, 2016 were
+RMB7.8 million ($1.2 million), an increase of RMB4.2 million or 117.1% from RMB3.6 million for the three months ended September
+30, 2015. The overall increase in revenue was mainly caused by our increased hardware and software revenue. In particular, (a)
+revenue from automation products and embedded software increased slightly to RMB2.1 million; (b) revenues from equipment and accessories
+increased by RMB2.3 million, or 160.5%, to RMB3.8 million for the three months ended September 30, 2016, as compared to RMB1.5
+million for the same period of last fiscal year; and (c) as of first quarter of fiscal year 2017, the new oilfield waste water
+treatment products segment contributed RMB1.9 million revenue to our operations. 
+
+Gross Profit and Gross Margin   
+
+Cost of revenues increased from RMB3.2 million in the three
+months ended September 30, 2015 to RMB6.7 million ($1.0 million) for the same period in 2016, an increase of approximately RMB3.5
+million ($0.5 million), or 110.2%. 
+
+Gross profit increased to approximately RMB1.1 million ($0.2
+million) for the three months ended September 30, 2016 from approximately RMB0.4 million for the same period in 2015. Gross profit
+as a percentage of revenue increased to 14.0% for the three months ended September 30, 2016 from 11.2% for the same period in 2015. 
+
+Operating Loss and Operating Loss Margin   
+
+Selling expenses decreased approximately RMB62.5 thousand ($9.4
+thousand) for the three months ended September 30, 2016 compared to the same period in 2015. General and administrative expenses
+increased by 20.5% or RMB0.8 million ($0.1 million), from  RMB4.1 million in the three months ended September 30, 2015 to
+RMB4.9 million ($0.7 million) in the same period of 2016. Research and development expenses decreased from approximately RMB1.8
+million for three months ended September 30, 2015 to approximately RMB0.6 million ($0.1 million) for the same period of 2016. Total
+operating expenses decreased by RMB2.5 million, or 27.6%, to RMB6.6 million ($1.0 million) for the three months ended September
+30, 2016 from RMB9.08 million for the same period during last fiscal year. 
+
+Operating loss was approximately RMB5.5 million ($0.8 million)
+for the three months ended September 30, 2016, compared to a loss of RMB8.7 million for the same period of 2015. 
+
+Net Loss  
+
+Net loss and net loss attributable to ordinary shareholders
+for the three months ended September 30, 2016 was RMB5.5 million ($0.8 million), or RMB0.92 ($0.14) per diluted share, compared
+to RMB8.85 million, or RMB1.63 ($0.26) per diluted share, for the same period last fiscal year. 
+
+Financial Position  
+
+As of September 30, 2016, the Company had cash and cash equivalents
+of RMB0.6 million ($0.08 million), and short-term borrowings from related parties of RMB12.5 million ($1.9 million), compared to
+RMB3.9 million and RMB9.4 million, respectively, for the same period last fiscal year. Working capital as of September 30, 2016
+was RMB41.2 million ($6.2 million) as compared to RMB66.5 million at September 30, 2015. Net cash used in operating activities
+was RMB0.3 million ($0.05 million) for the three months ended September 30, 2016, compared to RMB1.0 million for the same period
+of last fiscal year. Net cash used in investing activities was RMB22.3 thousand ($3.3 thousand) for the three months ended September
+30, 2016, compared to RMB0.5 million for the same period of last fiscal year. Net cash used in financing activities was RMB1.0
+million ($0.1 million) for the three months ended September 30, 2016, compared to RMB7.1 million ($1.1 million) for the same period
+last fiscal year. 
+
+Recent Developments   
+
+As of the first quarter of fiscal year 2017, the Company has
+achieved remarkable achievement in its oilfield waste water treatment segment. In January 2016, the Company announced its cooperation
+with Qinghai Oilfield Company, signing an agreement to sell the oilfield RMB3.98 million of related products and services. For
+the three months period ended September 30, 2016, the Company has completed this agreement and continues to expand markets in the
+environmental protection industry, including oilfield water treatment and other industrial and sewage disposal projects. 
+
+The Company has also developed new clients China's top producing
+Changqing Oilfield, which is located in China's Xi'an Province. 
+
+About Recon   
+
+Recon Technology, Ltd. is China's first listed non-state
+owned oil and gas field service company on Nasdaq (RCON). Recon supplies China's largest oil exploration companies, Sinopec and
+CNPC, with advanced automated technologies, efficient gathering and transportation equipment and reservoir stimulation measure
+for increasing petroleum extraction levels, reducing impurities and lowering production costs. Through the years, RCON has taken
+leading positions on several segmented markets of the oil and gas filed service industry. RCON also has developed stable long-term
+cooperation relationship with its major clients, and its products and service are also well accepted by clients. For additional
+information please visit us at www.recon.cn.  
+
+Safe Harbor   
+
+This news release contains forward-looking statements as
+defined by the Private Securities Litigation Reform Act of 1995. Forward-looking statements include statements concerning plans,
+objectives, goals, strategies, future events or performance, and underlying assumptions and other statements that are other than
+statements of historical facts. These statements are subject to uncertainties and risks including, but not limited to, product
+and service demand and acceptance, changes in technology, economic conditions, the impact of competition and pricing, government
+regulation, and other risks contained in reports filed by the company with the Securities and Exchange Commission. All such forward-looking
+statements, whether written or oral, and whether made by or on behalf of the company, are expressly qualified by the cautionary
+statements and any other cautionary statements which may accompany the forward-looking statements. In addition, the company disclaims
+any obligation to update any forward-looking statements to reflect events or circumstances after the date hereof.  
+
+Company Contact 
+
+ Liu Jia 
+Recon Technology, Ltd. 
++86 (10) 84945799 
+info@recon.cn 
+
+RECON TECHNOLOGY, LTD      
+ 
+       CONDENSED CONSOLIDATED BALANCE SHEETS     
+ 
+      (UNAUDITED)     
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements     
+
+RECON TECHNOLOGY, LTD    
+ 
+       CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS    
+ 
+      (UNAUDITED)   
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements     
+
+RECON TECHNOLOGY, LTD    
+ 
+       CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS    
+ 
+      (UNAUDITED)   
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements      
+
+</EX-99.3>
+
+<EX-101.INS>
+ 8
+ rcon-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 9
+ rcon-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ rcon-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ rcon-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ rcon-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ rcon-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

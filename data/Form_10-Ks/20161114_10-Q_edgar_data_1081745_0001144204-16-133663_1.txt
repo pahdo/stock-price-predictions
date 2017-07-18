@@ -1,0 +1,1867 @@
+<Header>
+<FileStats>
+    <FileName>20161114_10-Q_edgar_data_1081745_0001144204-16-133663_1.txt</FileName>
+    <GrossFileSize>4065730</GrossFileSize>
+    <NetFileSize>114483</NetFileSize>
+    <ASCII_Embedded_Chars>249326</ASCII_Embedded_Chars>
+    <HTML_Chars>873477</HTML_Chars>
+    <XBRL_Chars>1819241</XBRL_Chars>
+    <XML_Chars>934728</XML_Chars>
+    <N_Tables>55</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001144204-16-133663.hdr.sgml : 20161111
+<ACCEPTANCE-DATETIME>20161114083837
+ACCESSION NUMBER:		0001144204-16-133663
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		64
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161114
+DATE AS OF CHANGE:		20161114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTELLINETICS, INC.
+		CENTRAL INDEX KEY:			0001081745
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				870613716
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-31671
+		FILM NUMBER:		161990849
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2190 DIVIDEND DRIVE
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43228
+		BUSINESS PHONE:		6143888909
+
+	MAIL ADDRESS:	
+		STREET 1:		2190 DIVIDEND DRIVE
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43228
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GLOBALWISE INVESTMENTS INC
+		DATE OF NAME CHANGE:	20000928
+
+</SEC-Header>
+</Header>
+
+ 0001144204-16-133663.txt : 20161114
+
+10-Q
+ 1
+ v452139_10q.htm
+ FORM 10-Q
+
+UNITED STATES  
+
+  SECURITIES AND EXCHANGE COMMISSION  
+
+  WASHINGTON, D.C. 20549  
+
+FORM 10-Q  
+
+(Mark One) 
+
+For the Quarterly Period Ended September
+30, 2016 
+
+For the transition period from _____________________to
+_________________________ 
+
+Commission file number:  000-31671  
+
+INTELLINETICS, INC.   
+
+ (Exact name of registrant as specified in
+its charter) 
+
+Nevada  
+       
+      87-0613716   
+ 
+      (State or Other Jurisdiction of Incorporation or  
+       
+      (I.R.S. Employer Identification No.)   
+ 
+      Organization)  
+
+(Former name and former address, if changed since last report)   
+
+Indicate
+by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. Yes   x  
+No      
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such
+shorter period that the registrant was required to submit and post such files). Yes   x  
+No      
+
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of  large accelerated
+filer,   accelerated filer  and  smaller reporting company  in Rule 12b- 2 of the Exchange Act. 
+
+Large accelerated filer  
+
+Accelerated filer  
+
+Non-accelerated filer  
+         
+      (Do not check if a smaller reporting company)  
+      Smaller reporting company  
+      x   
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act): Yes      
+No   x  
+
+As of November 11, 2016, there were 16,815,850 shares of the
+issuer s common stock outstanding. 
+
+INTELLINETICS, INC. 
+
+ Form 10-Q 
+
+ September 30, 2016 
+
+ TABLE OF CONTENTS 
+
+Page   
+
+No.   
+
+PART  I  FINANCIAL
+    INFORMATION   
+      5   
+
+ITEM 1.  
+       Financial Statements   
+      5   
+
+Condensed Consolidated Balance Sheets as of September 30, 2016 (Unaudited) and December 31, 2015   
+      5   
+
+Condensed Consolidated Statements of Operations for the Three and nine months Ended September 30, 2016, and 2015 (Unaudited)   
+      6   
+
+Condensed Consolidated Statement of Stockholders  Deficit for the nine months Ended September 30, 2016 (Unaudited)   
+      7   
+
+Condensed Consolidated Statements of Cash Flows for the nine months Ended September 30, 2016 and 2015 (Unaudited)   
+      8   
+
+Notes to Condensed Consolidated Financial Statements (Unaudited)  
+
+ITEM 2.  
+       Management s Discussion and Analysis of Financial Condition and Results of Operations   
+      20   
+
+ITEM 3.  
+       Quantitative and Qualitative Disclosures About Market Risk   
+      27   
+
+ITEM 4.  
+       Controls and Procedures   
+      27   
+
+PART  II    OTHER INFORMATION   
+      28   
+
+ITEM 1.  
+       Legal Proceedings   
+      28   
+
+ITEM 1A.  
+       Risk Factors   
+      28   
+
+ITEM 2.  
+       Unregistered Sales of Equity Securities and Use of Proceeds   
+      28   
+
+ITEM 3.  
+       Defaults Upon Senior Securities   
+      28   
+
+ITEM 4.  
+       Mine Safety Disclosures   
+      28   
+
+ITEM 5.  
+       Other Information   
+      28   
+
+ITEM 6.  
+       Exhibits   
+      28   
+
+SIGNATURES   
+       29     
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING
+STATEMENTS  
+
+This Quarterly Report on Form 10-Q and the documents incorporated
+into this report by reference contain, and we may from time to time make, forward-looking statements. From time to time in the
+future, we may make additional forward-looking statements in presentations, at conferences, in press releases, in other reports
+and filings and otherwise. Forward-looking statements are all statements other than statements of historical fact, including statements
+that refer to plans, intentions, objectives, goals, targets, strategies, hopes, beliefs, projections, prospects, expectations or
+other characterizations of future events or performance, and assumptions underlying the foregoing. The words  may, 
+ could,   should,   would,   will,   project,   intend, 
+ continue,   believe,   anticipate,   estimate,   forecast,   expect, 
+ plan,   potential,   opportunity,   scheduled,   goal,   target, 
+and  future,  variations of such words, and other comparable terminology and similar expressions and references to
+future periods are often, but not always, used to identify forward-looking statements. Examples of forward-looking statements include,
+but are not limited to, statements about the following: 
+
+our prospects, including our future business, revenues, expenses, net income, earnings per share, margins, profitability, cash flow, cash position, liquidity, financial condition and results of operations, backlog of orders and revenue, our targeted growth rate, and our goals for future revenues and earnings;   
+
+the effects on our business, financial condition and results of operations of current and future economic, business, market and regulatory conditions, including the current economic and market conditions and their effects on our customers and their capital spending and ability to finance purchases of our products, services, and technologies;   
+
+the effects of fluctuations in sales on our business, revenues, expenses, net income, earnings per share, margins, profitability, cash flow, capital expenditures, liquidity, financial condition and results of operations;   
+
+our products, services, technologies and systems, including their quality and performance in absolute terms and as compared to competitive alternatives, their benefits to our customers and their ability to meet our customers  requirements, and our ability to successfully develop and market new products, services, and technologies;   
+
+our markets, including our market position and our market share;   
+
+our ability to successfully develop, operate, grow and diversify our operations and businesses;   
+
+our business plans, strategies, goals and objectives, and our ability to successfully achieve them;   
+
+the sufficiency of our capital resources, including our cash and cash equivalents, funds generated from operations, availability of borrowings under our credit and financing arrangements and other capital resources, to meet our future working capital, capital expenditure, lease and debt service and business growth needs;   
+
+the value of our assets and businesses, including the revenues, profits and cash flow they are capable of delivering in the future;   
+
+industry trends and customer preferences and the demand for our products, services, and technologies;   
+
+the nature and intensity of our competition, and our ability to successfully compete in our markets;   
+
+business acquisitions, combinations, sales, alliances, ventures and other similar business transactions and relationships; and   
+
+the effects on our business, financial condition and results of operations of litigation and other claims and proceedings that arise from time to time.   
+
+Any forward-looking statements we make are based on our current
+plans, intentions, objectives, goals, targets, strategies, hopes, beliefs, projections and expectations, as well as assumptions
+made by and information currently available to management. Forward-looking statements are not guarantees of future performance
+or events, but are subject to and qualified by substantial risks, uncertainties and other factors, which are difficult to predict
+and are often beyond our control. Forward-looking statements will be affected by assumptions and expectations we might make that
+do not materialize or that prove to be incorrect and by known and unknown risks, uncertainties and other factors that could cause
+actual results to differ materially from those expressed, anticipated or implied by such forward-looking statements. These risks,
+uncertainties and other factors include, but are not limited to, those described in  Item 1A. Risk Factors  in our
+Annual Report on Form 10-K for the fiscal year ended December 31, 2015, which have not materially changed as of the date of this
+report, as well as other risks, uncertainties and factors discussed elsewhere in this report, in documents that we include as exhibits
+to or incorporate by reference in this report, and in other reports and documents we from time to time file with or furnish to
+the Securities and Exchange Commission (the  SEC ). In light of these risks and uncertainties, you are cautioned not
+to place undue reliance on any forward-looking statements that we make. 
+
+Any forward-looking statements contained in this report speak
+only as of the date of this report, and any other forward-looking statements we make from time to time in the future speak only
+as of the date they are made. We undertake no duty or obligation to update or revise any forward-looking statement or to publicly
+disclose any update or revision for any reason, whether as a result of changes in our expectations or the underlying assumptions,
+the receipt of new information, the occurrence of future or unanticipated events, circumstances or conditions or otherwise. 
+
+Part I Financial Information  
+
+   Item 1. Financial Statements 
+
+INTELLINETICS, INC. and SUBSIDIARY  
+
+  Condensed Consolidated Balance Sheets  
+
+See Notes to these condensed consolidated financial
+statements 
+
+INTELLINETICS, INC. and SUBSIDIARY  
+
+  Condensed Consolidated Statements
+of Operations  
+
+  (Unaudited)  
+
+See Notes to these condensed consolidated financial statements 
+
+INTELLINETICS, INC. and SUBSIDIARY  
+
+  Condensed Consolidated Statement
+of Stockholders' Deficit  
+
+  For the Nine Months Ended
+September 30, 2016  
+
+  (Unaudited)  
+
+See Notes to these condensed consolidated financial
+statements 
+
+INTELLINETICS, INC. and SUBSIDIARY  
+
+  Condensed Consolidated Statements
+of Cash Flows  
+
+  (Unaudited)  
+
+See Notes to these condensed consolidated financial
+statements 
+
+1. Business Organization and Nature of Operations  
+
+Intellinetics, Inc., formerly known as GlobalWise Investments,
+Inc. ( Intellinetics ), is a Nevada corporation incorporated in 1997, with a single operating subsidiary, Intellinetics,
+Inc., an Ohio corporation ( Intellinetics Ohio,  together with Intellinetics, the  Company,   we, 
+ us  and  our ). Intellinetics Ohio was incorporated in 1996, and on February 10, 2012, Intellinetics Ohio
+became the sole operating subsidiary of Intellinetics as a result of a reverse merger and recapitalization. 
+
+The Company is an enterprise content management ( ECM )
+software development, sales and marketing company serving both the public and private sectors. In the public sector, the Company s
+products, services and process models serve, principally, the critical needs of law enforcement and compliance agencies within
+the state and local government establishment. 
+
+The Company provides its software solutions principally through
+(i) the direct licensing of its software installed on customer computer platforms, and (ii) providing the applications as a service,
+accessible through the internet. The Company s comprehensive solutions include services that range from pre-installation
+assessment, project scoping, implementation, consulting and ongoing software maintenance and customer support. 
+
+2. Basis of Presentation  
+
+The accompanying unaudited consolidated financial statements
+have been prepared in accordance with United States generally accepted accounting principles ( U.S. GAAP ) for interim
+financial information and the instructions to Form 10-Q and Article 8.03 of Regulation S-X. Accordingly, they do not include all
+of the information and notes required by U.S. GAAP applicable for annual financial statements. In the opinion of management, all
+adjustments (consisting of normal accruals) considered for a fair presentation of the consolidated financial position of the Company
+as of September 30, 2016 and the consolidated results of its operations and cash flows for the nine months ended September 30,
+2016 and September 30, 2015, have been included. The Company has evaluated subsequent events from the balance sheet date through
+the issuance of these financial statements. Operating results for the three and nine months ended September 30, 2016 are not necessarily
+indicative of the results that may be expected for the full year ending December 31, 2016 or any other interim or future period.
+The accompanying condensed consolidated financial statements and these notes should be read in conjunction with the consolidated
+financial statements and notes thereto for the year ended December 31, 2015 included in the Company s Annual Report on Form
+10-K filed with the Securities and Exchange Commission on March 28, 2016. 
+
+The Quarterly Report on Form 10-Q for the quarter ended September
+30, 2015 includes the impact of the restatement on the applicable unaudited financial information for the nine months ended September
+30, 2015. The restatement relates to the overstatement of revenue on one customer contract during the three months ended June 30,
+2015 which was identified by the Company and corrected in the third quarter of 2015 and had no impact on the statement of operations
+and cash flows for the year ended December 31, 2015. 
+
+The effect of the restatement on previously issued quarterly
+financial information as of and for the nine months ended September 30, 2015 is set forth as follows: 
+
+Condensed Consolidated Statements of Operations
+(unaudited) 
+
+Previously filed Quarterly Reports on Form 10-Q for
+quarterly periods ended prior to December 31, 2015 have not been and will not be amended. 
+
+3. Liquidity and Management s Plans  
+
+Through September 30, 2016, the Company had incurred an accumulated
+deficit since its inception of $14,562,936. At September 30, 2016, the Company had a cash balance of $159,553. 
+
+From the Company s inception, it has generated revenues
+from the sales and implementation of its internally generated software applications. 
+
+The Company s business plan is to increase its sales and
+market share by developing an expanded network of resellers through which the Company will sell its expanded software product portfolio.
+The Company expects that this marketing initiative will require that it hire and develop an expanded sales force and enhance its
+product marketing efforts, all of which will require additional capital. 
+
+The Company expects that through the next 12 months, the capital
+requirements to fund the Company s growth, service existing debt obligations, and to cover the operating costs as a public
+company will consume substantially all of the cash flows that it intends to generate from its operations. The Company further believes
+that during this period, while the Company is focusing on the growth and expansion of its business, the gross profit that it expects
+to generate from operations will not generate sufficient funds to cover these anticipated operating costs. Our cash requirements
+are insufficient by approximately $103,000 per month. During 2015 and the nine months ended September 30, 2016, the Company has
+used the proceeds from convertible note issuances and the sale of common stock to sustain operations and to follow through on the
+execution of its business plan. There is no assurance that the Company has or will be able to obtain sufficient funds to fund the
+Company s operations. Given these conditions, the Company s ability to continue as a going concern is contingent upon
+increasing its revenues and successfully managing its cash requirements. In addition, the Company s ability to continue as
+a going concern must be considered in light of the problems, expenses and complications frequently encountered by entrants into
+established markets, the competitive environment in which the Company operates and its cash requirements. These factors, among
+others, raise substantial doubt about the Company s ability to continue as a going concern. 
+
+Since inception, the Company s operations have primarily
+been funded through a combination of gross margins, state business development loans, bank loans, convertible loans and loans from
+friends and family, and the sale of securities. Although management believes that the Company has access to additional capital
+resources, there are currently no commitments or arrangements in effect that would provide for new financing and there is no assurance
+that the Company will be able to obtain additional funds on commercially acceptable terms, if at all. 
+
+During the nine months ended September 30, 2016, the Company
+raised $559,285 through the sale of its common stock and warrants. The proceeds from the sale were used to fund the Company s
+working capital needs and debt repayment obligations. 
+
+The current level of cash and operating margins may not be enough
+to cover the existing fixed and variable obligations of the Company, so increased revenue performance and the addition of capital
+are critical to the Company s success. 
+
+The Company s financial statements do not include any
+adjustments relating to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities
+that might be necessary should it be unable to continue as a going concern. 
+
+4. Corporate Actions  
+
+On February 10, 2012, Intellinetics Ohio was acquired by Intellinetics,
+when it was known as GlobalWise Investments, Inc., pursuant to a reverse merger, with Intellinetics Ohio surviving as a wholly-owned
+subsidiary of Intellinetics. 
+
+On September 1, 2014, the Company changed its name from GlobalWise
+Investments, Inc., to Intellinetics, Inc. and effected a one-for-seven (1-for-7) reverse stock split of the Company s common
+stock. All share and per share amounts herein have been adjusted to reflect the reverse stock split. 
+
+5. Summary of Significant Accounting Policies  
+
+Use of Estimates   
+
+The preparation of financial statements in conformity with U.S.
+GAAP requires management to make estimates and assumptions. Such estimates and assumptions affect the reported amounts of assets
+and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts
+of revenues and expenses. Actual results could differ from estimated amounts. 
+
+Significant estimates and assumptions include valuation allowances
+related to receivables, the recoverability of long-term assets, depreciable lives of property and equipment, deferred taxes and
+related valuation allowances. The Company s management monitors these risks and assesses its business and financial risks
+on a quarterly basis. 
+
+Concentrations of Credit Risk   
+
+The Company maintains its cash with high credit quality financial
+institutions. At times, the Company s cash and cash equivalents may be uninsured or in deposit accounts that exceed the Federal
+Deposit Insurance Corporation insurance limit. 
+
+The number of customers that comprise the Company s customer
+base, along with the different industries, governmental entities and geographic regions, in which the Company s customers
+operate, limits concentrations of credit risk with respect to accounts receivable. The Company does not generally require collateral
+or other security to support customer receivables; however, the Company may require its customers to provide retainers, up-front
+deposits or irrevocable letters-of-credit when considered necessary to mitigate credit risks. The Company has established an allowance
+for doubtful accounts based upon facts surrounding the credit risk of specific customers and past collections history. Credit losses
+have been within management s expectations. At September 30, 2016 and December 31, 2015, the Company allowance for doubtful
+accounts was $17,919 and $23,786, respectively. 
+
+Property and Equipment   
+
+Property, equipment and leasehold improvements are stated at
+cost less accumulated depreciation and amortization. Depreciation and amortization is computed over the estimated useful lives
+of the related assets on a straight-line basis. Furniture and fixtures, computer hardware and purchased software are depreciated
+over three to seven years. Leasehold improvements are amortized over the life of the lease or the asset, whichever is shorter,
+generally seven to ten years. Upon retirement or other disposition of these assets, the cost and related accumulated depreciation
+and amortization of these assets are removed from the accounts and the resulting gains and losses are reflected in the results
+of operations. 
+
+Impairment of Long-Lived Assets   
+
+The Company accounts for the impairment and disposition of long-lived
+assets in accordance with Accounting Standards Codification ( ASC ) Topic 360,  Property, Plant, and Equipment. 
+The Company tests long-lived assets or asset groups, such as property and equipment, for recoverability when events or changes
+in circumstances indicate that their carrying amount may not be recoverable. 
+
+Circumstances which could trigger a review include, but are
+not limited to: significant adverse changes in the business climate or legal factors; current period cash flow or operating losses
+combined with a history of losses or a forecast of continuing losses associated with the use of the asset; and a current expectation
+that the asset will more likely than not be sold or disposed of before the end of its estimated useful life. 
+
+Recoverability is assessed based on comparing the carrying amount
+of the asset to the aggregate pre-tax undiscounted cash flows expected to result from the use and eventual disposal of the asset
+or asset group. Impairment is recognized when the carrying amount is not recoverable and exceeds the fair value of the asset or
+asset group. The impairment loss, if any, is measured as the amount by which the carrying amount exceeds fair value, which for
+this purpose is based upon the discounted projected future cash flows of the asset or asset group. 
+
+Share-Based Compensation   
+
+The Company accounts for stock-based payments to employees in
+accordance with ASC 718,  Stock Compensation.  Stock-based payments to employees include grants of stock that are recognized
+in the consolidated statement of operations based on their fair values at the date of grant. 
+
+The Company accounts for stock-based payments
+to non-employees in accordance with ASC 718 and ASC 505-50,  Equity-Based Payments to Non-Employees,  which requires
+that such equity instruments are recorded at their fair value on the measurement date, with the measurement of such compensation
+being subject to periodic adjustment as the underlying equity instruments vest. 
+
+The grant date fair value of stock option awards is recognized
+in earnings as share-based compensation cost over the requisite service period of the award using the straight-line attribution
+method. The Company estimates the fair value of the stock option awards using the Black-Scholes-Merton option pricing model. The
+exercise price of options is specified in the stock option agreements. The expected volatility is based on the historical volatility
+of the Company s stock for the previous period equal to the expected term of the options. The expected term of options granted
+is based on the midpoint between the vesting date and the end of the contractual term. The risk-free interest rate is based upon
+a U.S. Treasury instrument with a life that is similar to the expected term of the options. The expected dividend yield is based
+upon the yield expected on date of grant to occur over the term of the option. 
+
+On January 1, 2016, the Company granted employees stock options
+to purchase 250,000 shares of common stock of the Company ( Shares ) at an exercise price of $0.90 per Share in accordance
+with the 2015 Intellinetics Inc. Equity Incentive Plan (the  2015 Plan ), with vesting continuing until 2019. The total
+fair value of $196,250 for these stock options will be recognized by the Company over the applicable vesting period. The total
+stock option compensation for the three and nine months ended September 30, 2016 was $12,226 and $85,820, respectively. 
+
+On February 10, 2016, the Company granted employees stock options
+to purchase 210,000 Shares at an exercise price of $0.96 per Share, in accordance with the 2015 Plan, with vesting continuing until
+2020. The total fair value of $174,748 for these stock options will be recognized by the Company over the applicable vesting period.
+The total stock option compensation for the three (3) and nine (9) months ended September 30, 2016 was $11,012 and $27,769, respectively. 
+
+On January 2, 2016, the Company issued 69,433 new Shares of
+restricted common stock to directors of the Company in accordance with the 2015 Plan. Stock compensation of $62,500 was recorded
+on the issuance of the Shares. 
+
+Software Development Costs   
+
+Software development costs for software to be sold or otherwise
+marketed incurred prior to the establishment of technological feasibility are expensed as incurred. The Company defines establishment
+of technological feasibility as the completion of a working model. Software development costs incurred subsequent to the establishment
+of technological feasibility through the period of general market availability of the product are capitalized, if material. To
+date, all software development costs for software to be sold or otherwise marketed have been expensed as incurred. In accordance
+with ASC 350-40,  Internal-Use Software,  the Company capitalizes purchase and implementation costs of internal use
+software. No such costs were capitalized during the periods presented. 
+
+Recent Accounting Pronouncements   
+
+Stock Compensation  
+
+In March 2016, the FASB issued ASU No. 2016-09, Compensation
+  Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting ( ASU 2016-09 ), which
+simplified certain aspects of the accounting for share-based payment transactions, including income taxes, classification of awards
+and classification on the statement of cash flows. ASU 2016-09 will be effective for the Company beginning in its first quarter
+of 2018. The Company is currently evaluating the impact of adopting ASU 2016-09 on its consolidated financial statements. 
+
+Leases  
+
+In February 2016, the FASB issued ASU No. 2016-02, Leases (Topic
+842) ( ASU 2016-02 ), which modified lease accounting for both lessees and lessors to increase transparency and comparability
+by recognizing lease assets and lease liabilities by lessees for those leases classified as operating leases under previous accounting
+standards and disclosing key information about leasing arrangements. ASU 2016-02 will be effective for the Company beginning in
+its first quarter of 2020, and early adoption is permitted. The Company is currently evaluating the timing of its adoption and
+the impact of adopting ASU 2016-02 on its consolidated financial statements. 
+
+Debt Issuance Costs  
+
+In April 2015, the FASB issued ASU No. 2015-03,  Simplifying
+the Presentation of Debt Issuance Costs,  which requires that debt issuance costs related to a recognized debt liability
+be presented in the balance sheet as a direct deduction from the carrying amount of that debt liability rather than as an asset.
+The recognition and measurement guidance for debt issuance costs are not affected by ASU 2015-03. The guidance is effective for
+public business entities for fiscal years beginning after December 15, 2015, and interim periods within those fiscal years. The
+guidance is required to be applied retrospectively and early adoption is permitted. The Company adopted the new guidance effective
+January 1, 2016. Debt issuance costs that are now presented as a direct reduction from the carrying amount of the associated debt
+liability amounted to $2,131 and $4,255 on September 30, 2016 and December 31, 2015, respectively. 
+
+Revenue Recognition  
+
+In May 2014, the Financial Accounting Standards Board ( FASB )
+issued Accounting Standards Update ( ASU ) No. 2014-09, Revenue from Contracts with Customers. The core principle of
+ASU 2014-09 is built on the contract between a vendor and a customer for the provision of goods and services. It attempts to depict
+the exchange of rights and obligations between the parties in the pattern of revenue recognition based on the consideration to
+which the vendor is entitled. To accomplish this objective, ASU 2014-09 requires five basic steps: (i) identify the contract with
+the customer, (ii) identify the performance obligations in the contract, (iii) determine the transaction price, (iv) allocate the
+transaction price to the performance obligations in the contract, and (v) recognize revenue when (or as) the entity satisfies a
+performance obligation. Entities will generally be required to make more estimates and use more judgment than under current guidance,
+which will be highlighted for users through increased disclosure requirements. Subsequently, the FASB has issued the following
+standards related to ASU 2014-09: ASU No. 2016-08, Revenue from Contracts with Customers (Topic 606): Principal versus Agent Considerations
+( ASU 2016-08 ); ASU No. 2016-10, Revenue from Contracts with Customers (Topic 606): Identifying Performance Obligations
+and Licensing ( ASU 2016-10 ); and ASU No. 2016-12, Revenue from Contracts with Customers (Topic 606): Narrow-Scope
+Improvements and Practical Expedients ( ASU 2016-12 ). The Company must adopt ASU 2016-08, ASU 2016-10 and ASU 2016-12
+with ASU 2014-09 (collectively, the  new revenue standards ). In July 2015, the FASB deferred the effective date of
+the new revenue standards for one year beyond the originally specified effective date. The update is now effective for public entities
+for annual periods beginning after December 15, 2017, including interim periods therein. Earlier application is permitted only
+as of annual reporting periods beginning after December 15, 2016, including interim reporting periods within that reporting period.
+Three basic transition methods are available   full retrospective, retrospective with certain practical expedients, and a
+cumulative effect approach. Management is in the process of evaluating the impact that adoption of the new revenue standards will
+have on the consolidated financial statements and has not yet determined the method by which the Company will adopt the standard. 
+
+Revenue Recognition   
+
+a) Sale of Software   
+
+The Company recognizes revenues in accordance with ASC Topic
+985-605,  Software Revenue Recognition.  
+
+The Company records revenues from the sale of software licenses
+when persuasive evidence of an arrangement exists, the software product has been installed, there are no significant uncertainties
+surrounding product acceptance by the customer, the fees are fixed and determinable, and collection is considered probable. Revenues
+included in this classification typically include sales of additional software licenses to existing customers and sales of software
+to the Company s Resellers (See section h)   Reseller Agreements, below). 
+
+The Company assesses whether payment terms are customary or
+extended in accordance with normal practice relative to the market in which the sale is occurring. The Company s sales arrangements
+generally include standard payment terms. These terms effectively relate to all customers, products, and arrangements regardless
+of customer type, product mix or arrangement size. 
+
+If an undelivered element for the arrangement exists under the
+license arrangement, revenues related to the undelivered element are deferred based on Vendor Specific Objective Evidence ( VSOE )
+of the fair value of the undelivered element. Often, multiple-element sales arrangements include arrangements where software licenses
+and the associated post-contract customer support ( PCS ) are sold together. The Company has established VSOE of the
+fair value of the undelivered PCS element based on the contracted price for renewal PCS included in the original multiple element
+sales arrangement, as substantiated by contractual terms and the Company s significant PCS renewal experience, from the Company s
+existing customer base. 
+
+The Company records the revenues for the sales of software with
+professional services as prescribed by ASC 985-605, in accordance with the contract accounting guidelines in ASC 605-35,  Revenue
+Recognition: Construction-Type and Production-Type Contracts,  after evaluating for separation of any non-ASC 605-35 elements
+in accordance with the provisions of ASC 605-25,  Revenue Recognition: Multiple-Element Arrangements,  as updated.
+The Company accounts for these contracts on a percentage of completion basis, measured by the percentage of labor hours incurred
+to date to estimated total labor hours for each contract, or on a completed contract basis when dependable estimates are not available. 
+
+The fair value of any undelivered elements in multiple-element
+arrangements in connection with the sales of software licenses with professional services are deferred based upon VSOE. 
+
+b) Sale of Software as a Service   
+
+Sale of software as a service ( SaaS ) consists
+of revenues from arrangements that provide customers the use of the Company s software applications, as a service, typically
+billed on a monthly or annual basis. Advance billings of these services are not recorded to the extent that the term of the arrangement
+has not commenced and payment has not been received. Revenue on these services is recognized ratably over the term of the underlying
+arrangement. 
+
+c) Sale of Software Maintenance Services   
+
+Software maintenance services revenues
+consist of revenues derived from arrangements that provide PCS to the Company s software license holders. These revenues
+are recognized ratably over the term of the contract. Advance billings of PCS are not recorded to the extent that the term of the
+PCS has not commenced and payment has not been received. 
+
+d) Sales of Professional Services   
+
+Professional services consist principally of revenues from consulting,
+advisory services, training and customer assistance with management and uploading of data into the Company s applications.
+When these services are provided on a time and material basis, the Company records the revenue as the services are rendered, since
+the revenues from services rendered through any point in time during the performance period are not contingent upon the completion
+of any further services. Where the services are provided under a fixed priced arrangement, the Company records the revenue on a
+proportional performance method, since the revenues from services rendered through any point in time during the performance period
+are not contingent upon the completion of any further services. 
+
+e) Sale of Third Party Services   
+
+Sale of third party services consist principally of third party
+software and/or equipment as a pass through of software and equipment purchased from third parties at the request of customers. 
+
+f) Deferred revenues   
+
+The Company records deferred revenue primarily related to software
+maintenance support agreements, when the customer pays for the contract prior to the time the services are performed. Substantially
+all maintenance agreements have a one-year term that commences immediately following the delivery of the maintained products or
+on the date of the applicable renewal period. 
+
+g) Rights of return and other incentives   
+
+The Company does not generally offer rights of return or any
+other incentives such as concessions, product rotation, or price protection and, therefore, does not provide for or make estimates
+of rights of return and similar incentives. The Company, from time to time, may discount bundled software sales with PCS services.
+Such discounts are recorded as a component of the software sale and any revenue related to PCS is deferred over the PCS period
+based upon appropriate VSOE of fair value. 
+
+h) Reseller agreements   
+
+The Company executes certain sales contracts through resellers
+and distributors (collectively,  Resellers ). The Company recognizes revenues relating to sales through Resellers when
+all the recognition criteria have been met in other words, persuasive evidence of an arrangement exists, delivery has occurred
+in the reporting period, the fee is fixed and determinable, and collectability is probable. In addition, the Company assesses the
+credit-worthiness of each Reseller, and if the Reseller is undercapitalized or in financial difficulty, any revenues expected to
+emanate from such Resellers are deferred and recognized only when cash is received and all other revenue recognition criteria are
+met. 
+
+Advertising   
+
+The Company expenses the cost of advertising as incurred. Advertising
+expense for the three and nine months ended September 30, 2016 and 2015 amounted to approximately $641 and $1,587 and $12 and $1,879,
+respectively. 
+
+Earnings (Loss) Per Share   
+
+Basic earnings per share is computed by dividing net income
+by the weighted average number of shares of common stock outstanding during the period. The Company has outstanding stock options
+which have not been included in the calculation of diluted net loss per share because to do so would be anti-dilutive. As such,
+the numerator and the denominator used in computing both basic and diluted net loss per share for each period are the same. 
+
+Income Taxes   
+
+The Company and its subsidiary file a consolidated federal income
+tax return. The provision for income taxes is computed by applying statutory rates to income before taxes. 
+
+Deferred income taxes are recognized for the tax consequences
+in future years of temporary differences between the financial reporting and tax bases of assets and liabilities as of each period-end
+based on enacted tax laws and statutory rates. Valuation allowances are established when necessary to reduce deferred tax assets
+to the amount expected to be realized. A 100% valuation allowance has been established on deferred tax assets at September 30,
+2016 and December 31, 2015, due to the uncertainty of our ability to realize future taxable income. 
+
+The Company accounts for uncertainty in income taxes in its
+financial statements as required under ASC 740,  Accounting for Uncertainty in Income Taxes .  The standard prescribes
+a recognition threshold and measurement attribute for the financial statement recognition and measurement of a tax position taken
+or expected to be taken in a tax return. The standard also provides guidance on de-recognition, classification, interest and penalties,
+accounting in interim periods, disclosure and transition accounting. Management determined there were no material uncertain positions
+taken by the Company in its tax returns. 
+
+Statement of Cash Flows   
+
+For purposes of reporting cash flows, cash includes cash on
+hand and demand deposits held by banks. 
+
+6. Property and Equipment  
+
+Property and equipment are comprised of the following: 
+
+Total depreciation expense on the Company s property and
+equipment for the three and nine months ended September 30, 2016 and 2015 amounted to $2,437 and $8,160, and $2,589 and $8,640
+respectively. 
+
+7. Notes Payable  
+
+On July 17, 2009, Intellinetics Ohio, now the sole operating
+subsidiary of the Company, issued a note payable to the Ohio State Development Authority in the amount of $1,012,500, bearing interest
+at a rate of 6.00% per annum ( Authority Loan No. 1 ). Pursuant to the terms of the Authority Loan No. 1, Intellinetics
+Ohio was required to pay only interest through September 30, 2010 and thereafter monthly principal and interest payments of $23,779
+each through September 1, 2015. The Authority Loan No. 1 is secured by a senior secured interest on all business assets financed
+with loan proceeds, as well as a second secured interest in all business assets. Upon maturity, by acceleration or otherwise, Intellinetics
+Ohio is required to pay a loan participation fee of $101,250, which is accounted for as a loan premium, accreted monthly, utilizing
+the interest method, over the term of the Authority Loan No. 1. In June 2014, Intellinetics Ohio and the Ohio State Development
+Authority entered into a Notice and Acknowledgement of Modification to Payment Schedule relating to Authority Loan No.1, deferring
+a portion of the principal and interest payment until June 1, 2015. On September 25, 2015, Intellinetics Ohio and the Ohio State
+Development Authority entered into a Third Amendment to the Loan Agreement related to Authority Loan No. 1, deferring a portion
+of the principal payment until October 1, 2016 and extending the maturity date until August 1, 2018. As of September 30, 2016,
+the principal amount outstanding under Authority Loan No.1 was $403,373. 
+
+On June 3, 2011, Intellinetics Ohio issued a note payable to
+the Ohio State Development Authority in the amount of $750,000, bearing interest at a rate of 1% per annum for the first 12 months,
+then interest at a rate of 7% per annum for the second 12 months ( Authority Loan No. 2,  and together with Authority
+Loan No. 1, the  Authority Loans ). Intellinetics Ohio was not obligated to remit payments of principal until September
+1, 2013. The monthly principal and interest payments, beginning on the third anniversary of the loan origination, are $14,850 and
+are payable on a monthly basis through August 1, 2018. The Authority Loan No. 2 is secured by a senior secured interest on all
+business assets financed with loan proceeds, as well as a second secured interest in all business assets. Upon maturity, by acceleration
+or otherwise, Intellinetics Ohio is required to pay a loan participation fee of $75,000, which is accounted for as a loan premium,
+accreted monthly utilizing the interest method, over the term of the Authority Loan No. 2. The interest rate of 1% during the first
+12 months of this loan was considered to be below market for that period. Intellinetics Ohio further determined that over the life
+of the Authority Loan No. 2, the effective interest rate was 5.6% per annum. Accordingly, during the first 12 months of the Authority
+Loan No. 2, Intellinetics Ohio recorded interest expense at the 5.6% rate per annum. The difference between the interest expense
+accrual at 5.6% and the stated rate of 1% over the first 12 months is credited to deferred interest. The deferred interest amount
+that is accumulated over the first 12 months of the loan term will be amortized as a reduction to interest expense over the remaining
+term of the Authority Loan No. 2. On September 30, 2016 and December 31, 2015, deferred interest of $159,304 and $136,078, respectively,
+was reflected within long term liabilities on the accompanying consolidated balance sheets. In June 2014, Intellinetics Ohio and
+the Ohio State Development Authority entered into a Notice and Acknowledgement of Modification to Payment Schedule, deferring a
+portion of the principal and interest payment until June 1, 2015. On September 25, 2015 Intellinetics Ohio and the Ohio State Development
+Authority entered into a Third Amendment to the Loan Agreement related to Authority Loan No. 2, deferring a portion of the interest
+payment until October 1, 2016. As of September 30, 2016, the principal amount outstanding under Authority Loan No. 2 was $469,661. 
+
+The Authority Loans were granted to Intellinetics Ohio in connection
+with the State of Ohio s economic development programs. The proceeds from these loans were used by Intellinetics Ohio to
+support its efforts in developing software solutions for its customers. 
+
+The Authority Loans are subject to certain covenants and reporting
+requirements. Intellinetics Ohio is required to, within three years of the respective loan origination dates of each of the Authority
+Loans, have created and/or retained an aggregate of 25 full time jobs in the State of Ohio. If Intellinetics has not attained these
+employment levels by the respective dates, then the interest rates on the Authority Loans shall increase to 10% per annum. In July
+2014, Intellinetics Ohio informed the State of Ohio that it would not meet the required employment level. As a result of this non-compliance
+with a covenant of Authority Loan No. 1, the Ohio State Development Authority exercised its right to increase the interest rate
+from 6.0% to 7.0%, effective October 1, 2014. The approximate impact of this increase is to raise Intellinetics Ohio s balloon
+payment by $6,000 on Authority Loan No. 1, which is due, as amended on August 1, 2018. Intellinetics Ohio has had past instances
+of non-compliance with certain of the loan covenants. Intellinetics Ohio is currently in compliance with all the other loan covenants.
+There can be no assurance that Intellinetics Ohio will not become non-compliant with one or more of these covenants in the future. 
+
+Between June 24, 2014 and July 7, 2014, the Company issued convertible
+promissory notes in an aggregate amount of $135,000 (the  Convertible Notes ) to two accredited investors (the  Note
+Investors ). The Convertible Notes matured on December 31, 2015 (the  Maturity Date ) and bore interest at an
+annual rate of interest of 10% until maturity, with interest payable quarterly. The Note Investors had a right, in their sole discretion,
+to convert the Convertible Notes into Shares under certain circumstances at a conversion rate of $0.56 per Share. Because the Convertible
+Notes had not been fully repaid by the Company or converted into Shares at the election of the Note Investors prior to the Maturity
+Date, the Convertible Notes began accruing interest at the annual rate of 12% commencing on the Maturity Date. The Company used
+the proceeds of the Convertible Notes for working capital, general corporate purposes, and debt repayment. On January 6, 2016,
+the Note Investors converted $135,000 of the Convertible Notes and accrued interest thereon of $35,038 into 303,912 Shares and
+141,698 warrants to purchase Shares, as part of a private placement and note exchange commenced in December 2015. The warrants
+have an exercise price equal to $0.65 per Share and contain a cashless exercise provision. All warrants are immediately exercisable
+and are exercisable for five years from issuance. Interest expense of $113,762 was recorded on the issuance of these warrants. 
+
+The table below reflects all notes payable at September 30,
+2016 and December 31, 2015, respectively, with the exception of related party notes disclosed in Note 8 - Notes Payable - Related
+Parties. 
+
+Future minimum principal payments of these notes payable with
+the exception of the related party notes in Note 8 - Notes Payable - Related Parties, as described in this Note 7 are as follows: 
+
+As of September 30, 2016, and December 31, 2015, accrued interest
+for these notes payable with the exception of the related party notes in Note 8 - Notes Payable - Related Parties, was $124,085
+and $138,486, respectively, and was reflected within accounts payable and accrued expenses on the consolidated balance sheets.
+As of September 30, 2016, and December 31, 2015, accrued loan participation fees were $171,321 and $166,039, respectively, and
+reflected within accounts payable and accrued expenses on the consolidated balance sheets. As of September 30, 2016, and December
+31, 2015, deferred interest of $159,304 and $136,078, respectively, was reflected within long term liabilities on the consolidated
+balance sheets. 
+
+With respect to all notes outstanding (other than the notes
+to related parties), interest expense, including the amortization of deferred financing costs, accrued loan participation fees,
+original issue discounts, deferred interest and related fees, interest expense related to warrants issued for the conversion of
+convertible notes, and the embedded conversion feature was $18,528 and $173,576 for the three and nine months ended September 30,
+2016, respectively, and $34,804 and $82,907, for the three and nine months ended September 30, 2015, respectively. 
+
+8. Notes Payable - Related Parties  
+
+On March 2, 2009, Intellinetics Ohio issued an unsecured promissory
+note payable to Jackie Chretien, mother of Matthew A. Chretien, a founder of the Company, in the amount of $80,000 due January
+1, 2016, as amended, and bearing interest at 5% per annum, with the principal and interest to be paid at maturity. On January 1,
+2016, Intellinetics Ohio paid in full the note payable of $15,000 and accrued interest of $4,403. 
+
+On December 29, 2001, Intellinetics Ohio issued an unsecured
+promissory note payable to A. Michael Chretien, a founder of the Company, in the amount of $55,167, with any unpaid principal and
+interest due on January 1, 2016, as amended. On January 1, 2016, Intellinetics Ohio paid in full the principal balance of $40,415
+plus accrued interest of $7,053. 
+
+On March 29, 2012, the Company issued an unsecured promissory
+note payable to Ramon Shealy, a then-director of the Company, who subsequently resigned from the Company s board of directors
+( Board of Directors ) on December 17, 2012, for personal reasons, in the amount of $238,000, bearing interest at a
+rate of 10% for the term of the note. All principal and interest was due and payable on September 27, 2012, but was later extended
+to November 24, 2012. On April 16, 2012, the Company issued another promissory note payable to Mr. Shealy, in the amount of $12,000,
+bearing interest at a rate of 10% per quarter. All principal and interest was due on July 15, 2012, but was later extended to November
+24, 2012. On November 24, 2012, the two notes were cancelled and replaced with a $250,000 promissory note, under the same terms,
+with a maturity date of January 1, 2014. On December 24, 2013, the maturity date of the $250,000 promissory note was extended to
+January 1, 2015. On March 13, 2013, the Company paid $100,000 of the principal amount of the $250,000 promissory note to Mr. Shealy.
+On December 31, 2014, the Company and Ramon Shealy agreed to extended payment terms for the remaining total principal and interest
+in the amount of $193,453, payable in sixty (60) monthly installments beginning January 31, 2015, with a maturity date of January
+1, 2020. As of September 30, 2016, the note payable had a principal balance of $136,380 and $0 accrued interest. 
+
+Notes payable due to related parties consist of the following: 
+
+Future minimum principal payments of these notes payable as
+described in this Note 8 are as follows: 
+
+As of September 30, 2016, and December 31, 2015, accrued interest
+for these notes payable-related parties amounted to $0 and $12,852, respectively. 
+
+For the three and nine months ended September 30, 2016 and 2015,
+interest expense in connection with notes payable   related parties were $3,556 and $11,288, and $125,274 and $268,783, respectively. 
+
+9. Deferred Compensation  
+
+Pursuant to the Company s employment agreements with the
+founders, the founders have earned incentive compensation totaling $215,012 in cash, which payment obligation has been deferred
+by the Company until it reasonably believes it has sufficient cash to make the payment. 
+
+10. Commitments and Contingencies  
+
+Employment Agreements   
+
+The Company has entered into employment agreements with four
+of its key executives. Under their respective agreements, the executives serve at will and are bound by typical confidentiality,
+non-solicitation and non-competition provisions. Deferred compensation for the founders of the Company, as disclosed in note 9
+above, is still outstanding as of September 30, 2016. 
+
+Operating Leases   
+
+On January 1, 2010, the Company entered
+into an agreement to lease 6,000 rentable square feet of office space in Columbus, Ohio at a monthly rent of $3,375. The lease
+commenced on January 1, 2010 and, pursuant to a lease extension dated August 14, 2014, the lease expires on December 31, 2016.
+On August 9, 2016, the Company entered into an amendment to extend the lease through December 31, 2021. 
+
+Future minimum lease payments under this operating lease are
+as follows: 
+
+Rent expense charged to operations for the three and nine months
+ended September 30, 2016 and 2015 amounted to $10,125 and $30,375, and $10,125 and $30,375, respectively. 
+
+11. Stockholders  Equity  
+
+Description of Authorized Capital   
+
+The Company is authorized to issue up to 50,000,000 Shares of
+common stock with $0.001 par value. The holders of the Company s common stock are entitled to one (1) vote per Share. The
+holders of common stock are entitled to receive ratably such dividends, if any, as may be declared by the Board of Directors out
+of legally available funds. However, the current policy of the Board of Directors is to retain earnings, if any, for the operation
+and expansion of the business. Upon liquidation, dissolution or winding-up of the Company, the holders of common stock are entitled
+to share ratably in all assets of the Company that are legally available for distribution. 
+
+Sales of Unregistered Securities and Conversion of Convertible
+Promissory Notes   
+
+On December 11, 2015, the Company commenced a private offering
+of securities (the  Equity Offering ) with certain accredited investors for up to 1,666,666 units for a price of $1.20
+per unit (the  Units ). Each Unit consisted of two Shares and a warrant to purchase one Share. The warrants are exercisable
+to purchase one Share at an exercise price of $0.65 per Share, contain a cashless exercise provision, and are exercisable for five
+years after issuance. This Equity Offering was open for a period terminating on December 31, 2015 with an option to extend until
+January 31, 2016 at the election of the Company. Simultaneously with this Equity Offering, the Company also offered to existing
+noteholders the ability to convert into common stock any outstanding convertible notes issued by the Company, plus accrued interest,
+at each note s conversion price (the  Note Conversion Offering ). In addition, upon such conversion, noteholders
+received warrants containing the same exercise terms and price as investors in the Equity Offering. 
+
+On January 6, 2016, noteholders converted $135,000 of convertible
+promissory notes with accrued interest of $35,038 into 303,912 Shares and also received 141,698 warrants, as part of the Note Conversion
+Offering. 
+
+On January 25, 2016, the Company entered into security purchase
+agreements with accredited investors for 506,599 Units, which consisted of 1,013,198 Shares with 506,599 warrants for aggregate
+cash proceeds of $607,919, as part of the Equity Offering. 
+
+The Company retained Taglich Brothers, Inc. (the  Placement
+Agent ) as the exclusive placement agent for the Equity Offering and the Note Conversion Offering. In compensation, the Company
+paid the Placement Agent a cash payment of 8% of the gross proceeds of the Equity Offering and of the face value of the current
+outstanding convertible promissory notes that were converted in the Note Conversion Offering, along with warrants to purchase Shares,
+and the reimbursement for the Placement Agent s reasonable out of pocket expenses, FINRA filing fees and related legal fees. 
+
+On January 27, 2016, the Company paid the Placement Agent cash
+in the amount of of $62,237 and issued the Placement Agent 131,682 warrants to purchase Shares at an exercise price at $0.715 per
+Share, under the terms of the Placement Agent agreement for the Equity Offering and the Note Conversion Offering. Of the warrants
+issued to the Placement Agent, 30,363 warrants were issued in conjunction with the Note Conversion Offering, and underwriting expense
+of $24,207 was recorded for the issuance of these warrants. 
+
+During the three and nine months ended September 30, 2016, the
+Company charged $0 and $113,762, respectively, in interest expense for the warrants issued to the noteholders and $24,207 in underwriting
+expenses in regards to the warrants issued to the Placement Agent for the convertible promissory notes, utilizing the Black-Scholes
+valuation model to value the warrants issued. The weighted-average grant date fair value of warrants issued was determined to be
+$0.80. 
+
+The estimated values of warrants, as well as the assumptions
+that were used in calculating such values were based on estimates at the issuance date as follows: 
+
+Pursuant to the terms of the Equity Offering and the Note Conversion
+Offering, the Company agreed to file a registration statement with the SEC covering the re-sale of the Shares sold in the
+Equity Offering and the Note Conversion Offering and the Shares issuable upon exercise of the Placement Agent warrants. The registration
+statement was declared effective on May 5, 2016. 
+
+Issuance of Restricted Common Stock to Directors   
+
+On January 2, 2016, the Company issued 69,433 Shares of restricted
+common stock to directors of the Company in accordance with the 2015 Plan, and as part of an annual compensation plan for both
+employee and non-employee directors. The grant of Shares was not subject to vesting. Stock compensation of $62,500 was recorded
+on the issuance of the common stock. 
+
+Exercise of Warrants   
+
+On February 15, 2013, the Company and A. Michael Chretien, a
+member of the Board of Directors, entered into a return to treasury agreement, whereby A. Michael Chretien returned 500,000 Shares
+to the Company. As consideration for A. Michael Chretien returning to the Company treasury these 500,000 Shares, the Company issued
+one four-year warrant to A. Michael Chretien with a right to purchase 500,000 Shares at $0.007 per Share within four years of the
+shareholders of the Company increasing the number of authorized Shares, with piggyback registration rights. The warrant has a right
+of first refusal for A. Michael Chretien to exercise up to 500,000 Shares prior to the Company issuing Shares in any transaction.
+The Company issued the warrant in reliance on an exemption from registration pursuant to Section 4(2) of the Securities Act, and
+Rule 506 of Regulation D, as promulgated by the SEC. On February 15, 2016, A. Michael Chretien exercised the warrant and purchased
+500,000 Shares at $0.007 per Share. 
+
+On July 11, 2016, an investor exercised 41,666 warrants to purchase
+stock through a cashless exercise for which he received 14,583 Shares at an exercise price of $.65 per share. 
+
+On August 24, 2016, 22,589 warrants issued to the Placement
+Agent were exercised to purchase stock through a cashless exercise for which it obtained 6,275 Shares at an exercise price of $.715
+per Share. 
+
+Shares Issued and Outstanding and Shares Reserved for
+Exercise of Warrants   
+
+The Company has 16,815,850 Shares issued and outstanding, 5,444,924
+Shares reserved for issuance upon the exercise of outstanding warrants, and 1,930,557 Shares reserved for issuance under the 2015
+Intellinetics Inc. Equity Incentive Plan, as of September 30, 2016. 
+
+12. Share-Based Compensation  
+
+On January 1, 2016, the Company granted employees stock options
+to purchase 250,000 Shares at an exercise price of $0.90 per Share in accordance with the 2015 Intellinetics, Inc. Equity Incentive
+Plan, with vesting continuing until 2019. The total fair value of $196,250 for these stock options will be recognized by the Company
+over the applicable vesting period. 
+
+On February 10, 2016, the Company granted employees stock options
+to purchase 210,000 Shares at an exercise price of $0.96 per Share in accordance with the 2015 Intellinetics, Inc. Equity Incentive
+Plan, with vesting continuing until 2020. The total fair value of $174,748 for these stock options will be recognized by the Company
+over the applicable vesting period. 
+
+The weighted average estimated values of employee stock option
+grants, as well as the weighted average assumptions that were used in calculating such values during the three and nine months
+ended September 30, 2016, were based on estimates at the date of grant as follows: 
+
+A summary of stock option activity during the nine months ended
+September 30, 2016 under our stock option agreements is as follows: 
+
+The weighted-average grant date fair value of options granted
+during the three and nine months ended September 30, 2016 was $0.81. 
+
+As of September 30, 2016, there was $452,409 of total unrecognized
+compensation costs related to stock options granted under our stock option agreements. $257,409 of the unrecognized compensation
+cost is expected to be recognized over a weighted-average period of three years. $195,000 of the unrecognized compensation cost
+will be recognized upon satisfaction of the vesting contingency. The total fair value of stock options that vested during the three
+and nine months ended September 30, 2016 was $49,062. 
+
+13. Concentrations  
+
+Revenues from the Company s services to a limited number
+of customers have accounted for a substantial percentage of the Company s total revenues. For the three months ended September
+30, 2016, the Company s two largest customers, Tiburon, Inc. ( Tiburon ) a Reseller and Franklin County Data
+Center ( FCDC ) a direct client accounted for approximately 13% and 11%, respectively, of the Company s
+total revenue for that period. For the three months ended September 30, 2015, the Company s two largest customers, Washington
+State Patrol ( WSP ), a direct client, and Tiburon accounted for 9% and 8%, respectively, of the Company s total revenue
+for that period. For the nine months ended September 30, 2016, the Company s two largest customers, Tiburon and FCDC accounted
+for approximately 10% and 9%, respectively, of the Company s total revenues for that period. For the nine
+months ended September 30, 2015, the Company s two largest customers, Tiburon and WSP, accounted for approximately 11% and 5%,
+respectively, of the Company s total revenues for that period. 
+
+For the three months ended September 30, 2016 and 2015, government
+contracts represented approximately 37% and 42%, respectively, of the Company s total revenues. A significant portion
+of the Company s sales to Tiburon and Lexmark represent ultimate sales to government agencies. For the nine months ended
+September 30, 2016 and 2015, government contracts represented approximately 41% and 42%, respectively, of the Company s total
+revenue. 
+ 
+As of September 30, 2016, accounts receivable concentrations from the Company s three largest customers were 23%, 11%
+and 10% of gross accounts receivable, respectively As of December 31, 2015, accounts receivable concentrations from the Company s
+three largest customers were 18%, 13% and 12% of gross accounts receivable, respectively. Accounts receivable balances from
+the Company s three largest customers at September 30, 2016 have since been partially collected. 
+
+ITEM 2    MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS  
+
+The following management s discussion and analysis of
+financial conditions and results of operations of the Company for the three and nine months ended September 30, 2016, and 2015
+should be read in conjunction with our financial statements and the notes to those financial statements that are included elsewhere
+in this Form 10-Q. References in this  Management s Discussion and Analysis of Financial Condition and Results of Operations 
+to the  Company,   us,   we,   our,  and similar terms refer to Intellinetics,
+Inc., and its sole operating subsidiary, Intellinetics, Inc., unless we state otherwise or the context indicates otherwise. 
+
+This discussion includes forward-looking statements, as that
+term is defined in the federal securities laws, based upon current expectations that involve risks and uncertainties, such as plans,
+objectives, expectations and intentions. Actual results and the timing of events could differ materially from those anticipated
+in these forward-looking statements as a result of a number of factors. Words such as  anticipate,   estimate, 
+ plan,   continuing,   ongoing,   expect,   believe,   intend, 
+ may,   will,   should,   could,  and similar expressions are used to identify
+forward-looking statements. 
+
+We caution you that these statements are not guarantees of future
+performance or events and are subject to a number of uncertainties, risks and other influences, many of which are beyond our control,
+which may influence the accuracy of the statements and the projections upon which the statements are based. Factors that may affect
+our results include, but are not limited to, the risk factors that are included in Part I, Item IA of our Annual Report on Form
+10-K for the year ended December 31, 2015. Any one or more of these uncertainties, risks and other influences could materially
+affect our results of operations and whether forward-looking statements made by us ultimately prove to be accurate. Our actual
+results, performance and achievements could differ materially from those expressed or implied in these forward-looking statements.
+We undertake no obligation to publicly update or revise any forward-looking statements, whether from new information, future events
+or otherwise. 
+
+Our Management s Discussion and Analysis of Financial
+Condition and Results of Operations section discusses our financial statements, which have been prepared in accordance with accounting
+principles generally accepted in the United States of America. The preparation of these financial statements requires management
+to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements
+and the reported amounts of revenues and expenses during the reporting period. On an on-going basis, we evaluate our estimates
+and judgments, including those related to revenue recognition accrued expenses, financing operations, contingencies and litigation.
+We base our estimates and judgments on historical experience and on various other factors that are believed to be reasonable under
+the circumstances, the results which form the basis for making judgments about the carrying value of assets and liabilities that
+are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions.
+The most significant accounting estimates inherent in the preparation of our financial statements include estimates as to the appropriate
+carry value of certain assets and liabilities which are not readily apparent from other sources. These accounting policies are
+described at relevant sections in this discussion and analysis and in the notes to the financial statements included in this report
+for the three months ended September 30, 2016. 
+
+Company Overview   
+
+The Company is an enterprise content management ( ECM )
+software development, sales and marketing company serving both the public and private sectors. In the public sector, the Company s
+products, services and process models serve, principally, the critical needs of law enforcement and compliance agencies within
+the state and local government establishment. The Company provides its software solutions principally through (i) the direct licensing
+of its software installed on customer computer platforms and (ii) providing the applications as a service, accessible through the
+internet. The Company s comprehensive solutions include services that range from pre-installation assessment, project scoping,
+implementation, consulting and ongoing software maintenance and customer support. In time, the Company anticipates that the provision
+of  cloud  application services, or software as a service, will become a more significant part of its software sales
+business. 
+
+The Company s software products allow customers to manage
+ enterprise content  (unstructured data such as hard-copy scanned documents, Word documents, Excel spreadsheets, JPEG
+files, images, pictures, faxes, audio/video files, emails, and PowerPoint presentations) through its entire life cycle. The Company s
+platform, Intellivue , specializes in improving and enhancing business operations for clients by making document and content
+management simple, accessible and affordable. The Company offers industry-specific vertical  composite content applications 
+( CCA ) to clients in a pre-configured, on-demand basis through the  On-demand Solution Store . 
+This approach to deploying templates for specific business processes empowers clients to affordably manage their complete document
+life cycle inherently within the turnkey IntellivueTM platform. 
+
+To date, most of our software customers install our software
+onto computers at their location (premises-based). In time, the Company anticipates that the provision of  cloud  application
+services, or software as a service, will become a more significant part of its software sales business. We anticipate that cloud-based
+services will become the principal part of our software sales business and a primary source of revenues for us, because this model
+allows customers to avoid significant upfront costs for hardware and installation services required for a premises-based delivery.
+That said, we are just beginning to see our customers migrate to such cloud-based services. Our revenues from cloud-based delivery
+of our software, as a percentage of total revenue for the nine months ended September 30, 2016 and 2015, were 19% and 10% respectively. 
+
+Our current sales strategy is to focus our sales efforts toward
+a much greater percentage of sales through intermediaries, such as software resellers and multi- function device resellers, rather
+than through direct sales. We have developed marketing programs with resellers that facilitate their selling and support of our
+software solutions. We refer to these resellers as our  channel partners.  We believe that our channel partner strategy
+improvements have increased the competitive strength of our platform of products. In addition, we have established a set of business
+solutions templates that provide base software configurations which we believe will facilitate our delivery and installation of
+software to our customers. We believe that these advancements, in the aggregate, will allow us to license and sell our products
+to a broader customer base, shortening our sales cycle, making margins more consistent, and allowing us to expand our sales through
+new channel partnerships. We continue to devote significant efforts, in both development and marketing, in bringing about this
+change in core strategic focus for the Company. 
+
+Revenues   
+
+Revenues are generated from the licensing, subscription and
+maintenance of our enterprise software products and from professional services fees in connection with the implementation and integration
+of software applications. Our revenues, especially our license revenues, are impacted by the competitive strength of our software
+products, as well as general economic and industry conditions. 
+
+For our sales of software our customer base has traditionally
+been made up of customers with larger projects that can take as much as nine (9) months to two (2) years to complete. For these
+projects, our policy is to recognize revenue on the percentage of completion basis, measured by the percentage of labor hours incurred
+to date to estimated total labor hours for each contract, or on a completed contract basis when dependable estimates are not available. 
+
+Cost of Revenues   
+
+We maintain a staff of software design engineers, developers,
+installers and customer support personnel, dedicated to the development and implementation of customer applications, customer support
+and maintenance of deployed software applications. While the total costs related to these personnel are relatively consistent from
+period to period, the cost of revenues categories to which these costs are charged may vary depending on the type of work performed
+by our staff. 
+
+Costs of revenues also include the costs of server hosting and
+SaaS application, as well as certain third-party costs and hardware costs incurred. Third-party and hardware costs may vary widely
+from quarter to quarter. 
+
+Sales and Marketing Expenses   
+
+Sales expenses consist of compensation and overhead associated
+with the development and support of our channel sales network, as well as our direct sales efforts. Marketing expenses consist
+primarily of compensation and overhead associated with the development and production of product marketing materials, as well as
+promotion of the Company s products through the trade and industry. 
+
+General and Administrative Expenses   
+
+General and administrative expenses consist of the compensation
+and overhead of administrative personnel and professional services firms performing administrative functions, including management,
+accounting, finance and legal services, plus expenses associated with infrastructure, including depreciation, information technology,
+telecommunications, facilities and insurance. 
+
+Interest, Net   
+
+Interest, net, consists primarily of interest expense associated
+with our notes payable. See Results of Operations   Interest Expense   Net, for additional information. 
+
+How We Evaluate our Business Performance and Opportunities  
+
+Major Quantitative and Qualitative Factors We
+Consider in the Evaluation of our Business   
+
+The major qualitative and quantitative factors we consider in
+the evaluation of our operating results include the following: 
+
+Our current strategy is to focus upon cloud-based delivery of our software products through channel partners. Historically, our revenues have mostly resulted from premise-based software licensing revenue and professional services revenue. Our observation of industry trends leads us to anticipate that cloud-based delivery will become our principal software business and a primary source of revenues for us, but we are just beginning to see our customers migrate to cloud-based services. Accordingly, when we evaluate our results, we assess whether our cloud-based software revenues are increasing, relative to prior periods and relative to other sources of revenue. Additionally, we assess whether our sales resulting from relationships with channel partners are increasing, relative to prior periods and relative to direct sales to customers. Finally, we consider the number of channel partners with which we have a contract or other relationship to be an indicator of our performance and future results.   
+
+Our customer engagements often involve the development and licensing of customer-specific software solutions and related consulting and software maintenance services. When analyzing whether to undertake a particular customer engagement, we often consider all of the following factors as part of our overall strategy to grow the business: (i) the profit margins the project may yield, (ii) whether the project will allow us to enter a new geographic market, (iii) whether the project would enable us to demonstrate our capabilities to large national resellers, or (iv) whether the project would help to develop new product and service features that we could integrate into our suite of products, resulting in an overall product portfolio that better aligns with the needs of our target customers. As a result of this pipeline analysis, we may take on projects with a lower project margin if we determine that the project is valuable to our business for the other reasons discussed.   
+
+Our sales cycle is long, sometimes lasting 18-24 months. Even when a project begins, we often perform pre-installation assessment, project scoping, and implementation consulting. Our revenue and profit in any particular period is significantly influenced by sales efforts and preliminary project work conducted in prior periods but not completed and recognized until the current period. Therefore, when we plan our business and evaluate our results, we consider the revenue we expect to recognize from projects in our late-stage pipeline.   
+
+Our research and development efforts and expenses to create new software products are critical to our success. When developing new products or product enhancements, our developers collaborate with our own employees across a wide variety of job functions. We also gather in-depth feedback from our customers and channel partners. We evaluate new products and services to determine their likelihood of market success and their potential profitability.   
+
+We monitor our costs and capital needs to ensure efficiency as well as an adequate level of support for our business plan.   
+
+Uncertainties, Trends, and Risks that can cause
+Fluctuations in our Operating Results   
+
+Our operating results have fluctuated significantly in the past
+and are expected to continue to fluctuate in the future due to a variety of factors. Factors that affect our operating results
+include the following: 
+
+our capital needs, and the costs at which we are able to obtain capital;   
+
+general economic conditions that affect the amount our customers are spending on their software needs, the cost at which we can provide software products and services, and the costs at which we can obtain capital;   
+
+the development of new products, requiring development expenses, product rollout, and market acceptance;   
+
+the length of our sales cycle;   
+
+the fact that many of our customers are governmental organizations, exposing us to the risk of early termination, audits, investigations, sanctions, and other penalties not typically associated with private customers;   
+
+our relationships with our channel partners, for purposes of product delivery, introduction to new markets and customers, and for feedback on product development;   
+
+our need to increase expenses at the beginning of a customer project, while associated revenue is recognized over the life of the project;   
+
+the potential effect of security breaches, data center infrastructure capacity, our use of open-source software, and governmental regulation and litigation over data privacy and security;   
+
+whether our clients renew their agreements and timely remit our accounts receivable;   
+
+whether we can license third-party software on reasonable terms;   
+
+our ability to protect and utilize our intellectual property; and   
+
+the effects of litigation, warranty claims, and other claims and proceedings.   
+
+Due to all these factors and the other risks discussed in Part
+I, Item IA of our Annual Report on Form 10-K for the year ended December 31, 2015, our results of operations should not be relied
+upon as an indication of our future performance. Comparisons of our operating results with prior periods is not necessarily meaningful
+or indicative of future performance. 
+
+Results of Operations  
+
+Overview   
+
+We reported net losses of $246,767 and $253,553 for the three
+months ended September 30, 2016 and 2015, respectively, representing a decrease in net loss of $6,786 or 3%. We reported gross
+profit of $537,532 and $491,280 for the three months ended September 30, 2016 and 2015, respectively, representing an increase
+in gross profit of $46,252, or 9%. We reported operating expenses of $762,215 and $584,755 for the three months ended September
+30, 2016 and 2015, respectively, representing an increase in operating expenses of $177,460, or 30%. The increase in operating
+expenses was principally related to stock option compensation, director fees and professional fees associated
+with adding additional personnel for the future growth of the Company. We reported net losses of $1,184,497 and $1,130,173
+for the nine months ended September 30, 2016 and 2015, respectively, representing an increase in net loss of $54,324 or 5%. We
+reported gross profit of $1,449,134 and $1,401,243 for the nine months ended September 30, 2016 and 2015, respectively, representing
+an increase of $47,891, or 3%. We reported operating expenses of $2,448,766 and $2,179,726 for the nine months ended September
+30, 2016 and 2015, respectively, representing an increase of $269,040, or 12%. The increase in operating expenses was principally
+related to stock option compensation, director fees, marketing and professional fees associated with adding additional personnel
+for the future growth of the Company. 
+
+Revenues   
+
+We reported total revenues of $679,445 and $621,974 for the
+three months ended September 30, 2016 and 2015, respectively, representing an increase of $57,471 or 9%. For the nine months ended
+September 30, 2016 and 2015, respectively, revenues were $1,919,585 and $1,767,919, respectively, representing an increase of $151,666
+or 9%. 
+
+Sale of Software  
+
+Revenues from the sale of software principally consist of sales
+of additional or upgraded software licenses and applications to existing customers and sales of software to our resellers. These
+software revenues were $96,869 and $136,459, for the three months ended September 30, 2016 and 2015, respectively, representing
+a decrease of $39,590, or 29%. For the nine months ended September 30, 2016 and 2015, respectively, revenues were $289,437 and
+$449,219 representing a decrease of $159,782, or 36%. The decreases were due to concentrating our efforts to develop and expand
+our software as a service as discussed below. 
+
+Sale of Software as a Service  
+
+For those customers that wish to avoid the upfront costs of
+typical premises-based software installations, we provide access to our software as a service, accessible through the internet.
+Our customers typically enter into our software as a service agreement for periods in excess of one year. Under these agreements,
+we generally provide access to the applicable software, data storage and related customer assistance and support. Our software
+as a service revenues were $137,343 and $64,817 for the three months ended September 30, 2016 and 2015, respectively, representing
+an increase of $72,526, or 112%. Our software as a service revenues were $363,842 and $182,322, for the nine months ended September
+30, 2016 and 2015, respectively, representing an increase of $181,520 or 100%. The increase in revenue year-over-year was primarily
+the result of new customers and relationships with channel partners. 
+
+Sale of Software Maintenance Services  
+
+Software maintenance services revenues consist of fees for post
+contract customer support services provided to license holders. These agreements allow our customers to receive technical support,
+enhancements and upgrades to new versions of our software products when and if available. A substantial portion of these revenues
+were generated from customers to whom we sold software in prior years who have continued to renew their maintenance agreements.
+The support and maintenance agreements typically have a term of 12 months. Our software maintenance support revenue was $256,441
+and $239,506, for the three months ended September 30, 2016 and 2015, respectively, representing an increase of $16,935, or 7%.
+Our software maintenance support revenue was $748,354 and $700,116 for the nine months ended September 30, 2016 and 2015, respectively,
+representing an increase of $48,238, or 7%. The increase in revenue was primarily the result of the sale of new customer software
+and the continued maintenance of previous customers, for which maintenance agreements are renewed each year. 
+
+Sale of Professional Services  
+
+Professional services revenues consist of
+revenues from consulting, discovery, training, and advisory services to assist customers with document management needs. These
+revenues include those arrangements where we do not sell software license as an element of the overall arrangement. Professional
+services revenues were $153,895 and $152,169 for the three months ended September 30, 2016 and 2015, respectively, representing
+an increase of $1,726, or 1%. For the nine months ended September 30, 2016 and 2015, respectively, professional services revenues
+were $337,680 and $327,189, respectively, representing an increase of $10,491 or 3%. The increase primarily resulted from an increase
+in requests from our clients in the second quarter of 2016. 
+
+Sale of Third Party Services  
+
+Third party services consist of third party vendor software,
+hardware and/or services purchases as requested by our customers in conjunction with Intellinetics core software or services. Third
+party services revenues were $34,897 and $29,023, respectively, for the three months ended September 30, 2016 and 2015, respectively,
+representing an increase of $5,874 or 20%. For the nine months ended September 30, 2016 and 2015, respectively, third party services
+were $180,272 and $109,073, an increase of $71,199, or 65%. The increase was primarily from document scanning projects during the
+first and second quarters of 2016. 
+
+Cost of Revenues   
+
+The cost of revenues during the three months ended September
+30, 2016 and 2015 were $141,913 and $130,694, respectively, representing an increase of $11,219, or 9%. For the nine months ended
+September 30, 2016 and 2015, respectively, the cost of revenues was $470,451 and $366,676, representing an increase of $103,775,
+or 28%. The increase in cost of revenue for the period ended September 30, 2016 is primarily due to additional labor costs in completing
+software services, and the cost of third party services. 
+
+Gross Margins   
+
+Overall gross margin for the three months ended September 30,
+2016 and 2015 were 79% and 79%, respectively, representing no change. For the nine months ended September 30, 2016 and 2015, the
+gross margins were 75% and 79%. The decrease in gross margin year-over-year is primarily as result of the mix in revenues, primarily
+professional and third party services. 
+
+Operating Expenses   
+
+General and Administrative Expenses  
+
+General and administrative expenses were $420,935 during the
+three months ended September 30, 2016 as compared to $390,841 during the three months ended September 30, 2015, representing an
+increase of $30,094, or 8%. The increase was primarily due to an increase in payroll expense in the 3 rd  quarter of 2016.
+For the nine months ended September 30, 2016 and 2015, general and administrative expenses were $1,598,185 and $1,548,096, representing
+an increase of $50,089 or 3%. The increase was primarily due to warrant expense relating to the conversion of notes payable to
+equity, employee stock option expense and directors  fees and stock expense issued in 2016, offset from a reduction in stock
+option compensation expense in 2015. 
+
+Sales and Marketing Expenses  
+
+Sales and marketing expenses increased to $338,843 during the
+three months ended September 30, 2016 as compared to $191,325 during the three months ended September 30, 2015, representing an
+increase of $147,518 or 77%. The increase was primarily related to our hiring additional sales personnel for business development
+for additional channel partners and with market branding of our products. For the nine months ended September 30, 2016 and 2015,
+respectively, sales and marketing expenses were $842,421 and $622,990, representing an increase of $219,431 or 35%. The increase
+was due to the increase in sales personnel and market branding in the nine months ended September 30, 2016. 
+
+Depreciation and Amortization  
+
+Depreciation and amortization was $2,437 for the three months
+ended September 30, 2016, as compared to $2,589 for the three months ended September 30, 2015, representing a decrease of $152
+or approximately 6%. For the nine months ended September 30, 2016 and 2015, respectively, depreciation and amortization was $8,160
+and $8,640, representing a decrease of $480. The decrease was the result of certain assets becoming fully depreciated. 
+
+Interest Expense, Net  
+
+Interest expense, net, was $22,084 during
+the three months ended September 30, 2016 as compared to $160,078 during the three months ended September 30, 2015, representing
+a decrease of $137,994 or 86%. The decrease resulted from a decrease in the average debt balance outstanding as a result from the
+conversion of the convertible promissory notes. For the nine months ended September 30, 2016 and 2015, respectively, interest expense
+was $184,865 and $351,690, a decrease of $166,825 or 47%. The decrease resulted primarily from a decrease in the average debt balance
+outstanding during the nine months ended September 30, 2016 offset by interest expense charged for warrants on the conversion of
+the convertible promissory notes in the first quarter of 2016. 
+
+Liquidity and Capital Resources  
+
+We have financed our operations primarily through a combination
+of cash on hand; cash generated from operations, and proceeds from private sales of equity. As of September 30, 2016, our major
+liquidity indicators are: 
+
+From our inception, we have generated revenues
+from the sales and implementation of our internally generated software applications. Our plan is to increase our sales and market
+share by developing an expanded network of resellers through which we expect to sell our expanded software product portfolio. We
+expect that this marketing initiative will require us to develop an expanded sales force and enhance our product marketing efforts,
+all of which will require additional capital. Although management believes that we may have access to additional capital resources,
+there are currently no commitments in place for new financing, and there is no assurance that we will be able to obtain funds on
+commercially acceptable terms, if at all. 
+
+On January 25, 2016, the Company entered into a securities purchase
+agreement with certain accredited investors for a private placement of common stock with attached warrants for gross proceeds of
+$607,919, which was part of a private placement commenced in December 2015. The proceeds from the private placement were used to
+fund our working capital needs and debt repayment. 
+
+The Company expects that through the next 12 months the capital
+requirements to fund the Company s growth and to cover the operating costs as a public company will consume substantially
+all the cash flows that it intends to generate from its operations. The Company further believes that during this period, while
+the Company is focusing on the growth and expansion of its business, the gross profit that it expects to generate from operations
+may not generate sufficient funds to cover these anticipated operating costs. Our cash requirements are insufficient by approximately
+$103,000 per month. Assuming over the next 9 to 12 months, we do not increase our cash flow generated from operations or obtain
+additional capital or debt financing, we will not have sufficient liquidity to fund operations. 
+
+There is no assurance that the Company s plans as discussed
+above will materialize and/or that the Company will have sufficient funds to fund the Company s operations. Given these conditions,
+the Company ability to continue as a going concern is contingent upon increasing its revenues, successfully managing its cash requirements,
+and raising additional funds. 
+
+Assuming that we are successful in our growth plans and development
+efforts, we believe that we will be able to raise additional funds through sales of our common stock, issuance of debt or some
+other financing source. However, we currently have no agreements, commitments, or other arrangements in place that would provide
+any additional funds, and thus there is no assurance that we will be able to raise any additional funds or that any such funds
+we do raise would be sufficient to fund our operations or would be on acceptable terms. 
+
+Our financial statements do not include any adjustments relating
+to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that might
+be necessary should we be unable to continue as a going concern. 
+
+Liquidity and Capital Resource - Equity Capital
+Resources   
+
+Shares Issued and Outstanding and Shares Reserved
+for Exercise of Warrants  
+
+As of September 30, 2016, the Company has 16,815,850 Shares
+issued and outstanding, 5,444,924 Shares reserved for issuance upon the exercise of outstanding warrants and 1,930,557 Shares reserved
+for issuance under the 2015 Intellinetics Inc. Equity Incentive Plan. 
+
+Our Shares are available for quotation on the OTCQB Venture
+Market, and we believe this is important for raising capital to finance our growth plan. We intend to deploy any future capital
+we may raise to expand our sales and marketing capabilities, develop ancillary software products, enhance our internal infrastructure,
+support the accounting, auditing and legal costs of operating as a public company, and provide working capital. We currently have
+no commitment to raise any additional capital in the future and there is no assurance we will be able to do so. 
+
+Liquidity and Capital Resource - Debt Capital
+Resources   
+
+Promissory Notes  
+
+On December 31, 2014, Intellinetics Ohio and Ramon M. Shealy
+cancelled and converted a promissory note issued to Mr. Shealy, with a total principal balance and unpaid interest of $193,453
+into a new promissory note with a maturity date of January 1, 2020. For more information, please see Note 8 to the Consolidated
+Financial Statements;  Notes Payable.  
+
+On December 31, 2014, Intellinetics Ohio and Jackie M. Chretien,
+who is the mother of Matthew Chretien, a founder of the Company, extended the maturity date of a promissory note issued Intellinetics
+Ohio to Ms. Chretien, from January 1, 2015 to January 1, 2016 without changing any other terms of that promissory note. On January
+1, 2016, Intellinetics Ohio paid in full the principal and interest of this promissory note. 
+
+On December 31, 2014, Intellinetics Ohio and A. Michael Chretien,
+who is the Secretary and Chairman of the Company, extended the maturity date of a promissory note, issued by Intellinetics Ohio
+to A. Michael Chretien, from January 1, 2015, to January 1, 2016, without changing any other terms of that promissory note. On
+January 1, 2016, Intellinetics Ohio paid in full the principal and interest of this promissory note. 
+
+Issuance of Convertible Notes.  
+
+Between June 24, 2014 and July 7, 2014, the Company issued new
+convertible promissory notes as a source of debt liquidity to certain related and unrelated accredited investors. In January 2016,
+Note Investors converted $135,000 of principal and $35,038 of accrued interest in common stock with attached warrants. As of September
+30, 2016, there are no convertible promissory notes outstanding. For more information, please see Note 7 to the Consolidated Financial
+Statements. 
+
+Summary of Current Outstanding Indebtedness  
+
+The Company s outstanding indebtedness
+at September 30, 2016 is as follows: 
+
+There were no material commitments for capital
+expenditures at September 30, 2016. 
+
+Cash Flows   
+
+Operating Activities  
+
+Net cash used in operating activities for the nine months ended
+September 30, 2016 and 2015 was $1,249,649 and $411,111 respectively. During the nine months ended September 30, 2016, the net
+cash used in operating activities was primarily attributable to the net loss adjusted for non- cash expenses of $325,101 and a
+decrease in net operating liabilities of $390,253. During the nine months ended September 30, 2015, the net cash used in operating
+activities was primarily attributable to the net loss adjusted for non-cash expenses of $590,073 and an increase in net operating
+liabilities of $128,989. 
+
+Investing Activities  
+
+Net cash used in investing activities for the nine months ended
+September 30, 2016 and 2015 amounted to $6,867 and $3,888, respectively, and was related to the purchase of property and equipment. 
+
+Financing Activities  
+
+Net cash provided by financing activities for the nine months
+ended September 30, 2016 amounted to $298,951. The net cash provided by financing activities resulted from the sale of common stock,
+offset by $263,834 of notes payable repayments, of which $83,834 was repaid to related parties. 
+
+Net cash provided by financing activities for the nine months
+ended September 30, 2015 amounted to $402,939. The net cash provided by financing activities resulted from new related party borrowings
+of $582,000, offset by $179,061 of notes payable repayments, of which $23,248 was repaid to related parties. 
+
+Critical Accounting Policies and Estimates   
+
+There have been no significant changes during the nine months
+ended September 30, 2016 to the items that we disclosed as our critical accounting policies and use of estimates in our  Management s
+Discussion and Analysis of Financial Condition and Results of Operations  in our Annual Report on Form 10-K for the year
+ending in December 31, 2015. 
+
+Liquidity, Going Concern and Management s
+Plans   
+
+We have incurred substantial recurring losses since our inception.
+The accompanying financial statements have been prepared assuming that we will continue as a going concern, which contemplates
+the realization of assets and satisfaction of liabilities and commitments in the normal course of business. We are also in the
+process of exploring strategies to increase our existing revenues. We believe we will be successful in these efforts; however,
+there can be no assurance we will be successful in raising additional debt or equity financing or finding any other financing source
+to fund our operations on terms agreeable to us. These matters raise substantial doubt about our ability to continue as a going
+concern. The financial statements do not include any adjustments that might be necessary if we were unable to continue as a going
+concern. 
+
+Use of Estimates   
+
+The preparation of our consolidated financial statements in
+conformity with U.S. GAAP requires management to exercise its judgment. We exercise considerable judgment with respect to establishing
+sound accounting policies and in making estimates and assumptions that affect the reported amounts of our assets and liabilities,
+our recognition of revenues and expenses, and other financial information. 
+
+On an ongoing basis, we evaluate our estimates and judgments.
+Areas in which we exercise significant judgment include, but are not necessarily limited to, our valuation of accounts receivable
+and income taxes. 
+
+We base our estimates and judgments on a variety of factors,
+including our historical experience, knowledge of our business and industry, current and expected economic conditions, and the
+attributes of our products and services. We periodically re-evaluate our estimates and assumptions with respect to these judgments
+and modify our approach when circumstances indicate that modifications are necessary. 
+
+While we believe that the factors we evaluate
+provide us with a meaningful basis for establishing and applying sound accounting policies, we cannot guarantee that the results
+will always be accurate. Since the determination of these estimates requires the exercise of judgment, actual results could differ
+from such estimates. 
+
+A description of significant accounting policies that require
+us to make significant estimates and assumptions in the preparation of our consolidated financial statements is the allowance for
+doubtful accounts and valuation allowance for deferred tax assets. 
+
+We establish allowances for doubtful accounts based on certain
+percentages of accounts sixty days or more past due and when available information causes us to believe that credit loss is probable.
+Due to historical losses, a full valuation allowance is recognized on deferred tax assets. 
+
+Item 3. Quantitative and Qualitative
+Disclosures About Market Risk.  
+
+Not applicable to smaller reporting companies. 
+
+Item 4. Controls and Procedures.  
+
+(a) Evaluation of disclosure controls
+and procedures.  
+
+With the participation of our principal
+executive officer and principal financial officer, we evaluated the effectiveness of our disclosure controls and procedures pursuant
+to Rule 13a-15 under the Exchange Act. In designing and evaluating the disclosure controls and procedures, we recognize that any
+controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired
+control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource
+constraints and that we are required to apply our judgment in evaluating the benefits of possible controls and procedures relative
+to their costs. 
+
+Based on our evaluation, our principal executive officer
+and principal financial officer concluded that as of the end of the period covered by this Quarterly Report on Form 10-Q, our disclosure
+controls and procedures were not effective as required under Rules 13a-15(e) and 15d-15(e) under the Exchange Act as a result of
+the material weakness in our internal control over financial reporting. 
+
+The following material weakness, which relates to internal control
+over financial reporting, was identified in Item 9A of our Annual Report on Form 10-K for the year ended December 31, 2015, and
+has not been remediated: 
+
+We did not maintain technical accounting knowledge,
+and training in the application of GAAP commensurate with our complexity and our financial accounting and reporting requirements.  In
+connection with the audit of the December 31, 2015 consolidated financial statements a number of required adjustments were identified
+by our independent registered public accounting firm related to our offering of stock and warrants and the conversion of convertible
+debt.  As a result, there is a reasonable possibility that material misstatements of the consolidated financial statements,
+including disclosures, will not be prevented or detected on a timely basis. 
+
+We are evaluating the continuing material weakness, as well
+as the need and costs to increase our personnel resources and technical accounting expertise within the accounting function.  As
+our operations are relatively small, we do not anticipate being able to hire additional internal personnel until such time as our
+operations are large enough to justify the hiring of additional accounting personnel. As necessary, we may engage consultants in
+the future in order to ensure proper accounting for our consolidated financial statements. 
+
+(b) Changes in internal control over
+financial reporting.  
+
+There were no changes in our internal control over financial
+reporting that occurred during the nine months ended September 30, 2016 that have materially affected, or are reasonably likely
+to materially affect, our internal control over financial reporting. 
+
+PART II OTHER INFORMATION  
+
+ITEM 1. LEGAL PROCEEDINGS.  
+
+None. 
+
+ITEM 1A. RISK FACTORS.  
+
+Our business and operating results are subject to many risks,
+uncertainties and other factors. If any of these risks were to occur, our business, affairs, assets, financial condition, results
+of operations, cash flows and prospects could be materially and adversely affected. These risks, uncertainties and other factors
+include the information discussed elsewhere in this report as well as the risk factors set forth in Part I, Item 1A of our Annual
+Report on Form 10-K for the fiscal year ended December 31, 2015, which have not materially changed as of the date of this report. 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY
+SECURITIES AND USE OF PROCEEDS.  
+
+There have been no securities sold by the registrant during
+the period covered by this Quarterly Report on Form 10-Q that have not previously been included on a Form 8-K. 
+
+ITEM 3. DEFAULT UPON SENIOR SECURITIES.  
+
+None. 
+
+ITEM 4. MINE SAFETY DISCLOSURES.  
+
+Not Applicable. 
+
+ITEM 5. OTHER INFORMATION.  
+
+None. 
+
+ITEM 6. EXHIBITS.  
+
+The following is a list of exhibits filed as part of this Quarterly
+Report on Form 10-Q. 
+
+Exhibit No.  
+       
+      Description of Exhibit   
+ 
+      31.1*  
+       
+      Certification of Principal Executive Officer pursuant to Section 302 of The Sarbanes-Oxley Act of 2002.   
+ 
+      31.2*  
+       
+      Certification of Principal Financial Officer pursuant to Section 302 of The Sarbanes-Oxley Act of 2002.   
+ 
+      32.1*  
+       
+      Certification of Principal Executive Officer pursuant to Section 906 of The Sarbanes-Oxley Act of 2002.   
+ 
+      32.2*  
+       
+      Certification of Principal Financial Officer pursuant to Section 906 of The Sarbanes-Oxley Act of 2002.   
+ 
+      101.*  
+       
+      INS XBRL Instance Document.   
+ 
+      101.*  
+       
+      SCH XBRL Taxonomy Schema.   
+ 
+      101.*  
+       
+      CAL XBRL Taxonomy Extension Calculation Linkbase.   
+ 
+      101.*  
+       
+      DEF XBRL Taxonomy Extension Definition Linkbase.   
+ 
+      101.*  
+       
+      LAB XBRL Taxonomy Extension Label Linkbase.   
+ 
+      101.*  
+       
+      PRE XBRL Taxonomy Extension Presentation Linkbase.   
+
+* filed herewith 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+INTELLINETICS, INC.   
+
+Dated:  November 14, 2016   
+
+By:  
+      /s/ Matthew L. Chretien   
+
+Matthew L. Chretien   
+
+President and Chief Executive Officer   
+
+Dated:  November 14, 2016   
+
+By:  
+      /s/ Kendall D. Gill   
+
+Kendall D. Gill   
+
+Chief Financial Officer   
+
+<EX-31.1>
+ 2
+ v452139_ex31-1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1  
+
+Certification Pursuant to Section 302
+of the Sarbanes-Oxley Act of 2002  
+
+I, Matthew L. Chretien, certify that: 
+
+1. I have reviewed this report on Form 10-Q of Intellinetics,
+Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are
+responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant
+and have: 
+
+a) Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the
+registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the
+period in which this report is being prepared; 
+
+b) Designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+
+c) Evaluated the effectiveness of the registrant s disclosure
+controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures,
+as of the end of the period covered by this report based on such evaluation; and 
+
+d) Disclosed in this report any change in the registrant s
+internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect,
+the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer and I have
+disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors
+and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) All significant deficiencies and material weaknesses in the
+design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial information; and 
+
+b) Any fraud, whether or not material, that involves management
+or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 14, 2016  
+
+By: /s/ Matthew L. Chretien  
+
+President and Chief Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ v452139_ex31-2.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2  
+
+Certification Pursuant to Section 302
+of the Sarbanes-Oxley Act of 2002  
+
+I, Kendall D. Gill, certify that: 
+
+1. I have reviewed this report on Form 10-Q of Intellinetics,
+Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are
+responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant
+and have: 
+
+a) Designed such disclosure controls and procedures, or caused
+such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the
+registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the
+period in which this report is being prepared; 
+
+b) Designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+
+c) Evaluated the effectiveness of the registrant s disclosure
+controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures,
+as of the end of the period covered by this report based on such evaluation; and 
+
+d) Disclosed in this report any change in the registrant s
+internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect,
+the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer and I have
+disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors
+and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) All significant deficiencies and material weaknesses in the
+design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial information; and 
+
+b) Any fraud, whether or not material, that involves management
+or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ v452139_ex32-1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1  
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+In connection with the Quarterly Report of Intellinetics, Inc.
+(the  Company ) on Form 10-Q for the quarter ended September 30, 2016, as filed with the Securities and Exchange Commission
+(the  Report ), I, Matthew L. Chretien, President and Chief Executive Officer of the Company, certify, pursuant to
+18 U.S.C.  1350, as adopted pursuant to  906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements of Section
+13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in the Report fairly presents,
+in all material respects, the financial condition and results of operations of the Company. 
+
+Dated: November 14, 2016  
+
+/s/ Matthew L. Chretien  
+
+President and Chief Executive Officer  
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ v452139_ex32-2.htm
+ EXHIBIT 32.2
+
+Exhibit 32.2  
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+In connection with the Quarterly Report of Intellinetics, Inc.
+(the  Company ) on Form 10-Q for the quarter ended September 30, 2016, as filed with the Securities and Exchange Commission
+(the  Report ), I, Kendall D. Gill, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C.  1350,
+as adopted pursuant to  906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements of Section
+13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in the Report fairly presents,
+in all material respects, the financial condition and results of operations of the Company. 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ inlx-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ inlx-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ inlx-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ inlx-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ inlx-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ inlx-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

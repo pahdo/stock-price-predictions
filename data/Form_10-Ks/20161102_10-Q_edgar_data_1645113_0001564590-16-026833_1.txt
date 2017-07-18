@@ -1,0 +1,700 @@
+<Header>
+<FileStats>
+    <FileName>20161102_10-Q_edgar_data_1645113_0001564590-16-026833_1.txt</FileName>
+    <GrossFileSize>4530033</GrossFileSize>
+    <NetFileSize>72960</NetFileSize>
+    <ASCII_Embedded_Chars>192692</ASCII_Embedded_Chars>
+    <HTML_Chars>1146885</HTML_Chars>
+    <XBRL_Chars>1295933</XBRL_Chars>
+    <XML_Chars>816325</XML_Chars>
+    <N_Tables>26</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001564590-16-026833.hdr.sgml : 20161102
+<ACCEPTANCE-DATETIME>20161102061623
+ACCESSION NUMBER:		0001564590-16-026833
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		50
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161102
+DATE AS OF CHANGE:		20161102
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Novocure Ltd
+		CENTRAL INDEX KEY:			0001645113
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37565
+		FILM NUMBER:		161966234
+
+	BUSINESS ADDRESS:	
+		STREET 1:		LE MASURIER HOUSE, LA RUE LE MASURIER
+		CITY:			ST. HELIER
+		STATE:			Y9
+		ZIP:			JE2 4YE
+		BUSINESS PHONE:		44 (0)15 3475 6700
+
+	MAIL ADDRESS:	
+		STREET 1:		LE MASURIER HOUSE, LA RUE LE MASURIER
+		CITY:			ST. HELIER
+		STATE:			Y9
+		ZIP:			JE2 4YE
+
+</SEC-Header>
+</Header>
+
+ 0001564590-16-026833.txt : 20161102
+
+10-Q
+ 1
+ nvcr-10q_20160930.htm
+ NVCR-10Q-20160930
+
+nvcr-10q_20160930.htm
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+   Washington, D.C. 20549 
+   
+   FORM 10-Q 
+   
+ (Mark One) 
+
+For the quarterly period ended September 30, 2016 
+ or 
+
+For the transition period from                       to 
+   Commission File Number 001-37565 
+   NovoCure Limited 
+ (Exact Name of Registrant as Specified in Its Charter) 
+
+Jersey (Channel Islands)  
+
+98-1057807  
+
+(State or Other Jurisdiction of  
+
+(I.R.S. Employer  
+
+Incorporation or Organization)  
+
+Identification No.)  
+
+Le Masurier House 
+ La Rue Le Masurier 
+ St. Helier, Jersey JE2 4YE 
+ (Address of principal executive offices) 
+ +44 (0) 15 3475 6700 
+ (Registrant s Telephone Number, Including Area Code) 
+       Not Applicable  
+ (Former Name, Former Address and Former Fiscal Year, If Changed Since Last Report) 
+   
+           Indicate by check mark whether the registrant (1) has filed    all reports     required   to be filed by Section   13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.        Yes             No         .  
+          Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter)   during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).       Yes             No       . 
+   Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of  large accelerated filer,   accelerated filer,  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large accelerated filer   
+
+Accelerated filer   
+
+Non-accelerated filer   
+
+(Do not check if a smaller reporting company)  
+ 
+ Smaller reporting company   
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes               No          .  
+   Indicate the number of shares outstanding of each of the registrant s classes of common stock, as of the latest practicable date. 
+
+CAUTIONARY NOTE REGARDING   FORWARD-LOOKING   STATEMENTS  
+   In addition to historical facts or statements of current condition, this report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements contained in this report are based on our current plans, expectations, hopes, beliefs, intentions or strategies concerning future developments and their impact on us.  Forward-looking statements contained in this report constitute our expectations or forecasts of future events as of the date this report was filed with the Securities and Exchange Commission and are not statements of historical fact. You can identify these statements by the fact that they do not relate strictly to historical or current facts. Such statements may include words such as  anticipate,   will,   estimate,   expect,   project,   intend,   should,   plan,   believe,   hope,  and other words and terms of similar meaning in connection with any discussion of, among other things, future operating or financial performance, strategic initiatives and business strategies, regulatory or competitive environments, our intellectual property and delivery system research and development. In particular, these forward-looking statements include, among others, statements about: 
+
+our research and development, clinical trial and commercialization activities and projected expenditures;     
+
+the further commercialization of Optune , our first Tumor Treating Fields ( TTFields ) delivery system, and our other TTFields delivery system candidates;     
+
+our business strategies and the expansion of our sales and marketing efforts in the United States and in other countries;     
+
+the market acceptance of Optune and our other TTFields delivery systems by patients, physicians, third-party payers and others in the healthcare and scientific community;     
+
+our plans to pursue the use of TTFields for the treatment of other solid tumor cancers;     
+
+our estimates regarding revenues, expenses, capital requirements and needs for additional financing;     
+
+our ability to obtain regulatory approvals for additional indications and any future TTFields delivery systems;     
+
+our ability to acquire the supplies needed to manufacture our TTFields delivery systems from third-party suppliers;     
+
+our ability to manufacture adequate supply;     
+
+our ability to secure adequate coverage from third-party payers to reimburse us for Optune or future TTFields delivery systems;     
+
+our ability to maintain and develop our intellectual property position;     
+
+our cash needs; and     
+
+our prospects, financial condition and results of operations.     
+
+       These forward-looking statements involve a number of risks and uncertainties (some of which are beyond our control) or other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements. Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in materi    al respects from those projected in these forward-looking statements. Factors which may cause such differences to occur include those  risks and uncertainties set forth under Part I, Item 1A.,  Risk Factors  of our Annual Report on Form 10-K for the fiscal year ended December 31, 2015, as well as other risks and uncertainties set forth from time to time in the reports we file with the U.S. Securities and Exchange Commission . We do not intend to update publicly any forward-looking statement, whether as a resu  lt of new information, future events or otherwise, except as required by law.  
+     TRADEMARKS 
+ This Quarterly Report on Form 10-Q includes trademarks of NovoCure Limited and other persons. All trademarks or trade names referred to herein are the property of their respective owners. 
+
+ii 
+ 
+    NovoCure Limited  
+ Quarterly Report on Form 10-Q 
+   TABLE OF CONTENTS 
+
+Page  
+
+Cautionary Note Regarding Forward Looking Statements    
+
+ii  
+
+Trademarks    
+
+ii  
+
+PART I FINANCIAL INFORMATION    
+
+Item 1.  
+
+Financial Statements    
+
+2  
+
+Item 2.  
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations    
+
+12  
+
+Item 4.  
+
+Controls and Procedures    
+
+20  
+
+PART II OTHER INFORMATION    
+
+Item 6.  
+
+Exhibits    
+
+21  
+
+Signatures    
+
+22  
+
+- 1 - 
+
+PART I FINANCI  AL INFORMATION  
+     Item 1.  Financial Statements 
+ NOVOCURE LIMITED AND SUBSIDIARIES 
+     CONDENSED INTERIM CONSOLIDATED BALANCE SHEETS 
+ U.S. dollars in thousands  
+
+The accompanying notes are an integral part of these unaudited condensed interim consolidated financial statements. 
+ - 2 - 
+
+NOVOCURE LIMITED AND SUBSIDIARIES  
+ CONDENSED INTERIM CONSOLIDATED BALANCE SHEETS 
+ U.S. dollars in thousands (except share data)  
+
+The accompanying notes are an integral part of these unaudited condensed interim consolidated financial statements. 
+
+- 3 - 
+
+NOVOCURE LIMITED AND SUBSIDIARIES  
+     CONDENSED INTERIM CONSOLIDATED STATEMENTS OF OPERATIONS 
+ U.S. dollars in thousands (except share and per share data)  
+
+CONSOLIDATED INTERIM STATEMENTS OF COMPREHENSIVE INCOME 
+ U.S. dollars in thousands    
+
+The accompanying notes are an integral part of these unaudited condensed interim consolidated financial statements. 
+
+- 4 - 
+
+NOVOCURE LIMITED AND SUBSIDIARIES  
+     CONDENSED INTERIM STATEMENTS OF CHANGES IN SHAREHOLDERS  EQUITY 
+ U.S. dollars in thousands (except share data) 
+
+(b)   
+ 
+ Net of issuance expenses (including underwriter fees) of $15,742    
+
+ The accompanying notes are an integral part of these unaudited condensed interim consolidated financial statements. 
+
+- 5 - 
+
+NOVOCURE LIMITED AND SUBSIDIARIES  
+     CONDENSED INTERIM CONSOLIDATED CASH FLOWS 
+ U.S. dollars in thousands  
+
+The accompanying notes are an integral part of these unaudited condensed interim consolidated financial statements 
+   
+ - 6 - 
+
+NOVOCURE LIMITED   AND SUBSIDIARIES  
+     NOTES TO UNAUDITED CONDENSED INTERIM CONSOLIDATED FINANCIAL STATEMENTS  
+ U.S. dollars in thousands (except share data) 
+
+NOTE 1: ORGANIZATION AND BASIS OF PRESENTATION 
+ Organization .  NovoCure Limited (including its consolidated subsidiaries, the  Company ) was incorporated in the Bailiwick of Jersey and is principally engaged in the development, manufacture and commercialization of TTFields for the treatment of solid tumors. Since inception, the Company has devoted substantially all of its efforts to developing and commercializing a family of products to deliver TTFields for a variety of solid tumor indications, raising capital and recruiting personnel. The Company has regulatory approvals and clearances in certain countries for Optune, its first TTFields delivery system, to treat glioblastoma ( GBM ). The Company commenced marketing Optune in the United States at the end of 2011, in certain countries in Europe in 2014 and in Japan in 2015.   
+ Financial statement preparation . The accompanying condensed consolidated financial statements include the accounts of the Company and its consolidated subsidiaries, and intercompany accounts and transactions have been eliminated. In the opinion of the Company s management, the condensed consolidated financial statements reflect all adjustments, which are normal and recurring in nature, necessary for fair financial statement presentation. The preparation of these condensed consolidated financial statements in conformity with U.S. generally accepted accounting principles ( GAAP ) requires management to make estimates and assumptions that affect the amounts reported in these condensed consolidated financial statements and accompanying notes. Actual results could differ materially from those estimates. These condensed consolidated financial statements and accompanying notes should be read in conjunction with the Company s annual consolidated financial statements and the notes thereto included in the Company s Annual Report on Form 10-K for the fiscal year ended December 31, 2015 (the  2015 10-K ) filed with the Securities and Exchange Commission (the  SEC ) on March 1, 2016.  
+ The significant accounting policies applied in the audited annual consolidated financial statements of the Company as disclosed in the 2015 10-K are applied consistently in these unaudited interim consolidated financial statements. 
+ Recently Issued Accounting Pronouncements .   In February 2016, the Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update ( ASU ) 2016-02-Leases (ASC 842), which sets out the principles for the recognition, measurement, presentation and disclosure of leases for both parties to a contract (i.e. lessees and lessors). The new standard requires lessees to apply a dual approach, classifying leases as either finance or operating leases based on the principle of whether or not the lease is effectively a financed purchase by the lessee. This classification will determine whether lease expense is recognized based on an effective interest method or on a straight line basis over the term of the lease, respectively. A lessee is also required to record a right-of-use asset and a lease liability for all leases with a term of greater than twelve months regardless of their classification. Leases with a term of twelve months or less will be accounted for similar to existing guidance for operating leases. The new standard requires lessors to account for leases using an approach that is substantially equivalent to existing guidance for sales-type leases, direct financing leases and operating leases. ASC 842 supersedes the previous leases standard, ASC 840. The standard is effective on January 1, 2019, with early adoption permitted. The Company is currently evaluating the impact of the adoption of this standard on its consolidated financial statements.  
+ In March 2016, FASB issued ASU 2016-09, Compensation - Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting. The amendments in ASU 2016-09 affect all entities that issue share-based payment awards to their employees and involve multiple aspects of the accounting for share-based payment transactions, including income tax consequences, classification of awards as either equity or liabilities, and classification on the statement of cash flows. ASU 2016-09 is effective for annual periods beginning after December 15, 2016, and interim periods within those annual periods. Early adoption is permitted in any interim or annual period. The Company is currently evaluating the impact of the adoption of this standard on its consolidated financial statements. 
+ In April 2016, FASB issued ASU 2016-10, Revenue from Contracts with Customers (Topic 606): Identifying Performance Obligations and Licensing. ASU 2016-10 covers two specific topics: performance obligations and licensing. This amendment includes guidance on immaterial promised goods or services, shipping or handling activities, separately identifiable performance obligations, functional or symbolic intellectual property licenses, sales-based and usage-based royalties, license restrictions (time, use, geographical) and licensing renewals. In addition, in May 2016, FASB issued ASU No. 2016-12, Revenue from Contracts with Customers (Topic 606): Narrow-Scope Improvements and Practical Expedients, which is intended to not change the core principle of the guidance in Topic 606, but rather affect only the narrow aspects of Topic 606 by reducing the potential for diversity in practice at initial application and by reducing the cost and complexity of applying Topic 606 both at transition and on an ongoing basis. The Company is currently evaluating the impact of the adoption of both revenue standards on its consolidated financial statements. 
+ - 7 - 
+
+In June 2016, FASB issue  d ASU 2016-13,   Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments  . ASU 2016-13 amends the impairment model to utilize an expected loss methodology in place of the currently used incurred loss methodolog  y, which will result in the more timely recognition of losses. ASU 2016-13 also applies to employee benefit plan accounting, with an effective date of the first quarter of fiscal 2022. The Company is currently assessing the impact of the adoption of this s  tandard on its consolidated financial statements and employee benefit plans  accounting.  
+ In August 2016, FASB issued ASU 2016-15, Statement of Cash Flows (Topic 230): Classification of Certain Cash Receipts and Cash Payments. ASU 2016-15 eliminates the diversity in practice related to the classification of certain cash receipts and payments for debt prepayment or extinguishment costs, the maturing of a zero coupon bond, the settlement of contingent liabilities arising from a business combination, proceeds from insurance settlements, distributions from certain equity method investees and beneficial interests obtained in a financial asset securitization. ASU 2016-15 designates the appropriate cash flow classification, including requirements to allocate certain components of these cash receipts and payments among operating, investing and financing activities. The retrospective transition method, requiring adjustment to all comparative periods presented, is required unless it is impracticable for some of the amendments, in which case those amendments would be prospectively adjusted as of the earliest date practicable.   The standard is effective on January 1, 2019. The Company is currently assessing the impact of the adoption of this standard on its consolidated financial statements. 
+ NOTE 2: SHORT-TERM INVESTMENTS 
+ The Company invests in marketable U.S. Treasury Bills ( T-bills ) that are classified as held-to-maturity securities. The amortized cost and recorded basis of the T-bills are presented as short-term investments in the amount of $119,724 and $150,001 as of September 30, 2016 and December 31, 2015, respectively, and their estimated fair value as of September 30, 2016 and December 31, 2015 was $119,604 and $149,978, respectively. 
+ NOTE 3: INVENTORIES  
+ Inventories are stated at the lower of cost or market. The weighted average methodology is applied to determine cost. As of September 30, 2016 and December 31, 2015, the Company s inventories were composed of: 
+
+NOTE 4: COMMITMENTS AND CONTINGENT LIABILITIES 
+ The facilities of the Company are leased under various operating lease agreements for periods ending no later than 2024. The Company also leases motor vehicles under various operating leases, which expire on various dates, the latest of which is in 2019. 
+ As of September 30, 2016 and December 31, 2015, the Company pledged bank deposits of $807 and $133, respectively, to cover bank guarantees in respect of its leases of operating facilities and obtained guarantees by the bank for the fulfillment of the Company s lease commitments of $962 and $283, respectively. 
+ NOTE 5: SHARE CAPITAL 
+ For the nine months ended September 30, 2016, warrants to purchase 220,316 ordinary shares with an exercise price of $3.59 were exercised, resulting in the issuance of 220,316 ordinary shares, and warrants to purchase 975,644 and 888,219 ordinary shares with exercise prices of $18.09 and $3.59 per share, respectively, were cashlessly exercised, resulting in the issuance of 950,637 ordinary shares. For the nine months ended September 30, 2016, options to purchase 825,240 ordinary shares were exercised for cash and options to purchase 3,547 ordinary shares were cashlessly exercised, resulting in the issuance of 825,669 ordinary shares.  For additional information on option exercises, please see Note 6. 
+   
+ - 8 - 
+
+NOTE   6  : EQUITY INCENTIVE PLAN  
+ In September 2015, the Company adopted the 2015 Omnibus Incentive Plan (the  2015 Plan ). The 2015 Plan replaced the 2013 Share Option Plan.  Under the 2015 Plan, the Company can issue various types of equity compensation awards such as restricted shares, performance shares, restricted stock units, performance units, long-term cash award and other share-based awards.   
+ The options granted under the 2015 Plan generally have a four-year vesting period and expire ten years after the date of grant. Options granted under the 2015 Plan that are cancelled or forfeited before expiration become available for future grant. 
+ As of September 30, 2016, 12,717,460 ordinary shares were available for grant under the 2015 Plan.   
+ A summary of the status of the Company s option plans as of September 30, 2016 and changes during the period then ended is presented below:  
+
+In September 2015, the Company adopted an employee share purchase plan ( ESPP ) to encourage and enable eligible employees to acquire ownership of the Company s ordinary shares purchased through accumulated payroll deductions on an after-tax basis. In the United States, the ESPP is intended to be an  employee stock purchase plan  within the meaning of Section 423 of the Internal Revenue Code and the provisions of the ESPP will be construed in a manner consistent with the requirements of such section. The Company began its offerings under the ESPP on August 1, 2016.  As of September 30, 2016, 1,667,785 ordinary shares were available to be purchased by eligible employees under the ESPP and no shares had been issued under the ESPP. 
+ The fair value of equity-based awards was estimated using the Black-Scholes option-pricing model for all grants with the following underlying assumptions:  
+
+- 9 - 
+
+The total non-cash share-based compensation expense related to   all of the Company s equity-based awards recognized for the three and nine months ended September 30, 2016 and 2015 and the year ended December 31, 2015 was:  
+
+NOTE 7: SUPPLEMENTAL INFORMATION 
+ The Company operates in a single reportable segment. 
+ The following table presents long-lived assets by location: 
+
+The Company s revenues by geographic region, based on the customer s location, are summarized as follows: 
+
+NOTE 8: LONG-TERM LOAN, NET OF DISCOUNT AND ISSUANCE COSTS 
+ In January 2015, the Company entered into a five-year term loan agreement (the  Term Loan Credit Facility ) with a lender to draw up to $100,000. In January 2015, the Company drew $25,000 from the lender. The Company had the option to draw the remaining $75,000 at its option at any time through June 30, 2016. On June 30, 2016, the Company provided to the lender a drawdown notice for the remaining $75,000, and it received funds in July 2016.  As of September 30, 2016, there is  $100,000  outstanding under the Term Loan Credit Facility . 
+ Interest on the outstanding loan is 10% annually, payable quarterly in arrears. In addition, there is a 1.5% funding fee payable on the amount drawn on the funding date, a 0.75% pay-down fee on all principal amount repayments to be paid on the date such payments of principal are made and a pre-payment fee of 3.0%, 2.0% or 1.0% if the Company prepays outstanding loan amounts prior to the first, second or third year anniversaries, respectively, from the initial funding date. The entire outstanding principal loan is due in January 2020. The loan is secured by a first priority security interest in substantially all assets of the Company. The Term Loan Credit Facility sets forth certain affirmative and negative covenants with which the Company must comply on a quarterly basis through the term of the loan. As of September 30, 2016, the Company was in compliance with such covenants. 
+ - 10 - 
+
+The total discount of $2,019 and additional issuance costs of $2,744 are presented net of the loan and are amortized to interest expense over the t  erm of the loan using the effective interest method.  
+
+NOTE 9: IMPAIRMENT OF FIELD EQUIPMENT 
+   
+ The Company received U.S. Food and Drug Administration approval on its Premarket Approval supplement application to market its second generation Optune System in the United States on July 13, 2016. The Company made the second generation Optune System available to all patients in the United States during the quarter ended September 30, 2016.  Manufacturing of the first generation Optune System has been terminated. For the nine months ended September 30, 2016, the Company recorded an impairment loss in the second quarter with respect to the write-off of first generation Optune System field equipment (finished goods and production stage) in the amount of $6,412, including advances for materials purchased and liabilities incurred to vendors of $1,582 that are not recoverable, presented in cost of revenues.  The Company does not expect the conversion to result in an additional material impairment charge in the future .   
+
+- 11 - 
+
+Item 2.  Management s Discussion and Analysis o  f Financial Condition and Results of Operations  
+ Management s Discussion and Analysis of Financial Condition and Results of Operations ( MD A ) is intended to provide information to assist you in better understanding and evaluating our financial condition and results of operations. We encourage you to read this MD A in conjunction with our consolidated financial statements for the period ended September 30, 2016 included in Part I, Item 1 of this Quarterly Report on Form 10-Q.  This discussion contains forward-looking statements that involve risks and uncertainties.  As a result of many factors, such as those set forth under Part I, Item 1A,  Risk Factors , of our Annual Report on Form 10-K for the fiscal year ended December 31, 2015 (the  2015 10-K ), our actual results may differ materially from those anticipated in these forward-looking statements. References to the words  we,   our,   us,  and the  Company  in this report refer to NovoCure Limited, including its consolidated subsidiaries. 
+  Overview  
+ We are a commercial-stage oncology company developing a novel, proprietary therapy called TTFields for the treatment of solid tumor cancers. TTFields is a low-toxicity anti-mitotic treatment that uses low-intensity, intermediate frequency, alternating electric fields to exert physical forces on key molecules inside cancer cells, disrupting the basic machinery necessary for normal cell division, leading to cancer cell death. Physicians have typically treated patients with solid tumors using one or a combination of three principal treatment modalities surgery, radiation and pharmacological therapies. Despite meaningful advancements in each of these modalities, a significant unmet need to improve survival and quality of life remains. We believe we will establish TTFields as a new treatment modality for a variety of solid tumors that increases survival without significantly increasing side effects when used in combination with other cancer treatment modalities. 
+ We were founded in 2000 and operated as a development stage company through December 31, 2011. We initially received U.S. Food and Drug Administration ( FDA ) approval for Optune , our first commercial TTFields delivery system, in 2011 for use as a monotherapy treatment for adult patients with glioblastoma brain cancer ( GBM ) following confirmed recurrence following chemotherapy, after surgical and radiation options have been exhausted. In November 2014, our phase 3 pivotal trial of Optune in combination with chemotherapy for patients with newly diagnosed GBM met its endpoints after a pre-specified interim analysis showed significant improvements in both progression free and overall survival.  
+ In October 2015, we received FDA approval to market Optune for the treatment of adult patients with newly diagnosed GBM in combination with temozolomide ( TMZ ), a chemotherapy drug, following maximum debulking surgery and completion of radiation therapy. In July 2016, the National Comprehensive Cancer Network Clinical Practice Guidelines in Oncology  (NCCN Guidelines ) for Central Nervous Systems Cancers were updated and now include alternating electric fields therapy (Optune) in combination with TMZ following standard brain radiation therapy with concurrent TMZ as a Category 2A recommended postoperative adjuvant treatment option for patients with newly diagnosed supratentorial GBM.  
+ In September 2016, we announced that the long-term analysis of the full 695 patient dataset from the phase 3 pivotal trial of Optune in combination with TMZ for patients with newly diagnosed GBM was confirmatory of the interim analysis results. The long-term analysis shows survival rates were significantly higher two, three and four years from randomization in patients receiving Optune with TMZ compared to patients receiving TMZ alone.  The long-term analysis will be presented as a late-breaking oral presentation at the 21 st  Annual Scientific Meeting of the Society of Neuro-Oncology in November 2016. 
+ We have built a commercial organization and launched Optune in the United States, Germany, Switzerland and Japan, which we refer to as our currently active markets. As we enter each new market, our commercial activities focus initially on establishing the required in-market infrastructure, certifying physicians to prescribe Optune and obtaining a defined reimbursement pathway. Once established, our commercial efforts turn to increasing adoption.  
+ We continued to work with payers in the United States to expand access to Optune for patients with newly diagnosed and recurrent GBM in the third quarter of 2016. Payers administering plans for 130 million lives in aggregate have now issued positive coverage policies stating that Optune is approved for the treatment of newly diagnosed or recurrent glioblastoma, an increase of 14 million from the prior quarter. Additionally, we have negotiated contracts, which we anticipate will become effective during the fourth quarter of 2016, to establish Optune as an in-network benefit for more than 120 million lives. 
+ The percentage of our U.S. active patient population who are beneficiaries of the Medicare fee-for-service program continues to range from 20 to 25 percent.  We have not received material payments from that program and these invoices remain open as we appeal the coverage denials through the heavily backlogged administrative law judge-controlled proceeding. 
+   We continue to invest in the improvement of Optune to enhance ease of use for patients. A second generation Optune System that is less than half the weight and size of the first generation Optune System was launched in Europe in the fourth quarter of 2015. We  
+ - 12 - 
+
+received FDA approval on the premarket approval supplement application to market the second generation Optune System in the United States in July 2016 a  nd have since made the second generation Optune System available to all U.S. patients.        Manufacturing of the first generation Optune System has been terminated.   
+ In December 2015, we submitted a partial amendment application to the Japanese Pharmaceuticals and Medical Devices Agency ( PMDA ) in connection with our application for approval of Optune for the treatment of patients with newly diagnosed GBM. We hope to receive Japanese Ministry of Health, Labour and Welfare ( MHLW ) approval for this indication in late 2016. In July 2016, we submitted a partial amendment application to the PMDA in connection with our application for approval of the second generation Optune System. The MHLW approved the use of Optune to treat patients with recurrent GBM in March 2015. We plan to wait until we receive MHLW approval for the use of Optune to treat patients with newly diagnosed GBM before we submit an application for public reimbursement of Optune in Japan.  
+ We have researched the biological effects of TTFields extensively. Because TTFields are delivered regionally, act only on mitotic cells and are tuned to target cells of a specific size, there is minimal damage to healthy cells. We believe our pre-clinical and clinical research demonstrates that TTFields  mechanism of action affects fundamental aspects of cell division and can have broad applicability across a variety of solid tumors. We have demonstrated in pre-clinical studies that TTFields can offer additive or synergistic benefits in combination with radiation, certain chemotherapy, and certain immunotherapy, which may lead to greater efficacy than radiation, chemotherapy, and immunotherapy alone, without appearing to increase the side effects of the other cancer treatments. In addition to our clinical and commercial progress in GBM, we are currently planning or conducting clinical trials evaluating the use of TTFields in brain metastases, non-small-cell lung cancer ( NSCLC ), pancreatic cancer, ovarian cancer and mesothelioma.  
+ Results from the first cohort of our PANOVA trial, a phase 2 pilot trial in advanced pancreatic adenocarcinoma examining TTFields in combination with chemotherapy, were presented at the American Society of Clinical Oncology ( ASCO ) Gastrointestinal Cancers Symposium in January 2016, with additional subgroup analyses presented at the ASCO Annual Meeting in June 2016. The first cohort was designed to test the feasibility, safety and preliminary efficacy of TTFields in combination with gemcitabine, a chemotherapy drug, and included 20 patients with advanced pancreatic cancer whose tumors could not be removed surgically and who had not received chemotherapy or radiation therapy prior to the clinical trial.  Efficacy results based on the 20 patients in the first cohort showed that progression-free survival ( PFS ) and overall survival ( OS ) of patients treated with TTFields combined with gemcitabine were more than double those of gemcitabine-treated historical controls. Of the 20 patients in the first cohort of the trial, 13 had distant metastases and seven had locally advanced unresectable disease. The median OS for all patients was 14.9 months. Median OS was longer than 15 months in locally advanced patients with 86% of patients alive at end of follow up. Patients with metastatic disease experienced a median OS of 8.3 months. The one-year survival rate was 55%; 86% in patients with locally advanced unresectable disease and 40% in patients with metastatic disease. Adverse events reported in this combination study were comparable to those reported with gemcitabine alone, suggesting minimal added toxicities due to TTFields.   
+ Following the approval of nab-paclitaxel, a taxane-based chemotherapy, for the treatment of advanced pancreatic cancer, the PANOVA study was expanded to include 20 additional patients treated with TTFields in combination with nab-paclitaxel and gemcitabine. We finished enrollment of the second patient cohort in May 2016. With an expected six month follow-up period, we anticipate that phase 2 pilot data will be available in December 2016. 
+ We also finished enrollment in our INNOVATE trial, a phase 2 pilot trial in recurrent ovarian cancer examining TTFields in combination with weekly paclitaxel, in May 2016. With an expected six month follow-up period, we anticipate that phase 2 pilot data will be available in December 2016.  
+ In May 2016, we received FDA approval of our Investigational Device Exemption ( IDE ) application to initiate the METIS trial, a phase 3 pivotal trial studying radiosurgery plus TTFields compared to radiosurgery alone for brain metastases from non-small cell lung cancer. We enrolled the first patient in the trial in October 2016 and anticipate enrolling the last patient in 2019. Given the recent advances in our METIS trial, we closed enrollment for COMET, our phase 2 pilot trial in brain metastases, in July 2016. 
+ In addition, we have developed the protocol for our LUNAR trial, a phase 3 pivotal trial studying TTFields in combination with PD-1 inhibitors or docetaxel for second line treatment of non-small cell lung cancer.  We are in discussions with the FDA leading up to the submission of our IDE application and we hope to receive FDA approval of our IDE application in 2017. 
+ - 13 - 
+
+The table below presents the current status of our clinical pipeline. We anticipate expanding o  ur clinical pipeline over time to study the safety and efficacy of TTFields for additional solid tumor indications.   
+   
+ We own all commercialization rights to TTFields in oncology.  Our robust global patent and intellectual property portfolio consists of over 50 issued patents, with numerous additional patent applications pending worldwide. We believe we will maintain exclusive rights to market TTFields for all solid tumor indications in our key markets through the life of our patents. 
+ Financial Overview.  We expect to continue to incur significant expenses and operating losses for at least the next several years. We expect our research, development and clinical trials expenses to increase in connection with our ongoing activities, and as additional indications enter late-stage clinical development. In addition, we expect to incur significant commercialization expenses for product sales, marketing, manufacturing and distribution. We may need additional funding to support the continuation of our operating activities. Until we can generate substantial revenues (which may not occur), we expect to finance our cash needs through our existing cash, cash equivalents, and short-term investments, equity issuances or additional debt, and possibly also from collaborations, strategic alliances, licensing arrangements and other marketing and distribution arrangements. We will need to generate significant revenues to achieve profitability, and we may never do so.  
+  Critical accounting policies and estimates  
+ In accordance with U.S. GAAP, in preparing our financial statements, we must make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities as of the date of the financial statements and the reported amounts of net revenues and expenses during the reporting period. We develop and periodically change these estimates and assumptions based on historical experience and on various other factors that we believe are reasonable under the circumstances. Actual results may differ from these estimates. 
+ The critical accounting policies requiring estimates, assumptions and judgments that we believe have the most significant impact on our consolidated financial statements can be found in our 2015 10-K.  There have been no material changes to our critical accounting policies and estimates as compared to the critical accounting policies and estimates described in our 2015 10-K.  
+  Results of Operations  
+ We account for revenue when cash is collected and all other revenue recognition criteria have been met. We report certain operating statistics to provide additional insight into the commercial performance of Optune in our currently active markets.  
+ Prescriptions are a leading indicator of Optune demand. The conversion of prescriptions to new patients is driven by the prescription fill rate and the time to fill. The prescription fill rate for the twelve months ended September 30, 2016 was 74%. The increase or decrease in active patients in any given period reflects the number of new patients starting on therapy, driven by filled prescriptions, as compared to the number of patients discontinuing therapy, which reflects the treatment duration for patients starting in prior periods. 
+ - 14 - 
+
+The following table includes certain commercial operating statistics for and as of the end of the periods presented.  
+
+(1)   
+ 
+ A  prescription received  is a commercial order for Optune that is received from a physician certified to treat patients with TTFields therapy for a patient not previously on TTFields therapy. Orders to renew or extend treatment are not included in this total. In the future, we may have regulatory approvals and commercial programs for multiple clinical indications, at which time we will recognize a commercial order as a prescription for the same patient for each clinical indication treated. For example, in the future, a patient may have a prescription for the treatment of lung cancer and a prescription for the treatment of brain metastases from the lung cancer.    
+
+(2)   
+ 
+ As we enter each new market, our commercial activities focus initially on establishing the required in-market infrastructure, certifying physicians to prescribe Optune and obtaining a defined reimbursement pathway. Once established, our commercial efforts turn to increasing adoption.     
+
+(3)   
+ 
+ EMEA refers to Europe, the Middle East and Africa.     
+
+(4)     
+ 
+ An  active patient  is a patient who is on TTFields therapy under a commercial prescription order as of the measurement date, including patients who may be on a temporary break from treatment and who plan to resume treatment in less than 60 days.    
+
+ We view our operations and manage our business in one operating segment. For the three and nine months ended September 30, 2016, our net revenues were $21.7 million and $52.6 million, respectively, and our net losses were $33.6 million and $109.7 million (including an impairment loss with respect to the write-off of first generation Optune System field equipment in the amount of $6.4 million that is not recoverable and is presented in cost of revenues for the nine months ended September 30, 2016), respectively. Our net loss for the three and nine months ended September 30, 2016 includes $5.6 million and $16.7 million, respectively, in non-cash share-based compensation expense. As of September 30, 2016, we had an accumulated deficit of $497.8 million.  
+ Three months ended September 30, 2016 compared to three months ended September 30, 2015 
+
+Net revenues.   Substantially all of our revenues are derived from patients using our TTFields delivery system, marketed as Optune in our currently active markets. We charge patients or their third-party healthcare payers directly on a monthly basis and bear the financial risk of securing payment in the United States and Europe.   
+ We account for revenue when cash is collected and other revenue recognition criteria have been met as we have not yet built up sufficient history with each individual third-party payer to reliably estimate their individual payment patterns. As a result, revenue in the reported periods is a mixture of amounts collected from patients using Optune in the period and amounts collected for use of Optune in prior periods.  
+ Net revenues increased by $12.7 million, or 142%, to $21.7 million for the three months ended September 30, 2016 from $9.0 million for the three months ended September 30, 2015. The increase was primarily due to an increase of $9.6 million in commercial sales of Optune in the United States, driven by an increase in Optune adoption, as well as to an increase of $3.1 million in commercial sales of Optune in our other currently active markets, also driven by an increase in Optune adoption. 
+ - 15 - 
+
+Cost of revenues.    Our cost of revenues is comprised primarily of (i) cost of the disposable transducer arrays purchased from third-party manufacturers, (ii) depreciation expense for field equipment, including the electric fiel  d generator used by patients and (iii) personnel, warranty and overhead costs such as facilities, freight and depreciation of property, plant and equipment associated with managing our inventory, warehousing and order fulfillment functions.  Our cost of re  venues increased by $5.4 million, or 96%, to $11.1 million for the three months ended September 30, 2016 from $5.7 million for the three months ended September 30, 2015. The change was primarily due to an increase in Optune adoption which caused a $3.1 mil  lion increase in the cost of transducer array shipments and a $0.5 million increase in field equipment depreciation expenses. In addition, there was a $1.7 million increase in personnel costs to establish the infrastructure necessary to support an increasi  ng volume of shipments.  
+ Operating Expenses.    Our operating expenses consist of research, development and clinical trials, sales and marketing and general and administrative expenses.  Personnel costs are a significant component for each category of operating expenses and consist of wages, benefits and bonuses.  Personnel costs also include share-based compensation.    
+
+Research, development and clinical trials expenses.   For the three months ended September 30, 2016 as compared to the same period in 2015, research, development and clinical trials expenses remained consistent at $10.2 million. This was primarily due to a decrease of $0.9 million in clinical trial expenses resulting from the conclusion of our EF-14 phase 3 pivotal trial in newly diagnosed GBM and other GBM trial activities, as well as a reduction in expenses related to the development of our second generation Optune System, offset by an increase of $1.0 million in personnel costs (including an increase of $0.1 million in share-based compensation)  and clinical trial expenses related to the start-up of our METIS phase 3 pivotal trial in brain metastases.  
+ Sales and marketing expenses.   Sales and marketing expenses increased by $7.0 million, or 78%, to $15.9 million for the three months ended September 30, 2016 from $8.9 million for the three months ended September 30, 2015. The change was primarily due to an increase of $4.3 million in personnel costs (including an increase of $0.7 million in share-based compensation) and an increase of $1.9 million in marketing expenses, reflecting our expanding commercial operations in the United States and Germany and our ongoing efforts to establish commercial operations in Switzerland and Japan.    
+ General and administrative expenses.   General and administrative expenses increased by $4.3 million, or 51%, to $12.7 million for the three months ended September 30, 2016 from $8.4 million for the three months ended September 30, 2015. The change was primarily due to an increase of $3.7 million in personnel costs (including an increase of $1.8 million in share-based compensation) and $0.6 million in professional services to support our enterprise resource planning system implementation and public company-related activities.    
+ Financial expenses, net.   Financial expenses, net primarily consists of interest expense and related amortization of debt issuance costs under our   Loan and Security Agreement dated as of January 7, 2015, between us, as borrower, and Biopharma Secured Investments III Holdings Cayman LP, as lender (the  Term Loan Credit Facility )  , interest income from cash balances and short-term investments and gains (losses) from foreign currency transactions.  The increase primarily results from interest expenses related to our July 2016 draw of the remaining $75 million of funds available under the Term Loan Credit Facility.   
+
+- 16 - 
+
+Income taxes.    Income taxes increased by $2.2 million to $3.2 million for the three months ended September 30, 2016 compared to the same period of 2015. The change was primarily attributable   to an increase in the statutory tax provisions for Switzerland and the United States, resulting from an increase in commercial activities, as well as an increase in our provision for uncertain tax positions.  
+ Nine months ended September 30, 2016 compared to nine months ended September 30, 2015 
+
+Net revenues.   Substantially all of our revenues are derived from patients using our TTFields delivery system, marketed as Optune in our currently active markets. We charge patients or their third-party healthcare payers directly on a monthly basis and bear the financial risk of securing payment in the United States and Europe.   
+ We account for revenue when cash is collected and other revenue recognition criteria have been met as we have not yet built up sufficient history with each individual third-party payer to reliably estimate their individual payment patterns. As a result, revenue in the reported periods is a mixture of amounts collected from patients using Optune in the period and amounts collected for use of Optune in prior periods.  
+ Net revenues increased by $31.9 million, or 154%, to $52.6 million for the nine months ended September 30, 2016 from $20.7 million for the nine months ended September 30, 2015. The increase was primarily due to an increase of $26.6 million in commercial sales of Optune in the United States, driven by an increase in Optune adoption as well as to an increase of $5.3 million in commercial sales of Optune in our other currently active markets, also driven by an increase in Optune adoption.  
+ Cost of revenues.   Our cost of revenues is comprised primarily of (i) cost of the disposable transducer arrays purchased from third-party manufacturers, (ii) depreciation expense for field equipment, including the electric field generator used by patients and (iii) personnel, warranty and overhead costs such as facilities, freight and depreciation of property, plant and equipment associated with managing our inventory, warehousing and order fulfillment functions.  Our cost of revenues (excluding the impairment of field equipment described below) increased by $14.6 million, or 102%, to $28.9 million for the nine months ended September 30, 2016 from $14.3 million for the nine months ended September 30, 2015. The change was primarily due to an increase in Optune adoption, which caused an $8.1 million increase in the cost of transducer array shipments and a $1.2 million increase in field equipment depreciation expenses. In addition, there was a $4.7 million increase in personnel costs to establish the infrastructure necessary to support an increasing volume of commercial patients.  
+ We received FDA approval on our PMA supplement application to market our second generation Optune System in the United States in July 2016. The Company made the second generation Optune System available to all patients in the United States during the quarter ended September 30, 2016. Manufacturing of the first generation Optune System has been terminated. In the second quarter, we recorded an impairment loss with respect to the write-off of first generation Optune System field equipment (finished goods and production stage) in the amount of $6.4 million that is not recoverable and is presented in cost of revenues.  We do not expect the conversion to result in an additional material impairment charge in the future . 
+ Operating Expenses.    Our operating expenses consist of research, development and clinical trials, sales and marketing and general and administrative expenses.  Personnel costs are a significant component for each category of operating expenses and consist of wages, benefits and bonuses.  Personnel costs also include share-based compensation.    
+
+- 17 - 
+
+Research, development and clinical trials expenses.   Research, development and clinical trials expenses for the three months ended September 30, 2016 were $33.0 million, an increase of $0.1 million versus the same period in 2015. This was primarily due to a $3.6 million increase in personnel costs (including an increase of $0.7 million in share-based compensation) and clinical trial expenses related to the start-up of our METIS phase 3 pivotal trial in brain metastases, offset by a decrease of $3.5 million in clinical trial expenses resulting from the conclusion of our EF-14 pivotal trial in newly diagnosed GBM and a reduction in expenses related to the development of our second generation Optune System.   
+ Sales and marketing expenses.   Sales and marketing expenses increased by $19.7 million, or 81%, to $43.8 million for the nine months ended September 30, 2016 from $24.1 million for the nine months ended September 30, 2015. The change was primarily due to an increase of $11.6 million in personnel costs (including an increase of $2.3 million in share-based compensation) and an increase of $5.5 million in marketing expenses, reflecting our expanding commercial operations in the United States and Germany and our ongoing efforts to establish commercial operations in Switzerland and Japan.    
+ General and administrative expenses.   General and administrative expenses increased by $15.3 million, or 67%, to $38.0 million for the nine months ended September 30, 2016 from $22.7 million for the nine months ended September 30, 2015. The change was primarily due to an increase of $10.8 million in personnel costs (including an increase of $6.0 million in share-based compensation), and an increase of $3.3 million in professional services to support our enterprise resource planning system implementation and public company-related activities.    
+ Financial expenses, net.   Financial expenses, net primarily consists of interest expense and related debt issuance costs under our   Term Loan Credit Facility  , interest income from cash balances and short-term investments and gains (losses) from foreign currency transactions.    
+
+Income taxes.   Income taxes increased by $5.9 million to $8.9 million for the nine months ended September 30, 2016. The change was primarily attributable to an increase in the statutory tax provisions for Switzerland and the United States resulting from an increase in our commercial activities as well as an increase in our provision for uncertain tax positions.  
+  Liquidity and Capital Resources  
+ Sources of Liquidity 
+ Since inception, we have financed our operations primarily through the issuance and sale of equity and the proceeds from long-term loans. As of September 30, 2016, we had received a total of $711.2   million from these activities. As of September 30, 2016, we had an accumulated deficit of $497.8 million since inception.  
+ Our net losses were $109.7 million for the nine months ended September 30, 2016 and $111.6 million for the year ended December 31, 2015. Our net losses primarily resulted from costs incurred in connection with our pre-clinical and clinical trial programs, costs incurred in our commercial launch efforts, and general and administrative costs necessary to operate as a multi-national oncology business.  
+ As of September 30, 2016, we had $115.8 million of cash and cash equivalents and $119.7 million of short-term investments.  We believe our cash and cash equivalents and short term investments as of September 30, 2016, are sufficient for our operations for at least the next 12 months based on our existing business plan and our ability to control the timing of significant expense commitments. We expect that our research, development and clinical trials expenses, sales and marketing expenses and general and administrative expenses will continue to increase over the next several years. As a result, we may need to raise additional capital in the future to fund our operations. 
+ - 18 - 
+
+Operating activities 
+ Net cash used in operating activities primarily represents our net loss for the periods presented. Adjustments to net loss for non-cash items include depreciation and amortization, share-based compensation, accrued interest and impairments. Operating cash flows are also impacted by changes in operating assets and liabilities, principally inventories, prepaid expenses, trade payables and accrued expenses. 
+ Net cash used in operating activities was $93.9 million for the nine months ended September 30, 2016, as compared to $73.8 million for the nine months ended September 30, 2015, reflecting a net loss of $109.7 million and a change of $11.7 million in our net operating assets and liabilities, partially offset by non-cash charges of $27.5 million, which includes $6.4 million of field equipment impairment. 
+ The change in our net operating assets and liabilities was primarily the result of an increase in our inventories of $10.4 million necessary to meet anticipated demand, a decrease in trade payables of $2.6 million offset by an increase in other payables of $2.4 million and other receivables of $1.5 million. Non-cash charges included $16.7 million of share-based compensation, $6.4 million of field equipment impairment and $4.0 million of depreciation. 
+ Investing activities 
+ Our investing activities consist primarily of capital expenditures to purchase property and equipment and field equipment, as well as investments in and redemptions of our short-term investments. 
+ Net cash provided by investing activities was $16.4 million in the nine months ended September 30, 2016 attributable to our receipt of $270.0 million from the maturity of short-term investments, partially offset by the purchase of $239.3 million of new short-term investments, purchases of $5.0 million of property and equipment and purchases of $9.2 million of field equipment. Net cash used in investing activities for the same period in 2015 was $10.7 million, attributable to the receipt of $77.0 million from the maturity of short-term investments, offset by the purchase of $59.0 million of short-term investments, purchases of $3.6 million of property and equipment and purchases of $3.5 million of field equipment. 
+ Financing activities 
+ To date, our primary financing activities have been the sale of equity and the proceeds from long-term loans. 
+ Net cash provided by financing activities consist primarily of approximately $72.9 million net proceeds from our Term Loan Credit Facility and $0.9 million received from the exercise of warrants and options by investors and employees during the nine months ended September 30, 2016.  Net cash provided by financing activities was $115.7 million in the same period of 2015, attributable to a draw under our Term Loan Credit Facility and consideration received from the sale of Series J preferred shares in the second quarter of 2015. 
+ Our material outstanding indebtedness consists of our Term Loan Credit Facility.  As of September 30, 2016, the aggregate principal balance of amounts outstanding under the Term Loan Credit Facility was $100.0 million. We may prepay the term loans, in whole, at any time, and must prepay in the event of a change of control, in each case, subject to a pay-down fee, prepayment premium and/or make-whole payment. Interest on the outstanding loan is 10% annually, payable quarterly in arrears. The funding fee payable on the amount drawn on the funding date is 1.5%, the placement fee payable on the amount drawn on the funding date is 1.25%, the pay-down fee on all principal payments to be paid on the date such payments are made is 0.75% and the pre-payment fee if we prepay outstanding loan amounts prior to the first, second or third year from the initial funding date is 3.0%, 2.0% or 1.0%, respectively. 
+ - 19 - 
+
+All obligations under the Term Loan Credit Facility are gu  aranteed by certain of our current and future domestic direct and indirect subsidiaries. In addition, the obligations under the Term Loan Credit Facility are secured by a first-priority security interest in substantially all of the property and assets of,   as well as the equity interests owned by, us and the other guarantors.  
+ The Term Loan Credit Facility has a minimum liquidity covenant, which is tested quarterly. In addition, we must meet certain pro forma net sales requirements. The Term Loan Credit Facility also contains other customary covenants. 
+  Contractual Obligations and Commitments   
+ There were no material changes in our commitments under contractual obligations during the three months ended September 30, 2016. 
+ The total amount of unrecognized tax benefits for uncertain tax positions was $2.5 million and $1.6 million at September 30, 2016 and December 31, 2015, respectively. Payment of these obligations would result from settlements with taxing authorities. We do not expect a significant tax payment related to these obligations within the next year. 
+  Off-Balance Sheet Arrangements  
+ We did not have during the periods presented, and we do not currently have, any off-balance sheet arrangements as defined under SEC rules. 
+  JOBS Act Election  
+ The Jumpstart our Business Startups Act of 2012, or the JOBS Act, permits an  emerging growth company  such as us to take advantage of an extended transition period to comply with new or revised accounting standards applicable to public companies.  We have irrevocably elected to  opt out  of the exemption for the delayed adoption of certain accounting standards and, therefore, will be subject to the same new or revised accounting standards as other public companies that are not emerging growth companies. 
+   
+     Item 4.  Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ As required by Rule 13a-15(b) under the Securities Exchange Act of 1934, as amended (the  Exchange Act ), our management, under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of the design and operation of our disclosure controls and procedures as of September 30, 2016. The term  disclosure controls and procedures,  as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company s management, including its principal executive and principal financial officers, as appropriate, to allow timely decisions regarding required disclosure. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based on the evaluation of our disclosure controls and procedures as of September 30, 2016, our Chief Executive Officer and Chief Financial Officer have concluded that, as of September 30, 2016, our disclosure controls and procedures were effective at the reasonable assurance level. 
+ Changes in Internal Control over Financial Reporting 
+ There has been no change in our internal control over financial reporting during the quarter ended September 30, 2016, that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ - 20 - 
+
+PART II OTHER   INFORMATION  
+   
+     Item 6.  Exhibits  
+ EXHIBIT INDEX 
+
+*   
+ 
+ The certifications attached as Exhibits 32.1 and 32.2 that accompany this Quarterly Report on Form 10-Q are not deemed filed with the Securities and Exchange Commission and are not to be incorporated by reference into any filing of NovoCure Limited under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date of this Form 10-Q, irrespective of any general incorporation language contained in such filing.    
+
+- 21 - 
+
+SIGNAT  URES  
+   
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.  
+
+NovoCure Limited  
+
+Date: November 2, 2016  
+
+/s/ Wilco Groenhuysen  
+
+Wilco Groenhuysen  
+
+Chief Financial Officer  
+
+(principal financial and accounting officer 
+  and duly authorized officer)  
+
+- 22 - 
+
+EXHIBIT INDEX  
+
+*   
+ 
+ The certifications attached as Exhibits 32.1 and 32.2 that accompany this Quarterly Report on Form 10-Q are not deemed filed with the Securities and Exchange Commission and are not to be incorporated by reference into any filing of NovoCure Limited under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date of this Form 10-Q, irrespective of any general incorporation language contained in such filing.    
+
+- 23 -  
+
+<EX-31.1>
+ 2
+ nvcr-ex311_15.htm
+ EX-31.1
+
+nvcr-ex311_15.htm
+
+Exhibit 31.1  
+   
+  CERTIFICATIONS  
+   
+ I, Asaf Danziger, certify that: 
+
+1.   
+ 
+ I have reviewed this Quarterly Report on Form 10-Q of NovoCure Limited;    
+
+2.   
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact  necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;     
+
+3.   
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;     
+
+4.   
+ 
+ The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:    
+
+(a)  Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+   
+ (b)  Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+   
+ (c)  Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and  
+
+5.   
+ 
+ The registrant's other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions):    
+
+(a)  all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+   
+ (b)  any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal controls over financial reporting. 
+
+Date:  November 2, 2016 
+
+/s/ Asaf Danziger  
+
+Asaf Danziger  
+
+Chief Executive Officer and Director  
+
+(Principal Executive Officer)  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ nvcr-ex312_14.htm
+ EX-31.2
+
+nvcr-ex312_14.htm
+
+Exhibit 31.2  
+   
+  CERTIFICATIONS  
+   
+ I, Wilco Groenhuysen, certify that: 
+
+1.   
+ 
+ I have reviewed this Quarterly Report on Form 10-Q of NovoCure Limited;    
+
+2.   
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact  necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;     
+
+3.   
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;     
+
+4.   
+ 
+ The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:    
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, incl uding its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+   
+ (b) Evaluated the effectiveness of the registrant's disclosure controls and procedures and pre sented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+   
+ (c) Disclosed in this report any change in the registrant's internal  control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and  
+
+5.   
+ 
+ The registrant's other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions):    
+
+(a)  all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likel y to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+   
+ (b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal  controls over financial reporting. 
+
+Date:  November 2, 2016 
+
+/s/ Wilco Groenhuysen  
+
+Wilco Groenhuysen  
+
+Chief Financial Officer  
+
+(Principal Accounting and Financial Officer)  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ nvcr-ex321_13.htm
+ EX-32.1
+
+nvcr-ex321_13.htm
+
+Exhibit 32.1  
+   
+ NOVOCURE LIMITED 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report of NovoCure Limited (the "Company") on Form 10-Q for the quarter ended September 30, 2016, as filed with the Securities and Exchange Commission on the date hereof (the "Report"), I, Asaf Danziger, Chief Executive Officer (Principal Executive Officer) of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that: 
+   
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+   
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company.  
+
+/s/ Asaf Danziger  
+
+Asaf Danziger  
+
+Chief Executive Officer   
+
+(Principal Executive Officer)  
+
+Date:  November 2, 2016 
+   
+ A signed original of this written statement required by Section 906 has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff on request. 
+   
+  This certification accompanies the Report to which it relates, is not deemed filed with the Securities and Exchange Commission and is not to be incorporated by reference into any filing of NovoCure Limited under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before or after the date of the Report), irrespective of any general incorporation language contained in such filing.   
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ nvcr-ex322_16.htm
+ EX-32.2
+
+nvcr-ex322_16.htm
+
+Exhibit 32.2  
+   
+ NOVOCURE LIMITED 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report of NovoCure Limited (the "Company") on Form 10-Q for the quarter ended September 30, 2016, as filed with the Securities and Exchange Commission on the date hereof (the "Report"), I, Wilco Groenhuysen, Chief Financial Officer (Principal Financial and Accounting Officer) of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1)   
+ 
+ The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and    
+
+(2)   
+ 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company.    
+
+/s/ Wilco Groenhuysen  
+
+Wilco Groenhuysen  
+
+Chief Financial Officer   
+
+(Principal Financial and Accounting Officer)  
+
+Date:  November 2, 2016 
+   
+ A signed original of this written statement required by Section 906 has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff on request. 
+   
+  This certification accompanies the Report to which it relates, is not deemed filed with the Securities and Exchange Commission and is not to be incorporated by reference into any filing of NovoCure Limited under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before or after the date of the Report), irrespective of any general incorporation language contained in such filing.   
+
+</EX-32.2>
+
+<EX-101.INS>
+ 7
+ nvcr-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ nvcr-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ nvcr-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ nvcr-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ nvcr-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ nvcr-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

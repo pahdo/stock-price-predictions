@@ -1,0 +1,1029 @@
+<Header>
+<FileStats>
+    <FileName>20161104_10-Q_edgar_data_48732_0000048732-16-000043_1.txt</FileName>
+    <GrossFileSize>2915738</GrossFileSize>
+    <NetFileSize>81052</NetFileSize>
+    <ASCII_Embedded_Chars>192220</ASCII_Embedded_Chars>
+    <HTML_Chars>938570</HTML_Chars>
+    <XBRL_Chars>1177437</XBRL_Chars>
+    <XML_Chars>457116</XML_Chars>
+    <N_Tables>21</N_Tables>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000048732-16-000043.hdr.sgml : 20161104
+<ACCEPTANCE-DATETIME>20161104063325
+ACCESSION NUMBER:		0000048732-16-000043
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		44
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161104
+DATE AS OF CHANGE:		20161104
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CENTERPOINT ENERGY HOUSTON ELECTRIC LLC
+		CENTRAL INDEX KEY:			0000048732
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				223865106
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03187
+		FILM NUMBER:		161973565
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 LOUISIANA
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+		BUSINESS PHONE:		7132073000
+
+	MAIL ADDRESS:	
+		STREET 1:		611 WALKER
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RELIANT ENERGY INC
+		DATE OF NAME CHANGE:	19990513
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HOUSTON INDUSTRIES INC
+		DATE OF NAME CHANGE:	19970807
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HOUSTON LIGHTING & POWER CO
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 0000048732-16-000043.txt : 20161104
+
+10-Q
+ 1
+ ceheq3201610-q.htm
+ 10-Q
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  WASHINGTON, D.C.  20549 
+    
+  FORM 10-Q 
+                 (Mark One) 
+        
+    QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2016 
+      OR 
+        
+    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+FOR THE TRANSITION PERIOD FROM                                   TO                                
+
+Commission file number 1-3187 
+  ______________________________ 
+    
+  CENTERPOINT ENERGY HOUSTON ELECTRIC, LLC 
+  (Exact name of registrant as specified in its charter) 
+
+______________________________ 
+    
+  CenterPoint Energy Houston Electric, LLC meets the conditions set forth in General Instruction H(1)(a) and (b) of Form 10-Q and is therefore filing this Form 10-Q with the reduced disclosure format. 
+    
+  Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes       No   o 
+    
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (  232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  Yes       No   o 
+    
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of  large accelerated filer ,  accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one):                       Large accelerated filer   o 
+    Accelerated filer   o 
+    Non-accelerated filer     
+    Smaller reporting company   o 
+
+(Do not check if a smaller reporting company) 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes   o   No     
+  As of   October 21, 2016  , all 1,000 common shares of CenterPoint Energy Houston Electric, LLC were held by Utility Holding, LLC, a wholly-owned subsidiary of CenterPoint Energy, Inc. 
+
+CENTERPOINT ENERGY HOUSTON ELECTRIC, LLC 
+  QUARTERLY REPORT ON FORM 10-Q 
+  FOR THE QUARTER ENDED   SEPTEMBER 30, 2016 
+    
+  TABLE OF CONTENTS 
+
+i 
+
+GLOSSARY 
+
+ASU 
+      
+    Accounting Standards Update 
+      Brazos Valley Connection 
+      
+    A portion of the Houston region transmission project between Houston Electric s Zenith substation and the Gibbons Creek substation owned by the Texas Municipal Power Agency 
+      Bond Companies 
+      
+    Transition and system restoration bond companies 
+      Bond Company II 
+      
+    CenterPoint Energy Transition Bond Company II, LLC 
+      Bond Company III 
+      
+    CenterPoint Energy Transition Bond Company III, LLC 
+      Bond Company IV 
+      
+    CenterPoint Energy Transition Bond Company IV, LLC 
+      CECL 
+      
+    Current expected credit losses 
+      CenterPoint Energy 
+      
+    CenterPoint Energy, Inc., and its subsidiaries 
+      CERC Corp. 
+      
+    CenterPoint Energy Resources Corp. 
+      CERC 
+      
+    CERC Corp., together with its subsidiaries 
+      CES 
+      
+    CenterPoint Energy Services, Inc. 
+      DCRF 
+      
+    Distribution Cost Recovery Factor 
+      EECRF 
+      
+    Energy Efficiency Cost Recovery Factor 
+      FASB 
+      
+    Financial Accounting Standards Board 
+      Fitch 
+      
+    Fitch, Inc. 
+      Form 10-Q 
+      
+    Quarterly Report on Form 10-Q 
+      GenOn 
+      
+    GenOn Energy, Inc. 
+      GWh 
+      
+    Gigawatt-hours 
+      Houston Electric 
+      
+    CenterPoint Energy Houston Electric, LLC and its subsidiaries 
+      IBEW 
+      
+    International Brotherhood of Electrical Workers 
+      Interim Condensed Financial Statements 
+      
+    Condensed consolidated interim financial statements and notes 
+      IRS 
+      
+    Internal Revenue Service 
+      LIBOR 
+      
+    London Interbank Offered Rate 
+      Moody s 
+      
+    Moody s Investors Service, Inc. 
+      NAV 
+      
+    Net asset value 
+      NECA 
+      
+    National Electrical Contractors Association 
+      NRG 
+      
+    NRG Energy, Inc. 
+      Reliant Energy 
+      
+    Reliant Energy, Incorporated 
+      REP 
+      
+    Retail electric provider 
+      Restoration Bond Company 
+      
+    CenterPoint Energy Restoration Bond Company, LLC 
+      RRI 
+      
+    Reliant Resources, Inc. 
+      SEC 
+      
+    Securities and Exchange Commission 
+      Securitization Bonds 
+      
+    Transition and system restoration bonds 
+      S P 
+      
+    Standard   Poor s Ratings Services, a division of The McGraw-Hill Companies 
+      TCOS 
+      
+    Transmission Cost of Service 
+      TDU 
+      
+    Transmission and distribution utility 
+      Texas Utility Commission 
+      
+    Public Utility Commission of Texas 
+      VIE 
+      
+    Variable interest entity 
+      2015 Form 10-K 
+      
+    Annual Report on Form 10-K for the year ended December 31, 2015, as amended by Amendment No. 1 thereto on Form 10-K/A filed on May 12, 2016 
+
+ii 
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION 
+    
+  From time to time we make statements concerning our expectations, beliefs, plans, objectives, goals, strategies, future events or performance and underlying assumptions and other statements that are not historical facts. These statements are  forward-looking statements  within the meaning of the Private Securities Litigation Reform Act of 1995. Actual results may differ materially from those expressed or implied by these statements. You can generally identify our forward-looking statements by the words  anticipate,   believe,   continue,   could,   estimate,   expect,   forecast,   goal,   intend,   may,   objective,   plan,   potential,   predict,   projection,   should,   will  or other similar words. 
+    
+  We have based our forward-looking statements on our management s beliefs and assumptions based on information reasonably available to our management at the time the statements are made. We caution you that assumptions, beliefs, expectations, intentions and projections about future events may and often do vary materially from actual results. Therefore, we cannot assure you that actual results will not differ materially from those expressed or implied by our forward-looking statements. 
+    
+  The following are some of the factors that could cause actual results to differ from those expressed or implied by our forward-looking statements: 
+
+state and federal legislative and regulatory actions or developments affecting various aspects of our business, including, among others, energy deregulation or re-regulation, health care reform, financial reform, tax legislation and actions regarding the rates we charge; 
+
+timely and appropriate rate actions that allow recovery of costs and a reasonable return on investment; 
+
+industrial, commercial and residential growth in our service territory and changes in market demand, including the effects of energy efficiency measures and demographic patterns; 
+
+future economic conditions in regional and national markets and their effect on sales, prices and costs; 
+
+weather variations and other natural phenomena, including the impact of severe weather events on operations and capital; 
+
+problems with regulatory approval, construction, implementation of necessary technology or other issues with respect to major capital projects that result in delays or in cost overruns that cannot be recouped in rates; 
+
+local, state and federal legislative and regulatory actions or developments relating to the environment, including those related to global climate change; 
+
+the impact of unplanned facility outages; 
+
+any direct or indirect effects on our facilities, operations and financial condition resulting from terrorism, cyber-attacks, data security breaches or other attempts to disrupt our business or the businesses of third parties, or other catastrophic events such as fires, earthquakes, explosions, leaks, floods, droughts, hurricanes, pandemic health events or other occurrences; 
+
+our ability to invest planned capital and the timely recovery of our investment in capital; 
+
+our ability to control operation and maintenance costs; 
+
+actions by credit rating agencies; 
+
+the sufficiency of our insurance coverage, including availability, cost, coverage and terms; 
+
+the investment performance of CenterPoint Energy, Inc. s pension and postretirement benefit plans; 
+
+commercial bank and financial market conditions, our access to capital, the cost of such capital, and the results of our financing and refinancing efforts, including availability of funds in the debt capital markets; 
+
+changes in interest rates or rates of inflation; 
+
+inability of various counterparties to meet their obligations to us; 
+     
+    iii 
+
+non-payment for our services due to financial distress of our customers; 
+
+timely and appropriate regulatory actions allowing securitization or other recovery of costs associated with any future hurricanes or natural disasters; 
+
+our potential business strategies and strategic initiatives, including restructurings, acquisitions or dispositions of assets or businesses, which we cannot assure you will be completed or will have the anticipated benefits to us; 
+
+acquisition and merger activities involving us or our competitors;  
+
+our ability to recruit, effectively transition and retain management and key employees and maintain good labor relations; 
+
+the ability of GenOn (formerly known as RRI Energy, Inc., Reliant Energy and RRI), a wholly-owned subsidiary of NRG, and its subsidiaries to satisfy their obligations to us, including indemnity obligations;  
+
+the outcome of litigation; 
+
+the ability of REPs, including REP affiliates of NRG and Energy Future Holdings Corp., to satisfy their obligations to us and our subsidiaries; 
+
+changes in technology, particularly with respect to efficient battery storage or the emergence or growth of new, developing or alternative sources of generation; 
+
+the timing and outcome of any audits, disputes and other proceedings related to taxes; 
+
+the effect of changes in and application of accounting standards and pronouncements; and 
+
+other factors we discuss in  Risk Factors  in Item 1A of Part I of our 2015 Form 10-K, which is incorporated herein by reference, and other reports we file from time to time with the SEC. 
+       
+  You should not place undue reliance on forward-looking statements.  Each forward-looking statement speaks only as of the date of the particular statement. 
+
+iv 
+
+PART I. FINANCIAL INFORMATION 
+
+ITEM 1.        FINANCIAL STATEMENTS 
+
+CENTERPOINT ENERGY HOUSTON ELECTRIC, LLC AND SUBSIDIARIES 
+  (AN INDIRECT, WHOLLY-OWNED SUBSIDIARY OF CENTERPOINT ENERGY, INC.) 
+  CONDENSED STATEMENTS OF CONSOLIDATED INCOME 
+  (Millions of Dollars) 
+  (Unaudited) 
+
+See Notes to Interim Condensed Consolidated Financial Statements 
+
+1 
+
+CENTERPOINT ENERGY HOUSTON ELECTRIC, LLC AND SUBSIDIARIES 
+  (AN INDIRECT, WHOLLY-OWNED SUBSIDIARY OF CENTERPOINT ENERGY, INC.) 
+  CONDENSED STATEMENTS OF CONSOLIDATED COMPREHENSIVE INCOME 
+  (Millions of Dollars) 
+  (Unaudited) 
+
+See Notes to Interim Condensed Consolidated Financial Statements 
+  
+    2 
+
+CENTERPOINT ENERGY HOUSTON ELECTRIC, LLC AND SUBSIDIARIES 
+  (AN INDIRECT, WHOLLY-OWNED SUBSIDIARY OF CENTERPOINT ENERGY, INC.) 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+  (Millions of Dollars) 
+  (Unaudited) 
+    
+  ASSETS 
+
+See Notes to Interim Condensed Consolidated Financial Statements 
+
+3 
+
+CENTERPOINT ENERGY HOUSTON ELECTRIC, LLC AND SUBSIDIARIES 
+  (AN INDIRECT, WHOLLY-OWNED SUBSIDIARY OF CENTERPOINT ENERGY, INC.) 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+  (Millions of Dollars) 
+  (Unaudited) 
+    
+  LIABILITIES AND MEMBER     S EQUITY 
+
+See Notes to Interim Condensed Consolidated Financial Statements 
+  
+    4 
+
+CENTERPOINT ENERGY HOUSTON ELECTRIC, LLC AND SUBSIDIARIES 
+  (AN INDIRECT, WHOLLY-OWNED SUBSIDIARY OF CENTERPOINT ENERGY, INC.) 
+  CONDENSED STATEMENTS OF CONSOLIDATED CASH FLOWS 
+  (Millions of Dollars) 
+  (Unaudited) 
+
+See Notes to Interim Condensed Consolidated Financial Statements 
+
+5 
+
+CENTERPOINT ENERGY HOUSTON ELECTRIC, LLC AND SUBSIDIARIES 
+    
+  NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(1)     Background and Basis of Presentation    
+    
+  General.   Included in this Form 10-Q are the Interim Condensed Financial Statements of Houston Electric. The Interim Condensed Financial Statements are unaudited, omit certain financial statement disclosures and should be read with the 2015 Form 10-K. 
+    
+  Background.   Houston Electric engages in the electric transmission and distribution business in the Texas Gulf Coast area that includes the city of Houston.  Houston Electric is an indirect, wholly-owned subsidiary of CenterPoint Energy, Inc., a public utility holding company.  At   September 30, 2016  , Houston Electric had the following subsidiaries: Bond Company II, Bond Company III, Restoration Bond Company and Bond Company IV.  Bond Companies, which are classified as VIEs, are wholly-owned, bankruptcy-remote, special purpose entities that were formed specifically for the purpose of securitizing transition and system restoration-related property. Creditors of Houston Electric have no recourse to any assets or revenues of Bond Companies. The bonds issued by these VIEs are payable only from and secured by transition and system restoration property, and the bondholders have no recourse to the general credit of Houston Electric. 
+    
+  Basis of Presentation.   The preparation of financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period.  Actual results could differ from those estimates. 
+    
+  Houston Electric s Interim Condensed Financial Statements reflect all normal recurring adjustments that are, in the opinion of management, necessary to present fairly the financial position, results of operations and cash flows for the respective periods.  Amounts reported in Houston Electric s Condensed Statements of Consolidated Income are not necessarily indicative of amounts expected for a full-year period due to the effects of, among other things, (a) seasonal fluctuations in demand for energy, (b) timing of maintenance and other expenditures and (c) acquisitions and dispositions of businesses, assets and other interests. 
+
+(2)     New Accounting Pronouncements    
+    
+  In   February 2015, the FASB issued ASU No. 2015-02,   Consolidation (Topic 810): Amendments to the Consolidation   Analysis   (ASU 2015-02). ASU 2015  -02 changes the analysis that reporting organizations must perform to evaluate whether they should consolidate certain legal entities, such as limited partnerships.   The changes include, among others, modification of the evaluation of whether limited partnerships and similar legal entities are VIEs or voting interest entities and elimination of the presumption that a general partner should consolidate a limited partnership. ASU 2015-02 does not amend the related party guidance for situations in which power is shared between two or more entities that hold interests in a VIE. Houston Electric adopted ASU 2015-02 on January 1, 2016, which Houston Electric determined did not have a material impact on its financial position, results of operations, cash flows and disclosures. 
+    
+  In April 2015, the FASB issued ASU No. 2015-03,   Interest-Imputation of Interest (Subtopic 835-30): Simplifying the Presentation of Debt Issuance Cost   (ASU 2015-03)  .    ASU 2015-03 requires that debt issuance costs related to a recognized debt liability be presented in the balance sheet as a direct deduction from the carrying amount of that debt liability, consistent with debt discounts. The recognition and measurement guidance for debt issuance costs are not affected by ASU 2015-03. Houston Electric adopted ASU 2015-03 retrospectively on January 1, 2016, which resulted in a reduction of other long-term assets and total long-term debt on its Condensed Consolidated Balance Sheets. Houston Electric had debt issuance costs, excluding amounts related to credit facility arrangements, of   $24 million   and   $21 million   as of   September 30, 2016   and December 31, 2015, respectively.  
+    
+  In May 2015, the FASB issued ASU No. 2015-07,   Fair Value Measurement (Topic 820): Disclosures for Investments in Certain Entities That Calculate Net Asset Value per Share (or Its Equivalent)   (ASU 2015-07). ASU 2015-07 removes the requirement to categorize within the fair value hierarchy investments for which fair values are measured at NAV using the practical expedient. Entities will be required to disclose the fair value of investments measured using the NAV practical expedient so that financial statement users can reconcile amounts reported in the fair value hierarchy table to amounts reported on the balance sheet. Houston Electric adopted ASU 2015-07 on January 1, 2016, which will have an impact on its employee benefit plan disclosures, beginning with its annual report on Form 10-K for the year ended December 31, 2016. This standard did not have an impact on Houston Electric s financial position, results of operations or cash flows. 
+
+6 
+
+In September 2015, the FASB issued ASU No. 2015-16,   Business Combinations (Topic 805): Simplifying the Accounting for Measurement-Period Adjustments   (ASU 2015-16).  ASU 2015-16 eliminates the requirement for an acquirer in a business combination to account for measurement-period adjustments retrospectively. Instead, an acquirer would recognize a measurement-period adjustment during the period in which the amount of the adjustment is determined. Houston Electric adopted ASU 2015-16 on January 1, 2016, which did not have an impact on its financial position, results of operations or cash flows. 
+    
+  In January 2016, the FASB issued ASU No. 2016-01,   Financial Instruments-Overall (Subtopic 825-10): Recognition and Measurement of Financial Assets and Financial Liabilities   (ASU 2016-01). ASU 2016-01 requires equity investments that do not result in consolidation and are not accounted for under the equity method to be measured at fair value and to recognize any changes in fair value in net income unless the investments qualify for the new practicability exception. It does not change the guidance for classifying and measuring investments in debt securities and loans. ASU 2016-01 also changes certain disclosure requirements and other aspects related to recognition and measurement of financial assets and financial liabilities. ASU 2016-01 is effective for fiscal years, and interim periods within those years, beginning after December 15, 2017. Houston Electric is currently assessing the impact that this standard will have on its financial position, results of operations, cash flows and disclosures. 
+    
+  In February 2016, the FASB issued ASU No. 2016-02,   Leases (Topic 842)   (ASU 2016-02). ASU 2016-02 provides a comprehensive new lease model that requires lessees to recognize assets and liabilities for most leases and would change certain aspects of lessor accounting. ASU 2016-02 is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2018,   with early adoption permitted.   Houston Electric is currently assessing the impact that this standard will have on its financial position, results of operations, cash flows and disclosures. 
+    
+  In March 2016, the FASB issued ASU No. 2016-05,   Derivatives and Hedging (Topic 815): Effect of Derivative Contract Novation on Existing Hedge Accounting Relationships   (ASU 2016-05). ASU 2016-05 clarifies that a change in the counterparty to a derivative instrument that has been designated as the hedging instrument in an existing hedging relationship would not, in and of itself, be considered a termination of the derivative instrument or a change in a critical term of the hedging relationship. This clarification applies to both cash flow and fair value hedging relationships. Houston Electric adopted ASU 2016-05 prospectively in the first quarter of 2016, which did not have an impact on its financial position, results of operations, cash flows and disclosures. 
+    
+  In March, April, and May 2016, the FASB issued ASU No. 2016-08,   Revenue from Contracts with Customers (Topic 606): Principal versus Agent Considerations   (ASU 2016-08), ASU No. 2016-10,   Revenue from Contracts with Customers (Topic 606): Identifying Performance Obligations and Licensing   (ASU 2016-10), and ASU No. 2016-12,   Revenue from Contracts with Customers (Topic 606): Narrow-Scope Improvements and Practical Expedients   (ASU 2016-12)  ,   respectively  .   ASU 2016-08,  ASU 2016-10, and ASU 2016-12  clarify certain aspects of ASU No. 2014-09,   Revenue from Contracts with Customers (Topic 606)   (ASU 2014-09), which supersedes most current revenue recognition guidance. Houston Electric is currently evaluating the impact that ASU 2016-08, ASU 2016-10, ASU 2016-12, and ASU 2014-09 will have on its financial position, results of operations, cash flows and disclosures and expects to adopt these ASUs on January 1, 2018. 
+    
+  In June 2016, the FASB issued ASU No. 2016-13,   Financial Instruments-Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments   (ASU 2016-13). ASU 2016-13 requires a new model called the CECL model to estimate credit losses for financial assets subject to credit losses and measured at amortized cost and certain off-balance sheet credit exposures. This includes loans, held-to-maturity debt securities, loan commitments, financial guarantees, and net investments in leases, as well as reinsurance and trade receivables. Upon initial recognition of the exposure, the CECL model requires an entity to estimate the credit losses expected over the life of an exposure based on historical information, current information and reasonable and supportable forecasts, including estimates of prepayments. The update also amends the other-than-temporary impairment model for debt securities classified as available-for-sale. ASU 2016-13 is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019, with early adoption permitted beginning after December 15, 2018. Houston Electric is currently assessing the impact that this standard will have on its financial position, results of operations, cash flows and disclosures. 
+    
+  In August 2016, the FASB issued ASU No. 2016-15,   Statement of Cash Flows (Topic 230)-Classification of Certain Cash Receipts and Cash Payments   (ASU 2016-15). ASU 2016-15   provides clarifying guidance on the classification of certain cash receipts and payments in the statement of cash flows and eliminates the variation in practice related to such classifications. ASU 2016-15 is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2017, with early adoption permitted. Houston Electric is currently assessing the impact that this standard will have on its statement of cash flows. 
+    
+  Management believes that other recently issued standards, which are not yet effective, will not have a material impact on Houston Electric s consolidated financial position, results of operations or cash flows upon adoption. 
+
+7 
+
+(3)     Employee Benefit Plans    
+    
+  Houston Electric s employees participate in CenterPoint Energy s postretirement benefit plan.  Houston Electric s net periodic cost includes the following components relating to postretirement benefits: 
+
+(1) 
+    A curtailment gain or loss is required when the expected future services of a significant number of current employees are reduced or eliminated for the accrual of benefits. In May 2016, Houston Electric entered into a renegotiated collective bargaining agreement with the IBEW Local Union 66 that provides that for Houston Electric union employees covered under the agreement who retire on or after January 1, 2017, retiree medical and prescription drug coverage will be provided exclusively through the NECA/IBEW Family Medical Care Plan in exchange for the payment of monthly premiums as determined under the agreement.  As a result, the accrued postretirement benefits related to such future Houston Electric union retirees were eliminated. Houston Electric recognized a curtailment gain of   $3 million   as an accelerated recognition of the prior service credit that would otherwise be recognized in future periods. 
+       
+  Houston Electric expects to contribute approximately   $7 million   to its postretirement benefit plan in   2016  , of which approximately   $2 million   and   $6 million   were contributed during the   three and nine   months ended   September 30, 2016  , respectively. 
+
+(4)     Regulatory Accounting    
+    
+  As of   September 30, 2016  , Houston Electric has not recognized an allowed equity return of   $341 million   because such return will be recognized as it is recovered in rates.  During the   three   months ended   September 30, 2016   and   2015  , Houston Electric recognized approximately   $22 million   and   $16 million  , respectively, of the allowed equity return not previously recognized.  During the   nine   months ended   September 30, 2016   and   2015  , Houston Electric recognized approximately   $52 million   and   $37 million  , respectively, of the allowed equity return not previously recognized.  
+
+(5)     Fair Value Measurements    
+    
+  Assets and liabilities that are recorded at fair value in the Condensed Consolidated Balance Sheets are categorized based upon the level of judgment associated with the inputs used to measure their value. Hierarchical levels, as defined below and directly related to the amount of subjectivity associated with the inputs to fair valuations of these assets and liabilities, are as follows: 
+    
+  Level 1: Inputs are unadjusted quoted prices in active markets for identical assets or liabilities at the measurement date. The types of assets carried at Level 1 fair value are investments listed in active markets.  At   September 30, 2016   and   December 31, 2015  , Houston Electric held Level 1 investments of   $37 million   and   $32 million  , respectively, which were primarily investments in money market funds and are included in other current assets in the Condensed Consolidated Balance Sheets.  
+    
+  Level 2:  Inputs, other than quoted prices included in Level 1, are observable for the asset or liability, either directly or indirectly. Level 2 inputs include quoted prices for similar instruments in active markets, and inputs other than quoted prices that are observable for the asset or liability. Houston Electric had   no   Level 2 assets or liabilities at either   September 30, 2016   or   December 31, 2015  . 
+    
+  Level 3: Inputs are unobservable for the asset or liability, and include situations where there is little, if any, market activity for the asset or liability.  Unobservable inputs reflect Houston Electric s judgments about the assumptions market participants would use in determining fair value.  Houston Electric had   no   Level 3 assets or liabilities at either   September 30, 2016   or   December 31, 2015  . 
+
+8 
+
+Houston Electric determines the appropriate level for each financial asset and liability on a quarterly basis and recognizes  transfers between levels at the end of the reporting period.  For the   nine   months ended   September 30, 2016  , there were no transfers between levels. 
+    
+  Estimated Fair Value of Financial Instruments 
+    
+  The fair values of cash and cash equivalents and short-term borrowings are estimated to be approximately equivalent to carrying amounts and have been excluded from the table below.  The fair value of each debt instrument is determined by multiplying the principal amount of each debt instrument by the market price.  These assets and liabilities, which are not measured at fair value in the Condensed Consolidated Balance Sheets, but for which the fair value is disclosed, would be classified as Level 1 in the fair value hierarchy. 
+
+(6)     Related Party Transactions and Major Customers    
+    
+  (a) Related Party Transactions 
+    
+  Houston Electric participates in a money pool through which it can borrow or invest on a short-term basis. Funding needs are aggregated and external borrowing or investing is based on the net cash position. The net funding requirements of the money pool are expected to be met with borrowings under CenterPoint Energy s revolving credit facility or the sale of CenterPoint Energy s commercial paper.      Houston Electric had borrowings from the money pool of   $129 million   and   $312 million   at   September 30, 2016   and   December 31, 2015  , respectively, which are included in accounts and notes payable-affiliated companies, in the Condensed Consolidated Balance Sheets.  As of   September 30, 2016  , Houston Electric s money pool borrowings had a weighted-average interest rate of   0.82%  . 
+    
+  Houston Electric had net interest expense related to affiliate borrowings of   $1 million   and   $4 million   for the three and nine months ended   September 30, 2016  , respectively, and   less than $1 million   for both the   three and nine   months ended   September 30, 2015  . 
+    
+  CenterPoint Energy provides some corporate services to Houston Electric. The costs of services have been charged directly to Houston Electric using methods that management believes are reasonable. These methods include negotiated usage rates, dedicated asset assignment and proportionate corporate formulas based on operating expenses, assets, gross margin, employees and a composite of assets, gross margin and employees. CERC provides certain services to Houston Electric.  These services are billed at actual cost, either directly or as an allocation and include line locating and other miscellaneous services.  Additionally, Houston Electric provides a number of services to CERC.  These services are billed at actual cost, either directly or as an allocation and include fleet services, shop services, geographic services, surveying and right-of-way services, radio communications, data circuit management and field operations.  These charges are not necessarily indicative of what would have been incurred had Houston Electric not been an affiliate. Amounts charged to Houston Electric for these services were as follows and are included primarily in operation and maintenance expenses: 
+
+9 
+
+(b) Major Customers 
+    
+  Houston Electric s transmission and distribution revenues from major customers are as follows: 
+
+(7)     Long-term Debt    
+    
+  General Mortgage Bonds.    In May 2016, Houston Electric issued   $300 million   aggregate principal amount of   1.85%   general mortgage bonds due 2021.  In August 2016, Houston Electric issued   $300 million   aggregate principal amount of   2.40%   general mortgage bonds due 2026.  The proceeds from the issuance of these bonds were used to repay short-term debt and for general corporate purposes. 
+    
+  Revolving Credit Facility.   On March 4, 2016, Houston Electric announced that it had refinanced its existing   $300 million   revolving credit facility, which would have expired in 2019, with a new   $300 million     five  -year senior unsecured revolving credit facility.  As of   September 30, 2016   and   December 31, 2015  , Houston Electric had the following revolving credit facility and utilization of such facility: 
+
+Houston Electric s     $300 million   revolving credit facility, which is scheduled to terminate on March 3, 2021, can be drawn at LIBOR plus   1.125%    based on Houston Electric s current credit ratings. The revolving credit facility contains a financial covenant which limits Houston Electric s consolidated debt (with certain exceptions, including but not limited to Securitization Bonds) to an amount not to exceed   65%   of Houston Electric s consolidated capitalization.  As of   September 30, 2016  , Houston Electric s debt (excluding Securitization Bonds) to capital ratio, as defined in its credit facility agreement, was   51.7%  .  The financial covenant limit will temporarily increase from   65%   to   70%   if Houston Electric experiences damage from a natural disaster in its service territory and Houston Electric certifies to the administrative agent that Houston Electric has incurred system restoration costs reasonably likely to exceed   $100 million   in a consecutive   twelve  -month period, all or part of which Houston Electric intends to seek to recover through securitization financing. Such temporary increase in the financial covenant would be in effect from the date Houston Electric delivers its certification until the earliest to occur of (i) the completion of the securitization financing, (ii) the first anniversary of Houston Electric s certification or (iii) the revocation of such certification. 
+    
+   Houston Electric was in compliance with all financial covenants as of   September 30, 2016  . 
+    
+  Hedging of Interest Expense for Future Debt Issuances.   In April 2016, Houston Electric entered into forward interest rate agreements with several counterparties, having an aggregate notional amount of   $150 million  .  These agreements were executed to hedge, in part, volatility in the 5-year U.S. treasury rate by reducing Houston Electric s exposure to variability in cash flows related to interest payments of Houston Electric s   $300 million   issuance of fixed rate debt in May 2016.  These forward interest rate agreements were designated as cash flow hedges.  The realized gains and losses associated with the agreements were immaterial. 
+    
+  In June and July 2016, Houston Electric entered into forward interest rate agreements with several counterparties, having an aggregate notional amount of   $300 million  .  These agreements were executed to hedge, in part, volatility in the 10-year U.S. treasury rate by reducing Houston Electric s exposure to variability in cash flows related to interest payments of Houston Electric s   $300 million   issuance of fixed rate debt in August 2016.  These forward interest rate agreements were designated as cash flow hedges.  Accordingly, the effective portion of realized gains and losses associated with the agreements, which totaled   $1.1 million  , is a  
+  
+    10 
+
+component of accumulated other comprehensive income and will be amortized over the life of the bonds.  The ineffective portion of the gains and losses was recorded in income and was immaterial. 
+    
+  Other.   As of both   September 30, 2016   and   December 31, 2015  , Houston Electric had issued   $118 million   of general mortgage bonds as collateral for long-term debt of CenterPoint Energy. These bonds are not reflected in the consolidated financial statements because of the contingent nature of the obligations.  
+
+(8)     Commitments and Contingencies    
+    
+  Legal Matters 
+    
+  Gas Market Manipulation Cases  .  CenterPoint Energy, Houston Electric or their predecessor, Reliant Energy, and certain of their former subsidiaries have been named as defendants in certain lawsuits described below. Under a master separation agreement between CenterPoint Energy and a former subsidiary, RRI, CenterPoint Energy and its subsidiaries are entitled to be indemnified by RRI and its successors for any losses, including certain attorneys  fees and other costs, arising out of these lawsuits.  In May 2009, RRI sold its Texas retail business to a subsidiary of NRG and RRI changed its name to RRI Energy, Inc. In December 2010, Mirant Corporation merged with and became a wholly-owned subsidiary of RRI, and RRI changed its name to GenOn. In December 2012, NRG acquired GenOn through a merger in which GenOn became a wholly-owned subsidiary of NRG.  None of the sale of the retail business, the merger with Mirant Corporation, or the acquisition of GenOn by NRG alters RRI s (now GenOn s) contractual obligations to indemnify CenterPoint Energy and its subsidiaries, including Houston Electric, for certain liabilities, including their indemnification obligations regarding the gas market manipulation litigation. 
+    
+  A large number of lawsuits were filed against numerous gas market participants in a number of federal and western state courts in connection with the operation of the natural gas markets in 2000 2002.  CenterPoint Energy and its affiliates have since been released or dismissed from all such cases.  CES, a subsidiary of CERC Corp., was a defendant in a case now pending in federal court in Nevada alleging a conspiracy to inflate Wisconsin natural gas prices in 2000 2002.  On May 24, 2016, the district court granted CES s motion for summary judgment, dismissing CES from the case.  That ruling is subject to appeal.  CenterPoint Energy and CES intend to continue vigorously defending against the plaintiffs  claims. Houston Electric does not expect the ultimate outcome of this matter to have a material adverse effect on its financial condition, results of operations or cash flows.  
+    
+  Environmental Matters 
+    
+  Asbestos.   Some facilities owned by Houston Electric contain or have contained asbestos insulation and other asbestos-containing materials. CenterPoint Energy and its subsidiaries, including Houston Electric, are from time to time named, along with numerous others, as defendants in lawsuits filed by a number of individuals who claim injury due to exposure to asbestos, and CenterPoint Energy anticipates that additional claims may be asserted in the future. Although their ultimate outcome cannot be predicted at this time, Houston Electric does not expect these matters, either individually or in the aggregate, to have a material adverse effect on its financial condition, results of operations or cash flows. 
+    
+  Other Environmental.   From time to time, Houston Electric identifies the presence of environmental contaminants during its operations or on property where its predecessor companies have conducted operations.  Other such sites involving contaminants may be identified in the future.  Houston Electric has and expects to continue to remediate identified sites consistent with its legal obligations. From time to time, Houston Electric has received notices from regulatory authorities or others regarding its status as a potentially responsible party in connection with sites found to require remediation due to the presence of environmental contaminants. In addition, Houston Electric has been named from time to time as a defendant in litigation related to such sites. Although the ultimate outcome of such matters cannot be predicted at this time, Houston Electric does not expect these matters, either individually or in the aggregate, to have a material adverse effect on its financial condition, results of operations or cash flows. 
+    
+  Other Proceedings 
+    
+  Houston Electric is involved in other legal, environmental, tax and regulatory proceedings before various courts, regulatory commissions and governmental agencies regarding matters arising in the ordinary course of business. From time to time, Houston Electric is also a defendant in legal proceedings with respect to claims brought by various plaintiffs against broad groups of participants in the energy industry. Some of these proceedings involve substantial amounts. Houston Electric regularly analyzes current information and, as necessary, provides accruals for probable and reasonably estimable liabilities on the eventual disposition of these matters. Houston Electric does not expect the disposition of these matters to have a material adverse effect on Houston Electric s financial condition, results of operations or cash flows. 
+
+11 
+
+(9)      Income Taxes    
+    
+  The effective tax rate reported for both the   three and nine   months ended   September 30, 2016   was   35%   compared to   36%   for the same periods in   2015  . 
+    
+  Houston Electric reported no uncertain tax liability as of September 30, 2016 and expects no significant change to the uncertain tax liability over the next twelve months.  CenterPoint Energy s consolidated federal income tax returns have been audited and settled through 2014.  CenterPoint Energy is under examination by the IRS for 2015 and 2016. 
+
+12 
+
+ITEM 2.        MANAGEMENT     S NARRATIVE ANALYSIS OF RESULTS OF OPERATIONS 
+    
+  The following narrative analysis should be read in combination with our Interim Condensed Financial Statements contained in this Form 10-Q and our   2015   Form 10-K. 
+    
+  We meet the conditions specified in General Instruction H(1)(a) and (b) to Form 10-Q and are therefore permitted to use the reduced disclosure format for wholly-owned subsidiaries of reporting companies.  Accordingly, we have omitted from this report the information called for by Item 2 (Management s Discussion and Analysis of Financial Condition and Results of Operations) and Item 3 (Quantitative and Qualitative Disclosures About Market Risk) of Part I and the following Part II items of Form 10-Q: Item 2 (Unregistered Sales of Equity Securities and Use of Proceeds), Item 3 (Defaults Upon Senior Securities) and Item 4 (Submission of Matters to a Vote of Security Holders).  The following discussion explains material changes in our results of operations between the   three and nine   months ended   September 30, 2016   and the   three and nine   months ended   September 30, 2015  .  Reference is made to  Management s Narrative Analysis of Results of Operations  in Item 7 of our   2015   Form 10-K. 
+
+RECENT EVENTS 
+    
+  General Mortgage Bonds.   In August 2016, we issued $300 million aggregate principal amount of 2.40% general mortgage bonds due 2026. The proceeds from the issuance of the bonds were used to repay short-term debt and for general corporate purposes. 
+    
+  DCRF.   In April 2016, we filed an application with the Texas Utility Commission for a DCRF interim rate adjustment to account for changes in certain distribution-invested capital since our 2010 rate case. The application requested the annualized DCRF charge to be set at $49.4 million. This charge, effective September 1, 2016 through August 31, 2017, is based on an increase in eligible distribution-invested capital from January 1, 2010 through December 31, 2015 of $689 million. In June 2016, we reached a settlement providing for an annualized DCRF charge of $45 million effective September 2016 and, unless otherwise changed in a subsequent DCRF filing, an annualized DCRF charge of $49 million effective September 2017. In July 2016, the Texas Utility Commission approved the settlement. On September 1, 2016, we implemented new rates. 
+    
+  TCOS.     In July 2016, we filed an application with the Texas Utility Commission for an interim update of our TCOS seeking an increase in annual revenues based on an incremental increase in total rate base of $95.6 million. We received approval from the Texas Utility Commission in September 2016. An increase of $3.5 million in annual revenues is expected based on this approval. 
+
+13 
+
+CONSOLIDATED RESULTS OF OPERATIONS 
+    
+  Our results of operations are affected by seasonal fluctuations in the demand for electricity. Our results of operations are also affected by, among other things, the actions of various governmental authorities having jurisdiction over rates we charge, debt service costs, income tax expense, our ability to collect receivables from REPs and our ability to recover our regulatory assets. For more information regarding factors that may affect the future results of operations of our business, please read  Risk Factors  in Item 1A of Part I of our   2015   Form 10-K. 
+    
+  The following table sets forth our consolidated results of operations for the   three and nine   months ended   September 30, 2016   and   2015  , followed by a discussion of our consolidated results of operations based on operating income. 
+
+(1)   Represents the amount necessary to pay interest on the Securitization Bonds. 
+  
+    14 
+
+Three   months ended   September 30, 2016   compared to   three   months ended   September 30, 2015    
+    
+  We reported operating income of   $258 million   for the   three   months ended   September 30, 2016  , consisting of   $235 million   from the TDU and   $23 million   related to Bond Companies.  For the   three   months ended   September 30, 2015  , operating income totaled   $244 million  , consisting of   $219 million   from the TDU and   $25 million   related to Bond Companies.  
+    
+  TDU operating income increased $16 million due to the following key factors: 
+
+higher equity return of $7 million, primarily related to true-up proceeds;  
+
+higher DCRF revenues of $6 million, primarily due to the implementation of new rates in September from the 2016 filing; and 
+
+higher transmission-related revenues of $18 million, which were partially offset by increased transmission costs billed by transmission providers of $13 million. 
+       
+  These increases to operating income were partially offset by higher depreciation, primarily due to ongoing additions to plant in service, and other taxes of $13 million. 
+    
+  Nine   months ended   September 30, 2016   compared to   nine   months ended   September 30, 2015    
+    
+  We reported operating income of   $495 million   for the   nine   months ended   September 30, 2016  , consisting of   $425 million   from the TDU and   $70 million   related to Bond Companies.  For the   nine   months ended   September 30, 2015  , operating income totaled   $503 million  , consisting of   $423 million   from the TDU and   $80 million   related to Bond Companies.  
+    
+  TDU operating income increased $2 million due to the following key factors: 
+
+higher transmission-related revenues of $65 million, which were partially offset by increased transmission costs billed by transmission providers of $41 million; and 
+
+higher equity return of $17 million, primarily related to true-up proceeds. 
+       
+  These increases to operating income were partially offset by the following: 
+
+higher depreciation, primarily due to ongoing additions to plant in service, and other taxes of $38 million;  
+
+lower usage of $12 million, primarily due to milder weather;  
+
+higher operation and maintenance expenses of $8 million, primarily due to contract services and corporate services; and 
+
+lower right-of-way revenues of $4 million. 
+       
+  Income Tax Expense  .    The effective tax rate reported for both the three and nine months ended   September 30, 2016   was 35% compared to 36% for the same periods in   2015  . 
+
+CERTAIN FACTORS AFFECTING FUTURE EARNINGS 
+    
+  For information on other developments, factors and trends that may have an impact on our future earnings, please read  Risk Factors  in Item 1A of Part I of our   2015   Form 10-K and  Management s Narrative Analysis of Results of Operations   Certain Factors Affecting Future Earnings  in Item 7 of Part II of our   2015   Form 10-K, and  Cautionary Statement Regarding Forward-Looking Information  in this Form 10-Q. 
+
+15 
+
+LIQUIDITY AND CAPITAL RESOURCES 
+    
+  Our liquidity and capital requirements are affected primarily by our results of operations, capital expenditures, debt service requirements, tax payments, working capital needs and various regulatory actions. Our capital expenditures are expected to be used for investment in infrastructure to maintain reliability and safety as well as expand our system through value-added projects. Our principal anticipated cash requirements for the remaining   three   months of   2016   include approximately   $195 million   of capital expenditures and   $63 million   of scheduled principal payments on Securitization Bonds. 
+    
+  We expect that borrowings under our credit facility, anticipated cash flows from operations and intercompany borrowings will be sufficient to meet our anticipated cash needs for the remaining   three   months of   2016  .      Cash needs or discretionary financing or refinancing may result in the issuance of debt securities in the capital markets or the arrangement of additional credit facilities. Issuances of debt in the capital markets and additional credit facilities may not, however, be available to us on acceptable terms. 
+    
+  Off-Balance Sheet Arrangements 
+    
+  Other than general mortgage bonds issued as collateral for long-term debt of CenterPoint Energy as discussed below and operating leases, we have no off-balance sheet arrangements. 
+    
+  Regulatory Matters 
+    
+  Significant regulatory developments that have occurred since our   2015   Form 10-K was filed with the SEC are discussed below. 
+    
+  Brazos Valley Connection Project.    In April 2016, the Texas Utility Commission issued an order on rehearing for the Brazos Valley Connection requiring us to use steel monopoles in lieu of lattice towers for the construction to reduce the aesthetic impact of the project. The project is proceeding as scheduled, including land acquisition, procurement, vegetation clearing, and other work, and we anticipate beginning construction in January 2017. The Texas Utility Commission s original order provided an estimated range of approximately $270 $310 million for the capital costs for the Brazos Valley Connection. We anticipate that the actual capital costs of the project may exceed that estimate, depending on land acquisition costs, material and construction costs, and other factors. After construction begins, we will file our updated capital cost estimates with the Texas Utility Commission. We expect to complete construction of the Brazos Valley Connection by mid-2018.   
+    
+  DCRF.      In April 2016, we filed an application with the Texas Utility Commission for a DCRF interim rate adjustment to account for changes in certain distribution-invested capital since our 2010 rate case.  The application requested the annualized DCRF charge to be set at $49.4 million.  This charge, effective September 1, 2016 through August 31, 2017, is based on an increase in eligible distribution-invested capital from January 1, 2010 through December 31, 2015 of $689 million.  In June 2016, we reached a settlement providing for an annualized DCRF charge of $45 million effective September 2016 and, unless otherwise changed in a subsequent DCRF filing, an annualized DCRF charge of $49 million effective September 2017. In July 2016, the Texas Utility Commission approved the settlement.  On September 1, 2016, we implemented new rates. 
+    
+  EECRF.    In June 2016, we filed an application with the Texas Utility Commission for an adjustment to our EECRF to recover $45.9 million in 2017, including an incentive of $10.6 million based on 2015 program performance.  We requested approval effective by March 2017.  In September 2016, the parties reached a settlement agreement providing for recovery of $45.5 million in 2017, including an incentive of $10.6 million.  The agreement was approved by the Texas Utility Commission in October 2016. 
+    
+  TCOS.   In July 2016, we filed an application with the Texas Utility Commission for an interim update of our TCOS seeking an increase in annual revenues based on an incremental increase in total rate base of $95.6 million. We received approval from the Texas Utility Commission in September 2016. An increase of $3.5 million in annual revenues is expected based on this approval. 
+
+16 
+
+Other Matters 
+    
+  Credit Facility       
+    
+  Our revolving credit facility may be drawn on from time to time to provide funds used for general corporate purposes and may also be utilized to obtain letters of credit.  As of   October 21, 2016  , we had the following revolving credit facility and utilization of such facility: 
+
+(1) 
+    Represents outstanding letters of credit. 
+       
+  Our $300 million revolving credit facility, which is scheduled to terminate on March 3, 2021, can be drawn at LIBOR plus 1.125% based on our current credit ratings. The revolving credit facility contains a financial covenant which limits our consolidated debt (with certain exceptions, including but not limited to Securitization Bonds) to an amount not to exceed 65% of our consolidated capitalization.  As of   September 30, 2016  , our debt (excluding Securitization Bonds) to capital ratio, as defined in its credit facility agreement, was   51.7%  .  The financial covenant limit will temporarily increase from 65% to 70% if we experience damage from a natural disaster in our service territory and we certify to the administrative agent that we have incurred system restoration costs reasonably likely to exceed $100 million in a consecutive twelve-month period, all or part of which we intend to seek to recover through securitization financing. Such temporary increase in the financial covenant would be in effect from the date we deliver our certification until the earliest to occur of (i) the completion of the securitization financing, (ii) the first anniversary of our certification or (iii) the revocation of such certification. 
+    
+  Borrowings under our revolving credit facility are subject to customary terms and conditions. However, there is no requirement that we make representations prior to borrowings as to the absence of material adverse changes or litigation that could be expected to have a material adverse effect. Borrowings under our revolving credit facility are subject to acceleration upon the occurrence of events of default that we consider customary.  The revolving credit facility also provides for customary fees, including commitment fees, administrative agent fees, fees in respect of letters of credit and other fees. In our revolving credit facility, the spread to LIBOR and the commitment fees fluctuate based on our credit rating.  We are currently in compliance with the various business and financial covenants in our revolving credit facility. 
+    
+  Securities Registered with the SEC    
+    
+  We have filed a shelf registration statement with the SEC registering an indeterminate principal amount of our general mortgage bonds. 
+    
+  Temporary Investments 
+    
+  As of   October 21, 2016  , we had no temporary external investments. 
+    
+  Money Pool     
+    
+  We participate in a money pool through which we and certain of our affiliates can borrow or invest on a short-term basis. Funding needs are aggregated and external borrowing or investing is based on the net cash position. The net funding requirements of the money pool are expected to be met with borrowings under CenterPoint Energy s revolving credit facility or the sale of CenterPoint Energy s commercial paper. As of   October 21, 2016  , we had borrowings from the money pool of   $178 million  . The money pool may not provide sufficient funds to meet our cash needs.  
+    
+  Long-term Debt   
+    
+  Our long-term debt consists of our obligations and the obligations of our subsidiaries, including Securitization Bonds issued by wholly-owned subsidiaries.   
+
+17 
+
+In     May 2016, we issued $300 million aggregate principal amount of 1.85% general mortgage bonds due 2021.  In     August 2016, we issued $300 million aggregate principal amount of 2.40% general mortgage bonds due 2026.  The proceeds from the issuance of these bonds were used to repay short-term debt and for general corporate purposes. 
+    
+  As of   September 30, 2016  , our outstanding first mortgage bonds and general mortgage bonds aggregated approximately   $2.8 billion  , of which $174 million is not reflected in our consolidated financial statements.  Of the $174 million, $118 million collateralized debt of CenterPoint Energy and is not reflected because of the contingent nature of the obligations and $56 million collateralized pollution control bonds that we hold for future remarketing.  
+    
+  The lien of the general mortgage indenture is junior to that of the mortgage pursuant to which the first mortgage bonds are issued. We may issue additional general mortgage bonds on the basis of retired bonds, 70% of property additions or cash deposited with the trustee.  Approximately   $4.0 billion   of additional first mortgage bonds and general mortgage bonds could be issued on the basis of retired bonds and 70% of property additions as of   September 30, 2016  . However, we have contractually agreed that we will not issue additional first mortgage bonds, subject to certain exceptions. 
+    
+  As of   September 30, 2016  , our subsidiaries had the following aggregate principal amount of Securitization Bonds outstanding.   
+
+The transition bonds and system restoration bonds are paid through the imposition of  transition  or  system restoration  charges, as defined in the Texas Public Utility Regulatory Act, which are irrevocable, non-bypassable charges to provide recovery of authorized qualified costs. The Securitization Bonds are reported as our long-term debt, although the holders of these bonds have no recourse to any of our assets or revenues, and our creditors have no recourse to any assets or revenues (including, without limitation, the transition or system restoration charges) of Bond Companies. We have no payment obligations with respect to the Securitization Bonds except to remit collections of transition and system restoration charges as set forth in servicing agreements between us and the Bond Companies and in an intercreditor agreement among us, the Bond Companies and other parties. 
+    
+  Impact on Liquidity of a Downgrade in Credit Ratings     
+    
+  The interest on borrowings under our credit facility is based on our credit rating. As of   October 21, 2016  , Moody s, S P and Fitch had assigned the following credit ratings to our senior debt. 
+
+Moody s 
+      
+    S P 
+      
+    Fitch 
+      Instrument 
+      
+    Rating 
+      
+    Outlook   (1)  
+      
+    Rating 
+      
+    Outlook    (2)  
+      
+    Rating 
+      
+    Outlook    (3)  
+      Senior Secured Debt 
+      
+    A1 
+      
+    Stable 
+      
+    A 
+      
+    Developing 
+      
+    A 
+      
+    Stable 
+
+(1) 
+    A Moody s rating outlook is an opinion regarding the likely direction of an issuer s rating over the medium term. 
+       
+           (2) 
+    An S P rating outlook assesses the potential direction of a long-term credit rating over the intermediate to longer term. 
+       
+           (3) 
+    A Fitch rating outlook indicates the direction a rating is likely to move over a one- to two-year period. 
+       
+  We cannot assure that the ratings set forth above will remain in effect for any given period of time or that one or more of these ratings will not be lowered or withdrawn entirely by a rating agency. We note that these credit ratings are included for informational purposes and are not recommendations to buy, sell or hold our securities and may be revised or withdrawn at any time by the rating agency. Each rating should be evaluated independently of any other rating. Any future reduction or withdrawal of one or more of our credit ratings could have a material adverse impact on our ability to obtain short- and long-term financing, the cost of such financings and the execution of our commercial strategies. 
+  
+    18 
+
+A decline in credit ratings from Moody s or S P could increase borrowing costs under our $300 million credit facility.  If our credit ratings had been downgraded one notch by Moody s and/or S P from the ratings that existed at   September 30, 2016  , the impact on the borrowing costs under our credit facility would have been immaterial in the three months ended   September 30, 2016  .  A decline in credit ratings would also increase the interest rate on long-term debt to be issued in the capital markets and could negatively impact our ability to complete capital market transactions. 
+    
+  Cross Defaults  
+    
+  Under CenterPoint Energy s $1.6 billion revolving credit facility, a payment default on, or a non-payment default that permits acceleration of, any indebtedness for borrowed money and certain other specified types of obligations (including guarantees) exceeding $125 million by us will cause a default. A default by CenterPoint Energy would not trigger a default under our debt instruments or revolving credit facility. 
+    
+  Hedging of Interest Expense for Future Debt Issuances 
+    
+  In April 2016, we entered into forward interest rate agreements with several counterparties, having an aggregate notional amount of $150 million. These agreements were executed to hedge, in part, volatility in the 5-year U.S. treasury rate by reducing our exposure to variability in cash flows related to interest payments of our $300 million issuance of fixed rate debt in May 2016. These forward interest rate agreements were designated as cash flow hedges. The realized gains and losses associated with the agreements were immaterial. 
+     
+  In June and July 2016, we entered into forward interest rate agreements with several counterparties, having an aggregate notional amount of $300 million. These agreements were executed to hedge, in part, volatility in the 10-year U.S. treasury rate by reducing our exposure to variability in cash flows related to interest payments of our $300 million issuance of fixed rate debt in August 2016.  These forward interest rate agreements were designated as cash flow hedges.  Accordingly, the effective portion of realized gains and losses associated with the agreements, which totaled $1.1 million, is a component of accumulated other comprehensive income and will be amortized over the life of the bonds.  The ineffective portion of the gains and losses was recorded in income and was immaterial. 
+    
+  Other Factors that Could Affect Cash Requirements  
+    
+  In addition to the above factors, our liquidity and capital resources could be affected by: 
+
+increases in interest expense in connection with debt refinancings and borrowings under our credit facility; 
+
+various legislative or regulatory actions; 
+
+the ability of GenOn and its subsidiaries to satisfy their obligations in respect of GenOn s indemnity obligations to us; 
+
+the ability of REPs, including REP affiliates of NRG and Energy Future Holdings Corp., to satisfy their obligations to us; 
+
+the outcome of litigation brought by or against us; 
+
+restoration costs and revenue losses resulting from future natural disasters such as hurricanes and the timing of recovery of such restoration costs; and 
+
+various other risks identified in  Risk Factors  in Item 1A of Part I of our   2015   Form 10-K. 
+       
+  Certain Contractual Limits on Our Ability to Issue Securities and Borrow Money  
+    
+  Our revolving credit facility contains a financial covenant which limits our consolidated debt (with certain exceptions, including but not limited to Securitization Bonds) to an amount not to exceed 65% of our consolidated capitalization. The financial covenant limit in our revolving credit facility will temporarily increase from 65% to 70% if we experience damage from a natural disaster in our service territory that meets certain criteria.  Additionally, we have contractually agreed that we will not issue additional first mortgage bonds, subject to certain exceptions. 
+
+19 
+
+Relationship with CenterPoint Energy  
+    
+  We are an indirect, wholly-owned subsidiary of CenterPoint Energy. As a result of this relationship, the financial condition and liquidity of our parent company could affect our access to capital, our credit standing and our financial condition. 
+    
+  NEW ACCOUNTING PRONOUNCEMENTS 
+    
+  See   Note 2   to our Interim Condensed Financial Statements for a discussion of new accounting pronouncements that affect us. 
+
+Item 4. 
+    CONTROLS AND PROCEDURES 
+       
+  Limitations on Effectiveness of Controls 
+    
+  In designing and evaluating the disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. 
+    
+  Evaluation of Disclosure Controls and Procedures 
+    
+  In accordance with Exchange Act Rules 13a-15 and 15d-15, we carried out an evaluation, under the supervision and with the participation of management, including our principal executive officer and principal financial officer, of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this report. Based on that evaluation, our principal executive officer and principal financial officer concluded that our disclosure controls and procedures were effective as of   September 30, 2016   to provide assurance that information required to be disclosed in our reports filed or submitted under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission s rules and forms and such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding disclosure.   
+    
+  Changes in Internal Control over Financial Reporting 
+    
+  As previously disclosed in Item 9A, Controls and Procedures, of our Annual Report on Form 10-K/A for the year ended December 31, 2015, we identified a material weakness in the operating effectiveness of our internal control over financial reporting related to controls over the preparation and review of our statements of consolidated cash flows.  To remediate the material weakness we have designed and implemented additional procedures within our review controls over our statements of consolidated cash flows.  During the third quarter of 2016, we tested the newly implemented controls and found them to be effective and have concluded that, as of September 30, 2016,   t  he material weakness has been remediated.  
+    
+  Except as noted above, there has been no change in our internal control over financial reporting that occurred during the three months ended   September 30, 2016   that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.   
+
+PART II. OTHER INFORMATION 
+
+Item 1.        LEGAL PROCEEDINGS 
+    
+  For a discussion of certain legal and regulatory proceedings affecting us, please read   Note 8   to our Interim Condensed Financial Statements and  Management s Narrative Analysis of Results of Operations   Liquidity and Capital Resources   Regulatory Matters,  each of which is incorporated herein by reference.  See also  Business   Regulation  and    Environmental Matters  in Item 1 and  Legal Proceedings  in Item 3 of our   2015   Form 10-K. 
+
+Item 1A.  RISK FACTORS 
+    
+  There have been no material changes from the risk factors disclosed in our   2015   Form 10-K. 
+
+20 
+
+Item 5.        OTHER INFORMATION 
+    
+  Ratio of Earnings to Fixed Charges.    The ratio of earnings to fixed charges for the   nine   months ended   September 30, 2016   and   2015   was   3.01   and   2.98  , respectively.  We do not believe that the ratios for these   nine  -month periods are necessarily indicative of the ratios for the twelve-month periods due to the seasonal nature of our business.  The ratios were calculated pursuant to applicable rules of the SEC. 
+
+Item 6.        EXHIBITS 
+    
+  The following exhibits are filed herewith: 
+    
+  Exhibits not incorporated by reference to a prior filing are designated by a cross (+); all exhibits not so designated are incorporated by reference to a prior filing of Houston Electric or CenterPoint Energy as indicated. 
+    
+  Agreements included as exhibits are included only to provide information to investors regarding their terms. Agreements listed below may contain representations, warranties and other provisions that were made, among other things, to provide the parties thereto with specified rights and obligations and to allocate risk among them, and no such agreement should be relied upon as constituting or providing any factual disclosures about CenterPoint Energy Houston Electric, LLC, any other persons, any state of affairs or other matters. 
+
+21 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+CENTERPOINT ENERGY HOUSTON ELECTRIC, LLC 
+
+By: 
+    /s/ Kristie L. Colvin 
+        
+    Kristie L. Colvin 
+        
+    Senior Vice President and Chief Accounting Officer 
+
+Date:    November 4, 2016    
+
+22 
+
+Index to Exhibits 
+    
+  The following exhibits are filed herewith: 
+    
+  Exhibits not incorporated by reference to a prior filing are designated by a cross (+); all exhibits not so designated are incorporated by reference to a prior filing of Houston Electric or CenterPoint Energy as indicated. 
+    
+  Agreements included as exhibits are included only to provide information to investors regarding their terms. Agreements listed below may contain representations, warranties and other provisions that were made, among other things, to provide the parties thereto with specified rights and obligations and to allocate risk among them, and no such agreement should be relied upon as constituting or providing any factual disclosures about CenterPoint Energy Houston Electric, LLC, any other persons, any state of affairs or other matters. 
+
+23 
+
+<EX-12>
+ 2
+ cehe_exhibit12x9302016.htm
+ EXHIBIT 12
+
+Exhibit 
+
+Exhibit 12 
+    
+  CENTERPOINT ENERGY HOUSTON ELECTRIC, LLC AND SUBSIDIARIES 
+  (AN INDIRECT, WHOLLY-OWNED SUBSIDIARY OF CENTERPOINT ENERGY, INC.) 
+    
+  COMPUTATION OF RATIOS OF EARNINGS TO FIXED CHARGES 
+
+</EX-12>
+
+<EX-31.1>
+ 3
+ cehe_exhibit311x9302016.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+    
+  CERTIFICATIONS 
+    
+  I, Scott M. Prochazka, certify that: 
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of CenterPoint Energy Houston Electric, LLC; 
+       
+  2.  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+    
+  3.  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+    
+  4.  The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+    
+           (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+       
+  5.  The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+    
+           (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+       
+           (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+       
+  Date:    November 4, 2016    
+
+/s/ Scott M. Prochazka 
+        
+    Scott M. Prochazka 
+        
+    Chairman (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ cehe_exhibit312x9302016.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+    
+  CERTIFICATIONS 
+    
+  I, William D. Rogers, certify that: 
+    
+  1.  I have reviewed this quarterly report on Form 10-Q of CenterPoint Energy Houston Electric, LLC; 
+    
+  2.  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+    
+  3.  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+    
+  4.  The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+    
+           (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+       
+  5.  The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+    
+           (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+       
+           (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+       
+  Date:    November 4, 2016    
+
+/s/ William D. Rogers 
+        
+    William D. Rogers 
+        
+    Executive Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ cehe_exhibit321x9302016.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+    
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO SECTION 906 
+  OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report of CenterPoint Energy Houston Electric, LLC (the  Company ) on Form 10-Q for the three months ended   September 30, 2016   (the  Report ), as filed with the Securities and Exchange Commission on the date hereof, I, Scott M. Prochazka, Chairman (Principal Executive Officer), certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to the best of my knowledge, that: 
+    
+  1.  The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+    
+  2.  The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+    
+                 /s/ Scott M. Prochazka 
+      
+      Scott M. Prochazka 
+      
+      Chairman (Principal Executive Officer) 
+      
+      November 4, 2016 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ cehe_exhibit322x9302016.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+    
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO SECTION 906 
+  OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report of CenterPoint Energy Houston Electric, LLC (the  Company ) on Form 10-Q for the three months ended   September 30, 2016   (the  Report ), as filed with the Securities and Exchange Commission on the date hereof, I, William D. Rogers, Chief Financial Officer, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to the best of my knowledge, that: 
+    
+  1.  The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+    
+  2.  The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+    
+                 /s/ William D. Rogers 
+      
+      William D. Rogers 
+      
+      Executive Vice President and Chief Financial Officer 
+      
+      November 4, 2016 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 7
+ cehe-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ cehe-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ cehe-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ cehe-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ cehe-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ cehe-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,788 @@
+<Header>
+<FileStats>
+    <FileName>20161025_10-Q_edgar_data_1226616_0001564590-16-026103_1.txt</FileName>
+    <GrossFileSize>2645887</GrossFileSize>
+    <NetFileSize>71236</NetFileSize>
+    <ASCII_Embedded_Chars>135536</ASCII_Embedded_Chars>
+    <HTML_Chars>595734</HTML_Chars>
+    <XBRL_Chars>902861</XBRL_Chars>
+    <XML_Chars>609054</XML_Chars>
+    <N_Tables>13</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001564590-16-026103.hdr.sgml : 20161025
+<ACCEPTANCE-DATETIME>20161025171815
+ACCESSION NUMBER:		0001564590-16-026103
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		45
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161025
+DATE AS OF CHANGE:		20161025
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MEDICINOVA INC
+		CENTRAL INDEX KEY:			0001226616
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				330927979
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33185
+		FILM NUMBER:		161951037
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4275 EXECUTIVE SQUARE
+		STREET 2:		SUITE 650
+		CITY:			LA JOLLA
+		STATE:			CA
+		ZIP:			92037
+		BUSINESS PHONE:		858-373-1500
+
+	MAIL ADDRESS:	
+		STREET 1:		4275 EXECUTIVE SQUARE
+		STREET 2:		SUITE 650
+		CITY:			LA JOLLA
+		STATE:			CA
+		ZIP:			92037
+
+</SEC-Header>
+</Header>
+
+ 0001564590-16-026103.txt : 20161025
+
+10-Q
+ 1
+ mnov-10q_20160930.htm
+ 10-Q
+
+mnov-10q_20160930.htm
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, DC 20549 
+   
+ FORM 10-Q 
+   
+ (Mark One) 
+
+FOR THE QUARTERLY PERIOD ENDED September 30, 2016 
+
+FOR THE TRANSITION PERIOD FROM                      TO                      
+ Commission file number: 001-33185 
+   
+ MEDICINOVA, INC. 
+ (Exact name of registrant as specified in its charter) 
+
+(858) 373-1500 
+ (Registrant s Telephone Number, Including Area Code) 
+   
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes           No        
+ Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes           No        
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a small reporting company. See the definitions of  accelerated filer ,  large accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large accelerated filer  
+
+Accelerated filer  
+
+Non-accelerated filer  
+ 
+       (Do not check if a smaller reporting company)   
+ 
+ Smaller reporting company  
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes           No        
+ As of October 21, 2016, the registrant had 34,487,430 shares of Common Stock ($0.001 par value) outstanding. 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS  
+ This quarterly report on Form 10-Q, in particular "Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations," and the information incorporated by reference herein contains  forward-looking statements . The forward-looking statements are contained principally in the sections titled  Risk Factors  and  Management s Discussion and Analysis of Financial Condition and Results of Operations,  but are also contained elsewhere in this report. Forward-looking statements include all statements that are not historical facts and, in some cases, can be identified by terms such as "believe," "may," "will," "estimate," "continue," "anticipate," "design," "intend," "expect," "could," "plan," "potential," "predict," "seek," "should," "would" or the negative version of these words and similar expressions.  
+ Forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements, including those described in "Risk Factors" and elsewhere in this report. Given these uncertainties, you should not place undue reliance on these forward-looking statements. Also, forward-looking statements represent our beliefs and assumptions only as of the date of this report. In light of the significant uncertainties in these forward-looking statements, you should not regard these statements as a representation or warranty by us or any other person that we will achieve our objectives and plans in any specified time frame, or at all. You should read this report completely and with the understanding that our actual future results may be materially different from what we expect. 
+ The following factors are among those that may cause actual results to differ materially from our forward-looking statements: 
+
+Inability to raise additional capital if needed;     
+
+Inability to generate revenues from product sales to continue business operations;     
+
+Inability to develop and commercialize our product candidates;     
+
+Failure or delay in completing clinical trials or obtaining FDA or foreign regulatory approval for our product candidates in a timely manner;     
+
+Unsuccessful clinical trials stemming from clinical trial designs, failure to enroll a sufficient number of patients, undesirable side effects and other safety concerns;      
+
+Inability to demonstrate sufficient efficacy of product candidates;     
+
+Reliance on the success of our MN-166 (ibudilast) and MN-001 (tipelukast) product candidates;      
+
+Reliance on a joint venture entity in China to develop and commercialize our product candidates in China;     
+
+Delays in commencement or completion of clinical trials or suspension or termination of clinical trials;     
+
+Loss of our licensed rights to develop and commercialize a product candidate as a result of the termination of the underlying licensing agreement;     
+
+Competitors may develop products rendering our product candidates obsolete and noncompetitive;     
+
+Inability to successfully attract partners and enter into collaborations on acceptable terms;      
+
+Dependence on third parties to conduct clinical trials and to manufacture product candidates;     
+
+Dependence on third parties to market and distribute products;     
+
+Our product candidates, if approved, may not gain market acceptance or obtain adequate coverage for third party reimbursement;     
+
+Disputes or other developments concerning our intellectual property rights;     
+
+Actual and anticipated fluctuations in our quarterly or annual operating results;     
+
+Price and volume fluctuations in the overall stock markets;     
+
+Litigation or public concern about the safety of our potential products;     
+
+International trade or foreign exchange restrictions, increased tariffs, foreign currency exchange;     
+
+High quality material for our products may become difficult to obtain or expensive;     
+
+Strict government regulations on our business;     
+
+Regulations governing the production or marketing of our product candidates;     
+
+Loss of, or inability to attract, key personnel; and      
+
+Economic, political, foreign exchange and other risks associated with international operations.      
+
+2 
+
+MEDICINOVA, INC.  
+ TABLE OF CONTENTS 
+
+PART I. FINANCIAL INFORMATION    
+ 
+ 4  
+
+ITEM 1.  
+
+CONSOLIDATED FINANCIAL STATEMENTS (unaudited)    
+ 
+ 4  
+
+ITEM 2.  
+
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS    
+ 
+ 13  
+
+ITEM 3.  
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK    
+ 
+ 18  
+
+ITEM 4.  
+
+CONTROLS AND PROCEDURES    
+ 
+ 18  
+
+PART II. OTHER INFORMATION    
+ 
+ 19  
+
+ITEM 1.  
+
+LEGAL PROCEEDINGS    
+ 
+ 19  
+
+ITEM 1A.  
+
+RISK FACTORS    
+ 
+ 19  
+
+ITEM 2.  
+
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS    
+ 
+ 19  
+
+ITEM 3.  
+
+DEFAULTS UPON SENIOR SECURITIES    
+ 
+ 19  
+
+ITEM 4.  
+
+MINE SAFETY DISCLOSURES    
+ 
+ 19  
+
+ITEM 5.  
+
+OTHER INFORMATION    
+ 
+ 19  
+
+ITEM 6.  
+
+EXHIBITS    
+ 
+ 19  
+
+SIGNATURES      
+ 
+ 20  
+
+3 
+
+PART I. FINANCI  AL INFORMATION  
+
+ITEM 1.   
+ 
+     CONSOLIDATED FINANCIAL STATEMENTS.    
+
+MEDICINOVA, INC. 
+ CONSOLIDATED BALANCE SHEETS 
+
+See accompanying notes. 
+   
+ 4 
+
+MEDICINOVA, INC.  
+ CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS 
+ (Unaudited) 
+
+See accompanying notes 
+   
+ 5 
+
+MEDICINOVA, INC.  
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (Unaudited)  
+
+See accompanying notes. 
+
+6 
+
+MEDICINOVA, INC.  
+ Notes to Consolidated Financial Statements 
+ (Unaudited) 
+
+1. Interim Financial Information 
+ Organization and Business 
+ MediciNova, Inc. (the  Company  or  MediciNova ) was incorporated in the state of Delaware in September 2000 and is a public company. The Company s common stock is listed in both the U.S. and Japan and trades on The NASDAQ Global Market and the JASDAQ Market of the Tokyo Stock Exchange. MediciNova is a biopharmaceutical company focused on acquiring and developing novel, small molecule therapeutics for the treatment of serious diseases with unmet medical needs with a commercial focus on the U.S. market. The Company s current strategy is to focus its development activities on MN-166 (ibudilast) for neurological disorders such as progressive multiple sclerosis (MS), amyotrophic lateral sclerosis (ALS) and substance dependence (e.g., methamphetamine dependence, opioid dependence and alcohol dependence), and MN-001 (tipelukast) for fibrotic diseases such as nonalcoholic steatohepatitis (NASH) and idiopathic pulmonary fibrosis (IPF). The Company s pipeline also includes MN-221 (bedoradrine) for the treatment of acute exacerbations of asthma and MN-029 (denibulin) for solid tumor cancers. 
+ Basis of Presentation 
+ The accompanying unaudited consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States (GAAP) for interim financial information and with the instructions of the Securities and Exchange Commission (SEC) on Form 10-Q and Rule 10-01 of Regulation S-X. Accordingly, they do not include all of the information and disclosures required by GAAP for complete financial statements. In the opinion of management, the consolidated financial statements include all adjustments necessary, which are of a normal and recurring nature, for the fair presentation of the Company s financial position and of the results of operations and cash flows for the periods presented. The accompanying unaudited consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries. 
+ These financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto for the year ended December 31, 2015 included in the Company s Annual Report on Form 10-K filed with the SEC. The results of operations for the interim period shown in this report are not necessarily indicative of the results that may be expected for any other interim period or for the full year. The balance sheet at December 31, 2015 has been derived from the audited financial statements at that date, but does not include all of the information and footnotes required by GAAP for complete financial statements. 
+ Research, Development and Patents 
+ Research and development costs are expensed in the period incurred. Research and development costs primarily consist of salaries and related expenses for personnel, facilities and depreciation, research and development supplies, licenses and outside services. Such research and development costs totaled $0.8 million and $0.5 million for the three months ended September 30, 2016 and 2015, respectively. Research and development costs totaled $2.7 million and $1.9 million for the nine months ended September 30, 2016 and 2015, respectively. 
+ Costs related to filing and pursuing patent applications are expensed as incurred, as recoverability of such expenditures is uncertain. The Company includes all external costs related to the filing of patents on developments in Research, Development and Patents expenses. Such patent-related expenses totaled $0.1 million for each of the three months ended September 30, 2016 and 2015 and $0.2 million for each of the nine months ended September 30, 2016 and 2015. 
+ Use of Estimates 
+ The preparation of the consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and the accompanying notes. Actual results could differ from those estimates. 
+   
+ 7 
+
+Recently Issued Accounting Pronouncements  
+ In May 2014, the Financial Accounting Standards Board ( FASB ) amended the existing accounting standards for revenue recognition. The amendments are based on the principle that revenue should be recognized to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for said goods or services. The Company is required to adopt the amendments beginning January 1, 2018. Early adoption is permitted as of January 1, 2017. The amendments may be applied retrospectively to each prior period presented or retrospectively with the cumulative effect recognized as of the date of initial application. The Company is currently evaluating the impact these amendments will have on its consolidated financial statements and has not decided on the method of adoption. 
+ In August 2014, the FASB issued Accounting Standards Update ( ASU ) 2014-15,  Presentation of Financial Statements   Going Concern , which is new guidance requiring management to evaluate whether there are conditions and events that raise substantial doubt about the entity s ability to continue as a going concern within one year after the financial statements are issued (or available to be issued when applicable). Management will be required to make this evaluation for both annual and interim reporting periods and make certain disclosures if it concludes that substantial doubt exists or when its plans alleviate substantial doubt about the entity s ability to continue as a going concern. The standard is effective for annual periods ending after December 15, 2016. Early adoption is permitted. After adoption at December 31, 2016, the Company will apply this guidance to assess going concern. We do not expect the adoption to have material impact on our financial statements. 
+ In February 2016, the FASB issued ASU 2016-02,  Leases , which introduces the recognition of lease assets and lease liabilities by lessees for those leases classified as operating leases under previous guidance. The new standard establishes a right-of-use ("ROU") model that requires a lessee to record an ROU asset and a lease liability on the balance sheet for all leases with terms longer than 12 months. The new standard is effective for fiscal years beginning after December 15, 2018 and interim periods within those fiscal years with early adoption permitted. We are evaluating the impact that the adoption of this standard will have on our financial statements. 
+ In March 2016, the FASB issued ASU 2016-09,  Improvements to Employee Share-Based Payment Accounting , which simplifies several aspects of accounting for share-based payment transactions including the income tax consequences, classification of awards as either equity or liabilities, and classification on the statement of cash flows. The new standard is effective for fiscal years beginning after December 15, 2016 and interim periods within those fiscal years with early adoption permitted. We are evaluating the impact that the adoption of this standard will have on our financial statements. 
+   
+ 2. Revenue Recognition 
+ Revenue Recognition Policy 
+ Revenues consist of milestone payments and research and development services. Milestone payments are recognized as revenue upon achievement of pre-defined scientific events, which require substantive effort, and for which achievement of the milestone was not readily assured at the inception of the agreement. Milestones that do not meet the criteria for accounting under the milestone method because the payments are solely contingent upon the performance of a third party are accounted for as contingent revenue. Research and development services are recognized as research costs are incurred over the period the services are performed. For all other revenue the Company recognizes revenues when all four of the following criteria are met: (1) persuasive evidence that an arrangement exists; (2) delivery of the products and/or services has occurred; (3) the selling price is fixed or determinable; and (4) collectability is reasonably assured. 
+ Kissei Pharmaceutical Co., Ltd 
+ In October 2011, the Company entered into an agreement with Kissei Pharmaceutical Co., Ltd., or Kissei, to perform research and development services relating to MN-221 in exchange for a non-refundable upfront payment of $2.5 million. Under the terms of the agreement, the Company is responsible for all costs to be incurred in the performance of these services. Certain of these research and development services were completed in 2013 and 2012, and the remaining services are expected to be delivered and completed at a future date. The Company assessed the deliverables in accordance with the authoritative guidance and concluded the existence of one deliverable, research and development services. As such, revenue is being recognized as the research and development services are performed. The amount received from Kissei, net of the amount recorded as revenue, is included on the balance sheet as long-term deferred revenue and will be recognized as revenue as the remaining services are performed. No services were performed and no revenue was recorded in the three and nine months ended September 30, 2016 and 2015. 
+   
+ 8 
+
+3. Fair Value Measurements  
+ Fair value is an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants. As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or liability. As a basis for considering such assumptions, a three-tier fair value hierarchy has been established, which prioritizes the inputs used in measuring fair value as follows: 
+
+Level 1:   
+ 
+ Observable inputs such as quoted prices in active markets;  
+
+Level 2:   
+ 
+ Inputs are quoted prices for similar items in active markets or quoted prices for identical or similar items in markets that are not active near the measurement date; and  
+
+Level 3:   
+ 
+ Unobservable inputs due to little or no market data, which require the reporting entity to develop its own assumptions.  
+
+Included in cash and cash equivalents are $24.8 million and $21.9 million of money market funds as of September 30, 2016 and December 31, 2015, respectively, that are classified within Level 1 of the fair value hierarchy.   
+
+4. Joint Venture 
+ The Company entered into an agreement to form a joint venture company with Zhejiang Medicine Co., Ltd. and Beijing Medfron Medical Technologies Co., Ltd. (formerly Beijing Make-Friend Medicine Technology Co., Ltd.) effective September 27, 2011. The joint venture agreement provides for the joint venture company, Zhejiang Sunmy Bio-Medical Co., Ltd. (Zhejiang Sunmy), to develop and commercialize MN-221 in China and pursue additional compounds to develop. A sublicense agreement would be required under which Zhejiang Sunmy would license MN-221 from the Company and, as of the date of this filing, no such sublicense agreement has been entered into. In accordance with the joint venture agreement, in March 2012 the Company paid $680,000 for a 30% interest in Zhejiang Sunmy. The other parties to the joint venture agreement provided funding for their combined 70% interest. In December 2013, the Board of Directors of Zhejiang Sunmy agreed to amend the joint venture agreement to allow for the departure of Zhejiang Medicine Co., Ltd. subject to the approval of the government of the People s Republic of China. In August 2014, the Chinese government approved the amendment to the joint venture agreement to allow for the departure of Zhejiang Medicine Co., Ltd. and for Beijing Medfron Medical Technologies Co., Ltd. and MediciNova to each have a 50% interest in Zhejiang Sunmy. No additional capital was contributed by either remaining party. 
+ Zhejiang Sunmy is a variable interest entity for which the Company is not the primary beneficiary as the Company does not have a majority of the board seats and does not have power to direct or significantly influence the actions of the entity. The activities of Zhejiang Sunmy are accounted for under the equity method whereby the Company absorbs any loss or income generated by Zhejiang Sunmy according to the Company s percentage ownership. At September 30, 2016 and December 31, 2015, the investment is reflected as a long-term asset on the Company s consolidated balance sheet which represents the investment and maximum loss exposure in Zhejiang Sunmy, net of the Company s portion of any generated loss or income. 
+ 5. Stock-based Compensation 
+ Stock Incentive Plans 
+ In June 2013, the Company adopted the 2013 Equity Incentive Plan, or 2013 Plan, under which the Company may grant stock options, stock appreciation rights, restricted stock, restricted stock units and other awards to individuals who are then employees, officers, non-employee directors or consultants of the Company or its subsidiaries. The 2013 Plan is the successor to the Company s Amended and Restated 2004 Stock Incentive Plan, or 2004 Plan. A total of 2,500,000 shares of common stock were initially reserved for issuance under the 2013 Plan, plus  returning shares  that may become available from time to time.  Returning shares  are shares that are subject to outstanding awards granted under the 2004 Plan that expire or terminate prior to exercise or settlement, are forfeited because of the failure to vest, are repurchased, or are withheld to satisfy tax withholding or purchase price obligations in connection with such awards. Although the Company no longer grants equity awards under the 2004 Plan, all outstanding stock awards granted under the 2004 Plan will continue to be subject to the terms and conditions as set forth in the agreements evidencing such stock awards and the terms of the 2004 Plan. As of September 30, 2016, 654,625 shares remain available for future grant under the 2013 Plan. 
+ We occasionally issue employee performance-based stock options, the vesting of which is based on a determination made by our board of directors as to the achievement of certain corporate objectives at the end of the performance period. The grant date of such awards is the date on which our board of directors makes its determination. For periods preceding the grant date, the expense related to these awards is measured based on their fair value at each reporting date. 
+   
+ 9 
+
+Stock Options  
+ Options granted under the 2013 Plan and the 2004 Plan have terms of ten years from the date of grant and generally vest over a three or four year period. 
+ The exercise price of all options granted through September 31, 2016 and in 2015 was equal to the market value of the Company s common stock on the date of grant. 
+ A summary of stock option activity and related information as of September 30, 2016 is as follows: 
+
+During the nine months ended September 30, 2016, there were 172,585 options exercised, from which gross proceeds of $829,525 were received. No options were exercised during nine months ended September 30, 2015.   The intrinsic value of options exercised during the   nine months ended September 30, 2016   was $414,573.  
+ Employee Stock Purchase Plan 
+ Under the Company s 2007 Employee Stock Purchase Plan, or ESPP, 300,000 shares of common stock were originally reserved for issuance. In addition, the shares reserved automatically increase each year by a number equal to the lesser of: (i) 15,000 shares; (ii) 1% of the outstanding shares of common stock on the last day of the immediately preceding fiscal year; or (iii) such lesser amount as determined by the Board. The ESPP permits full-time employees to purchase common stock through payroll deductions (which cannot exceed 15% of each employee s compensation) at the lower of 85% of fair market value at the beginning of the offering period or the end of each six-month offering period. The ESPP is considered a compensatory plan and the Company records compensation expense included in the Company s statement of operations. 
+ For the nine months ended September 30, 2016, an aggregate of 26,650 shares were issued under the ESPP. As of September 30, 2016, there are 184,125 shares available for future issuance under the ESPP. 
+ Compensation Expense 
+ Stock-based compensation expense for stock option awards and ESPP shares are reflected in total operating expenses for each respective year. For the three months ended September 30, 2016 and 2015 stock-based compensation expense related to stock options and the ESPP was $1.2 million and $0.1 million, respectively. For the nine months ended September 30, 2016 and 2015 stock-based compensation expense related to stock options and the ESPP was $4.0 million and $1.1 million, respectively.  
+   
+ 10 
+
+The Company uses the Black-Scholes valuation model for determining the estimated fair value for stock-based   awards granted to employees. The following table provides the assumptions used in the Black-Scholes valuation model   used to estimate the fair value of options granted during the   nine months ended September 30, 2016   and 2015 and to estimate the fair value   of performance based stock options as of   September   30, 2016.   
+
+As of September 30, 2016, there was $2.0 million of unamortized compensation cost related to unvested stock option awards which is expected to be recognized over a remaining weighted-average vesting period of 1.0 years, on a straight-line basis. 
+ 6. Stockholders  Equity 
+ At-The-Market Issuance Sales Agreements 
+ On May 22, 2015, the Company entered into an at-the-market issuance sales agreement with MLV   Co. LLC, or MLV, pursuant to which the Company may sell common stock through MLV from time to time up to an aggregate offering price of $30.0 million.  Sales of the Company s common stock through MLV, if any, will be made by any method that is deemed to be an  at-the-market  equity offering as defined in Rule 415 promulgated under the Securities Act of 1933, as amended, including sales made directly on NASDAQ, on any other existing trading market for the common stock or to or through a market maker. MLV may also sell the common stock in privately negotiated transactions, subject to the Company s prior approval.  The Company agreed to pay MLV an aggregate commission rate of up to 4.0% of the gross proceeds of any common stock sold under this agreement. Proceeds from sales of common stock will depend on the number of shares of common stock sold to MLV and the per share purchase price of each transaction.  
+ On September 16, 2016, the Company entered into an amendment No.1 to the original sales agreement with MLV to also include FBR Capital Markets   Co. as a sales agent.  
+  The Company is not obligated to make any sales of common stock under the sales agreement and may terminate the sales agreement at any time upon written notice.  For the year ended December 31, 2015, the Company generated gross proceeds of $32,700 and incurred issuance costs of $121,500 under this agreement on sales of 7,800 shares of the Company s common stock at prices ranging from $4.16 to $4.23 per share.  No shares of common stock were sold in the nine months ended September 30, 2016.  
+ Common Stock Warrants 
+ During the nine months ended September 30, 2016 and 2015, warrants to purchase 2,131,700 and 252,200 shares of the Company s common stock were exercised for gross proceeds of $7.6 million and $0.9 million, respectively. On March 29, 2016, warrants to purchase 207,600 shares of the Company s common stock expired unexercised. 
+   
+ As of September 30, 2016, the Company had the following warrants outstanding: 
+
+11 
+
+7. Net Loss Per Share  
+ The Company computes basic net loss per share using the weighted average number of common shares outstanding during the period. Diluted net income per share is based upon the weighted average number of common shares and potentially dilutive securities (common share equivalents) outstanding during the period. Common share equivalents outstanding, determined using the treasury stock method, are comprised of shares that may be issued under the Company s stock option agreements and warrants. Common share equivalents are excluded from the diluted net loss per share calculation if their effect is anti-dilutive. 
+ The following potentially dilutive outstanding securities were excluded from diluted net loss per common share because of their anti-dilutive effect: 
+
+8. Related Party Transactions 
+ On October 13, 2011, the Company entered into a services agreement with Kissei to perform two separate studies relating to MN-221 in exchange for $2.5 million paid to the Company in October 2011. The Company is responsible for all costs to be incurred in the performance of these studies. The amount received from Kissei, net of the amount recorded as revenue through September 30, 2016, is included on the balance sheet at September 30, 2016 as long-term deferred revenue and will be recognized as revenue in future periods upon the Company s performance of the remaining services. No services were performed and no revenues related to this services agreements were recognized during the three and nine month periods ended September 30, 2016 and 2015. 
+   
+ 9. Preferred Stock  
+ On September 26, 2011, the Company issued and sold to Kissei 220,000 shares of Series B Convertible Preferred Stock. Each share of the Series B Preferred stock was convertible into shares of common stock at a conversion rate of 1:10 at the option of the holder. On June 15, 2016, Kissei elected to convert all 220,000 preferred shares into 2,200,000 shares of common stock. 
+ 10. Subsequent Events 
+  The Company has evaluated all subsequent events that have occurred after the date of the accompanying financial statements and determined that there were no events or transactions occurring during the subsequent event period which require recognition or disclosure in the Company s consolidated financial statements.   
+
+12 
+
+ITEM 2.   
+ 
+          MANAGEMENT S DISCUSSION AND ANALYSIS OF   FINANCIAL CONDITION AND RESULTS OF OPERATIONS.     
+
+ The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our unaudited consolidated financial statements and notes thereto included in this Quarterly Report on Form 10-Q and the audited financial statements and notes thereto as of and for the year ended December 31, 2015 included in our Annual Report on Form 10-K filed with the Securities and Exchange Commission, or SEC, on February 25, 2016. Past operating results are not necessarily indicative of results that may occur in future periods. 
+ This Quarterly Report on Form 10-Q contains forward-looking statements that are subject to risks and uncertainties, many of which are beyond our control. Our actual results may differ from those anticipated in these forward-looking statements as a result of various factors, including those set forth in Part II of this Quarterly Report on Form 10-Q under the caption  Item 1A. Risk Factors  and under the caption  Item 1A. Risk Factors  in our Annual Report on Form 10-K. The differences may be material. Forward-looking statements discuss matters that are not historical facts. Forward-looking statements include, but are not limited to, statements regarding our plans, strategies, objectives, product development programs, clinical trials, industry, financial condition, liquidity and capital resources, future performance and other statements that are not historical facts. Such forward-looking statements include statements preceded by, followed by or that otherwise include the words  may,   might,   will,   intend,   should,   could,   can,   would,   expect,   believe,   estimate,   anticipate,   predict,   potential,   plan  or similar words. For such statements, we claim the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. You should not rely unduly on these forward-looking statements, which speak only as of the date hereof. We undertake no obligation to update publicly or revise any forward-looking statements, whether as a result of new information, future events or otherwise, unless required by law. 
+ Overview 
+ We are a biopharmaceutical company focused on acquiring and developing novel, small molecule therapeutics for the treatment of serious diseases with unmet medical needs and a commercial focus on the U.S. market. Our current strategy is to focus our development activities on MN-166 (ibudilast) for neurological disorders such as progressive multiple sclerosis (MS), amyotrophic lateral sclerosis (ALS) and substance dependence (e.g., methamphetamine dependence, opioid dependence and alcohol dependence), and MN-001 (tipelukast) for fibrotic diseases such as nonalcoholic steatohepatitis (NASH) and idiopathic pulmonary fibrosis (IPF). Our pipeline also includes MN-221 (bedoradrine) for the treatment of acute exacerbations of asthma and MN-029 (denibulin) for solid tumor cancers. We were incorporated in Delaware in September 2000. 
+ We have incurred significant net losses since our inception. As of September 30, 2016, we had an accumulated deficit of $328.8 million and expect to incur substantial net losses for the next several years as we continue to develop certain of our existing product development programs, and over the long-term if we expand our research and development programs and acquire or in-license products, technologies or businesses that are complementary to our own. 
+ Our goal is to build a sustainable biopharmaceutical business through the successful development of differentiated products for the treatment of serious diseases with unmet medical needs in high-value therapeutic areas. Key elements of our strategy are as follows: 
+
+Pursue the development of MN-166 for multiple potential indications primarily through non-dilutive financings.     
+
+ We intend to advance our diverse MN-166 (ibudilast) program through a combination of investigator-sponsored trials and trials funded through government grants or other grants. In addition to providing drug supply and regulatory support, we are funding portions of the consortium-sponsored trials. For example, we have contributed financially to the Secondary and Primary Progressive Ibudilast NeuroNEXT Trial in Multiple Sclerosis (SPRINT-MS) Phase 2 clinical trial of MN-166 for the treatment of progressive MS, which is primarily funded by the National Institutes of Health (NIH), and are contributing financially to the Carolinas Neuromuscular ALS-MDA Center clinical trial of MN-166 for the treatment of ALS. We intend to enter into additional strategic alliances to support further clinical development of MN-166. 
+
+Pursue the development of MN-001 for fibrotic diseases such as NASH and IPF.     
+
+ We intend to advance development of MN-001 through a combination of investigator-sponsored trials with or without grant funding as well as trials we may fund. 
+   
+ 13 
+
+Strategically partner with one or more leading pharmaceutical companies to complete late-stage product development and successfully commercialize our products.     
+
+ We develop and maintain relationships with pharmaceutical companies that are therapeutic category leaders. Upon completion of proof-of-concept Phase 2 clinical trials, we intend to enter into strategic alliances with leading pharmaceutical companies who seek late-stage product candidates, such as MN-166, MN-221, MN-001 and MN-029, to support further clinical development and product commercialization. 
+ We entered into an agreement to form a joint venture company with Zhejiang Medicine Co., Ltd. and Beijing Medfron Technologies Co., Ltd. (formerly Beijing Make-Friend Medicine Technology Co., Ltd.) effective September 27, 2011. The joint venture agreement provides for the joint venture company, Zhejiang Sunmy Bio-Medical Co., Ltd. ( Zhejiang Sunmy ), to develop and commercialize MN-221 in China and search for additional compounds to develop. A sublicense would be required under which Zhejiang Sunmy would license MN-221 from us. In accordance with the joint venture agreement, in March 2012 we paid $680,000 for our 30% interest in Zhejiang Sunmy. The other parties to the joint venture agreement provided funding for their combined 70% interest. In December 2013, the Board of Directors of Zhejiang Sunmy agreed to amend the joint venture agreement to allow for the departure of Zhejiang Medicine Co., Ltd. subject to the approval of the government of the People s Republic of China. In August 2014, the Chinese government approved the amendment to the joint venture agreement to allow for the departure of Zhejiang Medicine Co., Ltd. and for Beijing Medfron Medical Technologies Co., Ltd. and MediciNova to each have a 50% interest in Zhejiang Sunmy. No additional capital was contributed by either remaining party. We have not entered into the sublicense of MN-221 with Zhejiang Sunmy as of the date of this report. There is no assurance the sublicense will be executed and there is no assurance that Zhejiang Sunmy will be able to proceed with the development of MN-221 in China. 
+ Zhejiang Sunmy is a variable interest entity for which we are not the primary beneficiary as we do not have a majority of the board seats and we do not have power to direct or significantly influence the actions of the entity. We therefore account for the activities of Zhejiang Sunmy under the equity method whereby we absorb any loss or income generated by Zhejiang Sunmy according to our percentage ownership. At September 30, 2016, we reflect a long-term asset on our consolidated balance sheet which represents our investment in Zhejiang Sunmy, net of our portion of any generated loss or income. 
+ Depending on decisions we may make as to further clinical development, we may seek to raise additional capital. We may also pursue potential partnerships and potential acquirers of license rights to our programs in markets outside the United States. 
+ Revenues and Cost of Revenues 
+ In October 2011, we entered into an agreement with Kissei to perform research and development services relating to MN-221 in exchange for a non-refundable upfront payment of $2.5 million. Under the terms of the agreement, we are responsible for all costs incurred and to be incurred in the performance of these services. Certain of the development services were completed in 2013 and 2012, and the remaining services are expected to be delivered and completed at a future date. We assessed the deliverables in accordance with the authoritative guidance and concluded the existence of one deliverable, which was research and development services. The $2.5 million was initially recorded as deferred revenue. During the three and nine months ended September 30, 2016 and 2015, we recognized zero revenues associated with this agreement. 
+ Research, Development and Patent Expenses 
+ Our research, development and patent expenses consist primarily of license fees related to our product candidates, salaries and related employee benefits, costs associated with the preclinical and clinical development of our product development programs, costs associated with non-clinical activities, such as regulatory expenses, and pre-commercialization manufacturing development activities. We use external service providers to manufacture our compounds to be used in clinical trials and for the majority of the services performed in connection with the preclinical and clinical development of our product candidates. Research, development and patent expenses include fees paid to consultants, contract research organizations, contract manufacturers and other external service providers, including professional fees and costs associated with legal services, patents and patent applications for our intellectual property. Internal research and development expenses include costs of compensation and other expenses for research and development personnel, supplies, facility costs and depreciation. Research, development and patent costs are expensed as incurred. 
+   
+ 14 
+
+The following table pr  esents our total research, development, and patent expenses by category during the periods presented (in thousands):  
+
+General and Administrative 
+ Our general and administrative costs primarily consist of salaries, stock based compensation, benefits and consulting and professional fees related to our administrative, finance, human resources, business development, legal, information systems support functions, facilities and insurance costs. General and administrative costs are expensed as incurred. 
+ Critical Accounting Policies and Estimates 
+ Our discussion and analysis of our financial condition and results of operations is based upon financial statements that have been prepared in accordance with accounting principles generally accepted in the United States (GAAP). The preparation of these financial statements requires management to make estimates and judgments that affect the reported amounts of assets, liabilities and expenses, and related disclosures. On an on-going basis, we evaluate these estimates, including those related to research and development and patent expense, stock-based compensation, goodwill and purchased intangibles, lease related activities, investments, and fixed assets. Estimates are based on historical experience, information received from third parties and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. The items in our financial statements requiring significant estimates and judgments are as follows: 
+ Research, Development and Patent Expenses 
+ Research, development and patent costs are expensed as incurred based on contractual factors such as estimates of work performed, milestones achieved, patient enrollment and experience with similar contracts. As actual costs become known, accruals are adjusted. To date, our accrued research, development and patent expenses have not differed significantly from the actual expenses incurred. 
+   
+ 15 
+
+Stock-Based Compensation  
+ We grant options to purchase our common stock to our employees and directors under our 2013 Stock Incentive Plan. Additionally, we have outstanding stock options that were granted under our Amended and Restated 2004 Stock Incentive Plan. Under our 2007 Employee Stock Purchase Plan, full-time employees are permitted to purchase common stock through payroll deductions at the lower of 85% of fair market value at the beginning of the offering period or the end of each six-month offering period. The benefits provided under all of these plans require stock-based compensation for an award of equity instruments, including stock options and employee stock purchase rights issued to employees, to be recognized as a cost in the consolidated financial statements. The cost of these awards is measured according to the grant date fair value of the stock award and is recognized on a straight-line basis over the period during which an employee is required to provide service in exchange for the award, which is usually the vesting period. We occasionally issue employee performance-based stock options, the vesting of which is based on a determination made by our board of directors as to the achievement of certain corporate objectives. The grant date of such awards is the date on which our board of directors makes its determination. For periods preceding the grant date, the expenses related to these awards is measured based on their fair value at each reporting date. In the absence of an observable market price for the stock award, the grant date fair value of the award would be based upon a valuation methodology that takes into consideration various factors, including the exercise price of the award, the expected term of the award, the current price of the underlying shares, the expected volatility of the underlying share price, the expected dividends on the underlying shares and the risk-free interest rate. 
+ Valuation of our stock option grants requires us to estimate certain variables, such as estimated volatility and expected life. If any of our estimations change, such changes could have a significant impact on the amount of stock-based compensation expense that we recognize. 
+ Goodwill and Purchased Intangibles 
+ Goodwill is recorded when the consideration paid for an acquisition exceeds the fair value of the identified net tangible and intangible assets of an acquired business. The allocation of purchase price for acquisitions requires extensive use of accounting estimates and judgments to allocate the purchase price to the identifiable tangible and intangible assets acquired and liabilities assumed based on their respective fair values. Additionally, we must determine whether an acquired entity is considered to be a business or a set of net assets as a portion of the purchase price can only be allocated to goodwill in a business combination. Goodwill and intangible assets deemed to have indefinite lives are not amortized, but are subject to annual impairment tests. The amounts and useful lives assigned to intangible assets that have finite useful lives require the use of estimates and the exercise of judgment. These judgments can significantly affect our net operating results. As of September 30, 2016, goodwill and in-process research and development, or IPR D, was $9.6 million and $4.8 million, respectively. 
+ At least annually in the fourth quarter, or more frequently if indicators of impairment exist, we complete an impairment test for goodwill and purchased indefinite life intangibles. We periodically re-evaluate the original assumptions and rationale utilized in the establishment of the carrying value and estimated lives of our long-lived assets. The criteria used for these evaluations include management s estimate of the asset s continuing ability to generate income from operations and positive cash flows in future periods as well as the strategic significance of any intangible assets in our business objectives. If assets are considered to be impaired, the impairment recognized is the amount by which the carrying value of the assets exceeds the fair value of the assets. 
+ Results of Operations 
+ Comparison of the three months ended September 30, 2016 and 2015 
+ Research, Development and Patent Expenses 
+ Research, development and patent expenses were $0.9 million and $0.6 million for the three months ended September 30, 2016 and 2015, respectively. This $0.3 million increase was due primarily to higher stock compensation expense for performance-based stock options due in part to an increase in our stock price.  
+ General and Administrative 
+ General and administrative expenses were $2.0 million and $1.0 million for the three months ended September 30, 2016 and 2015, respectively. This $1.0 million increase was due primarily to higher stock compensation expense for performance-based stock options due in part to an increase in our stock price. 
+   
+ 16 
+
+Comparison of   the   nine months ended September 30, 2016 and 2015  
+ Research, development and patent expenses were $2.9 million and $2.1 million for the nine months ended September 30, 2016 and 2015, respectively. This $0.8 million increase was due primarily to higher stock compensation expense for performance-based stock options due in part to an increase in our stock price. 
+ General and Administrative 
+ General and administrative expenses were $6.5 million and $4.0 million for the nine months ended September 30, 2016 and 2015, respectively. The increase of $2.5 million was due primarily to higher stock compensation expense for performance based stock options due in part to an increase in our stock price. In addition, the Company had higher professional and legal expenses in the nine months ended September 30, 2016 compared to the same period in 2015. 
+ Liquidity and Capital Resources 
+ Net cash used in operating activities during the nine months ended September 30, 2016 was $5.5 million compared to $5.6 million during the same period in 2015.  Net cash primarily reflects the net loss for those periods, which was partially offset by non-cash stock-based compensation and changes in operating assets and liabilities.  
+ Net cash provided by financing activities during the nine months ended September 30, 2016 was $8.4 million primarily due to the exercise of 2,131,700 warrants and 172,585 stock options for gross proceeds of $7.6 million and $0.8 million, respectively.  
+ On May 22, 2015, we entered into an at-the-market issuance sales agreement with MLV   Co. LLC, or MLV, pursuant to which we may sell common stock through MLV from time to time up to an aggregate offering price of $30.0 million.  Sales of our common stock through MLV, if any, will be made by any method that is deemed to be an  at-the-market  equity offering as defined in Rule 415 promulgated under the Securities Act of 1933, as amended, including sales made directly on NASDAQ, on any other existing trading market for the common stock or to or through a market maker. MLV may also sell the common stock in privately negotiated transactions, subject to our prior approval.  We agreed to pay MLV an aggregate commission rate of up to 4.0% of the gross proceeds of any common stock sold under this agreement. Proceeds from sales of common stock will depend on the number of shares of common stock sold to MLV and the per share purchase price of each transaction.  We are not obligated to make any sales of common stock under the sales agreement and may terminate the sales agreement at any time upon written notice.  On September 16, 2016, we entered into an amendment No.1 to the original sales agreement with MLV to also include FBR Capital Markets   Co. as a sales agent.  
+ For the year ended December 31, 2015, we generated gross proceeds of $32,700 and incurred issuance costs of $121,500 under this agreement on sales of 7,800 shares of our common stock at prices ranging from $4.16 to $4.23 per share. No shares of common stock were sold in the three and nine months ended September 30, 2016.  
+ On August 24, 2015, we completed a firm-commitment underwritten public offering of 5,000,000 shares of common stock at a purchase price of $3.50 per share for gross proceeds of $17.5 million, and received proceeds of approximately $16.0 million, net of underwriting discounts and commissions and offering expenses.  
+ As of September 30, 2016, we had available cash and cash equivalents of $25.0 million and working capital of $24.2 million. As of the date of this report, we believe we have working capital sufficient to fund operations at least through December 31, 2018. However, we cannot provide assurance that these capital resources will be sufficient to conduct all of our research and development programs as planned.  
+ Off-Balance Sheet Arrangements 
+ At September 30, 2016, we did not have any relationship with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance variable interest, or special purpose entities, which would have been established for the purpose of facilitating off-balance sheet arrangements. In addition, we did not engage in trading activities involving non-exchange traded contracts. As a result, we are not exposed to any financing, liquidity, market or credit risk that could arise if we had engaged in such relationships. We do not have relationships and transactions with persons and entities that derive benefits from their non-independent relationship with us or our related parties except as disclosed herein. 
+
+17 
+
+ITEM 3.   
+ 
+          QUANTITATIVE AND QUALITAT  IVE DISCLOSURES ABOUT MARKET RISK.     
+
+ Our primary exposure to market risks due to changes in interest rates, which relates primarily to the increase or decrease in the amount of interest income we can earn on our investment portfolio. The primary objective of our investment activities is to preserve principal. Our risk associated with fluctuating interest rates is limited to our investments in interest rate sensitive financial instruments and we do not use interest rate derivative instruments to manage exposure to interest rate changes. We mitigate default risk by investing in investment grade securities. A hypothetical 100 basis point adverse move in interest rates along the entire interest rate yield curve would not materially affect the fair value of our interest-rate sensitive financial instruments due to their relatively short term nature. 
+ Cash and cash equivalents as of September 30, 2016 were $25.0 million and were primarily invested in money market interest bearing accounts and money market funds. A hypothetical 10% adverse change in the average interest rate on our cash and cash equivalents would have had no material effect on net loss for the three and nine months ended September 30, 2016. 
+
+ITEM 4.   
+ 
+     CONTROLS AND PROCEDURES.    
+
+ We maintain disclosure controls and procedures that are designed to provide reasonable assurance that the information required to be disclosed in our filings under the Securities Exchange Act of 1934, as amended, or the Exchange Act, is (1) recorded, processed, summarized and reported within the time periods specified in SEC s rules and forms, and (2) accumulated and communicated to management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow for timely decisions regarding required disclosure. 
+ Our management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our procedures or our internal controls will prevent or detect all errors and all fraud. Any internal control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Because of the inherent limitations in all control systems, no evaluation of our controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. 
+ Evaluation of Disclosure Controls and Procedures 
+ As required by Rule 13a-15(b) of the Exchange Act, we carried out an evaluation, under the supervision and with the participation of our management, including our Chief Executive Officer and our Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures as of the end of the quarter covered by this report. Based on the foregoing, our Chief Executive Officer and our Chief Financial Officer concluded that our disclosure controls and procedures were effective at the reasonable assurance level. 
+ Changes in Internal Control over Financial Reporting 
+ There has been no change in our internal control over financial reporting during our most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.   
+
+18 
+
+PART II. OTHER   INFORMATION  
+
+ITEM 1.   
+ 
+     LEGAL PROCEEDINGS.    
+
+ We are not involved in any material legal proceedings as of September 30, 2016. We may become involved in various disputes and legal proceedings which arise in the ordinary course of business or otherwise. While it is not possible to accurately predict or determine the outcome of these matters, an adverse result in any litigation matter may occur which could harm our business. 
+
+ITEM 1A.   
+ 
+     RISK FACTORS.    
+
+ In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part I,  Item 1A. Risk Factors  in our Annual Report on Form 10-K for the year ended December 31, 2015, which are incorporated herein by reference and which could materially affect our business, financial condition or future results. The risks described in our Annual Report on Form 10-K are not the only risks facing our Company. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and/or operating results. There have been no material changes from the risk factors previously disclosed in our Annual Report on Form 10-K for the year ended December 31, 2015. 
+
+ITEM 2.   
+ 
+     UNREGISTERED SALES OF EQUITY SECUTITIES AND USE OF PROCEEDS.    
+
+ None 
+
+ITEM 3.   
+ 
+     DEFAULTS UPON SENIOR SECURITIES.    
+
+ None 
+
+ITEM 4.   
+ 
+     MINE SAFETY DISCLOSURES.    
+
+ Not applicable 
+
+ITEM 5.   
+ 
+     OTHER INFORMATION.    
+
+ None   
+
+ITEM 6.   
+ 
+     EXHIBITS.    
+
+Exhibit 
+ Number  
+
+Description  
+
+10.1  
+
+Amendment No. 1 to At-the-Market Issuance Sales Agreement, dated September 16, 2016, by and among MediciNova, Inc., MLV   Co. LLC and FBR Capital Markets   Co. (incorporated by reference to Exhibit 10.1 to the Registrant s Current Report on Form 8-K filed September 16, 2016).  
+
+31.1  
+
+Certification of the Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.  
+
+31.2  
+
+Certification of the Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.  
+
+32.1  
+
+Certification of Principal Executive Officer pursuant to 18 U.S.C. Section 1350 (Section 906 of the Sarbanes-Oxley Act of 2002).  
+
+32.2  
+
+Certification of Principal Financial Officer pursuant to 18 U.S.C. Section 1350 (Section 906 of the Sarbanes-Oxley Act of 2002).  
+
+101  
+
+The following financial statements from the MediciNova, Inc. Quarterly Report on Form 10-Q for the quarter ended September 30, 2016 formatted in Extensible Business Reporting Language (XBRL): (i) Consolidated Balance Sheets; (ii) Consolidated Statements of Operations and Comprehensive Loss; (iii) Consolidated Statements of Cash Flows; and (iv) the notes to the consolidated financial statements.  
+
+19 
+
+SIGNAT  URES  
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+MEDICINOVA, INC.  
+
+Date:  October 25, 2016  
+
+By:  
+ 
+ /s/    Y UICHI  I WAKI   
+
+Yuichi Iwaki, M.D., Ph.D.  
+
+President and Chief Executive Officer  
+
+(on behalf of the registrant and  
+
+as the registrant s Principal Executive Officer)  
+
+By:  
+ 
+ /s/    Ryan Selhorn  
+
+Ryan Selhorn  
+
+Chief Financial Officer  
+
+(on behalf of the registrant and  
+
+as the registrant s Principal Financial Officer)  
+
+20 
+
+INDEX TO EXHIBITS  
+
+Exhibit Number  
+
+Description     
+
+10.1  
+
+31.1  
+
+Amendment No. 1 to At-the-Market Issuance Sales Agreement, dated September 16, 2016, by and among MediciNova, Inc., MLV   Co. LLC and FBR Capital Markets   Co. (incorporated by reference to Exhibit 10.1 to the Registrant s Current Report on Form 8-K filed September 16, 2016). 
+   
+ Certification of the Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.  
+
+31.2  
+
+Certification of the Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.  
+
+32.1  
+
+Certification of Principal Executive Officer pursuant to 18 U.S.C. Section 1350 (Section 906 of the Sarbanes-Oxley Act of 2002).  
+
+32.2  
+
+Certification of Principal Financial Officer pursuant to 18 U.S.C. Section 1350 (Section 906 of the Sarbanes-Oxley Act of 2002).  
+
+101  
+
+The following financial statements from the MediciNova, Inc. Quarterly Report on Form 10-Q for the quarter ended September 30, 2016 formatted in Extensible Business Reporting Language (XBRL): (i) Consolidated Balance Sheets; (ii) Consolidated Statements of Operations and Comprehensive Loss; (iii) Consolidated Statements of Cash Flows; and (iv) the notes to the consolidated financial statements.  
+
+21  
+
+<EX-31.1>
+ 2
+ mnov-ex311_7.htm
+ EX-31.1
+
+mnov-ex311_7.htm
+
+Exhibit 31.1 
+ MEDICINOVA, INC. 
+ Certification of the Principal Executive Officer Pursuant to 
+ Section 302 of the Sarbanes-Oxley Act of 2002 for the Period Ended September 30, 2016 
+ I, Yuichi Iwaki, certify that: 
+ 1. I have reviewed this Quarterly Report on Form 10-Q for the period ended September 30, 2016 of MediciNova, Inc.; 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report; 
+ 4. The Registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have: 
+ a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ c) evaluated the effectiveness of the Registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ d) disclosed in this report any change in the Registrant s internal control over financial reporting that occurred during the Registrant s most recent fiscal quarter (the Registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant s internal control over financial reporting; and 
+ 5. The Registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant s auditors and the audit committee of the Registrant s board of directors (or persons performing the equivalent functions): 
+ a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant s ability to record, process, summarize and report financial information; and 
+ b) any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s internal control over financial reporting. 
+
+Date: October 25, 2016  
+
+By:  
+
+/s/    Y UICHI  I WAKI   
+
+Yuichi Iwaki, M.D., Ph.D.  
+
+President and Chief Executive Officer  
+
+(Principal Executive Officer)  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ mnov-ex312_9.htm
+ EX-31.2
+
+mnov-ex312_9.htm
+
+Exhibit 31.2 
+ MEDICINOVA, INC. 
+ Certification of the Principal Financial Officer Pursuant to 
+ Section 302 of the Sarbanes-Oxley Act of 2002 for the Period Ended September 30, 2016 
+ I, Ryan Selhorn, certify that: 
+ 1. I have reviewed this Quarterly Report on Form 10-Q for the period ended September 30, 2016 of MediciNova, Inc.; 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report; 
+ 4. The Registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have: 
+ a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ c) evaluated the effectiveness of the Registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ d) disclosed in this report any change in the Registrant s internal control over financial reporting that occurred during the Registrant s most recent fiscal quarter (the Registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant s internal control over financial reporting; and 
+ 5. The Registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant s auditors and the audit committee of the Registrant s board of directors (or persons performing the equivalent functions): 
+ a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant s ability to record, process, summarize and report financial information; and 
+ b) any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s internal control over financial reporting. 
+
+Date: October 25, 2016  
+
+By:  
+
+/s/    Ryan Selhorn  
+
+Ryan Selhorn  
+
+Chief Financial Officer  
+
+(Principal Financial Officer)  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ mnov-ex321_8.htm
+ EX-32.1
+
+mnov-ex321_8.htm
+
+Exhibit 32.1 
+ CERTIFICATION OF 
+ PRINCIPAL EXECUTIVE OFFICER 
+ PURSUANT TO 18 U.S.C. SECTION 1350 
+ (SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002) 
+ In connection with the accompanying Quarterly Report on Form 10-Q of MediciNova, Inc. (the  Company ) for the period ended September 30, 2016 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Yuichi Iwaki, as President and Chief Executive Officer of the Company, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge: 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: October 25, 2016  
+
+By:  
+
+/s/     Yuichi Iwaki   
+
+Yuichi Iwaki, M.D., Ph.D.  
+
+President and Chief Executive Officer  
+
+(Principal Executive Officer)  
+
+The foregoing certification is being furnished solely to accompany the Report pursuant to 18 U.S.C. Section 1350, and is not being filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and such certification is not to be incorporated by reference into any filing of the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing. A signed original of this written statement required by Section 906 has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request.  
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ mnov-ex322_6.htm
+ EX-32.2
+
+mnov-ex322_6.htm
+
+Exhibit 32.2 
+ CERTIFICATION OF 
+ PRINCIPAL FINANCIAL OFFICER 
+ PURSUANT TO 18 U.S.C. SECTION 1350 
+ (SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002) 
+ In connection with the accompanying Quarterly Report on Form 10-Q of MediciNova, Inc. (the  Company ) for the period ended September 30, 2016, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Ryan Selhorn, as Chief Financial Officer of the Company, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge: 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: October 25, 2016  
+
+By:  
+
+/s/    Ryan Selhorn  
+
+Ryan Selhorn  
+
+Chief Financial Officer  
+
+(Principal Financial Officer)  
+
+The foregoing certification is being furnished solely to accompany the Report pursuant to 18 U.S.C. Section 1350, and is not being filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and such certification is not to be incorporated by reference into any filing of the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing. A signed original of this written statement required by Section 906 has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request.  
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ mnov-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ mnov-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ mnov-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ mnov-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ mnov-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ mnov-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

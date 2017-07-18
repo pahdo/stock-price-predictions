@@ -1,0 +1,1474 @@
+<Header>
+<FileStats>
+    <FileName>20161101_10-Q_edgar_data_49754_0000049754-16-000032_1.txt</FileName>
+    <GrossFileSize>5353563</GrossFileSize>
+    <NetFileSize>192580</NetFileSize>
+    <ASCII_Embedded_Chars>461949</ASCII_Embedded_Chars>
+    <HTML_Chars>2123866</HTML_Chars>
+    <XBRL_Chars>1731888</XBRL_Chars>
+    <XML_Chars>677867</XML_Chars>
+    <N_Tables>152</N_Tables>
+    <N_Exhibits>12</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000049754-16-000032.hdr.sgml : 20161101
+<ACCEPTANCE-DATETIME>20161101154301
+ACCESSION NUMBER:		0000049754-16-000032
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		58
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161101
+DATE AS OF CHANGE:		20161101
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DineEquity, Inc
+		CENTRAL INDEX KEY:			0000049754
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				953038279
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15283
+		FILM NUMBER:		161964652
+
+	BUSINESS ADDRESS:	
+		STREET 1:		450 N BRAND BLVD 3RD FLR
+		CITY:			GLENDALE
+		STATE:			CA
+		ZIP:			91203-1903
+		BUSINESS PHONE:		818-240-6055
+
+	MAIL ADDRESS:	
+		STREET 1:		450 N. BRAND BLVD, 7TH FLOOR
+		CITY:			GLENDALE
+		STATE:			CA
+		ZIP:			91203
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IHOP CORP
+		DATE OF NAME CHANGE:	19940204
+
+</SEC-Header>
+</Header>
+
+ 0000049754-16-000032.txt : 20161101
+
+10-Q
+ 1
+ din-2016930x10q.htm
+ 10-Q
+
+Document 
+
+Table of Contents  
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+  __________________________________________________  
+  FORM 10-Q  
+     (Mark One) 
+  x          QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+   For the quarterly period ended   September 30, 2016    
+   OR 
+  o            TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+   For the transition period from                  to                 
+    
+  Commission File Number 001-15283 
+         DineEquity, Inc.       
+  (Exact name of registrant as specified in its charter)   
+
+(818) 240-6055  
+  (Registrant s telephone number, including area code) 
+   ______________________________________________________________ 
+    
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes   x    No   o 
+   Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  Yes   x    No   o 
+   Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of  large accelerated filer,   accelerated filer,  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one): 
+                   Large accelerated filer   x 
+      
+    Accelerated filer   o 
+
+Non-accelerated filer   o 
+      
+    Smaller reporting company   o 
+      (Do not check if a smaller reporting company) 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes   o    No   x    
+  Indicate the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date. 
+
+Table of Contents  
+
+DineEquity, Inc. and Subsidiaries 
+  Index 
+
+Page 
+       PART I.  
+     FINANCIAL INFORMATION  
+     2 
+        
+     Item 1 Financial Statements  
+     2 
+        
+     Consolidated Balance Sheets September 30, 2016 (unaudited) and December 31, 2015  
+     2 
+        
+     Consolidated Statements of Comprehensive Income (unaudited) Three and Nine Months Ended September 30, 2016 and 2015  
+     3 
+        
+     Consolidated Statements of Cash Flows (unaudited) Nine Months Ended September 30, 2016 and 2015  
+     4 
+        
+     Notes to Consolidated Financial Statements (unaudited)  
+     5 
+        
+     Item 2 Management s Discussion and Analysis of Financial Condition and Results of Operations  
+     14 
+        
+     Item 3 Quantitative and Qualitative Disclosures about Market Risk  
+     29 
+        
+     Item 4 Controls and Procedures  
+     29 
+       PART II.  
+     OTHER INFORMATION  
+     29 
+        
+     Item 1 Legal Proceedings  
+     29 
+        
+     Item 1A Risk Factors  
+     29 
+        
+     Item 2 Unregistered Sales of Equity Securities and Use of Proceeds  
+     30 
+        
+     Item 3 Defaults Upon Senior Securities  
+     30 
+        
+     Item 4 Mine Safety Disclosures  
+     30 
+        
+     Item 5 Other Information  
+     30 
+        
+     Item 6 Exhibits  
+     31 
+        
+     Signatures  
+     32 
+
+Cautionary Statement Regarding Forward-Looking Statements 
+    
+  Statements contained in this report may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements involve known and unknown risks, uncertainties and other factors, which may cause actual results to be materially different from those expressed or implied in such statements. You can identify these forward-looking statements by words such as  may,   will,   should,   could,   expect,   anticipate,   believe,   estimate,   intend,   plan  and other similar expressions. You should consider our forward-looking statements in light of the risks discussed under the heading  Risk Factors  in our most recent Annual Report on Form 10-K, as well as our consolidated financial statements, related notes, and the other financial information appearing elsewhere in this report and our other filings with the United States Securities and Exchange Commission. The forward-looking statements contained in this report are made as of the date hereof and the Company assumes no obligation to update or supplement any forward-looking statements. 
+    
+  Fiscal Quarter End 
+    
+  The Company s fiscal quarters end on the Sunday closest to the last day of each calendar quarter. For convenience, the fiscal quarters of each year are referred to as ending on March 31, June 30, September 30 and December 31. The first fiscal quarter of   2016   began on   January 4, 2016   and ended on   April 3, 2016  ; the second and third fiscal quarters of 2016 ended on   July 3, 2016   and   October 2, 2016  , respectively. The first fiscal quarter of   2015   began on December 29, 2014 and ended on   March 29, 2015  ; the second and third fiscal quarters of 2015 ended on   June 28, 2015   and   September 27, 2015  , respectively. 
+
+1 
+
+Table of Contents  
+
+PART I. FINANCIAL INFORMATION 
+
+Item 1.  Financial Statements. 
+   
+  DineEquity, Inc. and Subsidiaries 
+  Consolidated Balance Sheets 
+  (In thousands, except share and per share amounts)   
+
+See the accompanying Notes to Consolidated Financial Statements. 
+  
+    2 
+
+Table of Contents  
+
+DineEquity, Inc. and Subsidiaries 
+  Consolidated Statements of Comprehensive Income 
+  (In thousands, except per share amounts) 
+  (Unaudited) 
+
+See the accompanying Notes to Consolidated Financial Statements. 
+  
+    3 
+
+Table of Contents  
+
+DineEquity, Inc. and Subsidiaries 
+  Consolidated Statements of Cash Flows 
+  (In thousands) 
+  (  Unaudited)   
+
+See the accompanying Notes to Consolidated Financial Statements. 
+  
+    4 
+
+Table of Contents  
+
+DineEquity, Inc. and Subsidiaries 
+  Notes to Consolidated Financial Statements 
+  (Unaudited) 
+
+1. General 
+    
+  The accompanying unaudited consolidated financial statements of DineEquity, Inc. (the  Company  or  DineEquity ) have been prepared in accordance with United States generally accepted accounting principles ( U.S. GAAP ) for interim financial information and with the instructions to Form 10-Q and Article 10 of Regulation S-X. Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements. In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation have been included. The operating results for the   nine months ended September 30, 2016   are not necessarily indicative of the results that may be expected for the twelve months ending December 31,   2016  . 
+    
+  The consolidated balance sheet at   December 31, 2015   has been derived from the audited consolidated financial statements at that date, but does not include all of the information and footnotes required by U.S. GAAP for complete financial statements. 
+    
+  These consolidated financial statements should be read in conjunction with the consolidated financial statements and footnotes thereto included in the Company s Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+
+2. Basis of Presentation 
+    
+  The Company s fiscal quarters end on the Sunday closest to the last day of each calendar quarter. For convenience, the fiscal quarters of each year are referred to as ending on March 31, June 30, September 30 and December 31. The first fiscal quarter of   2016   began on   January 4, 2016   and ended on   April 3, 2016  ; the second and third fiscal quarters of 2016 ended on   July 3, 2016   and   October 2, 2016  , respectively. The first fiscal quarter of   2015   began on December 29, 2014 and ended on   March 29, 2015  ; the second and third fiscal quarters of 2015 ended on   June 28, 2015   and   September 27, 2015  , respectively.  
+    
+  The accompanying consolidated financial statements include the accounts of the Company and its subsidiaries that are consolidated in accordance with U.S. GAAP. All intercompany balances and transactions have been eliminated. 
+    
+  The preparation of financial statements in conformity with U.S. GAAP requires the Company s management to make assumptions and estimates that affect the reported amounts of assets and liabilities, disclosures of contingent assets and liabilities, if any, at the date of the consolidated financial statements, and the reported amounts of revenues and expenses during the reporting period. Significant estimates are made in the calculation and assessment of the following: impairment of tangible assets, goodwill and other intangible assets; income taxes; allowance for doubtful accounts and notes receivables; lease accounting estimates; contingencies; and stock-based compensation. On an ongoing basis, the Company evaluates its estimates based on historical experience, current conditions and various other assumptions that are believed to be reasonable under the circumstances. The Company adjusts such estimates and assumptions when facts and circumstances dictate. Actual results could differ from those estimates. 
+
+3. Accounting Policies 
+    
+  Accounting Standards Adopted in the Current Fiscal Year 
+    
+  Various updates to accounting guidance became effective in the Company's first fiscal quarter of 2016. The majority of these updates either did not apply to the Company's operations or will only apply if the activity addressed in the guidance takes place in the future. Adoption of updates that did apply to the Company's operations did not have a material effect on the Company's financial statements.  
+    
+  Newly Issued Accounting Standards Not Yet Adopted 
+    
+  In August 2016, the Financial Accounting Standards Board ( FASB ) issued new guidance on the classification of certain cash receipts and payments in the statement of cash flows. The new guidance is intended to reduce diversity in practice in how certain transactions are classified in the statement of cash flows. The Company will be required to adopt the new guidance beginning with its first fiscal quarter of 2018; early adoption is permitted. The Company is currently assessing the impact that the new guidance will have on its consolidated statements of cash flows. 
+    
+  In June 2016, the FASB issued new guidance on the measurement of credit losses on financial instruments. The new guidance will replace the incurred loss methodology of recognizing credit losses on financial instruments that is currently required with a methodology that estimates the expected credit loss on financial instruments and reflects the net amount  
+  
+    5 
+
+     Table of Contents  
+  DineEquity, Inc. and Subsidiaries 
+  Notes to Consolidated Financial Statements (Continued) 
+    
+  3. Accounting Policies (Continued) 
+
+expected to be collected on the financial instrument. Application of the new guidance may result in the earlier recognition of credit losses as the new methodology will require entities to consider forward-looking information in addition to historical and current information used in assessing incurred losses. The Company will be required to adopt the new guidance on a modified retrospective basis beginning with its first fiscal quarter of 2020, with early adoption permitted in its first fiscal quarter of 2019. The Company is currently evaluating the impact of the new guidance on its consolidated financial statements and related disclosures and whether early adoption will be elected. 
+    
+  In March 2016, the FASB issued new guidance that addresses accounting for certain aspects of share-based payments, including excess tax benefits or deficiencies, forfeiture estimates, statutory tax withholding and cash flow classification of certain share-based payment activity. The Company will be required to adopt the new guidance beginning with its first fiscal quarter of 2017. Early adoption is permitted as long as all amendments addressed in the new guidance are adopted in the same period. The method of adoption varies based on each specific aspect addressed in the new guidance.  
+    
+  The Company believes one impact of the new guidance on its financial statements will be the recording of excess tax benefits or deficiencies in its provision for income taxes upon adoption of the new guidance instead of the current recording in additional paid-in capital. The Company is currently evaluating the impact of other aspects of the new guidance on its consolidated financial statements and disclosures. 
+    
+  In February 2016, the FASB issued new guidance with respect to the accounting for leases. The new guidance will require lessees to recognize a right-of-use asset and a lease liability for virtually all leases, other than leases with a term of 12 months or less, and to provide additional disclosures about leasing arrangements. Accounting by lessors is largely unchanged from existing accounting guidance. The Company will be required to adopt the new guidance on a modified retrospective basis beginning with its first fiscal quarter of 2019. Early adoption is permitted. 
+    
+  While the Company is still in the process of evaluating the impact of the new guidance on its consolidated financial statements and disclosures, the Company expects adoption of the new guidance will have a material impact on its Consolidated Balance Sheets due to recognition of the right-of-use asset and lease liability related to its operating leases. While the new guidance is also expected to impact the measurement and presentation of elements of expenses and cash flows related to leasing arrangements, the Company does not presently believe there will be a material impact on its Consolidated Statements of Comprehensive Income or Consolidated Statements of Cash Flows.  
+    
+  In May 2014, the FASB issued new accounting guidance on revenue recognition, which provides for a single, five-step model to be applied to all revenue contracts with customers. The new standard also requires additional financial statement disclosures that will enable users to understand the nature, amount, timing and uncertainty of revenue and cash flows relating to customer contracts. Companies have an option to use either a retrospective approach or cumulative effect adjustment approach to implement the standard. In August 2015, the FASB deferred the effective date of the new revenue guidance by one year such that the Company will be required to adopt the new guidance beginning with its first fiscal quarter of 2018. During 2016, the FASB issued three clarifications on specific topics within the new revenue recognition guidance that did not change the core principles of the guidance originally issued in May 2014. 
+    
+  This new guidance supersedes nearly all of the existing general revenue recognition guidance under U.S. GAAP as well as most industry-specific revenue recognition guidance, including guidance with respect to revenue recognition by franchisors. The Company believes the recognition of the majority of its revenues, including franchise royalty revenues, sales of IHOP pancake and waffle dry mix and retail sales at company-operated restaurants, will not materially be affected by the new guidance. Additionally, lease rental revenues and financing interest revenue are not within the scope of the new revenue guidance.  The Company is currently evaluating the impact of the new guidance on its consolidated financial statements and related disclosures and which method of adoption will be used. 
+    
+  The Company reviewed all other newly issued accounting pronouncements and concluded that they either are not applicable to the Company or are not expected to have a material effect on the Company's consolidated financial statements as a result of future adoption. 
+
+6 
+
+Table of Contents  
+  DineEquity, Inc. and Subsidiaries 
+  Notes to Consolidated Financial Statements (Continued) 
+
+4. Stockholders' Equity 
+    
+  Dividends 
+    
+   During the   nine months ended September 30, 2016  , the Company paid dividends on common stock of   $50.8 million  , representing cash dividends of   $0.92   per share declared in the fourth quarter of 2015 and the first and second quarters of 2016. On July 28, 2016, the Company's Board of Directors declared a third quarter 2016 cash dividend of   $0.92   per share of common stock. This dividend was paid on October 7, 2016 to the Company's stockholders of record at the close of business on September 16, 2016. The Company reported a payable for this dividend of   $16.7 million   at   September 30, 2016  .  
+    
+  On October 31, 2016, the Company's Board of Directors declared a fourth quarter 2016 cash dividend of   $0.97   per share of common stock, payable on January 6, 2017 to stockholders of record at close of business on December 16, 2016. 
+    
+  Stock Repurchase Program 
+    
+  In October 2015, the Company's Board of Directors approved a stock repurchase program authorizing the Company to repurchase up to   $150 million   of DineEquity common stock (the  2015 Repurchase Program ) on an opportunistic basis from time to time in open market transactions and in privately negotiated transactions based on business, market, applicable legal requirements and other considerations. The 2015 Repurchase Program, as approved by the Board of Directors, does not require the repurchase of a specific number of shares and can be terminated at any time. During the   nine months ended September 30, 2016  , the Company repurchased   525,550   shares of common stock at a cost of   $45.0 million   under the 2015 Repurchase Program. As of   September 30, 2016  , the Company has repurchased a cumulative total of   730,037   shares of common stock under the 2015 Repurchase Program at a total cost of   $62.5 million  . As of   September 30, 2016  , a total of   $87.5 million   remains available for additional repurchases under the 2015 Repurchase Program. 
+    
+  Treasury Stock 
+    
+  Repurchases of DineEquity common stock are included in treasury stock at the cost of shares repurchased plus any transaction costs. Treasury stock may be re-issued when stock options are exercised, when restricted stock awards are granted and when restricted stock units settle in stock upon vesting. The cost of treasury stock re-issued is determined using the first-in, first-out ( FIFO ) method. During the   nine months ended September 30, 2016  , the Company re-issued   130,538   shares of treasury stock at a total FIFO cost of   $4.7 million  .  
+
+5. Income Taxes 
+    
+  The Company's effective tax rate was   35.2%   for the   nine months ended September 30, 2016   as compared to   38.4%   for the   nine months ended September 30, 2015  .   T  he effective tax rate in 2016 was lower primarily due to application of a lower state tax rate to the deferred tax balances. 
+    
+   The total gross unrecognized tax benefit as of   September 30, 2016   and   December 31, 2015   was   $3.7 million   and   $3.9 million  , respectively, excluding interest, penalties and related tax benefits. The Company estimates the unrecognized tax benefit may decrease over the upcoming 12 months by an amount up to   $1.5 million   related to settlements with taxing authorities and the lapse of statutes of limitations. For the remaining liability, due to the uncertainties related to these tax matters, the Company is unable to make a reasonably reliable estimate as to when cash settlement with a taxing authority will occur. 
+    
+  As of   September 30, 2016  , accrued interest was   $1.0 million   and accrued penalties were less than   $0.1 million  , excluding any related income tax benefits. As of   December 31, 2015  , accrued interest was   $4.9 million   and accrued penalties were less than   $0.1 million  , excluding any related income tax benefits. The decrease of   $3.9 million   of accrued interest is primarily related to resolution of recent audits with taxing authorities. The Company recognizes interest accrued related to unrecognized tax benefits and penalties as a component of its income tax provision recognized in the Consolidated Statements of Comprehensive Income. 
+    
+  The Company files federal income tax returns and the Company or one of its subsidiaries files income tax returns in various state and foreign jurisdictions. The Company is no longer subject to federal, state or non-United States tax examinations by tax authorities for years before 2011. During the third quarter of 2016, the Company resolved the appeals process with the Internal Revenue Service related to its examination of the Company s U.S federal income tax return for the tax years 2008 to 2010. The reserve previously provided related to the issues under appeal was adequate and did not require any additional adjustment. 
+
+7 
+
+Table of Contents  
+  DineEquity, Inc. and Subsidiaries 
+  Notes to Consolidated Financial Statements (Continued) 
+
+6. Stock-Based Compensation 
+    
+  The following table summarizes the components of stock-based compensation expense included in general and administrative expenses in the Consolidated Statements of Comprehensive Income: 
+
+As of   September 30, 2016  , total unrecognized compensation expense of   $14.7 million   related to restricted stock and restricted stock units and   $4.5 million   related to stock options are expected to be recognized over a weighted average period of   1.55   years for restricted stock and restricted stock units and   1.51 years   for stock options. 
+    
+  Equity Classified Awards - Stock Options 
+    
+  The estimated fair value of the stock options granted during the   nine months ended September 30, 2016   was calculated using a Black-Scholes option pricing model. The following summarizes the assumptions used in the Black-Scholes model: 
+
+Stock option balances as of   September 30, 2016   and related activity for the   nine months ended September 30, 2016   were as follows: 
+
+The aggregate intrinsic value in the table above represents the total pre-tax intrinsic value (the difference between the closing stock price of the Company s common stock on the last trading day of the   third quarter   of   2016   and the exercise price, multiplied by the number of in-the-money options) that would have been received by the option holders had all option holders exercised their options on   September 30, 2016  . The aggregate intrinsic value will change based on the fair market value of the Company s common stock and the number of in-the-money options. 
+
+8 
+
+     Table of Contents  
+  DineEquity, Inc. and Subsidiaries 
+  Notes to Consolidated Financial Statements (Continued) 
+    
+  6. Stock-Based Compensation (Continued) 
+
+Equity Classified Awards - Restricted Stock and Restricted Stock Units 
+    
+  Outstanding balances as of   September 30, 2016   and activity related to restricted stock and restricted stock units for the   nine months ended September 30, 2016   were as follows: 
+
+Liability Classified Awards - Long-Term Incentive Awards 
+  The Company has granted cash long-term incentive awards ( LTIP awards ) to certain employees. Annual LTIP awards vest over a   three  -year period and are determined using a multiplier from   0%   to   200%   of the target award based on the total stockholder return of DineEquity common stock compared to the total stockholder returns of a peer group of companies. Although LTIP awards are only paid in cash, since the multiplier is based on the price of the Company's common stock, the awards are considered stock-based compensation in accordance with U.S. GAAP and are classified as liabilities. For the   three months ended September 30, 2016   and   2015  , a credit of   $0.5 million   and an expense of   $0.3 million  , respectively, were included in total stock-based compensation expense related to LTIP awards. For the   nine months ended September 30, 2016   and   2015  , an expense of   $0.6 million   and a credit of   $0.5 million  , respectively, were included in total stock-based compensation expense related to LTIP awards. At   September 30, 2016   and   December 31, 2015  , liabilities of   $2.3 million   and   $1.6 million  , respectively, related to LTIP awards were included as part of accrued employee compensation and benefits in the Consolidated Balance Sheets.  
+
+7. Segments 
+    
+  The Company has   four   operating segments: franchise operations (an aggregation of Applebee s and IHOP franchise operations), rental operations, company-operated restaurant operations and financing operations. The Company views all operating segments as reportable segments regardless of whether any segment exceeds 10% of consolidated revenues, segment profit or total assets.  
+    
+  As of   September 30, 2016  , the franchise operations segment consisted of (i)   2,027   restaurants operated by Applebee s franchisees in the United States,   two   U.S. territories and   15   countries outside the United States and (ii)   1,699   restaurants operated by IHOP franchisees and area licensees in the United States,   three   U.S. territories and   10   countries outside the United States. Franchise operations revenue consists primarily of franchise royalty revenues, sales of proprietary products to franchisees (primarily pancake and waffle dry mixes for the IHOP restaurants), franchise advertising fees from domestic IHOP restaurants and international restaurants of both brands and franchise fees.  Franchise operations expenses include advertising expenses from domestic IHOP restaurants and international restaurants of both brands, the cost of IHOP proprietary products, IHOP and Applebee's pre-opening training expenses and other franchise-related costs.  
+    
+  Rental operations revenue includes revenue from operating leases and interest income from direct financing leases. Rental operations expenses are costs of operating leases and interest expense from capital leases on franchisee-operated restaurants.  
+    
+  At   September 30, 2016  , the company restaurant operations segment consisted of   10   IHOP company-operated restaurants, all of which are located in the United States. Company restaurant sales are retail sales at company-operated restaurants. Company restaurant expenses are operating expenses at company-operated restaurants and include food, labor, utilities, rent and other restaurant operating costs. 
+    
+   Financing operations revenue primarily consists of interest income from the financing of franchise fees and equipment leases and sales of equipment associated with refranchised IHOP restaurants. Financing expenses are primarily the cost of restaurant equipment associated with refranchised IHOP restaurants. 
+
+9 
+
+     Table of Contents  
+  DineEquity, Inc. and Subsidiaries 
+  Notes to Consolidated Financial Statements (Continued) 
+    
+  7. Segments (Continued) 
+
+Information on segments is as follows: 
+
+10 
+
+Table of Contents  
+  DineEquity, Inc. and Subsidiaries 
+  Notes to Consolidated Financial Statements (Continued) 
+
+8. Net Income per Share 
+    
+  The computation of the Company's basic and diluted net income per share is as follows:  
+
+11 
+
+Table of Contents  
+  DineEquity, Inc. and Subsidiaries 
+  Notes to Consolidated Financial Statements (Continued) 
+
+9. Fair Value Measurements 
+  The Company does not have a material amount of financial assets or liabilities that are required under U.S. GAAP to be measured on a recurring basis at fair value. The Company is not a party to any derivative financial instruments. The Company does not have a material amount of non-financial assets or non-financial liabilities that are required under U.S. GAAP to be measured at fair value on a recurring basis. The Company has not elected to use the fair value measurement option, as permitted under U.S. GAAP, for any assets or liabilities for which fair value measurement is not presently required.  
+    
+  The Company believes the fair values of cash equivalents, accounts receivable and accounts payable approximate their carrying amounts due to their short duration. 
+    
+  The fair values of the Company's Series 2014-1 Class A-2 Notes (the  Class A-2 Notes ) at   September 30, 2016   and   December 31, 2015   were as follows: 
+
+The fair values were determined based on Level 2 inputs, including information gathered from brokers who trade in the Company s Class A-2 Notes and information on notes that are similar to those of the Company. 
+
+10. Commitments and Contingencies  
+    
+  Litigation, Claims and Disputes 
+    
+  The Company is subject to various lawsuits, administrative proceedings, audits and claims arising in the ordinary course of business. Some of these lawsuits purport to be class actions and/or seek substantial damages. The Company is required under U.S. GAAP to record an accrual for litigation loss contingencies that are both probable and reasonably estimable. Legal fees and expenses associated with the defense of all of the Company's litigation are expensed as such fees and expenses are incurred. Management regularly assesses the Company's insurance coverage, analyzes litigation information with the Company's attorneys and evaluates the Company's loss experience in connection with pending legal proceedings. While the Company does not presently believe that any of the legal proceedings to which it is currently a party will ultimately have a material adverse impact on the Company, there can be no assurance that the Company will prevail in all the proceedings the Company is party to, or that the Company will not incur material losses from them. 
+    
+  Lease Guarantees 
+    
+  In connection with the sale of Applebee s restaurants or previous brands to franchisees and other parties, the Company has, in certain cases, guaranteed or has potential continuing liability for lease payments totaling   $372.5 million   as of   September 30, 2016  . This amount represents the maximum potential liability for future payments under these leases. These leases have been assigned to the buyers and expire at the end of the respective lease terms, which range from   2016   through   2048  . In the event of default, the indemnity and default clauses in the sale or assignment agreements govern the Company's ability to pursue and recover damages incurred.   No   material lease payment guarantee liabilities have been recorded as of   September 30, 2016  .  
+
+11. Facility Exit Costs 
+    
+  In September 2015, the Company approved a plan to consolidate many core restaurant and franchisee support functions at its headquarters in Glendale, California and communicated the plan to employees. In conjunction with this action, the Company will exit a significant portion of the Applebee's restaurant support center in Kansas City, Missouri. The Company estimates it will incur a total of approximately   $7 million   in employee termination benefits, primarily severance and relocation costs, associated with the consolidation, of which   $5.8 million   has been incurred through September 30, 2016.  The Company also estimates it will incur approximately   $4 million   in costs related to the exit of the facility, of which   $2.5 million   has been incurred through September 30, 2016.  
+
+12 
+
+     Table of Contents  
+  DineEquity, Inc. and Subsidiaries 
+  Notes to Consolidated Financial Statements (Continued) 
+    
+  11. Facility Exit Costs (Continued) 
+
+During the   nine months ended September 30, 2016  , the Company incurred   $1.2 million   of employee termination costs, primarily relocation and severance costs associated with the consolidation. These charges were included as general and administrative expenses in the Consolidated Statements of Comprehensive Income. 
+    
+  During the   nine months ended September 30, 2016  , the Company negotiated the termination of its lease on two of four floors of the Kansas City facility and recorded charges of   $2.5 million   related to this termination that were included as closure and impairment charges in the Consolidated Statements of Comprehensive Income. 
+
+At   September 30, 2016  , the   $0.3 million   of accrued termination costs was included in accrued employee compensation and benefits. At   December 31, 2015  ,   $3.3 million   of accrued termination costs was included in accrued employee compensation and benefits and   $0.2 million   was included in other accrued expenses in the Consolidated Balance Sheet. 
+
+13 
+
+Table of Contents  
+
+Item 2.  Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+    
+  Cautionary Statement Regarding Forward-Looking Statements 
+    
+  Statements contained in this report may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements involve known and unknown risks, uncertainties and other factors, which may cause actual results to be materially different from those expressed or implied in such statements. You can identify these forward-looking statements by words such as  may,   will,   should,   could,   expect,   anticipate,   believe,   estimate,   intend,   plan  and other similar expressions. You should consider our forward-looking statements in light of the risks discussed under the heading  Risk Factors  in our most recent Annual Report on Form 10-K, as well as our consolidated financial statements, related notes, and the other financial information appearing elsewhere in this report and our other filings with the United States Securities and Exchange Commission. The forward-looking statements contained in this report are made as of the date hereof and the Company assumes no obligation to update or supplement any forward-looking statements. 
+    
+  You should read the following Management's Discussion and Analysis of Financial Condition and Results of Operations ( MD A ) in conjunction with the consolidated financial statements and the related notes that appear elsewhere in this report. 
+
+Business Overview 
+    
+  The following discussion and analysis provides information which we believe is relevant to an assessment and understanding of our consolidated results of operations and financial condition. The discussion should be read in conjunction with the consolidated financial statements and the notes thereto included in Item 1 of Part I of this Quarterly Report and the audited consolidated financial statements and notes thereto and MD A contained in the Company s Annual Report on Form 10-K for the fiscal year ended   December 31, 2015  . Except where the context indicates otherwise, the words  we,   us,   our,   DineEquity  and the  Company  refer to DineEquity, Inc., together with its subsidiaries that are consolidated in accordance with United States generally accepted accounting principles ( U.S. GAAP ). 
+    
+  Through various subsidiaries, we own and franchise the Applebee's Neighborhood Grill   Bar        ( Applebee's ) concept in the bar and grill segment within the casual dining category of the restaurant industry, and we own, franchise and operate the International House of Pancakes        ( IHOP ) concept in the family dining category of the restaurant industry. References herein to Applebee's        and IHOP        restaurants are to these two restaurant concepts, whether operated by franchisees, area licensees and their sub-licensees (collectively,  area licensees ) or by us. With over 3,700 restaurants combined, virtually all of which are franchised, we believe we are one of the largest full-service restaurant companies in the world. The June 20, 2016 issue of   Nation's Restaurant News   reported that IHOP and Applebee's were the largest restaurant systems in the family dining and casual dining categories, respectively, in terms of United States system-wide sales for 2015. This marks the ninth consecutive year our two brands have achieved the number one ranking in their respective categories in   Nation's Restaurant News  . 
+    
+  Key Performance Indicators 
+    
+  In evaluating the performance of each restaurant concept, we consider the key performance indicators to be net franchise restaurant development and the percentage change in domestic system-wide same-restaurant sales. Since we are a 99% franchised company, expanding the number of Applebee's and IHOP franchise restaurants is an important driver of revenue growth. Growth in both the number of franchise restaurants and sales at those restaurants will drive franchise revenues in the form of higher royalty revenues, additional franchise fees and, in the case of IHOP restaurants, sales of proprietary pancake and waffle dry mix.  
+    
+  An overview of these key performance indicators for the three and   nine months ended September 30, 2016   is as follows: 
+                                       
+    Three months ended September 30, 
+      
+    Nine months ended September 30, 
+        
+    Applebee's 
+      
+    IHOP 
+      
+    Applebee's 
+      
+    IHOP 
+      Net franchise restaurant development (reduction)    (1)  
+
+14 
+
+(6 
+    ) 
+      
+    26 
+      
+      % (decrease) increase in domestic system-wide same-restaurant sales 
+    (5.2 
+    )% 
+      
+    (0.1 
+    )% 
+      
+    (4.4 
+    )% 
+      
+    0.5 
+    % 
+
+________________________________ 
+   (1)      Franchise and area license restaurant openings, net of closings 
+  Detailed information on each of these key performance indicators is presented under the captions  Restaurant Development Activity,   Domestic Same-Restaurant Sales  and  Restaurant Data  that follow. 
+  
+    14 
+
+     Table of Contents  
+
+Gross development by Applebee's franchisees for the   three months ended September 30, 2016   was equal to the same period of the prior year, while gross development by Applebee's franchisees for the   nine months ended September 30, 2016   was lower than the same period of 2015. Applebee's net development for both the three and   nine months ended September 30, 2016   was lower than the same respective periods of the prior year due to a slight increase in the number of Applebee's restaurant closures.  
+  
+    15 
+
+     Table of Contents  
+
+Both the gross and net development by IHOP franchisees for the three and   nine months ended September 30, 2016   was higher than the respective periods of 2015. The increases primarily were due to higher gross and net development by international IHOP franchisees. On a combined basis, DineEquity gross and net franchise restaurant development for the three and   nine months ended September 30, 2016   was higher than the respective periods of the prior year.  
+  For the full year of   2016  , we expect IHOP franchisees to open a total of 65 to 77 new restaurants and Applebee's franchisees to open a total of 25 to 33 new restaurants. The majority of openings for each brand is expected to be in domestic markets. The actual number of openings in 2016 may differ from both our expectations and development commitments. Historically, the actual number of restaurants developed in a particular year has been less than the total number committed to be developed due to various factors, including economic conditions and franchisee noncompliance with restaurant opening commitments in development agreements. The timing of new restaurant openings also may be affected by other factors including weather-related and other construction delays, difficulties in obtaining timely regulatory approvals and the impact of currency fluctuations on our international franchisees. 
+    
+  Domestic Same-Restaurant Sales    
+    
+   We believe that, while the U.S. economy has continued to grow in 2016, the rate of growth has been slower than in 2015 and average wages have grown at a slower pace than the overall economy. In addition, restaurants have been faced with increased competition from prepared food retailers and a widening gap between the cost of food purchased for consumption at home and the cost of food purchased at restaurants.  As a result, consumers seem to be allocating less disposable personal income to restaurant visits. Based on data from Black Box Intelligence ( Black Box ), a restaurant sales reporting firm, the third quarter of 2016 was the weakest quarter for the overall restaurant industry since the second quarter of 2010.   
+     
+  Applebee s domestic system-wide same-restaurant sales   decreased     5.2%   for the   three months ended September 30, 2016   from the same period in 2015. The decrease resulted from a decline in customer traffic that was only partially offset by a higher average customer check. The decline in Applebee's quarter-over-quarter customer traffic has grown progressively larger from the first quarter of 2015 to the third quarter of 2016. We made an incremental investment of $2.5 million during the third quarter of 2016 to test additional marketing initiatives to help address that trend.  
+    
+  Applebee s domestic system-wide same-restaurant sales   decreased     4.4%   for the   nine months ended September 30, 2016   from the same period in 2015, also due to a decline in customer traffic that was only partially offset by a higher average customer check. Same-restaurant sales for the first nine months of   2016   are not necessarily indicative of results expected for the full year. 
+    
+  Based on data from Black Box, the casual dining segment of the restaurant industry also experienced a decline in customer traffic and an overall decline in same-restaurant sales during the three and   nine months ended September 30, 2016   compared to the respective periods of the prior year. Applebee's declines in traffic and same-restaurant sales were larger than those experienced by the overall casual dining segment.  
+  
+    16 
+
+     Table of Contents  
+
+IHOP s domestic system-wide same-restaurant sales   decreased     0.1%   for the   three months ended September 30, 2016   from the same period in 2015, the first quarterly decrease in comparative same-restaurant sales for IHOP since the first quarter of 2013. The decrease resulted from a decline in customer traffic that was nearly offset by an increase in average customer check. IHOP's quarter-over-quarter customer traffic has decreased for the past four quarters after increasing in the five consecutive quarters from the third quarter of 2014 to the third quarter of 2015. IHOP's domestic system-wide same-restaurant sales increased   0.5%   for the   nine months ended September 30, 2016   from the same period in 2015, due to a higher average customer check, partially offset by a decrease in customer traffic. Same-restaurant sales for the first nine months of   2016   are not necessarily indicative of results expected for the full year. 
+    
+  Based on data from Black Box, the family dining segment of the restaurant industry experienced an increase in same-restaurant sales during both the three and   nine months ended September 30, 2016  , compared to the same respective periods of the prior year, due to a higher average customer check partially offset by a decrease in customer traffic. IHOP's increase in same-restaurant sales was greater than that of the family dining segment as reported by Black Box for the   nine months ended September 30, 2016  .  IHOP's decrease in customer traffic was greater than that of the family dining segment for the   three months ended September 30, 2016  , while IHOP's decrease in customer traffic was the same as that of the family dining segment for the   nine months ended September 30, 2016  . 
+    
+  As reported by Black Box, customer traffic declined for the overall restaurant industry as well as for both the casual dining and family dining segments of the restaurant industry during the three and   nine months ended September 30, 2016  . With respect to both our brands, a decline in customer traffic may be offset in the short term by an increase in average customer check resulting from an increase in menu prices, a favorable change in product sales mix, or a combination thereof. A sustained decline in same-restaurant customer traffic that cannot be offset by an increase in average customer check could have an adverse effect on our business, results of operations and financial condition due to, among other things, reduced royalty revenues, higher bad debt expense resulting from the failure or inability of franchisees to pay amounts owed to us when due, and a possible decline in the number of franchise restaurants because of reduced development or restaurant closures.  
+    
+  We strive to identify and create opportunities for growth in customer traffic and frequency, average check and same-restaurant sales. We focus on building our brands with a long-term view through a strategic combination of menu, media, remodel and development initiatives to continually innovate and evolve both brands. To drive each brand forward, we seek to innovate and remain actively focused on driving sustainable sales and traffic.  
+
+17 
+
+     Table of Contents  
+
+Restaurant Data 
+    
+  The following table sets forth the number of  Effective Restaurants  in the Applebee s and IHOP systems and information regarding the percentage change in sales at those restaurants compared to the same periods in the prior year. Sales at restaurants that are owned by franchisees and area licensees are not attributable to the Company and, as such, the percentage change in sales at Effective Restaurants is based on non-GAAP sales data.  However, we believe that presentation of this information is useful in analyzing our revenues because franchisees and area licensees pay us royalties and advertising fees that are generally based on a percentage of their sales, and, where applicable, rental payments under leases that partially may be based on a percentage of their sales. Management also uses this information to make decisions about future plans for the development of additional restaurants as well as evaluation of current operations. 
+
+(a)    Effective Restaurants  are the weighted average number of restaurants open in a given fiscal period, adjusted to account for restaurants open for only a portion of the period. Information is presented for all Effective Restaurants in the Applebee s and IHOP systems, which consist of restaurants owned by franchisees and area licensees as well as those owned by the Company. 
+    
+  (b)    System-wide sales  are retail sales at Applebee s restaurants operated by franchisees and IHOP restaurants operated by franchisees and area licensees, as reported to the Company, in addition to retail sales at company-operated restaurants.  Sales at restaurants that are owned by franchisees and area licensees are not attributable to the Company. An increase in franchisees' reported sales will result in a corresponding increase in our royalty revenue, while a decrease in franchisees' reported sales will result in a corresponding decrease in our royalty revenue.Unaudited reported sales for Applebee's domestic franchise restaurants, IHOP franchise restaurants and IHOP area license restaurants were as follows: 
+  
+    18 
+
+     Table of Contents  
+
+(c)    Sales percentage change  reflects, for each category of restaurants, the percentage change in sales in any given fiscal period compared to the prior fiscal period for all restaurants in that category. 
+    
+  (d)    Domestic same-restaurant sales percentage change  reflects the percentage change in sales in any given fiscal period, compared to the same weeks in the prior fiscal period, for domestic restaurants that have been operated throughout both fiscal periods that are being compared and have been open for at least 18 months. Because of new restaurant openings and restaurant closures, the domestic restaurants open throughout both fiscal periods being compared may be different from period to period. Domestic same-restaurant sales percentage change does not include data on IHOP area license restaurants.   
+
+CONSOLIDATED RESULTS OF OPERATIONS 
+  Comparison of the Three and   Nine Months Ended     September 30, 2016   and   2015    
+    
+  Events Impacting Comparability of Financial Results 
+  Refranchising of 23 Applebee's Company-operated Restaurants 
+    
+   In July 2015, we completed the refranchising and sale of related restaurant assets of 23 Applebee s company-operated restaurants in the Kansas City, Missouri market area. As the result of this transaction, we only recognized royalty revenues from these 23 restaurants in 2016, whereas in 2015 we recognized restaurant revenues and operating costs prior to the refranchising and royalty revenues thereafter. The impact of this refranchising on our consolidated revenue and gross profit for the three and   nine months ended September 30, 2016   was as follows: 
+
+Consolidation of Kansas City Restaurant Support Center 
+    
+  In September 2015, we announced a strategic decision to consolidate many core Applebee's restaurant and franchisee support functions and relocate them from Kansas City, Missouri to our Glendale, California headquarters. In conjunction with this action, we estimate we will incur a total of approximately $9 million in employee termination costs and in other personnel-related costs, primarily recruiting costs, associated with this consolidation.  We estimate we will incur approximately $5 million in costs related to the reduction in our space requirements at the Kansas City facility, primarily facility exit costs and increased depreciation charges. We expect the consolidation process to be complete by the end of 2016.  
+    
+  During the second quarter of 2016, we negotiated the termination of our lease on two of four floors of the Kansas City facility and recorded charges of $2.5 million related to this termination as part of closure and impairment costs in the Consolidated Statement of Comprehensive Income. Remaining Kansas City employees will be consolidated to a single floor. We expect to record an additional charge of approximately $1 million once the remaining space we will no longer occupy is available for sublease, which is estimated to be in the fourth quarter of 2016. 
+
+19 
+
+     Table of Contents  
+
+Costs incurred related to the consolidation for the three and   nine months ended September 30, 2016  , as well as cumulative  costs incurred are as follows: 
+
+Adjustment to Deferred Tax Liabilities 
+    
+  As a result of the consolidation action discussed above, our estimated state tax rate that will be effective when temporary book/tax differences are realized in the future will be lower than the effective state tax rate that was used to record net deferred tax liabilities when the temporary book/tax differences arose. Primarily because of this lower rate, we reduced deferred tax liabilities and our 2016 income tax provision by approximately $2.0 million during the second quarter of 2016. This change lowered our combined effective tax rate for the   nine months ended September 30, 2016   from what would have been 36.9%, without the adjustment, to 35.2%. 
+  Financial Results 
+
+Our net income for the   three months ended September 30, 2016   was essentially the same as in the third quarter of 2015. Our general and administrative expenses ( G A ) and our effective tax rate were lower in 2016, but these favorable items were offset by a decrease in gross profit and a loss on disposition of assets in 2016 compared to a gain on disposition of assets in 2015. The reasons for these changes are discussed in detail in the respective sections that follow. Despite flat earnings, our net income per diluted share for the   three months ended September 30, 2016   increased compared with the same period of the prior year due to a smaller number of weighted average shares outstanding.  
+  Our net income for the   nine months ended September 30, 2016   declined $3.0 million compared with the same period of the prior year. The decline in net income was due to a decrease in gross profit, costs of $2.5 million incurred to terminate a lease, a loss on disposition of assets in 2016 compared to a gain on disposition of assets in 2015 and an increase in G A expenses. These unfavorable items were only partially offset by a lower effective tax rate. The reasons for these changes are discussed in detail in the respective sections that follow. However, the percentage decrease in net income per diluted share compared with the same period of the prior year was substantially less than the percentage decrease in net income due to a smaller number of weighted average shares outstanding. 
+  The weighted average shares outstanding for both the three and   nine months ended September 30, 2016   decreased primarily due to our repurchase of approximately 800,000 shares of stock pursuant to stock repurchase programs over the past twelve months. 
+  
+    20 
+
+     Table of Contents  
+
+Total revenue for the three and   nine months ended September 30, 2016   decreased compared with the same period of the prior year, primarily because of the refranchising and sale of related restaurant assets of 23 Applebee's company-operated restaurants in the Kansas City area in July 2015, decreases in Applebee's domestic same-restaurant sales and the expected progressive decline in interest revenue from rental and financing operations as receivable balances are repaid. These unfavorable factors were partially offset by IHOP franchisee restaurant development over the past twelve months. 
+
+The decrease in total gross profit for the   three months ended September 30, 2016   compared with the same period of the prior year was primarily due to a $2.5 million franchisor contribution to the Applebee's marketing fund, a   5.2%     decrease   in Applebee's domestic same-restaurant sales and a decline in rental and financing interest income as receivable balances are repaid. These unfavorable items were partially offset by favorability in pancake and waffle dry mix and IHOP franchise development over the past twelve months.  
+    
+  The decrease in total gross profit for the   nine months ended September 30, 2016   compared with the same period of the prior year was primarily due to a   4.4%     decrease   in Applebee's domestic same-restaurant sales, a $2.5 million franchisor contribution to Applebee's marketing fund, lower financing interest income and the refranchising and sale of related restaurant assets of 23 Applebee's company-operated restaurants in the Kansas City area in July 2015. These unfavorable factors were partially offset by IHOP franchise development over the past twelve months, favorability in pancake and waffle dry mix and lower bad debt expense. 
+  
+    21 
+
+     Table of Contents  
+
+_____________________________________________________ 
+      (1)    Effective Franchise Restaurants are the weighted average number of franchise and area license restaurants open in a given fiscal period, adjusted to account for restaurants open for only a portion of the period. 
+      (2)    Percentages calculated on actual amounts, not rounded amounts presented above. 
+    
+  Applebee s franchise revenue for the   three months ended September 30, 2016     declined   from the same period of the prior year, primarily due to a   5.2%     decrease   in domestic same-restaurant sales and a decline in franchise extension fees. Applebee s franchise revenue for the   nine months ended September 30, 2016     declined   from the same period of the prior year, primarily because of a   4.4%     decrease   in domestic same-restaurant sales and lower franchise fees, partially offset by an increase of $1.0 million of royalty revenues from the 23 refranchised restaurants discussed above. 
+    
+  The increase in IHOP franchise revenue for the   three months ended September 30, 2016   was primarily due to a   2.4%     increase   in Effective Franchise Restaurants and favorability in pancake and waffle dry mix sales, partially offset by a decrease in franchise transfer fees. The increase in IHOP franchise revenue for the   nine months ended September 30, 2016   was primarily due to a   2.2%     increase   in Effective Franchise Restaurants, favorability in pancake and waffle dry mix sales and a   0.5%   increase in franchise domestic same-restaurant sales.  
+    
+  The increases in Applebee's franchise expenses for the three and   nine months ended September 30, 2016   compared with the same periods of the prior year was primarily due to a $2.5 million franchisor contribution to the Applebee's national advertising fund for marketing-related initiatives, as well as an increase in bad debt expense. 
+    
+  The decrease in IHOP franchise expenses for the   three months ended September 30, 2016   compared with the same period of the prior year was primarily due to favorability in pancake and waffle dry mix. The decrease in IHOP franchise expenses for the   nine months ended September 30, 2016   compared with the same period of the prior year was primarily due to favorability in pancake and waffle dry mix and a decrease in bad debt expense.  
+    
+  Advertising contributions designated for IHOP s national advertising fund and local marketing and advertising cooperatives, as well as advertising contributions from international franchise restaurants of both brands, are recognized as revenue and expense of franchise operations. However, because we have less contractual control over Applebee s domestic advertising expenditures, that activity is considered to be an agency relationship and therefore is not recognized as franchise revenue and expense. The increases in advertising revenue and expense for the three and   nine months ended September 30, 2016   were primarily because of the increases in IHOP franchise restaurants as discussed above. 
+    
+  Gross profit as a percentage of revenue declined for three and   nine months ended September 30, 2016   compared to the same respective periods of the prior year primarily because of the $2.5 million franchisor contribution to the Applebee's national advertising fund as well as the increases in advertising revenue which generate no incremental gross profit, partially offset by favorability in pancake and waffle dry mix. 
+  
+    22 
+
+     Table of Contents  
+
+_____________________________________________________ 
+      (1)    Percentages calculated on actual amounts, not rounded amounts presented above. 
+    
+  Rental operations relate primarily to IHOP franchise restaurants. Rental income includes revenue from operating leases and interest income from direct financing leases. Rental expenses are costs of prime operating leases and interest expense on prime capital leases on certain franchise restaurants.  
+    
+  Rental segment revenue for the three and   nine months ended September 30, 2016   was lower than the same periods in the prior year primarily due to the expected progressive declines of $0.3 million and $0.9 million, respectively, in interest income as direct financing leases are repaid, as well as decreases in rental income based on a percentage of franchisees' retail sales. Rental segment expenses decreased for the three and   nine months ended September 30, 2016   compared to the same period of the prior year primarily because of the expected progressive decline in interest expense as capital lease obligations are repaid. 
+
+_____________________________________________________ 
+   (1)    Effective Company Restaurants are the weighted average number of franchise and area license restaurants open in a given fiscal period, adjusted to account for restaurants open for only a portion of the period. 
+   (2)    Percentages calculated on actual amounts, not rounded amounts presented above. 
+    
+  As discussed under  Events Impacting Comparability of Financial Information,  above, we refranchised 23 Applebee s company-operated restaurants in the Kansas City, Missouri market area in July 2015. Company restaurant revenues and expenses for three and   nine months ended September 30, 2016   only reflect the operation of IHOP company restaurants, whereas restaurant revenues and expenses for three and   nine months ended September 30, 2015  , reflect the operation of IHOP company restaurants as well as the 23 Applebee's company restaurants through July, 2015.  
+
+_____________________________________________________ 
+      (1)    Percentages calculated on actual amounts, not rounded amounts presented above. 
+          
+  Financing revenues primarily consist of interest income from the financing of equipment leases and franchise fees, as well as sales of equipment associated with refranchised IHOP restaurants. Financing expenses are primarily the cost of restaurant equipment associated with refranchised IHOP restaurants. 
+  
+    23 
+
+     Table of Contents  
+
+The   decrease   in financing revenue for the three and   nine months ended September 30, 2016   was primarily due to the expected progressive decline of $0.4 million and $1.1 million, respectively, in interest revenue as note balances are repaid. The smaller variances in financing revenues and expenses relate to fewer sales of equipment associated with refranchised IHOP restaurants in 2016 compared to 2015. 
+
+The decrease in G A expenses for the   three months ended September 30, 2016   compared to the same period of the prior year was primarily due to a decrease of $5.5 million in personnel-related costs and a decrease of $0.9 million in depreciation charges, partially offset by an increase of $1.4 million in costs of franchisee conferences. The decrease in personnel-related costs was primarily due to two factors: charges of $3.3 million incurred in the third quarter of 2015 related to the consolidation action discussed under  Events Impacting Comparability of Financial Information,  above that did not recur in 2016; and lower costs of incentive compensation in 2016 of $1.9 million. The increase in costs of franchisee conferences was primarily due to the timing of our brands' franchisee conferences that took place in the third quarter of 2016 as compared to the fourth quarter of 2015. 
+    
+   The increase in G A expenses for the   nine months ended September 30, 2016   compared to the same period of the prior year was primarily due to increases of $2.5 million in costs of franchisee conferences and $1.4 million in recruiting and relocation costs, partially offset by $1.6 million in lower personnel-related costs and lower costs for consumer research of $0.6 million. The increase in costs of franchisee conferences was primarily due to the timing of our brands' franchisee conferences which took place in the third quarter of 2016 as compared to the fourth quarter of 2015. The increase in recruiting and relocation costs was due to personnel movement associated with the consolidation action discussed under  Events Impacting Comparability of Financial Information,  above. The decrease in personnel-related costs was due primarily to charges of $3.3 million incurred in the third quarter of 2015 related to the consolidation action discussed under  Events Impacting Comparability of Financial Information,  above that did not recur in 2016 and lower costs of incentive compensation in 2016, partially offset by higher costs of stock-based compensation, salary and benefits for several senior management positions that were open during portions of the   nine months ended September 30, 2015  .  
+
+Closure and Impairment Charges 
+    
+  Both the amount of and the change in closure and impairment charges for the three months ended September 30, 2016 were not significant. The increase in closure and impairment charges for the   nine months ended September 30, 2016   was primarily due to the $2.5 million of lease termination costs related to the consolidation action discussed under  Events Impacting Comparability of Financial Information  above, partially offset by a decrease in charges related to IHOP and Applebee's restaurants. Closure and impairment charges related to restaurants were $1.5 million for the   nine months ended September 30, 2016  , comprised of approximately $1.0 million of impairment charges and $0.5 million of closure charges. The largest individually significant impairment charge of $0.6 million related to one IHOP company-operated restaurant; the closure charges related to adjustments for IHOP and Applebee's restaurants closed in prior periods.  
+    
+  For the   nine months ended September 30, 2015  , closure and impairment charges were $2.2 million, comprised of $1.5 million in closure charges and $0.7 million of impairment charges. Approximately $1.1 million of closure charges related to two IHOP franchise restaurants closed during 2015, with approximately $0.4 million related to adjustments for IHOP and Applebee's restaurants closed in prior periods. The impairment charges were individually insignificant charges attributable to eight IHOP company-operated restaurants and one parcel of vacant land.   
+  
+    24 
+
+     Table of Contents  
+
+During the   nine months ended September 30, 2016  , we performed assessments to determine whether events or changes in circumstances have occurred which would potentially indicate the carrying value of tangible long-lived assets may not be recoverable. No significant impairments were noted in performing the assessments. We also considered whether there were any indicators of potential impairment to our goodwill and indefinite-lived intangible assets. No such indicators were noted. 
+    
+  Loss (Gain) on Disposition of Assets 
+    
+  As discussed under  Events Impacting Comparability of Financial Information,  above, in July 2015, we completed the refranchising and sale of related restaurant assets of 23 Applebee s company-operated restaurants in the Kansas City area. We received proceeds of approximately $9 million from the sale and recognized a gain of approximately $2 million on the transaction. There were no other individually significant asset dispositions during the three and nine months ended September 30, 2016 and 2015, respectively.  
+    
+  Provision for Income Taxes 
+    
+  Our effective tax rate was   35.3%   for the   three months ended September 30, 2016  , as compared to   38.7%   for the   three months ended September 30, 2015  .   T  he effective tax rate for the three months ended September 30, 2016 was lower primarily due to favorable foreign return-to-provision adjustments that lowered the effective rate for the third quarter of 2016 and an unfavorable adjustment to tax reserves recorded in the third quarter of 2015 that raised the effective rate for three months ended September 30, 2015.  
+    
+   Our effective tax rate was   35.2%   for the   nine months ended September 30, 2016   as compared to   38.4%   for the   nine months ended September 30, 2015  . The lower rate primarily was due to the adjustment to deferred tax balances as a result of the consolidation action discussed under  Events Impacting Comparability of Financial Information,  above. This change lowered our combined effective tax rate for the nine months ended September 30, 2016 from what would have been 36.9%, without the adjustment, to 35.2%.   
+
+Liquidity and Capital Resources 
+    
+  At   September 30, 2016  , our outstanding long-term debt consisted of $1.3 billion of Series 2014-1 4.277% Fixed Rate Senior Notes, Class A-2 (the  Class A-2 Notes ). We also have a revolving financing facility consisting of Series 2014-1 Variable Funding Senior Notes, Class A-1 (the  Variable Funding Notes ), which allows for drawings of up to $100 million of Variable Funding Notes and the issuance of letters of credit.  The Class A-2 Notes and the Variable Funding Notes are referred to collectively as the  Notes.   The Notes were issued in a private securitization transaction pursuant to which substantially all of our domestic revenue-generating assets and our domestic intellectual property are held by certain special-purpose, wholly-owned indirect subsidiaries of the Company (the  Guarantors ) that act as guarantors of the Notes and that have pledged substantially all of their assets to secure the Notes. 
+    
+  While the Notes are outstanding, payment of principal and interest is required to be made on the Class A-2 Notes on a quarterly basis.  The quarterly principal payment of $3.25 million on the Class A-2 Notes may be suspended when the leverage ratio for the Company and its subsidiaries is less than or equal to 5.25x. At   September 30, 2016  , our leverage ratio was   4.61  x (see Exhibit 12.1). Our leverage ratio has been less than 5.25x for each quarterly period since the Notes were issued and accordingly, no payments of principal have been required.  
+    
+  The Variable Funding Notes were not drawn upon at   September 30, 2016   and we have not drawn on them since issuance. At   September 30, 2016  ,   $5.0 million   was pledged against the Variable Funding Notes for outstanding letters of credit, leaving   $95.0 million   of Variable Funding Notes available for borrowings. The letters of credit are used primarily to satisfy insurance-related collateral requirements. 
+    
+  The Notes are subject to customary rapid amortization events for similar types of financing, including events tied to our failure to maintain the stated debt service coverage ratio ( DSCR ), the sum of domestic retail sales for all restaurants being below certain levels on certain measurement dates, certain manager termination events, certain events of default and the failure to repay or refinance the Notes on the Class A-2 Anticipated Repayment Date in September 2021.  The Notes are also subject to certain customary events of default, including events relating to non-payment of required interest, principal or other amounts due on or with respect to the Notes, failure to maintain the stated DSCR, failure to comply with covenants within certain time frames, certain bankruptcy events, breaches of specified representations and warranties and certain judgments. 
+
+25 
+
+     Table of Contents  
+
+Failure to maintain a prescribed DSCR can trigger a Cash Trapping Event, A Rapid Amortization Event, a Manager Termination Event or a Default Event as described below. In a Cash Trapping Event, the Trustee is required to retain a certain percentage of excess Cash Flow (as defined) in a restricted account. In a Rapid Amortization Event, all excess Cash Flow is retained and used to retire principal amounts of debt. Key DSCRs are as follows: 
+    
+     DSCR less than 1.75x but equal to or greater than 1.50x - Cash Trapping Event, 50% of Net Cash Flow 
+     DSCR less than 1.50x - Cash Trapping Event, 100% of Net Cash Flow 
+     DSCR less than 1.30x - Rapid Amortization Event 
+     DSCR less than 1.20x - Manager Termination Event 
+     DSCR less than 1.10x - Default Event 
+    
+  Our DSCR for the reporting period ended   September 30, 2016   was   5.30  x (see Exhibit 12.1). 
+    
+  Dividends 
+    
+  During the   nine months ended September 30, 2016  , we paid dividends on common stock of   $50.8 million  , representing cash dividends of $0.92 per share declared in each of the fourth quarter of 2015 and first and second quarters of 2016. On July 28, 2016, our Board of Directors declared a third quarter 2016 cash dividend of   $0.92   per share of common stock. This dividend was paid on October 7, 2016 to the Company's stockholders of record at the close of business on September 16, 2016. We reported dividends payable of   $16.7 million   at   September 30, 2016  .  
+    
+  On October 31, 2016, our Board of Directors declared a fourth quarter 2016 cash dividend of   $0.97   per share of common stock, payable on January 6, 2017 to the Company's stockholders of record at the close of business on December 16, 2016. This represents an increase of 5.4% from the cash dividend of $0.92 per share of common stock we paid in each of the fourth quarter of 2015 and the first three quarters of 2016. 
+    
+  We evaluate dividend payments on common stock within the context of our overall capital allocation strategy with our Board of Directors on an ongoing basis, giving consideration to our current and forecasted earnings, financial condition, cash requirements and other factors. 
+    
+  Share Repurchases 
+    
+  In October 2015, our Board of Directors approved a stock repurchase program authorizing us to repurchase up to   $150 million   of DineEquity common stock (the  2015 Repurchase Program ) on an opportunistic basis from time to time in open market transactions and in privately negotiated transactions based on business, market, applicable legal requirements and other considerations. The 2015 Repurchase Program, as approved by the Board of Directors, does not require the repurchase of a specific number of shares and can be terminated at any time. A summary of shares repurchased under the 2015 Repurchase Program is as follows: 
+
+We evaluate repurchases of common stock within the context of our overall capital allocation strategy with our Board of Directors on an ongoing basis, giving consideration to our current and forecasted earnings, financial condition, cash requirements and other factors. From time to time, we also repurchase shares owned and tendered by employees to satisfy tax withholding obligations on the vesting of restricted stock awards. Shares are deemed purchased at the closing price of our common stock on the vesting date. See Part II, Item 2 for detail on share repurchase activity during the third quarter of 2016.  
+
+26 
+
+     Table of Contents  
+
+Cash Flows 
+    
+  In summary, our cash flows for the   nine months ended September 30, 2016   and   2015   were as follows: 
+
+Operating Activities 
+    
+  The decrease in cash provided by operating activities for the   nine months ended September 30, 2016   was primarily due to net changes in working capital.  Our net income for the   nine months ended September 30, 2016   decreased $2.9 million compared to the same period of 2015, primarily because of a decrease in gross profit, an increase in closure and impairment charges and G A expenses and a gain on asset disposition in 2015 that did not recur in 2016, partially offset by a lower effective tax rate. Each of these factors was discussed in preceding sections of MD A. Our net income plus the non-cash reconciling items shown in the statement of cash flows (primarily depreciation, deferred taxes, stock-based compensation items and loss/gain on disposition of assets) was essentially the same in both periods.   
+    
+  Net changes in working capital   used   cash of   $36.1 million   during the first   nine   months of   2016   compared to cash   used   of   $28.1 million   during the first   nine   months of   2015  ,   an unfavorable   variance of   $7.9 million  . The unfavorable variance in working capital changes was primarily due to less cash collected from gift card receivables during the   nine months ended September 30, 2016   and an increase in advertising funds and marketing accruals, partially offset by a decrease in cash paid for interest on long-term debt. Each year, a high volume of gift card sales by third-party vendors takes place during the December holiday season, and collection of the receivables from those sales follows shortly thereafter. We have a 52/53 week fiscal year, and our 2015 fiscal year that ended January 3, 2016 contained 53 weeks and the fourth fiscal quarter of 2015 contained 14 weeks. Because of this timing, an extra week of higher-volume holiday gift card collections fell into the fourth fiscal quarter of 2015 as opposed to fiscal 2016. 
+    
+  Under the terms of the Notes issued in the fourth quarter of 2014, our first interest payment, representing five months of accrued interest on the Notes, was made in the first quarter of 2015. All subsequent quarterly payments of interest, including the payments made in the first three quarters of 2016, represented three months of accrued interest on the Notes. As a result, we paid nine months of interest during the   nine months ended September 30, 2016   as compared to 11 months of interest during the   nine months ended September 30, 2015  .  
+    
+  Investing Activities 
+    
+  Investing activities provided net cash of   $10.0 million   for the   nine months ended September 30, 2016  . Principal receipts from notes, equipment contracts and other long-term receivables of   $14.0 million   were partially offset by   $3.5 million   in capital expenditures. Capital expenditures are expected to be approximately $8 million for fiscal   2016  . 
+    
+  Financing Activities 
+    
+  Financing activities used net cash of   $109.1 million   for the   nine months ended September 30, 2016  . Cash used in financing activities primarily consisted of cash dividends paid on our common stock totaling   $50.8 million  , repurchases of our common stock totaling   $45.0 million  , repayments of capital lease obligations of   $10.4 million   ,an increase in restricted cash of   $2.4 million   and a net cash outflow of approximately   $0.4 million   related to equity compensation awards.  
+    
+  Cash and Cash Equivalents 
+    
+  At   September 30, 2016  , our cash and cash equivalents totaled   $107.8 million  , including   $41.5 million   of cash held for gift card programs and advertising funds.  
+    
+  Based on our current level of operations, we believe that our cash flow from operations, available cash and available borrowing capacity under our Variable Funding Notes will be adequate to meet our liquidity needs for the next twelve months.  
+
+27 
+
+     Table of Contents  
+
+Adjusted Free Cash Flow 
+    
+  We define  adjusted free cash flow  for a given period as cash provided by operating activities, plus receipts from notes and equipment contract receivables, less additions to property and equipment. Management uses this liquidity measure in its periodic assessment of, among other things, cash dividends per share of common stock and repurchases of common stock and we believe it is important for investors to have the same measure used by management for that purpose. Adjusted free cash flow does not represent residual cash flow available for discretionary purposes. 
+    
+  Adjusted free cash flow is considered to be a non-U.S. GAAP measure. Reconciliation of the cash provided by operating activities to adjusted free cash flow is as follows: 
+
+This non-U.S. GAAP measure is not defined in the same manner by all companies and may not be comparable to other similarly titled measures of other companies. Non-U.S. GAAP measures should be considered in addition to, and not as a substitute for, the U.S. GAAP information contained within our financial statements. 
+  The decrease in adjusted free cash flow for the   nine months ended September 30, 2016   compared to the same period of the prior year is primarily due to the decrease in cash from operating activities discussed above and a decrease in receipts from notes and equipment contract receivables, partially offset by lower capital expenditures.  
+  Off-Balance Sheet Arrangements 
+    
+   We have obligations for guarantees on certain franchisee lease agreements, as disclosed in Note 10 - Commitments and Contingencies, of Notes to Consolidated Financial Statements of Part I, Item 1 of this Form 10-Q.  Other than such guarantees, we did not have any off-balance sheet arrangements, as defined in Item 303(a)(4) of SEC Regulation S-K as of   September 30, 2016  . 
+    
+  Contractual Obligations and Commitments 
+    
+  There were no material changes to the contractual obligations table as disclosed in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+    
+  Critical Accounting Policies and Estimates 
+    
+  The preparation of financial statements in accordance with U.S. GAAP requires us to make estimates and assumptions affecting the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of net revenues and expenses in the reporting period. We base our estimates and assumptions on current facts, historical experience and various other factors that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities and the accrual of costs and expenses that are not readily apparent from other sources. We continually review the estimates and underlying assumptions to ensure they are appropriate for the circumstances. Accounting assumptions and estimates are inherently uncertain and actual results may differ materially from our estimates. 
+    
+  A summary of our critical accounting estimates is included in Management s Discussion and Analysis of Financial Condition and Results of Operations contained in our Annual Report on Form 10-K for the year ended   December 31, 2015  . During the   nine months ended September 30, 2016  , there were no significant changes in our estimates and critical accounting policies. 
+    
+  See Note 3,  Accounting Policies,  in the Notes to Consolidated Financial Statements for a discussion of recently adopted accounting standards and newly issued accounting standards. 
+
+28 
+
+Table of Contents  
+
+Item 3.  Quantitative and Qualitative Disclosures about Market Risk. 
+    
+  There were no material changes from the information contained in the Company s Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+
+Item 4.  Controls and Procedures. 
+    
+  Disclosure Controls and Procedures. 
+    
+  The Company s management, with the participation of the Company s Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of the Company s disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the  Exchange Act )) as of the end of the period covered by this report. Based on such evaluation, the Company s Chief Executive Officer and Chief Financial Officer have concluded that, as of the end of such period, the Company s disclosure controls and procedures are effective at the reasonable assurance level. 
+    
+  Changes in Internal Control Over Financial Reporting. 
+    
+  There have been no changes in the Company s internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the fiscal quarter to which this report relates that have materially affected, or are reasonably likely to materially affect, the Company s internal control over financial reporting. 
+
+Part II. OTHER INFORMATION 
+
+Item 1.  Legal Proceedings.  
+    
+  We are subject to various lawsuits, administrative proceedings, audits and claims arising in the ordinary course of business. Some of these lawsuits purport to be class actions and/or seek substantial damages. We are required to record an accrual for litigation loss contingencies that are both probable and reasonably estimable. Legal fees and expenses associated with the defense of all of our litigation are expensed as such fees and expenses are incurred. Management regularly assesses our insurance deductibles, analyzes litigation information with our attorneys and evaluates our loss experience in connection with pending legal proceedings. While we do not presently believe that any of the legal proceedings to which we are currently a party will ultimately have a material adverse impact on us, there can be no assurance that we will prevail in all the proceedings we are party to, or that we will not incur material losses from them. 
+
+Item 1A.  Risk Factors. 
+    
+  There are no material changes from the risk factors set forth under Item 1A of Part I of the Company s Annual Report on Form 10-K for the fiscal year ended   December 31, 2015  . 
+
+29 
+
+Table of Contents  
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 
+
+(a)      These amounts include   652   shares owned and tendered by employees at an average price of   $75.93   to satisfy tax withholding obligations arising upon vesting of restricted stock awards during the fiscal month ended August 28, 2016 and   2,572   shares tendered at an average price of   $76.95   during the fiscal month ended October 2, 2016. 
+   (b)      In October 2015, our Board of Directors approved a stock repurchase program authorizing us to repurchase up to   $150 million   of DineEquity common stock on an opportunistic basis from time to time in open market transactions and in privately negotiated transactions, including Rule 10b-5 stock repurchase plans, based on business, market, applicable legal requirements and other considerations. The program does not require the repurchase of a specific number of shares and can be terminated at any time. 
+
+Item 3.  Defaults Upon Senior Securities. 
+    
+  None. 
+
+Item 4.  Mine Safety Disclosures. 
+    
+  Not Applicable. 
+
+Item 5.  Other Information. 
+    
+  None. 
+
+30 
+
+Table of Contents  
+
+Item 6. Exhibits. 
+
+*    Filed herewith. 
+           ** 
+    The certifications attached as Exhibits 32.1 and 32.2 accompany this Quarterly Report pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by the Sarbanes-Oxley Act of 2002, be deemed filed by the Company for purposes of Section 18 of the Securities Exchange Act of 1934, as amended. 
+              ***      
+    Pursuant to Rule 406T of Regulation S-T, the interactive data files on Exhibit 101 hereto are deemed not filed or part of a registration statement or prospectus for purposes of Section 11 or 12 of the Securities Act of 1933, as amended, are deemed not filed for purposes of Section 18 of the Securities and Exchange Act of 1934, as amended, and otherwise are not subject to liability under those sections. 
+                
+    A contract, compensatory plan or arrangement in which directors or executive officers are eligible to participate. 
+
+31 
+
+Table of Contents  
+
+SIGNATURES 
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+DineEquity, Inc. 
+  (Registrant) 
+
+Dated: 
+    November 1, 2016 
+    By: 
+    /s/ Julia A. Stewart 
+
+Julia A. Stewart 
+  Chairman and Chief Executive Officer 
+  (Principal Executive Officer) 
+
+Dated: 
+    November 1, 2016 
+    By: 
+    /s/ Thomas W. Emrey 
+
+Thomas W. Emrey 
+  Chief Financial Officer 
+  (Principal Financial Officer) 
+
+Dated: 
+    November 1, 2016 
+    By: 
+    /s/ Greggory Kalvin 
+
+Greggory Kalvin 
+  Senior Vice President, Corporate Controller 
+  (Principal Accounting Officer) 
+
+32 
+
+<EX-10.1>
+ 2
+ din-2016930x10qxex101.htm
+ NONQUALIFIED DEFERRED COMPENSATION PLAN
+
+Exhibit 
+
+Exhibit 10.1 
+
+DINEEQUITY, INC. 
+  NONQUALIFIED DEFERRED COMPENSATION PLAN 
+    
+  MASTER PLAN DOCUMENT     
+
+TABLE OF CONTENTS 
+           ARTICLE 1   DEFINITIONS 
+    1 
+                                                    ARTICLE 2   SELECTION, ENROLLMENT, ELIGIBILITY 
+    9 
+               2.2 
+    Enrollment and Eligibility Requirements; Commencement of Participation    9 
+              ARTICLE 3   DEFERRAL COMMITMENTS/COMPANY CONTRIBUTION AMOUNTS/VESTING/CREDITING/TAXES 
+    10 
+               3.2 
+    Timing of Deferral Elections; Effect of Election Form    10 
+              3.3 
+    Withholding and Crediting of Annual Deferral Amounts    12 
+                  ARTICLE 4   SCHEDULED DISTRIBUTIONS; UNFORESEEABLE EMERGENCIES 
+    17 
+                4.3 
+    Other Benefits Take Precedence Over Scheduled Distributions    18 
+               ARTICLE 5   CHANGE IN CONTROL BENEFIT 
+    19 
+                                      ARTICLE 12   TERMINATION OF PLAN, AMENDMENT OR MODIFICATION 
+    24 
+
+Purpose 
+  The purpose of this Plan (formerly known as the IHOP Corp., Inc. Deferred Compensation Plan) is to provide specified benefits to Directors and a select group of management or highly compensated Employees who contribute materially to the continued growth, development and future business success of DineEquity, Inc., a Delaware corporation, and its subsidiaries, if any, that sponsor this Plan. This Plan shall be unfunded for tax purposes and for purposes of Title I of ERISA.  The Plan is amended and restated as set forth herein, effective for compensation earned on or after January 1, 2017. 
+  This Plan is intended to comply with all applicable law, including Code Section 409A and related Treasury guidance and Regulations, and shall be operated and interpreted in accordance with this intention. In order to transition to the requirements of Code Section 409A and related Treasury Regulations, the Committee may make available to Participants certain transition relief provided under Notice 2006-79, as described more fully in Appendix A of this Plan. 
+  ARTICLE 1      Definitions 
+  For the purposes of this Plan, unless otherwise clearly apparent from the context, the following phrases or terms shall have the following indicated meanings: 
+           1.1 
+       Account Balance    shall mean, with respect to a Participant, an entry on the records of the Employer equal to the sum of the Participant s Annual Accounts. The Account Balance shall be a bookkeeping entry only and shall be utilized solely as a device for the measurement and determination of the amounts to be paid to a Participant, or his or her designated Beneficiary, pursuant to this Plan. 
+     If a Participant is both an Employee and a Director and participates in the Plan in each capacity, then separate Account Balances (and separate Annual Accounts, if applicable) shall be established for such Participant as a device for the measurement and determination of the (a) amounts deferred under the Plan that are attributable to the Participant s status as an Employee, and (b) amounts deferred under the Plan that are attributable to the Participant s status as a Director. 
+           1.2 
+       Annual Account   shall mean, with respect to a Participant, an entry on the records of the Employer equal to (a) the sum of the Participant s Annual Deferral Amount and Company Contribution Amount and for any one Plan Year, plus (b) amounts credited or debited to such amounts pursuant to this Plan, less (c) all distributions made to the Participant or his or her Beneficiary pursuant to this Plan that relate to the Annual Account for such Plan Year. The Annual Account shall be a bookkeeping entry only and shall be utilized solely as a device for the measurement and determination of the amounts to be paid to a Participant, or his or her designated Beneficiary, pursuant to this Plan. 
+              1.3 
+       Annual Deferral Amount    shall mean that portion of a Participant s Base Salary, Bonus, Director Fees, LTI Awards and LTIP Amounts that a Participant defers in accordance with Article 3 for any one Plan Year, without regard to whether such amounts are withheld and credited during such Plan Year. 
+              1.4 
+       Annual Installment Method    shall mean the method used to determine the amount of each payment due to a Participant who has elected to receive a benefit over a period of years in accordance with the applicable provisions of the Plan. The amount of each annual payment due to the Participant shall be calculated by multiplying the balance of the Participant s benefit by a fraction, the numerator of which is one and the denominator of which is the remaining number of annual payments due to the Participant. The amount of the first annual payment shall be calculated as of the close of business on or around the Participant s Benefit Distribution Date, and the amount of each subsequent annual payment shall be calculated on or around each anniversary of such Benefit Distribution Date. For purposes of this Plan, the right to receive a benefit payment in annual installments shall be treated as the entitlement to a single payment. 
+              1.5 
+       Base Salary    shall mean the annual cash compensation relating to services performed during any calendar year, excluding distributions from nonqualified deferred compensation plans, bonuses, commissions, overtime, fringe benefits, stock options, relocation expenses, incentive payments, non-monetary awards, director fees and other fees, and automobile and other allowances paid to a Participant for employment services rendered (whether or not such allowances are included in the Employee s gross income). Base Salary shall be calculated before reduction for compensation voluntarily deferred or contributed by the Participant pursuant to all qualified or nonqualified plans of any Employer and shall be calculated to include amounts not otherwise included in the Participant's gross income under Code Sections 125, 402(e)(3), 402(h), or 403(b) pursuant to plans established by any Employer; provided, however, that all such amounts will be included in compensation only to the extent that had there been no such plan, the amount would have been payable in cash to the Employee. 
+              1.6 
+       Beneficiary    shall mean one or more persons, trusts, estates or other entities, designated in accordance with Article 10, that are entitled to receive benefits under this Plan upon the death of a Participant. 
+              1.7 
+       Beneficiary Designation Form    shall mean the form established from time to time by the Committee that a Participant completes, signs and returns to the Committee to designate one or more Beneficiaries. 
+              1.8 
+       Benefit Distribution Date    shall mean the date upon which all or an objectively determinable portion of a Participant s vested benefits will become eligible for distribution. Except as otherwise provided in the Plan, a Participant s Benefit Distribution Date shall be determined based on the earliest to occur of an event or scheduled date set forth in Articles 4 through 9, as applicable. 
+              1.9 
+       Board    shall mean the board of directors of the Company. 
+              1.10 
+       Bonus    shall mean any compensation, in addition to Base Salary, LTI Awards and LTIP Amounts, earned by a Participant under any Employer's annual bonus and cash incentive plans. 
+              1.11 
+       Change in Control    shall mean the occurrence of a  change in the ownership,  a  change in the effective control  or a  change in the ownership of a substantial portion of the assets  of a corporation, as determined in accordance with this Section. 
+     In order for an event described below to constitute a Change in Control with respect to a Participant, except as otherwise provided in part (b)(ii) of this Section, the applicable event must relate to the corporation for which the Participant is providing services, the corporation that is liable for payment of the Participant s Account Balance (or all corporations liable for payment if more than one), as identified by the Committee in accordance with Treas. Reg.  1.409A- 3(i)(5)(ii)(A)(2), or such other corporation identified by the Committee in accordance with Treas. Reg.  1.409A-3(i)(5)(ii)(A)(3). 
+  In determining whether an event shall be considered a  change in the ownership,  a  change in the effective control  or a  change in the ownership of a substantial portion of the assets  of a corporation, the following provisions shall apply: 
+           (a) 
+    A  change in the ownership  of the applicable corporation shall occur on the date on which any one person, or more than one person acting as a group, acquires ownership of stock of such corporation that, together with stock held by such person or group, constitutes more than 50% of the total fair market value or total voting power of the stock of such corporation, as determined in accordance with Treas. Reg.  1.409A-3(i)(5)(v). If a person or group is considered either to own more than 50% of the total fair market value or total voting power of the stock of such corporation, or to have effective control of such corporation within the meaning of part (b) of this Section, and such person or group acquires additional stock of such corporation, the acquisition of additional stock by such person or group shall not be considered to cause a  change in the ownership  of such corporation. 
+              (b) 
+    A  change in the effective control  of the applicable corporation shall occur on either of the following dates: 
+     (i)        The date on which any one person, or more than one person acting as a group, acquires (or has acquired during the 12-month period ending on the date of the most recent acquisition by such person or persons) ownership of stock of such corporation possessing 30% or more of the total voting power of the stock of such corporation, as determined in accordance with Treas. Reg.  1.409A-3(i)(5)(vi). If a person or group is considered to possess 30% or more of the total voting power of the stock of a corporation, and such person or group acquires additional stock of such corporation, the acquisition of additional stock by such person or group shall not be considered to cause a  change in the effective control  of such corporation; or 
+  (ii)        The date on which a majority of the members of the applicable corporation s board of directors is replaced during any 12-month period by directors whose appointment or election is not endorsed by a majority of the members of such corporation s board of directors before the date of the appointment or election, as determined in accordance with Treas. Reg.  1.409A-3(i)(5)(vi). In determining whether the event described in the preceding sentence has occurred, the applicable corporation to which the event must relate shall only include a corporation identified in accordance with Treas. Reg.  1.409A-3(i)(5)(ii) for which no other corporation is a majority shareholder. 
+           (c) 
+    A  change in the ownership of a substantial portion of the assets  of the applicable corporation shall occur on the date on which any one person, or more than one person acting as a group, acquires (or has acquired during the 12-month period ending on the date of the most recent acquisition by such person or persons) assets from the corporation that have a total gross fair market value equal to or more than 40% of the total gross fair market value of all of the assets of the corporation immediately before such acquisition or acquisitions, as determined in accordance with Treas. Reg.  1.409A-3(i)(5)(vii). A transfer of assets shall not be treated as a  change in the ownership of a substantial portion of the assets  when such transfer is made to an entity that is controlled by the shareholders of the transferor corporation, as determined in accordance with Treas. Reg.  1.409A- 3(i)(5)(vii)(B). 
+              1.12 
+       Code    shall mean the Internal Revenue Code of 1986, as it may be amended from time to time. 
+              1.13 
+       Committee    shall mean the committee described in Article 13. 
+              1.14 
+       Company    shall mean DineEquity, Inc., a Delaware corporation, and any successor to all or substantially all of the Company s assets or business. 
+              1.15 
+       Company Contribution Amount    shall mean, for any one Plan Year, the amount determined in accordance with Section 3.4. 
+              1.16 
+       Director    shall mean any member of the board of directors of any Employer. 
+              1.17 
+       Director Fees    shall mean the annual fees earned by a Director from any Employer, including retainer fees and meetings fees, as compensation for serving on the board of directors. 
+              1.18 
+       Disability  or  Disabled    shall mean that a Participant is either (a) unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that can be expected to result in death or can be expected to last for a continuous period of not less than 12 months, or (b) by reason of any medically determinable physical or mental impairment that can be expected to result in death or can be expected to last for a continuous period of not less than 12 months, receiving income replacement benefits for a period of not less than 3 months under an accident and health plan covering employees of the Participant s Employer.  For purposes of this Plan, a Participant shall be deemed Disabled if determined to be totally disabled by the Social Security Administration. A Participant shall also be deemed Disabled if determined to be disabled in accordance with the applicable disability insurance program of such Participant s Employer, provided that the definition of  disability  applied under such disability insurance program complies with the requirements of this Section. 
+              1.19 
+       Election Form    shall mean the form, which may be in electronic format, established from time to time by the Committee that a Participant completes, signs and returns to the Committee to make an election under the Plan. 
+              1.20 
+       Employee    shall mean a person who is an employee of an Employer. 
+              1.21 
+       Employer(s)    shall be defined as follows: 
+              (a) 
+    Except as otherwise provided in part (b) of this Section, the term  Employer  shall mean the Company and/or any of its subsidiaries (now in existence or hereafter formed or acquired) that have been selected by the Board to participate in the Plan and have adopted the Plan as a sponsor. 
+              (b) 
+    For the purpose of determining whether a Participant has experienced a Separation from Service, the term  Employer  shall mean: 
+     (i)        The entity for which the Participant performs services and with respect to which the legally binding right to compensation deferred or contributed under this Plan arises; and 
+  (ii)        All other entities with which the entity described above would be aggregated and treated as a single employer under Code Section 414(b) (controlled group of corporations) and Code Section 414(c) (a group of trades or businesses, whether or not incorporated, under common control), as applicable. In order to identify the group of entities described in the preceding sentence, the Committee shall use an ownership threshold of at least 50% as a substitute for the 80% minimum ownership threshold that appears in, and otherwise must be used when applying, the applicable provisions of (A) Code Section 1563 for determining a controlled group of corporations under Code Section 414(b), and (B) Treas. Reg.  1.414(c)- 2 for determining the trades or businesses that are under common control under Code Section 414(c). 
+           1.22 
+       ERISA    shall mean the Employee Retirement Income Security Act of 1974, as it may be amended from time to time. 
+              1.23 
+       401(k) Plan    shall mean, with respect to an Employer, a plan qualified under Code Section 401(a) that contains a cash or deferral arrangement described in Code Section 401(k), adopted by the Employer, as it may be amended from time to time, or any successor thereto. 
+              1.24 
+       LTI Awards    shall mean any portion of any compensation attributable to a Plan Year that is denominated in shares of Stock and is earned by a Participant under the Company s Stock Incentive Plan or any other long-term incentive arrangement maintained by the Company or an Employer and designated by the Committee, and including restricted stock unit awards, performance awards, bonus share awards and any other awards granted by the Company, in each case to the extent deferral of such award is permitted by the Committee, but excluding any stock options and stock appreciation rights granted by the Company. 
+              1.25 
+       LTIP Amounts    shall mean any portion of the compensation attributable to a Plan Year that is denominated in cash and is earned by a Participant under any long-term incentive arrangement maintained by the Company or an Employer and designated by the Committee, in each case to the extent deferral of such award is permitted by the Committee. 
+              1.26 
+       Participant    shall mean any Employee or Director (a) who is selected to participate in the Plan, (b) whose executed Plan Agreement, Election Form and Beneficiary Designation Form are accepted by the Committee, and (c) whose Plan Agreement has not terminated. 
+              1.27 
+       Performance-Based Compensation    shall mean compensation the entitlement to or amount of which is contingent on the satisfaction of pre-established organizational or individual performance criteria relating to a performance period of at least 12 consecutive months, as determined by the Committee in accordance with Treas. Reg.  1.409A-1(e). 
+              1.28 
+       Plan    shall mean the DineEquity, Inc. Nonqualified Deferred Compensation Plan, which shall be evidenced by this instrument, as it may be amended from time to time, and by any other documents that together with this instrument define a Participant s rights to amounts credited to his or her Account Balance. 
+              1.29 
+       Plan Agreement    shall mean a written agreement in the form prescribed by or acceptable to the Committee that evidences a Participant s agreement to the terms of the Plan and which may establish additional terms or conditions of Plan participation for a Participant. Unless otherwise determined by the Committee, the most recent Plan Agreement accepted with respect to a Participant shall supersede any prior Plan Agreements for such Participant. Plan Agreements may vary among Participants and may provide additional benefits not set forth in the Plan or limit the benefits otherwise provided under the Plan. 
+              1.30 
+       Plan Year    shall mean a period beginning on January 1 of each calendar year and continuing through December 31 of such calendar year. 
+              1.31 
+       Retirement,   Retire(s)  or  Retired    shall mean with respect to a Participant who is an Employee, a Separation from Service on or after date on which such Participant's age plus Years of Service equals at least 70, and shall mean with respect to a Participant who is a Director, a Separation from Service on or after the date the Director attains age 70. If a Participant is both an Employee and a Director and participates in the Plan in each capacity, (a) the determination of whether the Participant qualifies for Retirement as an Employee shall be made when the Participant experiences a Separation from Service as an Employee and such determination shall only apply to the applicable Account Balance established in accordance with Section 1.1 for amounts deferred under the Plan as an Employee, and (b) the determination of whether the Participant qualifies for Retirement as a Director shall be made at the time the Participant experiences a Separation from Service as a Director and such determination shall only apply to the applicable Account Balance established in accordance with Section 1.1 for amounts deferred under the Plan as a Director. 
+              1.32 
+       Separation from Service    shall mean a termination of services provided by a Participant to his or her Employer, whether voluntarily or involuntarily, other than by reason of death or Disability, as determined by the Committee in accordance with Treas. Reg.  1.409A-1(h).   In determining whether a Participant has experienced a Separation from Service, the following provisions shall apply: 
+              (a) 
+    For a Participant who provides services to an Employer as an Employee, except as otherwise provided in part (c) of this Section, a Separation from Service shall occur when such Participant has experienced a termination of employment with such Employer. A Participant shall be considered to have experienced a termination of employment when the facts and circumstances indicate that the Participant and his or her Employer reasonably anticipate that either (i) no further services will be performed for the Employer after a certain date, or (ii) that the level of bona fide services the Participant will perform for the Employer after such date (whether as an Employee or as an independent contractor) will permanently decrease to no more than 20% of the average level of bona fide services performed by such Participant (whether as an Employee or an independent contractor) over the immediately preceding 36-month period (or the full period of services to the Employer if the Participant has been providing services to the Employer less than 36 months).   
+              (b) 
+    If a Participant is on military leave, sick leave, or other bona fide leave of absence, the employment relationship between the Participant and the Employer shall be treated as continuing intact, provided that the period of such leave does not exceed 6 months, or if longer, so long as the Participant retains a right to reemployment with the Employer under an applicable statute or by contract. If the period of a military leave, sick leave, or other bona fide leave of absence exceeds 6 months and the Participant does not retain a right to reemployment under an applicable statute or by contract, the employment relationship shall be considered to be terminated for purposes of this Plan as of the first day immediately following the end of such 6-month period. In applying the provisions of this paragraph, a leave of absence shall be considered a bona fide leave of absence only if there is a reasonable expectation that the Participant will return to perform services for the Employer. 
+              (c) 
+    Notwithstanding the foregoing provisions in part (a) of this Section, if a Participant provides services for an Employer as both an Employee and as a Director, to the extent permitted by Treas. Reg.  1.409A-1(h)(5) the services provided by such Participant as a Director shall not be taken into account in determining whether the Participant has experienced a Separation from Service as an Employee, and the services provided by such Participant as an Employee shall not be taken into account in determining whether the Participant has experienced a Separation from Service as a Director. 
+              1.33 
+       Specified Employee    shall mean any Participant who is determined to be a  key employee  (as defined under Code Section 416(i) without regard to paragraph (5) thereof) for the applicable period, as determined annually by the Committee in accordance with Treas. Reg.  1.409A-1(i). In determining whether a Participant is a Specified Employee, the following provisions shall apply: 
+              (a) 
+    The Committee s identification of the individuals who fall within the definition of  key employee  under Code Section 416(i) (without regard to paragraph (5) thereof) shall be based upon the 12-month period ending on each December 31st (referred to below as the  identification date ). In applying the applicable provisions of Code Section 416(i) to identify such individuals,  compensation  shall be determined in accordance with Treas. Reg.  1.415(c)-2; and 
+              (b) 
+    Each Participant who is among the individuals identified as a  key employee  in accordance with part (a) of this Section shall be treated as a Specified Employee for purposes of this Plan if such Participant experiences a Separation from Service during the 12-month period that begins on the April 1   st    following the applicable identification date. 
+              1.34 
+       Stock    shall mean DineEquity, Inc. common stock, $.01 par value, or any other equity securities or the Company as designated by the Committee. 
+              1.35 
+       Stock Incentive Plan    shall mean the Company s 2016 Stock Incentive Plan or any successor thereto. 
+              1.36 
+       Trust    shall mean one or more trusts established by the Company in accordance with Article 16. 
+              1.37 
+       Unforeseeable Emergency    shall mean a severe financial hardship of the Participant resulting from (a) an illness or accident of the Participant, the Participant s spouse, the Participant s Beneficiary or the Participant s dependent (as defined in Code Section 152 without regard to paragraphs (b)(1), (b)(2) and (d)(1)(b) thereof), (b) a loss of the Participant s property due to casualty, or (c) such other similar extraordinary and unforeseeable circumstances arising as a result of events beyond the control of the Participant, all as determined by the Committee based on the relevant facts and circumstances. 
+              1.38 
+       Years of Service    shall mean the total number of full years in which a Participant has been employed by one or more Employers. For purposes of this definition, a year of employment shall be a 365 day period (or 366 day period in the case of a leap year) that, for the first year of employment, commences on the Employee's date of hiring and that, for any subsequent year, commences on an anniversary of that hiring date. A partial year of employment shall not be treated as a Year of Service. 
+       
+  ARTICLE 2          Selection, Enrollment, Eligibility 
+           2.1 
+    Selection by Committee  .  Participation in the Plan shall be limited to Directors and, as determined by the Committee in its sole discretion, a select group of management or highly compensated Employees. From that group, the Committee shall select, in its sole discretion, those individuals who may actually participate in this Plan. 
+              2.2 
+    Enrollment and Eligibility Requirements; Commencement of Participation  . 
+              (a) 
+    As a condition to participation, each Director or selected Employee shall complete, execute and return to the Committee a Plan Agreement, an Election Form and a Beneficiary Designation Form by the deadline(s) established by the Committee in accordance with the applicable provisions of this Plan. In addition, the Committee shall establish from time to time such other enrollment requirements as it determines, in its sole discretion, are necessary. 
+              (b) 
+    Each Director or selected Employee who is eligible to participate in the Plan shall commence participation in the Plan on the date that the Committee determines that the Director or Employee has met all enrollment requirements set forth in this Plan and required by the Committee, including returning all required documents to the Committee within the specified time period. 
+              (c) 
+    If a Director or an Employee fails to meet all requirements established by the Committee within the period required, that Director or Employee shall not be eligible to participate in the Plan during such Plan Year. 
+     ARTICLE 3          Deferral Commitments/Company Contribution  Amounts/Vesting/Crediting/Taxes 
+            (a) 
+    Annual Deferral Amount  .  For each Plan Year, a Participant may elect to defer, as his or her Annual Deferral Amount, Base Salary, Bonus, LTI Awards, LTIP Amounts and/or Director Fees up to the following maximum percentages for each deferral elected; provided that the Committee may provide for lower or higher maximum percentages with respect to any particular award that is eligible for deferral. 
+
+(b) 
+    Short Plan Year  .  Notwithstanding the foregoing, if a Participant first becomes a Participant after the first day of a Plan Year, then to the extent required by Section 3.2 and Code Section 409A and related Treasury Regulations, the maximum amount of the Participant s Base Salary, Bonus, LTI Awards, LTIP Amounts or Director Fees that may be deferred by the Participant for the Plan Year shall be determined by applying the percentages set forth in Section 3.1(a) to the portion of such compensation attributable to services performed after the date that the Participant s deferral election is made. 
+              3.2 
+    Timing of Deferral Elections; Effect of Election Form  . 
+              (a) 
+    General Timing Rule for Deferral Elections  .  Except as otherwise provided in this Section 3.2, in order for a Participant to make a valid election to defer Base Salary, Bonus, Director Fees, LTI Awards and/or LTIP Amounts, the Participant must submit an Election Form on or before the deadline established by the Committee, which in no event shall be later than the December 31   st    preceding the Plan Year in which such compensation will be earned. 
+     Any deferral election made in accordance with this Section 3.2(a) shall be irrevocable; provided, however, that if the Committee permits or requires Participants to make a deferral election by the deadline described above for an amount that qualifies as Performance-Based Compensation, the Committee may permit a Participant to subsequently change his or her deferral election for such compensation by submitting a new Election Form in accordance with Section 3.2(d) below. 
+           (b) 
+    Timing of Deferral Elections for Newly Eligible Plan Participants  .  A Director or selected Employee who first becomes eligible to participate in the Plan on or after the beginning of a Plan Year, as determined in accordance with Treas. Reg.  1.409A- 2(a)(7)(ii) and the  plan aggregation  rules provided in Treas. Reg.  1.409A-1(c)(2), may be permitted to make an election to defer the portion of Base Salary, Bonus, Director Fees, LTI Awards and/or LTIP Amounts attributable to services to be performed after such election, provided that the Participant submits an Election Form on or before the deadline established by the Committee, which in no event shall be later than 30 days after the Participant first becomes eligible to participate in the Plan. 
+     If a deferral election made in accordance with this Section 3.2(b) relates to compensation earned based upon a specified performance period, the amount eligible for deferral shall be equal to (i) the total amount of compensation for the performance period, multiplied by (ii) a fraction, the numerator of which is the number of days remaining in the service period after the Participant s deferral election is made, and the denominator of which is the total number of days in the performance period. 
+  Any deferral election made in accordance with this Section 3.2(b) shall become irrevocable no later than the 30   th    day after the date the Director or selected Employee becomes eligible to participate in the Plan. 
+           (c) 
+    Timing of Deferral Elections for Performance-Based Compensation  .  Subject to the limitations described below, the Committee may determine that an irrevocable deferral election for an amount that qualifies as Performance-Based Compensation may be made by submitting an Election Form on or before the deadline established by the Committee, which in no event shall be later than 6 months before the end of the performance period. 
+     In order for a Participant to be eligible to make a deferral election for Performance-Based Compensation in accordance with the deadline established pursuant to this Section 3.2(c), the Participant must have performed services continuously from the later of (i) the beginning of the performance period for such compensation, or (ii) the date upon which the performance criteria for such compensation are established, through the date upon which the Participant makes the deferral election for such compensation. In no event shall a deferral election submitted under this Section 3.2(c) be permitted to apply to any amount of Performance-Based Compensation that has become readily ascertainable. 
+           (d) 
+    Timing Rule for Deferral of Compensation Subject to Risk of Forfeiture  .  With respect to compensation (i) to which a Participant has a legally binding right to payment in a subsequent year, and (ii) that is subject to a forfeiture condition requiring the Participant s continued services for a period of at least 12 months from the date the Participant obtains the legally binding right, the Committee may determine that an irrevocable deferral election for such compensation may be made by timely delivering an Election Form to the Committee in accordance with its rules and procedures, no later than the 30   th    day after the Participant obtains the legally binding right to the compensation, provided that the election is made at least 12 months in advance of the earliest date at which the forfeiture condition could lapse, as determined in accordance with Treas. Reg.  1.409A-2(a)(5) (which disregards accelerated vesting due to death, disability or a change in control event (as each term is defined under Section 409A of the Code), but not other acceleration events). 
+     Any deferral election(s) made in accordance with this Section 3.2(d) shall become irrevocable no later than the 30   th    day after the Participant obtains the legally binding right to the compensation subject to such deferral election(s). 
+           (e) 
+    Timing Rule for Deferral of Unvested Compensation Subject to Five-Year Minimum Deferral  .  With respect to compensation to which a Participant   has a legally binding right to a payment in a subsequent year that, absent a deferral election, would be treated as a short-term deferral within the meaning of Treas. Reg.  1.409A-1(b)(4),   the Committee may determine that an irrevocable deferral election for such compensation may be made by (A) timely delivering an Election Form to the Committee in accordance with its rules and procedures, at least 12 months in advance of the date on which the applicable forfeiture condition lapses and (B) electing a Benefit Distribution Date pursuant to Section 4.1 that is not less than five years after the date on which such forfeiture condition lapses; provided that the Benefit Distribution Date may accelerate due to the Participant s death or Disability, an Unforeseeable Emergency or a Change in Control, to the extent provided under the Plan, the Participant s Election Form and Section 409A of the Code.  Such election shall be null and void if such forfeiture condition lapses within 12 months after the date the Participant delivers the Election Form to the Committee. 
+              3.3 
+    Withholding and Crediting of Annual Deferral Amounts  .  For each Plan Year, the Base Salary portion of the Annual Deferral Amount shall be withheld from each regularly scheduled Base Salary payroll in equal amounts, as adjusted from time to time for increases and decreases in Base Salary. The Bonus, LTI Awards, LTIP Amounts and/or Director Fees portion of the Annual Deferral Amount shall be withheld at the time the Bonus, LTI Awards, LTIP Amounts or Director Fees are or otherwise would be paid to the Participant, whether or not this occurs during the Plan Year itself. Annual Deferral Amounts shall be credited to the Participant s Annual Account for such Plan Year at the time such amounts would otherwise have been paid to the Participant. 
+              3.4 
+    Company Contribution Amount  . 
+              (a) 
+    For each Plan Year, an Employer may be required to credit amounts to a Participant s Annual Account in accordance with employment or other agreements entered into between the Participant and the Employer, which amounts shall be part of the Participant s Company Contribution Amount for that Plan Year. Such amounts shall be credited to the Participant s Annual Account for the applicable Plan Year on the date or dates prescribed by such agreements. 
+              (b) 
+    For each Plan Year, an Employer, in its sole discretion, may, but is not required to, credit any amount it desires to any Participant s Annual Account under this Plan, which amount shall be part of the Participant s Company Contribution Amount for that Plan Year. The amount so credited to a Participant may be smaller or larger than the amount credited to any other Participant, and the amount credited to any Participant for a Plan Year may be zero, even though one or more other Participants receive a Company Contribution Amount for that Plan Year. The Company Contribution Amount described in this Section 3.4(b), if any, shall be credited to the Participant s Annual Account for the applicable Plan Year on a date or dates to be determined by the Committee. 
+              (c) 
+    If not otherwise specified in the Participant s employment or other agreement entered into between the Participant and the Employer, the amount (or the method or formula for determining the amount) of a Participant s Company Contribution Amount shall be set forth in writing in one or more documents, which shall be deemed to be incorporated into this Plan in accordance with Section 1.27, no later than the date on which such Company Contribution Amount is credited to the applicable Annual Account of the Participant. 
+               (a) 
+    A Participant shall at all times be 100% vested in the portion of his or her Account Balance attributable to Annual Deferral Amounts, plus amounts credited or debited on such amounts pursuant to Section 3.6. 
+              (b) 
+    A Participant shall be vested in the portion of his or her Account Balance attributable to any Company Contribution Amounts, plus amounts credited or debited on such amounts pursuant to Section 3.6, in accordance with the vesting schedule(s) set forth in his or her Plan Agreement, employment agreement or any other agreement entered into between the Participant and his or her Employer. If not addressed in such agreements, a Participant shall vest in the portion of his or her Account Balance attributable to any Company Contribution Amounts, plus amounts credited or debited on such amounts pursuant to Section 3.6, in accordance with the following schedule: 
+                      
+  Years of Service 
+      
+  Vested Percentage 
+      Less than 3 years 
+    0% 
+      3 years or more 
+    100% 
+
+(c) 
+    Notwithstanding anything to the contrary contained in this Section 3.5, but subject to the terms of a Participant s Plan Agreement, employment agreement or other agreement entered into between the Participant and his or her Employer, in the event of a Change in Control, or upon a Participant s Disability, Separation from Service on or after qualifying for Retirement, or death prior to Separation from Service, any amounts that are not vested in accordance with Section 3.5(b) above, shall immediately become 100% vested. 
+              (d) 
+    Notwithstanding any other provision of this Plan, if by reason of Section 280G of the Code any payment or benefit received or to be received by a Participant in connection with a Change in Control or the termination of the Participant's employment (whether payable pursuant to the terms of this Plan ( Plan Payments ) or any other plan, arrangements or agreement with the Company or an affiliate (collectively with the Plan Payments,  Total Payments )) would not be deductible (in whole or part) by the Company, an affiliate or other person making such payment or providing such benefit, then the Total Payments shall be subject to reduction in accordance with the terms of the Company s Amended and Restated Executive Severance and Change in Control Policy. 
+              3.6 
+    Crediting/Debiting of Account Balances  .  In accordance with, and subject to, the rules and procedures that are established from time to time by the Committee, in its sole discretion, amounts shall be credited or debited to a Participant's Account Balance in accordance with the following rules: 
+              (a) 
+    Measurement Funds  .  Subject to the restrictions found in Section 3.7(c) below, the Participant may elect one or more of the measurement funds selected by the Committee, in its sole discretion, which are based on certain mutual funds (the  Measurement Funds ), for the purpose of crediting or debiting additional amounts to his or her Account Balance. As necessary, the Committee may, in its sole discretion, discontinue, substitute or add a Measurement Fund.   Each such action will take effect as of the first day of the first calendar quarter that begins at least 30 days after the day on which the Committee gives Participants advance written notice of such change. 
+              (b) 
+    Election of Measurement Funds  .  Subject to the restrictions found in Section 3.7(c) below, a Participant, in connection with his or her initial deferral election in accordance with Section 3.2 above, shall elect, on the Election Form, one or more Measurement Fund(s) (as described in Section 3.6(a) above) to be used to determine the amounts to be credited or debited to his or her Account Balance. If a Participant does not elect any of the Measurement Funds as described in the previous sentence, the Participant s Account Balance shall automatically be allocated into the lowest-risk Measurement Fund, as determined by the Committee, in its sole discretion. Subject to the restrictions found in Section 3.7(c) below, the Participant may (but is not required to) elect, by submitting an Election Form to the Committee that is accepted by the Committee, to add or delete one or more Measurement Fund(s) to be used to determine the amounts to be credited or debited to his or her Account Balance, or to change the portion of his or her Account Balance allocated to each previously or newly elected Measurement Fund.  If an election is made in accordance with the previous sentence, it shall apply as of the first business day deemed reasonably practicable by the Committee, in its sole discretion, and shall continue thereafter for each subsequent day in which the Participant participates in the Plan, unless changed in accordance with the previous sentence. Notwithstanding the foregoing, the Committee, in its sole discretion, may impose limitations on the frequency with which one or more of the Measurement Funds elected in accordance with this Section 3.6(b) may be added or deleted by such Participant; furthermore, the Committee, in its sole discretion, may impose limitations on the frequency with which the Participant may change the portion of his or her Account Balance allocated to each previously or newly elected Measurement Fund. 
+              (c) 
+    DineEquity, Inc. Stock Unit Fund  . 
+     (i)        The portion of a Participant s Account Balance that relates to an LTI Award will be automatically and irrevocably allocated to the DineEquity, Inc. Stock Unit Fund Measurement Fund. Participants may not select any other Measurement Fund to be used to determine the amounts to be credited or debited to such portion of their Account Balance. Furthermore, no other portion of the Participant s Account Balance can be either initially allocated or reallocated to the DineEquity, Inc. Stock Unit Fund. Amounts allocated to the DineEquity, Inc. Stock Unit Fund shall only be distributable in actual shares of Stock. 
+  (ii)        Any stock dividends, cash dividends or other non-cash dividends that would have been payable on the Stock credited to a Participant s Account Balance shall be credited to the Participant s Account Balance in the form of additional shares of Stock and shall automatically and irrevocably be deemed to be re-invested in the DineEquity, Inc. Stock Unit Fund until such amounts are distributed to the Participant. The number of shares credited to the Participant for a particular stock dividend shall be equal to (a) the number of shares of Stock credited to the Participant s Account Balance as of the payment date for such dividend in respect of each share of Stock, multiplied by (b) the number of additional or fractional shares of Stock actually paid as a dividend in respect of each share of Stock. The number of shares credited to the Participant for a particular cash dividend or other non-cash dividend shall be equal to (a) the number of shares of Stock credited to the Participant s Account Balance as of the payment date for such dividend in respect of each share of Stock, multiplied by (b) the fair market value of the dividend, divided by (c) the  fair market value  of the Stock on the payment date for such dividend. 
+  (iii)        The number of shares of Stock credited to the Participant s Account Balance shall be adjusted by the Committee, in such manner as the Committee deems appropriate, in its sole discretion, to prevent dilution or enlargement of Participants  rights with respect to the portion of his or her Account Balance allocated to the DineEquity, Inc. Stock Unit Fund in the event of any reorganization, reclassification, stock split, or other unusual corporate transaction or event which affects the value of the Stock, provided that any such adjustment shall be made taking into account any crediting of shares of Stock to the Participant under Section 3.6. 
+  (iv)        For purposes of this Section 3.6, the fair market value of the Stock shall be determined by the Committee in a manner consistent with the terms of the Company s Stock Incentive Plan 
+           (d) 
+    Proportionate Allocation  . In making any election described in Section 3.6(b) above, the Participant shall specify on the Election Form, in increments of one percent (1%), the percentage of his or her Account Balance or Measurement Fund, as applicable, to be allocated/reallocated. 
+              (e) 
+    Crediting or Debiting Method  .    The performance of each Measurement Fund (either positive or negative) will be determined on a daily basis based on the manner in which such Participant s Account Balance has been hypothetically allocated among the Measurement Funds by the Participant. 
+              (f) 
+    No Actual Investment  . Notwithstanding any other provision of this Plan that may be interpreted to the contrary, the Measurement Funds are to be used for measurement purposes only, and a Participant's election of any such Measurement Fund, the allocation of his or her Account Balance thereto, the calculation of additional amounts and the crediting or debiting of such amounts to a Participant's Account Balance shall not be considered or construed in any manner as an actual investment of his or her Account Balance in any such Measurement Fund. In the event that the Company or the Trustee (as that term is defined in the Trust), in its own discretion, decides to invest funds in any or all of the investments on which the Measurement Funds are based, no Participant shall have any rights in or to such investments themselves. Without limiting the foregoing, a Participant's Account Balance shall at all times be a bookkeeping entry only and shall not represent any investment made on his or her behalf by the Company or the Trust; the Participant shall at all times remain an unsecured creditor of the Company. 
+               (a) 
+    Annual Deferral Amounts  . For each Plan Year in which an Annual Deferral Amount is being withheld from a Participant, the Participant s Employer(s) shall withhold from that portion of the Participant s Base Salary, Bonus, LTI Awards and/or LTIP Amounts that is not being deferred, in a manner determined by the Employer(s), the Participant s share of FICA and other employment taxes on such Annual Deferral Amount. If necessary, the Committee may reduce the Annual Deferral Amount in order to comply with this Section 3.7. 
+              (b) 
+    Company Contribution Amounts  . When a Participant becomes vested in a portion of his or her Account Balance attributable to any Company Contribution Amounts, the Participant s Employer(s) shall withhold from that portion of the Participant s Base Salary, Bonus, LTI Awards and/or LTIP Amounts that is not deferred, in a manner determined by the Employer(s), the Participant s share of FICA and other employment taxes on such amounts.  If necessary, the Committee may reduce the vested portion of the Participant s Company Contribution Amount, as applicable, in order to comply with this Section 3.7. 
+              (c) 
+    Distributions  . The Participant s Employer(s), or the trustee of the Trust, shall withhold from any payments made to a Participant under this Plan all federal, state and local income, employment and other taxes required to be withheld by the Employer(s), or the trustee of the Trust, in connection with such payments, in amounts and in a manner to be determined in the sole discretion of the Employer(s) and the trustee of the Trust. 
+     ARTICLE 4          Scheduled Distributions; Unforeseeable  Emergencies 
+           4.1 
+    Scheduled Distributions  .  In connection with each election to defer an Annual Deferral Amount, a Participant may elect to receive all or a specified portion of such Annual Deferral Amount, plus amounts credited or debited on that amount pursuant to Section 3.6, in the form of a lump sum payment (or, to the extent permitted by the Committee and elected by the Participant at the time of his or her deferral election, in the form of installments over a period of not more than five years), calculated as of the close of business on or around the Benefit Distribution Date designated by the Participant in accordance with this Section (a  Scheduled Distribution ). The Benefit Distribution Date for the amount subject to a Scheduled Distribution election shall be the first day of any Plan Year designated by the Participant, which may be no sooner than three Plan Years after the end of the Plan Year to which the Participant s deferral election relates, unless otherwise provided on an Election Form approved by the Committee.  The Committee may permit Participants to make separate distribution elections for each separate award or component of compensation deferred under the Plan. 
+     Subject to the other terms and conditions of this Plan, each Scheduled Distribution elected shall be paid out (or, if paid in installments as permitted by the Committee, commence) during a 60 day period commencing immediately after the applicable Benefit Distribution Date. By way of example, if a Scheduled Distribution is elected for Annual Deferral Amounts that are earned in the Plan Year commencing January 1, 2017, the earliest Benefit Distribution Date that may be designated by a Participant would be January 1, 2021, and the Scheduled Distribution would be paid out (or commence) during the 60 day period commencing immediately after such Benefit Distribution Date. 
+           4.2 
+    Postponing Scheduled Distributions  .    A Participant may elect to postpone a Scheduled Distribution described in Section 4.1 above, and have such amount paid out (or commence) during a 60 day period commencing immediately after an allowable alternative Benefit Distribution Date designated in accordance with this Section 4.2. In order to make such an election, the Participant must submit an Election Form to the Committee in accordance with the following criteria: 
+              (a) 
+    The election of the new Benefit Distribution Date shall have no effect until at least 12 months after the date on which the election is made; 
+              (b) 
+    The new Benefit Distribution Date selected by the Participant for such Scheduled Distribution must be the first day of a Plan Year that is no sooner than five years after the previously designated Benefit Distribution Date; and 
+              (c) 
+    The election must be made at least 12 months prior to the Participant's previously designated Benefit Distribution Date for such Scheduled Distribution. 
+     For purposes of applying the provisions of this Section 4.2, a Participant s election to postpone a Scheduled Distribution shall not be considered to be made until the date on which the election becomes irrevocable. Such an election shall become irrevocable no later than the date that is 12 months prior to the Participant s previously designated Benefit Distribution Date for such Scheduled Distribution. 
+           4.3 
+    Other Benefits Take Precedence Over Scheduled Distributions  . Should an event occur prior to any     Benefit Distribution Date designated for a Scheduled Distribution that would trigger a benefit under Articles 5 through 9, as applicable, all amounts subject to a Scheduled Distribution election shall be     paid in accordance with the other applicable provisions of the Plan and not in accordance with this Article 4. 
+              4.4 
+    Unforeseeable Emergencies  . 
+              (a) 
+    If a Participant experiences an Unforeseeable Emergency prior to the occurrence of a distribution event described in Articles 5 through 9, as applicable, the Participant may petition the Committee to receive a partial or full payout from the Plan. The payout, if any, from the Plan shall not exceed the lesser of (i) the Participant's vested Account Balance, calculated as of the close of business on or around the Benefit Distribution Date     for such payout, as determined by the Committee in accordance with provisions set forth below, or (ii) the amount necessary to satisfy the Unforeseeable Emergency, plus amounts necessary to pay Federal, state, or local income taxes or penalties reasonably anticipated as a result of the distribution. A Participant shall not be eligible to receive a payout from the Plan to the extent that the Unforeseeable Emergency is or may be relieved (A) through reimbursement or compensation by insurance or otherwise, (B) by liquidation of the Participant s assets, to the extent the liquidation of such assets would not itself cause severe financial hardship or (C) by cessation of deferrals under this Plan. 
+     If the Committee, in its sole discretion, approves a Participant s petition for payout from the Plan, the Participant s Benefit Distribution Date for such payout shall be the date on which such Committee approval occurs and such payout shall be distributed to the Participant in a lump sum no later than 60 days after such Benefit Distribution Date. In addition, in the event of such approval the Participant s outstanding deferral elections under the Plan shall be cancelled. 
+           (b) 
+    A Participant s deferral elections under this Plan shall also be cancelled to the extent the Committee determines that such action is required for the Participant to obtain a hardship distribution from an Employer s 401(k) Plan pursuant to Treas. Reg.  1.401(k)-1(d)(3). 
+     ARTICLE 5          Change in Control Benefit 
+           5.1 
+    Change in Control Benefit  .  A Participant, in connection with his or her commencement of participation in the Plan, shall have an opportunity to irrevocably elect to receive his or her vested Account Balance in the form of a lump sum payment in the event that a Change in Control occurs prior to the Participant s Separation from Service, Disability or death (the  Change in Control Benefit ). The Benefit Distribution Date for the Change in Control Benefit, if any, shall be the date on which the Change in Control occurs. 
+     If a Participant elects not to receive a Change in Control Benefit, or fails to make an election in connection with his or her commencement of participation in the Plan, the Participant s Account Balance shall be paid in accordance with the other applicable provisions of the Plan. 
+           5.2 
+    Payment of Change in Control Benefit  .         The Change in Control Benefit, if any, shall be calculated as of the close of business on or around the Participant s Benefit Distribution Date, as determined by the Committee, and paid to the     Participant     no     later     than     60 days     after     the Participant s Benefit Distribution Date. 
+     ARTICLE 6          Retirement Benefit 
+            (a) 
+    If a Participant experiences a Separation from Service that qualifies as a Retirement, the Participant shall be eligible to receive his or her vested Account Balance in either a lump sum or annual installment payments, as elected by the Participant in accordance with Section 6.2 (the  Retirement Benefit ). A Participant s Retirement Benefit shall be calculated as of the close of business on or around the applicable Benefit Distribution Date for such benefit, which shall be (i) the first day after the end of the 6-month period immediately following the date on which the Participant experiences such Separation from Service if the Participant is a Specified Employee, and (ii) for all other Participants, the date on which the Participant experiences a Separation from Service; provided, however, if a Participant changes the form of distribution for one or more Annual Accounts in accordance with Section 6.2(b), the Benefit Distribution Date for the Annual Account(s) subject to such change shall be determined in accordance with Section 6.2(b).   
+              (b) 
+    Notwithstanding Section 6.1(a), if a Participant elected to defer compensation pursuant to Section 3.2(e) of the Plan, the Benefit Distribution Date shall not occur earlier than the date determined pursuant to Section 3.2(e) (i.e., the 5   th    anniversary of the applicable vesting date, the Participant s death or Disability, an Unforeseeable Emergency or a Change in Control), except to the extent otherwise permitted under Section 409A of the Code. 
+              6.2 
+    Payment of Retirement Benefit  . 
+              (a) 
+    In connection with a Participant s election to defer an Annual Deferral Amount, the Participant shall elect the form in which his or her Annual Account for such Plan Year will be paid. The Participant may elect to receive each Annual Account in the form of a lump sum or pursuant to an Annual Installment Method of 5 years. If a Participant does not make any election with respect to the payment of an Annual Account, then the Participant shall be deemed to have elected to receive such Annual Account as a lump sum.   
+              (b) 
+    A Participant may change the form of payment for an Annual Account by submitting an Election Form to the Committee in accordance with the following criteria: 
+     (i)        The election shall not take effect until at least 12 months after the date on which the election is made; 
+  (ii)        The new Benefit Distribution Date for such Annual Account shall be 5 years after the Benefit Distribution Date that would otherwise have been applicable to such Annual Account; and 
+  (iii)        The election must be made at least 12 months prior to the Benefit Distribution Date that would otherwise have been applicable to such Annual Account. 
+  For purposes of applying the provisions of this Section 6.2(b), a Participant s election to change the form of payment for an Annual Account shall not be considered to be made until the date on which the election becomes irrevocable. Such an election shall become irrevocable no later than the date that is 12 months prior to the Benefit Distribution Date that would otherwise have been applicable to such Annual Account. Subject to the requirements of this Section 6.2(b), the Election Form most recently accepted by the Committee that has become effective for an Annual Account shall govern the form of payout of such Annual Account. 
+    
+           (c) 
+    The lump sum payment shall be made, or installment payments shall commence, no later than 60 days after the applicable Benefit Distribution Date. Remaining installments, if any, shall continue in accordance with the Participant s election for each Annual Account and shall be paid no later than 60 days after each anniversary of the Benefit Distribution Date. 
+     ARTICLE 7          Termination Benefit 
+           7.1 
+    Termination Benefit  .  If a Participant experiences a Separation from Service that does not qualify as a Retirement, the Participant shall receive his or her vested Account Balance in the form of a lump sum payment (the  Termination Benefit  provided that the Committee may, in its sole discretion, permit a Participant to elect to receive his or her Termination Benefit in the form of installments in accordance with Section 6.2, as though the Participant was eligible for Retirement. A Participant s Termination Benefit shall be calculated as of the close of business on or around the Benefit Distribution Date for such benefit, which shall be (i) the first day after the end of the 6-month period immediately following the date on which the Participant experiences such Separation from Service if the Participant is a Specified Employee, and (ii) for all other Participants, the date on which the Participant experiences a Separation from Service. 
+              7.2 
+    Payment of Termination Benefit  .  The Termination Benefit shall be paid, or installment payments shall commence, to the Participant no later than 60 days after the Participant s Benefit Distribution Date.  Notwithstanding this Section 7.2, if a Participant elected to defer compensation pursuant to Section 3.2(e) of the Plan, the Benefit Distribution Date shall not occur earlier than the date determined pursuant to Section 3.2(e) (i.e., the 5   th    anniversary of the applicable vesting date, the Participant s death or Disability, an Unforeseeable Emergency or a Change in Control) except to the extent otherwise permitted under Section 409A of the Code. 
+     ARTICLE 8          Disability Benefit 
+           8.1 
+    Disability Benefit  . If a Participant becomes Disabled prior to the occurrence of a distribution event described in Articles 5 through 7, as applicable, the Participant shall receive his or her vested Account Balance in the form of a lump sum payment (the  Disability Benefit  provided that the Committee may, in its sole discretion, permit a Participant to elect to receive his or her Disability Benefit in the form of installments in accordance with Section 6.2, as though the Participant was eligible for Retirement. The Disability Benefit shall be calculated as of the close of business on or around the Participant s Benefit Distribution Date for such benefit, which shall be the date on which the Participant becomes Disabled. 
+              8.2 
+    Payment of Disability Benefit  .  The Disability Benefit shall be paid, or installment payments shall commence, to the Participant no later than 60 days after the Participant s Benefit Distribution Date. 
+     ARTICLE 9          Death Benefit 
+           9.1 
+    Death Benefit  . In the event of a Participant s death prior to the complete distribution of his or her vested Account Balance, the Participant's Beneficiary(ies) shall receive the Participant's unpaid vested Account Balance in a lump sum payment (the  Death Benefit  provided that the Committee may, in its sole discretion, permit a Participant to elect to receive his or her Death Benefit in the form of installments in accordance with Section 6.2, as though the Participant was eligible for Retirement. The Death Benefit shall be calculated as of the close of business on or around the Benefit Distribution Date for such benefit, which shall be the date on which the Committee is provided with proof that is satisfactory to the Committee of the Participant s death. 
+              9.2 
+    Payment of Death Benefit  . The Death Benefit shall be paid, or installment payments shall commence, to the Participant s Beneficiary(ies) no later than 60 days after the Participant s Benefit Distribution Date. 
+     ARTICLE 10          Beneficiary Designation 
+           10.1 
+    Beneficiary  .  Each Participant shall have the right, at any time, to designate his or her Beneficiary(ies) (both primary as well as contingent) to receive any benefits payable under the Plan to a beneficiary upon the death of a Participant. The Beneficiary designated under this Plan may be the same as or different from the Beneficiary designation under any other plan of an Employer in which the Participant participates. 
+              10.2 
+    Beneficiary Designation; Change; Spousal Consent  .  A Participant shall designate his or her Beneficiary by completing and signing the Beneficiary Designation Form, and returning it to the Committee or its designated agent. A Participant shall have the right to change a Beneficiary by completing, signing and otherwise complying with the terms of the Beneficiary Designation Form and the Committee's rules and procedures, as in effect from time to time. If the Participant names someone other than his or her spouse as a Beneficiary, the Committee may, in its sole discretion, determine that spousal consent is required to be provided in a form designated by the Committee, executed by such Participant's spouse and returned to the Committee. Upon the acceptance by the Committee of a new Beneficiary Designation Form, all Beneficiary designations previously filed shall be canceled. The Committee shall be entitled to rely on the last Beneficiary Designation Form filed by the Participant and accepted by the Committee prior to his or her death. 
+              10.3 
+    Acknowledgment  .  No designation or change in designation of a Beneficiary shall be effective until received and acknowledged in writing by the Committee or its designated agent. 
+              10.4 
+    No Beneficiary Designation  .  If a Participant fails to designate a Beneficiary as provided in Sections 10.1, 10.2 and 10.3 above or, if all designated Beneficiaries predecease the Participant or die prior to complete distribution of the Participant's benefits, then the Participant's designated Beneficiary shall be deemed to be his or her surviving spouse. If the Participant has no surviving spouse, the benefits remaining under the Plan to be paid to a Beneficiary shall be payable to the executor or personal representative of the Participant's estate. 
+              10.5 
+    Doubt as to Beneficiary  .  If the Committee has any doubt as to the proper Beneficiary to receive payments pursuant to this Plan, the Committee shall have the right, exercisable in its discretion, to cause the Participant's Employer to withhold such payments until this matter is resolved to the Committee's satisfaction. 
+              10.6 
+    Discharge of Obligations  .  The payment of benefits under the Plan to a Beneficiary shall fully and completely discharge all Employers and the Committee from all further obligations under this Plan with respect to the Participant, and that Participant's Plan Agreement shall terminate upon such full payment of benefits. 
+     ARTICLE 11          Leave of Absence 
+           11.1 
+    Paid Leave of Absence  . If a Participant is authorized by the Participant's Employer to take a paid leave of absence from the employment of the Employer, and such leave of absence does not constitute a Separation from Service, (a) the Participant shall continue to be considered eligible for the benefits provided under the Plan, and (b) the Annual Deferral Amount shall continue to be withheld during such paid leave of absence in accordance with Section 3.2. 
+              11.2 
+    Unpaid Leave of Absence  . If a Participant is authorized by the Participant's Employer to take an unpaid leave of absence from the employment of the Employer for any reason, and such leave of absence does not constitute a Separation from Service, such Participant shall continue to be eligible for the benefits provided under the Plan. During the unpaid leave of absence, the Participant shall not be allowed to make any additional deferral elections. However, if the Participant returns to employment, the Participant may elect to defer an Annual Deferral Amount for the Plan Year following his or her return to employment and for every Plan Year thereafter while a Participant in the Plan, provided such deferral elections are otherwise allowed and an Election Form is delivered to and accepted by the Committee for each such election in accordance with Section 3.2 above. 
+     ARTICLE 12          Termination of Plan, Amendment or Modification 
+           12.1 
+    Termination of Plan  .  Although each Employer anticipates that it will continue the Plan for an indefinite period of time, there is no guarantee that any Employer will continue the Plan or will not terminate the Plan at any time in the future. Accordingly, each Employer reserves the right to terminate the Plan with respect to all of its Participants. In the event of a Plan termination no new deferral elections shall be permitted for the affected Participants and such Participants shall no longer be eligible to receive new company contributions. However, after the Plan termination the Account Balances of such Participants shall continue to be credited with Annual Deferral Amounts attributable to a deferral election that was in effect prior to the Plan termination to the extent deemed necessary to comply with Code Section 409A and related Treasury Regulations, and additional amounts shall continue to credited or debited to such Participants  Account Balances pursuant to Section 3.6. The Measurement Funds available to Participants following the termination of the Plan shall be comparable in number and type to those Measurement Funds available to Participants in the Plan Year preceding the Plan Year in which the Plan termination is effective. In addition, following a Plan termination, Participant Account Balances shall remain in the Plan and shall not be distributed until such amounts become eligible for distribution in accordance with the other applicable provisions of the Plan. Notwithstanding the preceding sentence, to the extent permitted by Treas. Reg.  1.409A-3(j)(4)(ix), the Employer may provide that upon termination of the Plan, all Account Balances of the Participants shall be distributed, subject to and in accordance with any rules established by such Employer deemed necessary to comply with the applicable requirements and limitations of Treas. Reg.  1.409A-3(j)(4)(ix). 
+              12.2 
+    Amendment  .  Any Employer may, at any time, amend or modify the Plan in whole or in part with respect to that Employer. Notwithstanding the foregoing, no amendment or modification shall be effective to decrease the value of a Participant's vested Account Balance in existence at the time the amendment or modification is made. 
+              12.3 
+    Plan Agreement  .  Despite the provisions of Sections 12.1, if a Participant's Plan Agreement contains benefits or limitations that are not in this Plan document, the Employer may only amend or terminate such provisions with the written consent of the Participant. 
+              12.4 
+    Effect of Payment  .  The full payment of the Participant s vested Account Balance in accordance with the applicable provisions of the Plan shall completely discharge all obligations to a Participant and his or her designated Beneficiaries under this Plan, and the Participant's Plan Agreement shall terminate. 
+     ARTICLE 13          Administration 
+           13.1 
+    Committee  Duties  .  Except as otherwise provided in this Article 13, this Plan shall be administered by a Committee, which shall consist of the Board, or such committee as the Board shall appoint. Members of the Committee may be Participants under this Plan. The Committee shall also have the discretion and authority to (a) make, amend, interpret, and enforce all appropriate rules and regulations for the administration of this Plan, and (b) decide or resolve any and all questions, including benefit entitlement determinations and interpretations of this Plan, as may arise in connection with the Plan. Any individual serving on the Committee who is a Participant shall not vote or act on any matter relating solely to himself or herself.  When making a determination or calculation, the Committee shall be entitled to rely on information furnished by a Participant or the Company. 
+              13.2 
+    Administration Upon Change In Control  .  Within 120 days following a Change in Control, the individuals who comprised the Committee immediately prior to the Change in Control (whether or not such individuals are members of the Committee following the Change in Control) may, by written consent of the majority of such individuals, appoint an independent third party administrator (the  Administrator ) to perform any or all of the Committee s duties described in Section 13.1 above, including without limitation, the power to determine any questions arising in connection with the administration or interpretation of the Plan, and the power to make benefit entitlement determinations. Upon and after the effective date of such appointment, (a) the Company must pay all reasonable administrative expenses and fees of the Administrator, and (b) the Administrator may only be terminated with the written consent of the majority of Participants with an Account Balance in the Plan as of the date of such proposed termination. 
+              13.3 
+    Agents  .  In the administration of this Plan, the Committee or the Administrator, as applicable, may, from time to time, employ agents and delegate to them such administrative duties as it sees fit (including acting through a duly appointed representative) and may from time to time consult with counsel. 
+              13.4 
+    Binding Effect of Decisions  .  The decision or action of the Committee or Administrator, as applicable, with respect to any question arising out of or in connection with the administration, interpretation and application of the Plan and the rules and regulations promulgated hereunder shall be final and conclusive and binding upon all persons having any interest in the Plan. 
+              13.5 
+    Indemnity of Committee  .  All Employers shall indemnify and hold harmless the members of the Committee, any Employee to whom the duties of the Committee may be delegated, and the Administrator against any and all claims, losses, damages, expenses or liabilities arising from any action or failure to act with respect to this Plan, except in the case of willful misconduct by the Committee, any of its members, any such Employee or the Administrator. 
+              13.6 
+    Employer Information  .  To enable the Committee and/or Administrator to perform its functions, the Company and each Employer shall supply full and timely information to the Committee and/or Administrator, as the case may be, on all matters relating to the Plan, the Trust, the Participants and      their Beneficiaries, the Account Balances      of      the      Participants,      the      compensation      of      its Participants, the date and circumstances of the Separation from Service, Disability or death of its Participants, and      such      other      pertinent      information      as      the      Committee      or      Administrator      may reasonably require. 
+     ARTICLE 14          Other Benefits and Agreements 
+           14.1 
+    Coordination with Other Benefits  .    The benefits provided for a Participant and Participant's Beneficiary under the Plan are in addition to any other benefits available to such Participant under any other plan or program for employees of the Participant's Employer. The Plan shall supplement and shall not supersede, modify or amend any other such plan or program except as may otherwise be expressly provided. 
+     ARTICLE 15          Claims Procedures 
+           15.1 
+    Presentation  of  Claim  .    Any Participant or Beneficiary of      a      deceased      Participant      (such Participant or Beneficiary being referred to below as a  Claimant ) may deliver to the Committee a      written claim for a determination with respect to the amounts distributable to such Claimant from the Plan. If such a claim relates to the contents of a notice received by the Claimant, the claim must be     made within 60 days after such notice was received by the Claimant. All other claims must be made within 180 days of the date on which the event that caused the claim to arise occurred. The claim must state with particularity the determination desired by the Claimant. 
+              15.2 
+    Notification of Decision  . The Committee shall consider a Claimant's claim within a reasonable time, but no later than 90 days after receiving the claim. If the Committee determines that special circumstances require an extension of time for processing the claim, written notice of the extension shall be furnished to the Claimant prior to the termination of the initial 90 day period. In no event shall such extension exceed a period of 90 days from the end of the initial period. The extension notice shall indicate the special circumstances requiring an extension of time and the date by which the Committee expects to render the benefit determination. The Committee shall notify the Claimant in writing: 
+              (a) 
+    that the Claimant's requested determination has been made, and that the claim has been allowed in full; or 
+              (b) 
+    that the Committee has reached a conclusion contrary, in whole or in part, to the Claimant's requested determination, and such notice must set forth in a manner calculated to be understood by the Claimant: 
+     (i)        the specific reason(s) for the denial of the claim, or any part of it; 
+  (ii)        specific reference(s) to pertinent provisions of the Plan upon which such denial was based; 
+  (iii)        a description of any additional material or information necessary for the Claimant to perfect the claim, and an explanation of why such material or information is necessary; 
+  (iv)        an explanation of the claim review procedure set forth in Section 15.3 below; and 
+  (v)        a statement of the Claimant s right to bring a civil action under ERISA Section 502(a) following an adverse benefit determination on review. 
+           15.3 
+    Review of a Denied Claim  . On or before 60 days after receiving a notice from the Committee that a claim has been denied, in whole or in part, a Claimant (or the Claimant's duly authorized representative) may file with the Committee a written request for a review of the denial of the claim.  The Claimant (or the Claimant's duly authorized representative): 
+              (a) 
+    may, upon request and free of charge, have reasonable access to, and copies of, all documents, records and other information relevant (as defined in applicable ERISA regulations) to the claim for benefits; 
+              (b) 
+    may submit written comments or other documents; and/or 
+              (c) 
+    may request a hearing, which the Committee, in its sole discretion, may grant. 
+              15.4 
+    Decision on Review  . The Committee shall render its decision on review promptly, and no later than 60 days after the Committee receives the Claimant s written request for a review of the denial of the claim. If the Committee determines that special circumstances require an extension of time for processing the claim, written notice of the extension shall be furnished to the Claimant prior to the termination of the initial 60 day period. In no event shall such extension exceed a period of 60 days from the end of the initial period. The extension notice shall indicate the special circumstances requiring an extension of time and the date by which the Committee expects to render the benefit determination. In rendering its decision, the Committee shall take into account all comments, documents, records and other information submitted by the Claimant relating to the claim, without regard to whether such information was submitted or considered in the initial benefit determination. The decision must be written in a manner calculated to be understood by the Claimant, and it must contain: 
+              (a) 
+    specific reasons for the decision; 
+              (b) 
+    specific reference(s) to the pertinent Plan provisions upon which the decision was based; 
+              (c) 
+    a statement that the Claimant is entitled to receive, upon request and free of charge, reasonable access to and copies of, all documents, records and other information relevant (as defined in applicable ERISA regulations) to the Claimant s claim for benefits; and 
+              (d) 
+    a statement of the Claimant s right to bring a civil action under ERISA Section 502(a). 
+              15.5 
+    Legal Action  .  A Claimant's compliance with the foregoing provisions of this Article 15 is a mandatory prerequisite to a Claimant's right to commence any legal action with respect to any claim for benefits under this Plan. 
+     ARTICLE 16          Trust 
+           16.1 
+    Establishment of the Trust  . In order to provide assets from which to fulfill its obligations to the Participants and their Beneficiaries under the Plan, the Company may establish a trust by a trust agreement with a third party, the trustee, to which each Employer may, in its discretion, contribute cash or other property, including securities issued by the Company, to provide for the benefit payments under the Plan (the  Trust ). 
+              16.2 
+    Interrelationship of the Plan and the Trust  .    The provisions of the Plan and the Plan Agreement shall govern the rights of a Participant to receive distributions pursuant to the Plan. The provisions of the Trust shall govern the rights of the Employers, Participants and the creditors of the Employers to the assets transferred to the Trust. Each Employer shall at all times remain liable to carry out its obligations under the Plan. 
+              16.3 
+    Distributions From the Trust  . Each Employer's obligations under the Plan may be satisfied with Trust assets distributed pursuant to the terms of the Trust, and any such distribution shall reduce the Employer's obligations under this Plan. 
+     ARTICLE 17          Miscellaneous 
+           17.1 
+    Status of Plan  .  The Plan is intended to be a plan that is not qualified within the meaning of Code Section 401(a) and that  is unfunded and is maintained by an employer primarily for the purpose of providing deferred compensation for a select group of management or highly compensated employees  within the meaning of ERISA Sections 201(2), 301(a)(3) and 401(a)(1). The Plan shall be administered and interpreted (a) to the extent possible in a manner consistent with the intent described in the preceding sentence, and (b) in accordance with Code Section 409A and related Treasury guidance and Regulations. 
+              17.2 
+    Unsecured General Creditor  .  Participants and their Beneficiaries, heirs, successors and assigns shall have no legal or equitable rights, interests or claims in any property or assets of an Employer. For purposes of the payment of benefits under this Plan, any and all of an Employer's assets shall be, and remain, the general, unpledged unrestricted assets of the Employer. An Employer's obligation under the Plan shall be merely that of an unfunded and unsecured promise to pay money in the future. 
+              17.3 
+    Employer's Liability  .  An Employer's liability for the payment of benefits shall be defined only by the Plan and the Plan Agreement, as entered into between the Employer and a Participant. An Employer shall have no obligation to a Participant under the Plan except as expressly provided in the Plan and his or her Plan Agreement. 
+              17.4 
+    Nonassignability  .  Neither a Participant nor any other person shall have any right to commute, sell, assign, transfer, pledge, anticipate, mortgage or otherwise encumber, transfer, hypothecate, alienate or convey in advance of actual receipt, the amounts, if any, payable hereunder, or any part thereof, which are, and all rights to which are expressly declared to be, unassignable and non- transferable. No part of the amounts payable shall, prior to actual payment, be subject to seizure, attachment, garnishment or sequestration for the payment of any debts, judgments, alimony or separate maintenance owed by a Participant or any other person, be transferable by operation of law in the event of a Participant's or any other person's bankruptcy or insolvency or be transferable to a spouse as a result of a property settlement or otherwise. 
+              17.5 
+    Not a Contract of Employment  .  The terms and conditions of this Plan shall not be deemed to constitute a contract of     employment     between     any     Employer     and     the     Participant.      Such employment is hereby acknowledged to be an  at will  employment relationship that can be terminated at any time for any reason, or no reason, with or without cause, and with or without notice, unless expressly provided in a written employment agreement. Nothing in this Plan shall be deemed to give a Participant the right to be retained in the service of any Employer, either as an Employee or a     Director, or to interfere with the right of any Employer     to     discipline or discharge the Participant at any time. 
+              17.6 
+    Furnishing  Information  .  A Participant or his or her Beneficiary will cooperate with the Committee by furnishing any and all information requested by the Committee and take such other actions as may be requested in order to facilitate the administration of the Plan and the payments of benefits hereunder, including but not limited to taking such physical examinations as the Committee may deem necessary. 
+              17.7 
+    Terms  .  Whenever any words are used herein in the masculine, they shall be construed as though they were in the feminine in all cases where they would so apply; and whenever any words are used herein in the singular or in the plural, they shall be construed as though they were used in the plural or the singular, as the case may be, in all cases where they would so apply. 
+              17.8 
+    Captions  .  The captions of the articles, sections and paragraphs of this Plan are for convenience only and shall not control or affect the meaning or construction of any of its provisions. 
+              17.9 
+    Governing Law  .  Subject to ERISA, the provisions of this Plan shall be construed and interpreted according to the internal laws of the State of California without regard to its conflicts of laws principles. 
+              17.10 
+    Notice  .  Any notice or filing required or permitted to be given to the Committee under this Plan shall be sufficient if in writing and hand-delivered, or sent by registered or certified mail, to the address below: 
+
+Such notice shall be deemed given as of the date of delivery or, if delivery is made by mail, as of the date shown on the postmark on the receipt for registration or certification. 
+  Any notice or filing required or permitted to be given to a Participant under this Plan shall be sufficient if in writing and hand-delivered, or sent by mail, to the last known address of the Participant 
+           17.11 
+    Successors  . The provisions of this Plan shall bind and inure to the benefit of the Participant's Employer and its successors and assigns and the Participant and the Participant's designated Beneficiaries. 
+              17.12 
+    Spouse's Interest  . The interest in the benefits hereunder of a spouse of a Participant who has predeceased the Participant shall automatically pass to the Participant and shall not be transferable by      such spouse in any manner, including but not limited to such spouse's will, nor shall such interest pass under the laws of intestate succession. 
+              17.13 
+    Validity  . In case any provision of this Plan shall be illegal or invalid for any reason, said illegality or invalidity shall not affect the remaining parts hereof, but this Plan shall be construed and enforced as if such illegal or invalid provision had never been inserted herein. 
+              17.14 
+    Incompetent  . If the Committee determines in its discretion that a benefit under this Plan is to be paid to a minor, a person declared incompetent or to a person incapable of handling the disposition of that person's property, the Committee may direct payment of such benefit to the guardian, legal representative or person having the care and custody of such minor, incompetent or incapable person. The Committee may require proof of minority, incompetence, incapacity or guardianship, as it may deem appropriate prior to distribution of the benefit. Any payment of a benefit shall be a payment for the account of the Participant and the Participant's Beneficiary, as the case may be, and shall be a complete discharge of any liability under the Plan for such payment amount. 
+              17.15 
+    Domestic Relations Orders  . If necessary to comply with a domestic relations order, as defined in Code Section 414(p)(1)(B), pursuant to which a court has determined that a spouse or former spouse of a Participant has an interest in the Participant s benefits under the Plan, the Committee shall have the right to immediately distribute the spouse s or former spouse s interest in the Participant s benefits under the Plan to such spouse or former spouse. 
+              17.16 
+    Distribution in the Event of Income Inclusion Under Code Section 409A        If any portion of a Participant s Account Balance under this Plan is required to be included in income by the Participant prior to receipt due to a failure of this Plan to comply with the requirements of Code Section 409A and related Treasury Regulations, the Committee may determine that such Participant shall receive a distribution from the Plan in an amount equal to the lesser of (i) the portion of his or her Account Balance required to be included in income as a result of the failure of the Plan to comply with the requirements of Code Section 409A and related Treasury Regulations, or (ii) the unpaid vested Account Balance. 
+              17.17 
+    Deduction Limitation on Benefit Payments  .  If an Employer reasonably anticipates that the Employer s deduction with respect to any distribution from this Plan would be limited or eliminated by application of Code Section 162(m), then to the extent permitted by Treas. Reg.  1.409A-2(b)(7)(i), payment shall be delayed as deemed necessary to ensure that the entire amount of any distribution from this Plan is deductible. Any amounts for which distribution is delayed pursuant to this Section shall continue to be credited/debited with additional amounts in accordance with Section 3.6. The delayed amounts (and any amounts credited thereon) shall be distributed to the Participant (or his or her Beneficiary in the event of the Participant s death) at the earliest date the Employer reasonably anticipates that the deduction of the payment of the amount will not be limited or eliminated by application of Code Section 162(m). In the event that such date is determined to be after a Participant s Separation from Service and the Participant to whom the payment relates is determined to be a Specified Employee, then to the extent deemed necessary to comply with Treas. Reg.  1.409A-3(i)(2), the delayed payment shall not made before the end of the six-month period following such Participant s Separation from Service. 
+
+Approved by the Compensation Committee on October 18, 2016 
+  
+   1 
+
+</EX-10.1>
+
+<EX-12.1>
+ 3
+ din-2016930x10qxex121.htm
+ COMPUTATION OF RATIOS
+
+Exhibit 
+
+Exhibit 12.1 
+  DINEEQUITY, INC. 
+  Computation of Debt Service Coverage Ratio for the Trailing                                             Twelve Months Ended   September 30, 2016   and Leverage Ratio as of   September 30, 2016  . 
+  (In thousands, except ratios) 
+
+(1)   
+    Definitions of all components used in calculating the above ratios are found in the Base Indenture and the related Series 2014-1 Supplement to the Base Indenture, dated September 30, 2014, filed as Exhibits 4.1 and 4.2, respectively, to our Current Report on Form 8-K filed on October 3, 2014. 
+
+</EX-12.1>
+
+<EX-31.1>
+ 4
+ din-2016930x10qxex311.htm
+ SECTION 302 CEO CERTIFICATION
+
+Exhibit 
+
+Exhibit 31.1 
+    
+  Certification Pursuant to 
+  Rule 13a-14(a) of the 
+  Securities Exchange Act of 1934, As Amended 
+    
+  I, Julia A. Stewart, certify that: 
+    
+  1.                                         I have reviewed this Quarterly Report on Form 10-Q of DineEquity, Inc.;  
+    
+  2.                                         Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+    
+  3.                                         Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+    
+  4.                                         The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+    
+  (a)                                    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+    
+  (b)                                    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+    
+  (c)                                     Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+    
+  (d)                                    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+    
+  5.                                         The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+    
+  (a)                                    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+    
+  (b)                                    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+    
+                   Dated: 
+    November 1, 2016 
+    /s/ Julia A. Stewart 
+
+Julia A. Stewart 
+  Chairman and Chief Executive Officer 
+  (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ din-2016930x10qxex312.htm
+ SECTION 302 CFO CERTIFICATION
+
+Exhibit 
+
+Exhibit 31.2 
+    
+  Certification Pursuant to 
+  Rule 13a-14(a) of the 
+  Securities Exchange Act of 1934, As Amended 
+    
+  I, Thomas W. Emrey, certify that:  
+    
+  1.                                         I have reviewed this Quarterly Report on Form 10-Q of DineEquity, Inc.; 
+    
+  2.                                         Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+    
+  3.                                         Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+    
+  4.                                         The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+    
+  (a)                                    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+    
+  (b)                                    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+    
+  (c)                                     Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+    
+  (d)                                    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+    
+  5.                                         The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+    
+  (a)                                    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+    
+  (b)                                    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+    
+                   Dated: 
+    November 1, 2016 
+    /s/ Thomas W. Emrey 
+
+Thomas W. Emrey                            Chief Financial Officer (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ din-2016930x10qxex321.htm
+ SECTION 906 CEO CERTIFICATION
+
+Exhibit 
+
+Exhibit 32.1 
+    
+  Certification Pursuant to 
+  18 U.S.C. Section 1350, 
+  As Adopted Pursuant to 
+  Section 906 of the Sarbanes-Oxley Act of 2002 
+    
+  In connection with the Quarterly Report on Form 10-Q of DineEquity, Inc. (the  Company ) for the quarter ended   September 30, 2016  , as filed with the Securities and Exchange Commission on   November 1, 2016   (the  Report ), Julia A. Stewart, as Chairman and Chief Executive Officer of the Company, hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to the best of her knowledge, that: 
+    
+  (1)                         The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and  
+    
+  (2)                         The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+    
+                   Dated: 
+    November 1, 2016 
+    /s/ Julia A. Stewart 
+
+Julia A. Stewart 
+  Chairman and Chief Executive Officer 
+  (Principal Executive Officer) 
+
+This certification accompanies the Quarterly Report pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by the Sarbanes-Oxley Act of 2002, be deemed filed by the Company for purposes of Section 18 of the Securities Exchange Act of 1934, as amended. This certification shall not be deemed to be incorporated by reference into any filing under the Securities Act of 1933 or the Exchange Act except to the extent the Company expressly and specifically incorporates it by reference in such filing. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ din-2015930x10qxex322.htm
+ SECTION 906 CFO CERTIFICATION
+
+Exhibit 
+
+Exhibit 32.2 
+    
+  Certification Pursuant to 
+  18 U.S.C. Section 1350, 
+  As Adopted Pursuant to 
+  Section 906 of the Sarbanes-Oxley Act of 2002  
+    
+  In connection with the Quarterly Report on Form 10-Q of DineEquity, Inc. (the  Company ) for the quarter ended   September 30, 2016  , as filed with the Securities and Exchange Commission on   November 1, 2016   (the  Report ), Thomas W. Emrey, as Chief Financial Officer of the Company, hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to the best of his knowledge, that: 
+    
+  (1)                         The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+    
+  (2)                         The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+    
+                   Dated: 
+    November 1, 2016 
+    /s/ Thomas W. Emrey 
+
+Thomas W. Emrey 
+  Chief Financial Officer 
+  (Principal Financial Officer) 
+
+This certification accompanies the Quarterly Report pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by the Sarbanes-Oxley Act of 2002, be deemed filed by the Company for purposes of Section 18 of the Securities Exchange Act of 1934, as amended. This certification shall not be deemed to be incorporated by reference into any filing under the Securities Act of 1933 or the Exchange Act except to the extent the Company expressly and specifically incorporates it by reference in such filing. 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 8
+ din-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 9
+ din-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ din-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ din-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ din-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ din-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

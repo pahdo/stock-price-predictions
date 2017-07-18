@@ -1,0 +1,1605 @@
+<Header>
+<FileStats>
+    <FileName>20161108_10-Q_edgar_data_1309108_0001309108-16-000273_1.txt</FileName>
+    <GrossFileSize>10774203</GrossFileSize>
+    <NetFileSize>177656</NetFileSize>
+    <ASCII_Embedded_Chars>575690</ASCII_Embedded_Chars>
+    <HTML_Chars>3734786</HTML_Chars>
+    <XBRL_Chars>4541618</XBRL_Chars>
+    <XML_Chars>1541696</XML_Chars>
+    <N_Tables>62</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001309108-16-000273.hdr.sgml : 20161108
+<ACCEPTANCE-DATETIME>20161108125518
+ACCESSION NUMBER:		0001309108-16-000273
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		93
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161108
+DATE AS OF CHANGE:		20161108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WEX Inc.
+		CENTRAL INDEX KEY:			0001309108
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				010526993
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32426
+		FILM NUMBER:		161980598
+
+	BUSINESS ADDRESS:	
+		STREET 1:		97 DARLING AVENUE
+		CITY:			SOUTH PORTLAND
+		STATE:			ME
+		ZIP:			04106
+		BUSINESS PHONE:		(207) 773-8171
+
+	MAIL ADDRESS:	
+		STREET 1:		97 DARLING AVENUE
+		CITY:			SOUTH PORTLAND
+		STATE:			ME
+		ZIP:			04106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Wright Express CORP
+		DATE OF NAME CHANGE:	20041118
+
+</SEC-Header>
+</Header>
+
+ 0001309108-16-000273.txt : 20161108
+
+10-Q
+ 1
+ wex9_30x201610-q.htm
+ WEX 9.30.2016 10-Q
+
+Document 
+
+Table of Contents  
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  WASHINGTON, D.C. 20549 
+   _________________________________________ 
+  FORM 10-Q 
+    _________________________________________ 
+  (Mark One) 
+
+For the quarterly period ended   September 30, 2016    
+  OR 
+
+For the transition period from                          to                        
+  Commission file number: 001-32426 
+      _________________________________________ 
+     
+  WEX INC. 
+  (Exact name of registrant as specified in its charter) 
+      _________________________________________ 
+                   Delaware 
+      
+    01-0526993 
+      (State or other jurisdiction of 
+  incorporation or organization) 
+      
+    (I.R.S. Employer 
+  Identification No.) 
+
+97 Darling Avenue, South Portland, Maine 
+      
+    04106 
+      (Address of principal executive offices) 
+      
+    (Zip Code) 
+
+(207) 773-8171 
+  (Registrant s telephone number, including area code)    
+   _________________________________________ 
+  Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.   Yes     No 
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).   Yes     No 
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of  large accelerated filer,   accelerated filer,  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. 
+                           Large accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated filer 
+      
+      (Do not check if a smaller reporting company) 
+       
+    Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     
+    Yes     No 
+  Indicate the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date. 
+
+Table of Contents  
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART I-FINANCIAL INFORMATION 
+
+Item 1. 
+     Unaudited Condensed Consolidated Financial Statements  
+       4 
+
+Item 2. 
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+       35 
+
+Item 3. 
+     Quantitative and Qualitative Disclosures About Market Risk  
+       51 
+
+Item 4. 
+     Controls and Procedures  
+       51 
+
+PART II-OTHER INFORMATION 
+
+Item 1. 
+     Legal Proceedings  
+       52 
+
+Item 1A. 
+     Risk Factors  
+       52 
+
+Item 2. 
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+       55 
+
+Item 6. 
+     Exhibits  
+       56 
+
+SIGNATURE  
+
+FORWARD-LOOKING STATEMENTS 
+  The Private Securities Litigation Reform Act of 1995 provides a  safe harbor  for statements that are forward-looking and are not statements of historical facts. This Quarterly Report includes forward-looking statements including, but not limited to, statements about management s plan and goals. Any statements in this Quarterly Report that are not statements of historical facts are forward-looking statements. When used in this Quarterly Report, the words  may,   could,   anticipate,   plan,   continue,   project,   intend,   estimate,   believe,   expect  and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain such words. Forward-looking statements relate to our future plans, objectives, expectations and intentions and are not historical facts and accordingly involve known and unknown risks and uncertainties and other factors that may cause the actual results or performance to be materially different from future results or performance expressed or implied by these forward-looking statements. The following factors, among others, could cause actual results to differ materially from those contained in forward-looking statements made in this Quarterly Report and in oral statements made by our authorized officers: the effects of general economic conditions on fueling patterns as well as payment and transaction processing activity; the impact of foreign currency exchange rates on the Company s operations, revenue and income; changes in interest rates; the impact of fluctuations in fuel prices; the effects of the Company s business expansion and acquisition efforts; potential adverse changes to business or employee relationships, including those resulting from the completion of an acquisition; competitive responses to any acquisitions; uncertainty of the expected financial performance of the combined operations following completion of an acquisition; the ability to successfully integrate the Company's acquisitions, specifically, the Electronic Funds Source LLC's operations and employees; the ability to realize anticipated synergies and cost savings; unexpected costs, charges or expenses resulting from an acquisition; the Company's failure to successfully operate and expand ExxonMobil's European and Asian commercial fuel card programs; the failure of corporate investments to result in anticipated strategic value; the impact and size of credit losses; the impact of changes to the Company's credit standards; breaches of the Company s technology systems or those of our third-party service providers and any resulting negative impact on our reputation, liabilities or relationships with customers or merchants; the Company s failure to maintain or renew key agreements; failure to expand the Company s technological capabilities and service offerings as rapidly as the Company s competitors; the actions of regulatory bodies, including banking and securities regulators, or possible changes in banking or financial regulations impacting the Company s industrial bank, the Company as the corporate parent or other subsidiaries or affiliates; the impact of the Company s outstanding notes on its operations; the impact of increased leverage on the Company's operations, results or borrowing capacity generally, and as a result of acquisitions specifically; the incurrence of impairment charges if our assessment of the fair value of certain of our reporting units changes; the uncertainties of litigation; as well as other risks and uncertainties identified in Item 1A of our annual report on Form 10-K for the year ended December 31, 2015, filed on February 26, 2016, and Item 1.A. of Part II of the quarterly report on Form 10-Q filed  
+  
+   2 
+
+     Table of Contents  
+
+on April 28, 2016, both with the Securities and Exchange Commission. Our forward-looking statements and these factors do not reflect the potential future impact of any alliance, merger, acquisition, disposition or stock repurchases. The forward-looking statements speak only as of the date of the initial filing of this Quarterly Report and undue reliance should not be placed on these statements. We disclaim any obligation to update any forward-looking statements as a result of new information, future events or otherwise. 
+
+3 
+
+Table of Contents  
+
+PART I 
+   
+  Item 1. Financial Statements. 
+   
+  WEX INC. 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+  (in thousands, except per share data) 
+  (unaudited)    
+   
+ See notes to unaudited condensed consolidated financial statements. 
+  
+   4 
+
+Table of Contents  
+
+WEX INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF 
+  INCOME 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+See notes to unaudited condensed consolidated financial statements. 
+  
+   5 
+
+Table of Contents  
+
+WEX INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+  (in thousands) 
+  (unaudited) 
+
+See notes to unaudited condensed consolidated financial statements. 
+  
+   6 
+
+Table of Contents  
+
+WEX INC. 
+  CONDENSED CONSOLIDATED 
+  STATEMENTS OF STOCKHOLDERS  EQUITY 
+  (in thousands) 
+  (unaudited) 
+
+See notes to unaudited condensed consolidated financial statements. 
+  
+   7 
+
+Table of Contents  
+
+WEX INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS  
+  (in thousands) 
+  (unaudited)   
+
+8 
+
+     Table of Contents  
+
+See notes to unaudited condensed consolidated financial statements. 
+
+9 
+
+Table of Contents  
+
+WEX INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+1. 
+    Basis of Presentation 
+
+The acronyms and abbreviations identified below are used in the accompanying unaudited condensed consolidated financial statements and the notes thereto. The following is provided to aid the reader and provide a reference point when reviewing the unaudited condensed consolidated financial statements.                   2014 Amendment Agreement 
+      
+    Amendment and restatement agreement entered into on August 22, 2014, among the Company, the lenders party thereto, and Bank of America, N.A., as administrative agent 
+      2014 Credit Agreement 
+      
+    Second amended and restated credit agreement entered into on August 22, 2014, by and among the Company and certain of our subsidiaries, as borrowers, WEX Card Holding Australia Pty Ltd., as designated borrower, and Bank of America, N.A., as administrative agent on behalf of consenting lenders 
+      2016 Credit Agreement 
+      
+    Credit agreement entered into on July 1, 2016 by and among the Company and certain of our subsidiaries, as borrowers, WEX Card Holding Australia Pty Ltd., as designated borrower, and Bank of America, N.A., as administrative agent on behalf of the lenders 
+      Adjusted Net Income or ANI 
+      
+    A non-GAAP metric that adjusts net earnings attributable to shareholders to exclude acquisition and divestiture related items, debt restructuring and debt issuance cost amortization, stock-based compensation, restructuring and other costs related to certain outsourcing initiatives, changes in unrealized fuel price derivatives, net foreign currency remeasurement gains and losses, non-cash adjustments related to our tax receivable agreement, reserves for regulatory penalties, similar adjustments attributed to our non-controlling interest and certain tax related items.  
+      ASU 2014-09 
+      
+    Accounting Standards Update No. 2014-09 Revenue from Contracts with Customers (Topic 606) 
+      ASU 2015-03 
+      
+    Accounting Standards Update No. 2015-03 Interest Imputation of Interest (Subtopic 835-30): Simplifying the Presentation of Debt Issuance Costs 
+      ASU 2015-16 
+      
+    Accounting Standards Update No. 2015-16 Business Combinations (Topic 805): Simplifying the Accounting for Measurement-Period Adjustments 
+      ASU 2016-01 
+      
+    Accounting Standards Update No. 2016-01 Financial Instruments - Overall (Subtopic 825-10): Recognition and Measurement of Financial Assets and Financial Liabilities 
+      ASU 2016-02 
+      
+    Accounting Standards Update No. 2016-02 Leases (Topic 842) 
+      ASU 2016-09 
+      
+    Accounting Standards Update No. 2016-09 Compensation-Stock Compensation (Topical 718): Improvements to Employee Share-Based Payment Accounting 
+      ASU 2016-13 
+      
+    Accounting Standards Update No. 2016-13 Financial Instruments-Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments 
+      ASU 2016-15 
+      
+    Accounting Standards Update No. 2016-15 Statement of Cash Flows (Topic 230): Classification of Certain Cash Receipts and Cash Payments 
+      Australian Securitization Subsidiary 
+      
+    Southern Cross WEX 2015-1 Trust, a bankruptcy-remote subsidiary consolidated by the Company 
+      Average expenditure per payment processing transaction 
+      
+    Average total dollars of spend in a funded fuel transaction 
+      Benaissance 
+      
+    Benaissance, a leading provider of integrated SaaS technologies and services for healthcare premium billing, payment and workflow management, acquired by the Company on November 18, 2015 
+      Company 
+      
+    WEX Inc. and all entities included in the unaudited condensed consolidated financial statements 
+      EFS 
+      
+    Electronic Funds Source, LLC, a provider of customized corporate payment solutions for fleet and corporate customers with a focus on the large and mid-sized over-the-road fleet segments. On July 1, 2016, the Company acquired WP Mustang Topco LLC, the indirect parent of Electronic Funds Source, LLC and Warburg Pincus Private Equity XI (Lexington), LLC, an affiliated entity, from investment funds affiliated with Warburg Pincus LLC.  
+      Esso portfolio in Europe 
+      
+    European commercial fleet card portfolio acquired from ExxonMobil 
+      European Securitization Subsidiary 
+      
+    Gorham Trade Finance B.V., a bankruptcy-remote subsidiary consolidated by the Company 
+      Evolution1 
+      
+    EB Holdings Corp. and its subsidiaries which includes Evolution1, Inc., acquired by the Company on July 16, 2014 
+      FASB 
+      
+    Financial Accounting Standards Board 
+      FX 
+      
+    Foreign exchange 
+      GAAP 
+      
+    Generally Accepted Accounting Principles in the United States 
+
+10 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+Indenture 
+      
+    The Notes were issued pursuant to an indenture dated as of January 30, 2013 among the Company, the guarantors listed therein, and The Bank of New York Mellon Trust Company, N.A., as trustee 
+      NCI 
+      
+    Non-controlling interest 
+      NOL 
+      
+    Net operating loss 
+      Notes 
+      
+    $400 million notes with a 4.75% fixed rate, issued on January 30, 2013 
+      NOW deposits 
+      
+    Negotiable order of withdrawal deposits 
+      Over-the-road 
+      
+    Typically heavy trucks traveling long distances 
+      Payment solutions purchase volume 
+      
+    Total amount paid by customers for transactions 
+      Payment processing transactions 
+      
+    Funded payment transactions where the Company maintains the receivable for total purchase 
+      PPG 
+      
+    Price per gallon of fuel 
+      rapid! PayCard 
+      
+    rapid! PayCard, previously a line of business of the Company, sold on January 7, 2015 
+      SaaS 
+      
+    Software-as-a-service 
+      SEC 
+      
+    Securities and Exchange Commission 
+      Ticking fees 
+      
+    A fee incurred by a borrower to compensate the lender to delay a financing arrangement and hold a commitment of funds for the borrower for a period of time 
+      Total fleet transactions 
+      
+    Total of transaction processing and payment processing transactions 
+      Transaction processing transactions 
+      
+    Unfunded payment transactions where the Company is the processor and only has receivables for the processing fee 
+      UNIK 
+      
+    UNIK S.A., the Company's Brazilian subsidiary 
+      WEX 
+      
+    WEX Inc. 
+      WEX Europe Services 
+      
+    Consists primarily of our European commercial fleet card portfolio acquired by the Company from ExxonMobil on December 1, 2014  
+      WEX Health 
+      
+    Evolution1 and Benaissance, collectively 
+
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with GAAP for interim financial information and with the instructions to Form 10-Q and Rule 10-01 of Regulation S-X. They do not include all information and notes required by GAAP for complete financial statements. However, except as disclosed herein, there have been   no   material changes in the information disclosed in the notes to the consolidated financial statements included in the Annual Report on Form 10-K of WEX Inc. for the year ended   December 31, 2015  . These unaudited condensed consolidated financial statements should be read in conjunction with the financial statements that are included in the Company s Annual Report on Form 10-K for the year ended   December 31, 2015  , filed with the SEC on   February 26, 2016  . In the opinion of management, all adjustments (including normal recurring accruals) considered necessary for a fair presentation have been included. Operating results for the   three and nine   months ended   September 30, 2016   are not necessarily indicative of the results that may be expected for any future periods or the year ending   December 31, 2016  . 
+  The presentation of the accompanying condensed consolidated statements of income has been updated for the   three and nine   month periods ended   September 30, 2016   to disaggregate revenue into payment processing, account servicing, finance fee and other revenue in order to provide additional information regarding the Company s significant revenue streams and to conform to the current year presentation. There was no change to total revenue, income from operations, net income or net income per share in any of the periods presented as a result of this updated presentation. 
+  In April 2015, the FASB issued ASU 2015-03 related to the simplification of the presentation of debt issuance costs. The standard requires entities to present such costs in the balance sheet as a direct deduction from the related debt liability rather than as an asset. Amortization of the costs is reported as interest expense. The ASU provides that debt issuance costs are analogous to debt discounts and reduce the proceeds of borrowing which increases the effective interest rate. Prior to the amendment, debt issuance costs were reported in the balance sheet as an asset. The amended guidance is effective for financial statements issued for fiscal years beginning after December 15, 2015, requires retrospective adoption, and represents a change in accounting principle. As a result of the adoption, the   December 31, 2015   unaudited condensed consolidated balance sheet is restated as follows:   
+  
+   11 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+In September 2015, the FASB issued ASU 2015-16 related to simplifying the accounting for measurement period adjustments. This standard replaces the requirement that an acquirer in a business combination account for measurement period adjustments retrospectively. Under the amendments, an acquirer must recognize adjustments to the provisional amounts that are identified during the measurement period in the reporting period in which the adjustment amounts are determined, including the effect on earnings of changes in depreciation, amortization, or other income effects as if the accounting had been completed at the acquisition date. The guidance is to be applied prospectively to adjustments to provisional amounts that occur after the effective date of the guidance. The Company adopted this standard on January 1, 2016. 
+  Fair Value of Financial Instruments 
+  The carrying values of cash and cash equivalents, accounts receivable, accounts payable, accrued expenses, and other liabilities approximate their respective fair values due to the short-term nature of such instruments. The carrying values of certificates of deposit, interest-bearing money market deposits and borrowed federal funds approximate their respective fair values as the interest rates on these financial instruments are variable. All other financial instruments are reflected at fair value on the unaudited condensed consolidated balance sheets. 
+   
+                 2. 
+    New Accounting Standards 
+
+In May 2014, the FASB issued ASU 2014-09 related to revenue recognition, which will supersede most existing revenue recognition guidance under U.S. GAAP. The new revenue recognition standard requires entities to recognize revenue for the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. The standard permits the use of either the retrospective or cumulative effect transition method. On July 9, 2015, the Board voted to defer the effective date by one year to interim and annual reporting periods beginning after December 15, 2017, and permitted early adoption of the standard, but not for periods beginning on or before the original effective date of December 15, 2016. FASB has and is expected to continue to issue clarifications on various aspects of ASU 2014-09. The Company is currently evaluating the impact of this standard on its consolidated financial statements and related disclosures and has not yet selected a transition method.  
+  In January 2016, the FASB issued ASU 2016-01 related to accounting for equity investments. The pronouncement requires equity investments, except those accounted for under the equity method of accounting, or those that result in consolidation of the investee, to be measured at fair value with changes in fair value recognized in net income. The standard is effective for annual reporting periods beginning after December 15, 2017, including interim periods within that reporting period. The Company is currently evaluating the impact the pronouncement will have on the consolidated financial statements and related disclosures. 
+  In February 2016, the FASB issued ASU 2016-02 to increase transparency and comparability among organizations by recognizing lease assets and lease liabilities on the balance sheet and disclosing key information about leasing arrangements. When transitioning, the standard requires leases to be recognized and measured at the beginning of the earliest period presented using a modified retrospective approach. Certain qualitative and quantitative disclosures are required. The standard is effective for annual reporting periods beginning after December 15, 2018, including interim periods within that reporting period. The Company is currently evaluating the impact the standard will have on the consolidated financial statements and related disclosures. 
+  In March 2016, the FASB issued ASU 2016-09 to simplify several aspects of accounting for employee share-based payment transactions, including the accounting for income taxes, forfeitures, statutory tax withholding requirements, and classification in the statement of cash flows. The standard is effective for annual reporting periods beginning after December  
+  
+   12 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+15, 2016, including interim periods within that reporting period. The Company is currently evaluating the impact the standard will have on the consolidated financial statements and related disclosures. 
+  In June 2016, the FASB issued ASU 2016-13 which requires financial assets measured at amortized cost basis to be presented at the net amount expected to be collected. The measurement of expected credit losses will be based on historical experience, current conditions, and reasonable and supportable forecasts that impact the collectability of the reported amount. The standard is effective for annual reporting periods beginning after December 15, 2019, including interim periods within those fiscal years. The Company is currently evaluating the impact the standard will have on the consolidated financial statements and related disclosures. 
+  In August 2016, the FASB issued ASU 2016-15 which provides clarification on the classification of eight specific cash flow presentation issues that have developed out of diversity in practice. The issues include, but are not limited to, debt prepayment or extinguishment costs, cash receipts from payments on beneficial interests in securitization transactions, and proceeds from the settlement of insurance claims. The standard is effective for annual reporting periods beginning after December 15, 2017, including interim periods within those fiscal years. The Company is currently evaluating the impact the standard will have on the consolidated financial statements and related disclosures. 
+   
+                 3. 
+    Business Acquisitions 
+
+EFS 
+  On July 1, 2016, the Company acquired all of the outstanding membership interests of EFS, a provider of customized corporate payment solutions for fleet and corporate customers with a focus on the large and mid-sized over-the-road fleet segments. The acquisition will enable the combined company to expand its customer footprint and to utilize EFS' technology to better serve the needs of all fleet customers. 
+  In consideration for the acquisition of EFS, the Company issued   4,012   shares of its common stock valued at approximately   $355,000   based on the July 1, 2016 closing price of the Company's common stock on the New York Stock Exchange, representing approximately   9.4%   of the Company's outstanding common stock after giving effect to the issuance of the new shares in connection with this acquisition. The cash consideration for the transaction totaled approximately   $1,182,000  , and was funded with amounts received under the 2016 Credit Agreement described further in Note 9. The value of the total cash and stock consideration paid for the acquisition of EFS was approximately   $1,444,000  , net of   $93,000   in cash acquired. This amount is subject to working capital adjustments. 
+  During the third quarter of 2016, the Company obtained information to assist in determining the fair values of certain tangible and intangible assets acquired and liabilities assumed in the EFS acquisition. Based on such information, the Company recorded intangible assets and goodwill as described below. The Company is still reviewing the valuation of all assets and liabilities and has not finalized the purchase accounting.  
+  
+   13 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+The following represents the preliminary allocation of the purchase price by the assets and liabilities acquired and goodwill recognized in this business combination:   
+
+           (a) 
+    Approximately   $1,356,350   in goodwill and other intangible assets recorded from this business combination were assigned to our Fleet Solutions segment, the remaining   $293,729   was assigned to our Travel and Corporate Solutions segment. 
+              (b) 
+    Weighted average life     8.7 years  . 
+              (c) 
+    Weighted average life     2.3 years  . 
+              (d) 
+    Weighted average life     3.3 years  . 
+     Goodwill is calculated as the consideration in excess of net assets recognized and represents the future economic benefits arising from other assets acquired that could not be individually identified and separately recognized, including synergies derived from the acquisition.  
+  The Company is currently evaluating the tax basis and the allocation of book basis to the assets recognized in this business combination. The preliminary estimates could change significantly upon completion of this evaluation. We estimate approximately   $530,000   of the goodwill recognized in this business combination will be deductible for income tax purposes.  
+  At September 30, 2016, estimated amortization expense related to the definite-lived intangible assets listed above for each of the next five fiscal years is as follows: 
+
+The pro forma financial information presented below includes the effects of the EFS acquisition as if it had been consummated on January 1, 2015. Pro forma results include the amortization associated with acquired intangible assets, interest expense associated with the 2016 Credit Agreement used to fund the acquisition and related income tax results. To reflect recurring results of the combined companies, transaction costs directly attributable to the acquisition have been eliminated. The pro forma results of operations do not include any cost savings or other synergies that may result from the acquisition or any estimated integration costs that have been or will be incurred by the Company. Accordingly, the following pro forma information is not necessarily indicative of either the future results of operations or results that would have been achieved if the acquisition had taken place at the beginning of 2015. Subsequent to the July 1, 2016 acquisition date, the operations of EFS contributed revenues of approximately   $35,017   and net income before taxes of approximately   $1,511   to the Company's Fleet Solutions segment and revenues of approximately   $5,012   and net income before taxes of approximately   $1,993   to the Company's Travel and Corporate Solutions segment. 
+  
+   14 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+The following represents unaudited pro forma operational results as if EFS has been included in the Company's unaudited condensed consolidated statements of operations as of the beginning of the fiscal periods ended: 
+
+Benaissance  
+  On November 18, 2015, the Company purchased the stock of Benaissance for approximately   $80,677  . The transaction was financed through the Company s cash on hand and existing credit facility. Benaissance provides financial management for health benefits administration by offering SaaS solutions for individual single point and consolidated group premium billing. The Company acquired Benaissance to enhance the Company's positioning in the growing healthcare market.  
+  During the fourth quarter of 2015, the Company obtained preliminary information to assist in determining the fair values of certain tangible and intangible assets acquired and liabilities assumed in the Benaissance acquisition. During the first quarter of 2016, the Company decreased certain tangible assets by   $502   and increased Goodwill by   $502  . Based on such information, the Company recorded intangible assets and goodwill as described below. Goodwill is expected to be deductible for tax purposes. The Company finalized our Benaissance purchase accounting in the third quarter of 2016. 
+  The following is a summary of the final allocation of the purchase price to the assets and liabilities acquired:   
+
+            (a)   
+    Weighted average life     5.0 years  . 
+               (b)   
+    Weighted average life     7.6 years  . 
+               (c)   
+    Weighted average life     8.1 years  . 
+     No pro forma information has been included in these financial statements as the operations of Benaissance for the period that they were not part of the Company are not material to the Company's revenues, net income and earnings per share. 
+   
+                 4. 
+    Sale of Subsidiary and Assets 
+
+rapid! PayCard 
+  On January 7, 2015, the Company sold the assets of its rapid! PayCard operations for   $20,000  , which resulted in a pre-tax book gain of approximately   $1,215  . The Company's primary focus in the U.S. continues to be in the fleet, travel, and healthcare industries. As such, the Company divested the operations of rapid! PayCard, which were not material to the Company's annual revenue, net income or earnings per share. The Company does not view this divestiture as a strategic shift in its operations. 
+   
+                 5. 
+    Reserves for Credit Losses 
+
+In general, the Company s trade receivables provide for payment terms of   30   days or less. Receivables not paid within the terms of the customer agreement are generally subject to late fees based upon the outstanding customer receivable balance. Beginning in the first quarter of 2015, the Company began to extend revolving credit to certain customers with respect to small fleet receivables. These accounts are also subject to late fees and balances that are not paid in full are subject to interest charges  
+  
+   15 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+based on the revolving balance. The Company had approximately   $2,600   in receivables with revolving credit as of   September 30, 2016   and   $1,100   in receivables with revolving credit as of December 31, 2015.  
+  The portfolio of receivables consists of a large group of homogeneous smaller balance amounts that are collectively evaluated for impairment.   No   customer made up more than   eight percent   of the outstanding receivables at   September 30, 2016  .   One   customer made up   eleven percent   of the outstanding receivables at December 31, 2015. 
+  Receivables are generally written off when they are   150 days   past due or upon declaration of bankruptcy by the customer. The reserve for credit losses is calculated by an analytic model that also takes into account other factors, such as the actual charge-offs for the preceding reporting periods, expected charge-offs and recoveries for the subsequent reporting periods, a review of accounts receivable balances which become past due, changes in customer payment patterns, known fraudulent activity in the portfolio, as well as leading economic and market indicators.  
+  As of   September 30, 2016  , approximately   93 percent   of the outstanding balance of total trade accounts receivable was current and approximately   97 percent   of the outstanding balance of total trade accounts receivable was less than 60 days past due. As of   September 30, 2015  , approximately   90 percent   of the outstanding balance of total trade accounts receivable was current and approximately   98 percent   of the outstanding balance was less than 60 days past due. The outstanding balance is made up of receivables from a wide range of industries. 
+  The following table presents changes in reserves for credit losses related to accounts receivable: 
+
+16 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+6. 
+    Goodwill and Other Intangible Assets 
+
+Goodwill 
+  The changes in goodwill during the first   nine   months of   2016   were as follows:   
+
+  The Company had   no   impairments to goodwill during the   nine   months ended   September 30, 2016  .  
+  Other Intangible Assets 
+  During the   third   quarter of   2016  , management shortened the useful life of our preexisting over-the-road payment processing technology as a result of the EFS acquisition. We now expect to transition off of this software during the third quarter of 2017. This change in the estimated useful life of this intangible asset resulted in approximately   $5.9 million   of accelerated amortization during the quarter.  
+  The changes in other intangible assets during the first   nine   months of   2016   were as follows: 
+
+17 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+The following table presents the estimated amortization expense related to the definite-lived intangible assets listed above for the remainder of   2016   and for each of the   five   succeeding fiscal years:    
+
+Other intangible assets, net consist of the following: 
+
+7. 
+    Earnings per Share 
+
+Basic earnings per share is computed by dividing net earnings attributable to shareholders by the weighted average number of shares of common stock and vested deferred stock units outstanding during the year. The computation of diluted earnings per share is similar to the computation of basic earnings per share, except that the denominator is increased for the assumed exercise of dilutive options and assumed issuance of unvested restricted stock units and deferred stock units and unvested performance-based restricted stock units for which the performance condition has been met as of the date of determination using the treasury stock method unless the effect is anti-dilutive. The treasury stock method assumes that proceeds, including cash received from the exercise of employee stock options, the total unrecognized compensation expense for unvested share-based compensation awards and the excess tax benefits resulting from share-based compensation tax deductions in excess of the related expense recognized for financial reporting purposes, would be used to purchase the Company's common stock at the average market price during the period. 
+  The following is a reconciliation of the income and share data used in the basic and diluted earnings per share computations for the   three and nine   months ended   September 30, 2016   and   2015  :  
+
+18 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+For the   three and nine   months ended   September 30, 2016   and   September 30, 2015  , an immaterial number of outstanding stock options, restricted stock units, and performance based restricted stock units for which the performance condition has been met as of the dates of determination were excluded from the computation of diluted earnings per share because the effect of including these awards would be anti-dilutive.  
+   
+                 8. 
+    Derivative Instruments 
+
+The Company is exposed to certain market risks relating to its ongoing business operations. Derivative instruments were utilized in prior years to manage the Company's commodity price risk. The Company entered into put and call option contracts related to the Company s commodity price risk, which were based on the wholesale price of gasoline and the retail price of diesel fuel and settled on a monthly basis. These put and call option contracts, or fuel price derivative instruments, were designed to reduce the volatility of the Company s cash flows associated with its fuel price-related earnings exposure in North America.  
+  During the fourth quarter of 2014, the Company suspended purchases under its fuel derivatives program due to unusually low prices in the commodities market. Management will continue to monitor the fuel price market and evaluate alternatives as it relates to this hedging program. During the first quarter of 2016, the Company held fuel-price sensitive derivative instruments to hedge approximately   20 percent   of its anticipated U.S. fuel-price related earnings exposure based on assumptions at time of purchase and all these positions were settled as of March 31, 2016. After the first quarter of 2016, the Company is no longer hedged for changes in fuel prices. 
+  In April 2014, the Company initiated a partial foreign currency exchange hedging program. In 2014, the Company managed its foreign currency exchange exposure on an intra-quarter basis. During the third quarter of 2015, the Company decided to suspend the foreign currency exchange hedging program for all but a few short-term intercompany transactions. Because this was a partial foreign currency exchange hedging program, the Company had foreign currency exchange exposure which was not hedged while the program was in effect.  
+  The realized and unrealized gains or losses on the currency forward contracts and swaps are reported in earnings within the same unaudited condensed consolidated statement of income line as the impact of the foreign currency translation, net foreign currency gain (loss).  
+  Accounting guidance requires companies to recognize all derivative instruments as either assets or liabilities at fair value in the unaudited condensed consolidated balance sheet. The Company s fuel price derivative instruments and foreign currency instruments do not qualify for hedge accounting treatment, and therefore, no such hedging designation has been made. 
+  Derivatives Not Designated as Hedging Instruments 
+  For derivative instruments that are not designated as hedging instruments, the gain or loss on the derivative is recognized in current earnings.  
+  As of September 30, 2016, the Company had the following foreign currency swap outstanding, which is not designated as a hedging contract and settles in U.S. dollars during the fourth quarter of 2016:   
+
+  The following table presents information on the location and amounts of derivative gains and losses in the unaudited condensed consolidated statements of income: 
+
+19 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+The following table presents information on the location and amounts of derivative fair values in the unaudited condensed consolidated balance sheets: 
+
+Derivatives Classified as Assets 
+      
+    Derivatives Classified as Liabilities 
+
+September 30, 2016 
+    December 31, 2015 
+      
+    September 30, 2016 
+    December 31, 2015 
+      Derivatives Not Designated as Hedging Instruments 
+      
+    Balance Sheet Location 
+      
+    Fair Value 
+    Balance Sheet Location 
+      
+    Fair Value 
+      
+    Balance Sheet Location 
+      
+    Fair Value 
+    Balance 
+  Sheet 
+  Location 
+      
+    Fair 
+  Value 
+      Commodity contracts 
+      
+    Fuel price derivatives, at fair value 
+      
+    $ 
+
+Fuel price derivatives, at fair value 
+      
+    $ 
+    5,007 
+
+Fuel price 
+  derivatives, 
+  at fair value 
+      
+    $ 
+
+Fuel price 
+  derivatives, 
+  at fair value 
+      
+    $ 
+
+Foreign currency contracts 
+      
+    Accounts receivable 
+      
+    $ 
+
+Accounts receivable 
+      
+    $ 
+
+Accounts payable 
+      
+    $ 
+    9 
+      
+    Accounts payable 
+      
+    $ 
+    90 
+
+9. 
+    Financing and Other Debt 
+
+2016 Credit Agreement 
+  On   July 1, 2016  , the Company entered into the 2016 Credit Agreement, which replaced the 2014 Credit Agreement. The 2016 Credit Agreement provides for a tranche A term loan facility in an amount equal to   $455,000   that matures on   July 1, 2021  , a tranche B term loan facility in an amount equal to   $1,200,000   that matures on July 1, 2023, and a   $470,000   secured revolving credit facility, with a   $250,000   sublimit for letters of credit and a   $20,000   sublimit for swingline loans, that terminates on   July 1, 2021  . Additional loans of up to the greater of   $375,000   (plus the amount of certain prepayments) and an unlimited amount subject to satisfaction of a consolidated leverage ratio test of   4.00   to   1.00   may be made available under the 2016 Credit Agreement upon request of the Company subject to specified terms and conditions, including receipt of lender commitments. Proceeds from the 2016 Credit Agreement may be used for working capital purposes, acquisitions, payment of dividends and other restricted payments, refinancing of indebtedness, and other general corporate purposes.  
+  As of   September 30, 2016  , the Company had   $86,424  , net of loan origination fees, of borrowings against its   $470,000   revolving credit facility. The outstanding debt under the amortizing term loan arrangement totaled   $1,615,841  , net of loan origination fees at   September 30, 2016  . As of September 30, 2016, amounts outstanding under the 2016 Credit Agreement bore a weighted average effective interest rate of   3.8%  .  
+  Amounts outstanding under the 2016 Credit Agreement bear interest at a rate equal to, at the Company s option, (a) the Eurocurrency Rate, as defined in the 2016 Credit Agreement, plus a margin of between   1.75%   to   3.25%   (  3.25%   at September 30, 2016) with respect to the tranche A term loan facility and the revolving credit facility and between   3.25%   to   3.50%   (  3.50%   at September 30, 2016) with respect to the tranche B term loan facility (with the Eurocurrency Rate subject to a   0.75%   floor in the case of the tranche B term loan facility and a   0.0%   floor in the case of the tranche A term loan and revolving credit facility), in each case, based on the ratio of consolidated funded indebtedness of the Company and its subsidiaries to consolidated EBITDA or (b) the highest of (i) the Federal Funds Rate plus   0.50%  , (ii) the prime rate announced by Bank of America, and (iii) the Eurocurrency Rate plus   1.00%  , in each case plus a margin of   0.75%   to   2.25%   (  2.25%   at September 30, 2016) with respect to the tranche A term loan facility and the revolving credit facility or   2.25%   to   2.50%   (  2.50%   at September 30, 2016) with respect to the tranche B term loan facility, in each case, based on the ratio of consolidated funded indebtedness of the Company and its subsidiaries to consolidated EBITDA. In addition, the Company has agreed to pay a quarterly commitment fee at a rate per annum ranging from   0.30%   to   0.50%   (  0.50%   at September 30, 2016) based on the ratio of consolidated funded indebtedness of the Company and its subsidiaries to consolidated EBITDA of the daily unused portion of the 2016 Credit Agreement. The tranche B term loan facility was issued with an original issue discount of   1.00%  .  
+  The 2016 Credit Agreement requires the Company to prepay outstanding term loans, subject to certain exceptions, with:  
+             
+    solely with respect to the tranche B term loan facility, currently   50%   (subject to reduction to   25%   and   0%   based upon the Company s consolidated leverage ratio) of the Company s annual Excess Cash Flow (as defined in the 2016 Credit Agreement); 
+                
+    100%   of the net cash proceeds of certain asset sales where the proceeds exceed certain thresholds, and certain casualty and condemnation events, subject to reinvestment rights and certain other exceptions; and  
+     
+   20 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+100%   of the net cash proceeds of any incurrence or issuance of certain debt, other than debt permitted under the 2016 Credit Agreement. 
+     The Company may voluntarily prepay outstanding loans from time to time, subject to certain conditions, without premium or penalty other than customary  breakage  costs with respect to Eurocurrency Rate loans, provided, however, that if on or prior to the date that is twelve (12) months following the closing date, the Company prepays any loans under the tranche B term loan facility in connection with a repricing transaction, the Company must pay a prepayment premium of   1.00%   of the aggregate principal amount of the tranche B term loans so prepaid.  
+  The Company is required to make scheduled quarterly payments each equal to   1.25%   in the case of the tranche A term loan facility, and   0.25%   in the case of the tranche B term loan facility, of the original principal amount of the respective term loans made on the closing date, with the balance due at maturity. 
+  The 2016 Credit Agreement contains customary representations and warranties, as well as affirmative and negative covenants. The 2016 Credit Agreement also requires, solely for the benefit of the lenders under the tranche A term loan facility and the revolving credit facility, that the Company maintain at the end of each fiscal quarter the following financial ratios:  
+             
+    a consolidated EBITDA to consolidated interest charge coverage ratio of no less than   3.25   to 1.00; and  
+      The obligations under the 2016 Credit Agreement are secured by a security interest in, subject to certain exceptions, substantially all of the assets of the Company pursuant to the terms of a U.S. Security Agreement, dated as of July 1, 2016, in favor of Bank of America, as collateral agent for the lenders.  
+  On July 1, 2016, the Company borrowed the entire principal amount of the tranche A term loan facility, the entire principal amount of the tranche B term loan facility and   $220,000   under the revolving credit facility to pay the cash portion of the purchase price for the acquisition of EFS, repay EFS's outstanding credit facilities, repay amounts outstanding under the 2014 Credit Agreement, and pay related fees, expenses and other transaction costs, as well as for working capital and other general corporate purposes. The total initial borrowing on July 1, 2016 was   $1,875,000   and the total borrowing capacity under the 2016 Credit Agreement is   $2,125,000  .  
+  On July 1, 2016, concurrently with the financing transactions discussed above, the Company repaid in full all outstanding amounts under the 2014 Credit Agreement and terminated all commitments by the lenders to extend further credit thereunder and all guarantees and security interests granted by the Company to the lenders thereunder. The Company did not incur any early termination penalties in connection with the termination of the 2014 Credit Agreement. 
+  2014 Credit Agreement  
+  As of June 30, 2016, the Company had   $282,639  , net of loan origination fees, of borrowings against its   $700,000   revolving credit facility. The outstanding debt under the amortizing term loan arrangement, which was scheduled to expire in January of 2018, totaled   $445,000   at June 30, 2016 and   $458,750   at   December 31, 2015  . As of June 30, 2016, amounts outstanding under the amortizing term loan bore interest at a rate of LIBOR plus   200   basis points. The revolving credit facility bore interest at a rate equal to, at the Company's option, (a) LIBOR plus   200   basis points, (b) the prime rate plus   100   basis points for domestic borrowings; and the Eurocurrency rate plus   200   basis points for international borrowings. 
+  On July 1, 2016, the Company entered into the 2016 Credit Agreement, which replaced the 2014 Credit Agreement. See above for a discussion of the 2016 Credit Agreement. 
+  
+   21 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+Borrowed Federal Funds  
+  In the   third   quarter of 2016, the Company increased its federal funds lines of credit to   $225,000  . As of   September 30, 2016  , the Company had   $0   outstanding on its   $225,000   federal funds lines of credit. As of   December 31, 2015   the Company had   no   outstanding balance on its   $257,500   of available credit on these lines.  
+  UNIK debt 
+  UNIK had approximately   $13,127   of debt as of   September 30, 2016  , and   $5,046   of debt as of   December 31, 2015  . UNIK's debt is comprised of various credit facilities held in Brazil, with various maturity dates. The weighted average annual interest rate was   14.6 percent   as of   September 30, 2016   and   13.5 percent   as of   December 31, 2015  . This debt is classified in Other debt on the Company s unaudited condensed consolidated balance sheets for the periods presented.    
+  Participation debt 
+  During the second quarter of 2014, WEX Bank entered into an agreement with a third-party bank to fund customer balances that exceeded WEX Bank's lending limit to an individual customer. This agreement was most recently amended in July 2016 to extend the maturity date while maintaining a funding capacity of   $45,000  . During the second quarter of 2016, WEX Bank entered into another agreement with a separate third-party bank for a funding capacity of   $10,000  . This agreement was amended in August 2016 to increase the funding capacity to   $50,000  . These borrowings carry a variable interest rate of 1 to 3-month LIBOR plus a margin of 225 basis points.  The balance of the debt was   $95,000   as of   September 30, 2016   and   $45,000   as of   December 31, 2015   and was secured by an interest in the underlying customer receivables. The participation debt balance will fluctuate on a daily basis based on customer funding needs, and will range from   $0   to   $95,000  . The Company's participation debt agreements will mature on December 31, 2020 and August 18, 2017, respectively. This debt is classified in Other debt on the Company s unaudited condensed consolidated balance sheets for the periods presented.   
+  Australian securitization facility  
+  On April 28, 2015, the Company entered into a   one   year securitized debt agreement with the Bank of Tokyo-Mitsubishi UFJ, Ltd. In April 2016, this agreement was extended for   one year  . Under the terms of the agreement, each month, on a revolving basis, the Company sells certain of its Australian receivables to our Australian Securitization Subsidiary. The Australian Securitization Subsidiary, in turn, uses the receivables as collateral to issue asset-backed commercial paper ("securitized debt") for approximately   85 percent   of the securitized receivables. The amount collected on the securitized receivables is restricted to pay the securitized debt and is not available for general corporate purposes.  
+  The Company pays a variable interest rate on the outstanding balance of the securitized debt, based on the Australian Bank Bill Rate plus an applicable margin. The interest rate was   2.70 percent   as of   September 30, 2016   and   2.91 percent   as of   December 31, 2015  . The Company had   $76,408   of securitized debt under this facility as of   September 30, 2016   and   $82,018   of securitized debt as of   December 31, 2015  . 
+  European securitization facility  
+  On April 7, 2016, the Company entered into a   five   year securitized debt agreement with the Bank of Tokyo-Mitsubishi UFJ, Ltd. Under the terms of the agreement, the Company sells certain of its receivables from selected European countries to our European Securitization Subsidiary. The European Securitization Subsidiary, in turn, uses the receivables as collateral to issue securitized debt. The amount collected on the securitized receivables is restricted to pay the securitized debt and is not available for general corporate purposes. The amounts of receivables to be securitized under this agreement will be determined by management on a monthly basis. The Company had   $7,460   of securitized debt under this facility as of September 30, 2016 at an interest rate of   0.83 percent  . 
+  Debt issuance costs 
+  During the third quarter of 2016, the Company capitalized approximately   $46,882   of debt issuance costs associated with the 2016 Credit Agreement. Additionally, we expensed approximately   $5,056   during the third quarter of 2016 related to noncapitalizable third-party costs incurred in connection with the modification of certain 2014 Credit Agreement syndicate loans. These debt issuance costs will be amortized into interest expense over the 2016 Credit Agreement's term using the effective interest method for the tranche A and B term loans and the straight-line method for the revolver. 
+  The Company recognized a loss of   $2,018   associated with the early extinguishment of the 2014 Credit Agreement during the three months ended September 30, 2016, including a partial write-off of previously capitalized debt issuance costs and newly paid lender fees associated with the extinguishment of syndicate borrowings. 
+  
+   22 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+In January 2016, the Company began to incur ticking fees for the debt financing commitment associated with the 2016 Credit Agreement in anticipation of the then pending acquisition of EFS. Pursuant to the terms set forth in the bank commitment letter, the ticking fees were calculated based on the financing commitment in the aggregate amount of   $2,125,000  , and remained in place until the closing of the EFS acquisition on July 1, 2016 (see Note 3). Total ticking fees accrued were   $30,045   for the   nine   months ended September 30, 2016, and are included in financing interest expense. In conjunction with the continued negotiation of the Company's new credit agreement, the amount of ticking fees to be paid was reduced by   $7,874  .  The total amount of ticking fees paid at the closing of the EFS acquisition was   $22,171  . The excess ticking fees were reflected as a reduction of the   $46,882   debt issuance costs related to the 2016 Credit Agreement noted above and will be amortized over the 2016 Credit Agreement's term using the effective interest method for the tranche A and B term loans and the straight-line method for the revolver. 
+  The following table presents the Company's net debt issuance costs related to its revolving line-of-credit facilities, term loan and notes outstanding:   
+
+The Company holds mortgage-backed securities, fixed income securities, derivatives (see Note 8, Derivative Instruments) and certain other financial instruments which are carried at fair value. The Company determines fair value based upon quoted prices when available or through the use of alternative approaches, such as model pricing, when market quotes are not readily accessible or available. In determining the fair value of the Company s obligations, various factors are considered, including: closing exchange or over-the-counter market price quotations; time value and volatility factors underlying options and derivatives; price activity for equivalent instruments; and the Company s own credit standing. 
+  These valuation techniques may be based upon observable and unobservable inputs. Observable inputs reflect market data obtained from independent sources, while unobservable inputs reflect the Company s market assumptions. These two types of inputs create the following fair value hierarchy: 
+             
+    Level 1   Quoted prices for identical instruments in active markets. 
+                
+    Level 2   Quoted prices for similar instruments in active markets; quoted prices for identical or similar instruments in markets that are not active; and model-derived valuations whose inputs are observable or whose significant value drivers are observable. 
+                
+    Level 3   Instruments whose significant value drivers are unobservable. 
+     Assets and liabilities measured at fair value are classified in their entirety based on the lowest level of input that is significant to the fair value measurement. Our assessment of the significance of a particular input to the fair value measurement in its entirety requires judgment and considers factors specific to the asset or liability. We did not have any transfers between Level 1 and Level 2 of the fair value hierarchy during the three or nine months ended September 30, 2016.  
+  
+   23 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+The following table presents the Company s assets that are measured at fair value and the related hierarchy levels as of   September 30, 2016  :    
+
+(a)   
+    The fair value of these instruments is recorded in Other assets. 
+               (b)   
+    The fair value of these instruments is recorded in Accounts payable. 
+       
+  The following table presents the Company s assets and liabilities that are measured at fair value and the related hierarchy levels as of   December 31, 2015  :   
+
+            (a)   
+    The fair value of these instruments is recorded in Other assets. 
+               (b)   
+    The balance sheet presentation combines unleaded fuel and diesel fuel positions. 
+               (c)   
+    The fair value of these instruments is recorded in Accounts payable. 
+
+24 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+Available-for-sale securities and executive deferred compensation plan trust 
+  When available, the Company uses quoted market prices to determine the fair value of available-for-sale securities; such items are classified in Level 1 of the fair-value hierarchy. These securities primarily consist of an open-ended mutual fund which is invested in fixed-income securities and is held in order to satisfy certain regulatory requirements of WEX Bank. 
+  For mortgage-backed and asset-backed debt securities and bonds, the Company generally uses quoted prices for recent trading activity of assets with similar characteristics to the debt security or bond being valued. The securities and bonds priced using such methods are generally classified as Level 2. The obligations related to the deferred compensation plan trust are classified as Level 1 in the fair value hierarchy because the fair value is determined using quoted prices for identical instruments in active markets. 
+  Foreign currency contracts 
+  Derivatives include foreign currency forward and swap contracts. The Company's foreign currency forward and swap contracts are valued using an income approach (Level 2) based on the spot rate less the contract rate multiplied by the notional amount. We consider counterparty credit risk in the valuation of the Company's derivatives. This credit risk did not have a material impact on the valuation of the Company's derivatives during 2016 and 2015. 
+  Fuel price derivative instruments 
+  The majority of fuel price derivative instruments entered into by the Company were executed over-the-counter and were valued using internal valuation techniques as no quoted market prices exist for such instruments. The valuation technique and inputs depend on the type of derivative and the nature of the underlying instrument. The principal technique used to value these instruments was a comparison of the spot price of the underlying instrument to its related futures curve adjusted for the Company s assumptions of volatility and present value, where appropriate. The fair values of derivative contracts reflected the expected cash the Company would pay or receive upon settlement of the respective contracts. 
+  The key inputs depend upon the type of derivative and the nature of the underlying instrument and include interest rate yield curves, the spot price of the underlying instruments, volatility, and correlation. The item was placed in either Level 2 or Level 3 depending on the observability of the significant inputs to the model. Correlation and inputs with longer tenures are generally less observable. 
+  Fuel price derivative instruments   diesel.   The assumptions used in the valuation of the diesel fuel price derivative instruments used both observable and unobservable inputs. There is a lack of price transparency with respect to forward prices for diesel fuel. Such unobservable inputs are significant to the diesel fuel derivative contract valuation methodology.   
+  After the first quarter of 2016, the Company no longer holds any fuel price derivatives. 
+    
+  The following table presents a reconciliation of the beginning and ending balances for fuel-price derivative assets measured at fair value on a recurring basis using significant unobservable inputs (Level 3) during the   three months ended   September 30, 2015: 
+
+(a)   
+    Gains and losses for the three months ended September 30, 2015 are reported in net realized and unrealized losses on fuel price derivatives on the unaudited condensed consolidated statements of income. 
+
+25 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+The following table presents a reconciliation of the beginning and ending balances for fuel-price derivative assets measured at fair value on a recurring basis using significant unobservable inputs (Level 3) during the nine months ended: 
+
+(a)   
+    Gains and losses for the nine months ended September 30, 2016 and 2015 are reported in net realized and unrealized losses on fuel price derivatives on the unaudited condensed consolidated statements of income. 
+     Debt 
+  We determine the fair value of the amount outstanding under our 2016 Credit Facility and Notes based on the market rates for the issuance of the Company's debt which are Level 2 inputs in the fair value hierarchy. The fair value of amounts outstanding under the 2016 Credit Facility approximate the carrying value. 
+  The Notes outstanding as of   September 30, 2016   have a carrying value of   $400,000  , less loan origination fees of   $4,649  , and a fair value of   $396,000  . As of   December 31, 2015   the carrying value of the   $400,000   in Notes outstanding, less loan origination fees of   $5,200  , had a fair value of   $366,000  .  
+   
+                 11. 
+    Accumulated Other Comprehensive Income (Loss) 
+
+A reconciliation of accumulated other comprehensive income (loss) for the three month periods ended   September 30, 2016   and   2015  , is as follows: 
+
+A reconciliation of accumulated other comprehensive income (loss) for the   nine   month periods ended   September 30, 2016   and   2015  , is as follows: 
+
+No amounts were reclassified from accumulated other comprehensive income (loss) in the periods presented. 
+  
+   26 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+The change in foreign currency items is primarily due to the foreign currency translation of non-cash assets such as goodwill and other intangible assets related to the Company's foreign subsidiaries.  
+  The total tax effect on accumulated unrealized losses, as of   September 30, 2016  , was   $5,025  , and the total tax effect on accumulated unrealized losses, as of   September 30, 2015  , was   $1,414  .  
+   
+                 12. 
+    Non-controlling Interests 
+
+On   August 30, 2012  , the Company acquired a   51 percent   ownership interest in UNIK. The redeemable non-controlling interest was measured at fair value at the date of acquisition and was reported on the Company s unaudited condensed consolidated balance sheets as  Redeemable non-controlling interest." On   August 31, 2015  , the Company acquired the remaining   49 percent   ownership in UNIK for   $46,018  . Due to put rights held by the non-controlling shareholders after the Company's original investment, the non-controlling interest was previously reported as a liability rather than permanent equity. The Company agreed to cancel this put option in conjunction with the acquisition of the remaining   49 percent   ownership. The value of the redeemable non-controlling interest was adjusted to the redemption value at date of purchase and the Company recorded the adjustment to retained earnings. This adjustment to retained earnings reduces the Earnings Per Share to shareholders. The Company recorded the amount paid in excess of the redemption value in additional paid-in capital and the impact related to foreign currency in accumulated other comprehensive income. The Company's overall purchase price was less than the fair value of UNIK. 
+  A reconciliation of redeemable non-controlling interest for the   three and nine   month periods ended   September 30, 2015  , is as follows: 
+
+On December 1, 2014, WEX acquired the assets of ExxonMobil's Esso portfolio in Europe through its majority owned subsidiary, WEX Europe Services Limited. The Company formed this entity during 2013 and has   75 percent   ownership.  
+    
+  A reconciliation of non-controlling interest for the   three and nine   month periods ended   September 30, 2016   and   September 30, 2015   is as follows:  
+
+The Company's effective tax rate was   24.0 percent   for the third quarter of 2016 as compared to   42.4 percent   for the third quarter of 2015. A decrease to valuation allowances previously established on estimated non-deductible expenses and certain state net operating losses in the aggregate amount of   $3,175   was recorded as a reduction to income tax expense during the third quarter of 2016. The acquisition of EFS provided additional sources of taxable income causing a change in judgment about the realizability of related deferred tax assets. Nondeductible expenses and discrete tax items in the third quarter of 2015 contributed to the higher effective tax rate, as compared to the third quarter of 2016. Other factors contributing to the rate  
+  
+   27 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+fluctuation include changes in the mix of earnings among different tax jurisdictions as well as changes to overall worldwide profitability.   
+  Undistributed earnings of certain foreign subsidiaries of the Company amounted to   $27,092   at   September 30, 2016  , and   $13,230   at   December 31, 2015  . These earnings are considered to be indefinitely reinvested, and accordingly, no U.S. federal and state income taxes have been provided thereon. Upon distribution of these earnings in the form of dividends or otherwise, the Company would be subject to both U.S. income taxes (subject to an adjustment for foreign tax credits) and withholding taxes payable to the various foreign countries. The Company has determined that the amount of taxes attributable to these undistributed earnings is not practicably determinable. 
+   
+                 14. 
+    Commitments and Contingencies 
+
+Litigation 
+  On August 11, 2016, the Company was sued in the Circuit Court of St. Charles County, Missouri, in a putative class action alleging the Company improperly sent unauthorized facsimile advertisements in violation of the Telephone Consumer Protection Act, 47 U.S.C.   227 (the  TCPA ). The named plaintiff seeks to represent a nationwide class of recipients of unauthorized facsimile advertisements from the Company (collectively, the "Plaintiffs") and requests statutory damages for each facsimile advertisement. The Plaintiffs further allege that the opt-out notice of the faxes did not meet the criteria set forth in the TCPA or its underlying regulations. The Company removed the case to the United States District Court for the Eastern District of Missouri on September 15, 2016. On October 14, 2016, the Company filed an answer denying liability and stating the facsimile advertisement at issue was sent by FleetOne, LLC, Company s wholly-owned subsidiary.   
+  The Company is currently conducting an internal review of this matter and intends to vigorously defend itself. The current estimate of a reasonably possible loss contingency is not material to the Company's consolidated financial position, results of operations, cash flows or liquidity. 
+  The Company is involved in other pending litigation in the ordinary course of business. In the opinion of management, such litigation will not have a material adverse effect on the Company s unaudited condensed consolidated financial position, results of operations or cash flows. 
+  Commitments 
+  As described in Notes 3 and 9, the Company closed on the 2016 Credit Agreement and the EFS acquisition on July 1, 2016. 
+  Other significant commitments and contingencies as of September 30, 2016 are consistent with those discussed in Note 18 to the consolidated financial statements in the 2015 Annual Report. 
+
+In the first quarter of 2015, the Company commenced a restructuring initiative (the "2015 Restructuring Initiative") as a result of its global review of operations. The global review of operations identified certain initiatives to further streamline the business, improve the Company's efficiency, and to globalize the Company's operations, all with an objective to improve scale and increase profitability going forward.   
+  The Company continued its efforts to improve its overall operational efficiency and began a second restructuring initiative (the "2016 Restructuring Initiative") during the second quarter of 2016. In connection with the EFS acquisition, the Company initiated a restructuring program in the third quarter of 2016 (the "Acquisition Integration Restructuring Initiative"). 
+  The restructuring expenses related to these initiatives primarily consist of employee costs and office closure costs directly associated with the program. The Company has determined that the amount of expenses related to these initiatives are probable and estimable and has recorded the impact on the unaudited condensed consolidated statements of income and in Accrued expenses on the unaudited condensed consolidated balance sheet. The balance under the 2015 Restructuring Initiative is expected to be paid through 2017, the amount under the 2016 Restructuring Initiative is expected to be paid through 2018, and the amount under the Acquisition Integration Restructuring Initiative is expected to be paid through 2017. The Company expects to incur an additional   $3,000   in restructuring costs related to the 2015 Restructuring Initiative, an additional   $900   in restructuring costs related to the 2016 Restructuring Initiative, and an additional   $1,300   in restructuring costs related to the Acquisition Integration Restructuring Initiative. 
+  
+   28 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+The following table presents the Company's 2015 Restructuring Initiative liability for the   three and nine   months ended   September 30, 2016   and 2015:   
+
+  The following table presents the Company s 2016 Restructuring Initiative liability for the   three and nine   months ended   September 30, 2016  : 
+
+The following table presents the Company s Acquisition Integration Restructuring Initiative liability for the   three and nine   months ended   September 30, 2016  : 
+
+The following table presents the Company's total restructuring liability for the   three and nine   months ended   September 30, 2016   and   2015  : 
+
+29 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+16. 
+    Segment Information 
+
+Operating segments are defined as components of an enterprise about which separate financial information is available and is evaluated regularly by the chief operating decision maker in deciding how to allocate resources and assess performance. The Company s chief operating decision maker is its Chief Executive Officer. The operating segments are aggregated into the   three   reportable segments described below. 
+  The Company s chief operating decision maker evaluates the operating results of the Company s operating and reportable segments based upon revenues and adjusted pre-tax income before NCI which adjusts income before income taxes to exclude certain items as noted below. 
+  The Fleet Solutions segment provides customers with payment and transaction processing services specifically designed for the needs of commercial and government fleets. This segment also provides information management services to these fleet customers. The Travel and Corporate Solutions segment focuses on the complex payment environment of business-to-business payments, providing customers with payment processing solutions for their corporate payment and transaction monitoring needs. The Health and Employee Benefit Solutions segment provides healthcare payment products and SaaS consumer directed platforms, as well as payroll related benefits to customers in Brazil. Prior to the fourth quarter of 2015, the Company reported its results of operations in   two   business segments, Fleet Payment Solutions and Other Payment Solutions. During the fourth quarter of 2015, the Company revised its internal and external reporting and reports its results of operations in   three   reportable segments. The Company has recast the prior year's segment information to conform to the current year presentation.  
+  During the third quarter of 2016, management continued to further refine our segment reporting, reclassifying certain  revenues and expenses previously reported in our Health and Employee Benefit Solutions segment to our Fleet Solutions segment. The prior year amounts have been revised to reflect these adjustments, which were not deemed to be material to prior interim or annual periods, either individually or in the aggregate. 
+    
+  Our segments earn interest income both from banking relationships and from cardholders. The majority of interest income from cardholders is earned on our salary payment cards offered in Brazil.  
+    
+  The following table presents the Company's interest income by segment: 
+
+Net realized and unrealized losses on derivative instruments are allocated to the Fleet Solutions segment in the computation of segment results for internal evaluation purposes. Total assets are not allocated to the segments. 
+  Beginning in the second quarter of 2015, adjusted pre-tax income before NCI excludes net foreign currency gains and losses. Beginning in the third quarter of 2016, adjusted pre-tax income before NCI further excludes debt issuance cost amortization. For comparative purposes, adjusted pre-tax income before NCI attributable to shareholders for the prior periods has been adjusted to reflect the exclusion of these items and differs from the figure previously reported due to this adjustment. 
+  The segment information has also been updated for the three and nine month periods ended September 30, 2015 to disaggregate revenue into payment processing, account servicing, finance fee and other revenue in order to provide additional information regarding the Company s significant revenue streams and to conform to the current year presentation. There was no change to total revenue or other financial information in any of the periods presented as a result of this updated presentation. 
+  
+   30 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+The following tables present the Company s reportable segment results on an adjusted pre-tax net income before NCI basis for the   three and nine   months ended   September 30, 2016   and   2015  : 
+
+31 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+The following table reconciles income before income taxes to adjusted pre-tax income before NCI:  
+
+The Company's adjusted pre-tax income before NCI excludes acquisition and divestiture related items, debt restructuring and debt issuance cost amortization, stock-based compensation, restructuring and other costs related to certain outsourcing initiatives, changes in unrealized fuel price derivatives, net foreign currency remeasurement gains and losses, non-cash adjustments related to our tax receivable agreement and reserves for regulatory penalties. 
+  Although adjusted pre-tax income before NCI is not calculated in accordance with GAAP, this non-GAAP measure is integral to the Company's reporting and planning processes and the chief operating decision maker of the Company uses it to allocate resources. The Company considers this measure integral because in the periods prior to the second quarter of 2016, it eliminated the non-cash volatility associated with fuel price related derivative instruments, and it continues to exclude other specified items that the Company's management excludes in evaluating the Company's performance. Specifically, in addition to evaluating the Company's performance on a GAAP basis, management evaluates the Company's performance on a basis that excludes the above items because:  
+             
+    The Company considers certain acquisition-related costs, including certain financing costs, ticking fees, investment banking fees, warranty and indemnity insurance, acquisition-related expenses and amortization of acquired intangibles, as well as gains and losses from divestitures to be unpredictable, dependent on factors that may be outside of our control and unrelated to the continuing operations of the acquired or divested business or the Company. In prior periods not reflected above, the Company has adjusted for goodwill impairments and acquisition related asset impairments. In addition, the size and complexity of an acquisition, which often drives the magnitude of acquisition-related costs, may not be indicative of such future costs. The Company believes that excluding acquisition-related costs and gains or losses of divestitures facilitates the comparison of our financial results to the Company's historical operating results and to other companies in our industry. 
+                
+    Debt issuance cost amortization is a non-cash item.  Additionally, both the debt issuance cost amortization and the costs associated with debt restructuring are unrelated to the continuing operations of the Company.   Because these types of costs are dependent upon the financing method which can vary widely company to company, we believe that excluding these costs helps to facilitate comparison to historical results as well as to other companies within our industry. 
+                
+    Stock-based compensation is different from other forms of compensation, as it is a non-cash expense. For example, a cash salary generally has a fixed and unvarying cash cost. In contrast, the expense associated with an equity-based award is generally unrelated to the amount of cash ultimately received by the employee, and the cost to the Company is based on a stock-based compensation valuation methodology and underlying assumptions that may vary over time. 
+                
+    Restructuring and other costs are related to employee termination benefits from certain identified initiatives to further streamline the business, improve the Company's efficiency, create synergies, globalize the Company's operations, and advance certain outsourcing initiatives, all with an objective to improve scale and increase profitability going forward. We exclude these items when evaluating our continuing business performance as such items are not consistently occurring and do not reflect expected future operating expense, nor provide insight into the fundamentals of current or past operations of our business.  
+     
+   32 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+Exclusion of the non-cash, mark-to-market adjustments on fuel-price related derivative instruments helps management identify and assess trends in the Company's underlying business that might otherwise be obscured due to quarterly non-cash earnings fluctuations associated with fuel-price-related derivative contracts. The non-cash mark-to-market adjustments on derivative instruments are difficult to forecast accurately, making comparisons across historical and future quarters difficult to evaluate. 
+                
+    Net foreign currency gains and losses primarily result from the remeasurement to functional currency of cash, receivable and payable balances, certain intercompany notes denominated in foreign currencies and any gain or loss on foreign currency hedges relating to these items. The exclusion of these items helps management compare changes in operating results between periods that might otherwise be obscured due to currency fluctuations. 
+                
+    Regulatory reserves reflect charges related to the estimated impact of a regulatory action which resulted in WEX paying a penalty. We have excluded this item when evaluating our continuing business performance as it is not consistently recurring and does not reflect an expected future operating expense, nor provide insight into the fundamentals of the current or past operations of our business.  
+                
+    The non-cash adjustments related to tax receivable agreement have no significant impact on the ongoing operations of the business. 
+     For the same reasons, WEX believes that adjusted pre-tax income before NCI may also be useful to investors as one means of evaluating the Company's performance. However, because adjusted pre-tax income before NCI is a non-GAAP measure, it should not be considered as a substitute for, or superior to, net income, operating income or cash flows from operating activities as determined in accordance with GAAP. In addition, adjusted pre-tax income before NCI as used by WEX may not be comparable to similarly titled measures employed by other companies.  
+   
+                 17. 
+    Supplementary Regulatory Capital Disclosure 
+
+The Company's subsidiary, WEX Bank is subject to various regulatory capital requirements administered by the FDIC and the Utah Department of Financial Institutions. Failure to meet minimum capital requirements can initiate certain mandatory, and possible additional discretionary, actions by regulators that, if undertaken, could have a direct material effect on the Company s financial statements. Under capital adequacy guidelines and the regulatory framework for prompt corrective action, WEX Bank must meet specific capital guidelines that involve quantitative measures of WEX Bank s assets, liabilities, and certain off-balance-sheet items as calculated under regulatory accounting practices. WEX Bank s capital amounts and classification are also subject to qualitative judgments by the regulators about components, risk weightings, and other factors. 
+  Quantitative measures established by regulation to ensure capital adequacy require WEX Bank to maintain minimum amounts and ratios as defined in the regulations. As of   December 31, 2015  , the most recent FDIC exam report categorized WEX Bank as  well capitalized  under the regulatory framework for prompt corrective action. There     are no conditions or events subsequent to that examination report that management believes have changed WEX Bank s capital rating. 
+  
+   33 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+WEX Bank s actual and regulatory minimum capital amounts and ratios as of   September 30, 2016   are presented in the following table: 
+
+WEX Bank's actual and regulatory minimum capital amounts and ratios as of   December 31, 2015   are presented in the following table:   
+
+Interest Rate Swap Agreements 
+  On November 3, 2016, the Company entered into   three   forward-fixed interest rate swap agreements to manage the interest rate risk associated with our outstanding variable-interest rate borrowings. Commencing on December 30, 2016, the Company will receive variable interest of 1-month LIBOR under these swaps and will pay fixed rates between   0.896%   to   1.125%   under these swap agreements, reducing a portion of the variability of the future interest payments associated with   $800,000   of our borrowings. 
+  The derivative agreements do not qualify for hedge accounting treatment and as such future changes in the fair value of these derivatives will be marked-to-market within our consolidated statements of income. 
+  
+   34 
+
+     Table of Contents  
+  WEX INC 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (continued) 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+The notional amounts, fixed and variable interest rates and maturities of the swap agreements are as follows: 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+  We intend for this discussion to provide the reader with information that will assist in understanding our financial statements, the changes in key items in those financial statements from year to year, and the primary factors that accounted for those changes, as well as how certain accounting estimates affect our financial statements. The discussion also provides information about the financial results of the three segments of our business to provide a better understanding of how those segments and their results affect our financial condition and results of operations as a whole. This discussion should be read in conjunction with our audited consolidated financial statements as of December 31, 2015, the notes accompanying those financial statements and management s discussion and analysis as contained in our Annual Report on Form 10-K filed with the SEC on February 26, 2016 and in conjunction with the unaudited condensed consolidated financial statements and notes in     Item 1     of     Part I     of this report. 
+
+Overview 
+  WEX is a leading provider of corporate card payment solutions. We have expanded the scope of our business into a multi-channel provider of corporate payment solutions. We currently operate in three business segments: Fleet Solutions, Travel and Corporate Solutions, and Health and Employee Benefit Solutions. Our business model enables us to provide exceptional payment security and control across a spectrum of payment sectors. The Fleet Solutions segment provides customers with fleet vehicle payment processing services specifically designed for the needs of commercial and government fleets. Fleet Solutions revenue is earned primarily from payment processing, account servicing and financing fees. Management estimates that WEX fleet cards are accepted at over 90 percent of fuel locations in each of the United States and Australia. The Travel and Corporate Solutions segment focuses on the complex payment environment of business-to-business payments, providing customers with payment processing solutions for their corporate payment and transaction monitoring needs. The Health and Employee Benefit Solutions segment provides healthcare payment products and SaaS consumer directed platforms, as well as payroll related benefits to customers in Brazil.  
+  The Company s U.S. operations include WEX, Fleet One, WEX Bank, WEX Health, and EFS. Our international operations include our wholly-owned subsidiaries WEX Fuel Cards Australia, WEX Prepaid Cards Australia, WEX New Zealand, UNIK, a Brazil-based company, and WEX Europe, located in the United Kingdom, and our majority owned subsidiary WEX Europe Services, also located in the United Kingdom.  
+   
+  Summary 
+  Below are selected items from the   third   quarter of   2016  : 
+             
+    Average number of vehicles serviced increased   6 percent   from the   third   quarter of   2015   to approximately   10.3 million   for the   third   quarter of   2016  , primarily related to the acquisition of EFS.    
+                
+    Total fuel transactions processed increased   21 percent   from the   third   quarter of   2015   to   126.9 million   for the   third   quarter of   2016  . Total payment processing transactions in our Fleet Solutions segment increased   15 percent   to   102.9 million   for the   third   quarter of   2016   as compared to the same quarter in   2015  . Transaction processing transactions increased   55 percent   to   24.0 million   for the   third   quarter of   2016  , as compared to the same quarter in   2015  . The increase in payment processing transactions resulted from a large customer portfolio converting from an unfunded to a fully funded relationship in the beginning of 2016 and the acquisition of EFS. The primary driver for the increase in transaction processing transactions was due to the acquisition of EFS, partially offset by the portfolio conversion mentioned above.  
+                
+    Average expenditure per payment processing transaction in our Fleet Solutions segment decreased   2   percent to   $64.05   for the   third   quarter of   2016  , from   $65.04   for the same period in the prior year. The average U.S. fuel price per gallon during the   third   quarter of   2016   was   $2.24  , a   14 percent   decrease as compared to the same period in the prior year. The  
+     
+   35 
+
+     Table of Contents  
+
+average Australian fuel price per gallon during the   third   quarter of   2016   was   $3.45  , a   5 percent   decrease as compared to the same period in the prior year. 
+             
+    Credit loss expense in the Fleet Solutions segment was   $5.7 million   during the   third   quarter of   2016  , as compared to   $6.2 million   during the   third   quarter of   2015  . Spend volume increased   13 percent   in the   third   quarter of   2016  , as compared to the same quarter last year and our credit losses were   8.6   basis points of fuel expenditures for the   third   quarter of   2016  , as compared to   10.6   basis points of fuel expenditures for the same period last year. 
+                
+    There were no realized gains or losses on fuel price derivatives during the   third   quarter of   2016   as compared to a realized gain of   $11.2 million   for the same period in the prior year. After the first quarter of 2016, the Company no longer holds fuel-price sensitive derivative instruments. 
+                
+    Travel and Corporate Solutions purchase volume grew by approximately   $1.3 billion   from the   third   quarter of   2015   to   $7.1 billion   for the   third   quarter of   2016  , an increase of   23 percent  , driven by organic growth in our travel product and the impact of the EFS acquisition. 
+                
+    Our foreign currency exchange exposure is primarily related to the re-measurement of our cash, receivable and payable balances that are denominated in foreign currencies. Movements in the exchange rates associated with our foreign held currencies resulted in a gain of   $5.9 million   for the   third   quarter of   2016  , compared to a gain of   $6.5 million   for the   third   quarter of 2015.  
+                
+    Our effective tax rate was   24.0 percent   for the   third   quarter of 2016 as compared to   42.4 percent   for the   third   quarter of 2015. A decrease to valuation allowances previously established on estimated non-deductible expenses and certain state net operating losses in the aggregate amount of $3.2 million was recorded as a reduction to income tax expense during the third quarter of 2016. The acquisition of EFS provided additional sources of taxable income causing a change in judgment about the realizability of related deferred tax assets. Nondeductible expenses and discrete tax items in the third quarter of 2015 contributed to the higher effective tax rate, as compared to the third quarter of 2016. Other factors contributing to the rate fluctuation include changes in the mix of earnings among different tax jurisdictions as well as changes to overall worldwide profitability. Future tax rates may fluctuate due to changes in the mix of earnings among different tax jurisdictions. Our tax rate may also fluctuate due to the impacts that rate and mix changes have on our net deferred tax assets. We anticipate that our future GAAP effective tax rate should be within the range of our historical rates. 
+      
+  Beginning in the fourth quarter of 2015, the Company reports results for three segments; Fleet Solutions, Travel and Corporate Solutions and Health and Employee Benefit Solutions. Previously, the Travel and Corporate Solutions segment and Health and Employee Benefit Solutions segment were combined in an Other Payment Solutions segment. This increase from two segments to three segments enhanced transparency and aligned with how we are now operating our business.  
+    
+  During the third quarter of 2016, management continued to further refine our segment reporting, reclassifying certain  revenues and expenses previously reported in our Health and Employee Benefits segment to our Fleet segment. The prior year amounts have been revised to reflect these adjustments, which were not deemed to be material to prior interim or annual periods, either individually or in the aggregate.    
+
+36 
+
+     Table of Contents  
+
+Results of Operations 
+  Fleet Solutions 
+  The following table reflects comparative operating results and key operating statistics within our Fleet Solutions segment:   
+
+Revenues 
+  Payment processing revenue increased   $2.9 million   for the   third   quarter of   2016   as compared to the same period in the prior year. This increase resulted from a higher payment processing volume related to the acquisition of EFS, organic growth and a large customer portfolio converting from an unfunded to a fully funded relationship in the beginning of 2016, partly offset by the impact of a   14%   decrease in the average domestic price per gallon of fuel in the third quarter of 2016 as compared to the same period in the prior year. 
+   Payment processing revenue decreased   $17.2 million   for the first   nine   months of 2016 as compared to the same period in the prior year, primarily due to a   17%   decrease in the average domestic price per gallon of fuel in the first   nine   months of   2016   as compared to the same period in the prior year and, to a lesser extent, the unfavorable impact of FX rates. These unfavorable impacts were partly offset by an increase in payment processing volume related to the EFS acquisition, organic growth and a large customer portfolio converting from an unfunded to a fully funded relationship in the beginning of 2016.  
+  
+   37 
+
+     Table of Contents  
+
+Account servicing revenue increased by   $11.4 million   for the   third   quarter of   2016   as compared to the same period in the prior year and   $15.1 million   for the first   nine   months of   2016   as compared to the same period in the prior year, resulting from increases in fees to certain customers as part of our price modernization efforts. 
+  Other revenue increased by   $16.2 million   for the third quarter of 2016 as compared to the same period in the prior year and   $14.1 million   for the first   nine   months of   2016   as compared to the same period in the prior year, resulting primarily from the acquisition of EFS. 
+  Finance fee revenue is comprised of the following components: 
+
+Late fee revenue is primarily fees charged for receivables not paid within the terms of the customer agreement based upon the outstanding customer receivable balance. Late fee revenue is earned when a customer s receivable balance becomes delinquent and is calculated using the lesser of a minimum charge or a stated late fee rate multiplied by the outstanding balance that is subject to a late fee charge. Changes in the absolute amount of such outstanding balances can be attributed to (i) changes in fuel prices; (ii) customer specific transaction volume; and (iii) customer specific delinquencies. Late fee revenue can also be impacted by (i) changes in late fee rates and (ii) increases or decreases in the customer overdue balances. Late fee rates are determined and set based primarily on the risk associated with our customers, coupled with a strategic view of standard rates within our industry. From time-to-time, we assess the market rates associated within our industry to determine what late fee rates are appropriate.  We consider factors such as the Company s overall financial model and strategic plan, the cost to our business from customers failing to pay timely and the impact such late payments have on our financial results.  These assessments are typically conducted at least annually but may occur more often depending on macro-economic factors. 
+  Late fees increased   $9.5 million   for the   third   quarter of   2016   as compared to the same period in the prior year. The increase in late fees was comprised of $10.9 million due to rate increases, partly offset by a decrease of $1.4 million due to the change in overdue balances. During the   third   quarter of   2016   and   2015  , late fee rates ranged from 0 to 6.99 percent monthly with a minimum of $75 and from 0 to 5.50 percent monthly with a minimum of $75, respectively. The weighted average rate was 5.2% and 2.9% for the   third   quarter of   2016   and   2015  , respectively. 
+  Late fees increased   $22.6 million   for the first   nine   months of   2016   as compared to the same period in the prior year. The increase in late fees was comprised of $28.4 million due to rate increases, partly offset by a decrease of $5.8 million due to the change in overdue balances. During the first   nine   months of   2016   and   2015  , late fee rates ranged from 0 to 6.99 percent monthly with a minimum of $75 and from 0 to 5.50 percent monthly with a minimum of $75, respectively. The weighted average rate was 4.8% and 2.8% for the first   nine   months of   2016   and   2015  , respectively. 
+  Concessions to certain customers experiencing financial difficulties may be granted and are limited to extending the time to pay, placing a customer on a payment plan or granting waivers of late fees. As of both   September 30, 2016   and   2015  , customer balances with such concessions totaled $0.5 million. 
+  The primary source of factoring fee revenue is calculated as a negotiated percentage fee of the receivable balance that we purchase. A secondary source of factoring revenue is a flat rate service fee to our customers that request a non-contractual same day funding of the receivable balance. Factoring fee revenue increased   $1.3 million   for the   third   quarter of   2016   as compared to the same period in the prior year and   $2.8 million   for the first   nine   months of   2016   as compared to the same period in the prior year. The increase in factoring fee revenue is due to organic growth and customer demand for our services. 
+  
+   38 
+
+     Table of Contents  
+
+Operating Expenses 
+  The following table compares selected expense line items within our Fleet Solutions segment for the   three months ended  : 
+
+Changes in operating expenses for the   third   quarter of   2016  , as compared to the same period in the prior year, include the following: 
+  Salary and other personnel expenses increased   $12.7 million   for the   third   quarter of   2016   as compared to the same period in the prior year. The increase is primarily due to the workforce assumed as part of the EFS acquisition and, to a lesser extent, increases in both variable compensation plans and benefit costs. These unfavorable impacts were partly offset by a reduction in salaries and benefits expense as result of our decision to outsource certain back office technology. 
+  Restructuring costs for the   third   quarter of   2016   increased   $2.6 million   as compared to the same period in the prior year, primarily due to restructuring initiatives related to our recent EFS acquisition and consists of employee termination benefits, which are expected to be paid through 2017. 
+  Service fees increased by   $16.5 million   for the   third   quarter of   2016   as compared to the same period in the prior year, primarily due to expenses associated with the acquisition of EFS as well as costs to outsource certain back office technology. 
+  Provision for credit losses decreased by   $0.5 million   for the   third   quarter of 2016 as compared to the same period in the prior year. We generally measure our credit loss performance by calculating credit losses as a percentage of total fuel expenditures on the payment processing transactions. This metric for credit losses was   8.6   basis points of fuel expenditures for the   third   quarter of   2016  , compared to   10.6   basis points of fuel expenditures for the same period last year.  We generally use a roll rate methodology to calculate the amount necessary for our ending receivable reserve balance. This methodology considers total receivable balances, recent charge off experience, recoveries on previously charged off accounts, and the dollars that are delinquent to calculate the total reserve. In addition, management undertakes a detailed evaluation of the receivable balances to help further ensure overall reserve adequacy. The expense we recognized in the quarter is the amount necessary to bring the reserve to its required level based on accounts receivable aging and net charge offs.  
+   Technology leasing and support expenses increased   $1.6 million   for the   third   quarter of   2016   as compared to the same period in the prior year. This increase is primarily due to additional software maintenance expense. 
+  Depreciation and amortization increased by   $21.9 million   for the   third   quarter of   2016   as compared to the same period in the prior year, primarily due to amortization of intangibles acquired in the EFS business combination. Refer to Note 3 included in Item 1 of Part I of this report for more information. Following the acquisition of EFS, the Company evaluated the estimated useful life of our existing over-the-road payment processing technology. As a result of this analysis, we recorded approximately $5.9 million of accelerated amortization related to this technology during the third quarter of 2016 and will amortize approximately $17.4 million of remaining net book value associated with this technology over the following nine months. 
+  
+   39 
+
+     Table of Contents  
+
+The following table compares selected expense line items within our Fleet Solutions segment for the   nine months ended  : 
+
+Salary and other personnel expenses increased   $15.7 million   for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year. The increase is due to the workforce assumed as part of the EFS acquisition, annual changes in salary and increases in variable compensation plans and benefit costs, partly offset by a reduction in salaries and benefits expense as result of our decision to outsource certain back office technology. 
+  In the   nine   months ended   September 30, 2016   and   2015  , we recorded restructuring costs of approximately   $7.6 million   and   $8.5 million  , respectively. The costs related to our restructuring initiatives are primarily employee termination benefits, which are expected to be paid through 2018 and office closure costs. 
+  Service fees increased by   $30.1 million   for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year, primarily due to expenses associated with the acquisition of EFS as well as costs to outsource certain back office technology. 
+  Provision for credit losses increased by   $2.1 million   for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year. We generally measure our credit loss performance by calculating credit losses as a percentage of total fuel expenditures on the payment processing transactions. This metric for credit losses was   9.3   basis points of fuel expenditures for the   nine   months ended   September 30, 2016  , compared to   7.6   basis points of fuel expenditures for the same period last year.  
+   Technology leasing and support expenses increased   $2.9 million   for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year. This increase is primarily due to additional software maintenance expense. 
+  Depreciation and amortization increased by   $21.1 million   for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year, primarily due to amortization of intangibles acquired in the EFS business combination and approximately $5.9 million of accelerated amortization related to our preexisting over-the-road payment processing technology during the third quarter of 2016.  
+  Fuel price derivatives 
+  Through the end of the first quarter of 2016, we owned fuel price derivative instruments that we had purchased on a periodic basis to manage the impact of the volatility in domestic fuel prices on our cash flows. These fuel price derivative instruments did not qualify for hedge accounting. Accordingly, realized and unrealized gains and losses on our fuel price sensitive derivative instruments affected our net income.  
+  
+   40 
+
+     Table of Contents  
+
+Changes in fair value and settlements of these instruments and the changes in average fuel prices in relation to the underlying strike price of the instruments are shown in the following table:   
+
+  During the fourth quarter of 2014 we suspended purchases under our fuel derivatives program due to unusually low prices in the commodities market, and the Company's last remaining fuel price derivative instruments were settled as of March 31, 2016. Management will continue to monitor the fuel price market and evaluate our alternatives as it relates to this hedging program. As of April 1, 2016, we no longer hold any fuel price derivatives. 
+  Changes in fuel price derivatives for the nine months ended   September 30, 2016  , as compared to the same period in the prior year, are attributable to the movements in fuel prices in the corresponding periods. Losses that are realized on these derivatives are offset by higher payment processing revenue we receive because such revenues are dependent, in part, on the current price of fuel. Conversely, realized derivative gains are offset by lower payment processing revenue.  
+  Foreign currency transactions 
+  In the first nine months of 2015, we experienced fluctuations in exchange rates that resulted in a significant devaluation of major foreign currencies to which our business is exposed, including the Australian dollar, the Euro and the British Pound Sterling. Our foreign currency exchange exposure is primarily related to the re-measurement of our cash, receivable and payable balances and revenues that are denominated in foreign currencies. Though we do not hedge these non-U.S. revenues, our exposure is partly offset by internationally denominated expenses, which serve as a natural hedge. 
+  We initiated a partial foreign currency exchange hedging program, which was substantially eliminated in September 2015. The results of these hedges are included in Net foreign currency gain (loss) in our condensed consolidated statements of income.  
+  The fluctuations in exchange rates, combined with the results of the foreign currency exchange hedging program, resulted in a gain of   $2.3 million   for the   third   quarter of   2016   and a gain of   $15.3 million   for the first   nine   months of   2016   compared to a gain of   $3.9 million   for the   third   quarter of   2015   and a gain of   $2.3 million   for the first   nine   months of   2015  . Management will continue to monitor foreign exchanges rates and the impact to the operations of the business.  
+  Financing interest expense 
+  Financing interest expense increased   $18.7 million   for the   third   quarter of   2016   as compared to the same period in the prior year, primarily due to higher relative borrowings under the 2016 Credit Agreement and expenses incurred as result of our July 1, 2016 payoff of our 2014 Credit Agreement loan syndication, including third-party costs incurred in connection with the modification of certain syndicate loans and a loss on the early extinguishment of certain syndicate loans.  
+  Financing interest expense increased   $41.9 million   for the first   nine   months of   2016   as compared to the same period in the prior year. The increase is primarily due to the ticking fees incurred for the commitment of funds to finance the acquisition of EFS, higher relative borrowings under the 2016 Credit Agreement and expenses incurred as result of our payoff of our 2014 Credit Agreement loan syndication, including third-party costs incurred in connection with the modification of certain syndicate loans and a loss on the early extinguishment of certain syndicate loans.  
+  
+   41 
+
+     Table of Contents  
+
+Travel and Corporate Solutions 
+  The following table reflects comparative operating results and key operating statistics within our Travel and Corporate Solutions segment:   
+
+  Revenues  
+  Payment processing revenue increased   $8.2 million   for the   third   quarter of   2016   as compared to the same period in the prior year, primarily due to the acquisition of EFS and approximately $2 million of one-time benefit related to a MasterCard contract renewal entered into during the third quarter of 2016. These favorable impacts were partly offset by a 3 basis points decrease in the virtual card net interchange rate and the unfavorable impact of FX rates. The interchange impact resulted from contract renegotiations and increased volumes in 2016 from certain large customers that resulted in higher rebates. 
+  Payment processing revenue increased   $15.8 million   for the first   nine   months of   2016   as compared to the same period in the prior year, primarily due to an increase in corporate charge card purchase volume from our WEX travel product, the acquisition of EFS and approximately $2 million of one-time benefit related to our recent MasterCard contract renewal. These favorable impacts were partly offset by the unfavorable impact of FX rates and a 3 basis points decrease in the virtual card net interchange rate resulting from contact renegotiations and increased volumes in 2016 from certain large customers resulting in higher rebates. 
+  Our new agreement with MasterCard will provide a significant reduction in cross-border fees, which we expect to substantially pass-along to our customers. Cross-border revenues are included in Other revenue in our condensed consolidated statements of income. 
+  Concessions to certain customers experiencing financial difficulties may be granted and are limited to extending the time to pay, placing a customer on a payment plan or granting waivers of late fees. As of   September 30, 2016  , customer balances with such concessions totaled $17.4 million, resulting in approximately $0.5 million in waived late fees. There were no material concessions granted as of   September 30, 2015  . 
+  
+   42 
+
+     Table of Contents  
+
+Operating Expenses 
+  The following table compares selected expense line items within our Travel and Corporate Solutions segment for the   three months ended  :   
+
+  Salary and other personnel expenses increased   $0.6 million   for the   third   quarter of   2016   as compared to the same period in the prior year, due primarily to the workforce assumed as part of the EFS acquisition. 
+  Service fees decreased   $2.0 million   for the   third   quarter of   2016   as compared to the same period in the prior year. This decrease was primarily due to lower fees paid as result of our recent MasterCard contract renewal, partly offset by the impact of the EFS acquisition. 
+  Provision for credit losses increased   $3.4 million   for the   third   quarter of   2016   as compared to the same period in the prior year. This increase was due primarily to two losses incurred, including the bankruptcy of one of our online travel agency customers during the quarter. 
+  Technology leasing and support   occupancy and equipment expense collectively increased   $0.6 million   for the   third   quarter of   2016   as compared to the same period in the prior year. This increase is primarily due to costs for external technology providers based on increases in purchase volume and incremental costs assumed as part of the EFS acquisition. 
+  The following table compares selected expense line items within our Travel and Corporate Solutions segment for the   nine months ended  :   
+
+  Salary and other personnel expenses increased   $0.4 million   for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year due primarily to the workforce assumed as part of the EFS acquisition, partly offset by changes in staffing. 
+  Service fees increased   $1.1 million   for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year. This increase is primarily due to higher transaction processing costs related to the increase in purchase volume, including the impact of the EFS acquisition, partially offset by the benefits of our recent MasterCard contract renewal. 
+  Provision for credit losses increased   $3.4 million   for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year. This increase was due primarily to two losses incurred, including the bankruptcy of one of our online travel agency customers in July. 
+  Technology leasing and support   occupancy and equipment expense collectively increased   $1.6 million   for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year. This increase is primarily due to costs for external technology providers based on increases in purchase volume. 
+  Foreign   c  urrency transactions 
+  In the first nine months of 2016, we experienced fluctuations in exchange rates that resulted in a significant devaluation of major currencies to which our business is exposed, including the Australian dollar, the Euro and the British Pound Sterling. Our foreign currency exchange exposure is primarily related to the re-measurement of our cash, receivable and payable balances  
+  
+   43 
+
+     Table of Contents  
+
+and revenues that are denominated in foreign currencies. Though we do not hedge these non-U.S. revenues, our exposure is partly offset by internationally denominated expenses, which serve as a natural hedge. 
+  We initiated a partial foreign currency exchange hedging program, which was substantially eliminated in September 2015. The results of these hedges are included in Net foreign currency gain (loss) in our condensed consolidated statements of income.  
+  The fluctuations in exchange rates, combined with the results of the foreign currency exchange hedging program, resulted in a gain of   $3.7 million   for the   third   quarter of   2016   and a gain of   $1.2 million   for the first   nine   months of 2016 compared to a   $3.3 million   gain for the   third   quarter of   2015   and a   $1.3 million   loss for the first   nine   months of   2015  . Management will continue to monitor foreign exchanges rates and the impact to the operations of the business. 
+  Health and Employee Benefit Solutions 
+  The following table reflects comparative operating results and key operating statistics within our Health and Employee Benefit Solutions segment:   
+
+  Revenues  
+  Payment processing revenue increased   $1.9 million   for the   third   quarter of   2016   as compared to the same period in the prior year and   $6.0 million   for the first   nine   months as compared to the same period in the prior year, resulting primarily from an increase in purchase volume and accounts. 
+  Account servicing revenue increased   $8.1 million   for the   third   quarter of   2016   as compared to the same period in the prior year and   $21.1 million   for the first   nine   months of 2016 as compared to the same period in the prior year. WEX Health customer acquisitions and existing customer growth resulted in a higher number of participants using our SaaS healthcare offerings as well as a result of the acquisition of Benaissance in November 2015. 
+  Finance fee revenue increased   $1.2 million   for the   third   quarter of   2016   as compared to the same period in the prior year and   $2.2 million   for the first   nine   months of 2016 as compared to the same period in the prior year, resulting from organic growth in cardholder interest on our employee benefits card generated by extended payment terms as compared to 2015.  
+  Concessions to certain customers experiencing financial difficulties may be granted and are limited to extending the time to pay, placing a customer on a payment plan or granting waivers of late fees. As of   September 30, 2016   and   2015  , customer balances with such concessions totaled $0.4 million and $0.6 million, respectively. 
+  Other revenue increased   $1.8 million   for the   third   quarter of   2016   as compared to the same period in the prior year and   $4.3 million   for the first   nine   months 2016 as compared to the same period in the prior year. This increase is due primarily to the acquisition of Benaissance, as well as an increase in onboarding and other ancillary fees. 
+
+44 
+
+     Table of Contents  
+
+Operating Expenses 
+  The following table compares selected expense line items within our Health and Employee Benefit Solutions segment for the   three months ended  :   
+
+  Salary and other personnel expenses increased   $6.3 million   for the   third   quarter of   2016   as compared to the same period in the prior year. The increase is primarily due to increased employee compensation expenses from the acquisition of Benaissance and higher WEX Health costs resulting from additional headcount and variable compensation plans.  
+  Service fees increased   $1.9 million   for the   third   quarter of   2016   as compared to the same period in the prior year. This increase is primarily related to costs to support WEX Health revenue growth and from the acquisition of Benaissance. 
+  Technology leasing and support   occupancy and equipment expense collectively increased   $1.0 million   for the   third   quarter of   2016   as compared to the same period in the prior year. This increase is primarily due to incremental costs from the acquisition of Benaissance, repairs and maintenance of our facilities and higher software license expense.  
+  Depreciation and amortization expenses increased   $3.0 million   for the   third   quarter of   2016   as compared to the same period in the prior year primarily due to an increase in amortization expense on acquired Benaissance intangibles and a decision during the third quarter of 2016 to shorten the useful life of certain trade names. To a lesser extent, higher depreciation expense resulted from the purchase of property and equipment.  
+  Other expense increased   $0.6 million   for the   third   quarter of   2016   as compared to the same period in the prior year, primarily due to higher card production expenses. 
+  The following table compares selected expense line items within our Health and Employee Benefit Solutions segment for the   nine months ended  :   
+
+  Salary and other personnel expenses increased   $16.0 million   for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year. The increase is primarily due to increased employee compensation expenses from the acquisition of Benaissance and higher WEX Health costs resulting from additional headcount and variable compensation plans.  
+  Service fees increased   $4.0 million   for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year. This increase is primarily related to costs to support WEX Health revenue growth and from the acquisition of Benaissance. 
+  Technology leasing and support   occupancy and equipment expense collectively increased   $2.2 million   for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year. This increase is primarily due to incremental costs from the acquisition of Benaissance, repairs and maintenance of our facilities and higher software license expense.  
+  
+   45 
+
+     Table of Contents  
+
+Depreciation and amortization expenses increased   $6.7 million   for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year. This increase resulted from an increase in amortization expense, primarily on acquired Benaissance intangibles and higher depreciation expense from the purchase of property and equipment.  
+  Foreign currency transactions 
+  In the first nine months of 2015, we experienced fluctuations in exchange rates that resulted in a significant devaluation of major currencies to which our business is exposed, most prominently the Brazilian Real. Our foreign currency exchange exposure is primarily related to the re-measurement of our cash, receivable and payable balances and revenues that are denominated in foreign currencies. Though we do not hedge these non-U.S. revenues, our exposure is partly offset by internationally denominated expenses, which serve as a natural hedge. 
+  We initiated a partial foreign currency exchange hedging program, which was substantially eliminated in September 2015. The results of these hedges are included in Net foreign currency gain (loss) in our condensed consolidated statements of income. 
+  The fluctuations in exchange rates, combined with the results of the foreign currency exchange hedging program, resulted in less than a $0.1 million loss for the   third   quarter of   2016   and a   $0.8 million   gain for the first   nine   months of   2016   compared to a   $0.7 million   loss for the   third   quarter of   2015   and a   $1.1 million   loss for the first   nine   months of   2015  . Management will continue to monitor foreign exchanges rates and the impact to the operations of the business. 
+  Financing interest expense 
+  Financing interest expense increased   $5.0 million   for the   third   quarter of   2016   and   $9.8 million   for the   nine   months ended   September 30, 2016   as compared to the same periods in the prior year. This increase is primarily due to expenses incurred as result of our July 2016 payoff of our 2014 Credit Agreement loan syndication and higher relative borrowings to fund the acquisition of Benaissance. 
+  Non-GAAP financials measures    
+   Although adjusted net income is not calculated in accordance with generally accepted accounting principles (GAAP), this non-GAAP measure is integral to the Company's reporting and planning processes and the chief operating decision maker of the Company uses a component, adjusted pretax income before NCI, to allocate resources. The Company's non-GAAP adjusted net income excludes acquisition and divestiture related items, debt restructuring and debt issuance cost amortization, stock-based compensation, restructuring and other costs related to certain outsourcing initiatives, changes in unrealized fuel price derivatives, net foreign currency remeasurement gains and losses, non-cash adjustments related to our tax receivable agreement, reserves for regulatory penalties, similar adjustments attributed to our non-controlling interest and certain tax related items. The Company considers this measure integral because in the periods prior to the second quarter of 2016, it eliminated the non-cash volatility associated with fuel price related derivative instruments, and it continues to exclude other specified items that the Company's management excludes in evaluating the Company's performance. Specifically, in addition to evaluating the Company's performance on a GAAP basis, management evaluates the Company's performance on a basis that excludes the above items because:  
+             
+    The Company considers certain acquisition-related costs, including certain financing costs, ticking fees, investment banking fees, warranty and indemnity insurance, acquisition-related expenses and amortization of acquired intangibles, as well as gains and losses from divestitures to be unpredictable, dependent on factors that may be outside of our control and unrelated to the continuing operations of the acquired or divested business or the Company. In prior periods not reflected above, the Company has adjusted for goodwill impairments and acquisition-related asset impairments. In addition, the size and complexity of an acquisition, which often drives the magnitude of acquisition-related costs, may not be indicative of such future costs. The Company believes that excluding acquisition-related costs and gains or losses of divestitures facilitates the comparison of our financial results to the Company's historical operating results and to other companies in our industry. 
+                
+    Debt issuance cost amortization is a non-cash item.  Additionally, both the debt issuance cost amortization and the costs associated with debt restructuring are unrelated to the continuing operations of the Company. Because these types of costs are dependent upon the financing method which can vary widely company to company, the Company believes that excluding these costs helps to facilitate comparison to historical results as well as to other companies within our industry. 
+                
+    Stock-based compensation is different from other forms of compensation, as it is a non-cash expense. For example, a cash salary generally has a fixed and unvarying cash cost. In contrast, the expense associated with an equity-based award is generally unrelated to the amount of cash ultimately received by the employee, and the cost to the Company is based on a stock-based compensation valuation methodology and underlying assumptions that may vary over time. 
+     
+   46 
+
+     Table of Contents  
+
+Restructuring and other costs are related to employee termination benefits from certain identified initiatives to further streamline the business, improve the Company's efficiency, create synergies, globalize the Company's operations, and advance certain outsourcing initiatives, all with an objective to improve scale and increase profitability going forward. We exclude these items when evaluating our continuing business performance as such items are not consistently occurring and do not reflect expected future operating expense, nor provide insight into the fundamentals of current or past operations of our business.  
+                
+    Exclusion of the non-cash, mark-to-market adjustments on fuel-price related derivative instruments helps management identify and assess trends in the Company's underlying business that might otherwise be obscured due to quarterly non-cash earnings fluctuations associated with fuel-price-related derivative contracts. The non-cash mark-to-market adjustments on derivative instruments are difficult to forecast accurately, making comparisons across historical and future quarters difficult to evaluate. 
+                
+    Net foreign currency gains and losses primarily result from the remeasurement to functional currency of cash, receivable and payable balances, certain intercompany notes denominated in foreign currencies and any gain or loss on foreign currency hedges relating to these items. The exclusion of these items helps management compare changes in operating results between periods that might otherwise be obscured due to currency fluctuations. 
+                
+    Regulatory reserves reflect charges related to the estimated impact of a regulatory action which resulted in WEX paying a penalty. We have excluded this item when evaluating our continuing business performance as it is not consistently recurring and does not reflect an expected future operating expense, nor provide insight into the fundamentals of the current or past operations of our business.  
+                
+    The adjustments attributable to non-controlling interests, including adjustments to the redemption value of a non-controlling interest, and the non-cash adjustments related to tax receivable agreement have no significant impact on the ongoing operations of the business.  
+                
+    The tax related items reflect the difference between the Company s U.S. GAAP tax provision and a pro forma tax provision based upon the Company s adjusted net income before taxes as well as the impact from certain discrete tax items. The methodology utilized for calculating the Company s adjusted net income tax provision is the same methodology utilized in calculating the Company s U.S. GAAP tax provision.  
+     For the same reasons, WEX believes that adjusted net income may also be useful to investors as one means of evaluating the Company's performance. However, because adjusted net income is a non-GAAP measure, it should not be considered as a substitute for, or superior to, net income, operating income or cash flows from operating activities as determined in accordance with GAAP. In addition, adjusted net income as used by WEX may not be comparable to similarly titled measures employed by other companies.  
+  The following table reconciles net earnings attributable to shareholders to adjusted net income: 
+
+Liquidity, Capital Resources and Cash Flows 
+  We believe that our cash generating capability and financial condition, together with our revolving credit agreement, term loan and notes outstanding, as well as other available methods of financing (including deposits, participation loans, borrowed federal funds and securitization facilities), are adequate to meet our operating, investing and financing needs.  
+  
+   47 
+
+     Table of Contents  
+
+The table below summarizes our cash activities:   
+
+   WEX Bank issued certificates of deposit in various maturities ranging between   three months   and   three years   and with fixed interest rates ranging from   0.55 percent   to   1.35 percent   as of   September 30, 2016  . As of   September 30, 2016  , we had approximately   $557.4 million   of certificates of deposit outstanding, compared to   $160.5 million   of certificates of deposits outstanding as of   September 30, 2015  . Certificates of deposit are subject to regulatory capital requirements. 
+  As of   September 30, 2016  , we had approximately   $301.4 million   of interest-bearing money market deposits with a weighted average interest rate of   0.52 percent  , compared to   $344.8 million   of interest-bearing money market deposits at   September 30, 2015  , with a weighted average interest rate of   0.23 percent  . WEX Bank also has non-interest bearing NOW account deposits and non-interest bearing customer deposits. As of   September 30, 2016  , we had   $362.9 million   of non-interest bearing NOW account deposits and   $64.9 million   of non-interest bearing customer deposits outstanding. As of   September 30, 2015  , we had   $643.1 million   of non-interest bearing NOW account deposits and   $39.5 million   of non-interest bearing customer deposits outstanding. Deposits are subject to regulatory capital requirements. 
+  As of both   September 30, 2016   and   2015  , we had no outstanding balance on our federal funds line of credit. As   September 30, 2016  , we had   $225 million   of available credit on this line compared to   $260 million   in   2015  . 
+  Cash outflows from capital additions totaled   $45.0 million   during the first   nine   months of   2016  , primarily related to the development of internal-use software as we expand globally and provide competitive products and services to our customers.  
+  No treasury shares were purchased during the first   nine   months of 2016. We purchased $22.0 million in treasury shares during the first   nine   months of 2015.  
+  Liquidity 
+  Our cash balance for the first nine months of 2016 increased $257.2 million, resulting primarily from the closing of our 2016 Credit Agreement, an increase in deposits and accounts payable and net income adjusted for non-cash charges. These cash inflows were partly offset by the acquisition of EFS, repayments of our 2014 Credit Agreement and an increase in accounts receivable. 
+  WEX Bank utilizes brokered deposits, NOW deposits and borrowed federal funds to finance our accounts receivable. We continue to have access to these short-term borrowing instruments; deposits increased by   $415.7 million   during the first nine months of 2016. Our accounts receivable increased   $405.6 million   and our accounts payable increased   $169.7 million   during the first nine months of 2016, primarily due to volume.  
+  We expect that the agreement with our current deposit program partner Higher One will end during the fourth quarter of 2016. As a result, we anticipate a slight increase to our operating interest expense as we replace these deposits. 
+  In general, our trade receivables provide for payment terms of 30 days or less. Receivables not paid within the terms of the customer agreement are generally subject to late fees based upon the outstanding customer receivable balance. Beginning in the first quarter of 2015, the Company began to extend revolving credit to certain customers with respect to small fleet receivables. These accounts are also subject to late fees and balances that are not paid in full are subject to interest charges based on a revolving balance. As of   September 30, 2016  , the Company has approximately   $2.6 million   in receivables with revolving credit.  
+   As of   September 30, 2016  , approximately   93 percent   of the outstanding accounts receivable balance of   $2.2 billion  , was less than 30 days past due and approximately   97 percent   of the outstanding balance was less than 60 days past due. As of   September 30, 2015  , approximately   90 percent   of the outstanding accounts receivable balance of   $1.9 billion   was less than 30 days past due and approximately   98 percent   of the outstanding balance was less than 60 days past due. 
+  On July 1, 2016, we entered into the 2016 Credit Agreement in order to permit the additional financing and investments necessary to facilitate the EFS acquisition. The 2016 Credit Agreement provides for a tranche A term loan facility in an amount equal to $455 million that matures on July 1, 2021, a tranche B term loan facility in an amount equal to $1,200 million that matures on July 1, 2023, and a $470 million secured revolving credit facility, with a $250 million sublimit for letters of credit and a $20 million sublimit for swingline loans, that terminates on July 1, 2021. Additional loans of up to the greater of $375 million (plus the amount of certain prepayments) and an unlimited amount subject to satisfaction of a consolidated leverage  
+  
+   48 
+
+     Table of Contents  
+
+ratio test of 4.00 to 1.00 may be made available under the 2016 Credit Agreement upon request of the Company subject to specified terms and conditions, including receipt of lender commitments.  
+  On July 1, 2016, the Company borrowed the entire principal amount of the tranche A term loan facility, the entire principal amount of the tranche B term loan facility and $220.0 million under the revolving credit facility to pay the cash portion of the purchase price for the EFS acquisition, repay outstanding credit facilities, repay amounts outstanding under the 2014 Credit Agreement (which has been superseded by the 2016 Credit Agreement), and pay related fees, expenses and other transaction costs, as well as for working capital and other general corporate purposes. 
+  As of   September 30, 2016  , we had approximately   4.75   years left on our $470 million revolving credit facility and had   $86.4 million   of borrowings against it, net of loan origination fees. The combined outstanding debt under our tranche A term loan facility, which expires in July of 2021, and our tranche B term loan facility, which expires in July of 2023, totaled   $1.6 billion   at   September 30, 2016  , net of loan origination fees. As of   September 30, 2016  , amounts outstanding under the 2016 Credit Agreement bore a weighted average effective interest rate of   3.8%  .  
+  On July 1, 2016, the Company completed the acquisition of EFS for approximately   $1.2 billion   in cash and   4 million   shares of its common stock. 
+  In January 2016, we began to incur ticking fees for the debt financing commitment associated with the 2016 Credit Agreement in anticipation of the then pending acquisition of EFS. As of   September 30, 2016  , we recorded   $30 million   of ticking fees, which is included in financing interest expense. These ticking fees were calculated based on the financing commitment of an aggregate principal amount of   $2.125 billion   that remained in place until the closing of the EFS acquisition on July 1, 2016. The total amount of ticking fees paid at the closing of the EFS acquisition was   $22.2 million  . The excess ticking fees of   $7.9 million   were netted against the net debt issuance costs related to the 2016 Credit Agreement and will be amortized over the 2016 Credit Agreement's terms using the effective interest method for the tranche A and B term loans and the straight-line method for the revolver. 
+  During the second quarter of 2014, WEX Bank entered into an agreement with a third-party bank to fund customer balances that exceeded WEX Bank's lending limit to an individual customer. This agreement was most recently amended in July 2016 to extend the maturity date while maintaining a funding capacity of   $45,000  . During the second quarter of 2016, WEX Bank entered into another agreement with a separate third-party bank for a funding capacity of   $10,000  . This agreement was amended in August 2016 to increase the funding capacity to   $50,000  . These borrowings carry a variable interest rate of 1 to 3-month LIBOR plus a margin of 225 basis points.  The balance of the debt was   $95,000   as of   September 30, 2016   and   $45,000   as of   December 31, 2015   and was secured by an interest in the underlying customer receivables. The participation debt balance will fluctuate on a daily basis based on customer funding needs, and will range from   $0   to   $95,000  . The Company's participation debt agreements will mature on December 31, 2020 and August 18, 2017, respectively.  
+  On April 28, 2015, we entered into a one year securitized debt agreement with the Bank of Tokyo-Mitsubishi UFJ, Ltd. In April 2016, this agreement was extended for one year. Under the terms of the agreement, each month, on a revolving basis, the Company sells certain Australian receivables to Southern Cross WEX 2015-1 Trust, a bankruptcy-remote subsidiary consolidated by us (the "Australian Securitization Subsidiary"). The Australian Securitization Subsidiary, in turn, uses the receivables as collateral to issue asset-backed commercial paper ("securitized debt") for approximately 85 percent of the securitized receivables. The amount collected on the securitized receivables is restricted to pay the securitized debt and is not available for general corporate purposes. 
+  We pay a variable interest rate on the outstanding balance of the securitization facility based on the Australian Bank Bill Rate plus an applicable margin, which as of   September 30, 2016  , was   2.70 percent  . As of   September 30, 2016  , we had   $76.4 million   of securitized debt.  
+  On April 7, 2016, the Company entered into a five year securitized debt agreement with the Bank of Tokyo-Mitsubishi UFJ, Ltd. Under the terms of the agreement, the Company sells certain of its receivables from selected European countries to Gorham Trade Finance B.V., a bankruptcy-remote subsidiary consolidated by the Company (the "European Securitization Subsidiary"). The European Securitization Subsidiary, in turn, uses the receivables as collateral to issue securitized debt. The amount collected on the securitized receivables is restricted to pay the securitized debt and is not available for general corporate purposes. The amounts of receivables to be securitized under this agreement will be determined by management on a monthly basis. The Company had   $7.5 million   of securitized debt under this facility as of September 30, 2016 at an interest rate of   0.83 percent  . 
+   On January 7, 2015, we sold our operations of rapid! PayCard for   $20.0 million  , which resulted in a pre-tax gain of approximately   $1.2 million  . 
+   On   August 31, 2015  , we acquired the remaining 49 percent ownership in UNIK for   $46 million  . 
+  
+   49 
+
+     Table of Contents  
+
+As of   September 30, 2016  , we have approximately   $62.7 million   in cash located in our foreign entities outside of the United States. 
+  Undistributed earnings of certain foreign subsidiaries of the Company amounted to   $27.1 million   as of   September 30, 2016  . These earnings are considered to be indefinitely reinvested, and accordingly, no U.S. federal and state income taxes have been provided thereon. If we were to distribute such earnings in the form of dividends or otherwise, the Company would be subject to both U.S. income taxes (subject to an adjustment for foreign tax credits) and withholding taxes payable to the various foreign countries. The Company s primary tax jurisdictions are the United States, Australia and the United Kingdom. 
+  Earnings outside of the U.S. are accompanied by certain financial risks, such as changes in foreign currency exchange rates. Changes in foreign currency exchange rates may reduce the reported value of our foreign currency revenues, net of expenses, and cash flows. We cannot predict changes in currency exchange rates, the impact of exchange rate changes, nor the degree to which we will be able to manage the impact of currency exchange rate changes. 
+  In April 2014, we initiated a partial foreign currency exchange hedging program. During the third quarter of 2015, the Company decided to suspend the foreign currency exchange hedging program for all but a few short-term intercompany transactions. Because this was a partial foreign currency exchange hedging program, the Company had additional foreign currency exchange exposure which was not hedged. 
+  Beginning in September of 2015, the Company initiated a new limited foreign currency exchange hedging program, entering into short-term foreign currency swaps to convert the foreign currency exposures of certain foreign currency denominated intercompany loans and investments to the base currency. We will continue to monitor our foreign currency exposure for discrete items and may, from time to time, hedge certain foreign currency transactions.  
+  In November 2016, the Company entered into three forward-fixed interest rate swap agreements to manage the interest rate risk associated with our outstanding variable-interest rate borrowings. Commencing on December 30, 2016, the Company will receive variable interest of 1-month LIBOR under these swaps and will pay fixed rates between   0.896%   to   1.125%   under these swap agreements, reducing a portion of the variability of the future interest payments associated with   $800,000   of our borrowings. 
+  Management believes that we can adequately fund our cash needs for at least the next 12 months. 
+  Off-balance Sheet Arrangements 
+  As of   September 30, 2016  , we had posted letters of credit totaling   $13.4 million   as collateral under the terms of our lease agreement for our corporate offices and other corporate matters. 
+  Contractual Obligations 
+  As of   September 30, 2016  , we had approximately   $96 million   outstanding on our secured revolving credit facility and approximately   $449 million   outstanding on a tranche A term loan facility, each of which matures on   July 1, 2021  . Additionally, we had approximately   $1,197 million   outstanding on a tranche B term loan facility as of   September 30, 2016  , which matures on   July 1, 2023  . We are required to make annual prepayments of   $22.8 million   and   $12.0 million   under the tranche A and tranche B term loan facilities until their respective maturity dates, at which time all outstanding principal will be due in full. 
+  All other contractual obligations are consistent with those disclosed in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+  
+   50 
+
+     Table of Contents  
+
+Purchase of Treasury Shares 
+  The following table presents stock repurchase program activity for the three months ended   September 30, 2016  , and   September 30, 2015  :   
+
+Critical Accounting Policies and Estimates 
+  We have no material changes to our critical accounting policies and estimates discussed in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+
+Recently Adopted Accounting Standards 
+  See Notes 1 and 2 to the Unaudited Condensed Consolidated Financial Statements in Part I, Item 1 of this Form 10-Q. 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk. 
+  We have no material changes to the disclosure on this matter made in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+
+Item 4. Controls and Procedures. 
+  Evaluation of Disclosure Controls and Procedures 
+  The principal executive officer and principal financial officer of WEX Inc. evaluated the effectiveness of the Company s disclosure controls and procedures as of the end of the period covered by this report.  Disclosure controls and procedures  are controls and other procedures of a company that are designed to ensure that information required to be disclosed by the company in the reports that it files or submits under the Securities Exchange Act of 1934, within the time periods specified in the SEC s rules and forms, is recorded, processed, summarized and reported, and is accumulated and communicated to the company s management, including its principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure. Based on their evaluation, the principal executive officer and principal financial officer of WEX Inc. concluded that the Company s disclosure controls and procedures were effective as of   September 30, 2016  . 
+  Changes in Internal Control Over Financial Reporting 
+  There were no changes in our internal control over financial reporting that occurred during the fiscal quarter ended   September 30, 2016  , our most recently completed fiscal quarter, that have materially affected, or are reasonably likely to materially affect, the Company s internal control over financial reporting. 
+
+51 
+
+Table of Contents  
+
+PART II 
+
+Item 1. Legal Proceedings. 
+  As of the date of this filing, we are not involved in any material legal proceedings. We also were not involved in any material legal proceedings that were terminated during the   third   quarter of   2016  . However, we are subject to legal proceedings and claims in the ordinary course of business, none of which we believe are likely to have a material adverse effect on our financial position, results of operations or cash flows. 
+
+Item 1A. Risk Factors. 
+  In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part I,  Item 1A. Risk Factors  in our Annual Report on Form 10-K for the year ended December 31, 2015 and in Part II, "Item 1A. Risk Factors" in our Quarterly Report on Form 10-Q for the quarterly period ended March 31, 2016, which could materially affect our business, financial condition or future results. The risks described in this report, in our Annual Report on Form 10-K and in our Quarterly Report on Form 10-Q are not the only risks facing our Company. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition or future results. In addition to the risks identified in the Form 10-K and Form 10-Q referenced above, the Company has updated the following risk factors to reflect financial and operational information for the third quarter of 2016.  
+  We have substantial indebtedness, which may materially and adversely affect our financial flexibility and our ability to meet our debt service obligations under our 4.750 percent senior notes, due 2023, or the Notes. 
+  Our 2016 Credit Agreement provides for a tranche A term facility in an amount equal to $455 million that matures on July 1, 2021, a tranche B term loan facility in an amount equal to $1,200 million that matures on July 1, 2023 and a $470 million secured revolving credit facility, with a $250 million sublimit for letters of credit and a $20 million sublimit for swingline loans, that terminates on July 1, 2021. In addition to the 2016 Credit Agreement, our indebtedness consists of the Notes, deposits issued by WEX Bank and other liabilities outstanding. Our indebtedness could, among other things:   
+
+require us to dedicate a substantial portion of our cash flow to repaying our indebtedness, thus reducing the amount of funds available for other general corporate purposes; 
+
+limit our ability to borrow additional funds necessary for working capital, capital expenditures or other general corporate purposes; 
+
+increase our vulnerability to adverse general economic or industry conditions; and 
+
+limit our flexibility in planning for, or reacting to changes in, our business. 
+
+There can be no assurance that we will be able to meet our indebtedness obligations, including any of our obligations under the Notes. In addition, we may need to incur substantial additional indebtedness in the future to fund our operations or certain strategic objectives. However, we may not be able to obtain the additional financing necessary for these purposes. 
+  In addition, under the 2016 Credit Agreement, unless otherwise agreed by the requisite lenders under the revolving credit facility, we are required to remain in compliance with a consolidated EBITDA to consolidated interest charges ratio, measured quarterly, of no less than 3.25 to 1.00; and a consolidated funded indebtedness (excluding up to $350 million of consolidated funded indebtedness due to permitted securitization transactions and excluding the amount of consolidated funded indebtedness constituting the non-recourse portion of permitted factoring transactions) to consolidated EBITDA ratio, measured quarterly, of no more than 5.40 to 1.00, which ratio shall step down to 5.25 to 1.00 at December 31, 2016, 5.00 to 1.00 at December 31, 2017, 4.25 to 1.00 at December 31, 2018 and 4.00 to 1.00 at December 31, 2019. The 2016 Credit Agreement also contains various affirmative and negative covenants that, subject to certain customary exceptions, restrict our ability to, among other things, create liens over our property, incur additional indebtedness, enter into sale and lease-back transactions, make loans, advances or other investments, make non-ordinary course asset sales, declare or pay dividends or make other distributions with respect to equity interests, change the nature of our business, enter into certain agreements which restrict our ability to pay dividends or other distributions or create liens on our property, transact business with affiliates and/or merge or consolidate with any other person. Our ability to comply with these provisions may be affected by events beyond our control. Failure to comply with the financial covenants or any other non-financial or restrictive covenant in our 2016 Credit Agreement could create a default. Upon a default, our lenders could accelerate the indebtedness under the facilities (except only the requisite lenders under the revolving credit facility may accelerate the revolving credit facility due to a breach of the financial covenants), foreclose against their collateral or seek other remedies, which could trigger a default under the Notes and would jeopardize our ability to continue our current operations. 
+
+52 
+
+     Table of Contents  
+
+Despite our substantial indebtedness, we may still be able to incur more debt, intensifying the risks described above. 
+  Subject to restrictions in our 2016 Credit Agreement, we may incur additional indebtedness, which could increase the risks associated with our already substantial indebtedness. Subject to certain limitations, including compliance with the covenants in our 2016 Credit Agreement, we have the ability to borrow additional funds under our 2016 Credit Agreement. 
+  This indebtedness could have the effect, among other things, of reducing our flexibility to respond to changing business and economic conditions and increasing interest expense.  
+  Moreover, we may be required to raise substantial additional financing to fund working capital, capital expenditures, acquisitions or other general corporate requirements. Our ability to arrange additional financing or refinancing will depend on, among other factors, our financial position and performance, as well as prevailing market conditions and other factors beyond our control. There can be no assurance that we will be able to obtain additional financing or refinancing on terms acceptable to us or at all. 
+  Volatility in the financial markets may negatively impact our ability to access credit and the terms at which we would access such credit. 
+  Adverse conditions in the credit market may limit our ability to access credit at a time when we would like or need to do so. Our senior secured revolving credit facility under the 2016 Credit Agreement expires in July 2021 when the outstanding balance of the revolving credit facility and the tranche A term loan will be due, and in 2023 the tranche B term loan and the Notes will be due. Any limitation on the availability of funds or credit facilities could have an impact on our ability to refinance the maturing debt or react to changing economic and business conditions which could adversely impact us.  
+  To service our indebtedness, we will require a significant amount of cash. Our ability to generate cash depends on many factors beyond our control. 
+  Our ability to make payments on and to refinance our indebtedness, and to fund capital expenditures, acquisitions and research and development efforts will depend on our ability to generate cash. This, to a certain extent, is subject to economic, financial, competitive, legislative, regulatory and other factors that are beyond our control. 
+  We have substantially increased indebtedness following completion of the acquisition of EFS, which has increased our interest expense. We also incurred various costs and expenses associated with the financing. The amount of cash required to pay interest on our increased indebtedness levels following completion of the acquisition and thus the demands on our cash resources are greater than the amount of cash flows required to service our indebtedness prior to the EFS transaction. Certain obligations under the 2016 Credit Agreement bear interest at variable interest rates. If interest rates increase, variable rate debt will create even higher debt service requirements, which could adversely affect our cash flows. 
+  We cannot assure you that our business will generate sufficient cash flows from operations, that anticipated cost savings and operating improvements will be realized on schedule or at all, that future borrowings will be available to us under our 2016 Credit Agreement or any subsequent credit agreement, or that we can obtain alternative financing proceeds in an amount sufficient to enable us to pay our indebtedness, including the Notes, or to fund our other liquidity needs. We may need to refinance all or a portion of our indebtedness, including the Notes, at or before maturity. We cannot assure you that we will be able to refinance any of our indebtedness on commercially reasonable terms or at all. 
+  The increased debt service obligations under our 2016 Credit Agreement could also reduce funds available for working capital, capital expenditures, acquisitions and other general corporate purposes and may create competitive disadvantages relative to other companies with lower debt levels. The 2016 Credit Agreement was used in part to finance the acquisition of EFS. If we do not achieve the expected benefits and cost savings from the acquisition, or if the financial performance of the combined company does not meet current expectations, then our ability to service our indebtedness may be adversely impacted. 
+  In an environment of increasing interest rates, interest expense on the variable rate portion of our borrowings would increase and we may not be able to replace our maturing debt with new debt that carries the same interest rates. We may be adversely affected by significant changes in the brokered deposit market. 
+  Under our 2016 Credit Agreement and Notes, we had $2,142.4 million of fixed and variable interest rate indebtedness outstanding at September 30, 2016, consisting of 400.0 million of borrowings under our bond facility at a fixed rate of 4.750 percent and $1,742.4 million of borrowings under our 2016 Credit Agreement that bore interest at floating rates. An increase in interest rates would increase the cost of borrowing under our credit facility. 
+  Our industrial bank subsidiary, WEX Bank, uses collectively brokered deposits, including certificates of deposit, interest-bearing money-market deposits and negotiable order of withdrawal (NOW) account deposits, to finance payments to major oil companies. Certificates of deposit carry fixed interest rates from issuance to maturity, which vary, and are relatively short term in duration. The interest-bearing money market deposits carry variable rates. Upon maturity, the deposits will likely be replaced by issuing new deposits to the extent that they are needed. In a rising interest rate environment, WEX Bank would not be able  
+  
+   53 
+
+     Table of Contents  
+
+to replace maturing deposits with deposits that carry the same or lower interest rates. Therefore, rising interest rates would result in reduced net income to the extent that certificates of deposit and money market deposits mature and are replaced. At September 30, 2016, WEX Bank had outstanding $356.8 million in certificates of deposit maturing within one year, $200.6 million in certificates of deposit maturing within one to three years, and $301.4 million in interest-bearing money market deposits. Also at September 30, 2016, WEX Bank had $362.9 million of NOW account deposits outstanding, which are currently non-interest bearing. 
+  
+   54 
+
+Table of Contents  
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 
+  We did not purchase shares of our common stock during the   third   quarter of 2016. The approximate dollar value of shares that were available to be purchased under the current repurchase program was $108.2 million as of   September 30, 2016  .  
+  Under the purchase agreement for the acquisition of Electronic Funds Source LLC, we were prohibited from repurchasing shares of our common stock prior to the consummation of the acquisition without the consent of the sellers.  
+
+55 
+
+Table of Contents  
+
+Item 6. Exhibits. 
+    
+  The exhibit index attached to this Quarterly Report on Form 10-Q is hereby incorporated by reference. 
+
+56 
+
+Table of Contents  
+
+SIGNATURE 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+WEX INC. 
+
+November 8, 2016 
+    By: 
+      
+    /s/ Roberto Simon 
+
+Roberto Simon 
+
+Chief Financial Officer 
+
+(principal financial officer and principal accounting officer) 
+
+57 
+
+Table of Contents  
+
+EXHIBIT INDEX 
+
+Exhibit No. 
+      
+    Description 
+        
+    3.1 
+      
+    Certificate of Incorporation (incorporated by reference to Exhibit No. 3.1 to our Current Report on Form 8-K filed with the SEC on March 1, 2005, File No. 001-32426) 
+        
+    3.2 
+      
+    Certificate of Ownership and Merger merging WEX Transitory Corporation with and into Wright Express Corporation (incorporated by reference to Exhibit No. 3.1 to our Current Report on Form 8-K filed with the SEC on October 30, 2012, File No. 001-32426) 
+        
+    3.3 
+      
+    Amended and Restated By-Laws of WEX Inc. (incorporated by reference to Exhibit No. 3.1 to our Current Report on Form 8-K filed with the SEC on October 30, 2012, File No. 001-32426) 
+        
+    4.1 
+      
+    Indenture, dated as of January 30, 2013, among WEX Inc., the Guarantors named therein, and The Bank of New York Mellon Trust Company, N.A. (incorporated by reference to Exhibit No. 4.1 to our Current Report on Form 8-K filed with the SEC on February 1, 2013, File No. 001-32426) 
+        
+    4.2 
+      
+    Supplemental Indenture, dated as of July 1, 2016 to the Indenture, dated as of January 30, 2013 among WEX Inc., the additional subsidiary guarantors thereto and The Bank of New York Mellon Trust Company, N.A. (incorporated by reference to Exhibit No. 4.1 to our Current Report on Form 8-K filed with the SEC on July 1, 2016, File No. 001-32426) 
+        
+    4.3 
+      
+    U.S. Security Agreement, made by WEX Inc., and the certain of its subsidiaries, as pledgors, assignors and debtors dated as of July 1, 2016, in favor of Bank of America, as collateral agent for the Lenders (incorporated by reference to Exhibit No. 4.2 to our Current Report on Form 8-K filed with the SEC on July 1, 2016, File No. 001-32426) 
+        
+    10.1 
+      
+    Investor Rights Agreement, dated as of July 1, 2016, by and among WEX Inc., Mustang HoldCo 1 LLC, Warburg Pincus Private Equity (E P) XI  B, L.P., Warburg Pincus Private Equity XI   C, L.P., WP XI Partners, L.P., Warburg Pincus Private Equity XI   B, L.P., WP Mustang Co-Invest   B L.P., WP Mustang Co-Invest   C L.P., Warburg Pincus XI (E P) Partners   B, L.P., Warburg Pincus (E P) XI, L.P., WP (Lexington) Holdings II, L.P., Warburg Pincus Private Equity (Lexington) XI   A, L.P., Warburg Pincus XI (Lexington) Partners   A , L.P., WP Mustang Co-Invest LLC and the other investors party thereto (incorporated by reference to Exhibit No. 10.1 to our Current Report on Form 8-K filed with the SEC on July 1, 2016, File No. 001-32426) 
+        
+    10.2 
+      
+    Credit Agreement among WEX Inc., certain of its subsidiaries as borrowers, WEX Card Holding Australia Pty Ltd., as designated borrower, Bank of America, N.A., as Administrative Agent, Swing Line Lender and L/C Issuer, and the other lenders party thereto (incorporated by reference to Exhibit No. 10.2 to our Current Report on Form 8-K filed with the SEC on July 1, 2016, File No. 001-32426) 
+      * 
+    31.1 
+      
+    Certification of Chief Executive Officer of WEX INC. pursuant to Rule 13a-14(a) promulgated under the Securities Exchange Act of 1934, as amended 
+      * 
+    31.2 
+      
+    Certification of Chief Financial Officer of WEX INC. pursuant to Rule 13a-14(a) promulgated under the Securities Exchange Act of 1934, as amended 
+      * 
+    32.1 
+      
+    Certification of Chief Executive Officer of WEX INC. pursuant to Rule 13a-14(b) promulgated under the Securities Exchange Act of 1934, as amended, and Section 1350 of Chapter 63 of Title 18 of the United States Code 
+      * 
+    32.2 
+      
+    Certification of Chief Financial Officer of WEX INC. pursuant to Rule 13a-14(b) promulgated under the Securities Exchange Act of 1934, as amended, and Section 1350 of Chapter 63 of Title 18 of the United States Code 
+      * 
+    101.INS 
+      
+    XBRL Instance Document 
+      * 
+    101.SCH 
+      
+    XBRL Taxonomy Extension Schema Document 
+      * 
+    101.CAL 
+      
+    XBRL Taxonomy Calculation Linkbase Document 
+      * 
+    101.LAB 
+      
+    XBRL Taxonomy Label Linkbase Document 
+      * 
+    101.PRE 
+      
+    XBRL Taxonomy Presentation Linkbase Document 
+      * 
+    101.DEF 
+      
+    XBRL Taxonomy Extension Definition Linkbase Document 
+
+* 
+    These exhibits have been filed with this Quarterly Report on Form 10-Q. 
+
+58 
+
+<EX-31.1>
+ 2
+ wex20160930ex311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+EXHIBIT 31.1 
+  CERTIFICATION 
+  I, Melissa D. Smith, certify that: 
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of WEX Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+       
+  Date:   November 8, 2016    
+    
+               /s/ Melissa D. Smith 
+      Melissa D. Smith 
+      Chief Executive Officer and President 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ wex20160930ex312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+EXHIBIT 31.2 
+  CERTIFICATION 
+  I, Roberto Simon, certify that: 
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of WEX Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+       
+  Date:   November 8, 2016    
+               /s/ Roberto Simon 
+      Roberto Simon 
+      Chief Financial Officer 
+      (Principal accounting and financial officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ wex20160930ex321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+EXHIBIT 32.1 
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+  In connection with the quarterly report of WEX Inc. (the  Company ) on Form 10-Q for the period ending   September 30, 2016   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Melissa D. Smith, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge: 
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+       
+               /s/ Melissa D. Smith 
+      Melissa D. Smith 
+      Chief Executive Officer and President 
+      November 8, 2016 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ wex20160930ex322.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+EXHIBIT 32.2 
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+  In connection with the quarterly report of WEX Inc. (the  Company ) on Form 10-Q for the period ending   September 30, 2016   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Roberto Simon, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge: 
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+       
+               /s/ Roberto Simon 
+      Roberto Simon 
+      Chief Financial Officer 
+      (Principal accounting and financial officer) 
+      November 8, 2016 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ wex-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ wex-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ wex-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ wex-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ wex-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ wex-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

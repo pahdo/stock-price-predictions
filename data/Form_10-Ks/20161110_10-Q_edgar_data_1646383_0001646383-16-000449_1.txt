@@ -1,0 +1,1761 @@
+<Header>
+<FileStats>
+    <FileName>20161110_10-Q_edgar_data_1646383_0001646383-16-000449_1.txt</FileName>
+    <GrossFileSize>8356474</GrossFileSize>
+    <NetFileSize>167426</NetFileSize>
+    <ASCII_Embedded_Chars>488732</ASCII_Embedded_Chars>
+    <HTML_Chars>2588992</HTML_Chars>
+    <XBRL_Chars>3671812</XBRL_Chars>
+    <XML_Chars>1301666</XML_Chars>
+    <N_Tables>48</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001646383-16-000449.hdr.sgml : 20161110
+<ACCEPTANCE-DATETIME>20161109174300
+ACCESSION NUMBER:		0001646383-16-000449
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		86
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161110
+DATE AS OF CHANGE:		20161109
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CSRA Inc.
+		CENTRAL INDEX KEY:			0001646383
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				474310550
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37494
+		FILM NUMBER:		161985352
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3170 FAIRVIEW PARK DRIVE
+		CITY:			FALLS CHURCH
+		STATE:			VA
+		ZIP:			22042
+		BUSINESS PHONE:		(703) 641-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		3170 FAIRVIEW PARK DRIVE
+		CITY:			FALLS CHURCH
+		STATE:			VA
+		ZIP:			22042
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Computer Sciences Government Services Inc.
+		DATE OF NAME CHANGE:	20150702
+
+</SEC-Header>
+</Header>
+
+ 0001646383-16-000449.txt : 20161110
+
+10-Q
+ 1
+ csrafy17q210-q.htm
+ 10-Q
+
+Document 
+
+UNITED STATES  
+  SECURITIES AND EXCHANGE COMMISSION 
+  WASHINGTON, D.C. 20549 
+
+FORM 10-Q 
+    
+  (Mark One) 
+
+For the quarterly period ended   September 30, 2016    
+    
+  OR 
+
+For the transition period from                      to                       
+    
+  Commission File No.: 001-37494 
+
+CSRA INC. 
+      
+      (Exact name of Registrant as specified in its charter) 
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.       x     Yes      o      No 
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files)     x     Yes    o      No 
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company.  See definition of  accelerated filer and large accelerated filer  in Rule 12b-2 of the Exchange Act (Check one). 
+                     Large accelerated filer    o 
+    Accelerated filer        o 
+    Non-accelerated filer        x 
+    Smaller reporting company    o 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12-b of the Exchange Act).    o      Yes      x     No    
+  163,426,170 shares of Common Stock, $0.001 par value, were outstanding on November 4, 2016.  
+
+EXPLANATORY NOTE 
+    
+  On November 27, 2015, CSRA Inc. ( CSRA ) became an independent, publicly traded company through consummation of a spin-off by Computer Sciences Corporation ( CSC ) of the businesses constituting CSC s North American Public Sector segment, which we refer to as the  Computer Sciences GS Business , together with certain other assets and liabilities. We refer to this series of internal transactions as the  Internal Reorganization.  We refer to CSC s distribution of the shares of CSRA common stock to CSC s stockholders as the  Distribution  and to the Internal Reorganization and the Distribution collectively as the  Spin-Off.  On November 30, 2015, following two mergers (the  Mergers ) involving SRA Companies, Inc. ( SRA Parent ) and two wholly owned subsidiaries of CSRA, SRA International, Inc. ( SRA ) became an indirect wholly owned subsidiary of CSRA. For a more detailed description of the Spin-Off and Mergers, see CSRA s Annual Report on Form 10-K for the year ended April 1, 2016. 
+    
+  Because the Spin-Off and the Mergers were not consummated until November 27, 2015 and November 30, 2015, respectively, the unaudited Consolidated and Condensed Financial Statements presented in this Quarterly Report on Form 10-Q ( Form 10-Q ) include only the legacy Computer Sciences GS Business activity for the period from April 4, 2015 to   October 2, 2015   and CSRA including SRA from April 2, 2016 to   September 30, 2016  .  
+    
+  In this Form 10-Q, unless the context otherwise requires,  CSRA,   Computer Sciences GS,   we,   our  and  us  refer to CSRA Inc. and its combined subsidiaries after giving effect to the Spin-Off for periods prior to the consummation of the Mergers;  CSRA,   we,   our  and  us  refer to CSRA Inc. and its combined subsidiaries, including the combined business of SRA, after giving effect to the Spin-Off and the Mergers for periods following the consummation of the Mergers. 
+  Trademarks and Copyrights 
+  We own or have rights to various trademarks, logos, service marks and trade names that we use in connection with the operation of our business. We also own or have the rights to copyrights that protect the content of our products. Solely for convenience, the trademarks, service marks, trade names and copyrights referred to in this Form 10-Q are listed without the  ,   and   symbols, but such references do not constitute a waiver of any rights that might be associated with the respective trademarks, service marks, trade names and copyrights included or referred to in this Form 10-Q. 
+
+CSRA INC. 
+
+TABLE OF CONTENTS 
+
+PAGE 
+      PART I. 
+    FINANCIAL INFORMATION 
+      
+      Item 1. 
+    Financial Statements (unaudited) 
+     1 
+        
+    Consolidated and Condensed Balance Sheets as of September 30, 2016 and April 1, 2016 
+     1 
+        
+    Consolidated and Condensed Statements of Operations for the Three and Six Months Ended September 30, 2016 and October 2, 2015 
+     2 
+        
+    Consolidated and Condensed Statements of Comprehensive Income for the Three and Six Months Ended September 30, 2016 and October 2, 2015 
+     3 
+        
+    Consolidated and Condensed Statements of Cash Flows for the Six Months Ended September 30, 2016 and October 2, 2015 
+     4 
+        
+    Notes to Consolidated and Condensed Financial Statements 
+     5 
+      Item 2. 
+    Management's Discussion and Analysis of Financial Condition and Results of Operations 
+     33 
+      Item 3. 
+    Quantitative and Qualitative Disclosures About Market Risk 
+     48 
+      Item 4. 
+    Controls and Procedures 
+     49 
+      PART II. 
+    OTHER INFORMATION 
+     50 
+      Item 1. 
+    Legal Proceedings 
+     50 
+      Item 1A. 
+    Risk Factors 
+     50 
+      Item 2. 
+    Unregistered Sales of Equity Securities and Use of Proceeds 
+     50 
+      Item 3. 
+    Default Upon Senior Securities 
+     51 
+      Item 4. 
+    Mine Safety Disclosures 
+     51 
+      Item 5. 
+    Other Information 
+     51 
+      Item 6. 
+    Exhibits 
+     52 
+
+PART I. FINANCIAL INFORMATION 
+
+ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) 
+   
+                                                                        CSRA INC. CONSOLIDATED AND CONDENSED BALANCE SHEETS (unaudited) 
+
+See accompanying notes to Consolidated and Condensed Financial Statements (unaudited) 
+
+1 
+
+CSRA INC. 
+  CONSOLIDATED AND CONDENSED STATEMENTS OF OPERATIONS (unaudited) 
+
+See accompanying notes to Consolidated and Condensed Financial Statements (unaudited) 
+
+2 
+
+CSRA INC. 
+  CONSOLIDATED AND CONDENSED STATEMENTS OF COMPREHENSIVE INCOME (unaudited) 
+
+See accompanying notes to Consolidated and Condensed Financial Statements (unaudited) 
+
+3 
+
+CSRA INC. 
+  CONSOLIDATED AND CONDENSED STATEMENTS OF CASH FLOWS (unaudited) 
+
+(Dollars in millions) 
+      
+    Six Months Ended 
+        
+    September 30, 2016 
+      
+    October 2, 2015 
+      Cash flows from operating activities 
+
+Net income 
+    $ 
+    148 
+      
+    $ 
+    120 
+      
+      Adjustments to reconcile net income to cash provided by operating activities: 
+
+Depreciation and amortization 
+      
+    131 
+
+72 
+      
+      Stock-based compensation 
+      
+    7 
+
+4 
+      
+      Excess tax benefit from stock compensation 
+      
+    (2 
+    ) 
+
+Net gain on dispositions of businesses and assets 
+
+(11 
+    ) 
+       Other non-cash items, net 
+      
+    1 
+
+Changes in assets and liabilities, net of acquisitions and dispositions: 
+
+(Increase) decrease in assets 
+      
+    (56 
+    ) 
+      
+    237 
+      
+      Decrease in liabilities 
+      
+    (21 
+    ) 
+      
+    (56 
+    ) 
+      Other operating activities, net 
+      
+    3 
+
+Cash provided by operating activities 
+      
+    211 
+
+366 
+
+Cash flows from investing activities 
+
+Purchases of property and equipment 
+      
+    (68 
+    ) 
+      
+    (38 
+    ) 
+      Proceeds from business dispositions 
+
+34 
+      
+      Software purchased and developed 
+      
+    (8 
+    ) 
+      
+    (10 
+    ) 
+      Other investing activities, net 
+      
+    (15 
+    ) 
+      
+    1 
+      
+      Cash used in investing activities 
+      
+    (91 
+    ) 
+      
+    (13 
+    ) 
+
+Cash flows from financing activities 
+
+Payments of lines of credit 
+      
+    (50 
+    ) 
+
+Payments of long-term debt 
+      
+    (98 
+    ) 
+
+Proceeds from stock options and other employee stock transactions  
+      
+    7 
+
+Repurchase of common stock 
+      
+    (8 
+    ) 
+
+Dividends paid 
+      
+    (34 
+    ) 
+
+Payments on lease liability 
+      
+    (17 
+    ) 
+      
+    (10 
+    ) 
+      Net transfers to CSC 
+
+(338 
+    ) 
+      Other financing activities 
+      
+    22 
+
+Payments to noncontrolling interests  
+      
+    (4 
+    ) 
+
+Cash used in financing activities 
+      
+    (182 
+    ) 
+      
+    (348 
+    ) 
+
+Net (decrease) increase in cash and cash equivalents 
+      
+    (62 
+    ) 
+      
+    5 
+      
+      Cash and cash equivalents at beginning of period 
+      
+    130 
+
+5 
+      
+      Cash and cash equivalents at end of period 
+    $ 
+    68 
+      
+    $ 
+    10 
+
+Supplemental cash flow information: 
+
+Cash paid for income taxes 
+    $ 
+    47 
+      
+    $ 
+    78 
+      
+        Cash paid for interest   
+      
+    54 
+
+10 
+      
+        Non-cash investing activities 
+      
+    9 
+
+11 
+      
+        Capital expenditures through capital lease obligations 
+      
+    20 
+
+Non-cash operating activities 
+      
+    (2 
+    ) 
+
+See accompanying notes to Consolidated and Condensed Financial Statements (unaudited) 
+
+4 
+
+CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+Note 1 Description of the Business, Basis of Presentation and Recent Accounting Pronouncements 
+    
+  Description of the Business 
+    
+  CSRA Inc. ( CSRA  or the  Company ) is a provider of IT and professional services to U.S. government organizations. CSRA delivers IT, mission, and operations-related services across the U.S. federal government to the Department of Defense ( DoD ), the intelligence community and homeland security, civil and healthcare agencies, as well as to certain state and local government agencies through   two   business segments: (1) Defense and Intelligence and (2) Civil. 
+    
+  The Spin-Off and the Mergers 
+    
+  On November 27, 2015, Computer Sciences Corporation ( CSC  or  Parent ) completed the spin-off of CSRA, including the Computer Sciences GS Business to CSC shareholders of record (the  Spin-Off ). Following the Spin-Off, on November 30, 2015, CSRA also completed   two   mergers, which resulted in SRA Companies, Inc. ( SRA Parent ) merging with and into a wholly owned subsidiary of CSRA (the  Mergers ). As a result, SRA International Inc. ( SRA ) became an indirect wholly owned subsidiary of CSRA.  
+    
+  Basis of Presentation 
+  The accompanying unaudited Consolidated and Condensed Financial Statements have been prepared in accordance with U.S. generally accepted accounting principles ( GAAP ) and pursuant to the rules and regulations of the U.S. Securities and Exchange Commission, and should be read in conjunction with the information contained in the Company s Annual Report on Form 10-K for the year ended April 1, 2016. The interim period unaudited Consolidated and Condensed Financial Statements are presented as described below. 
+  Prior to the Spin-Off, the Company consisted of the business of CSC s North American Public Sector segment and did not operate as a separate, stand-alone entity. Consequently, the period prior to the Spin-Off, as of and for the   three and six   months ended   October 2, 2015  , consists solely of the accounts and results of the Computer Sciences GS Business. The period subsequent to the Spin-Off and the Mergers, as of and for the   three and six   months ended   September 30, 2016  , consists of the consolidated accounts of CSRA and its wholly owned subsidiaries, which include the activity and operating results of SRA. All intercompany transactions and balances have been eliminated.   
+  Certain information and disclosures normally required for annual financial statements have been condensed or omitted pursuant to SEC rules and regulations. In the opinion of management, all adjustments considered necessary for fair presentation of the results of the interim period presented have been included. 
+    
+  The accompanying unaudited financial statements for the period prior to the Spin-Off are prepared on a carved-out and combined basis from the financial statements of CSC. Such carved-out and combined amounts were determined using the historical results of operations and carrying amounts of the assets and liabilities transferred to CSRA. Related-party transactions between CSRA and CSC or the Computer Sciences GS Business and other businesses of CSC are reflected as related-party transactions. For additional information, see Note 2 Related-Party Transactions and Corporate Allocations. 
+  For the period prior to the Spin-Off, the unaudited financial statements include all revenues and costs directly attributable to the Computer Sciences GS Business and an allocation of expenses related to certain CSC corporate functions, including, but not limited to, senior management, legal, human resources, finance, IT and other shared services. These expenses had been allocated to the Computer Sciences GS Business based on direct usage or benefit where identifiable, with the remainder allocated on a pro rata basis of revenues, headcount, square footage, number of transactions or other measures. The Computer Sciences GS Business considered these allocations to be a reasonable reflection of the utilization of services by, or benefit provided to it. However, the allocations may not be indicative of the actual expense that would have been incurred had the Computer Sciences GS Business operated as an independent, stand-alone entity for the period presented. 
+
+5 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+Prior to the Spin-Off, CSC maintained various benefit and share-based compensation plans at a corporate level and other benefit plans at a subsidiary level. The employees of CSRA participated in those plans and a portion of the cost of those plans for the period prior to the Spin-Off is included in the unaudited Consolidated and Condensed Financial Statements for the period prior to the Spin-Off. However, the unaudited Combined Condensed Balance Sheets do not include any net benefit plan obligations unless the benefit plan covered only the Company s active, retired and other former employees or any expense related to share  based compensation plans. See Notes 11 Pension and Other Post-retirement Benefit Plans and Note 12 Share-Based Compensation Plans for further information about our benefit plans and share-based compensation, respectively. 
+  For the period presented prior to the Spin-Off, the unaudited financial statements include current and deferred income tax expense that has been determined for the legacy Computer Sciences GS Business as if it were a separate taxpayer (i.e., following the separate return methodology). 
+  CSRA reports its results based on a fiscal year convention that comprises four thirteen-week quarters. Every fifth year includes an additional week in the first quarter to prevent the fiscal year from moving from an approximate end of March date.  
+  CSRA s income before income taxes and noncontrolling interest included gross favorable and unfavorable adjustments due to changes in estimated profitability on fixed price contracts accounted for under the percentage-of-completion method, for the   three and six   months ended   September 30, 2016   and   October 2, 2015   as follows. 
+
+Unbilled recoverable amounts under contracts in progress do not have an allowance for credit losses and, therefore, any adjustments to unbilled recoverable amounts under contracts in progress related to credit quality would be accounted for as a reduction of revenue. Unbilled recoverable amounts under contracts in progress resulting from sales, primarily to the U.S. and other governments, that are expected to be collected after one year totaled   $15.7 million   and   $14.4 million   as of   September 30, 2016   and April 1, 2016, respectively. 
+    
+  Depreciation expense was $  31.0   million and $  29.1   million for the three months ended   September 30, 2016   and   October 2, 2015  , respectively. Depreciation expense was   $63.4 million   and   $56.7 million   for the   six   months ended   September 30, 2016   and   October 2, 2015  , respectively. 
+  Use of Estimates 
+    
+  GAAP requires management to make estimates and assumptions that affect certain amounts reported in the Consolidated and Condensed Financial Statements and accompanying notes. These estimates are based on management s best knowledge of historical experience, current events and various other assumptions that management considers reasonable under the circumstances. Actual results could differ from those estimates. Amounts subject to significant judgment and/or estimates include, but are not limited to, determining the fair value of asset acquired and liabilities assumed, determining the fair value of derivative instruments, costs to complete fixed-price contracts, cash flows used in the evaluation of impairment of goodwill and other long-lived intangible assets, certain deferred costs, collectability of receivables, reserves for tax benefits and valuation allowances on deferred tax assets, loss accruals for litigation, and inputs used for computing share-based compensation and pension related liabilities. 
+
+6 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+Fair Value Measurements 
+  Fair value is the price that would be received to sell an asset or paid to transfer a liability in the principal or most advantageous market in an orderly transaction between marketplace participants.  The accounting guidance for fair value measurements establishes a three level fair value hierarchy that prioritizes the inputs used in measuring fair value as follows: 
+  Level 1    Unadjusted quoted prices in active markets for identical assets or liabilities.  
+  Level 2    Quoted prices for similar assets or liabilities or quoted market prices for identical or similar assets in markets that are not active.      
+  Level 3    Valuations derived from valuation techniques in which one or more significant inputs are observable. 
+  Our assets and liabilities which are valued using the fair value measurement guidance, on a recurring basis, include pension assets and derivative instruments, consisting of interest rate swap contracts and total return swaps. Our pension assets are valued using model based pricing methods that use observable market data; as such these inputs are considered Level 2 inputs. The fair value of interest rate swaps is estimated based on valuation models that use observable interest rate yield curves as inputs. Total return swaps are settled on the last day of every fiscal month. Therefore, the value of any total return swaps outstanding as of any balance sheet date is not material. The inputs used to estimate the fair value of the Company's derivative instruments are classified as Level 2. No significant assets or liabilities are measured at fair value on a recurring basis using significant unobservable (Level 3) inputs.   
+  Certain assets and liabilities are measured at fair value on a non-recurring basis. These include assets and liabilities acquired in a business combination, equity-method investments and long-lived assets, which would be recognized at fair value if deemed to be impaired or if reclassified as assets held for sale. The fair value in these instances would be determined using Level 3 inputs. 
+  The Company s financial instruments include cash, trade receivables, vendor payables, derivative financial instruments, and debt. As of   September 30, 2016  , the carrying value of cash, trade receivables, and vendor payables approximated their fair value. The carrying amounts of the Company s financial instruments with short-term maturities are deemed to approximate their market values. The carrying amount of the Company s long-term debt, excluding capital leases was   $2.6 billion   and $  2.7 billion   at   September 30, 2016   and April 1, 2016, respectively, and approximated its fair value on   September 30, 2016  , based on recent trading activity. The fair value of long-term debt is estimated based on the current interest rates offered to the Company for instruments with similar terms and remaining maturities and are classified as Level 2.  
+  Recent Accounting Pronouncements 
+  New Accounting Standards 
+  During the   six   months ended   September 30, 2016  , CSRA adopted the following Accounting Standard Updates ( ASUs ): 
+    
+  In March 2016, the Financial Accounting Standards Board ( FASB ) issued ASU 2016-09,   Improvements to Employee Share-Based Payment Accounting (Topic 718)   ( ASU 2016-09 ), which simplifies several aspects of accounting for share-based payment award transactions related to accounting for income taxes, forfeitures, statutory tax withholding requirements, classification of awards as either equity or liabilities, and classification of employee taxes paid on the statements of cash flows when an employer withholds shares for tax-withholding purposes. The standard is effective for annual periods beginning after December 15, 2016, and interim periods within those annual periods. Early adoption is permitted in any interim or annual period. Upon the implementation of ASU 2016-09, a company may elect to adopt certain simplifications on a prospective or retrospective basis.  
+  CSRA early adopted ASU 2016-09, effective for the three months ended July 1, 2016. Certain of the  
+
+7 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+simplification provisions were not applicable to CRSA. The primary impact of adoption was our election to no longer estimate forfeitures, but instead account for the forfeitures as they occur.  The change in accounting for forfeitures was applied on a modified retrospective basis; accordingly, a cumulative adjustment of   $1.1 million   was recognized as a reduction of accumulated earnings (deficit) upon adoption. The Company also adopted the simplification provision requiring recognition of excess tax benefits in the income statement as a discrete event and the provision related to the presentation of excess tax benefits and deficiencies within operating activities in the statement of cash flows on a prospective basis, beginning in the three months ended July 1, 2016. The adoption of this provision was not material to the Company s financial results for the first half of fiscal year 2017.  
+    
+  Standards Issued But Not Yet Effective 
+    
+  The following ASUs were recently issued but have not yet been adopted by CSRA: 
+    
+  In May 2014, the FASB issued a new standard, ASC Topic 606,   Revenue from Contracts with Customers   that will change the way we recognize revenue and significantly expand the disclosure requirements for revenue arrangements. On July 9, 2015, the FASB approved a one-year deferral of the effective date, which for CSRA would make the standard effective at the start of fiscal year 2019 (April 1, 2018). The FASB provided an option that would permit us the ability to adopt the standard beginning fiscal year 2018 (April 1, 2017). Early adoption prior to fiscal year 2018 is not permitted. The new standard may be adopted either retrospectively or on a modified retrospective basis whereby the new standard would be applied to new contracts and existing contracts with remaining performance obligations as of the effective date, with a cumulative catch-up adjustment recorded to beginning retained earnings at the effective date for existing contracts with remaining performance obligations. 
+    
+  The new standard requires us to identify contractual performance obligations and determine when revenue should be recognized. This and other requirements could change the method or timing of revenue recognition for our firm-fixed-price and cost-reimbursable-plus-fee contract portfolio. As a result, we are applying an integrated approach to analyzing the standard s impact on our contract portfolio, including a review of accounting policies and practices, evaluating differences from applying the requirements of the new standard to our contracts and business practices, and assessing the need for system changes or enhancements. As changes in estimated profit will be recognized in the period they are identified, rather than prospectively over the remaining contract term, the impact of revisions of contract estimates may be larger and potentially more variable from period to period. Anticipated losses on contracts will continue to be recognized in the period they are identified. While our assessment continues, we have not yet selected a transition date or method nor have we yet determined the effect of the adoption of this standard on our financial statements and, as a result, our evaluation of the effect of adoption will extend into future periods. 
+    
+  In February 2016, the FASB issued ASU No. 2016-02,   Leases (Topic 842)   ( ASU 2016-02 ), which supersedes the current guidance related to accounting for leases. The guidance requires lessees to recognize most leases on-balance sheet as a right of use asset and lease liability. ASU 2016-02 will also require expanded qualitative and quantitative disclosures designed to give financial statement users additional information on the amount, timing, and uncertainty of cash flows arising from CSRA leases. The standard is required to be adopted using the modified retrospective approach. The standard will be effective for the first interim period within annual periods beginning after December 15, 2019 with early adoption permitted. CSRA is currently evaluating the impact of adoption on its financial statements. 
+    
+  In August 2016, the FASB issued ASU No. 2016-15,   Statement of Cash Flows (Topic 230)   ( ASU 2016-15 ). The guidance addresses the concern from Stakeholders that there is diversity in practice in how certain cash receipts and cash payments are presented and classified in the Statement of Cash Flows. ASU 2016-15 addresses the following eight specific cash flow issues: Debt prepayment or debt extinguishment costs, cash payments for debt prepayment or debt extinguishment costs, including third-party costs, premiums paid to repurchase debt in an open-market transaction, and other fees paid to lenders that are directly related to the debt prepayment or debt extinguishment, should be classified as cash outflows for financing activities; settlement of zero-coupon debt instruments or other debt instruments with coupon interest rates that are insignificant in relation to the effective interest rate of the borrowing; contingent consideration payments made after a business combination; proceeds from  
+
+8 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+the settlement of insurance claims; proceeds from the settlement of corporate-owned life insurance policies (including bank-owned life insurance policies); distributions received from equity method investees; beneficial interests in securitization transactions; and separately identifiable cash flows and application of the predominance principle. ASU 2016-15     is effective for public business entities for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years, with early adoption permitted. CSRA is currently evaluating the impact of adoption on its financial statements. 
+    
+  Other recently issued ASUs effective after   September 30, 2016   are not expected to have a material effect on CSRA s financial statements.  
+   
+  Note 2 Related-Party Transactions and Corporate Allocations 
+  Corporate Allocations 
+  The unaudited Consolidated and Condensed Financial Statements include an allocation of general corporate expenses from CSC for the period prior to Spin-Off. The financial information in these unaudited Consolidated and Condensed Financial Statements does not necessarily include all the expenses that would have been incurred by CSRA had it been a separate, stand-alone entity during that time. The management of CSRA considered these allocations to be a reasonable reflection of the utilization of services by, or the benefits provided to, it. The allocation methods include relative headcount, actual services rendered and relative space utilization. Allocations for management costs and corporate support services provided to CSRA totaled   $48.0   million and   $104.7 million   for the three and   six   months ended   October 2, 2015  , respectively. These amounts include costs for corporate functions, including, but not limited to, senior management, legal, human resources, finance, IT and other shared services. Following the Spin-Off, CSRA performs all corporate functions that were previously performed by CSC.  
+  Transition Agreements 
+  In connection with the separation and distribution, CSRA entered into certain agreements that govern the respective rights and responsibilities between CSC and CSRA. CSRA entered into an Intellectual Property Matters Agreement with CSC that governs the respective rights and responsibilities between CSRA and CSC with respect to intellectual property owned or used by each of the companies. Pursuant to the Intellectual Property Matters Agreement, CSC granted CSRA a perpetual, royalty-free, non-assignable license to certain know-how, certain software products, trademarks and workflow and design methodologies.  
+  CSRA pays CSC an annual net maintenance fee of   $30.0   million per year for   five years   in exchange for maintenance and support of products licensed from CSC. On December 9, 2015, CSRA paid the maintenance fee for year one, which is included in Prepaid expenses and other current assets in the unaudited Consolidated and Condensed Balance Sheets and amortized on a straight line basis over   one year  . During the   three and six   months ended   September 30, 2016  , CSRA amortized $  7.5   million and $  15.0 million  , respectively, which is included in Selling, general and administrative ( SG A ) in the unaudited Consolidated and Condensed Statements of Operations. 
+  CSRA entered into a Tax Matters Agreement with CSC that governs the respective rights, responsibilities and obligations of CSC and CSRA with respect to all tax matters. CSRA has joint and several liability with CSC to the IRS for the consolidated U.S. Federal income taxes of the CSC consolidated group relating to the taxable periods in which CSRA was part of that group. During the   three and six   months ended   September 30, 2016  , CSRA did   not   incur charges payable to CSC under the Tax Matters Agreement. 
+  CSRA entered into a Real Estate Matters Agreement with CSC that governs the respective rights and responsibilities between CSRA and CSC following the Spin-Off with respect to certain real property used by CSRA. For the   three and six   months ended   September 30, 2016  , the rental income from CSC associated with the Real Estate Matters Agreement was not significant. 
+
+9 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+Note 3 Acquisitions and Divestitures 
+    
+  There were no acquisitions or divestitures of other businesses during the   six   months ended   September 30, 2016  . There were no acquisitions of other businesses during the   six   months ended   October 2, 2015  . 
+    
+  Fiscal 2016 Divestiture 
+    
+  On April 27, 2015, the Computer Sciences GS Business divested its wholly owned subsidiary, Welkin Associates Limited ( Welkin ), a provider of systems engineering and technical assistance services to the intelligence community and other U.S. Department of Defense clients. The Computer Sciences GS Business received consideration of   $34.0 million  , and recorded a pre-tax gain on the sale of   $18.5 million  , which was included in Other expense (income), net in the Consolidated and Condensed Statements of Operations for the six months ended October 2, 2015. Included in the divested net assets of   $13.8 million   was   $10.7 million   of goodwill and transaction costs of   $1.7 million  . The divestiture did not qualify to be presented as discontinued operations as it did not represent a strategic shift that would have a major effect on the Computer Sciences GS Business s operations and financial results. 
+    
+  Fiscal 2016 Acquisition 
+    
+  As discussed in Note 1 Description of the Business, Basis of Presentation and Recent Accounting Pronouncements, on November 30, 2015, CSRA completed its previously announced Mergers which resulted in SRA Parent merging with and into a wholly owned subsidiary of CSRA. As a result, SRA became an indirect, wholly owned subsidiary of CSRA. 
+  The Mergers are reflected in CSRA s financial statements using the acquisition method of accounting, with CSRA being considered the accounting acquirer of SRA. The total merger consideration ( Merger Consideration ) transferred was   $2.3   billion, which consisted of (1)   $390.0   million in cash (gross of cash acquired of   $48.3   million), (2)   25,170,564   shares of CSRA common stock representing in the aggregate   15.32%   of the total number of shares of CSRA common stock outstanding, (3)   $1.1 billion   related to SRA debt and (4)   $29.9 million   of acquiree-related transaction costs. The fair market value of shares was determined based on a volume-weighted average price of   $30.95   per CSRA share on November 30, 2015, the first day of CSRA s regular-way trading on the NYSE. 
+  CSRA recorded, on a preliminary basis, the assets acquired and liabilities assumed at their estimated fair value, with the difference between the fair value of the net assets acquired and the purchase consideration reflected as goodwill. See Note 7 Goodwill and Other Intangible Assets for further discussion of the measurement considerations for acquired intangible assets. The following table reflects the preliminary fair values of assets acquired and liabilities assumed as of November 30, 2015 (including adjustments subsequent to closing): 
+                      Preliminary allocation (in millions): 
+      
+    Amount 
+       Cash, accounts receivable and other current assets   
+     $  
+    302 
+      
+       Property, equipment and other long-term assets 
+      
+    46 
+      
+       Intangibles customer relationships, backlog and other intangibles assets 
+      
+    891 
+      
+       Accounts payable and other current liabilities  
+      
+    (193 
+    ) 
+       Other long-term liabilities 
+      
+    (26 
+    ) 
+       Deferred tax liabilities  
+      
+    (258 
+    ) 
+       Total identified net assets acquired  
+      
+    762 
+
+Goodwill   
+      
+    1,538 
+
+Estimated total purchase consideration and liabilities paid at closing 
+     $  
+    2,300 
+
+In the fourth quarter of fiscal year 2016, the Company made certain adjustments to provisional amounts previously recognized, which resulted in a   $12.3 million   reduction of the goodwill, which are reflected in the table above. In the second quarter of fiscal year 2017, the Company made additional adjustments to the provisional amounts related to tax-related items and facility exit charges, which resulted in a net   $2.2 million   decrease of  
+
+10 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+goodwill. The goodwill recognized in the acquisition is attributable to the intellectual capital, the acquired assembled work force, and expected cost synergies, none of which qualify for recognition as a separate intangible asset. The goodwill is not deductible for tax purposes. Goodwill arising from the acquisition has been allocated to CSRA s reporting units based on the relative fair value of assets acquired. The resulting allocation to CSRA s reportable segments was as follows: $  334.4   million allocated to Defense and Intelligence and $  1.2   billion allocated to Civil. 
+  The Company s allocation of goodwill remains preliminary until the resolution of certain unresolved tax matters, which the Company expects to conclude during the third quarter, consequently, the fair values of assets acquired and liabilities assumed are subject to change. 
+  Unaudited Pro Forma Financial Information 
+  The following unaudited pro forma financial information presents results as if the Spin-Off and the Mergers and the related financing had occurred prior to April 3, 2015. The historical consolidated financial information of CSRA and SRA has been adjusted in the pro forma information to give effect to the events that are: (1) directly attributable to the transactions, (2) factually supportable, and (3) expected to have a continuing impact on the consolidated results. The consolidated financial information of SRA includes merger and integration costs that are not expected to recur and impact the consolidated results over the long term. The unaudited pro forma results do not reflect future events that have occurred or may occur after the transactions, including but not limited to, the impact of any actual or anticipated synergies expected to result from the Mergers. Accordingly, the unaudited pro forma financial information is not necessarily indicative of the results of operations as they would have been had the transactions been effected prior to April 3, 2015, nor is it necessarily an indication of future operating results.                                              
+    Three Months Ended September 30, 2016 
+      (Dollars in millions, except per share amounts) 
+      
+    CSRA Consolidated 
+      
+    Effects of Spin-Off (a) 
+      
+    Effects of Mergers (b) 
+      
+    Pro Forma for Spin-Off and Merger 
+      Revenue  
+    $ 
+    1,263 
+      
+    $ 
+
+$ 
+
+$ 
+    1,263 
+      
+      Income attributable to CSRA Shareholders 
+      
+    76 
+
+1 
+
+4 
+
+81 
+
+Income per common share: 
+
+Basic  
+    $ 
+    0.46 
+
+$ 
+    0.49 
+      
+       (a)    Income from continuing operations attributable to CSRA Shareholders effected for the Spin-Off excludes $1 million, net of tax, of non-recurring costs incurred to give effect to the merger of SRA and CSRA.    (b)    Income from continuing operations effected for the Merger excludes $4 million, net of tax, of non-recurring costs incurred to give effect to the merger of SRA and CSRA. 
+
+11 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+Six Months Ended September 30, 2016 
+      (Dollars in millions, except per share amounts) 
+      
+    CSRA Consolidated 
+      
+    Effects of Spin-Off (a) 
+      
+    Effects of Mergers (b) 
+      
+    Pro Forma for Spin-Off and Merger 
+      Revenue  
+    $ 
+    2,517 
+      
+    $ 
+
+$ 
+
+$ 
+    2,517 
+      
+      Income attributable to CSRA Shareholders 
+      
+    141 
+
+1 
+
+7 
+
+149 
+
+Income per common share: 
+
+Basic 
+    $ 
+    0.86 
+
+$ 
+    0.91 
+      
+       (a)    Income from continuing operations attributable to CSRA Shareholders effected for the Spin-Off excludes $1 million, net of tax, of non-recurring costs incurred to give effect to the merger of SRA and CSRA.    (b)    Income from continuing operations effected for the Merger excludes $7 million, net of tax, of non-recurring costs incurred to give effect to the merger of SRA and CSRA.  
+
+Note 4 Earnings Per Share 
+    
+  On November 27, 2015, the date that CSRA s common stock was distributed to CSC shareholders in the Spin-Off, CSRA had   139,128,158   common shares outstanding. The calculation of both basic and diluted earnings per share for the   three and six   months ended   October 2, 2015   utilized this number of common shares because at that time, CSRA did not operate as a separate, stand-alone entity, and   no   equity-based awards were outstanding in the period. 
+  The calculation of basic earnings per share for the   three and six   months ended   September 30, 2016   utilized and   163,824,108   and   163,550,807   shares, respectively,     based on the weighted-average shares outstanding during the period. The calculation of diluted earnings per share for the   three and six   months ended   September 30, 2016   utilized   165,084,003   and   164,881,819   shares, respectively, reflecting the dilutive impact of   1,259,895   and   1,331,012   shares, respectively, of outstanding stock options, restricted stock units, and performance-based stock units issued or granted. The computation of diluted earnings per share excluded stock options and restricted stock units, whose effect, if included, would have been anti-dilutive. The number of shares related to such stock options was   2,458,000   and   2,203,008   for the   three and six   months ended   September 30, 2016  , respectively.  
+
+Note 5 Sale of Receivables 
+    
+  CSRA is the seller of certain accounts receivable under a Master Accounts Receivable Purchase Agreement (the  Purchase Agreement ) that was entered into on April 21, 2015 with the Royal Bank of Scotland, PLC ( RBS ), as Purchaser, along with Mitsubishi UFJ Financial Group Ltd, and Bank of Nova Scotia, each as a Participant, for the continuous non-recourse sale of CSRA s eligible trade receivables.  
+  The Purchase Agreement with RBS was subsequently amended, and RBS assigned its rights as a purchaser to The Bank of Tokyo-Mitsubishi UFJ, Ltd., The Bank of Nova Scotia and Mizuho Bank, Ltd., each as a Purchaser.  
+
+12 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+The amended agreement also converted the receivables purchase facility (the  Facility ) to a committed facility and extended the initial term to a   two  -year period. 
+  Under the Facility, CSRA sells eligible receivables, including billed receivables and certain unbilled receivables arising from  cost plus fixed fee  and  time and materials  contracts up to   $450.0   million outstanding at any one time. CSRA has no retained interests in the transferred receivables and only performs collection and administrative functions for the Purchaser for a servicing fee.  
+    
+  Beginning April 2, 2016, SRA discontinued selling receivables under its separate accounts receivable purchase agreement. The SRA accounts receivable agreement was terminated as of June 27, 2016 and, at that time, SRA became an additional seller under the Purchase Agreement.  
+    
+  CSRA accounts for these receivable transfers as sales under ASC 860,   Transfers and Servicing,   and de-recognizes the sold receivables from its unaudited Consolidated and Condensed Balance Sheets. The fair value of the sold receivables approximated their book value due to their short-term nature. CSRA estimated that its servicing fee was at fair value and, therefore, no servicing asset or liability related to these services was recognized as of   September 30, 2016   and April 1, 2016, respectively.  
+    
+  The Company had the following accounts receivable sales activity under the existing facility during the periods presented.   
+
+  As of   September 30, 2016   and April 1, 2016, there was   $30.0 million   and $  8.0   million, respectively, of cash collected by CSRA but not remitted to purchasers. CSRA incurred purchase discount and administrative fees of $  1.6 million   and   $0.8 million   for the six months ended   September 30, 2016   and October 2, 2015, respectively. These fees were recorded within Other expense (income), net in the unaudited Consolidated and Condensed Statements of Operations.  
+  Concentrations of Risk 
+  The primary financial instruments, other than derivatives, that potentially subject the Company to concentrations of credit risk are accounts receivable. The Company s primary customers are U.S. government agencies and prime contractors under contracts with the U.S. government. The Company continuously reviews its accounts receivable and records provisions for doubtful accounts as needed. 
+
+13 
+
+CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+Note 6 Derivative Instruments 
+  Derivatives Designated for Hedge Accounting 
+  The Company utilizes derivative financial instruments to manage interest rate risk related to its Term Loan A Facilities.  The Company s objectives in using interest rate derivatives are to add stability to interest expense and to manage its exposure to interest rate movements. To accomplish this objective, the Company uses interest rate swaps as part of its interest rate risk management strategy. As of both   September 30, 2016   and April 1, 2016, the Company had outstanding interest rate derivatives with a notional value of   $1.4   billion, which were designated as a cash flow hedge of interest rate risk. 
+  The effective portion of changes in the fair value of derivatives designated and that qualify as cash flow hedges is recorded in Accumulated other comprehensive income ( AOCI ), net of taxes, and is subsequently reclassified into earnings in the period that the hedged forecasted transaction affects earnings. The ineffective portion of the change in fair value of the derivatives is recognized directly in earnings. Amounts reported in AOCI related to derivatives will be reclassified to interest expense as interest payments are made on the Company s variable-rate debt. The Company reclassified $  2.6   million and $  5.5 million   of interest rate expense from AOCI into earnings in the Consolidated and Condensed Statements of Operations for the three and six months ending   September 30, 2016  , respectively. During the next twelve months, the Company estimates that approximately $  5.0   million, net of tax, will be reclassified from AOCI into earnings. 
+    
+  The fair value of the Company s derivative financial instruments was a liability of $  15.9 million   and   $11.1   million as of   September 30, 2016   and April 1, 2016, respectively.   These derivative instruments are classified by their short- and long-term components based on the fair value of the anticipated timing of their cash flows.   The current portion is included in the Accrued expenses and other current liabilities and the long-term portion is included in Other long-term liabilities in the Consolidated and Condensed Balance Sheets.  
+  The Company has agreements with each of its interest rate swap counterparties that contain a provision providing that the Company could be declared in default on its derivative obligations if repayment of the underlying indebtedness is accelerated by the lender due to the Company s default on the indebtedness.  
+  Derivatives Not Designated for Hedge Accounting 
+  Total Return Swaps 
+    
+  The Company utilizes total return swap derivative contracts to manage exposure to market volatility of the notional investments underlying the Company s deferred compensation obligations. These arrangements are entered into monthly and are settled on the last day of every fiscal month. For accounting purposes, these derivatives are not designated as hedges. As changes in the fair value of the deferred compensation liabilities are recognized in Cost of services and Selling, general and administrative expenses, so too are the changes in the fair value of the total return swaps derivative contracts. Amounts related to the total return swaps recognized in the   three and six   months ended   September 30, 2016   were not significant.  
+  Concentrations of Risk 
+  The Company is subject to counterparty risk in connection with its interest rate swap derivative contracts. Credit risk related to a derivative financial instrument represents the possibility that the counterparty will not fulfill the terms of the contract. The Company mitigates this credit risk by entering into agreements with credit-worthy counterparties. As of   September 30, 2016   there was   one   counterparty with greater than a 10% concentration of our total exposure.  
+
+14 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+Note 7 Goodwill and Other Intangible Assets 
+  Goodwill  
+  In November 2015, CSRA recorded   $1.5   billion of goodwill acquired from the SRA acquisition, which was allocated to each reportable segment based on the relative fair value of net assets acquired. As discussed in Note 3, during the second quarter of fiscal year 2017, the Company made further adjustments related to the acquisition of SRA, which resulted in a   $2.2 million   decrease of goodwill. This decrease was allocated as   $0.9 million   to the Defense and Intelligence segment and   $1.3 million   to the Civil segment. There were no other changes in the balance of goodwill or the allocations to the segments during the   six   months ended   September 30, 2016  . 
+  Testing for Goodwill Impairment 
+  CSRA tests goodwill for impairment on an annual basis, as of the first day of the second fiscal quarter, and between annual tests if an event occurs, or circumstances change, that would more likely than not reduce the fair value of a reporting unit below its carrying amount. At the end of each annual and quarterly period CSRA assesses whether there were events or changes in circumstances that would more likely than not reduce the fair value of any of its reporting units below their carrying amount and require goodwill to be tested for impairment. 
+  For CSRA s annual goodwill impairment assessment as of July 2, 2016, CSRA chose to bypass the initial qualitative assessment and proceeded directly to the first step of the impairment test for all reporting units. Based on the results of the first step of the impairment test, CSRA concluded that the fair value of each reporting unit significantly exceeded its carrying value, and therefore, the second step of the goodwill impairment test was not required. 
+  Other Intangible Assets 
+    
+  On November 30, 2015, CSRA acquired   $891   million of other intangible assets, as described in Note 3 Acquisitions and Divestitures, which consisted of customer relationships intangibles, backlog, and technology. Acquired intangible assets have been recorded at their preliminary estimated fair value through the use of various discounted cash flow valuation techniques. These valuation techniques incorporated Level 3 inputs as described under the fair value hierarchy of ASC 820,   Fair Value Measurements   ( ASC 820 ). These unobservable inputs reflect CSRA s own assumptions about which assumptions market participants would use in pricing an asset on a non-recurring basis. 
+
+15 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+A summary of amortizing intangible assets is as follows:   
+
+Customer-related intangibles, backlog, and software are amortized to expense. Amortization expense for the   three and six   months ended   September 30, 2016   was $  32.4   million and $  65.0 million  , respectively, compared to the   three and six   months ended   October 2, 2015   of $  5.6   million and $  10.9 million  , respectively. Other intangible assets, which consist of contract-related intangibles, are amortized as a reduction to revenues and included in Depreciation and amortization in the Consolidated and Condensed Statements of Cash Flows. Amortization as a reduction to revenues for the   three and six   months ended   September 30, 2016   was   $0.2   million and $  2.5 million  , respectively, compared to the   three and six   months ended   October 2, 2015   of $  2.3 million   and $  4.6 million  , respectively. 
+  As of   September 30, 2016  , estimated amortization related to intangible assets for the remainder of fiscal year 2017 is $  43.4   million, and for each of the fiscal years 2018, 2019, 2020 and 2021, is as follows:   $66.5   million,   $71.9   million,   $66.4   million and   $59.3   million, respectively. 
+  Purchased and internally developed software (for both external and internal use), net of accumulated amortization, consisted of the following:   
+
+  Amortization expense related to purchased software for the   three and six   months ended   September 30, 2016   was   $3.3   million and $  6.9 million  , respectively, compared to the   three and six   months ended   October 2, 2015   of   $3.6   million and $  7.1 million  , respectively. Amortization expense related to internally developed software for external use for the   three and six   months ended   September 30, 2016   was $  0.2   million and $  0.4 million  , respectively, compared to the   three and six   months ended   October 2, 2015   of   $0.4   million and $  0.7 million  , respectively. Amortization expense related to internally developed software for internal use for the   three and six   months ended  
+
+16 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+September 30, 2016   was   $0.3 million   and $  0.5 million  , respectively, compared to $  0.1 million   for the six months ended   October 2, 2015  . 
+  As of   September 30, 2016  , estimated amortization related to purchased and internally developed software for the remainder of fiscal 2017 is   $9.2   million, and for each of the fiscal years 2018, 2019, 2020 and 2021, is as follows:   $13.3   million,   $9.8   million,   $7.7   million and   $4.4   million, respectively. 
+
+Note 8 Accrued Expenses and Other Current Liabilities 
+  Accrued expenses and other current liabilities consisted of the following:   
+
+Note 9 Debt 
+    
+  CSRA maintains the following debt facilities: (1) a senior secured revolving credit facility (the  Revolving Credit Facility ) with a committed borrowing capacity of   $700   million, (2) a senior secured tranche A1 Term loan facility (the  Tranche A1 Facility ), (3) a senior secured tranche A2 Term loan facility (the  Tranche A2 Facility  and, together with the Tranche A1 Facility, the  Term Loan A Facilities ) and (4) a senior secured term loan B facility (the  Term Loan B Facility  and, together with the Term Loan A Facilities, the  Term Loan Facilities ). 
+  The following is a summary of CSRA s outstanding debt as of   September 30, 2016   and April 1, 2016. 
+
+During the first quarter of fiscal 2017, the Company made a repayment of $  50.0   million on the Revolving Credit Facility. Pursuant to the terms of the Term Loan Facilities agreements, CSRA paid   $48.0   million related to FY16 excess cash flow during the first quarter of fiscal 2017 on its Term Loan Facilities. In September 2016, the Company made a principal repayment of $  50.5 million   on the Term Loan Facilities, of which $  11.5 million   was applied to the Term Loan A Facilities and $  39.0 million   was applied to the Term Loan B Facility. 
+
+17 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+CSRA incurred costs in connection with the issuance of its Term Loan Facilities, which are amortized using the effective interest method over the life of the respective loans. Unamortized debt issuance costs related to the Revolving Credit Facility are recorded with the carrying value of the debt and are amortized using the straight-line method. During the   six   months ended   September 30, 2016  , $  0.7   million and $  4.8   million of costs for the Revolving Credit Facility and Term Loan Facilities, respectively, were amortized and reflected in Interest expense, net in the unaudited Consolidated and Condensed Statements of Operations. 
+  Expected maturities of long-term debt, excluding future minimum capital lease payments for the last half of fiscal year 2017 and fiscal years subsequent to fiscal year 2017, are as follows: 
+
+CSRA s long-term debt facilities contain representations, warranties, and covenants customary for arrangements of these types, as well as customary events of default. CSRA was in compliance with all financial covenants associated with its borrowings as of   September 30, 2016  .  
+
+Note 10 Income Taxes 
+    
+  CSRA s effective tax rate ( ETR ) was   35.5%   and   35.7%   for the   three and six   months ended   September 30, 2016  , respectively, compared to   39.8%   and   39.4%   for the three and six months ended   October 2, 2015  , respectively. The lower ETR for the   three and six   months ended   September 30, 2016   compared to the   three and six   months ended   October 2, 2015   was due to the addition of beneficial stock compensation deductions and the absence of adjustments related to the carve-out approach used for tax purposes prior to the Spin-Off in the fiscal year 2017 periods. 
+    
+  Our Tax Matters Agreement, entered into with CSC in connection with the Spin-Off, states each company s rights and responsibilities with respect to payment of taxes, tax return filings and control of tax examinations. Except for historic SRA tax liabilities and certain separate state liabilities, we are generally only responsible for taxes allocable to periods (or portions of periods) beginning after the Spin-Off. Prior periods included uncertain tax positions allocated from CSC to CSRA on a stand-alone basis that are not reflected in the post-Spin-Off period. 
+    
+  CSRA is currently under examination in several tax jurisdictions. As a result of the Mergers, the tax years that remain subject to examination in certain of CSRA s major tax jurisdictions are as follows:  
+    
+                   Jurisdiction: 
+      
+    Tax Years that Remain  Subject to Examination  (Fiscal Year Ending): 
+      United States - federal 
+      
+    2008 and forward 
+      United States - various states 
+      
+    2008 and forward 
+
+The Internal Revenue Service ( IRS ) is currently examining SRA s federal income tax return for 2011. The IRS has contested a   $136.7   million worthless stock deduction for a disposed subsidiary in that period. CSRA  
+
+18 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+believes its tax positions are appropriate and is prepared to defend them vigorously. Furthermore, pursuant to the Merger Agreement, SRA obtained an insurance policy limiting the exposure related to this position. It is reasonably possible that changes to CSRA s unrecognized tax benefits could be significant; however, due to the uncertainty regarding the timing of completion of audits and possible outcomes, a current estimate of the range of increases or decreases that may occur within the next 12 months is not expected to be material. 
+
+Note 11 Pension and Other Post-retirement Benefit Plans 
+  Certain employees of CSRA and its subsidiaries may be participants in employer-sponsored defined benefit and defined contribution plans. CSRA s defined benefit plans included both pension and other post-retirement benefit ( OPEB ) plans. As discussed in Note 1   Description of the Business, Basis of Presentation and Recent Accounting Pronouncements, on November 27, 2015, CSC completed the Spin-Off of CSRA, including the Computer Sciences GS Business. Prior to the Spin-Off date, the Computer Sciences GS Business recorded the assets, liabilities, and service costs for current employees for the single employer pension and OPEB plans in the unaudited Consolidated and Condensed Financial Statements for the period ended   October 2, 2015  . For multi-employer plans, the Computer Sciences GS Business recorded the service cost related to their current employees in the unaudited Consolidated and Condensed Financial Statements for the period ended   October 2, 2015  . Subsequent to the Spin-Off date, all pension and OPEB plan assets, liabilities and services costs related to current employees were fully absorbed by CSRA.  
+  Defined Benefit Pension Plans 
+  The assets and liabilities for the plans as well as service and interest costs related to current employees are reflected in CSRA s unaudited Consolidated and Condensed Financial Statements. The largest U.S. defined benefit pension plan was frozen in fiscal 2010 for most participants. 
+  The net periodic pension benefit for CSRA pension plans includes the following components: 
+
+The following table provides the pension plans  projected benefit obligations, assets, and a statement of their funded status: 
+
+CSRA contributed   $4.2   million to the defined benefit pension plans during the   six   months ended   September 30, 2016   for the funding of benefit payments made to plan participants. CSRA expects to make   $4.2 million   of additional contributions during the remainder of fiscal year 2017 for the funding of participants  benefit payments. 
+
+19 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+During the second and third quarters of fiscal year 2017, the Company offered lump sum settlements to the vested participants of certain of its U.S. defined benefit pension plans, who were no longer with the Company. The lump-sum settlements are expected to be paid in December 2016 and will require interim remeasurement of the plans  assets and liabilities at the end of the third quarter of fiscal year 2017. As part of the third quarter remeasurement, we expect to incorporate updates to the life expectancy assumptions, which is released annually by the Society of Actuaries. 
+  Other Postretirement Benefit Plans 
+  The assets and liabilities for the OPEB plans as well as service costs related to current employees are reflected in CSRA s unaudited Consolidated and Condensed Financial Statements. CSRA s financial statements reflect the service costs related to current employees of the business and the assets and liabilities for the plans. CSRA provides subsidized healthcare, dental and life insurance benefits for certain U.S. employees and retirees, primarily for individuals employed prior to August 1992.    
+
+  The following table provides the OPEB plans  projected benefit obligations, assets, and a statement of their funded status:   
+
+CSRA contributed   $0.8   million and   $0.5   million to a supplemental executive retirement plan during the   six   months ended   September 30, 2016   and   October 2, 2015  , respectively. CSRA expects to make   $0.8 million   of additional contributions to this plan during the remainder of fiscal year 2017 for the funding of participants  benefit payments. 
+
+Note 12 Share-Based Compensation Plans 
+  Employee Incentives 
+  Prior to the Spin-Off, CSC maintained various share-based compensation plans at a corporate level and other benefit plans at a subsidiary level. The employees of the Computer Sciences GS Business participated in those programs and a portion of the cost of those plans for the period prior to the Spin-Off is included in the unaudited Consolidated and Condensed Financial Statements. 
+  On November 27, 2015, CSRA became an independent company through CSC s consummation of the Spin-Off. Historically, CSC had   two   stock incentive plans under which CSC issued stock options, restricted stock units ( RSUs ), and performance stock units ( PSUs ). Some of these awards vested upon separation of CSC and CSRA,  
+
+20 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+some continue to vest in accordance with their original terms, and some converted into a different type of equity award at separation. Additionally, CSRA issued stock in relation to restricted stock awards and stock option replacement awards to employees in connection with the SRA Mergers on November 30, 2015. As of   September 30, 2016   and April 1, 2016, CSRA has a net payable to CSC of $  7.5   million and   $6.5 million  , respectively, related to the settlement of equity awards granted to employees prior to the Spin-Off. 
+  On May 31, 2016, CSRA granted stock options, RSUs and PSU awards for   1,538,878   shares that vest ratably over   3   years. The closing stock price on the date of the grant used to determine the award fair value was   $24.77  . During the second quarter of fiscal year 2017, CSRA granted stock options, RSUs and PSU awards to employees for approximately   8,825   shares that vest ratably over   3   years. The weighted average closing stock price on the dates of the grants used to determine the award fair value was $  25.52  . On August 12, 2016, CSRA also granted RSUs to non-employee directors for approximately   63,500   shares that vest ratably over   1   year.  The weighted average closing stock price on the date of the grants used to determine the award fair value was $  25.94  . 
+  CSRA issues authorized but previously unissued shares upon the exercise of stock options, the granting of restricted stock and the settlement of RSUs and PSUs. As of   September 30, 2016  ,   7,822,031   shares of CSRA common stock were available for the grant of future stock options, RSUs, PSUs or other share-based incentives to employees of CSRA. 
+  Share-Based Compensation Expense 
+  For the   three and six   months ended   September 30, 2016   and   October 2, 2015  , CSRA recognized share-based compensation expense as follows: 
+
+The share-based compensation listed above included CSRA s corporate and non-employee director grants and was $  2.5   million and $  3.8 million   for the   three and six   months ended   September 30, 2016  , respectively. The share-based compensation listed above included CSRA s share of the former Parent s corporate and non-employee director grants for the   three and six   months ended   October 2, 2015   of $  2.4   million and   $3.0 million  , respectively.  
+  CSRA uses the Black-Scholes-Merton model in determining the fair value of options granted. The risk-free rate is based on the zero-coupon interest rate of U.S. government-issue Treasury securities with periods commensurate with the expected term of the options. 
+    
+  The weighted-average grant date fair values of stock options granted for the   six   months ended   September 30, 2016   was $  5.99   per share of CSRA shares. In calculating the compensation expense for its stock incentive plans, the following weighted-average assumptions were used: 
+
+21 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+For the   six   months ended   September 30, 2016   and   October 2, 2015  , CSRA s tax benefit realized for deductions from exercising stock options was $  5.5   million and $  1.8   million, respectively. CSRA s excess tax benefit was $  2.0   million for the   six   months ended   September 30, 2016  . 
+  Stock Options 
+  Information concerning stock options of CSRA during the   six   months ended   September 30, 2016   was as follows.   
+
+  The intrinsic value of options exercised during the   six   months ended   September 30, 2016   and   October 2, 2015   totaled $  1.3   million and $  1.9   million, respectively. The total intrinsic value of stock options is based on the difference between the fair market value of CSRA s common stock less the applicable exercise price. The grant-date fair value of stock options vested during the   six   months ended   September 30, 2016   totaled $  1.5   million. The cash received from stock options exercised during the   six   months ended   September 30, 2016   and   October 2, 2015   was $  3.1   million in both periods. 
+  As of   September 30, 2016  , unrecognized compensation expense related to unvested stock options totaled $  7.4   million. This cost is expected to be recognized over a weighted-average period of   2.4   years. 
+
+22 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+Restricted Stock Units     
+    
+  Information concerning RSUs (including PSUs) of CSRA during the   six   months ended   September 30, 2016   was as follows.   
+
+  As of   September 30, 2016  , total unrecognized compensation expense related to unvested restricted stock units totaled   $16.8   million, net of expected forfeitures. This cost is expected to be recognized over a weighted-average period of   2.2   years. As of   September 30, 2016  , accrued unpaid dividends related to restricted stock units outstanding as of the date of the Spin-Off totaled   $1.0   million. 
+
+Note 13 Stockholders  Equity and Accumulated Other Comprehensive Income (Loss  ) 
+    
+  Dividends Declared 
+  During the fourth quarter of fiscal 2016, CSRA announced that its Board of Directors had declared a quarterly cash dividend of   $0.10   per share. The total qualifying shares were   162,952,919   shares with a total dividend payout of   $16.3   million. Payment of the dividend was made on April 29, 2016 to CSRA stockholders of record at the close of business on April 5, 2016. 
+  On May 25, 2016, CSRA announced that its Board of Directors had declared a quarterly cash dividend of   $0.10   per share.  The total qualifying shares were   163,427,525   shares, with a total dividend payout of   $16.3 million  . Payment of the dividend was made on July 11, 2016 to CSRA stockholders of record at the close of business on June 14, 2016. 
+  On August 10, 2016, CSRA announced that its Board of Directors had declared a quarterly cash dividend of   $0.10   per share. The total qualifying shares were   163,796,116   shares, with a total dividend payout of $  16.4   million. Payment of the dividend was made on October 4, 2016 to CSRA stockholders of record at the close of business on August 31, 2016. 
+    
+  Share Repurchase Program 
+    
+  On November 30, 2015, the Board authorized a share repurchase program (the  Share Repurchase Program ), pursuant to which CSRA, from time to time, purchases shares of its common stock for an aggregate purchase price not to exceed   $400   million. During September 2016, CSRA repurchased   300,097   shares of common stock through open market purchases for an aggregate consideration of   $7.9   million, at an average price of   $26.45   per share. As of September 30, 2016, CSRA remained authorized to repurchase $  342   million of common stock pursuant to the Share Repurchase Program with an expiration date of March 31, 2019. 
+
+23 
+
+CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+Accumulated Other Comprehensive Income (Loss) 
+    
+  The following tables show the activity in the components of other comprehensive income (loss), including the respective tax effects, and reclassification adjustments for the   three and six   months ended   September 30, 2016   and   October 2, 2015  , respectively.  
+
+For the Three Months Ended September 30, 2016 
+      (Dollars in millions) 
+      
+    Before Tax Amount 
+    Tax Impact Increase (Decrease) 
+    Net of Tax Amount 
+      Unrealized loss on interest rate swap 
+    $ 
+    5 
+      
+    (2 
+    ) 
+    3 
+      
+      Amortization of prior service credit 
+      
+    (3 
+    ) 
+    1 
+      
+    (2 
+    ) 
+      Total other comprehensive income  
+    $ 
+    2 
+      
+    (1 
+    ) 
+    1 
+
+For the Three Months Ended October 2, 2015 
+      (Dollars in millions) 
+      
+    Before Tax Amount 
+    Tax Impact Increase (Decrease) 
+    Net of Tax Amount 
+      Amortization of prior service credit 
+    $ 
+    (1 
+    ) 
+
+(1 
+    ) 
+      Total other comprehensive income  
+    $ 
+    (1 
+    ) 
+
+(1 
+    ) 
+
+For the Six Months Ended September 30, 2016 
+      (Dollars in millions) 
+      
+    Before Tax Amount 
+    Tax Impact Increase (Decrease) 
+    Net of Tax Amount 
+      Foreign currency translation adjustments  
+    $ 
+    1 
+      
+    (1 
+    ) 
+
+Unrealized loss on interest rate swap 
+      
+    (5 
+    ) 
+    2 
+      
+    (3 
+    ) 
+      Amortization of prior service credit 
+      
+    (7 
+    ) 
+    3 
+      
+    (4 
+    ) 
+      Total other comprehensive income  
+    $ 
+    (11 
+    ) 
+    4 
+      
+    (7 
+    ) 
+
+For the Six Months Ended October 2, 2015 
+      (Dollars in millions) 
+      
+    Before Tax Amount 
+    Tax Impact Increase (Decrease) 
+    Net of Tax Amount 
+      Amortization of prior service credit 
+    $ 
+    (2 
+    ) 
+
+(2 
+    ) 
+      Total other comprehensive income  
+    $ 
+    (2 
+    ) 
+
+(2 
+    ) 
+
+24 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+The following tables show the changes in Accumulated other comprehensive (loss) income for the six months ended   September 30, 2016   and   October 2, 2015  , respectively. 
+                                       (Dollars in millions) 
+      
+    Foreign Currency Translation Adjustments 
+      
+    Cash Flow Hedge 
+      
+    Pension and Other Post-retirement Benefit Plans 
+      
+    Accumulated Other Comprehensive (Loss) Income 
+      Balance as of April 1, 2016 
+    $ 
+
+$ 
+    (7 
+    ) 
+    $ 
+    28 
+      
+    $ 
+    21 
+      
+      Other comprehensive income (loss), net of taxes 
+
+(3 
+    ) 
+
+(3 
+    ) 
+      Amounts reclassified from accumulated other comprehensive income (loss), net of taxes and noncontrolling interests 
+
+(4 
+    ) 
+      
+    (4 
+    ) 
+      Balance as of September 30, 2016 
+    $ 
+
+$ 
+    (10 
+    ) 
+    $ 
+    24 
+      
+    $ 
+    14 
+
+(Dollars in millions) 
+      
+    Foreign Currency Translation Adjustments 
+      
+    Pension and Other Postretirement Benefit Plans 
+      
+    Accumulated Other Comprehensive (Loss) Income 
+      Balance as of April 3, 2015 
+    $ 
+    (2 
+    ) 
+    $ 
+    2 
+      
+    $ 
+
+Other comprehensive income, net of taxes 
+
+Amounts reclassified from accumulated other comprehensive income, net of taxes and noncontrolling interests 
+
+(2 
+    ) 
+      
+    (2 
+    ) 
+      Balance as of October 2, 2015 
+    $ 
+    (2 
+    ) 
+    $ 
+
+$ 
+    (2 
+    ) 
+
+Note 14 Segment Information 
+  CSRA s reportable segments are as follows: 
+             
+    Defense and Intelligence The Defense and Intelligence segment provides services to the DoD, National Security Agency, branches of the Armed Forces and other DoD and intelligence agencies. 
+                
+    Civil The Civil segment provides services to various federal agencies within the Department of Homeland Security, Department of Health and Human Services and other federal civil agencies, as well as various state and local government agencies. 
+
+25 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+The following table summarizes operating results and total assets by reportable segments. 
+
+26 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+Segment operating income provides useful information to CSRA s management for assessment of CSRA s performance and results of operations and is one of the financial measures utilized to determine executive compensation.  
+  A reconciliation of consolidated segment operating income to income before income taxes is as follows:   
+
+Note 15 Commitments and Contingencies  
+  Commitments 
+  In the normal course of business, CSRA may provide certain customers, principally governmental entities, with financial performance guarantees, which are generally backed by stand-by letters of credit or surety bonds. In general, CSRA would only be liable for the amounts of these guarantees in the event that nonperformance by CSRA permits termination of the related contract by the customer. As of   September 30, 2016  , CSRA had   $45   million of outstanding letters of credit and   $12   million of surety bonds related to these performance guarantees.  CSRA believes it is in compliance with its performance obligations under all service contracts for which there is a financial performance guarantee and the ultimate liability, if any, incurred in connection with these guarantees will not have a material adverse effect on its Consolidated and Condensed Financial Statements. 
+  The following table summarizes the expiration of CSRA s financial guarantees and stand-by letters of credit outstanding as of   September 30, 2016  :   
+
+  CSRA generally indemnifies licensees of its proprietary software products against claims brought by third parties alleging infringement of intellectual property rights (including rights in patents, copyrights, trademarks, and trade secrets). CSRA s indemnification of its licensees relates to costs arising from court awards, negotiated settlements and the related legal and internal costs of those licensees. CSRA maintains the right, at its own costs, to modify or replace software in order to eliminate any infringement. Historically, CSRA has not incurred any significant costs related to licensee software indemnifications. 
+  Contingencies 
+  CSRA is routinely subject to investigations and reviews relating to compliance with various laws and regulations with respect to its role as a contractor to federal, state and local government customers and in connection with performing services in countries outside of the U.S. Adverse findings in these investigations or reviews can lead to criminal, civil or administrative proceedings, and CSRA could face penalties, fines, compensatory damages  
+
+27 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+and suspension or debarment from doing business with governmental agencies. In addition, CSRA could suffer serious reputational harm if allegations of impropriety were made against CSRA. Adverse findings could also have a material adverse effect on CSRA s business, Consolidated and Condensed Financial Statements due to its reliance on government contracts. 
+  U.S. federal government agencies, including the Defense Contract Audit Agency ( DCAA ), Defense Contract Management Agency ( DCMA ), and others, routinely audit and review a contractor s performance on government contracts, indirect rates and pricing practices, and compliance with applicable contracting and procurement laws, regulations, and standards. These agencies also review the adequacy of the contractor s compliance with government standards for its business systems including: a contractor s accounting system, earned value management system, estimating system, materials management and accounting system, property management system and purchasing system. Both contractors and the U.S. federal government agencies conducting these audits and reviews have come under increased scrutiny, including such subjects as billing practices, labor charging and accounting for unallowable costs. 
+   CSRA s indirect cost audits by the DCAA remain open for fiscal 2004 and subsequent fiscal years. Although the Computer Sciences GS Business has recorded contract revenues subsequent to and including fiscal 2004 based upon an estimate of costs that the Computer Sciences GS Business believes will be approved upon final audit or review, the Computer Sciences GS Business does not know the outcome of any ongoing or future audits or reviews and adjustments, and if future adjustments exceed the Computer Sciences GS Business s estimates, its profitability would be adversely affected. 
+  The DCAA has not completed audits of SRA s incurred cost submissions for fiscal 2009 and subsequent fiscal years. SRA has recorded financial results subsequent to fiscal 2008 based upon costs that SRA believes will be approved upon final audit or review. If incurred cost audits result in adverse findings that exceed SRA s estimates, it may have an adverse effect on our financial position, results of operations or cash flows.  
+  As of   September 30, 2016  , CSRA has recorded a liability of   $16.8   million for its current best estimate of net amounts to be refunded to customers for potential adjustments from such audits or reviews of contract costs. This amount includes potential adjustments related to both pre-separation and post-separation audits or reviews. 
+  In connection with the sale of ATD in fiscal 2014, CSC transferred its joint venture interests in Computer Sciences Raytheon ( CSR ) as part of the ATD sale transaction. CSR is a joint venture formed between CSC and Raytheon Technical Services Company, and its sole business is performance of a single contract for a DoD customer. CSR is the plan sponsor of the CSR pension plan, which was terminated in connection with the termination of the CSR contract with the customer. CSC agreed with the purchaser of ATD that CSC would fund the purchaser s share of the CSR pension settlement obligation upon plan termination. In addition, the agreement with the purchaser provides that the eventual expected recovery by CSR of such plan termination settlement costs from the customer as provided for under federal Cost Accounting Standards ( CAS ) Section 413, whereby contractors may recover such costs from the government plus interest, will be reimbursed to the business. The CSR pension plan termination process commenced in September 2015. The share of the funding obligation that was attributable to the purchaser and, therefore, to be advanced by CSC, was initially estimated at   $26.0   million. The ultimate plan termination settlement funding obligation is based on economic factors, including long-term interest rates that impact the cost of annuities offered by insurers at the time of the actual plan termination settlement. The fair value of CSC s funding advance obligation net of subsequent expected recoveries was recorded by CSRA prior to CSRA s separation from CSC. As part of the separation, CSC and CSRA agreed that CSC would transfer all rights, title and interest of the agreement to fund the CSR pension settlement obligation  that would otherwise be the responsibility of CSC to CSRA. Consequently, in September 2016, the Company made a payment to escrow of $  24.7   million to fund CSC s CSR pension settlement obligation. 
+    
+  Unless otherwise noted, CSRA is unable to develop a reasonable estimate of a possible loss or range of losses associated with the following contingent matters at this time. 
+
+28 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+Maryland Medicaid Enterprise Restructuring Project 
+  After competitive bidding on March 1, 2012, CSC was awarded the Maryland Medicaid Enterprise Restructuring Project ( MERP ) contract by the State of Maryland (the  State ) to modernize the Medicaid Management Information System ( MMIS ), a database of Medicaid recipients and providers used to manage Medicaid reimbursement claims. The MERP contract was predominately fixed-price. Since the date the MERP was awarded, U.S. federal government-mandated Medicaid IT standards have been in considerable flux. The State directed CSC to include additional functionality in the design to incorporate new federal mandates and guidance promulgated after the base scope of the Contract was finalized. Further, the State declined to approve contract modifications to compensate CSC for the additional work. 
+    
+  As a result of the State s refusal to amend the MERP contract and equitably adjust the compensation to be paid to CSC and, in accordance with prescribed State statutes and regulations, CSC timely filed a certified contract claim in September 2013, which after various procedural developments is now pending before the Maryland Board of Contracts Appeals (the  State Board ). 
+    
+  On August 22, 2014, the State unilaterally suspended performance under the Contract for   90   days and repeatedly extended the suspension until providing a Notice of Default termination in October 2015. As the result of the suspension and other actions and inactions by the State in performance of its obligations under the Contract, in October 2014, CSC filed additional claims under various legal theories, such that currently the total amount claimed by CSC is approximately   $80.0   million. 
+    
+  Between April 2015 and September 2015, CSC and the State were in settlement negotiations to restructure the program and resolve all issues, including CSC s contract claims. However, on September 14, 2015, the State orally advised CSC that the State elected to abandon the contract settlement and restructuring discussions. On October 14, 2015, the State provided CSC with a Notice of Default Termination. When a contract is terminated for default, Maryland procurement regulations allow the State to procure substitute performance, with the contractor being liable for any excess reprocurement costs. Any State claim against CSC arising from a default termination for reprocurement costs would be appealable by CSC to the State Board, as is the default termination itself. The State has not asserted a claim for reprocurement costs and, were it do so, CSC believes such a claim to be meritless and unsupported by the facts. 
+    
+  CSRA challenged the legal basis of the State s termination for default in a Claim for   $83.0   million filed with the State on December 14, 2015. The Claim subsumes the quantum of the prior claims and seeks to convert the termination to a convenience termination. The State has not rendered a decision on the latest claim; however, if it is denied, CSRA will appeal through litigation at the State Board. 
+    
+  On December 22, 2015, the State filed a Motion to Dismiss CSC s Claim with the State Board. CSC responded to the State s Motion to Dismiss on January 19, 2016. As set forth in CSC s extensive brief, the four arguments made in the State s Motion are based on an incomplete and flawed discussion of the Contract and the factual record. On May 6, 2016, the State Board held a hearing on the Department s motion and decided to take the motion under advisement.  The Board requested that the Department move expeditiously to arrive at a final decision on CSC s other claims and indicated that it would then consolidate the claims going forward and, at that time, might issue a decision on the Department s motion. When all of the material parts of the Contract and record are considered, CSRA believes that CSC is entitled to prevail on all of the issues raised by the Department s motion. 
+  On July 14, 2016, CSRA received a copy of a claim for breach of contract against CSC filed by the DHMH Contract Monitor with the DHMH Procurement Officer (the  State Claim ). The claim was filed in accordance with Maryland State procedure for claims against State contractors. If the DHMH Procurement Officer takes final action on the claim       which is likely to be an approval thereof       CSC and/or CSRA will be able to appeal to the State Board.  
+  The State Claim seeks damages in excess of   $30.0 million  . Categories of damages include: the full amount paid to CSC,   $30.0 million  ; costs to be incurred by the State in procuring substitute performance; amounts paid by the  
+
+29 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+State to its project management consultant; lost federal reimbursement from CMS; and additional costs incurred by the State, including wages, attributable to CSC s alleged breach.   
+  The State Claim is based solely on issues raised in the State s February 14, 2014, and March 14, 2014, cure notices which were fully addressed by CSC in the relevant timeframe. No new facts are contained in the State Claim. Subsequent to the cure notices, the State unilaterally suspended contract performance for over one year.  
+  The parties have resumed exploring potential settlement options but have not concluded any settlement. If those are not successful, litigation will proceed and CSC expects to consolidate all of its claims against the State with any claims arising from the default termination. CSRA will litigate on behalf of CSC and indemnify CSC for the costs of litigation and any other costs or liabilities CSC may incur in the litigation. Recovery by CSC will be credited to CSRA. Management has evaluated the recoverability of assets related to the contract in light of these developments and concluded that no adjustments to its financial statements are required.  Further, we have assessed the legal risk associated with the State Claim under ASC 450 and have concluded at this time that no reserve is required. 
+  Strauch et al. Fair Labor Standards Act Class Action 
+  On July 1, 2014, plaintiffs filed   Strauch and Colby v. Computer Sciences Corporation   in the U.S. District Court for the District of Connecticut, a putative nationwide class action alleging that CSC violated provisions of the Fair Labor Standards Act ( FLSA ) with respect to system administrators who worked for CSC at any time from June 1, 2011 to the present. Plaintiffs claim that CSC improperly classified its system administrators as exempt from the FLSA and that CSC, therefore, owes them overtime wages and associated relief available under the FLSA and various statutes, including the Connecticut Minimum Wage Act, the California Unfair Competition Law, California Labor Code, California Wage Order No. 4-2001, and the California Private Attorneys General Act. CSC s Motion to Transfer Venue was denied in February 2015. In September 2015, plaintiffs filed an amended complaint, which added claims under Missouri and North Carolina wage and hour laws. The relief sought by Plaintiffs includes unpaid overtime compensation, liquidated damages, pre- and post-judgment interest, damages in the amount of twice the unpaid overtime wages due, and civil penalties. If a liability is ultimately incurred as a result of these claims, CSRA would pay a portion to CSC pursuant to an indemnity obligation. CSC and CSRA both maintain the position that system administrators have the job duties, responsibilities, and salaries of exempt employees and are properly classified as exempt from overtime compensation requirements.  
+    
+  On June 9, 2015, the Court entered an order granting the plaintiffs  motion for conditional certification of the class of system administrators. The conditionally certified FLSA and putative classes include approximately   1,285   system administrators, of whom   407   are employed by CSRA and the remainder employed by CSC. Courts typically undertake a two-stage review in determining whether a suit may proceed as a class action under the FLSA. In its order, the Court noted that, as a first step, the Court examines pleadings and affidavits, and if it finds that proposed class members are similarly situated, the class is conditionally certified. Potential class members are then notified and given an opportunity to opt-in to the action. The second step of the class certification analysis occurs upon completion of discovery. At that point, the Court will examine all evidence then in the record to determine whether there is a sufficient basis to conclude that the proposed class members are similarly situated  .   If it is determined that they are, the case will proceed to trial; if it is determined they are not, the class is decertified and only the individual claims of the purported class representatives proceed. CSRA s and CSC s position in this litigation continues to be that the employees identified as belonging to the conditional class were paid in accordance with the FLSA and applicable state laws. 
+    
+  Plaintiffs filed their motion for class certification on June 3, 2016. CSC filed its opposition on July 15, 2016.  Plaintiffs filed their reply brief on August 12, 2016 and the matter is currently under advisement with the Court. 
+  The parties have explored potential settlement scenarios but have not concluded any settlement.  Accordingly, the litigation is ongoing and briefing on plaintiffs  motion for class certification, the next step in the litigation, is in progress. 
+
+30 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+CECOM Rapid Response Demand Letter 
+    
+  On July 12, 2013, the U.S. Army s Communications-Electronics Command ( CECOM ) issued a demand letter based upon DCAA audit reports and Form 1, for reimbursement in the amount of   $235.2   million in costs that CSC allegedly overcharged under its Rapid Response ( R2 ) contract (Contract No. DAAB07-03-D-B007) by placing CSC, interdivisional, teammate, and vendor employees in R2 labor categories for which they were not qualified. CSC s position has been that, in most instances, the individuals in question met the contract requirements for their labor categories, and that, in all instances, DCAA and CECOM have ignored the value the government received for CSC s work. CSC and CECOM have engaged in discussions in an attempt to resolve this issue but, at this point in time, there can be no assurance that the parties will be able to resolve their differences, in which case CSRA expects to litigate this matter. 
+    
+  DynCorp 
+    
+  In connection with CSC s acquisition of DynCorp in 2003 and its divestiture of substantially all of that business in two separate transactions (in 2005 to The Veritas Capital Fund II L.P. and DI Acquisition Corp. and in 2013 to Pacific Architects and Engineers, Incorporated (collectively, the  DynCorp Divestitures )), CSC assumed and Computer Sciences GS Business will retain various environmental indemnities of DynCorp and its former subsidiaries arising from environmental representations and warranties under which DynCorp agreed to indemnify the purchasers of its subsidiaries DynAir Tech and DynAir Services by Sabreliner Corporation and ALPHA Airports Group PLC, respectively. As part of the DynCorp Divestitures, CSC also assumed and Computer Sciences GS Business will also retain indemnities for insured litigation associated with dormant suits by former employees of DynCorp subsidiaries alleging exposure to asbestos and other substances; other indemnities related to a 2001 case arising from counter-narcotics spraying in Colombia under a U.S. Department of State contract and an environmental remediation case involving HRI, a former wholly owned subsidiary of DynCorp, in Lawrenceville, New Jersey. CSRA does not anticipate any material adverse effect on its financial position, results of operations and cash flows from these indemnities. Litigation involving DynCorp s aviation insurance underwriters was recently resolved and had no significant effect on our results for fiscal year 2017. 
+    
+  Southwest Asia Employment Contract Litigation 
+    
+  Rishell v. CSC  , a single plaintiff lawsuit, was filed in February 2013 in Florida.  In April 2013, a second lawsuit,   Rhodes v. CSC,   with   five   plaintiffs was filed in Mississippi.  Both cases were consolidated before the United States District Court for the Eastern District of Virginia in 2014.  Summary judgment was granted in each case on December 10, 2014, with the Rishell case decided under Florida law and the Rhodes case under Virginia law.  
+  On May 2, 2016, the U.S. Court of Appeals for the Fourth Circuit ruled against CSC in an appeal of these two consolidated cases, the liability for which the Company is contractually obligated to indemnify CSC pursuant to the terms of the Master Separation and Distribution Agreement between CSRA and CSC.  These cases involved   six   former CSC employees with each of whom CSC had entered into   two   contracts upon employment: a general  Offer Letter  specifying an  hourly rate  to be paid biweekly, and a more specific  Foreign Travel Letter  specifying certain aspects of the employees  employment while working overseas in Southwest Asia as civilian government contractors.  Employees had sued CSC, claiming entitlement to be paid on an hourly rate, as specified in the Offer Letter, as opposed to being paid on a salary basis, which is how CSC compensated them.  The District Court had held as a matter of contract interpretation that the two contracts, read together, required CSC to pay the employees by the hour.  The Fourth Circuit in its May 2 unpublished opinion agreed with the trial court.  A reserve for the amount of damages awarded by the trial court and for which the Company will be required to indemnify CSC has been included in the Company s Consolidated and Condensed Financial Statements. 
+    
+  In addition to the two consolidated cases that were the subject of the Fourth Circuit s opinion, there are currently an additional six similar cases, involving approximately   100   individuals, pending before federal and state courts in California, Louisiana, and Virginia that have yet to be adjudicated.  Plaintiffs in these cases present similar claims, that they worked in excess of 40 hours per week, they were compensated with a salary based on a 40-hour work week, and this violated the terms of their Offer Letters that quoted an hourly wage.  It is reasonably possible  
+
+31 
+
+    CSRA INC. 
+  NOTES TO CONSOLIDATED AND CONDENSED FINANCIAL STATEMENTS 
+  (unaudited) 
+
+that the trial courts considering these cases will interpret the Offer Letter and Foreign Travel Letter at issue in these other cases similarly to the Fourth Circuit and may enter judgments against CSC awarding damages.  However, there remain differences among the pending cases, including statutes of limitations, which may lengthen or shorten the period of time for when damages may be recovered, and differences between plaintiffs  legal entitlement to other damages or awards, such as punitive damages or attorneys  fees.  These are issues of state contract or statutory law and depend upon which states  laws apply to the individual plaintiffs.  These issues have not been resolved.  The range of possible losses for which the Company would be required to indemnify CSC associated with these pending matters is between   $0.0   million and   $14.0   million.  
+    
+  CSRA accrues a liability when management believes that it is both probable that a liability has been incurred and the amount of loss can be reasonably estimated under ASC 450. CSRA believes it has appropriately recognized liabilities for any such matters. In addition to the matters noted above, CSRA is currently party to a number of disputes which involve or may involve litigation. Regarding other matters that may involve actual or threatened disputes or litigation, CSRA, in accordance with the applicable reporting requirements, provides disclosure of such matters for which the likelihood of material loss is reasonably possible. CSRA assessed reasonably possible losses for all other such pending legal or other proceedings in the aggregate and concluded that the range of potential loss is not material. 
+    
+  CSRA also considered the requirements regarding estimates used in the disclosure of contingencies under ASC Subtopic 275-10, Risks and Uncertainties. Based on that guidance, CSRA determined that supplemental accrual and disclosure was not required for a change in estimate that involves contingencies because CSRA determined that it was not reasonably possible that a change in estimate will occur in the near term. CSRA reviews contingencies during each interim period and adjusts its accruals to reflect the impact of negotiations, settlements, rulings, advice of legal counsel, and other information and events pertaining to a particular matter. 
+
+Note 16 Subsequent Events 
+    
+  Stock Repurchase Program 
+    
+          CSRA repurchased an additional   106,311   shares of common stock subsequent to September 30, 2016 through open market purchases for an aggregate consideration of   $2.9   million, at an average price of   $26.92   per share. CSRA paid   $2.2   million during the third quarter of fiscal 2017 for   81,806   shares repurchased during the second quarter of fiscal year 2017 that had not settled in cash by September 30, 2016. As of October 12, 2016, CSRA has remaining authorization to repurchase   $337.0   million of common stock pursuant to its Share Repurchase Program. 
+    
+  Debt Modification 
+  In October 2016, the Company began discussions with the administrative agents of its Term Loan and Revolving Credit Facilities to amend the terms, including an extension of the maturity dates. The amended facilities are expected to provide for: (a) a reduction in the margin over indexed interest rates on the Term Loan B Facility, (b) a reduction in the principal of Term Loan B Facility and an increase in the principal balance of the Tranche A2 Facility in substantially the same amount; and (c) changes to certain existing debt covenants to provide for greater operational and financial flexibility. The transaction is expected to be completed during the third quarter of fiscal year 2017. 
+
+32 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+  You should read the following management s discussion and analysis of financial condition and results of operations ( MD A ) in conjunction with our Annual Report on Form 10-K, for the period ended April 1, 2016, our Quarterly Report on Form 10-Q for the three months ended July 1, 2016, and our unaudited Consolidated and Condensed Financial Statements and accompanying notes for the   three and six   months ended   September 30, 2016   ( FY17 2nd Quarter Financial Statements ).  
+  This discussion contains forward-looking statements that involve risks and uncertainties. The forward-looking statements are not historical facts, but rather are based on our current expectations, estimates, assumptions, and projections about our industry, business and future financial results. These statements should be considered in addition to, but not as a substitute for, other measures of our financial performance reported in accordance with GAAP. Our actual results could differ materially from the results contemplated by these forward-looking statements due to a number of factors, including those we discuss in the  Risk Factors  section of this Form 10-Q and our Annual Report on Form 10-K for the period ended April 1, 2016.  
+  Our Consolidated Financial Statements and unaudited Consolidated and Condensed Financial Statements, discussed below, reflect our financial condition, results of operations, and cash flows. This information may not necessarily reflect what our financial condition, results of operations, or cash flows would have been had we operated as a separate, independent entity during the period presented prior to the Spin-Off, or what our financial condition, results of operations, and cash flows may be in the future. The following MD A of CSRA covers a period prior to the Spin-Off and the Mergers. For accounting and financial reporting purposes, Computer Sciences GS is considered to be the predecessor to CSRA and as a result, its historical financial statements now constitute the historical financial statements of CSRA. Accordingly, results reported through November 27, 2015 include only the operations of Computer Sciences GS, on a carve-out basis. The results reported after November 27, 2015 include the operations of CSRA, including the SRA Merger. These historical financial statements may not be indicative of our future performance.  
+    
+  Our MD A is organized as follows: 
+
+Overview: A discussion of our business and overall analysis of financial and other highlights affecting CSRA to provide context for the remainder of MD A. The overview analysis compares the   three and six   months ended   September 30, 2016   to the   three and six   months ended   October 2, 2015  ;  
+
+Results of Operations: An analysis of our financial results comparing the   three and six   months ended   September 30, 2016   to the comparable prior-year periods. A discussion of the results of operations at the consolidated level is followed by a discussion of the results of operations by segment; 
+
+Liquidity and Capital Resources: An analysis of changes in our cash flows and a discussion of our financial condition and liquidity;  
+
+Contractual Obligations: An overview of contractual obligations, retirement benefit plan funding and off balance sheet arrangements; and 
+
+Critical Accounting Policies and Estimates: A discussion of accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results. 
+
+33 
+
+Business Overview 
+  Every day CSRA makes a difference in how the government serves our country and our citizens. We deliver a broad range of innovative, next-generation IT solutions and professional services to help our customers modernize their legacy systems, protect their networks and assets, and improve the effectiveness and efficiency of mission-critical functions for our war fighters and our citizens. Our workforce of over 18,000 employees understands that success is a matter of perseverance, courage, adaptability and experience.  
+  Headquartered in Falls Church, Virginia, we deliver comprehensive offerings from concept through sustainment. We deliver IT, mission- and operations-related services across the U.S. federal government to the DoD, intelligence community and homeland security, civil and healthcare agencies, as well as certain state and local government agencies. We leverage deep domain-based customer intimacy and decades of experience in helping customers execute their mission with a fundamental understanding of their IT environment that has earned us the ability to introduce next-generation technologies. We bring scalable and more cost-effective IT solutions to government agencies that are seeking to improve mission-critical effectiveness and efficiency through innovation.  
+  This approach is designed to yield lower implementation and operational costs as well as a higher standard of delivery. Demand for our U.S. public sector offerings is driven by evolving government priorities such as: (1) the critical mission priorities of government agencies, (2) the government-wide mandate to improve efficiency and reduce cost and (3) the government s long-term shift to next-generation technologies.  
+  CSRA s reportable segments are as follows: 
+             
+    Defense and Intelligence The Defense and Intelligence segment provides services to the DoD, National Security Agency, branches of the Armed Forces and other DoD and Intelligence agencies. 
+                
+    Civil Segment The Civil segment provides services to various federal agencies within the Department of Homeland Security, Department of Health and Human Services and other federal civil agencies, as well as various state and local government agencies. 
+     Financial Overview 
+  The key operating results for the   second   quarter of fiscal year 2017 include: 
+
+(1) Total segment operating income is a non-GAAP measure that provides useful information to our management for assessment of our performance and results of operations and is one of the financial measures utilized to determine executive compensation. Our definition of such measure may differ from other companies. We define segment operating income as total segment revenue less cost of services ( COS ), segment general and administrative ( G A ) expense and segment depreciation and amortization expense. Segment operating income excludes actuarial and settlement charges related to pension and other post-employment benefit plans, corporate G A,  
+
+34 
+
+separation and merger costs and SRA integration costs. Management compensates for the limitations of this non-GAAP measure by also reviewing income before income taxes, which includes costs excluded from the operating income definition such as corporate G A, interest and other income (expense). Management believes that presenting non-GAAP segment operating income is useful to investors because it (i) provides investors with meaningful supplemental information regarding financial performance by excluding certain items, (ii) permits investors to view performance using the same tools that management uses to budget, make operating and strategic decisions, and evaluate historical performance, and (iii) otherwise provides supplemental information that may be useful to investors in evaluating our results. A reconciliation of total segment operating income to income before income taxes is as follows. 
+
+(a) Income before taxes for the   three and six   months ended October 2, 2015, does not include the contribution from net periodic pension income related to CSC s U.S. defined benefit pension plans that we assumed in the Spin-Off; net periodic pension income relating to these plans has not been included in CSRA s historical non-GAAP segment operating income nor in the historical Consolidated Financial Statements or in the unaudited Consolidated and Condensed Financial Statements but included in our results of operations beginning in the period after the date of Distribution. The contribution to non-GAAP total segment operating income from net periodic pension income from CSC s U.S. defined benefit pension plans amounted to approximately $(21) million and ($42) million for the   three and six   months ended October 2, 2015, respectively. 
+    
+  (b) Includes costs related to the Spin-Off and the Mergers. 
+  (2) Adjusted earnings before interest, taxes, depreciation, and amortization ( EBITDA ) is a non-GAAP measure provides useful information to investors regarding our results of operations as it provides another measure of our profitability, our ability to service our debt, and is considered an important measure by financial analysts covering CSRA and peer companies in our industry. This Adjusted EBITDA is based on CSRA s credit agreement, and among the adjustments we make is the removal of actuarial gains and losses related to our various defined benefit plans, but does not reflect removal of costs we incur to integrate our operations with those of an acquired business. While such gains and losses are ultimately settled in cash, we make these adjustments as means to more clearly demonstrate to investors our core operating performance. Our definition of such measure may differ from other companies.  
+
+35 
+
+The following table presents a reconciliation of Net income to Adjusted EBITDA. 
+
+(a) Includes costs related to the Spin-Off and the Mergers. 
+  Business Drivers and Key Performance Indicators 
+  We manage and assess the performance of our business through various means, with the primary financial measures including contract wins, revenue, operating income, backlog, and free cash flow. See below as well as the MD A in our Annual Report on Form 10-K for further discussion of factors that drive our business results and our key performance indicators. The following are some of these key performance indicators for the three and six months ended September 30, 2016, compared to the three and six months ended October 2, 2015. 
+
+36 
+
+(3) Announced award values for competitive indefinite delivery/indefinite quantity awards represent the expected contract value at the time a task order is awarded under the contract. Announced values for non-competitive indefinite delivery/indefinite quantity awards represent management s estimate at the award date. Our business awards, for all periods presented, have been revised to exclude the awards relating to discontinued operations.  
+    
+  (4) Backlog represents the total estimated contract value of predominantly long-term contracts, based on customer commitments that we believe to be firm, less the amount of revenue already recognized on those contracts. Backlog value is based on contract commitments, management s judgment and assumptions about volume of services, availability of customer funding and other factors. Backlog estimates for government contracts include both the funded and unfunded portions and all of the option periods. Backlog estimates are subject to change and may be affected by factors including modifications of contracts and foreign currency movements. Our backlog, for all periods presented, has been revised to exclude the backlog relating to discontinued operations. 
+    
+  (5) DSO is calculated as total receivables at the fiscal period end divided by revenue-per-day. Revenue-per-day equals total revenues divided by the number of days in the fiscal period. Total receivables includes unbilled receivables but excludes tax receivables and long-term receivables. 
+    
+  (6) Free cash flow is a non-GAAP measure and our definition of such measure may differ from that used by other companies. We define free cash flow as equal to the sum of (1) operating cash flows, (2) investing cash flows, excluding business acquisitions, dispositions and investments and (3) payments on capital leases and other long-term asset financings. Free cash flow is further adjusted for certain other items, such as (i) non-recurring separation-related payments and (ii) the relative fiscal quarter impact of net proceeds arising from the initial sale of billed and/or unbilled receivables under the Master Accounts Receivable Purchase Agreement. 
+  Our free cash flow measure does not distinguish operating cash flows from investing cash flows as they are required to be presented in accordance with GAAP and should not be considered a substitute for operating and investing cash flows as determined in accordance with GAAP. Free cash flow is one of the factors our management uses in reviewing the overall performance of the business and motivating performance through incentive compensation for key business leaders. Management overcomes the limitations of this non-GAAP measure by also reviewing the GAAP measures of operating, investing and financing cash flows. Strong free cash flow is one of the attributes that attracts potential investors to our industry. Free cash flow provides both management and investors a measurement of cash generated from operations that is available to fund acquisitions, pay dividends, repay debt and repurchase our common stock. A reconciliation of free cash flow to the most directly comparable GAAP financial measure is presented below: 
+
+(a) For the periods presented, free cash flow is adjusted for the relative impact of net proceeds arising from the initial sale of billed and/or unbilled receivables under the Master Accounts Receivable Purchase Agreement. For the six months ended October 2, 2015, $  176 million   of net proceeds applies to billed and unbilled receivables principally sold by the Computer Sciences GS Business. For the six months ended   September 30, 2016  , net proceeds of $  46 million   relates to SRA unbilled receivables under the Master Accounts Receivable Purchase Agreement to which SRA was added to during the period.  Billed receivables historically sold by SRA under a separate accounts receivable purchase agreement continue under the Master Accounts Receivable Purchase Agreement. See Note 5 - Sale of Receivables to our unaudited Consolidated and Condensed Financial Statements in this Form 10-Q for further information.  
+
+37 
+
+Economic and Industry Factors 
+   For both the   three and six   months ended   September 30, 2016  , we generated approximately 94% of our total revenues from sales to the U.S federal government either as a prime contractor or subcontractor to other contractors. For both the   three and six   months ended   September 30, 2016  , we generated approximately 45% of our total revenues from the DoD (including all branches of the U.S. military) and Intelligence Community and approximately 49% of our total revenues from civilian agencies. We expect to continue to derive substantially all of our revenues from work performed under U.S. federal government contracts. As a result, our business performance is affected by the overall level of U.S. government spending and the alignment of our offerings and capabilities with the budget priorities of the U.S. government. While we believe that federal discretionary spending will grow, government budget deficits and the national U.S. debt will constrain spending across many federal agencies. Adverse changes in fiscal and economic conditions, including sequestration, future government shutdowns, and issues related to the nation s debt ceiling could materially impact our business. 
+  Our market is highly competitive and has characteristics unique to the federal contracting environment. Almost all of our U.S. federal government contracts and subcontracts may be modified, curtailed, or terminated either at the convenience of the government or for default based on factors set forth in the Federal Acquisition Regulation ( FAR ).  
+  Our results of operations and our defined benefit plans are also impacted by economic conditions generally, including macroeconomic conditions, and the impact that they have on the U.S. federal government. We are monitoring current macroeconomic and credit market conditions and levels of business confidence and their potential effect on our customers and on us. Our results of operations are also affected by the evolving priorities of the U.S. federal government, as well as by the pace of technological change and the type and level of technology spending by our customers. The ability to identify and capitalize on these markets and technological changes early in their cycles is a key driver of our performance. 
+  Revenues are driven by our ability to secure new contracts and to deliver solutions and services that add value to our customers. To drive revenue growth we must deliver market-leading service offerings and deploy skilled teams of professionals quickly across all government industries and domains. We believe that our scale, combination of technical expertise in applications and IT infrastructure solutions combined with our deep public sector mission knowledge and experience, firmly established vendor partnerships, and commitment to a culture of frugality will enable us to compete effectively in the current market environment. 
+  Results of Operations 
+  We report our results based on a fiscal year convention that comprises four thirteen-week quarters. Every fifth year includes an additional week in the first quarter of the fiscal year to prevent the fiscal year from moving from an approximate end of March date. The second quarters of fiscal 2017 and fiscal 2016 were comprised of an equivalent number of weeks. 
+
+38 
+
+Revenues 
+  Revenues for the Defense and Intelligence and Civil segments were as follows.   
+
+For the   three and six   months ended   September 30, 2016  , our total revenue   increased   by   $294 million  , or   30.3  %, and   $589 million  , or   30.5  %, respectively, as compared to the same period of the prior year primarily due to the additional revenue attributable to SRA. Excluding revenue of $  363 million   attributable to SRA, revenue for the three months ended   September 30, 2016   amounted to   $900   million,   a decrease   of $  69 million   from the second quarter of fiscal 2016. Excluding revenue of   $712 million   attributable to SRA, revenue for the   six   months ended   September 30, 2016   amounted to   $1,805 million  ,   a decrease   of $  123 million   from the first half of fiscal 2016. Revenue declined in the   three and six   month periods due to reductions in the Logistics Modernization Program for the U.S. Army, as well as a lower overall volume of direct material and other direct cost purchases.  
+  Defense and Intelligence Segment 
+    
+  For the   three and six   months ended   September 30, 2016  , Defense and Intelligence segment revenues   increased   by $  75 million  , or   15.0%  , and $  137 million  , or   13.6%  , respectively, as compared to the same period of the prior year, primarily due to additional revenue attributable to SRA. Excluding revenue of $  111 million   and $  225 million   attributable to SRA for the three months and six months ended   September 30, 2016  , respectively, revenue in both periods decreased.   
+    
+  For the three months ended   September 30, 2016  , the revenue decrease was primarily due to the downsizing of the Logistics Modernization Program and a net reduction in task orders on existing contracts with the U.S. Army, U.S. Navy, and National Security Agency. In addition, there was reduced revenue of $  11   million on certain contracts with the Missile Defense Agency and Defense Intelligence Agency that had either concluded or were winding down. These revenue reductions were partially offset by $  15   million of revenue on a new classified contract. 
+    
+  For the   six   months ended   September 30, 2016  , the revenue decrease was primarily due to the downsizing of the Logistics Modernization Program and net reductions in tasking on other Army and National Security Agency contracts.  In addition, Navy and Missile Defense Agency programs ending reduced revenues $25 million.  Partially offsetting these reductions were increases in tasking on Navy programs of $8 million and a new classified contract of $24 million. 
+    
+  Civil Segment 
+    
+  For the   three and six   months ended   September 30, 2016  , Civil segment revenues   increased   by $  219 million  , or   46.7  %, and $  452 million  , or   49.0  %, respectively, as compared to the same period of the prior year, primarily due to the additional revenue attributable to SRA. Excluding revenue of $  252 million   and $  487 million   attributable to SRA  
+
+39 
+
+for the   three and six   months ended   September 30, 2016  , respectively, revenue in both periods decreased. 
+    
+  For the three months ended   September 30, 2016  , the net change was due in part to reduced revenues of $26 million from non-federal programs, driven primarily by one program transitioning from development to operations and maintenance. In addition, reduced tasking orders on other federal contracts resulted in a $9 million net reduction.  For contracts with the Department of Homeland Security ( DHS ), programs ending or winding down were partially offset by increased task orders resulting in a $5 million net reduction. Offsetting the DHS revenue reduction was a $9 million increase for new contract awards with the National Institutes of Health and the Department of Transportation. 
+    
+  For the   six   months ended   September 30, 2016  , the decrease in revenue was driven primarily by a $24 million reduction in revenue from non-federal programs, with one program transitioning to an operations and maintenance phase. For contracts with the DHS, revenue declined by $14 million due to contracts that were completed or winding down, partially offset by contracts with increased task orders. Revenue also declined $12 million from net reductions of other federal programs. Offsetting these revenue reductions was $16 million of revenue from new task orders with the Department of Health and Human Services. 
+  Segment Operating Income 
+  Segment operating income for the Defense and Intelligence, and Civil segments were as follows:   
+
+For the   three and six   months ended   September 30, 2016  , our segment operating income   increased   by $  34   million, or   23.1  %, and $  68 million  , or   25.0  %, respectively, as compared to the same period of the prior year. Excluding the segment operating income of $  25 million   and $  22 million   attributable to SRA during the three and six months ended   September 30, 2016  , respectively, the favorable operating income for the fiscal year 2017 periods was a result of better contract performance and higher pension income. 
+
+40 
+
+Defense and Intelligence Segment 
+    
+  For the three months ended   September 30, 2016  , Defense and Intelligence segment operating income   increased   by $  10   million, or   14.3  %, as compared to the same period of the prior year. Approximately $  6   million of the increase in the segment s operating income during the three months ended September 30, 2016 is attributable to operating income at SRA. Excluding the impact of SRA, Defense and Intelligence segment operating income increased by $4 million. Excluding the impact of SRA, the segment s operating income as a percentage of sales increased due to more efficient delivery of services and higher pension income. 
+    
+  For the   six   months ended   September 30, 2016  , Defense and Intelligence segment operating income was unchanged compared to the same period of the prior year; however, the first half of fiscal year 2017 includes a loss of approximately $  1   million associated with SRA. 
+  Civil Segment 
+    
+  For the three months ended   September 30, 2016  , Civil segment operating income   increased   by $  24   million, or   31.2  %, as compared to the same period of the prior year. Excluding Civil segment operating income of $  18   million attributable to SRA, the increase in the segment s operating income for the fiscal year 2017 period was primarily the result of higher pension income, better contract performance and other program related efficiencies. 
+    
+  For the   six   months ended   September 30, 2016  , Civil segment operating income increased by $  68 million  , or   49.3  %, as compared to the same period of the prior year. Excluding Civil segment operating income of $21 million attributable to SRA, the increase in operating income for the fiscal year 2017 period was primarily the result of higher pension income, better contract performance and other program related efficiencies. 
+  Costs and Expenses 
+  Our total costs and expenses were as follows:   
+
+  (a)  COS also includes related-party transactions with CSC of $  2 million   and $  4 million   for the three and six months ended October 2, 2015, respectively. 
+    
+  Costs of Services 
+    
+  COS, as a percentage of revenue,   decreased   to   77.8%   and   78.4%   for the   three and six   months, respectively, ended   September 30, 2016   as compared to   78.1%   and   79.4%   from the same periods of the prior year. The decrease as a percentage of revenue is a result of program delivery efficiencies, indirect cost reductions, and merger synergies. 
+
+41 
+
+Selling, General and Administrative 
+    
+  Selling, general, and administrative ( SG A ), as a percentage of revenue, was   4.4%   for both the   three and six   months ended   September 30, 2016  , and was unchanged compared to the same periods of the prior year. 
+  Depreciation and Amortization (D A) 
+  D A for the Defense and Intelligence, and Civil segments were as follows:   
+
+D A, as a percentage of revenue,   increased   to   5.0%   and   5.1%   for the   three and six   months ended   September 30, 2016  , respectively, as compared to   3.6%   and   3.5%  , respectively, from the second quarter and first half of the prior fiscal year. These increases were primarily due to the amortization of intangible assets acquired in the SRA merger. Excluding D A of $  32 million   and $  63 million   and revenue attributable to SRA for the   three and six   months ended   September 30, 2016  , respectively, D A, as a percentage of revenue, was   3.4%   and   3.5%  , respectively, compared to 3.6% and 3.5%, respectively, for the same periods of the prior year. 
+  Separation and Merger Costs 
+    
+  Separation and merger costs were costs incurred to give effect to Computer Sciences GS s separation from CSC and subsequent merger with SRA. These costs are primarily comprised of severance and other personnel costs, third-party accounting, legal and other consulting services, as well as information technology infrastructure and application costs. For the   three and six   months ended   September 30, 2016  , separation and merger costs were $  8 million   and $  13 million  , respectively. Pursuant to the Merger Agreement, all merger costs incurred by Computer Sciences GS Business were paid by CSRA. 
+  Interest Expense, Net 
+    
+  Interest expense   of $  29 million   and   $59 million   for the   three and six   months ended   September 30, 2016  , respectively,   increased   by   $24 million   and $49 million, respectively, compared to $  5 million   and   $10 million  , respectively, of   interest expense   for the same periods of the prior year. Interest expense for the   three and six   months ended   September 30, 2016   reflect the additional long-term debt incurred in connection with the Spin-Off and Merger transactions in November 2015. 
+  Other (Income) Expense, Net 
+  Other (income) expense, net comprises gains and losses from the sale of businesses and non-operating assets, the impact of movement in foreign currency exchange rates on CSRA's foreign currency denominated assets and liabilities and other miscellaneous gains and losses. 
+
+42 
+
+Other expenses   of $  1 million   and $  2 million   for the   three and six   months ended   September 30, 2016  , respectively, increased compared to other income of   $(2) million   and   $(21) million  , respectively, for the same periods of the prior year.  The six months ended October 2, 2015 reflect a   $18.5 million   pre-tax gain on the disposition of Welkin Associates Limited, which was a wholly owned subsidiary of the legacy Computer Sciences GS Business. 
+  Taxes 
+    
+  Our effective tax rate ( ETR ) was 35.5% and 35.7% for the   three and six   months ended   September 30, 2016   and 39.8% and   39.4%   for the   three and six   months ended   October 2, 2015  , respectively. The lower ETRs for the   three and six   months ended   September 30, 2016   compared to the   three and six   months ended   October 2, 2015   were due to the addition of beneficial stock compensation deductions and the absence of adjustments related to the carve-out approach used for tax purposes prior to the Spin-Off in the 2016 periods. 
+  Significant management judgment is required in determining our provision for income taxes, deferred tax assets and liabilities, and any valuation allowance recorded against deferred tax assets. A valuation allowance of $  8.7 million   has been recorded against deferred tax assets as of   September 30, 2016   relating to net operating losses in foreign jurisdictions and state tax carryforwards.  
+    
+  Share-Based Compensation Expense 
+    
+  In connection with the Spin-Off, the equity compensation awards in fiscal 2016 of employees of CSC who became employees of CSRA were converted into equity awards of CSRA having the same terms and conditions as their prior CSC awards. 
+    
+  For the   three and six   months ended   September 30, 2016  , the total expense recognized in CSRA s results of operations related to equity awards was   $4.1 million   and   $7.1 million  , respectively.  See Note 12 Share-Based Compensation Plans to our unaudited Consolidated and Condensed Financial Statements in this Form 10-Q for additional information on share-based compensation including unrecognized compensation expense that will impact our earnings in future periods.   
+  Liquidity and Capital Resources 
+  Cash Flows 
+
+Operating Cash Flow 
+    
+  Net cash provided by operating activities for the   six   months ended   September 30, 2016   was $  211 million  ,   a decrease   of $155 million compared to the   six   months ended   October 2, 2015  . This decrease was primarily due to the introduction of the receivable sales activities during the   six   months ended October 2, 2015. Operating cash flow for the   six   months ended   September 30, 2016   benefited from the inclusion of SRA into our receivable sales activities, including the sale of unbilled SRA receivables. Our operating cash flow for the second quarter of fiscal year 2017 also reflects a $25 million payment to satisfy our commitment to fund CSC s CSR pension settlement obligation. 
+
+43 
+
+Investing Cash Flow 
+    
+  Net cash used in investing activities for the   six   months ended   September 30, 2016   was   $(91) million  , as compared to $  (13) million   for the   six   months ended   October 2, 2015  . This decline reflects higher purchases of property and equipment in the fiscal year 2017 period as well as proceeds from the sale of Welkin in the fiscal year 2016 period. 
+  Financing Cash Flow 
+    
+  Net cash used in financing activities for the   six   months ended   September 30, 2016   was   $(182) million  , which was $166 million less than the   $(348) million   used in the six months ended   October 2, 2015  . This change reflects the absence of amounts transferred to CSC and $148 million of debt repayments in the fiscal year 2017 period.   
+  Discussion of Financial Condition 
+  Cash and Cash equivalents were   $68 million   and $  130   million at   September 30, 2016   and April 1, 2016, respectively. 
+  After the Spin-Off, CSRA became the primary seller of certain accounts receivable under a Master Accounts Receivable Purchase Agreement (the  Purchase Agreement ) that was first entered into on April 21, 2015 with The Royal Bank of Scotland, PLC ( RBS ), as Purchaser, along with Mitsubishi UFJ Financial Group Ltd, and Bank of Nova Scotia, each as a Participant, for the continuous non-recourse sale of our eligible trade receivables. In June 2016, SRA was added to the Purchase Agreement as an additional seller of accounts receivables. In connection with the addition of the SRA receivables into the facility, the Company evaluated allowances associated with SRA s government audit activities, receivable aging and specific collectability issues and increased the associated allowance by approximately $3 million in the first quarter of fiscal year 2017. 
+    
+  Under the Facility, CSRA can sell our eligible receivables, including billed receivables and certain unbilled receivables arising from  cost plus fixed fee  and  time and materials  contracts up to $450 million outstanding at any one time. CSRA has no retained interests in the transferred receivables, and only perform collection and administrative functions for the Purchaser for a servicing fee.   
+    
+  During the six months ended September 30, 2016, the sellers sold $  1.49 billion   of our billed and unbilled receivables for cash. Collections by the purchaser on the receivables we sold were   $1.40 billion   for the six months ended September 30, 2016. As of September 30, 2016, there was also   $30.0 million   of cash collected but not remitted due to timing of settlements, which was recorded as restricted cash. Total receivables sold, net of collections and fees related to accounts receivable sales, resulted in an increase in operating cash flow of $  90 million   for the six months ended September 30, 2016. 
+    
+  Upon consummation of the Mergers, SRA initially maintained a separate accounts receivable purchase agreement under which SRA sold certain accounts receivable to a third party, or the Factor, without recourse to SRA.  There were no sales of receivables under this facility during the six months ended September 30, 2016 and the agreement with the Factor was terminated in June 2016.   
+
+44 
+
+Liquidity 
+    
+  As of   September 30, 2016  , CSRA s total liquidity was $768 million, consisting of $  68 million   of cash and cash equivalents and $700 million available under CSRA s revolving credit facility. In September 2016, the Company was required to make a one-time payment of $25 million in connection with its obligation to fund the termination of a pension plan covering employees of a company formed as a joint venture between CSC and another government contractor. In October 2016, the Company began discussions with the administrative agents of its Term Loan and Revolving Credit Facilities to amend the terms, including an extension of the maturity dates. We expect to complete this amendment during the third quarter of fiscal year 2017. See Note 15 Commitments and Contingencies and Note 16 Subsequent Events to our unaudited Consolidated and Condensed Financial Statements in this Form 10-Q for further information. In the opinion of management, CSRA will be able to meet its liquidity and cash needs for at least the next twelve months through the combination of cash flows from operating activities, available cash balances, and available borrowings under CSRA s revolving credit facility. If these resources need to be augmented, additional cash requirements would likely be financed by the issuance of debt or equity securities. However, there can be no assurances that CSRA will be able to obtain debt financing on acceptable terms in the future. 
+    
+  Our exposure to operational liquidity is primarily from long-term contracts, some of which require significant investment of cash flows from operating activities during the initial phases of the contracts. The recovery of these investments is over the life of the contract and is dependent upon our performance as well as customer acceptance. Continued uncertainty in global economic conditions may also affect our business as customers and suppliers may decide to downsize, defer or cancel contracts, which could negatively affect operating cash flows. 
+    
+  Our primary cash needs continue to be for working capital, capital expenditures, commitments and other discretionary investments. Our ability to fund our operating needs depends, in part, on our ability to continue to generate positive cash flow from operations or, if necessary, raise cash in the capital markets. Longer term, our pension funding obligation represents another potential cash need, depending on asset returns, interest rates and other factors. 
+    
+  At September 30, 2016, CSRA s ratio of net debt-to-total capitalization was   90.9  %, a decrease of 1.8 percentage points from the end of fiscal year 2016. The decrease in the ratio was primarily the result of repayments in the amount of $148 million during the first half of fiscal year 2017. 
+    
+  The following table summarizes CSRA s capitalization ratios as of the end of the   second   quarter of fiscal year 2017 and fiscal year 2016: 
+
+(7)  
+    Total debt is the sum of short and long-term components of GAAP debt and capitalized leases. 
+       
+           (8)  
+    Net debt is a non-GAAP measure and our determination of it may not be comparable with calculations of similar measures by other issuers.  We calculate net debt by subtracting cash and cash equivalents  
+
+45 
+
+from total debt (including capitalized leases). We believe that net debt assists in providing a more complete understanding of our financial position and we use it to monitor our financial leverage. We believe that net debt is useful to investors because it provides insights into our financial strength. 
+    
+  Debt Financing 
+    
+  Including capitalized lease liabilities, CSRA had   $126 million   of current maturities of long-term debt and $  2,663 million   of long-term debt at   September 30, 2016  .  
+    
+  We obtained financing in connection with the Spin-Off and the Mergers under various facilities. See Note 9      Debt to our unaudited Consolidated and Condensed Financial Statements in this Form 10-Q and  Liquidity  in our Annual Report on Form 10-K for information about these facilities, including covenants, default provisions, repayment terms, and interest rates of each facility.  
+    
+  Our term loan facilities require us to prepay outstanding term loans, subject to certain exceptions, in the case of excess annual cash flow and in the event of certain asset sales, casualty events and issuances of debt. Any required excess cash flow payments are due within 90 days following the end of the fiscal year. During the first quarter of fiscal 2017, we paid $48 million related to FY16 excess cash flow.  
+    
+  In March 2016, we executed a series of hedging transactions to manage the interest rate risk related to $1.4 billion of the Senior Secured Term Loan A facilities. CSRA s objectives in using cash flow hedges are to add stability to interest expense and to manage its exposure to interest rate movements   (see Note 6 Derivative Instruments to our unaudited Consolidated and Condensed Financial Statements in this Form 10-Q)  .  
+    
+  We have liquidity available for debt servicing and other discretionary investments from free cash flow and the Revolving Credit Facility, of which $700 million remained available but undrawn. Debt service in the first five years is expected to be funded from available free cash flow, while still maintaining available liquidity for short-term working capital and other cash requirements needs. Our expected liquidity and capital structure may be impacted, however, by discretionary investments and acquisitions that CSRA could decide to pursue. While the timing and financial magnitude of these possible actions are currently indeterminable, CSRA expects to be able to manage and adjust its capital structure in the future to meet its liquidity needs. 
+    
+  The amount of indebtedness incurred in connection with the Spin-Off and the Mergers was based on various factors including expected operating results, expected free cash flow generation, credit ratings considerations, ensuring strategic and financial flexibility, anticipated business plans, and general economic conditions. We believe our capital structure and financial strength provide us with financial flexibility in a dynamic industry that we believe affords competitive and strategic advantages to providers that maintain financial flexibility. 
+    
+  Equity Transactions 
+    
+  On November 30, 2015, CSRA s Board of Directors approved a share repurchase program authorizing up to $400 million in share repurchases of CSRA's outstanding common stock. The timing, volume, and nature of future share repurchases are at the discretion of management and the Audit Committee, and may be suspended or discontinued at any time. CSRA plans to offset equity grants through share repurchases over time, balancing them with debt reduction and other forms of cash deployment.  
+    
+  In September 2016, CSRA repurchased   300,097   shares of common stock through open market purchases for an aggregate consideration of   $7.9   million, at an average price of   $26.45   per share. As of September 30, 2016, CSRA remained authorized to repurchase $  342   million of common stock pursuant to the Share Repurchase Program with an expiration date of March 31, 2019. 
+  On May 25, 2016, CSRA announced that its Board of Directors had declared a quarterly cash dividend of $0.10 per share. The total qualifying shares were   163,427,525   shares, with a total dividend payout of   $16.3 million  .  
+
+46 
+
+Payment of the dividend was made on July 11, 2016 to CSRA stockholders of record at the close of business on June 14, 2016. 
+  On August 10, 2016, CSRA announced that its Board of Directors had declared a quarterly cash dividend of   $0.10   per share.  The total qualifying shares were   163,796,116   shares, with a total dividend payout of $  16.4   million. Payment of the dividend was made on October 4, 2016 to CSRA stockholders of record at the close of business on August 31, 2016. 
+  In the opinion of management, CSRA has sufficient liquidity and expects to continue paying quarterly cash dividends although such payments are subject to continued approval by CSRA s Board of Directors. 
+  Off Balance Sheet Arrangements 
+  As of   September 30, 2016  , we did not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in our financial condition, revenues, or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors. 
+  Contractual Obligations 
+  CSRA has contractual obligations for long-term debt, capital lease liabilities and other obligations, including our performance guarantees and expiration of the stand-by letters of credit. See Note 9 Debt and Note 15 Commitments and Contingencies to our unaudited Consolidated and Condensed Financial Statements in this Form 10-Q for further information about these obligations. 
+  Critical Accounting Estimates 
+  Recent accounting pronouncements and the anticipated impact to CSRA are described in Note 1      Description of the Business, Basis of Presentation and Recent Accounting Pronouncements to our unaudited Consolidated and Condensed Financial Statements in this Form 10-Q.  
+  Our unaudited Consolidated and Condensed Financial Statements have been prepared in accordance with GAAP. The preparation of unaudited Consolidated and Condensed Financial Statements in accordance with GAAP requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses, as well as the disclosure of contingent assets and liabilities. We base our estimates and judgments on historical experience and other factors believed to be reasonable under the circumstances. Many of the estimates made are for contract-specific issues. Changes to estimates or assumptions on a specific contract could result in a material adjustment to the unaudited Consolidated and Condensed Financial Statements. See  Critical Accounting Policies  in our Annual Report on Form 10-K for additional information about these estimates. For all of these estimates, we caution that future events rarely develop exactly as forecast, and the best estimates routinely require adjustment. 
+  Revenue recognition 
+  Substantially all of our revenue is derived from contracts with departments and agencies of the U.S. federal government, as well as other state and local government agencies. We generate our revenue from the following types of contractual arrangements: time and materials contracts, firm-fixed-price contracts and cost-plus-fee contracts, which comprised approximately   21  %,   44  %, and   36  %, respectively, of our revenue in the six months ended September 30, 2016. We also provided services to other businesses of CSC, which are included as related-party revenues for the   second   quarter and first half of fiscal year 2016. In the   second   quarter of fiscal year 2017, these services are included in revenues. 
+  Many of our contracts require the use of estimates-at-completion ( EAC ) in the application of the percentage-of-completion accounting method. Contracts that require estimates at completion using the percentage-of-completion method accounted for approximately   37%   of our revenues for the six months ended   September 30, 2016  .  
+
+47 
+
+When changes in estimates of contract sales or costs occur, we make revisions to EACs and reflect changes in the results of operations as a change in accounting estimate in the period in which the facts that give rise to the revision become known by management. See Note 1      Description of the Business, Basis of Presentation and Recent Accounting Pronouncements to our unaudited Consolidated and Condensed Financial Statements in this Form 10-Q for additional information. 
+  Our U.S. federal government contracts generally contain FAR provisions that enable the customer to terminate a contract for default or for the convenience of the government. At   September 30, 2016  , we did not have any federal contract terminations in process that would have a material effect on our consolidated financial position, results of operations or cash flows. 
+  Assumptions related to purchase accounting and goodwill 
+  When we acquire a controlling financial interest through a business combination, we use the acquisition method of accounting to allocate the purchase consideration to the assets acquired and liabilities assumed, which are recorded at fair value. Any excess of purchase consideration over the fair value of the assets acquired and liabilities assumed is recognized as goodwill. 
+  Acquisition-related costs are recognized separately from the business combination and are expensed as incurred. The results of operations of acquired businesses are included in our financial statements from the acquisition date. See Note 7      Goodwill and Other Intangible Assets to our unaudited Consolidated and Condensed Financial Statements in this Form 10-Q for further information. 
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+    
+  Market risk is the potential loss arising from adverse changes in market rates and market prices such as interest rates or foreign currency exchange rates. We actively monitor these exposures and manage such risks through our regular operating and financing activities or the use of derivative financial instruments. 
+  Our exposure to market risk for changes in interest rates relates primarily to our outstanding debt and cash equivalents, which consist primarily of funds invested in U.S. government insured money-market accounts and prime money-market funds. As of   September 30, 2016   and April 1, 2016, we had   $68 million   and $  130   million, respectively, in cash and cash equivalents. The interest expense associated with our term loans and any loans under our revolving credit facility will vary with market rates.  
+  Our exposure to financial risk from changes in interest rates related to our outstanding debt will impact our senior secured loan facilities.  Pursuant to our interest rate risk management strategies, we use   interest rate cash flow hedges to add stability to our incurrence of interest expense and to manage its exposure to related to interest rate movements (See Note 6 - Derivative Instruments   to our unaudited Consolidated and Condensed Financial Statements in this Form 10-Q   for further discussion).   A hypothetical 1% increase in interest rates would have increased the interest expense incurred under our senior secured loan facilities by approximately   $12 million   as of   September 30, 2016  , and likewise decreased our net income and cash flows.  
+  The return on our cash and cash equivalents balance as of   September 30, 2016   and April 1, 2016 was less than 1%; thus, although investment interest rates may continue to decline in the future, the corresponding impact to our interest income, and likewise to our income and cash flow, would not be material.  
+  Our reporting currency is the U.S. dollar ( USD  however, our foreign business operations, which predominantly provide business processing support s  ervices to our U.S. federal government customers,   incur expenses denominated in foreign, local currencies  . The expenses associated with providing our business processing services are invoiced either in USD based upon the current USD to local currency exchange rates, or in the foreign, local currency.  Such expenses expose us to exchange rate fluctuations between USD and the local currency. Historically, we mitigated the volatility relating to these exposures, in part, through the identification of potential foreign currency exposures through the contract bidding and forecasting process that would expand or modify our services. We have also been able to mitigate a portion of foreign currency risk through earnings by matching revenue earned in the same local currency as the expense incurred. However, as fluctuations (including possible devaluations) in currency exchange rates may occur or there may be the  
+
+48 
+
+imposition of limitations on the conversion of foreign currencies into our reporting currency, w  e may enter into forward contracts to manage exchange rate volatility. A 1% increase in exchange rates would have increased our cost of services denominated in foreign currencies by   $0.5 million   in the six months ended   September 30, 2016  . 
+  We have not entered into any hedging transactions for speculative or trading purposes.  
+
+Item 4. Controls and Procedures 
+    
+  Evaluation of Disclosure Controls and Procedures 
+    
+  CSRA s management, with the participation of CSRA s Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of CSRA s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the  Exchange Act )) as of   September 30, 2016  . Based on that evaluation, CSRA s Chief Executive Officer and Chief Financial Officer concluded that, as of   September 30, 2016  , CSRA s disclosure controls and procedures were effective to ensure that information required to be disclosed in reports that CSRA files or submit under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and (ii) accumulated and communicated to management to allow their timely decisions regarding required disclosure. 
+    
+  Changes in Internal Control Over Financial Reporting 
+    
+  Prior to the Spin-Off, we relied on certain financial information and resources of Parent to manage certain aspects of our business and report our results, including investor relations and corporate communications, accounting, tax, legal, human resources and benefit plan administration and reporting, general management, real estate, treasury, including insurance and risk management, and oversight functions such as Board of Directors and internal audit, including compliance with the Sarbanes-Oxley Act of 2002.  
+    
+  We have evaluated the changes in our internal control over financial reporting that occurred during the six months ended   September 30, 2016   and concluded that there have not been any changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the last fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+49 
+
+PART II. OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+    
+  The information required by this Item is set forth in Note 15 - Commitments and Contingencies to our unaudited Consolidated and Condensed Financial Statements in this Form 10-Q, and under the caption  Contingencies,  contained in Part I, Item 1 of this Form 10-Q. Such information is incorporated herein by reference and made a part hereof. 
+
+Item 1A. 
+    Risk Factors 
+       
+  Except for the additional risk factor discussed below, we are not aware of any material changes to the risk factors discussed in Part 1, Item 1A of the Annual Report on Form 10-K for the year ended April 1, 2016. 
+    
+  Sales of concentrated positions of our common stock into the market in the future could cause the market price of our common stock to decline, even if our business is performing well. 
+    
+  Sales of a substantial number of shares of our common stock in the public market could occur at any time. These sales, or the perception in the market that the holders of a large number of shares of common stock intend to sell shares, could reduce the market price of our common stock. As of October 17, 2016, our directors, executive officers and our 3 largest stockholders beneficially own, collectively, approximately 27% of our outstanding common stock. If one or more of them were to sell a substantial portion of the shares they hold, it could cause our stock price to decline. The sales also could make it more difficult for us to sell equity or equity-related securities at a time and price that we deem appropriate. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+    
+  On November 30, 2015, the Board authorized the Share Repurchase Program, pursuant to which CSRA, from time to time, purchases shares of its common stock for an aggregate purchase price not to exceed   $400   million. The share repurchases may be executed through various means, including, without limitation, open market transactions, and privately negotiated transactions or otherwise and are in compliance with SEC rules, market conditions and applicable federal and state legal requirements. The timing, volume, and nature of share repurchases are at the discretion of management and may be suspended or discontinued at any time. See Notes 13 and 16 to our unaudited Consolidated and Condensed Financial Statements in this Form 10-Q for further information about the Share Repurchase Program. 
+
+50 
+
+The following table presents repurchases of our common stock during the six months ended September 30, 2016. 
+
+(1) The Share Repurchase Program, which was authorized by the Board on November 30, 2015, does not obligate CSRA to purchase any shares, and expires on March 31, 2019. As of September 30, 2016, CSRA had repurchased 2,068,226 shares of common stock through open market purchases for an aggregate consideration of approximately $58 million, and remained authorized to repurchase   $342 million   of common stock under the program.  
+
+Item 3. Default Upon Senior Securities 
+    
+  None. 
+
+Item 4. Mine Safety Disclosures 
+    
+  None. 
+
+Item 5. Other Information 
+    
+  None.  
+
+51 
+
+Item 6. Exhibits 
+  EXHIBIT INDEX 
+                     Exhibit Number 
+      
+    Exhibit Description 
+      31.1 
+
+Section 302 Certification of Chief Executive Officer 
+      31.2 
+
+Section 302 Certification of Chief Financial Officer 
+      32.1 
+
+Section 906 Certification of Chief Executive Officer 
+      32.2 
+
+Section 906 Certification of Chief Financial Officer 
+      101.INS 
+
+XBRL Instance 
+      101.SCH 
+
+XBRL Taxonomy Extension Schema 
+      101.CAL 
+
+XBRL Taxonomy Extension Calculation 
+      101.DEF 
+
+XBRL Taxonomy Extension Definition Linkbase 
+      101.LAB 
+
+XBRL Taxonomy Extension Labels 
+      101.PRE 
+
+XBRL Taxonomy Extension Presentation Linkbase Document 
+
+SIGNATURES 
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+CSRA INC. 
+
+Dated: 
+    November 9, 2016 
+    By: 
+    /S/ William Luebke 
+
+Name: 
+    William Luebke 
+
+Title: 
+    Controller 
+
+(Principal Accounting Officer) 
+
+52 
+
+<EX-31.1>
+ 2
+ csra2q10q-exhibit311xsec30.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER 
+  PURSUANT TO RULES 13a-14(a) AND 15a-14(a) 
+  OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+I, Lawrence B. Prior III, certify that: 
+  1. I have reviewed this Quarterly Report on Form 10-Q of CSRA Inc.  
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report  
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report  
+  4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+  (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared  
+  (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+  (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation  and 
+  (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting  and 
+  
+   1 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+  (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information  and 
+  (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+2 
+
+Date:  November 9, 2016 
+    /s/ Lawrence B. Prior III         Name:   Lawrence B. Prior III  Title:      President and Chief Executive Officer 
+
+3 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ csra2q10q-exhibit312xsec30.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+
+CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER 
+  PURSUANT TO RULES 13a-14(a) AND 15a-14(a) 
+  OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+I, David F. Keffer, certify that: 
+  1. I have reviewed this Quarterly Report on Form 10-Q of CSRA Inc.  
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report  
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report  
+  4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+  (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared  
+  (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+  (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation  and 
+  (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting  and 
+  
+   1 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+  (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information  and 
+  (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+2 
+
+Date:  November 9, 2016 
+    /s/ David F. Keffer        Name:   David F. Keffer   Title:      Chief Financial Officer 
+
+3 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ csra2q10q-exhibit321xsec90.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, I, Lawrence B. Prior III, President and Chief Executive Officer of CSRA Inc. (the    Company   ), hereby certify, that, to my knowledge: 
+  1. The Quarterly Report on Form 10-Q for the period ended   September 30, 2016   (the    Report   ) of the Company fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended  and 
+  2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+    
+    CSRA INC.                     
+           Date:  November 9, 2016 
+    /s/ Lawrence B. Prior III         Name:   Lawrence B. Prior III  Title:      President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ csra2q10q-exhibit322xsec90.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+
+CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, I, David F. Keffer, Chief Financial Officer of CSRA Inc. (the    Company   ), hereby certify, that, to my knowledge: 
+  1. The Quarterly Report on Form 10-Q for the period ended   September 30, 2016   (the    Report   ) of the Company fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended  and 
+  2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+                   
+    CSRA INC.     
+           Date:  November 9, 2016 
+    /s/ David F. Keffer          Name:   David F. Keffer   Title:     Chief Financial Officer  
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ csra-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ csra-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ csra-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ csra-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ csra-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ csra-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

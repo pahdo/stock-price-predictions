@@ -1,0 +1,961 @@
+<Header>
+<FileStats>
+    <FileName>20161011_10-Q_edgar_data_1348334_0001628280-16-020019_1.txt</FileName>
+    <GrossFileSize>5490106</GrossFileSize>
+    <NetFileSize>107588</NetFileSize>
+    <ASCII_Embedded_Chars>275050</ASCII_Embedded_Chars>
+    <HTML_Chars>1948750</HTML_Chars>
+    <XBRL_Chars>2247561</XBRL_Chars>
+    <XML_Chars>802137</XML_Chars>
+    <N_Tables>34</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001628280-16-020019.hdr.sgml : 20161011
+<ACCEPTANCE-DATETIME>20161011161248
+ACCESSION NUMBER:		0001628280-16-020019
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		61
+CONFORMED PERIOD OF REPORT:	20160831
+FILED AS OF DATE:		20161011
+DATE AS OF CHANGE:		20161011
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BARRACUDA NETWORKS INC
+		CENTRAL INDEX KEY:			0001348334
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER PERIPHERAL EQUIPMENT, NEC [3577]
+		IRS NUMBER:				830380411
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36162
+		FILM NUMBER:		161931232
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3175 WINCHESTER BOULEVARD
+		CITY:			CAMPBELL
+		STATE:			CA
+		ZIP:			95008
+		BUSINESS PHONE:		408-342-5400
+
+	MAIL ADDRESS:	
+		STREET 1:		3175 WINCHESTER BOULEVARD
+		CITY:			CAMPBELL
+		STATE:			CA
+		ZIP:			95008
+
+</SEC-Header>
+</Header>
+
+ 0001628280-16-020019.txt : 20161011
+
+10-Q
+ 1
+ cuda-fy17xq2x10qx20160831.htm
+ 10-Q
+
+Document 
+
+Table of Contents  
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+   ___________________________________________________________ 
+  FORM 10-Q    
+  ___________________________________________________________ 
+  (Mark One) 
+
+For the quarterly period ended   August 31, 2016 
+  or 
+
+For the transition period from                          to                        
+  Commission File Number 001-36162 
+  ___________________________________________________________ 
+  BARRACUDA NETWORKS, INC. 
+  (Exact name of registrant as specified in its charter)    
+  ___________________________________________________________ 
+                   Delaware 
+      
+    83-0380411 
+      (State or other jurisdiction of incorporation or organization) 
+      
+    (I.R.S. Employer Identification No.) 
+
+3175 S. Winchester Blvd. 
+  Campbell, California 95008 
+  (408) 342-5400 
+  (Address, including zip code, and telephone number, including area code, of registrant s principal executive offices) 
+  ___________________________________________________________  
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes    x     No      
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes    x      No      
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of "large accelerated filer," "accelerated filer" and "smaller reporting company" in Rule 12b-2 of the Exchange Act.                           Large accelerated filer 
+
+Accelerated filer 
+      
+    x 
+
+Non-accelerated filer 
+      
+         (Do not check if a smaller reporting company) 
+       
+    Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes           No    x 
+  The number of shares outstanding of the registrant s common stock outstanding as of   September 30, 2016   was   52,303,252  . 
+
+Table of Contents  
+
+TABLE OF CONTENTS    
+
+Page 
+        
+       PART I FINANCIAL INFORMATION  
+
+Item 1. 
+     Financial Statements  
+    4 
+        
+     Condensed Consolidated Balance Sheets  
+    4 
+        
+     Condensed Consolidated Statements of Operations  
+    5 
+        
+     Condensed Consolidated Statements of Comprehensive Income (Loss)  
+    6 
+        
+     Condensed Consolidated Statements of Cash Flows  
+    7 
+        
+     Notes to Condensed Consolidated Financial Statements  
+    8 
+
+Item 2. 
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    20 
+
+Item 3. 
+     Quantitative and Qualitative Disclosures About Market Risk  
+    31 
+
+Item 4. 
+     Controls and Procedures  
+    31 
+        
+       PART II OTHER INFORMATION  
+
+Item 1. 
+     Legal Proceedings  
+    33 
+
+Item 1A. 
+     Risk Factors  
+    33 
+
+Item 2. 
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+    33 
+
+Item 3. 
+     Defaults Upon Senior Securities  
+    34 
+
+Item 4. 
+     Mine Safety Disclosures  
+    34 
+
+Item 5. 
+     Other Information  
+    34 
+
+Item 6. 
+     Exhibits  
+    34 
+
+Table of Contents  
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+  This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements contained in this Quarterly Report on Form 10-Q other than statements of historical fact, including statements regarding our future results of operations and financial position, our business strategy and plans, and our objectives for future operations, are forward-looking statements. The words "believe," "may," "will," "potentially," "estimate," "continue," "anticipate," "intend," "could," "would," "project," "plan," "expect" and the negative and plural forms of these words and similar expressions are intended to identify forward-looking statements. These forward-looking statements include, but are not limited to, statements concerning the following: 
+             
+    our future financial performance, including our expectations regarding our revenue, cost of revenue, gross profit or gross margin, operating expenses, including changes in research and development, sales and marketing and general and administrative expenses, and our ability to achieve and maintain future profitability; 
+                
+    our business plan and our ability to effectively manage our growth and associated investments; 
+                
+    anticipated trends, growth rates and challenges in our business and in the markets in which we operate; 
+                
+    market acceptance of recently introduced security and data protection solutions; 
+                
+    beliefs about and objectives for future operations; 
+                
+    our ability to increase sales of our solutions and renewals of our subscriptions; 
+                
+    our ability to attract and retain customers; 
+                
+    our ability to cross-sell to our existing customers; 
+                
+    maintaining and expanding our customer base and our relationships with our channel partners; 
+                
+    our ability to timely and effectively scale and adapt our existing solutions; 
+                
+    our ability to develop new solutions and bring them to market in a timely manner; 
+                
+    our ability to maintain, protect and enhance our brand and intellectual property; 
+                
+    our ability to continue to expand internationally; 
+                
+    the effects of increased competition in our markets and our ability to compete effectively; 
+                
+    sufficiency of cash to meet cash needs for at least the next 12 months; 
+                
+    future acquisitions or investments; 
+                
+    our ability to stay in compliance with laws and regulations that currently apply or become applicable to our business both in the United States and internationally; 
+                
+    economic and industry trends or trend analysis; 
+                
+    the attraction and retention of qualified employees and key personnel; 
+                
+    the estimates and estimate methodologies used in preparing our consolidated financial statements;  
+                
+    the impact of our stock repurchase program; and 
+                
+    the future trading prices of our common stock. 
+     We have based these forward-looking statements largely on our current expectations and projections about future events and trends that we believe may affect our financial condition, results of operations, business strategy, short-term and long-term business operations and objectives and financial needs; however, these forward-looking statements are subject to a number of risks, uncertainties and assumptions, including those described in Part I, Item 1A of our Annual Report on Form 10-K for the fiscal year ended   February 29, 2016  . Moreover, we operate in a very competitive and rapidly changing environment and new risks emerge from time to time. It is not possible for us to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. In light of these risks, uncertainties and assumptions, the future events and trends discussed in this Quarterly Report on Form 10-Q may not occur and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements. 
+  We undertake no obligation to revise or publicly release the results of any revision to these forward-looking statements, except as required by law. Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. You should read this Quarterly Report on Form 10-Q and the documents that we reference in this Quarterly Report on Form 10-Q and have filed with the SEC as exhibits to this Quarterly Report on Form 10-Q with the understanding that our actual future results, levels of activity, performance and events and circumstances may be materially different from what we expect. 
+  Unless expressly indicated or the context requires otherwise, the terms "Barracuda," "company," "we," "us," and "our" in this document refer to Barracuda Networks, Inc., a Delaware corporation, and, where appropriate, its wholly owned subsidiaries. The term "Barracuda" may also refer to our products, regardless of the manner in which they are accessed. 
+
+3 
+
+Table of Contents  
+
+PART I   FINANCIAL INFORMATION 
+   
+  Item 1. Financial Statements 
+   
+  BARRACUDA NETWORKS, INC. 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+  (in thousands, except share and per share data) 
+  (unaudited) 
+
+See accompanying notes. 
+  
+   4 
+
+Table of Contents  
+
+BARRACUDA NETWORKS, INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+  (in thousands, except per share data) 
+  (unaudited) 
+
+See accompanying notes. 
+  
+   5 
+
+Table of Contents  
+
+BARRACUDA NETWORKS, INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) 
+  (in thousands) 
+  (unaudited) 
+
+See accompanying notes. 
+  
+   6 
+
+Table of Contents  
+
+BARRACUDA NETWORKS, INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  (in thousands) 
+  (unaudited) 
+
+See accompanying notes. 
+  
+   7 
+
+Table of Contents  
+
+BARRACUDA NETWORKS, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (unaudited) 
+   
+  1. Overview and Basis of Presentation 
+  Nature of Operations 
+  Barracuda Networks, Inc., also referred to in this report as "we," "our," "us," "Barracuda" or "the Company," is headquartered in Campbell, California, and designs and delivers powerful yet easy-to-use security and data protection solutions. We offer cloud-enabled solutions that help our customers address security threats, improve network performance and protect and store their data. Our solutions are designed to simplify IT operations for our customers, allowing them to enhance their return on technology investments. 
+  Use of Estimates 
+  The preparation of financial statements in conformity with generally accepted accounting principles in the United States ("GAAP") requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. We evaluate our estimates on an ongoing basis, including those related to the fair values of stock-based awards, income taxes and contingent liabilities, among others. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable, the results of which form the basis for making judgments about the carrying values of assets and liabilities. Actual results could differ from those estimates and such differences could be material to our condensed consolidated financial position and results of operations. 
+  Basis of Presentation 
+  The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with GAAP, and follow the requirements of the U.S. Securities and Exchange Commission (the "SEC") for interim reporting. As permitted under those rules, certain footnotes or other financial information that are normally required by GAAP are condensed or omitted. In management s opinion, the unaudited condensed financial statements have been prepared on the same basis as the audited financial statements and include all adjustments, which include only normal recurring adjustments, necessary for the fair presentation of our financial information. The results for the   three and six   months ended   August 31, 2016   are not necessarily indicative of the results expected for the full fiscal year. The condensed consolidated balance sheet as of   February 29, 2016   has been derived from audited financial statements at that date but does not include all of the information required by GAAP. 
+  The accompanying unaudited condensed consolidated financial statements include the accounts of Barracuda Networks, Inc. and our wholly owned subsidiaries. All significant intercompany accounts and transactions have been eliminated. 
+  The accompanying unaudited condensed consolidated financial statements and related financial information should be read in conjunction with the audited financial statements and related footnotes included in our most recent Annual Report on Form 10-K. There have been no material changes in our significant accounting policies from those that were disclosed in our Annual Report on Form 10-K for the fiscal year ended   February 29, 2016  . 
+  Foreign Currency 
+  For those subsidiaries whose functional currency is not the U.S. dollar, assets and liabilities are translated into U.S. dollar equivalents at the exchange rate in effect on the balance sheet date and revenues and expenses are translated into U.S. dollars using the average exchange rate over the period. Resulting currency translation adjustments are recorded in accumulated other comprehensive loss in our condensed consolidated balance sheets. We recorded net gains (losses) resulting from foreign exchange transactions of   $0.9 million   and   $1.4 million   for the   three and six   months ended   August 31, 2016  , respectively, and   $0.1 million   and   $(0.5) million   for the   three and six   months ended   August 31, 2015  , respectively. We reflect these gains and losses as a component of other income (expense), net in our condensed consolidated statements of operations. 
+  We have foreign subsidiaries that operate and sell our products in various markets around the world. As a result, we are exposed to foreign exchange risks. We utilize foreign exchange forward contracts to manage foreign currency risk associated with foreign currency denominated monetary assets and liabilities, primarily trade receivables, and to reduce the volatility of earnings and cash flows related to foreign currency transactions. The fair values of our contracts as of   August 31, 2016   and  
+  
+   8 
+
+     Table of Contents  
+
+February 29, 2016   were not significant. The change in the fair value of these foreign currency forward contracts is recorded as gains (losses) in other income (expense), net in our condensed consolidated statements of operations. 
+  Recent Accounting Pronouncements 
+  In August 2016, the Financial Accounting Standards Board (the "FASB") issued an accounting standard which addresses eight cash flow classification issues. The standard update is effective for fiscal years beginning after December 15, 2017 and interim periods within those fiscal years, and early adoption is permitted, including in an interim period.  If early adopted in an interim period, any adjustments should be reflected as of the beginning of the fiscal year that includes that interim period. Early adoption requires the adoption of all the amendments in the same period. The standard is to be applied through a retrospective transition method to each period presented. If it is impracticable to apply retrospectively for some of the issues, the amendments for those issues would be applied prospectively as of the earliest date practicable. We are currently evaluating the impact of adopting this update on our condensed consolidated statements of cash flows. 
+  In June 2016, the FASB issued an accounting standard which requires measurement and recognition of expected credit losses for financial assets held. The standard update is effective for fiscal years beginning after December 15, 2019 and interim periods within those fiscal years, and early adoption is permitted as of the fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. The standard is to be applied through a cumulative-effect adjustment to retained earnings as of the beginning of the first reporting period in which the guidance is effective. We are currently evaluating the impact of adopting this update on our condensed consolidated financial statements. 
+  In March 2016, the FASB issued an accounting standard to simplify employee shared-based payment accounting. The standard update is effective for fiscal years beginning after December 15, 2016 and interim periods within those fiscal years, and early adoption is permitted in any interim or annual period. If early adopted in an interim period, any adjustments should be reflected as of the beginning of the fiscal year that includes that interim period. Early adoption requires the adoption of all the amendments in the same period. Amendments related to the timing of when excess tax benefits are recognized, minimum statutory withholding requirements, and forfeitures should be applied using a modified retrospective transition method by means of a cumulative-effect adjustment to equity as of the beginning of the period in which the guidance is adopted. Amendments related to the presentation of employee taxes paid on the statement of cash flows when an employer withholds shares to meet the minimum statutory withholding requirement should be applied retrospectively. Amendments requiring recognition of excess tax benefits and tax deficiencies in the income statement and the practical expedient for estimating expected term should be applied prospectively. An entity may elect to apply the amendments related to the presentation of excess tax benefits on the statement of cash flows using either a prospective transition method or a retrospective transition method. We are currently evaluating the timing and the impact of adopting this update on our condensed consolidated financial statements. 
+  In March 2016, the FASB issued an accounting standard to eliminate the requirement to retroactively adopt the equity method of accounting for an investment that qualifies for use of the equity method as a result of an increase in the level of ownership interest or degree of influence. The standard update requires that the equity method investor add the cost of acquiring the additional interest in the investee to the current basis of the investor s previously held interest and adopt the equity method of accounting as of the date the investment becomes qualified for equity method accounting. For an available-for-sale equity security that becomes qualified for the equity method of accounting, an entity is required to recognize through earnings the unrealized holding gain or loss in accumulated other comprehensive income (loss) at the date the investment becomes qualified for use of the equity method. The standard update is effective for fiscal years beginning after December 15, 2016 and interim periods within those years, and early adoption is permitted. The standard is to be applied prospectively upon their effective date to increases in the level of ownership interest or degree of influence that result in the adoption of the equity method. We do not expect the adoption of this update to have a material impact on our condensed consolidated financial statements. 
+  In February 2016, the FASB issued an accounting standard to amend lease accounting requirements and requires entities to generally recognize on the balance sheet operating and financing lease liabilities and corresponding right-of-use assets. The new standard will require significant additional disclosures about the amount, timing and uncertainty of cash flows from leases. The standard update is effective for fiscal years beginning after December 15, 2018 and interim periods within those years, and early adoption is permitted. The standard is to be applied using a modified retrospective approach and includes a number of optional practical expedients that entities may elect to apply. We are currently evaluating the impact of adopting this update on our condensed consolidated financial statements and expect that most of our operating lease commitments will be subject to the standard update and recognized as operating lease liabilities and right-of-use assets upon the adoption. 
+  
+   9 
+
+     Table of Contents  
+
+In January 2016, the FASB issued an accounting standard to enhance the reporting model for financial instruments by amending certain aspects of recognition, measurement, presentation, and disclosure of financial instruments. The standard update is effective for fiscal years beginning after December 15, 2017 and interim periods within those years. Early application to financial statements of fiscal years or interim periods that have not yet been issued is permitted by presenting separately in other comprehensive income the portion of the total change in the fair value of a liability resulting from a change in the instrument-specific credit risk if we elected to measure the liability at fair value in accordance with the fair value option for financial instruments, otherwise, early adoption is not permitted. The standard is to be applied with a cumulative-effect adjustment to the balance sheet as of the beginning of the fiscal year of adoption. The amendments related to equity securities without readily determinable fair values (including disclosure requirements) should be applied prospectively to equity investments that exist as of the date of adoption. We are currently evaluating the impact of adopting this update on our condensed consolidated financial statements. 
+  In May 2014, the FASB issued an accounting standard which completed the joint effort by the FASB and the International Accounting Standards Board to clarify the principles for recognizing revenue and improving financial reporting. The standard also provides guidance on the recognition of costs related to obtaining and fulfilling customer contracts. The FASB issued subsequent amendments to the initial guidance collectively under FASB Accounting Standards Codification Topic 606. Topic 606 supersedes nearly all existing revenue recognition guidance under GAAP. The core principle of Topic 606 is to recognize revenues when promised goods or services are transferred to customers in an amount that reflects the consideration that is expected to be received for those goods or services. Topic 606 defines a five-step process to achieve this core principle, while more judgment and estimates may be required within the revenue recognition process than are required under existing GAAP, including identifying performance obligations in the contract, estimating the amount of variable consideration to include in the transaction price and allocating the transaction price to each separate performance obligation, among others. Topic 606 is required to be effective for us as of the first quarter of fiscal 2019 but we are allowed to early adopt as of the first quarter of fiscal 2018. The standard allows for full retrospective adoption applied to all periods presented or retrospective adoption with the cumulative effect of initially applying this update recognized at the date of initial application. We are continuing to evaluate the timing and the impact of adopting this update on our condensed consolidated financial statements and have not determined whether the effect will be material to either our revenue results or our accounting for deferred commission balances. 
+   
+  2. Balance Sheet Information 
+  Cash, Cash Equivalents and Marketable Securities 
+  
+   10 
+
+     Table of Contents  
+
+The following table summarizes our cash and cash equivalents by category (in thousands):   
+
+  The following tables summarize our marketable securities by category (in thousands):   
+
+  We use the specific-identification method to determine any realized gains or losses from the sale of our marketable securities classified as available-for-sale. For the   three and six   months ended   August 31, 2016  , we realized gross gains of   $0.7 million   and   $1.1 million  , respectively, and insignificant amounts of gross losses. For the   three and six   months ended   August 31, 2015  , realized gains and losses were insignificant. We reflect these gains and losses as a component of other income (expense), net in our condensed consolidated statements of operations.  
+  
+   11 
+
+     Table of Contents  
+
+The following tables present gross unrealized losses and fair values for those marketable securities that were in an unrealized loss position aggregated by investment category and the length of time that individual securities have been in a continuous loss position (in thousands):   
+
+We periodically review our marketable securities for other-than-temporary impairment. We consider factors such as the duration, severity and the reason for the decline in value, the potential recovery period and whether we intend to sell. For marketable debt securities, we also consider whether (i) it is more likely than not that we will be required to sell the debt securities before recovery of their amortized cost basis and (ii) the amortized cost basis cannot be recovered as a result of credit losses. Unrealized losses related to these investments are due to interest rate fluctuations as opposed to changes in credit quality. We do not intend to sell and it is not more likely than not that we would be required to sell these investments before recovery of their amortized cost basis, which may be at maturity.   As of August 31, 2016  , we have recognized no other-than-temporary impairment loss. 
+  
+   12 
+
+     Table of Contents  
+
+The following table summarizes the estimated fair value of our investments in marketable debt securities by contractual maturities (in thousands):   
+
+  Fair Value Measurements 
+  We determine fair value based on the fair value hierarchy, which requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. The fair value assumes that the transaction to sell the asset or transfer the liability occurs in the principal or most advantageous market for the asset or liability and establishes that the fair value of an asset or liability shall be determined based on the assumptions that market participants would use in pricing the asset or liability. The classification of a financial asset or liability within the hierarchy is based upon the lowest level input that is significant to the fair value measurement. The fair value hierarchy prioritizes the inputs into three levels that may be used to measure fair value: 
+           Level 1: 
+    Inputs are unadjusted quoted prices in active markets for identical assets or liabilities. 
+              Level 2: 
+    Inputs are quoted prices for similar assets and liabilities in active markets or inputs that are observable for the asset or liability, either directly or indirectly through market corroboration, for substantially the full term of the financial instrument. 
+              Level 3: 
+    Inputs are unobservable inputs based on our assumptions. 
+     Cash equivalents and marketable equity securities are classified within Level 1 because they are valued using quoted market prices or alternative pricing sources and models utilizing market observable inputs. Marketable debt securities and derivative assets are classified within Level 2 if the investments are valued using model driven valuations which use observable inputs such as quoted market prices, benchmark yields, reported trades, broker/dealer quotes or alternative pricing sources with reasonable levels of price transparency. Our marketable securities are held by custodians who obtain investment prices from a third-party pricing provider that incorporates standard inputs in various asset price models. 
+  We estimated the fair value of our Level 3 contingent consideration liabilities based on a weighted probability assessment of achieving the milestones related to certain of our acquisitions. Significant increases (decreases) in the probability assumptions in isolation would result in a significantly higher (lower) fair value measurement. In developing these estimates, we considered unobservable inputs that are supported by little or no market activity and reflect our own assumptions.  
+  
+   13 
+
+     Table of Contents  
+
+Financial assets measured at fair value on a recurring basis are summarized below (in thousands):   
+
+  Inventories, Net 
+  Inventories, net consisted of the following (in thousands):   
+
+  Deferred Costs 
+  
+   14 
+
+     Table of Contents  
+
+Deferred costs consisted of the following (in thousands):   
+
+  Property and Equipment, Net 
+  Property and equipment, net consisted of the following (in thousands):   
+
+  Depreciation and amortization expense related to property and equipment was   $2.3 million   and   $4.7 million   for the   three and six   months ended   August 31, 2016  , respectively, and   $1.7 million   and   $3.3 million   for the   three and six   months ended   August 31, 2015  , respectively. 
+  Accumulated Other Comprehensive Income (Loss) 
+  The components of accumulated other comprehensive income (loss) ("AOCI"), net of tax, were as follows (in thousands):   
+
+3. Acquisition 
+  Sookasa, Inc. 
+  In March 2016, we acquired Sookasa, Inc. ("Sookasa"), a provider of encryption, security, and compliance solutions for cloud-based integration partners. We acquired all of the outstanding equity interests of Sookasa for cash consideration of   $0.3 million  , which included the settlement of the outstanding indebtedness of Sookasa with SVB Financial Group ("SVB"), and the issuance of   10,000   shares of our common stock to SVB in connection with such settlement. The total aggregate consideration, inclusive of cash, debt settlement and equity, was approximately   $0.4 million  , of which   $0.4 million   was allocated to goodwill. The goodwill is primarily attributable to the acquired assembled workforce and is not expected to be deductible for income tax purposes.  
+  The results of operations, since the acquisition date, were not material to our condensed consolidated results of operations for the   three and six   months ended   August 31, 2016  . The following unaudited pro forma information presents the combined results of operations of Barracuda and Sookasa as if the acquisition had been completed on March 1, 2015, the beginning of the  
+  
+   15 
+
+     Table of Contents  
+
+comparable prior annual reporting period. The unaudited pro forma information does not reflect any cost saving synergies from operating efficiencies or the effect of the incremental costs incurred in integrating the two companies. Accordingly, this unaudited pro forma information is presented for informational purposes only and is not necessarily indicative of what the actual results of operations of the combined company would have been if the acquisition had occurred at the beginning of the period presented, nor are they indicative of future results of operations.   
+
+4. Goodwill and Intangible Assets 
+  The changes in the carrying amount of goodwill are summarized as follows (in thousands):   
+
+  Intangible assets subject to amortization are summarized as follows (in thousands):   
+
+Certain intangible assets were removed as they were fully amortized as of the periods presented above. In addition to the above, we maintained other intangible assets not subject to amortization of   $0.2 million   as of   August 31, 2016   and   February 29, 2016  . 
+  Amortization expense, including impairment charges, was   $1.8 million   and   $3.7 million   for the   three and six   months ended   August 31, 2016  , respectively, and   $0.6 million   and   $1.2 million   for the   three and six   months ended   August 31, 2015  , respectively. 
+  As of   August 31, 2016  , amortization expense for intangible assets in future periods was as follows:   $3.6 million   for the remainder of fiscal   2017  ,   $6.9 million   for fiscal   2018  ,   $6.0 million   for fiscal   2019  ,   $5.8 million   for fiscal   2020  ,   $5.3 million   for fiscal   2021   and   $7.9 million   thereafter. 
+  
+   16 
+
+Table of Contents  
+
+5. Stockholders  Deficit 
+  Stock-Based Compensation 
+  Total stock-based compensation expense has been classified as follows in our accompanying condensed consolidated statements of operations (in thousands):   
+
+  Our 2012 Equity Incentive Plan (the "2012 Plan") authorizes the granting of stock options, stock appreciation rights, restricted stock and restricted stock units ("RSUs") to employees, directors and contractors. Options granted are exercisable for periods not to exceed   10   years. Options and RSUs granted typically vest over four years contingent upon employment or service with us on the vesting date. 
+  As of August 31, 2016  , net of forecasted forfeitures, there was   $12.8 million   of unrecognized compensation cost related to outstanding stock options, expected to be recognized over a weighted-average period of   2.28 years  , and   $49.4 million   of unrecognized compensation cost related to unvested RSUs, expected to be recognized over a weighted-average period of   2.83 years  . To the extent the actual forfeiture rate is different from what management has anticipated, stock-based compensation expense related to these equity awards will be different from management s expectations. 
+  Our 2015 Employee Stock Purchase Plan (the "ESPP") allows eligible employee participants to purchase shares of our common stock at a discount through payroll deductions. The ESPP consists of offering periods that are   six   months in length and employees may purchase shares in each period at   85%   of the lower of the Company s fair market value on the first trading day of each offering period or on the purchase date. The ESPP will continue until the earlier to occur of (i) the termination of the ESPP by our board of directors, or (ii)   June 15, 2035  .   As of August 31, 2016  , we had reserved   750,000   shares of our common stock for issuance under the ESPP and   715,230   shares remain available for future issuance. 
+  Stock Repurchase Program 
+  In September 2015, our board of directors authorized a stock repurchase program to repurchase shares of our common stock for an aggregate purchase price not to exceed   $50.0 million   through September 30, 2017. The stock repurchase program does not obligate us to repurchase any specific dollar amount or to acquire any specific number of shares. Stock will be purchased from time to time, in the open market or through private transactions, subject to market condition, in compliance with applicable state and federal securities laws. The timing and amount of repurchases, if any, will depend upon several factors, including market and business conditions, the trading price of our common stock and the nature of other investment opportunities. 
+  The following table summarizes our common stock repurchases for the periods presented (in thousands, except per share data):   
+
+  For additional information, see "Part II   Other Information, Item 2 - Unregistered Sales of Equity Securities and Use of Proceeds" of this Quarterly Report on Form 10-Q. 
+  
+   17 
+
+Table of Contents  
+
+6. Income Taxes 
+  For the   three and six   months ended   August 31, 2016  , we recorded an income tax provision of   $5.2 million   and   $8.5 million  , respectively. For the   three and six   months ended   August 31, 2015  , we recorded an income tax provision of   $2.0 million   and   $4.5 million  , respectively. 
+  In fiscal 2015, we established a valuation allowance against a significant portion of our deferred tax assets, including U.S. federal and state deferred tax assets and certain foreign deferred tax assets, because realization of these tax benefits through future taxable income did not meet the more-likely-than-not threshold. We intend to maintain the valuation allowance until sufficient positive evidence exists to support its reversal. 
+  The difference between the income tax provision that would be derived by applying the statutory rate to our before tax income for the   three and six   months ended   August 31, 2016   and the income tax provision actually recorded is primarily due to the temporary differences we do not expect to benefit from due to our valuation allowance, as well as non-deductible stock-based compensation expense and other currently non-deductible items. 
+   
+  7. Segment Information 
+  Operating segments are defined as components of an enterprise about which separate financial information is available that is evaluated regularly by the chief operating decision maker in deciding how to allocate resources and in assessing performance. Our chief operating decision maker is our chief executive officer. Our chief executive officer reviews financial information presented on a consolidated basis, accompanied by information about sales by geographic region, for purposes of allocating resources and evaluating financial performance. We have one business activity and there are no segment managers who are held accountable for operations, operating results and plans for levels or components below the consolidated level. Accordingly, we have determined that we have a single reportable segment and operating unit structure. 
+  Revenue by geographic region is presented as follows (in thousands):   
+
+8. Commitments and Contingencies 
+  Legal Matters 
+  On April 18, 2016, R. David Hunt, as Seller Representative of stockholders of C2C Systems Limited ("C2C"), filed a lawsuit against us in the Court of Chancery of the State of Delaware, for alleged breach of contract of the Share Purchase Agreement dated August 13, 2014, pursuant to which we acquired all of the assets and liabilities of C2C. The parties are engaged in discovery. We intend to vigorously defend this lawsuit. Given the early stage of the litigation, we are unable to estimate a possible loss or range of possible loss, if any. 
+  On September 21, 2016, Marking Object Virtualization Intelligence, LLC filed a lawsuit against us in the United States District Court for the Eastern District of Texas, Marshall Division, alleging that certain of our products infringe U.S. patent numbers 6,802,006, 6,510,516 and 7,650,504. We have not yet responded to the complaint. We intend to vigorously defend this lawsuit. Given the early stage of the litigation, we are unable to estimate a possible loss or range of possible loss, if any. 
+  We may, from time to time, be party to litigation and subject to claims that arise in the ordinary course of business. In addition, third parties may, from time to time, assert claims against us in the form of letters and other communications. We currently believe that these ordinary course matters will not have a material adverse effect on our business, consolidated financial position, results of operations or cash flows; however, the results of litigation and claims are inherently unpredictable.  
+  
+   18 
+
+     Table of Contents  
+
+Regardless of the outcome, litigation can have an adverse impact on us because of defense and settlement costs, diversion of management resources and other factors. 
+   
+  9. Net Income (Loss) Per Share 
+  The following table presents the calculation of basic and diluted net income (loss) per share (in thousands, except per share amounts):   
+
+19 
+
+Table of Contents  
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+  You should read the following discussion and analysis of our financial condition and results of operations together with our condensed consolidated financial statements and related notes that are included elsewhere in this Quarterly Report on Form 10-Q and our Annual Report on Form 10-K for the fiscal year ended   February 29, 2016  . The last day of our fiscal year is February 28/29. Our fiscal quarters end on May 31, August 31, November 30 and February 28/29. This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth in Part I, Item 1A of our Annual Report on Form 10-K for the fiscal year ended   February 29, 2016  . 
+  Overview 
+  Barracuda designs and delivers powerful yet easy-to-use security and data protection solutions. We offer cloud-enabled solutions that empower customers to address security threats, improve network performance, and protect and store their data. Our solutions are designed to simplify IT operations for our customers, allowing them to enhance their return on technology investment. Our business model is built on the core values of speed and agility, which we apply to all aspects of our approach, including our technology innovations, the delivery and deployment of our solutions, and responses to customer inquiries.  
+  We derive revenue from sales of appliances and subscriptions. Revenue from the sale of our appliances includes hardware and a software license. Subscription revenue is generated primarily from our subscription services such as our Barracuda Energize Updates. Subscription revenue also includes revenue from fixed term licenses of our virtual appliance software, support and maintenance. Our subscriptions include monthly and annual terms ranging from one to five years, the substantial majority of which are for one-year periods. Subscriptions are billed in advance of the purchased subscription period. Renewal rates from subscriptions, on a dollars basis, were   96%   and   95%   for the   three and six   months ended   August 31, 2016  , respectively, and   95%   and   94%   for the   three and six   months ended   August 31, 2015  , respectively. Subscription annual recurring revenue, which is the annualized dollar amount of recurring subscription revenue in the final month of the fiscal quarter, increased to   $270.1 million   as of   August 31, 2016   from   $220.4 million   as of   August 31, 2015  . 
+  The growth of our business and our future success depend on many factors, including our ability to continue to expand our customer base, pursue cross-sale opportunities and grow revenues from our existing customer base, expand our distribution channels, continue to develop new solutions to promptly respond to our customers  needs and our ability to successfully integrate acquisitions into our business, particularly Intronis, Inc. ("Intronis"). As our existing customers  IT buying needs evolve, or as our customers realize the benefits of the solutions that they previously purchased, our portfolio of solutions provides us an opportunity to cross-sell additional solutions. Customers who successfully deploy more than one type of solution provide substantially more customer lifetime value to us, and can derive greater value from our solutions as they benefit from synergies in management, support and functionality. 
+  In addition to our cross-sell efforts, our sales and marketing initiatives are primarily focused on higher-growth segments within the security and data protection markets. Our future success will depend in part on our ability to continue to timely identify these higher-growth segments and expand our sales within them. While these areas represent significant opportunities for us, they also pose risks and challenges that we must successfully address in order to sustain the growth of our business and improve our operating results. 
+  Furthermore, our business depends on the overall demand for security and data protection solutions. Weak global economic conditions, particularly market and financial uncertainty and instability in the United States and Europe, or a reduction in security and data protection solution spending even if general economic conditions are unaffected, could adversely impact our business, financial condition and operating results in a number of ways. Additionally, we face significant competition across all of our market segments, and must continue to execute across all functions and add qualified personnel to succeed. 
+  Our Business Model 
+  We generally invoice at the time of sale for the total price of the solutions we deliver, and we typically collect cash in 30 to 60 days. We refer to the total amount of invoices we issue in a period as gross billings. All of the gross billings we record are recognized as revenue ratably under U.S. generally accepted accounting principles ("GAAP"), once all revenue recognition criteria have been met. Gross billings are initially recorded as deferred revenue, less reserves. The hardware appliance component of our gross billings is recognized ratably as revenue over the estimated customer relationship period, which is typically three years, commencing upon the activation of the unit by the end customer. The subscription component of our gross billings is recognized ratably as revenue over the contractual period of the subscription. Because we typically bill in  
+  
+   20 
+
+     Table of Contents  
+
+advance for the entire term, substantially all of our new and renewal gross billings increase our deferred revenue balance, which contributes significantly to our cash flow. 
+   
+  Key Metrics 
+  We monitor the following key metrics to help us evaluate growth trends, establish budgets and assess operational efficiencies. In addition to our results determined in accordance with GAAP, we believe the following non-GAAP and operational measures are useful in evaluating our operating performance. 
+  The following table presents our key metrics and provides reconciliations of the most directly comparable GAAP financial measure to each non-GAAP financial measure (in thousands, except active subscribers and percentages):   
+
+   ______________________ 
+            (1)   
+    In order to determine how our business performed exclusive of the effect of foreign currency fluctuations, we compare the percentage change in our gross billings from one period to another using a constant currency. To present this gross billings information, the current and comparative prior period results for entities that operate in other than U.S. dollars are converted into U.S. dollars at constant exchange rates. For example, the rates in effect at   August 31, 2015  , which was the last day of our prior fiscal year s comparable quarter, were used to convert current and comparable prior period gross billings rather than the actual exchange rates in effect during the respective period. 
+     Gross billings  . We define gross billings as total revenue plus the change in deferred revenue and other adjustments which primarily reflect returns and reserves during a particular period. We use gross billings as a performance measurement, based on our business model of invoicing our customers at the time of sale of our solutions and recognizing revenue ratably over subsequent periods. Accordingly, we believe gross billings provide valuable insight into the sales of our solutions and the performance of our business. The gross billings we record in any period reflect sales to new customers plus renewals and additional sales to existing customers adjusted for returns, rebates and other offsets, which we do not expect to be recognized as revenue in future periods. In many cases, these returns, rebates and other offsets occur in periods different from the period of sale and are unrelated to the marketing efforts leading to the initial sale, and therefore by adjusting for such offsets, we believe our computation of gross billings better reflects the effectiveness of our sales and marketing efforts. 
+  The following table reconciles total revenue to gross billings (in thousands, except percentages):   
+
+21 
+
+     Table of Contents  
+
+______________________ 
+            (1)   
+    The balances for the prior fiscal year's comparable quarters presented exclude any amounts related to the acquisition date deferred revenue assumed from C2C Systems Limited ("C2C"), which closed in the second quarter of fiscal 2015. We believe adjusting for the fair value of the assumed performance obligation allows us to better compare gross billings and adjusted EBITDA from period to period in order to assess the ongoing results of our business. 
+               (2)   
+    In order to determine how our business performed exclusive of the effect of foreign currency fluctuations, we compare the percentage change in our gross billings from one period to another using a constant currency. To present this gross billings information, the current and comparative prior period results for entities that operate in other than U.S. dollars are converted into U.S. dollars at constant exchange rates. For example, the rates in effect at   August 31, 2015  , which was the last day of our prior fiscal year s comparable quarter, were used to convert current and comparable prior period gross billings rather than the actual exchange rates in effect during the respective period. 
+     In the   three and six   months ended   August 31, 2016  , gross billings increased   2%   and   3%  , respectively, over the prior year s comparable periods. The increases in gross billings were primarily driven by our continued ability to cross-sell additional solutions to existing customers and the growth in our renewal subscriptions as a result of our high level of customer retention as well as additional lead generation opportunities and associated new customer billings. For the   three and six   months ended   August 31, 2016  , increased sales of our core products, such as our NextGen Firewall and Web Application Firewall solutions, and the expansion of our MSP channel through the addition of new partners and products to our MSP platform, were the primary drivers for the increased gross billings. When evaluating our gross billings from period to period, we also evaluate our gross billings for the comparable period using a fixed exchange rate, thereby excluding the effect of currency fluctuations. 
+  Adjusted EBITDA  . We define adjusted EBITDA as net income (loss) plus non-cash and non-operating charges, which includes other expense (income), net, provision for income taxes, acquisition and other non-recurring charges, stock-based compensation expense and depreciation, amortization and impairment expense related to property and equipment and intangible assets. Because of our business model, where revenue from gross billings is recognized ratably over subsequent periods, substantially all of our gross billings increase deferred revenue. Therefore, we believe that adjusting net income (loss) for increases in deferred revenue and increases in the associated deferred costs provides another indication of profitability from our operations. We use adjusted EBITDA to measure our performance, prepare our budgets and establish metrics for variable compensation. Because adjusted EBITDA excludes certain non-cash and non-operating charges, this measure enables us to eliminate the impact of items we do not consider indicative of our core operating performance and to better measure our performance on a consistent basis from period to period.  
+  The following table reconciles net income (loss) to adjusted EBITDA (in thousands, except percentages):   
+
+   ______________________  
+            (1)   
+    The balances for the prior fiscal year's comparable quarters presented exclude any amounts related to the acquisition date deferred revenue assumed from C2C, which closed in the second quarter of fiscal 2015. We believe adjusting for the fair value of the assumed performance obligation allows us to better compare gross billings and adjusted EBITDA from period to period in order to assess the ongoing results of our business. 
+     
+   22 
+
+     Table of Contents  
+
+(2)   
+    Represents expenses for the depreciation and amortization of property and equipment and intangible assets, as well as certain losses on disposal and impairment of long-lived assets. 
+               (3)   
+    In calculating adjusted EBITDA and free cash flow, we also adjust for acquisition and other non-recurring charges that we do not expect to recur in our continuing operating results. We believe that adjusting for these charges allows us to better compare adjusted EBITDA and free cash flow from period to period in order to assess the ongoing operating results of our business. Refer to the "Acquisition and Other Non-Recurring Charges" section below for additional details regarding these charges. 
+     Adjusted EBITDA increased to   $24.7 million   in the three months ended   August 31, 2016   from   $17.7 million   in the three months ended   August 31, 2015  , and increased to   $42.6 million   in the   six   months ended   August 31, 2016   from   $33.4 million   in the   six   months ended   August 31, 2015  . The increases in adjusted EBITDA were primarily driven by lower sales and marketing expenses due to the timing and nature of certain marketing campaigns. We expect sales and marketing expenses to increase as we continue to introduce marketing campaigns and invest in sales resources in key focus areas, while remaining focused on profitability and optimizing our cost structure. 
+  Free cash flow  . We define free cash flow as cash provided by operating activities, less purchases of property and equipment plus acquisition and other non-recurring charges. We consider free cash flow to be a useful liquidity measure that considers the investment in cloud and corporate infrastructure required to support our business and the impact of acquisition-related expenses and other non-recurring charges. We use free cash flow to assess our business performance and evaluate the amount of cash generated by our business after adjusting for purchases of property and equipment and acquisition and other non-recurring charges. 
+  The following table reconciles net cash provided by operating activities to free cash flow (in thousands, except percentages):   
+
+   ______________________  
+            (1)   
+    In calculating adjusted EBITDA and free cash flow, we also adjust for acquisition and other non-recurring charges that we do not expect to recur in our continuing operating results. We believe that adjusting for these charges allows us to better compare adjusted EBITDA and free cash flow from period to period in order to assess the ongoing operating results of our business. Refer to the "Acquisition and Other Non-Recurring Charges" section below for additional details regarding these charges. 
+     Free cash flow decreased to   $20.3 million   in the three months ended   August 31, 2016   from   $21.1 million   in the three months ended   August 31, 2015  , primarily driven by a $1.8 million decrease in net cash provided by operating activities. Free cash flow increased to   $31.2 million   in the   six   months ended   August 31, 2016   from   $26.4 million   in the   six   months ended   August 31, 2015  , driven primarily by a $4.0 million increase in net cash provided by operating activities as we continue to incur lower sales and marketing expenses due to the timing and nature of certain marketing campaigns. 
+  Active subscribers  . We define an active subscriber as a discrete appliance, virtual appliance or cloud-only service that has activated at least one valid subscription that has not been terminated. We monitor the total number of active subscribers as a measure of the growth in our installed base, the success of our sales and marketing activities and the value that our solutions bring to our customers. As of   August 31, 2016   and   2015  , we had   298,739   and   261,613   active subscribers, respectively. The increase in active subscribers over these periods is primarily related to our ability to attract and acquire new customers. 
+  Our non-GAAP measures have limitations as analytical tools and you should not consider them in isolation or as a substitute for an analysis of our results under GAAP. There are a number of limitations related to the use of these non-GAAP financial measures versus their nearest GAAP equivalents. First, gross billings, adjusted EBITDA and free cash flow are not substitutes for total revenue, net income (loss) and cash provided by operating activities, respectively. Second, other companies may calculate non-GAAP financial measures differently or may use other measures to evaluate their performance, all of which  
+  
+   23 
+
+     Table of Contents  
+
+could reduce the usefulness of our non-GAAP financial measures as tools for comparison. Finally, adjusted EBITDA excludes some costs, namely, non-cash stock-based compensation and depreciation, amortization and impairment expenses, which are recurring. Therefore adjusted EBITDA does not reflect the non-cash impact of stock-based compensation expense or working capital needs that will continue for the foreseeable future. 
+  Acquisition and Other Non-Recurring Charges 
+  In calculating adjusted EBITDA and free cash flow, we also adjust for acquisition and other non-recurring charges that we do not expect to recur in our continuing operating results. We believe that adjusting for these charges allows us to better compare adjusted EBITDA and free cash flow from period to period in order to assess the ongoing operating results of our business. We refer to costs related to acquisitions and export compliance as our "acquisition and other non-recurring charges" throughout this Quarterly Report on Form 10-Q. These costs consist of the following: 
+  Acquisition costs  . Acquisition costs include the legal, valuation consulting and other expenses incurred in connection with acquisitions, the fair value remeasurements of contingent considerations, the expenses under the terms of certain acquisition and incentive agreements and other non-recurring expenses. Additionally, acquisition costs include the legal expenses incurred by us in connection with the C2C litigation matter involving R. David Hunt, as Seller Representative of stockholders of C2C, as further described in "Part II   Other Information, Item 1 - Legal Proceedings" of this Quarterly Report on Form 10-Q. These costs are classified within operating expenses in our condensed consolidated statements of operations. 
+  Export compliance  . Export compliance costs include the settlement payments and the legal expenses incurred in connection with an internal investigation of our export controls compliance procedures and the submission and final resolution of all issues associated with our voluntary self-disclosures to the U.S. government in this regard. These costs are classified as general and administrative expenses in our condensed consolidated statements of operations.  
+  Intellectual property settlement  . Intellectual property settlement costs represent the allocated charges for the resolution of any past intellectual property infringement claims and the settlement payments. These costs are classified as general and administrative expenses in our condensed consolidated statements of operations. 
+    
+  The following table presents the details of our acquisition and other non-recurring charges and their impact on adjusted EBITDA (in thousands):   
+
+  The following table presents the details of our acquisition and other non-recurring charges and their impact on free cash flow (in thousands):   
+
+Components of Results of Operations 
+  Revenue 
+  We generate revenue from the sales of our appliances and subscriptions.    
+             
+    Appliance Revenue  . Revenue from the sale of our appliances includes hardware and a software license. We recognize hardware appliance revenue over the estimated customer relationship period of three years, commencing with the end- 
+     
+   24 
+
+     Table of Contents  
+
+user s activation of the appliance and related subscription, provided all other criteria for the recognition of appliance revenue are met.  
+             
+    Subscription Revenue  . Subscription revenue is generated primarily from our subscription services such as our Barracuda Energize Updates. Subscription revenue also includes revenue from fixed term licenses of our virtual appliance software, support and maintenance. Our subscription terms include monthly and annual terms ranging from one year to five years, the substantial majority of which are for one year periods. We recognize revenue from subscriptions and support and maintenance over the contractual service period. 
+     Cost of Revenue 
+  Cost of revenue consists of costs related to our appliance and subscription revenue. Such costs include hardware, manufacturing, shipping and logistics, customer support, warranty, personnel costs, data center costs and amortization of intangible assets related to acquired technology. We expect our cost of revenue to increase in absolute dollars, although it may fluctuate as a percentage of total revenue from period to period, as we continue to grow. 
+  Gross Profit 
+  Gross profit as a percentage of total revenue, or gross margin, has been and will continue to be affected by a variety of factors, including manufacturing costs, cost of technical support and the mix of our solutions sold. We expect our gross profit to fluctuate over time depending on the factors described above. 
+  Operating Expenses 
+  Our operating expenses consist of research and development, sales and marketing and general and administrative expenses. Personnel costs are the most significant component of operating expenses and consist of salaries, benefits, bonuses, stock-based compensation expense and travel-related expenses. Operating expenses also include allocated overhead costs for facilities, IT and depreciation. We expect operating expenses to increase in absolute dollars, although they may fluctuate as a percentage of total revenue from period to period, as we continue to grow. In particular, we expect our stock-based compensation expense to increase in absolute dollars as a result of our existing stock-based compensation expense to be recognized as options and restricted stock units ("RSUs") vest and as we issue additional stock-based awards to attract and retain employees. 
+             
+    Research and development  . Research and development expenses consist primarily of salaries, benefits and stock-based compensation for employees and executives on our engineering and technical teams who are responsible for increasing the functionality and enhancing the ease-of-use of our appliance and subscription services, as well as the development of new products. We expense our research and development costs as they are incurred. We expect research and development expenses to increase in absolute dollars as we continue to invest in our future solutions, although our research and development expenses may fluctuate as a percentage of total revenue. 
+                
+    Sales and marketing.   Our sales and marketing expenses consist primarily of advertising, as well as salaries, commissions, benefits and stock-based compensation for our employees and executives engaged in sales, sales support, marketing, business development and customer service functions. Our advertising expenses include the costs of cooperative marketing programs developed with our channel partners and other marketing programs such as online lead generation, promotional events and web seminars. We market and sell our subscription services worldwide through our sales organization and distribution channels, such as strategic resellers and distributors. We capitalize and amortize the direct and incremental portion of our sales commissions over the period the related revenue is recognized. We expect sales and marketing expenses to increase in absolute dollars as we continue to introduce marketing campaigns and invest in sales resources in key focus areas, although our sales and marketing expenses may fluctuate as a percentage of total revenue. 
+                
+    General and administrative.   Our general and administrative expenses consist primarily of salaries, benefits and stock-based compensation for our finance, legal, regulatory and compliance, human resources and other administrative employees and executives. In addition, general and administrative expenses include outside consulting, legal and accounting services and facilities and other supporting overhead costs. We expect general and administrative expenses to increase in absolute dollars due to accounting, insurance, investor relations and other costs associated with being a public company, although our general and administrative expenses may fluctuate as a percentage of total revenue. 
+     Other Income (Expense), Net 
+  
+   25 
+
+     Table of Contents  
+
+Other income (expense), net consists primarily of foreign exchange gains and losses, interest expense on our outstanding debt, and interest income earned on our cash, cash equivalents and marketable securities, as well as realized gains and losses from our marketable securities portfolio. We expect interest income will vary each reporting period depending on our average investment balances during the period, types and mix of investments and market interest rates. 
+  Provision for Income Taxes 
+  Our provision for income taxes consists primarily of federal and state income taxes in the United States and income taxes in foreign jurisdictions in which we conduct business. We estimate income taxes in each of the jurisdictions in which we operate. This process involves determining income tax expense together with calculating the deferred income tax expense related to temporary differences resulting from the differing treatment of items for tax and accounting purposes. Deferred tax assets and liabilities are measured using enacted tax rates in effect for the year in which those temporary differences are expected to be recovered or settled. These temporary differences result in deferred tax assets and liabilities, which are included within our condensed consolidated balance sheets. Deferred tax assets are recognized for deductible temporary differences, along with net operating loss and credits carryforwards, if it is more likely than not that the tax benefits will be realized. 
+   
+  Results of Operations 
+  Comparison of the Three Months Ended   August 31, 2016   and   2015 
+  The following table summarizes our condensed consolidated results of operations for the periods presented and as a percentage of our total revenue for those periods (dollars in thousands): 
+
+Revenue 
+  Total revenue increased   $9.6 million  , or   12%  , for the three months ended   August 31, 2016   compared to the three months ended   August 31, 2015  . Subscription revenue increased by   $10.8 million  , or   19%  , primarily driven by the inclusion of revenue from Intronis, which was acquired in October 2015, and an increase in active subscribers during the period of   37,126  , or   14%  , from   261,613   active subscribers as of   August 31, 2015   to   298,739   active subscribers as of   August 31, 2016  . The increase in active subscribers was primarily driven by our high level of customer retention and an increase in the number of customers purchasing subscriptions from us. Total appliance revenue decreased by   $1.3 million  , or   6%  , primarily due to the continuing shift by our customers from traditional and solely on-premises deployments to include the cloud, which includes hybrid network architectures, public and/or private clouds, software-as-a-service applications and managed service solutions. 
+  
+   26 
+
+     Table of Contents  
+
+Cost of Revenue and Gross Margin 
+  Cost of revenue increased   $4.3 million  , or   27%  , for the three months ended   August 31, 2016   compared to the three months ended   August 31, 2015   commensurate with the increase in total revenue for the comparable periods. Gross margin decreased from   80%   for the three months ended   August 31, 2015   to   77%   for the three months ended   August 31, 2016  , primarily due to product mix shifts and increased service delivery costs, warranty costs, amortization of intangible assets and depreciation expenses primarily related to our Intronis acquisition. Additionally, our gross margin is generally impacted by the timing of investments in our data center infrastructure and our technical support. 
+  Operating Expenses 
+  Research and development expenses increased   $0.9 million  , or   5%  , for the three months ended   August 31, 2016   compared to the three months ended   August 31, 2015  , primarily due to increases of $0.6 million in stock-based compensation expense, $0.6 million in consulting costs and $0.4 million in compensation and personnel costs, primarily attributable to additional headcount associated with recent acquisitions and higher compensation rates, partially offset by decreases of $0.3 million in travel and other related costs, $0.1 million in internal use development equipment and services, $0.1 million in IT-related infrastructure expenses and $0.1 million in license and service fees. As a percentage of total revenue, research and development expenses remained relatively consistent for the comparable period. 
+  Sales and marketing expenses decreased   $2.3 million  , or   7%  , for the three months ended   August 31, 2016   compared to the three months ended   August 31, 2015  , primarily due to decreases of $3.6 million in marketing and channel partner program expenses, primarily attributable to lower search engine marketing expenditures, and $0.4 million in travel and other related costs, partially offset by increases of $0.7 million in compensation and personnel costs, primarily attributable to additional headcount associated with recent acquisitions, $0.4 million in amortization expense of intangible assets, $0.3 million in stock-based compensation expense and $0.2 million in consulting costs. As a percentage of total revenue, sales and marketing expenses decreased for the comparable period primarily due to the timing and nature of marketing campaigns. We expect sales and marketing expenses to increase for the remainder of fiscal 2017 as we introduce new marketing campaigns and invest in sales resources in key focus areas, which may increase sales and marketing expenses as a percentage of total revenue.  
+  General and administrative expenses increased   $0.2 million  , or   2%  , for the three months ended   August 31, 2016   compared to the three months ended   August 31, 2015  . As a percentage of total revenue, general and administrative expenses remained relatively consistent for the comparable period. 
+  Other Income, Net 
+  The change in other income, net was primarily due to an increase in net foreign exchange gains of $0.7 million and an increase in realized gains from the sale of marketable securities of $0.7 million during the three months ended   August 31, 2016   compared to the three months ended   August 31, 2015  . 
+  Provision for Income Taxes 
+  We recorded an income tax provision of   $5.2 million   for the three months ended   August 31, 2016  . The difference between the income tax provision that would be derived by applying the statutory rate to our before tax income for the three months ended   August 31, 2016   and the income tax provision actually recorded is primarily due to the temporary differences we do not expect to benefit from due to our valuation allowance, as well as non-deductible stock-based compensation expense and other currently non-deductible items. For the three months ended   August 31, 2015  , we recorded an income tax provision of   $2.0 million  . 
+  
+   27 
+
+Table of Contents  
+
+Comparison of the   Six Months Ended August 31, 2016   and   2015 
+  The following table summarizes our condensed consolidated results of operations for the periods presented and as a percentage of our total revenue for those periods (dollars in thousands): 
+
+Revenue 
+  Total revenue increased   $18.2 million  , or   12%  , for the   six   months ended   August 31, 2016   compared to the   six   months ended   August 31, 2015  . Subscription revenue increased by   $21.8 million  , or   20%  , primarily due to an increase in active subscribers during the period of   37,126  , or   14%  , from   261,613   active subscribers as of   August 31, 2015   to   298,739   active subscribers as of   August 31, 2016  . This increase primarily resulted from our high level of customer retention and an increase in the number of customers purchasing subscriptions. Total appliance revenue decreased by   $3.6 million  , or   8%  , primarily due to the continuing shift by our customers from traditional and solely on-premises deployments to include the cloud, which includes hybrid network architectures, public and/or private clouds, software-as-a-service applications and managed service solutions. 
+  Cost of Revenue and Gross Margin 
+  Cost of revenue increased   $8.6 million  , or   27%  , for the   six   months ended   August 31, 2016   compared to the   six   months ended   August 31, 2015   commensurate with the increase in total revenue for the comparable periods. Gross margin decreased from   80%   for the   six   months ended   August 31, 2015   to   77%   for the   six   months ended   August 31, 2016  , primarily due to product mix shifts and increased service delivery costs, warranty costs, amortization of intangible assets and depreciation expenses primarily related to our Intronis acquisition. Additionally, our gross margin is generally impacted by the timing of investments in our data center infrastructure and our technical support. 
+  Operating Expenses 
+  Research and development expenses increased   $2.2 million  , or   6%  , for the   six   months ended   August 31, 2016   compared to the   six   months ended   August 31, 2015  , primarily due to increases of $1.4 million in consulting costs, $1.2 million in stock-based compensation expense and $0.5 million in compensation and personnel related costs, primarily attributable to additional headcount associated with recent acquisitions and higher compensation rates, partially offset by decreases of $0.5 million in travel and other related costs, $0.2 million in internal use development equipment and service and $0.2 million in IT-related infrastructure expenses, As a percentage of total revenue, research and development expenses remained relatively consistent for the comparable period. 
+  
+   28 
+
+     Table of Contents  
+
+Sales and marketing expenses decreased   $5.1 million  , or   7%  , for the   six   months ended   August 31, 2016   compared to the   six   months ended   August 31, 2015  , primarily due to decreases of $9.0 million in marketing and channel partner program expenses, primarily attributable to lower search engine marketing expenditures and event and trade show costs, and $0.6 million in travel and other related costs, partially offset by increases of $2.6 million in compensation and personnel costs, primarily attributable to additional headcount associated with recent acquisitions, $0.8 million in amortization expense of intangible assets, $0.6 million in stock-based compensation expense and $0.2 million in consulting costs. As a percentage of total revenue, sales and marketing expenses decreased for the comparable period mainly due to the timing and nature of marketing campaigns. We expect sales and marketing expenses to increase for the remainder of fiscal 2017 as we introduce new marketing campaigns and invest in sales resources in key focus areas, which may increase sales and marketing expenses as a percentage of total revenue.  
+  General and administrative expenses increased   $0.3 million  , or   1%  , for the   six   months ended   August 31, 2016   compared to the   six   months ended   August 31, 2015  . As a percentage of total revenue, general and administrative expenses remained relatively consistent for the comparable period. 
+  Other Income (Expense), Net 
+  The change in other income (expense), net was primarily due to an increase in net foreign exchange gains of $1.8 million and an increase in realized gains from the sale of marketable securities of $1.1 million during the   six   months ended   August 31, 2016   compared to the   six   months ended   August 31, 2015  . 
+  Provision for Income Taxes 
+  We recorded an income tax provision of   $8.5 million   for the   six   months ended   August 31, 2016  . The difference between the income tax provision that would be derived by applying the statutory rate to our before-tax income for the   six   months ended   August 31, 2016   and the income tax provision actually recorded is primarily due to the temporary differences we do not expect to benefit from due to our valuation allowance, as well as non-deductible stock-based compensation expense and other currently non-deductible items. For the   six   months ended   August 31, 2015  , we recorded an income tax provision of   $4.5 million  . 
+   
+  Liquidity and Capital Resources    
+
+As of   August 31, 2016  , we had cash and cash equivalents of   $139.2 million  , of which approximately $10.1 million was held outside of the United States and not presently available to fund domestic operations and obligations. In addition, we held marketable securities of   $40.4 million   as of   August 31, 2016  . If we were to repatriate cash held outside of the United States, it could be subject to U.S. income taxes, less any previously paid foreign income taxes.  
+  Furthermore, we have a $25.0 million credit facility with Silicon Valley Bank which expires in November 2016. The credit facility includes an option to request an increase of the available funds to $50.0 million and is secured by a security interest on substantially all of our assets and contains restrictive covenants. Upon drawing the credit facility, the financial covenants will require us to maintain a minimum adjusted EBITDA, as defined in the credit facility, and a minimum adjusted quick ratio. The credit facility also sets forth specified events of default. No amounts had been drawn under the credit facility through   August 31, 2016  . 
+  We believe that our existing cash, cash equivalents and marketable securities, our available credit facility and net cash provided by operating activities will be sufficient to meet our working capital and capital expenditure requirements, as well as to fund any principal and interest payments on notes payable and repurchases of our common stock, for at least the next 12 months. Our future capital requirements will depend on many factors including our growth rate, the timing and extent of spending to support development efforts, the expansion of sales and marketing activities, the introduction of new and enhanced solutions and service offerings and the continuing market acceptance of our solutions. In the event that additional financing is  
+  
+   29 
+
+     Table of Contents  
+
+required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital when desired, our business, operating results and financial condition would be adversely affected. 
+  In addition, as described in "Legal Proceedings" included in Part II, Item 1 of this Quarterly Report on Form 10-Q, we are currently involved in ongoing litigation. Any adverse settlements or judgments in any litigation could have a material adverse impact on our results of operations, cash balances and cash flows in the period in which such events occur. 
+  Operating Activities 
+  Our primary source of cash from operating activities has been from cash collections from our customers. We expect cash inflows from operating activities to be affected by increases in sales and timing of collections. Our primary uses of cash from operating activities have been for personnel costs and investment in sales and marketing and research and development infrastructure. We expect cash outflows from operating activities to be affected by increases in sales and increases in personnel costs as we grow our business. 
+  For the   six   months ended   August 31, 2016  , operating activities provided   $32.6 million   in cash primarily due to non-cash charges of $24.3 million related to stock-based compensation, depreciation and amortization expenses, our consolidated net income of   $5.2 million   and a positive change of $4.2 million in our net operating assets and liabilities. 
+  For the   six   months ended   August 31, 2015  , operating activities provided   $28.6 million   in cash primarily due to a positive change of $18.9 million in our net operating assets and liabilities and non-cash charges of $18.2 million related to stock-based compensation, depreciation and amortization expenses, partially offset by our consolidated net loss of $6.1 million and excess tax benefits from equity compensation plans of $3.3 million. 
+  Investing Activities 
+  Our investing activities have generally consisted of transactions related to marketable and non-marketable securities, purchases of property and equipment, and activity in connection with acquisitions. We expect to continue to purchase property and equipment to support the continued growth of our business as well as continue to invest in our data center infrastructure. 
+  Cash used in investing activities of   $8.3 million   in the   six   months ended   August 31, 2016   was primarily related to purchases of marketable securities of   $21.8 million  , property and equipment of   $3.0 million  , intangible assets of   $1.0 million   and non-marketable investments of   $0.6 million  , partially offset by proceeds from the sale and maturity of certain marketable securities of $18.3 million. 
+  Cash used in investing activities of   $6.9 million   in the   six   months ended   August 31, 2015   was primarily related to purchases of marketable securities of $14.2 million, property and equipment of $3.4 million, acquisition related payments of $0.7 million and investments of $0.4 million in non-marketable securities, partially offset by proceeds from the sale and maturity of certain marketable securities of $11.8 million. 
+  Our annual capital expenditures generally have varied between approximately 2% and 5% of annual total revenue. We believe future capital expenditures are likely to be consistent with historical experience with variations above or below the range depending upon specific strategic opportunities. 
+  Financing Activities 
+  Our financing activities generally consist of equity related transactions, including proceeds from the exercises of employee stock options, excess tax benefits from equity incentive plans and tax payments associated with the net share settlements of equity awards, and repurchases of common stock. 
+  For the   six   months ended   August 31, 2016  , financing activities used   $4.3 million   in cash primarily related to repurchases of our common stock of   $7.2 million   and tax payments related to   $2.5 million   of net share settlements of equity awards, partially offset by proceeds from stock option exercises of   $4.9 million  . 
+  For the   six   months ended   August 31, 2015  , financing activities provided   $0.7 million   in cash primarily from various equity related transactions, including proceeds from stock option exercises of $4.3 million and excess tax benefits from equity compensation plans of $3.3 million. These cash inflows were partially offset by tax payments related to $4.0 million of net share settlements of equity awards and payments of $2.5 million related to remittances to tax authorities for employee equity transactions. 
+  
+   30 
+
+Table of Contents  
+
+Contractual Obligations and Commitments 
+  There have been no material changes outside the ordinary course of our business in the contractual obligations disclosed in our Annual Report on Form 10-K for the fiscal year ended   February 29, 2016  . 
+  Off-Balance Sheet Arrangements 
+  As of   August 31, 2016  , we did not have any relationships with unconsolidated organizations or financial partnerships, such as structured finance or special purpose entities that would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. 
+  Critical Accounting Policies and Estimates 
+  Our condensed consolidated financial statements have been prepared in accordance with GAAP. The preparation of these condensed consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, expenses and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe are reasonable under the circumstances. We evaluate our estimates and assumptions on an ongoing basis. Actual results may differ from these estimates. To the extent that there are material differences between these estimates and our actual results, our future financial statements will be affected. 
+  There have been no significant changes to our critical accounting policies and estimates as disclosed in our Annual Report on Form 10-K for the fiscal year ended   February 29, 2016  . 
+  JOBS Act Accounting Election 
+  We are an "emerging growth company," as defined in the Jumpstart Our Business Startup Act of 2012 (the "JOBS Act"). Under the JOBS Act, emerging growth companies can delay adopting new or revised accounting standards issued subsequent to the enactment of the JOBS Act until such time as those standards apply to private companies. We have irrevocably elected not to avail ourselves of this exemption from new or revised accounting standards, and, therefore, will be subject to the same new or revised accounting standards as other public companies that are not emerging growth companies. 
+  Recent Accounting Pronouncements 
+  Refer to "Recent Accounting Pronouncements" in Note 1 to Condensed Consolidated Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q. 
+   
+  Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+  The market risk exposures described in Part II, Item 7A of our Annual Report on Form 10-K for the fiscal year ended   February 29, 2016   have not changed materially during the   six   months ended   August 31, 2016  . 
+   
+  Item 4. Controls and Procedures 
+  Evaluation of Disclosure Controls and Procedures 
+  Our management is responsible for establishing and maintaining adequate internal control over financial reporting. Management, with the participation of our chief executive officer ("CEO") and our chief financial officer ("CFO"), evaluated the effectiveness of our disclosure controls and procedures as of the end of the period covered by this Quarterly Report on Form 10-Q. The term "disclosure controls and procedures," as defined in Rules 13a-15 and 15d-15 under the Securities Exchange Act of 1934, as amended (the "Exchange Act"), means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the Securities and Exchange Commission s (the "SEC") rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company s management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives, and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible  
+  
+   31 
+
+     Table of Contents  
+
+controls and procedures. Based on the evaluation of our disclosure controls and procedures as of   August 31, 2016  , our CEO and CFO concluded that our disclosure controls and procedures were effective at a reasonable assurance level. 
+  Changes in Internal Control over Financial Reporting 
+  There were no changes in our internal control over financial reporting identified in connection with the evaluation required by Rule 13a-15 and 15d-15 of the Exchange Act that occurred during the quarter ended   August 31, 2016   that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+  Inherent Limitations of Internal Controls 
+  Our management, including our CEO and CFO, does not expect that our disclosure controls and procedures or our internal controls over financial reporting will prevent or detect all error and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the controls. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+  
+   32 
+
+Table of Contents  
+
+PART II   OTHER INFORMATION    
+   
+  Item 1. Legal Proceedings  
+  On April 18, 2016, R. David Hunt, as Seller Representative of stockholders of C2C Systems Limited ("C2C"), filed a lawsuit against us in the Court of Chancery of the State of Delaware, for alleged breach of contract of the Share Purchase Agreement dated August 13, 2014, pursuant to which we acquired all of the assets and liabilities of C2C. The parties are engaged in discovery. We intend to vigorously defend this lawsuit. Given the early stage of the litigation, we are unable to estimate a possible loss or range of possible loss, if any. 
+  On September 21, 2016, Marking Object Virtualization Intelligence, LLC filed a lawsuit against us in the United States District Court for the Eastern District of Texas, Marshall Division, alleging that certain of our products infringe U.S. patent numbers 6,802,006, 6,510,516 and 7,650,504. We have not yet responded to the complaint. We intend to vigorously defend this lawsuit. Given the early stage of the litigation, we are unable to estimate a possible loss or range of possible loss, if any. 
+  We may, from time to time, be party to litigation and subject to claims that arise in the ordinary course of business. In addition, third parties may, from time to time, assert claims against us in the form of letters and other communications. We currently believe that these ordinary course matters will not have a material adverse effect on our business, consolidated financial position, results of operations or cash flows; however, the results of litigation and claims are inherently unpredictable. Regardless of the outcome, litigation can have an adverse impact on us because of defense and settlement costs, diversion of management resources and other factors. 
+   
+  Item 1A. Risk Factors  
+  Our operations and financial results are subject to various risks and uncertainties, including those described below. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties that we are unaware of, or that we currently believe are not material, may also become important factors that affect us. If any of the following risks occur, our business, financial condition, operating results and prospects could be materially and adversely affected. In that event, the price of our common stock could decline. You should carefully consider the risks and uncertainties described in our most recent Annual Report on Form 10-K, together with all of the other information in this Quarterly Report on Form 10-Q, before making a decision to invest in our common stock. 
+  A description of the risks associated with our business, financial condition, and results of operations is set forth in Part I, Item 1A, of our Annual Report on Form 10-K for the fiscal year ended   February 29, 2016  . There have been no material changes in our risks from such description. 
+   
+  Item 2. Unregistered Sales of Equity Securities and Use of Proceeds  
+  a) Sale of Unregistered Securities 
+  Not applicable. 
+  b) Issuer Purchases of Equity Securities 
+  In September 2015, our board of directors authorized a stock repurchase program. Under the program, we are authorized to repurchase shares of our common stock for an aggregate purchase price not to exceed $50.0 million through September 30, 2017. We began repurchasing common stock in the third quarter of fiscal 2016 and no shares were purchased other than through our stock repurchase program. 
+  
+   33 
+
+     Table of Contents  
+
+The following table summarizes all stock repurchases under our publicly announced stock repurchase program for the periods presented (in thousands, except per share data):   
+
+Item 3. Defaults Upon Senior Securities 
+  Not applicable. 
+   
+  Item 4. Mine Safety Disclosures  
+  Not applicable. 
+   
+  Item 5. Other Information 
+  Not applicable. 
+   
+  Item 6. Exhibits  
+  The exhibits listed in the accompanying Exhibit Index are filed or incorporated by reference as part of this Quarterly Report on Form 10-Q. 
+  
+   34 
+
+     Table of Contents  
+
+SIGNATURES 
+  Pursuant to the requirements of the Securities and Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+                       
+    BARRACUDA NETWORKS, INC. 
+
+Date: October 11, 2016 
+    By: 
+    /s/ William D. Jenkins, Jr. 
+
+William D. Jenkins, Jr. 
+
+Chief Executive Officer 
+  (Principal Executive Officer) 
+
+Date: October 11, 2016 
+    By: 
+    /s/ Dustin Driggs 
+
+Dustin Driggs 
+
+Chief Financial Officer 
+  (Principal Financial Officer) 
+
+35 
+
+     Table of Contents  
+
+EXHIBIT INDEX 
+                   Exhibit 
+  Number 
+       
+    Description 
+      31.1 
+       
+    Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act 
+      31.2 
+       
+    Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act 
+      32.1* 
+       
+    Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act 
+      32.2* 
+       
+    Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act 
+      101.INS 
+       
+    XBRL Instance Document 
+      101.SCH 
+       
+    XBRL Taxonomy Extension Schema Document 
+      101.CAL 
+       
+    XBRL Taxonomy Extension Calculation Linkbase Document 
+      101.DEF 
+       
+    XBRL Taxonomy Extension Definition Linkbase Document 
+      101.LAB 
+       
+    XBRL Taxonomy Extension Label Linkbase Document 
+      101.PRE 
+       
+    XBRL Taxonomy Extension Presentation Linkbase Document 
+
+* 
+    The certifications attached as Exhibit 32.1 and 32.2 that accompany this Quarterly Report on Form 10-Q are not deemed filed with the Securities and Exchange Commission and are not to be incorporated by reference into any filing of Barracuda Networks, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date of this Quarterly Report on Form 10-Q, irrespective of any general incorporation language contained in such filing. 
+
+36 
+
+<EX-31.1>
+ 2
+ cuda-20160831xex311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+  PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+  I, William D. Jenkins, Jr., certify that: 
+           1. 
+    I have reviewed this Quarterly Report on Form 10-Q of Barracuda Networks, Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              a. 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b. 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c. 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d. 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              a. 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              b. 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+                        Date: October 11, 2016 
+    By: 
+    /s/ William D. Jenkins, Jr. 
+
+William D. Jenkins, Jr. 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ cuda-20160831xex312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+  PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+  I, Dustin Driggs, certify that: 
+           1. 
+    I have reviewed this Quarterly Report on Form 10-Q of Barracuda Networks, Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              a. 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b. 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c. 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d. 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              a. 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              b. 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.    
+                        Date: October 11, 2016 
+    By: 
+    /s/ Dustin Driggs 
+
+Dustin Driggs 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ cuda-20160831xex321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+  CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+  PURSUANT TO 18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+  I, William D. Jenkins, Jr., certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report on Form 10-Q of Barracuda Networks, Inc. for the fiscal quarter ended   August 31, 2016  , fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Quarterly Report on Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of Barracuda Networks, Inc. 
+                     Date: October 11, 2016 
+    By: 
+    /s/ William D. Jenkins, Jr. 
+
+William D. Jenkins, Jr. 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ cuda-20160831xex322.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+  CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+  PURSUANT TO 18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+  I, Dustin Driggs, certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report on Form 10-Q of Barracuda Networks, Inc. for the fiscal quarter ended   August 31, 2016  , fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Quarterly Report on Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of Barracuda Networks, Inc. 
+                     Date: October 11, 2016 
+    By: 
+    /s/ Dustin Driggs 
+
+Dustin Driggs 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ cuda-20160831.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ cuda-20160831.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ cuda-20160831_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ cuda-20160831_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ cuda-20160831_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ cuda-20160831_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

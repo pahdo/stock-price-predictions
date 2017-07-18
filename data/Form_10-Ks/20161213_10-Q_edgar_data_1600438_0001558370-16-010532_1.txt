@@ -1,0 +1,1797 @@
+<Header>
+<FileStats>
+    <FileName>20161213_10-Q_edgar_data_1600438_0001558370-16-010532_1.txt</FileName>
+    <GrossFileSize>9471879</GrossFileSize>
+    <NetFileSize>148807</NetFileSize>
+    <ASCII_Embedded_Chars>341596</ASCII_Embedded_Chars>
+    <HTML_Chars>3026767</HTML_Chars>
+    <XBRL_Chars>3543565</XBRL_Chars>
+    <XML_Chars>1663423</XML_Chars>
+    <N_Tables>44</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001558370-16-010532.hdr.sgml : 20161213
+<ACCEPTANCE-DATETIME>20161213162432
+ACCESSION NUMBER:		0001558370-16-010532
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		74
+CONFORMED PERIOD OF REPORT:	20161031
+FILED AS OF DATE:		20161213
+DATE AS OF CHANGE:		20161213
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GMS Inc.
+		CENTRAL INDEX KEY:			0001600438
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-LUMBER & OTHER CONSTRUCTION MATERIALS [5030]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37784
+		FILM NUMBER:		162049161
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 CRESCENT CENTRE PARKWAY
+		STREET 2:		SUITE 800
+		CITY:			TUCKER
+		STATE:			GA
+		ZIP:			30084
+		BUSINESS PHONE:		800-392-4619
+
+	MAIL ADDRESS:	
+		STREET 1:		100 CRESCENT CENTRE PARKWAY
+		STREET 2:		SUITE 800
+		CITY:			TUCKER
+		STATE:			GA
+		ZIP:			30084
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GYP Holdings I Corp.
+		DATE OF NAME CHANGE:	20140218
+
+</SEC-Header>
+</Header>
+
+ 0001558370-16-010532.txt : 20161213
+
+10-Q
+ 1
+ gms-20161031x10q.htm
+ 10-Q
+
+gms_Current_Folio_10Q
+
+Table of Contents  
+
+UNITED STATES  
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+WASHINGTON, D.C. 20549  
+
+FORM 10-Q  
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the quarterly period ended   October 31, 2016 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the transition period from _______________ to _______________. 
+
+COMMISSION FILE NUMBER: 001-37784 
+
+__________________________________________ 
+
+GMS INC. 
+
+(Exact name of registrant as specified in its charter) 
+
+__________________________________________ 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes   No      
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes   No     
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act.  
+
+Large accelerated filer  
+
+Accelerated filer  
+
+Non-accelerated filer  
+
+(Do not check if a smaller reporting company)  
+
+Smaller reporting company  
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes   No     
+
+There were 40,942,905 shares of the registrant s common stock, par value $0.01 per share, outstanding as of November  30, 2016. 
+
+Table of Contents  
+
+FORM 10-Q 
+
+TABLE OF CONTENTS   
+
+Page  
+
+Cautionary Note Regarding Forward-Looking Statements      
+
+3 
+
+PART I      
+
+Financial Information   
+
+Item 1    
+
+Financial Statements (Unaudited)   
+
+Condensed Consolidated Balance Sheets (Unaudited)   
+
+5 
+
+Condensed Consolidated Statements of Operations and Comprehensive Income (Unaudited)   
+
+6 
+
+Condensed Consolidated Statements of Stockholders  Equity (Unaudited)   
+
+7 
+
+Condensed Consolidated Statements of Cash Flows (Unaudited)   
+
+8 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited)   
+
+9 
+
+Item 2    
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations   
+
+27 
+
+Item 3    
+
+Quantitative and Qualitative Disclosures About Market Risk   
+
+45 
+
+Item 4    
+
+Controls and Procedures   
+
+45 
+
+PART II      
+
+Other Information   
+
+Item 1    
+
+Legal Proceedings   
+
+48 
+
+Item 1A    
+
+Risk Factors   
+
+48 
+
+Item 2    
+
+Unregistered Sales of Equity Securities and Use of Proceeds   
+
+48 
+
+Item 3    
+
+Defaults Upon Senior Securities   
+
+48 
+
+Item 4    
+
+Mine Safety Disclosures   
+
+49 
+
+Item 5    
+
+Other Information   
+
+49 
+
+Item 6    
+
+Exhibits   
+
+49 
+
+2 
+
+Table of Contents  
+
+CAUTIONARY NOTE REGARDING FORWARD LOOKING STATEMENTS   
+
+This Quarterly Report on Form 10-Q contains  forward looking statements  within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended (the  Securities Act ) and Section 21E of the Securities Exchange Act of 1934, as amended (the  Exchange Act ). You can generally identify forward looking statements by our use of forward looking terminology such as  anticipate,   believe,   continue,   could,   estimate,   expect,   intend,   may,   might,   plan,   potential,   predict,   seek,  or  should,  or the negative thereof or other variations thereon or comparable terminology. In particular, statements about the markets in which we operate, including growth of our various markets, and statements about our expectations, beliefs, plans, strategies, objectives, prospects, assumptions or future events or performance contained in Part 1, Item 2 of this Quarterly Report on Form 10-Q under the heading  Management s Discussion and Analysis of Financial Condition and Results of Operations  are forward-looking statements. 
+
+We have based these forward looking statements on our current expectations, assumptions, estimates and projections. While we believe these expectations, assumptions, estimates and projections are reasonable, such forward looking statements are only predictions and involve known and unknown risks and uncertainties, many of which are beyond our control. These and other important factors, including those discussed under the heading  Risk Factors  in Part 1, Item 1A of our Annual Report on Form 10-K for the fiscal year ended April 30, 2016, filed with the U.S. Securities and Exchange Commission (the  SEC ), may cause our actual results, performance or achievements to differ materially from any future results, performance or achievements expressed or implied by these forward looking statements. Some of the factors that could cause actual results to differ materially from those expressed or implied by the forward looking statements include: 
+
+general economic and financial conditions;     
+
+our dependency upon the commercial and residential construction and residential repair and remodeling, or R R, markets;     
+
+competition in our highly fragmented industry and the markets in which we operate;     
+
+the fluctuations in prices of the products we distribute;     
+
+the consolidation of our industry;     
+
+our inability to pursue strategic transactions and open new branches;     
+
+our inability to expand into new geographic markets;     
+
+product shortages and potential loss of relationships with key suppliers;     
+
+the seasonality of the commercial and residential construction markets;     
+
+the potential loss of any significant customers;     
+
+exposure to product liability and various other claims and litigation;     
+
+our inability to attract key employees;     
+
+rising health care costs;     
+
+the reduction of the quantity of products our customers purchase;     
+
+the credit risk from our customers;     
+
+our inability to renew leases for our facilities;     
+
+3 
+
+Table of Contents  
+
+our inability to effectively manage our inventory as our sales volume increases or the prices of the products we distribute fluctuate;     
+
+our inability to engage in activities that may be in our best long term interests because of restrictions in our debt agreements;     
+
+our current level of indebtedness and our potential to incur additional indebtedness;     
+
+our inability to obtain additional financing on acceptable terms, if at all;     
+
+our holding company structure;     
+
+an impairment of our goodwill;     
+
+the impact of federal, state and local regulations;     
+
+the cost of compliance with environmental, health and safety laws and other regulations;     
+
+significant increases in fuel costs or shortages in the supply of fuel;     
+
+a disruption or breach in our IT systems;     
+
+natural or man made disruptions to our facilities;     
+
+AEA s control of us; and     
+
+other risks and uncertainties, including     those discussed under the heading  Risk Factors  in Part 1, Item 1A of our Annual Report on Form 10-K for the fiscal year ended April 30, 2016 filed with the SEC.     
+
+Given these risks and uncertainties, you are cautioned not to place undue reliance on such forward looking statements. The forward looking statements contained in this Quarterly Report on Form 10-Q are not guarantees of future performance and our actual results of operations, financial condition and liquidity, and the development of the industry in which we operate, may differ materially from the forward looking statements contained in this Quarterly Report on Form 10-Q. In addition, even if our results of operations, financial condition and liquidity, and events in the industry in which we operate, are consistent with the forward looking statements contained in this Quarterly Report on Form 10-Q, they may not be predictive of results or developments in future periods. 
+
+Any forward looking statement that we make in this Quarterly Report on Form 10-Q speaks only as of the date of such statement. Except as required by law, we do not undertake any obligation to update or revise, or to publicly announce any update or revision to, any of the forward looking statements, whether as a result of new information, future events or otherwise, after the date of this Quarterly Report on Form 10-Q. You should, however, review the factors and risks we describe in the reports we will file from time to time with the SEC after the date of the filing of this Quarterly Report on Form 10-Q. 
+
+4 
+
+Table of Contents  
+
+PART I   Financial Information   
+
+Item 1.  Financial Statements (Unaudited)   
+
+GMS Inc. 
+
+Condensed Consolidated Balance Sheets   (Unaudited) 
+
+October 31, 2016 and April 30, 2016 
+
+(in thousands of dollars, except share data) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+
+5 
+
+Table of Contents  
+
+GMS Inc. 
+
+Condensed Consolidated Statements of Operations and Comprehensive Income   (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+
+6 
+
+Table of Contents  
+
+GMS Inc. 
+
+Condensed Consolidated Statements of Stockholders  Equity (Unaudited)   
+
+Six Months Ended October 31, 2016 and Year Ended April 30, 2016 
+
+(in thousands of dollars, except share data) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+
+7 
+
+Table of Contents  
+
+GMS Inc. 
+
+Condensed Consolidated Statements of Cash Flows   (Unaudited) 
+
+Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+
+8 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+1. Basis of Presentation, Business and Summary of Significant Accounting Policies   
+
+The terms  we,   our,   us,   Successor  or the  Company  refer to GMS Inc. and its subsidiaries. When such terms are used in this manner throughout the notes to the condensed consolidated financial statements, they are in reference only to the corporation, GMS Inc. and its subsidiaries, and are not used in reference to the Board of Directors, corporate officers, management, or any individual employee or group of employees. 
+
+On April 1, 2014, GYP Holdings I Corp., or the Successor, acquired, through its wholly owned entities, GYP Holdings II Corp. and GYP Holdings III Corp., all of the capital stock of Gypsum Management and Supply, Inc. (the  Predecessor ). Successor is majority owned by certain affiliates of AEA Investors LP, or  AEA,  and certain of our other stockholders. We refer to this acquisition as the  Acquisition  and April 1, 2014 as the  Acquisition Date.  We were previously known as GYP Holdings I Corp. and changed our name to GMS Inc. on July 6, 2015. 
+
+We have no independent operations and our only asset is our investment in the Predecessor. 
+
+Business 
+
+Founded in 1971, we are a distributor of specialty building products including wallboard, suspended ceilings systems, or ceilings, steel framing and other complementary specialty building products. We purchase products from a large number of manufacturers and then distribute these goods to a customer base consisting of wallboard and ceilings contractors and homebuilders, and to a lesser extent, general contractors and individuals. We have created a national footprint with more than  200 branches across 42 states. 
+
+Basis of Presentation 
+
+The condensed consolidated financial statements have been prepared pursuant to the rules and regulations of the U.S. Securities and Exchange Commission that permit reduced disclosure for interim periods. The condensed consolidated balance sheet as of April 30, 2016 was derived from audited financial statements, but does not include all necessary disclosures required by accounting principles generally accepted in the United States of America ( GAAP ). 
+
+In the opinion of our management, the accompanying unaudited condensed consolidated financial statements contain all normal and recurring adjustments necessary for a fair statement of the results of operations, financial position, and cash flows. All adjustments are of a normal recurring nature unless otherwise disclosed. Revenues, expenses, assets and liabilities can vary during each quarter of the year. Therefore, the results and trends in these interim financial statements may not be the same as those for the full year. For a more complete discussion of the Company s significant accounting policies and other information, you should read these unaudited condensed consolidated financial statements in conjunction with our annual audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended April 30, 2016, which include all disclosures required by GAAP. 
+
+Initial Public Offering 
+
+On June 1, 2016, we completed our initial public offering, or IPO, of 8,050,000 shares of common stock at a price of $21.00 per share, including 1,050,000 shares of common stock that were issued as a result of the exercise in full by the underwriters of an option to purchase additional shares to cover over allotments. After underwriting discounts and commissions but before expenses, we received net proceeds from the IPO of approximately $156,900. We used these proceeds together with cash on hand to repay the $160,000 principal amount of our term loan debt outstanding under our senior secured second lien term loan facility, or the Second Lien Facility, which was a payment in full of the entire loan balance due under the Second Lien Facility. 
+
+9 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+Revision of Financial Statements 
+
+During the preparation of the Annual Report on Form 10-K for the year ended April 30, 2016, the Company determined that an inappropriate statutory tax rate was used to value deferred tax liabilities related to certain assets purchased in the Acquisition as of April 1, 2014. This resulted in an understatement of  Deferred income taxes, net  and  Goodwill , as of April 30, 2015, and an overstatement of  Provision for (benefit from) income taxes  and an understatement of  Net income (loss)  for the year ended April 30, 2015. The Company assessed the materiality of the misstatement in accordance with SEC Staff Accounting Bulletin No. 99, Materiality, and concluded that this misstatement was not material to the Company s Consolidated Financial Statements for the prior periods and that amendments of previously filed reports were not required. However, the Company determined that the impact of the corrections would be too significant to record in the fourth quarter of fiscal 2016. As such, the revision for the correction is reflected in the six months ended October 31, 2015 financial information in this Quarterly Report on Form 10 Q. Disclosure of the revised amounts will also be reflected in future filings containing the applicable periods.  
+
+The effect of this revision on the line items within the Company s Condensed Consolidated Statement of Operations for the six months ended October 31, 2015 was as follows: 
+
+The effect of this revision on the line items within the Company s Condensed Consolidated Statement of Cash Flows for the six months ended October 31, 2015 was as follows: 
+
+Principles of Consolidation 
+
+The Condensed Consolidated Financial Statements present the results of operations, financial position and cash flows of the Company and its subsidiaries. All material intercompany balances and transactions have been eliminated in consolidation. The results of operations of businesses acquired are included from their respective dates of acquisition. 
+
+Use of Estimates 
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+
+10 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+Insurance Liabilities 
+
+The Company is self insured for certain losses related to medical claims. The Company has stop loss coverage to limit the exposure arising from medical claims. The Company has deductible based insurance policies for certain losses related to general liability, automobile and workers  compensation. The deductible amount per incident is $250, $500 and $1,000 for general liability, workers  compensation and automobile, respectively. The coverage consists of a primary layer and an excess layer. The primary layer of coverage is from $500 to $2,000 and the excess layer covers claims from $2,000 to $100,000. The expected ultimate cost for claims incurred as of the balance sheet date is not discounted and is recognized as a liability. Insurance losses for claims filed and claims incurred but not reported are accrued based upon estimates of the aggregate liability for uninsured claims using loss development factors and actuarial assumptions followed in the insurance industry and historical loss development experience. 
+
+At October 31, 2016 and April 30, 2016, the aggregate liabilities for medical self insurance were $2,954 and $3,342, respectively, and are recorded in  Other accrued expenses and current liabilities  within the Condensed Consolidated Balance Sheets. At October 31, 2016 and April 30, 2016, reserves for general liability, automobile and workers  compensation totaled approximately $16,106 and $12,213 respectively, and are recorded in  Other accrued expenses and current liabilities  and  Other liabilities  in the Condensed Consolidated Balance Sheets. In fiscal 2015, a material claim was settled by our insurance carrier in the amount of approximately $26,000 and was paid by our insurance carrier in full, subject to the deductible, during the six months ended October 31, 2015. At October 31, 2016 and April 30, 2016, amounts recoverable for general liability, automobile and workers  compensation, totaled approximately $6,940 and $4,832, respectively and are recorded in  Prepaid expenses and other current assets  and  Other assets  in the Condensed Consolidated Balance Sheets. 
+
+Fair Value of Financial Instruments 
+
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in the principal or most advantageous market in an orderly transaction between market participants on the measurement date. The carrying value of cash and cash equivalents, receivables, accounts payable, other current liabilities and accrued interest approximates fair value due to its short term nature. Based on borrowing rates available to the Company for loans with similar terms, the carrying values of the ABL Facility, First Lien Facility and other debt approximate fair value. 
+
+Accounting guidance establishes a three level hierarchy, which requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. The valuation hierarchy is based upon the transparency of inputs to the valuation of an asset or liability on the measurement date. The three levels are defined as follows: 
+
+Level 1  
+
+Inputs to the valuation methodology are quoted prices (unadjusted) for an identical asset or liability in an active market.  
+
+Level 2  
+
+Inputs to the valuation methodology include quoted prices for a similar asset or liability in an active market or model derived valuations in which all significant inputs are observable for substantially the full term of the asset or liability.  
+
+Level 3  
+
+Inputs to the valuation methodology are unobservable and significant to the fair value measurement of the asset or liability.  
+
+As discussed in Note 8, we have recorded stock appreciation rights, deferred compensation and redeemable noncontrolling interests at their expected fair values. The determination of these fair values is based on Level 3 inputs. These inputs include a volatility rate based on comparable entities, a discount rate, and the expected time to redemption of the liabilities, historical values of the book equity of certain subsidiaries, and market information for comparable entities. The use of these inputs to derive the fair value of the liabilities at a point in time can result in volatility to the financial statements to our current and projected financial results. 
+
+11 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+Stock Appreciation Rights, Deferred Compensation and Liabilities to Noncontrolling Interest Holders 
+
+Certain subsidiaries have equity based compensation agreements with the subsidiary s employees and minority shareholders. These agreements are stock appreciation rights, deferred compensation agreements, and liabilities to noncontrolling interest holders. Since these agreements are typically settled in cash or notes, and do not meet the criteria established by ASC 718,    Compensation Stock Compensation    to be accounted for in  Stockholders  equity , they are accounted for as liability awards. See Note 8. 
+
+Treasury Stock 
+
+In the six months ended October 31, 2015, we repurchased 394,577 shares of our common stock at a cost of $5,827 in connection with our separation agreement with a former employee. We then reissued 349,923 of these shares for proceeds of $4,306 during the six months ended October 31, 2015. The difference between the cost of the treasury stock and the proceeds from its reissuance was accounted for, using the  cost  method, as a decrease to  Retained earnings (accumulated deficit)  of $863. 
+
+Net Earnings Per Share 
+
+Basic earnings per share is computed by dividing net income by the weighted average number of outstanding shares of common stock for the period. Diluted earnings per share reflects the potential dilution that could occur if instruments that may require the issuance of common stock in the future were settled and the underlying shares of common stock were issued. Diluted earnings per share is computed by increasing the weighted average number of outstanding shares of common stock computed in basic earnings per share to include the dilutive effect of stock options and other equity based instruments held by the Company s employees and directors during each period. In periods of net loss, the number of shares used to calculate diluted earnings per share is the same as basic earnings per share.  
+
+Recent Accounting Pronouncements 
+
+Revenue recognition   In May 2014, the FASB issued ASU No. 2014-09, "Revenue from Contracts with Customers" ("ASU 2014-09"), to clarify   the principles used to recognize revenue for all entities.  In August 2015, the FASB issued ASU No. 2015-14 which deferred the effective date of ASU 2014-09 by one year.  As a result of this deferral, ASU 2014-09 is effective for annual and interim periods beginning after December 15, 2017 and early adoption is permitted for annual reporting periods beginning after December 15, 2016.  The guidance allows for either a full retrospective or a modified retrospective transition method.  We are continuing to evaluate our method of adoption and the impact this guidance, including recent amendments and interpretations, may have on our financial position, results of operations and cash flows. 
+
+Deferred Taxes   In November 2015, the FASB issued ASU No. 2015-17, "Balance Sheet Classification of Deferred Taxes  ("ASU 2015-17"). This amendment changes how deferred taxes are recognized by eliminating the requirement to present deferred tax liabilities and assets as current and noncurrent on the balance sheet. Instead, the requirement will be to classify all deferred tax liabilities and assets as noncurrent. ASU 2015-17 is effective for annual reporting periods beginning after December 15, 2016, including interim periods within that reporting period, with earlier adoption permitted. ASU 2015-17 can be adopted either prospectively or retrospectively to all periods presented. The Company early adopted ASU 2015-17 retrospectively as of July 31, 2016. As a result, $11,047 of our deferred tax assets previously presented in current assets as of April 30, 2016 have been reclassified to  Deferred income taxes, net  in the Condensed Consolidated Balance Sheet as of that date. Adoption of this standard did not impact results of operations or cash flows in the current or previous reporting periods.  
+
+Leases   In February 2016, the FASB issued ASU No. 2016-02, "Leases" ("ASU 2016-02"). The new standard establishes a right-of-use (ROU) model that requires a lessee to record a ROU asset and a lease liability on the balance sheet for all leases with terms longer than 12 months. Leases will be classified as either finance or operating, with such classification affecting the pattern of expense recognition in the statement of operations. The new standard is effective   
+
+12 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+for the Company's fiscal year beginning May 1, 2019, including interim reporting periods within that fiscal year. A modified transition approach is required for lessees for capital and operating leases existing at, or entered into after, the beginning of the earliest comparative period presented in the financial statements, with certain practical expedients available. While the Company is still evaluating the impact of its pending adoption of the new standard on its Consolidated Financial Statements, the Company expects that upon adoption it will recognize ROU assets and liabilities that could be material. 
+
+Statement of Cash Flows     In August 2016, the FASB issued ASU 2016-15,  Statement of Cash Flows (Topic 230): Clarification of Certain Cash Receipts and Cash Payments  ( ASU 2016-15 ). The new guidance is intended to reduce diversity in practice related to certain cash receipts and payments in the statement of cash flows by adding or clarifying guidance on eight specific cash flow issues. ASU 2016-15 is effective for annual and interim periods beginning after December 15, 2017. Early adoption is permitted. The amendments in this update should be applied retrospectively to all periods presented, unless deemed impracticable, in which case, prospective application is permitted.   The Company is currently in the process of evaluating the impact of the adoption on its Consolidated Financial Statements. 
+
+Income Taxes     In October 2016, the FASB issued ASU 2016-16,  Income Taxes (Topic 740): Intra-entity Transfers of Assets Other than Inventory  ( ASU 2016-16 ). The new guidance is intended to improve the accounting for intra-entity transfers of assets other than inventory by requiring recognition of income tax consequences of intra-entity transfers of assets other than inventory when the transfer occurs. ASU 2016-16 is effective for annual and interim periods beginning after December 15, 2017. Early adoption is permitted. The amendments in this update should be applied on a modified retrospective basis through a cumulative-effect adjustment directly to retained earnings as of the beginning of the period of adoption.   The Company is currently in the process of evaluating the impact of the adoption on its Consolidated Financial Statements. 
+
+Statement of Cash Flows     In November 2016, the FASB issued ASU 2016-18,  Statement of Cash Flows (Topic 230): Restricted Cash  ( ASU 2016-18 ). The new guidance is intended to reduce diversity in practice by adding or clarifying guidance on classification and presentation of changes in restricted cash on the statement of cash flows. ASU 2016-18 is effective for annual and interim periods beginning after December 15, 2017. Early adoption is permitted. The amendments in this update should be applied retrospectively to all periods presented.   The Company is currently in the process of evaluating the impact of the adoption on its Consolidated Financial Statements. 
+
+2. Business Acquisitions 
+
+The Company operates in a highly fragmented industry. A key component of the Company s strategy is growth through acquisition that expands its geographic coverage, provides complementary lines of business and increases its market share. 
+
+The Company has accounted for all business combinations using the purchase method, in accordance with ASC 805, to record a new cost basis for the assets acquired and liabilities assumed. The Company recorded, based on preliminary purchase price allocations, intangible assets representing client relationships, tradenames, and excess of purchase price over the estimated fair value of the tangible assets acquired and liabilities assumed as  Goodwill  in the accompanying Condensed Consolidated Financial Statements. The goodwill is attributable to synergies achieved through the streamlining of operations combined with improved margins attainable through increased market presence. The results of operations of these acquisitions are reflected in the Condensed Consolidated Financial Statements of the Company from the date of acquisition. 
+
+13 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+(a)          2017 Acquisitions 
+
+In the six months ended October 31, 2016, the Company completed the following acquisitions, with an aggregate purchase price of $144,079, comprised of $139,171 net of cash consideration and $4,908 of contingent consideration, subject to finalization of working capital settlement amounts.   These acquisitions increased net sales by $32,425 and operating income by $1,615 for the six months ended October 31, 2016. 
+
+Company name  
+
+Form of acquisition  
+
+Date of acquisition  
+
+Wall   Ceiling Supply Co., Inc.  
+
+Purchase of net assets  
+
+May 2, 2016     
+
+Rockwise, LLC  
+
+Purchase of net assets  
+
+July 5, 2016     
+
+Steven F. Kempf Building Materials, Inc.  
+
+Purchase of net assets  
+
+August 29, 2016  
+
+Olympia Building Supplies, LLC/Redmill, Inc.  
+
+Purchase of 100% of outstanding common stock  
+
+September 1, 2016  
+
+United Building Materials, Inc.  
+
+Purchase of net assets  
+
+October 3, 2016  
+
+Ryan Building Materials, Inc.  
+
+Purchase of net assets  
+
+October 31, 2016  
+
+The preliminary allocation of purchase consideration for these acquisitions is summarized as follows: 
+
+Goodwill of $23,919 and other intangible assets of $49,700 are expected to be deductible for U.S. federal income tax purposes. Goodwill of $13,766 and other intangible assets of $20,600 are expected to be nondeductible for U.S. federal income tax purposes. The Company believes that the information gathered to date provides a reasonable basis for estimating the fair values of assets acquired and liabilities assumed but the Company is waiting for additional information necessary to finalize those fair values. Thus, the provisional measurements of fair value set forth above are preliminary. Such changes are not expected to be significant. The Company expects to complete the purchase price allocation as soon as practicable but no later than one year from the applicable acquisition date.   The pro forma impact of these acquisitions is not presented as it is not considered material to our Condensed Consolidated Financial Statements. 
+
+14 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+(b)          2016 Acquisitions 
+
+In fiscal 2016, the Company completed the following acquisitions, with an aggregate purchase price of $117,253, comprised of $113,801 net of cash consideration and $3,452 of contingent consideration, subject to the finalization of working capital settlement amounts.   These acquisitions increased net sales by $112,329 and operating income by $3,870 for the six months ended October 31, 2016 
+
+Company name  
+
+Form of acquisition  
+
+Date of acquisition  
+
+Tri-Cities Drywall   Supply Co.   
+
+Purchase of net assets  
+
+September 29, 2015  
+
+Badgerland Supply, Inc.   
+
+Purchase of net assets  
+
+November 2, 2015  
+
+Hathaway   Sons, Inc.   
+
+Purchase of net assets  
+
+November 9, 2015  
+
+Gypsum Supply Company   
+
+Purchase of 100% of outstanding common stock  
+
+January 1, 2016  
+
+Robert N. Karpp Co., Inc.   
+
+Purchase of net assets  
+
+February 1, 2016  
+
+Professional Handling   Distribution, Inc.   
+
+Purchase of net assets  
+
+February 1, 2016  
+
+M.R. Lee Building Materials, Inc.   
+
+Purchase of net assets  
+
+April 4, 2016     
+
+The preliminary allocation of purchase consideration for these acquisitions is summarized as follows: 
+
+During the first six months of fiscal 2017, the Company recorded adjustments to working capital resulting in a decrease in total consideration paid of $74. Goodwill of $13,515 and other intangible assets of $26,335 are expected to be deductible for U.S. federal income tax purposes. Goodwill of $25,062 and other intangible assets of $17,240 are expected to be nondeductible for U.S. federal income tax purposes. The Company believes that the information gathered to date provides a reasonable basis for estimating the fair values of assets acquired and liabilities assumed but the Company is waiting for additional information necessary to finalize the fair values of these acquisitions, all of which occurred after October 31, 2015. Thus, the provisional measurements of fair value set forth above are preliminary for these acquisitions. Such changes are not expected to be significant. The Company expects to complete the purchase price allocation for these acquisitions as soon as practicable but no later than one year from the applicable acquisition date.   The pro forma impact of these acquisitions is not presented as it is not considered material to our Condensed Consolidated Financial Statements. 
+
+15 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+3. Goodwill and Intangible Assets 
+
+The following table represents the activity of  Goodwill  from May 1, 2015 to October 31, 2016 
+
+During the six months ended October 31, 2016 the Company recorded $61,400 and $8,900 in customer relationships and tradenames, respectively, as a result of the Wall   Ceiling Supply Co., Inc., Rockwise, LLC, Steven F. Kempf Building Materials, Inc., Olympia Building Supplies, LLC, United Building Materials, Inc. and Ryan Building Materials, Inc. acquisitions discussed in Note 2. The recently acquired customer relationships and tradenames will be amortized over weighted-average periods of 11.7 years and 16.1  years, respectively. 
+
+The Company s definite lived intangible assets as of October 31, 2016 and April 30, 2016 consist of the following: 
+
+The Company s indefinite lived intangible assets consist of tradenames which have a carrying amount of $61,368 as of October 31, 2016 and April 30, 2016. 
+
+Amortization expense related to intangible assets was $10,820 and $20,233 for the three and six months ended October 31, 2016, respectively, and $8,797 and $17,589 for the three and six months ended October 31, 2015, respectively. Amortization expense is recorded in  Depreciation and amortization  expense in the Condensed Consolidated Statements of Operations and Comprehensive Income. 
+
+16 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+4. Long Term Debt 
+
+Initial Public Offering 
+
+As described in Note 1,     Initial Public Offering  ,  on June 1, 2016, we used the IPO proceeds together with cash on hand to repay the $160,000 principal amount of our term loan debt outstanding under our Second Lien Facility, which was a payment in full of the entire loan balance due under the Second Lien Facility. In addition, we recorded a write-off of debt discount and deferred financing fees of $5,426 to  Write-off of discount and deferred financing fees  in the Condensed Consolidated Statements of Operations and Comprehensive Income. 
+
+Term Loan Amendment 
+
+On September 27, 2016, the Company entered into an Incremental First Lien Term Commitments Amendment (the  Incremental Amendment ) to the First Lien Credit Agreement (the  Credit Agreement ), dated April 1, 2014, among GYP Holdings III Corp., as borrower, GYP Holdings II Corp., the financial institutions from time to time party thereto, as lenders, and Credit Suisse AG, as administrative agent and collateral agent. 
+
+The Incremental Amendment amended the Credit Agreement to, among other things, (i) refinance approximately $381,225 in currently outstanding existing term loans borrowed under the Credit Agreement with a new tranche of $481,225 incremental term loans, and (ii) reduce the interest rate applicable to loans borrowed under the Credit Agreement to LIBOR plus 3.50% from LIBOR plus 3.75%.  The portion of the incremental term loans that exceeded the refinanced existing term loans was used to repay the ABL Facility in part.   In addition, we recorded a write-off of debt discount and deferred financing fees of $1,466 to  Write-off of discount and deferred financing fees  in the Condensed Consolidated Statements of Operations and Comprehensive Income. We accounted for the Incremental Amendment based upon the guidance within Accounting Standards Codification 470-50,  Debt-Modification and Extinguishment.  
+
+On November 18, 2016, we amended our ABL Facility, see Note 13,  Subsequent Events.  
+
+Long term debt at October 31, 2016 and April 30, 2016 consists of the following: 
+
+17 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+5. Income Taxes 
+
+Under ASC 740 270, Income Taxes Interim Reporting ( ASC 740 270 ), each interim period is considered an integral part of the annual period and tax expense (benefit) is measured using an estimated annual effective income tax rate. Estimates of the annual effective income tax rate at the end of interim periods are, out of necessity, based on evaluation of possible future events and transactions and may be subject to subsequent refinement or revision. The Company forecasts its estimated annual effective income tax rate and then applies that rate to its year to date pre tax ordinary income (loss), subject to certain loss limitation provisions. In addition, certain specific transactions are excluded from the Company s estimated annual effective tax rate computation, but are discretely recognized within income tax expense (benefit) in their respective interim period. Future changes in the forecasted annual income (loss) projections, tax rate changes, or discrete tax items could result in significant adjustments to quarterly income tax expense (benefit) in future periods. 
+
+The Company evaluates its deferred tax assets quarterly to determine if valuation allowances are required. In this evaluation, the Company considers both positive and negative evidence in determining whether it is more likely than not that some portion or all of the deferred tax assets will not be realized. The primary negative evidence considered includes the cumulative operating losses generated in prior periods. The primary positive evidence considered includes the reversal of deferred tax liabilities related to depreciation and amortization that would occur within the same jurisdiction and during the carry forward period necessary to absorb the federal and state net operating losses and other deferred tax assets. The reversal of such liabilities would utilize the federal and state net operating losses and other deferred tax assets. 
+
+Deferred tax assets and liabilities are computed by applying the federal and state income tax rates in effect to the gross amounts of temporary differences and other tax attributes, such as net operating loss carry forwards. In assessing if the deferred tax assets will be realized, the Company considers whether it is more likely than not that some or all of these deferred tax assets will be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the period in which these deductible temporary differences reverse. 
+
+The Company had valuation allowances of $83 against its deferred tax assets related to certain tax jurisdictions as of October 31, 2016 and April 30, 2016. To the extent the Company generates sufficient taxable income in the future to utilize the tax benefits of the net deferred tax assets on which a valuation allowance is recorded, the effective tax rate may decrease as the valuation allowance is reversed. 
+
+The Company made an election under section 338 (h)(10) of the Internal Revenue Code which effectively changed the tax treatment of the Company s acquisition of Gypsum Supply Company from a stock transaction to an asset transaction for tax purposes. As a result of this election, the Company decreased its deferred tax liabilities and tax expense in the three months ended October 31, 2016 by $6,950. 
+
+The effective income tax rate on continuing operations for the six months ended October 31, 2016 was 20.7% compared to an effective income tax rate of 48.4% for the six months ended October 31, 2015. The decrease in the effective income tax rate is primarily due to the 338 (h)(10) election made for the Gypsum Supply Company acquisition, the decreased impact of permanent differences and a decrease in the blended state tax rate. 
+
+The Company had no material uncertain tax positions as of October 31, 2016 and April 30, 2016. 
+
+6. Stockholders  Equity 
+
+Amended and Restatement of Certificate of Incorporation 
+
+On May 13, 2016, we amended and restated our certificate of incorporation to increase our authorized share count to 550,000,000 shares of stock, including 500,000,000 shares of common stock and 50,000,000 shares of preferred   
+
+18 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+stock, each with a par value of $0.01 per share and to split our common stock 10.158 for 1. Unless otherwise noted herein, historical share data has been adjusted to give effect to the stock split. 
+
+Initial Public Offering 
+
+As described in Note 1,     Initial Public Offering  ,  on June 1, 2016, we completed our IPO of 8,050,000 shares of common stock at a price of $21.00 per share, including 1,050,000 shares of common stock that were issued as a result of the exercise in full by the underwriters of an option to purchase additional shares to cover over allotments. After underwriting discounts and commissions but before expenses, we received net proceeds from the IPO of approximately $156,900. We used these proceeds together with cash on hand to repay the $160,000 principal amount of our term loan debt outstanding under our Second Lien Facility, which was a payment in full of the entire loan balance due under the Second Lien Facility. 
+
+7. Equity Based Compensation 
+
+General 
+
+The Company has a 2014 GYP Holdings I Corp. Stock Option Plan, (the  Plan ) that provides for granting of stock options and other equity awards. The Plan authorizes 3,591,422 shares of common stock for issuance. The stock options vest over a four-year period and have a 10 year term. The plan is designed to motivate and retain individuals who are responsible for the attainment of our primary long term performance goals. The plan provides a means whereby our employees and directors develop a sense of ownership and personal involvement in our development and financial success and encourage them to devote their best efforts to our business. The Company accounts for share based awards in accordance with ASC 718. ASC 718 requires measurement of compensation cost for all share based awards at fair value on the grant date (or measurement date if different) and recognition of compensation expense, net of estimated forfeitures, over the requisite service period for awards expected to vest. 
+
+Stock Option Awards 
+
+We utilize the Black Scholes option pricing model to estimate the grant date fair value of all stock options. The Black Scholes option pricing model requires the use of weighted average assumptions for estimated expected volatility, estimated expected term of stock options, risk free rate, estimated expected dividend yield, and the fair value of the underlying common stock at the date of grant. Prior to our IPO discussed in Note 1,     Initial Public Offering  ,  we did not have sufficient history to estimate the expected volatility of our common stock price, therefore expected volatility has been based on the average volatility of peer public entities that are similar in size and industry. We estimate the expected term of all stock options based on previous history of exercises. The risk free rate is based on the U.S. Treasury yield curve in effect at the time of grant for the expected term of the stock option. The expected dividend yield is 0% as we have not declared any common stock dividends to date and do not expect to declare common stock dividends in the near future. The fair value of the underlying common stock at the date of grant was determined based on the value of the Company s closing stock price on the trading day immediately preceding the date of the grant. We estimate forfeitures based on our historical analysis of actual stock option forfeitures and employee turnover. Actual forfeitures are recorded when incurred and estimated forfeitures are reviewed and adjusted at least annually. The weighted average assumptions used in the Black Scholes option pricing model during the six months ended October 31, 2016 are set forth below: 
+
+In the six months ended October 31, 2016, the Company issued 165,636 stock option awards to employees that vest based on service only. The weighted average grant date fair value of each stock option was $9.56 and the aggregate   
+
+19 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+fair value of options outstanding was $1,583. All of these awards vest over a four year period. Additionally, all these options could vest earlier in the event of a change in control, merger or other acquisition. This expense is recorded on an accelerated basis over the requisite service period of each separate vesting tranche. Share based compensation expense related to stock option  $640 and $1,283 for the three and six months ended October 31, 2016, respectively, and $863 and $1,361 for the three and six months ended October 31, 2015, respectively. Share-based compensation expense was included as a component of  Selling, general and administrative  expenses in our Condensed Consolidated Statements of Operations and Comprehensive Income. At October 31, 2016, the unrecognized compensation expense related to stock option awards was $2,644, with a remaining weighted average life of 1.87 years. 
+
+The Company did not issue any stock option awards during the six months ended October 31, 2015. 
+
+A summary of stock option activity for the six months ended October 31, 2016 follows: 
+
+The aggregate intrinsic value represents the value of the Company s closing stock price on the last trading day of the fiscal period in excess of the weighted average exercise price multiplied by the number of options outstanding or exercisable. Options expected to vest are unvested shares net of expected forfeitures. 
+
+8. Stock Appreciation Rights, Deferred Compensation and Redeemable Noncontrolling Interests 
+
+Certain subsidiaries have equity based compensation arrangements with certain of the subsidiary s employees and minority shareholders. These arrangements are stock appreciation rights, deferred compensation agreements and liabilities to noncontrolling interest holders. Since these arrangements are typically settled in cash or notes, and do not meet the criteria established by ASC 718 to be accounted for in  Stockholders  equity , they are accounted for as liability awards. These liability awards are reflected at their fair values as of October 31, 2016 and 2015. 
+
+Stock appreciation rights   Certain subsidiaries have granted stock appreciation rights to certain employees under which payments are dependent on the appreciation in the book value per share, adjusted for certain provisions, of the applicable subsidiary. Settlements of the awards can be made in a combination of cash or installment notes, generally paid over four years, upon a triggering event. Vesting periods vary by grant date and range from fiscal 2017 to fiscal 2018. Current liabilities related to these plans of $802 and $808 were included in  Accrued compensation and employee benefits  at October 31, 2016 and April 30, 2016, respectively. Long term liabilities related to these plans of $19,467   
+
+20 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+and $19,725 were recorded as components of  Other liabilities  at October 31, 2016 and April 30, 2016, respectively. The redemption value as of October 31, 2016 is $10,626.  Below is a summary of changes to the liability: 
+
+Deferred compensation   Certain shareholders of the Company s subsidiaries have entered into other deferred compensation agreements that granted the shareholders a payment based on a percentage in excess of book value, adjusted for certain provisions, upon an occurrence as defined in the related agreements, which are called  Buy Sell  agreements. The liabilities related to these plans of $3,324 and  $3,270 were included in  Other liabilities  at October 31, 2016 and April 30, 2016, respectively. Current liabilities related to these plans of $323 and $0 were included in  Accrued compensation and employee benefits  at October 31, 2016 and April 30, 2016, respectively. These instruments are redeemed in cash or installment notes, generally paid in annual installments generally over the five years following termination of employment. The redemption value as of October 31, 2016 is $3,886. Below is a summary of changes to the liability: 
+
+Liabilities to noncontrolling interest holders   As described in Note 1, noncontrolling interests were issued to certain employees of the Company s subsidiaries. All of the noncontrolling interest awards are subject to mandatory redemption on termination of employment for any reason. These instruments are redeemed in cash or installment notes and are generally paid in annual installments generally over the five years following termination of employment. 
+
+Liabilities related to these agreements are classified as share based liability awards and are measured at fair value under ASC 718. As of October 31, 2016 and April 30, 2016, the total fair value of these liabilities was $23,677 and $26,585, respectively. Amounts expected to be paid in the next year as of October 31, 2016 and April 30, 2016 are included in  Accrued compensation and employee benefits  in the amounts of $1,614 and $1,338, respectively. As of October 31, 2016 and April 30, 2016, long-term liabilities related to this plan of $22,063 and $25,247, respectively, were included in  Liabilities to noncontrolling interest holders, less current portion.  The redemption value as of October 31, 2016 is $25,239. Below is a summary of changes to the liability: 
+
+In connection with the Acquisition, noncontrolling interest holders had the option to convert their interests in the subsidiaries into interest in the Company. Noncontrolling interests of $32,545 were converted into the Company s common stock at the date of the Acquisition. 
+
+Upon the termination of employment or other triggering events including death or disability of the noncontrolling stockholders in the Company s subsidiaries, we are obligated to purchase, or redeem, the noncontrolling   
+
+21 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+interests at either an agreed upon price or a formula value provided in the stockholder agreements. This formula value is typically based on the book value per share of the subsidiary s equity, including certain adjustments. 
+
+9. Transactions With Related Parties 
+
+The Company leases office and warehouse facilities from partnerships or entities owned by certain stockholders of GMS Inc. and its subsidiaries and other GMS employees that were the owners of companies that the Company has acquired. At October 31, 2016, these leases had expiration dates through fiscal 2021. Rent expense related to these leases included in the accompanying Condensed Consolidated Financial Statements approximated $195 and $390 for the three and six months ended October 31, 2016, respectively, and $195 and $390 for the three and six months ended October 31, 2015, respectively. Rent expense related to these leases is recorded in  Selling, general and administrative  expenses. 
+
+The Company purchases inventories from its former subsidiary, Southern Wall Products, Inc. ( SWP ), on a continuing basis. Certain stockholders of the Company are stockholders of SWP, which was spun off from Gypsum Management and Supply, Inc. on August 31, 2012. The Company purchased inventory from SWP for distribution in the amount of $3,306 and $6,471 in the three and six months ended October 31, 2016, respectively. The Company purchased inventory from SWP for distribution in the amount of $3,292 and $6,567 in the three and six months ended October 31, 2015, respectively. Amounts due to SWP for purchases of inventory for distribution as of October 31, 2016 and April 30, 2016 were  $1,079 and $1,097, respectively, and are included in  Accounts payable . Purchases between Gypsum Management and Supply, Inc. and SWP prior to the spin off were accounted for as intercompany transactions and eliminated in consolidation. 
+
+In connection with the IPO, the Company terminated its management agreement with AEA Investors LP. The agreement required the Company to pay AEA an annual management fee of $2,250 per year following the Acquisition for advisory and consulting services. The Company paid the final payment of $188 in the six months ended October 31, 2016 and $1,125 in the six months ended October 31, 2015, which is included in  Selling, general and administrative  expenses in the Condensed Consolidated Statements of Operations and Comprehensive Income. 
+
+10. Commitments and Contingencies 
+
+Litigation, Claims and Assessment 
+
+The Company is a defendant in various lawsuits and administrative actions associated with personal injuries, claims of former employees, and other events arising in the normal course of business. As discussed in Note 1   Insurance Liabilities , the Company records liabilities for these claims, and assets for amounts recoverable from the insurer, for these claims covered by insurance. 
+
+11. Segments 
+
+The Company applies the provisions of ASC Topic 280,    Segment Reporting  .  ASC 280, which is based on a management approach to segment reporting, establishes requirements to report selected segment information quarterly and to report annually entity wide disclosures about products, major customers and the geographies in which the entity holds material assets and reports revenue. An operating segment is defined as a component that engages in business activities whose operating results are reviewed by the chief operating decision maker ( CODM ) and for which discrete financial information is available. For purposes of evaluation under these segment reporting principles, the CODM assesses the Company s ongoing performance based on the periodic review of net sales, Adjusted EBITDA and certain other measures for each of the operating segments.  
+
+We report our financial results in accordance with GAAP. However, we present Adjusted EBITDA, which is not a recognized financial measure under GAAP, because we believe it assists investors and analysts in comparing our operating performance across reporting periods on a consistent basis by excluding items that we do not believe are indicative of our core operating performance. Management believes Adjusted EBITDA is helpful in highlighting trends   
+
+22 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+in our operating results, while other measures can differ significantly depending on long term strategic decisions regarding capital structure, the tax jurisdictions in which companies operate and capital investments. 
+
+In addition, we utilize Adjusted EBITDA in certain calculations under the ABL Facility and the First Lien Facility. The ABL Facility and the First Lien Facility permit us to make certain additional adjustments in calculating Consolidated EBITDA, such as projected net cost savings, which are not reflected in the Adjusted EBITDA data presented in this Quarterly Report on Form 10 Q. We may in the future reflect such permitted adjustments in our calculations of Adjusted EBITDA. 
+
+Based on the provisions of ASC 280, the Company has determined that it has seven operating segments. These operating segments are based on the seven geographic divisions of the Company, which are Central, Midwest, Northeast, Southern, Southeast, Southwest and Western, and Tool Source Warehouse, Inc. Due to similarities between the geographic operating segments, we have aggregated them into one reportable segment in accordance with ASC 280. The accounting policies of the operating segments are the same as those described in the summary of significant policies. In addition to our reportable segment, the Company s consolidated results include corporate activities, which include our corporate office building and related yard support activities and Tool Source Warehouse, Inc., which functions primarily as an internal distributor of tools. The Company has revised its prior year presentation of segment Depreciation and Amortization to disclose corporate Depreciation and Amortization of $445 for the six months ended October 31, 2015, originally disclosed as part of  Geographic divisions.  In addition, within the  Geographic divisions  segment the Company has increased net sales by $7,754 for the six months ended October 31, 2015 to correct amounts which were previously reflected in  Other.  The prior year misclassification was not material to the previously issued financial statements. Net sales, Adjusted EBITDA and certain other measures for the reportable segment and total continuing operations for the periods indicated are as follows: 
+
+23 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+The following is a reconciliation of our Adjusted EBITDA to  Net income  for the three and six months ended October 31, 2016 and 2015: 
+
+(a) 
+
+Represents non cash compensation expenses related to stock appreciation rights agreements. For additional details regarding stock appreciation rights, refer to  Management s Discussion and Analysis of Financial Condition and Results of Operations Critical Accounting Policies Subsidiary Equity Based Deferred Compensation Arrangements  included in our Annual Report on Form 10-K for the year ended April 30, 2016.     
+
+(b) 
+
+Represents non cash compensation expense related to changes in the redemption values of noncontrolling interests. For additional details regarding redeemable noncontrolling interests of our subsidiaries, refer to  Management s Discussion and Analysis of Financial Condition and Results of Operations Critical Accounting Policies Subsidiary Equity Based Deferred Compensation Arrangements  included in our Annual Report on Form 10-K for the year ended April 30, 2016.     
+
+(c) 
+
+Represents non cash equity based compensation expense related to the issuance of stock options.     
+
+(d) 
+
+Represents severance expenses and other costs permitted in calculations under the ABL Facility and the Term Loan Facilities.     
+
+(e) 
+
+Represents one time costs related to our IPO and acquisitions (other than the Acquisition) paid to third party advisors.     
+
+(f) 
+
+Represents management fees paid by us to our Sponsor. Following our IPO, our Sponsor no longer receives management fees from us.     
+
+(g) 
+
+Represents the non cash cost of sales impact of purchase accounting adjustments to increase inventory to its estimated fair value.     
+
+24 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+(h) 
+
+Represents the mark to market adjustments for the interest rate cap.     
+
+(i) 
+
+Quarterly amounts for fiscal 2016 included in the table above reflect the revised balances for income tax expense and net income as discussed in Note 1,  Basis of Presentation, Business, and Summary of Significant Accounting Policies  of Item 1 of this Quarterly Report on Form 10-Q.     
+
+The Company does not earn revenues or have long lived assets located in foreign countries. In accordance with the enterprise wide disclosure requirements of ASC 280, the Company s net sales to external customers by main product lines are as follows for the three and six months ended October 31, 2016 and 2015, respectively: 
+
+12. Earnings Per Common Share 
+
+The following table sets forth the computation of basic and diluted earnings per share of common stock for the three and six months ended October 31, 2016 and 2015: 
+
+25 
+
+Table of Contents  
+
+GMS Inc. 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Three and Six Months Ended October 31, 2016 and 2015 
+
+(in thousands of dollars, except for share and per share data) 
+
+13. Subsequent Events 
+
+Subsequent to October 31, 2016, the Company entered into a Second Amendment to ABL Credit Agreement (the  Second Amendment ) which amended the existing ABL Credit Agreement, dated April 1, 2014 (as amended by that certain First Amendment to ABL Credit Agreement, dated as of February 17, 2016, the  ABL Credit Agreement ), among GYP Holdings III Corp., as borrower, GYP Holdings II Corp., the lenders party hereto and Wells Fargo Bank, N.A., as administrative agent and collateral agent for the lenders.  
+
+The Second Amendment amended the ABL Credit Agreement to, among other things, (i) increase the Revolving Credit Commitments thereunder from $300,000 to $345,000, and (ii) extend the maturity date of the ABL Credit Agreement from April 1, 2019 to the earlier of   (a) November 18, 2021 or (b) the date of termination in whole of the ABL Credit Agreement and the related obligations. The Second Amendment amended the interest rate margin applicable to loans borrowed under the Credit Agreement to reflect a 0.25% decrease in the interest rate margin at each pricing level (as defined in the ABL Credit Agreement) relative to the interest rate margins charged at the corresponding pricing levels under the Credit Agreement. We will account for the Second Amendment based upon the guidance within Accounting Standards Codification 470-50,  Debt-Modifications and Extinguishments.  
+
+26 
+
+Table of Contents  
+
+Item 2.  Management s Discussion and Analysis of Financial Condition and Results of Operations   
+
+The following information should be read in conjunction with the unaudited condensed consolidated financial statements and related notes included in this Quarterly Report on Form 10-Q. The following discussion may contain forward-looking statements that reflect our plans, estimates and beliefs. Our actual results could differ materially from those discussed in these forward-looking statements. Factors that could cause or contribute to these differences include those factors discussed below and elsewhere in this Quarterly Report on Form 10-Q, particularly in  Cautionary Note Regarding Forward-Looking Statements,  and discussed in the section entitled  Risk Factors  included in our Annual Report on Form 10-K for the year ended April 30, 2016. 
+
+Recent Events 
+
+On September 27, 2016, we entered into an Incremental First Lien Term Commitments Amendment (the  Incremental Amendment ) to the First Lien Credit Agreement (the  Credit Agreement ), dated April 1, 2014, among GYP Holdings III Corp., as borrower, GYP Holdings II Corp., the financial institutions from time to time party thereto, as lenders, and Credit Suisse AG, as administrative agent and collateral agent. 
+
+The Incremental Amendment amended the Credit Agreement to, among other things, (i) refinance approximately $381.2 million in currently outstanding existing term loans borrowed under the Credit Agreement with a new tranche of $481.2 million incremental term loans, and (ii) reduce the interest rate applicable to loans borrowed under the Credit Agreement to LIBOR (subject to a floor of 1.00%) plus a borrowing margin of 3.50% from LIBOR plus a borrowing margin of 3.75%.  The portion of the incremental term loans that exceeded the refinanced existing term loans was used to repay the ABL Facility (as defined herein) in part.   In addition, we recorded a write-off of debt discount and deferred financing fees of $1.5 million to  Write-off of discount and deferred financing fees  in the Condensed Consolidated Statements of Operations and Comprehensive Income. We accounted for the Incremental Amendment based upon the guidance within Accounting Standards Codification 470-50,  Debt-Modification and Extinguishment.  
+
+Subsequent to October 31, 2016, certain of our direct and indirect subsidiaries entered into a Second Amendment to ABL Credit Agreement, dated November 18, 2016 (the  Second Amendment ), which amended the existing ABL Credit Agreement, dated April 1, 2014 (as amended by that certain First Amendment to ABL Credit Agreement, dated as of February 17, 2016, the  ABL Credit Agreement ), among GYP Holdings III Corp., as borrower, GYP Holdings II Corp., the lenders party hereto and Wells Fargo Bank, N.A., as administrative agent and collateral agent for the lenders. The Second Amendment amended the ABL Credit Agreement to, among other things, (i) increase the Revolving Credit Commitments thereunder from $300.0 million  to $345.0 million, and (ii) extend the maturity date of the ABL Credit Agreement from April 1, 2019 to the earlier of (a) November 18, 2021 or (b) the date of termination in whole of the ABL Credit Agreement and the related obligations. The Second Amendment also amended the interest rate margin applicable to loans borrowed under the Credit Agreement to reflect a 0.25% decrease in the interest rate margin at each pricing level (as defined in the ABL Credit Agreement) relative to the interest rate margins charged at the corresponding pricing levels under the Credit Agreement. We will account for the Second Amendment based upon the guidance within Accounting Standards Codification 470-50,  Debt-Modifications and Extinguishments.  
+
+Business Overview 
+
+Founded in 1971, we are the leading North American distributor of wallboard and ceilings. Our core customer is the interior contractor, who typically installs wallboard, ceilings and our other interior construction products in commercial and residential buildings. As a leading specialty distributor, we serve as a critical link between our suppliers and a highly fragmented customer base of over 20,000 contractors. Our operating model combines a national platform with a local go to market strategy through over 200 branches across the country. We believe this combination enables us to generate economies of scale while maintaining the high service levels, entrepreneurial culture and customer intimacy of a local business. 
+
+Our growth strategy entails taking market share within our existing footprint, expanding into new markets by opening new branches and acquiring competitors. We expect to continue to capture profitable market share in our existing footprint by delivering industry leading customer service. Our strategy for opening new branches is to further penetrate markets that are adjacent to our existing operations. Typically, we have pre existing customer relationships in these markets but need a new location to fully capitalize on those relationships. Since May 1, 2013 through the date of   
+
+27 
+
+Table of Contents  
+
+this filing, we have opened 24 new branches and we currently expect to open several new branches each year depending on market conditions. In addition, we will continue to selectively pursue tuck in acquisitions and have a dedicated team of professionals to manage the process. Due to the large, highly fragmented nature of our market and our reputation throughout the industry, we believe we have the potential to access a robust acquisition pipeline that will continue to supplement our organic growth. We use a rigorous targeting process to identify acquisition candidates that will fit our culture and business model. As a result of our scale, purchasing power and ability to improve operations through implementing best practices, we believe we can achieve substantial synergies and drive earnings accretion from our acquisition strategy. 
+
+Factors and Trends Affecting our Operating Results 
+
+General Economic Conditions and Outlook 
+
+Our business is sensitive to changes in general economic conditions, including, in particular, conditions in the North American commercial construction and housing markets. The markets we serve are broadly categorized as commercial new construction, commercial R R, residential new construction and residential R R. We believe all four end markets are currently in an extended period of expansion following a deep and prolonged downturn. 
+
+Our addressable commercial construction market is composed of a variety of commercial and institutional sub segments with varying demand drivers. Our commercial markets include offices, hotels, retail stores and other commercial buildings, while our institutional markets include educational facilities, healthcare facilities, government buildings and other institutional facilities. The principal demand drivers across these markets include the overall economic outlook, the general business cycle, government spending, vacancy rates, employment trends, interest rates, availability of credit and demographic trends. Given the extreme depth of the last recession, despite the growth to date, activity in the commercial construction market remains well below average historical levels. According to Dodge Data   Analytics, new commercial construction put in place was 935 million square feet during the 2015 calendar year, which is an increase of 38% from 680 million square feet during the 2010 calendar year. However, new commercial construction activity remains well below historical levels. New commercial construction square footage put in place of 935 million square feet in 2015 would have needed to increase by 36% in order to achieve the historical market average of 1.3 billion square feet annually since 1970. We believe this represents a significant growth opportunity as activity continues to improve. 
+
+We believe commercial R R spending is typically more stable than new commercial construction activity. Commercial R R spending is driven by a number of factors, including commercial real estate prices and rental rates, office vacancy rates, government spending and interest rates. Commercial R R spending is also driven by commercial lease expirations and renewals, as well as tenant turnover. Such events often result in repair, reconfiguration and/or upgrading of existing commercial space. As such, the commercial R R market has historically been less volatile than commercial new construction. While there is very limited third party data for commercial R R spending, we believe spending in this end market is in a period of expansion and will continue to grow over the next several years. 
+
+Residential construction activity is driven by a number of factors, including the overall economic outlook, employment, income growth, home prices, availability of mortgage financing, interest rates and consumer confidence, among others. According to the U.S. Census Bureau, U.S. housing starts reached 1.1 million in the 2015 calendar year, which is an increase of 10% from 2014 starts of 1.0 million. While housing starts increased for the sixth consecutive year in 2015, activity in the market remains well below historical levels. New residential housing starts of 1.1 million in 2015 would have needed to increase by 30% in order to reach their historical market average of 1.5 million annually since 1970. 
+
+While residential R R activity is typically more stable than new construction activity, we believe the prolonged period of under investment during the recent downturn will result in above average growth for the next several years. The primary drivers of residential R R spending include changes in existing home prices, existing home sales, the average age of the housing stock, consumer confidence and interest rates. According to the U.S. Census Bureau, residential R R spending, including repairs and improvements, reached $285.4 billion in the 2015 calendar year, which is an increase of 4.4% from $273.3 billion in 2014. 
+
+28 
+
+Table of Contents  
+
+Seasonality and Inflation 
+
+Our operating results are typically impacted by seasonality. Historically, sales of our products have been slightly higher in the first and second quarters of each fiscal year (covering the calendar months of May through October) due to favorable weather and longer daylight conditions during these periods. Seasonal variations in operating results may be impacted by inclement weather conditions, such as cold or wet weather, which can delay construction projects. 
+
+We believe that our results of operations are not materially impacted by moderate changes in the economic inflation rate. In general, we have historically been successful in passing on price increases from our vendors to our customers in a timely manner, although there is no assurance that we can successfully do so in the future. 
+
+Acquisitions 
+
+We complement our organic growth strategy with selective, tuck in acquisitions. Since the beginning of full year 2014 through the date of this filing, we have completed 22 strategic acquisitions totaling 53 branches. We believe that significant opportunities exist to expand our geographic footprint by executing additional strategic acquisitions and we consistently strive to maintain an extensive and active acquisition pipeline. We are often evaluating several acquisition opportunities at any given time.  
+
+Since the beginning of full year 2014 through the date of this filing, we have completed the following acquisitions: 
+
+29 
+
+Table of Contents  
+
+Our Products 
+
+The following is a summary of our net sales by product group for the three and six months ended October 31, 2016 and 2015: 
+
+Results of Operations 
+
+Three Months Ended October 31, 2016 and 2015 
+
+The following table summarizes key components of our results of operations for the three months ended October 31, 2016 and 2015: 
+
+(1) 
+
+Adjusted EBITDA and Adjusted EBITDA margin are non GAAP measures. See   Non-GAAP Financial Measures Adjusted EBITDA,  for how we define and calculate Adjusted EBITDA and Adjusted EBITDA margin, reconciliations thereof to net income and a description of why we believe these measures are important.     
+
+Net Sales 
+
+Net sales of $591.8 million for the three months ended October 31, 2016 increased $133.7 million, or 29.2%, on one additional shipping day, from $458.1 million for the three months ended October 31, 2015. Our performance in the three months ended October 31, 2016 was strong as our sales increased across all product categories. In the three months ended October 31, 2016, our wallboard sales, which are impacted by both commercial and residential construction   
+
+30 
+
+Table of Contents  
+
+activity, increased by $55.7 million, or 26.0.%, compared to the three months ended October 31, 2015. The increase in wallboard sales was a result of a 27.2% increase in unit volume primarily driven by greater end market demand, market share gains and the impact of acquisitions, partially offset by a 1.0% decrease in pricing. In addition, in the three months ended October 31, 2016, our ceilings sales increased $10.8 million, or 14.5%, from the three months ended October 31, 2015, and steel framing sales increased $25.8 million, or 36.7%. The increases in ceilings and steel framing sales are primarily driven by commercial construction activity. For the three months ended October 31, 2016, our other products sales category, which includes tools, insulation, joint treatment and various other specialty products, increased $41.5 million, or 42.0%, compared to the three months ended October 31, 2015. Other products net sales benefitted from significant pull through factor, further supplemented by pricing improvements, additional retail showrooms, targeted acquisitions and other strategic initiatives. 
+
+From February 1, 2015 through October 31, 2016, we have completed 16 acquisitions, totaling 46 branches. These acquisitions contributed $112.8 million and $25.6 million to our net sales in the three months ended October 31, 2016 and 2015, respectively. Excluding these acquired sites, for the three months ended October 31, 2016 and 2015, our base business net sales increased $46.5 million, or 10.8%, compared to the three months ended October 31, 2015. The overall increase in our base business net sales reflects the increase in demand for our products as a result of the improvement in new housing starts, R R activity and commercial construction, coupled with market share gains. 
+
+The following table breaks out our consolidated net sales into the base business component and the excluded components, which consist of recently acquired branches, as shown below: 
+
+When calculating our  base business  results, we exclude any branches that were acquired in the current fiscal year, prior fiscal year and three months prior to the start of the prior fiscal year. Therefore, any acquisition occurring between February 1, 2015 and April 30, 2017 will be excluded from base business net sales for any period during fiscal year 2017. 
+
+31 
+
+Table of Contents  
+
+We have excluded the following acquisitions from the base business for the periods identified: 
+
+Gross Profit and Gross Margin 
+
+Gross profit was $193.2 million for the three months ended October 31, 2016 compared to $143.9 million for the three months ended October 31, 2015. The increase in gross profit was due to $133.7 million in additional sales, partially offset by a $84.5 million increase in cost of sales. Gross margin on net sales increased to 32.6% for the three months ended October 31, 2016 compared to 31.4% for the three months ended October 31, 2015 primarily as the result of improved product margins and mix. 
+
+Selling, General and Administrative Expenses 
+
+Selling, general and administrative expenses consist of warehouse, delivery and general and administrative expenses. Our selling, general and administrative expenses increased $35.4 million, or 31.0%, to $149.8 million for the three months ended October 31, 2016 from $114.4 million for the three months ended October 31, 2015. This increase was due to increases in warehouse expense of $4.6 million, of which $2.1 million was related to payroll and $1.4 million was related to facility costs; delivery expense of $13.4 million, of which $8.6 million was related to payroll and $2.3 million was related to equipment rental cost increases; and increases in branch and corporate general and administrative expenses of $17.4 million, of which $11.8 million was driven by payroll and payroll related costs, $1.7 million was related to increases in real estate rent expense, and the majority of the remaining increase was due to increases in expenses incurred as a result of the Company s significant growth and recent IPO. The increases in payroll and payroll related costs were primarily due to increased headcount, which in turn was due to the increase in delivered volume and to acquisitions. Selling, general and administrative expenses were 25.3% and 25.0% of our net sales for the three months ended October 31, 2016 and 2015, respectively. 
+
+Depreciation and Amortization Expense 
+
+Depreciation and amortization expense was $17.4 million for the three months ended October 31, 2016 compared to $15.3 million for the three months ended October 31, 2015. The increase is primarily due to an increase in amortization of acquired definite lived intangible assets of $2.0 million. 
+
+Other Expense 
+
+Other expense consists primarily of interest expense associated with our debt, interest income and miscellaneous non operating income. 
+
+32 
+
+Table of Contents  
+
+Interest expense of $7.2 million in the three months ended October 31, 2016 decreased by $2.1 million from $9.3 million for the three months ended October 31, 2015. This decrease was primarily driven by the decrease in interest expense (including the decrease in amortization of the related deferred financing costs and original issue discount) of $2.8 million related to the Term Loan Facilities, which was, in turn, primarily the result of the repayment of $160.0 million of the Second Lien Facility. The decrease in interest expense related to the Term Loan Facilities was offset primarily by an increase in interest expense on the ABL Facility of $0.7 million, which was, in turn, due to the increase in the outstanding balance of the ABL Facility from $21.5 million as of October 31, 2015 to $152.4 million as of October 31, 2016. See   Liquidity and Capital Resources Our Credit Facilities.  
+
+Also included in  Other expense  is the write-off of debt discount and deferred financing fees of $1.5 million for the three months ended October 31, 2016. We wrote-off these debt discount and deferred financing fees of $1.5 million in connection with the refinancing the First Lien Facility. 
+
+Income Tax Expense 
+
+Income tax expense was $0.7 million for the three months ended October 31, 2016 compared to income tax expense of $2.6 million for the three months ended October 31, 2015. This $1.9 million decrease in income tax expense was primarily the result of an increase in taxable income due to higher profitability. Our effective tax rate was 4.0% and 48.1% for the three months ended October 31, 2016 and 2015, respectively. The decrease in the effective tax rate from the three months ended October 31, 2015 to the three months ended October 31, 2016 is primarily due to a $7.0 million decrease in deferred tax liabilities and tax expense resulting from the 338 (h)(10) election  made for the Gypsum Supply Company acquisition, which decreased the effective rate by 38.8%, as well as, to a lesser degree, the decreased impact of permanent differences and a decrease in the blended state tax rates.  
+
+Net Income 
+
+Net income of $17.2 million for the three months ended October 31, 2016 increased $14.4 million from our net income of $2.8 million for the three months ended October 31, 2015. The net income of $17.2 million for the three months ended October 31, 2016 was comprised of operating profit of $26.1 million, interest expense of $7.2 million, write-off of discount and deferred financing fees of $1.5 million, other income of $0.5 million and income tax expense of $0.7 million. The net income of $2.8 million for the three months ended October 31, 2015 was comprised of operating profit of $14.3 million, interest expense of $9.3 million, other income of $0.4 million and income tax expense of $2.6 million. 
+
+Adjusted EBITDA 
+
+Adjusted EBITDA of $49.5 million for the three months ended October 31, 2016 increased $14.7 million, or 42.3%, from our Adjusted EBITDA of $34.8 million for the three months ended October 31, 2015. The increase in Adjusted EBITDA was primarily due to increased profitability on higher net sales during the three months ended October 31, 2016, which was partially offset by increases in variable costs to support the increased sales volumes. These variable costs include warehouse and delivery costs and other variable compensation. See   Non-GAAP Financial Measures Adjusted EBITDA,  for how we define and calculate Adjusted EBITDA, reconciliations thereof to net income and a description of why we believe these measures are important. 
+
+33 
+
+Table of Contents  
+
+Six Months Ended October 31, 2016 and 2015 
+
+The following table summarizes key components of our results of operations for the six months ended October 31, 2016 and 2015: 
+
+(1) 
+
+Adjusted EBITDA and Adjusted EBITDA margin are non GAAP measures. See   Non-GAAP Financial Measures Adjusted EBITDA,  for how we define and calculate Adjusted EBITDA and Adjusted EBITDA margin, reconciliations thereof to net income and a description of why we believe these measures are important.     
+
+Net Sales 
+
+Net sales of $1,141.6 million for the six months ended October 31, 2016 increased $231.1 million, or 25.4%, from $910.5 million for the six months ended October 31, 2015. Our performance in the six months ended October 31, 2016 was strong as our sales increased across all product categories. In the six months ended October 31, 2016, our wallboard sales, which are impacted by both commercial and residential construction activity, increased by $96.1 million, or 22.6%, compared to the six months ended October 31, 2015. The increase in wallboard sales was a result of a 23.7% increase in unit volume primarily driven by greater end market demand, market share gains and the impact of acquisitions, partially offset by a 0.9% decrease in pricing. In addition, in the six months ended October 31, 2016, our ceiling sales increased $18.2 million, or 11.8%, from the six months ended October 31, 2015, and steel framing sales increased $42.8 million, or 31.1%. The increases in ceiling and steel framing sales are primarily driven by commercial construction activity. For the six months ended October 31, 2016, our other products sales category, which includes tools, insulation, joint treatment and various other specialty products, increased $74.1 million, or 38.2%, compared to the six months ended October 31, 2015. Other products net sales benefitted from significant pull through factor, further supplemented by pricing improvements, additional retail showrooms, targeted acquisitions and other strategic initiatives. 
+
+From February 1, 2015 through October 31, 2016, we have completed 16 acquisitions, totaling 46 branches. These acquisitions contributed $195.5 million and $50.2 million to our net sales in the six months ended October 31, 2016 and 2015, respectively. Excluding these acquired sites, for the six months ended October 31, 2016 and 2015, our base business net sales increased $85.9 million, or 10.0%, compared to the six months ended October 31, 2015. The overall increase in our base business net sales reflects the increase in demand for our products as   
+
+34 
+
+Table of Contents  
+
+a result of the improvement in new housing starts, R R activity and commercial construction, coupled with market share gains. 
+
+The following table breaks out our consolidated net sales into the base business component and the excluded components, which consist of recently acquired branches, as shown below: 
+
+When calculating our  base business  results, we exclude any branches that were acquired in the current fiscal year, prior fiscal year and three months prior to the start of the prior fiscal year. Therefore, any acquisition occurring between February 1, 2015 and April 30, 2017 will be excluded from base business net sales for any period during fiscal year 2017. 
+
+We have excluded the following acquisitions from the base business for the periods identified: 
+
+Gross Profit and Gross Margin 
+
+Gross profit was $371.8 million for the six months ended October 31, 2016 compared to $284.8 million for the six months ended October 31, 2015. The increase in gross profit was due to $231.1 million in additional sales, partially offset by a $144.1 million increase in cost of sales. Gross margin on net sales increased to 32.6% for the six months ended October 31, 2016 compared to 31.3% for the six months ended October 31, 2015 primarily as the result of improved product margins and mix. 
+
+Selling, General and Administrative Expenses 
+
+Selling, general and administrative expenses consist of warehouse, delivery and general and administrative expenses. Our selling, general and administrative expenses increased $60.3 million, or 26.8%, to $284.9 million for the six months ended October 31, 2016 from $224.6 million for the six months ended October 31, 2015. This increase was due to increases in warehouse expense of $7.9 million, of which $3.9 million was related to payroll and $2.2 million was   
+
+35 
+
+Table of Contents  
+
+related to facility costs; delivery expense of $24.4 million, of which $15.5 million was related to payroll and $4.5 million was related to equipment rental cost increases; and increases in branch and corporate general and administrative expenses of $28.0 million, of which $19.0 million was driven by payroll and payroll related costs, $3.1 million was related to increases in real estate rent expense and the majority of the remaining increase was due to increases in expenses incurred as a result of the Company s significant growth and recent IPO. The increases in payroll and payroll related costs were primarily due to increased headcount, which in turn was due to the increase in delivered volume and to acquisitions. Selling, general and administrative expenses were 25.0% and 24.7% of our net sales for the six months ended October 31, 2016 and 2015, respectively. 
+
+Depreciation and Amortization Expense 
+
+Depreciation and amortization expense was $33.2 million for the six months ended October 31, 2016 compared to $31.3 million for the six months ended October 31, 2015. The increase is primarily due to an increase in amortization of acquired definite lived intangible assets of $2.6 million, offset by a decrease in depreciation and amortization expense of property and equipment of $0.8 million. 
+
+Other Expense 
+
+Other expense consists primarily of interest expense associated with our debt, interest income and miscellaneous non operating income and expense. 
+
+Interest expense of $14.7 million in the six months ended October 31, 2016 decreased by $3.8 million from $18.5 million for the six months ended October 31, 2015. This decrease was primarily driven by the decrease in interest expense (including the decrease in amortization of the related deferred financing costs and original issue discount) of $5.1 million related to the Term Loan Facilities, which was, in turn, primarily the result of the repayment of $160.0 million of the Second Lien Facility. The decrease in interest expense related to the Term Loan Facilities was offset primarily by an increase in interest expense on the ABL Facility of $1.3 million, which was, in turn, due to the increase in the outstanding balance of the ABL Facility from $21.5 million as of October 31, 2015 to $152.4 million as of October 31, 2016. See   Liquidity and Capital Resources Our Credit Facilities.  
+
+Also included in  Other expense  is the write-off of debt discount and deferred financing fees of $6.9 million for the six months ended October 31, 2016. This includes $5.4 million which was written off in connection with the repayment of the $160.0 million principal amount of our Second Lien Facility as well as $1.5 million in connection with the refinancing the First Lien Facility. 
+
+Income Tax Expense 
+
+Income tax expense was $6.9 million for the six months ended October 31, 2016 compared to income tax expense of $5.5 million for the six months ended October 31, 2015. This $1.4 million increase in income tax expense was primarily the result of an increase in taxable income due to higher profitability. Our effective tax rate was 20.7% and 48.4% for the six months ended October 31, 2016 and 2015, respectively. The decrease in the effective tax rate from the six months ended October 31, 2015 to the six months ended October 31, 2016 is primarily due to a $7.0 million decrease in deferred tax liabilities and tax expense resulting from the 338 (h)(10) election made for the Gypsum Supply Company acquisition, which decreased the effective rate by 20.9%, as well as, to a lesser degree, the decreased impact of permanent differences and a decrease in the blended state tax rates.  
+
+Net Income 
+
+Net income of $26.4 million for the six months ended October 31, 2016 increased $20.6 million from our net income of $5.8 million for the six months ended October 31, 2015. The net income of $26.4 million for the six months ended October 31, 2016 was comprised of operating profit of $53.8 million, interest expense of $14.7 million, write-off of discount and deferred financing fees of $6.9 million, other income of $1.1 million and income tax expense of $6.9 million. The net income of $5.8 million for the six months ended October 31, 2015 was comprised of operating profit of $28.9 million, interest expense of $18.5 million, other income of $0.9 million and income tax expense of $5.5 million. 
+
+36 
+
+Table of Contents  
+
+Adjusted EBITDA 
+
+Adjusted EBITDA of $95.5 million for the six months ended October 31, 2016 increased $26.6 million, or 38.6%, from our Adjusted EBITDA of $68.9 million for the six months ended October 31, 2015. The increase in Adjusted EBITDA was primarily due to increased profitability on higher net sales during the six months ended October 31, 2016, which was partially offset by increases in variable costs to support the increased sales volumes. These variable costs include warehouse and delivery costs and other variable compensation costs. See   Non-GAAP Financial Measures Adjusted EBITDA,  for how we define and calculate Adjusted EBITDA, reconciliations thereof to net income and a description of why we believe these measures are important. 
+
+Liquidity and Capital Resources 
+
+Summary 
+
+We depend on cash flow from operations, cash on hand and funds available under the ABL Facility to finance working capital needs and capital expenditures. We believe that these sources of funds will be adequate to fund debt service requirements and provide cash, as required, to support our strategies, ongoing operations, capital expenditures, lease obligations and working capital for at least the next 12 months. 
+
+As of October 31, 2016, we had available borrowing capacity of approximately $167.6 million under our $300.0 million ABL Facility. For a summary of selected terms of the ABL Facility and other indebtedness, see   Our Credit Facilities.      A  s discussed in "   Recent Events  " we amended our ABL Facility on   November 18, 2016. 
+
+In September 2016, the Company entered into an Incremental First Lien Term Commitments Amendment (the  Incremental Amendment ) to the First Lien Credit Agreement (the  Credit Agreement ), dated April 1, 2014, among GYP Holdings III Corp., as borrower, GYP Holdings II Corp., the financial institutions from time to time party thereto, as lenders, and Credit Suisse AG, as administrative agent and collateral agent. 
+
+The Incremental Amendment amended the Credit Agreement to, among other things, (i) refinance approximately $381.2 million in currently outstanding existing term loans borrowed under the Credit Agreement with a new tranche of $481.2 million incremental term loans, and (ii) reduce the interest rate applicable to loans borrowed under the Credit Agreement to LIBOR plus 3.50% from LIBOR plus 3.75%.  The portion of the incremental term loans that exceeded the refinanced existing term loans was used to repay the ABL Facility in part. 
+
+In fiscal 2016, we amended our ABL Facility to exercise the $100.0 million accordion feature of the ABL Facility which increased the aggregate revolving commitments from $200.0 million to $300.0 million and increased the sublimit for same day swing line borrowings from $20.0 million to $30.0 million. The other terms of the ABL Facility remain unchanged. 
+
+For the six months ended October 31, 2016 and 2015, our use of cash was primarily driven by our investing activities, particularly our investments in acquisitions and property and equipment for our operating facilities. 
+
+Treasury Stock 
+
+In fiscal 2016, we repurchased 394,577 shares of our common stock at a cost of $5.8 million in connection with our separation agreement with a former employee. We then reissued these shares for proceeds of $4.9 million. The difference between the cost of the treasury stock and the proceeds from its reissuance was accounted for, using the  cost  method, as an increase to accumulated deficit of $1.0 million as of April 30, 2016. We do not have plans to repurchase a significant number of shares in the near future. 
+
+37 
+
+Table of Contents  
+
+Cash Flows 
+
+A summary of our operating, investing and financing activities is shown in the following table: 
+
+Operating Activities 
+
+Cash provided by, or used in, operating activities consists primarily of net income adjusted for non cash items, including depreciation and amortization, equity based compensation, deferred taxes and the effects of changes in operating assets and liabilities, which were primarily the changes in working capital discussed below. 
+
+Net cash provided by operating activities was $0.7 million for the six months ended October 31, 2016. This cash provided was primarily driven by net income of $26.4 million and non-cash adjustments of $42.5 million, including depreciation and amortization of $41.4 million. Cash provided by operating activities was partially offset by cash used to build primary working capital of $32.2 million, primarily driven by an increase in trade accounts and notes receivable and inventory, coupled with cash used for current assets and liabilities, net of $23.6 million and deferred tax benefits of $12.4 million. 
+
+Net cash used in operating activities was $2.3 million for the six months ended October 31, 2015. This use of cash was primarily driven by cash used to build primary working capital of $22.7 million, principally receivables, coupled by cash used for current assets and liabilities, net of $10.7 million and deferred taxes of $11.1 million. Cash used in operating activities was partially offset by net income of $5.8 million and non-cash adjustments of $36.4 million, including depreciation and amortization of $33.0 million. The increase in accounts receivable was the result of increased sales. 
+
+Investing Activities 
+
+Net cash used in investing activities consists primarily of acquisitions; investments in our facilities including purchases of land, buildings, and leasehold improvements; and purchases of fleet assets, IT and other equipment. We present this figure net of proceeds from asset sales which typically relate to sales of our fleet assets and closed facilities. 
+
+In the six months ended October 31, 2016, net cash used in investing activities was $139.3 million, which consists of purchases of property and equipment of $5.0 million, net of $1.3 million in proceeds from asset sales and $135.6 million used to acquire businesses during the period. 
+
+In the six months ended October 31, 2015, net cash provided by investing activities was $2.6 million, which consists of purchases of property and equipment of $2.7 million, net of $6.1 million in proceeds from asset sales and $0.8 million used to acquire businesses during the period. 
+
+Capital expenditures vary depending on prevailing business factors, including current and anticipated market conditions. Historically, capital expenditures have for the most part remained at relatively low levels in comparison to the operating cash flows generated during the corresponding periods. We expect our fiscal 2017 capital expenditures to be approximately $8.0 million to $11.0 million (excluding acquisitions) primarily related to fleet and equipment purchases, facilities and IT investments to support our operations. 
+
+38 
+
+Table of Contents  
+
+Financing Activities 
+
+Cash provided by, or used in, financing activities consists primarily of borrowings and related repayments under our credit agreements, as well as repayments of capital lease obligations and proceeds from the sales of equity. 
+
+Net cash provided by financing activities was $135.9 million for the six months ended October 31, 2016, consisting primarily of net borrowings from the ABL Facility of $50.4 million, an extension on the First Lien Facility of $100.0 million and proceeds from the IPO of $156.9 million offset by the repayment of the Second Lien Facility of $160.0 million. In the six months ended October 31, 2015, cash used in financing activities was $3.1 million, which consisted primarily of net borrowings from the ABL Facility of $4.5 million offset by stock repurchases of $5.8 million. 
+
+Adjusted Working Capital 
+
+Adjusted working capital is an important measurement that we use in determining the efficiencies of our operations and our ability to readily convert assets into cash. Adjusted working capital represents current assets, excluding cash and cash equivalents, minus current liabilities, excluding current maturities of long term debt. The material components of adjusted working capital for us include accounts receivable, inventory and accounts payable. Management of our adjusted working capital helps to ensure we can maximize our return and continue to invest in our operations for future growth. Comparing our adjusted working capital to that of other companies in our industry may be difficult, as other companies may calculate adjusted working capital differently than we do. A summary of working capital and adjusted working capital as of October 31, 2016 and April 30, 2016 is shown in the following table: 
+
+Our adjusted working capital increased by $81.5 million from April 30, 2016 to October 31, 2016 as a result of an increase in working capital of $103.2 million and a decrease in cash and cash equivalents of $2.7 million, offset by a $24.4 million decrease in current maturities of long term debt. Working capital increased by $103.2 million as a result of an increase in trade accounts and notes receivable and inventories, net of $54.4 million and $26.7 million, respectively, and decreases in other current liabilities of $36.3 million partially offset by an increase in accounts payable of $15.4 million. The increase in trade accounts and notes receivable was related to increases in sales and to working capital needs related to acquisitions. 
+
+Our Credit Facilities 
+
+Our long term debt consisted of the following at October 31, 2016 and April 30, 2016: 
+
+Acquisition Debt 
+
+On April 1, 2014, our wholly owned subsidiaries, GYP Holdings II Corp., as parent guarantor, and GYP Holdings III Corp., as borrower, entered into a senior secured first lien term loan facility, or the First Lien Facility, and a senior secured second lien term loan facility, or the Second Lien Facility and, together with the First Lien Facility, the Term Loan Facilities, in the aggregate amount of $550.0 million in connection with the Acquisition. The proceeds from the Term Loan Facilities were used to (i) repay all amounts outstanding under the 2010 Credit Facility in the amount of $86.1 million, (ii) pay the Acquisition purchase price and (iii) pay related fees and expenses. 
+
+39 
+
+Table of Contents  
+
+The First Lien Facility was issued in an original aggregate principal amount of $388.1 million (net of $1.9 million of original issue discount). The Second Lien Facility was issued in an original aggregate principal amount of $158.4 million (net of $1.6 million of original issue discount). The First Lien Facility permits us to add one or more incremental term loans up to a fixed amount of $100.0 million plus a certain amount depending on a secured first lien leverage ratio test included in the First Lien Facility. The First Lien Facility bears interest at LIBOR (subject to a floor of 1.00%) plus a borrowing margin of 3.75%. The First Lien Facility amortizes in nominal quarterly installments equal to approximately $975 thousand or 0.25% of the original aggregate principal amount of the First Lien Facility and matures on April 1, 2021. Provided that the individual affected lenders agree accordingly, the maturities of the term loans under the Term Loan Facilities, may, upon our request and without the consent of any other lender, be extended. Further, we are not subject to any financial maintenance covenants pursuant to the terms of the Term Loan Facilities. 
+
+In June 2016, we used the IPO proceeds together with cash on hand to repay the $160.0 million principal amount of our Second Lien Facility, which was a payment in full of the entire loan balance due under the Second Lien Facility during the six months ended October 31, 2016. 
+
+In September 2016, we entered into the Incremental Amendment to the Credit Agreement. The Incremental Amendment amended the Credit Agreement to, among other things, (i) refinance approximately $381.2 million in currently outstanding existing term loans borrowed under the Credit Agreement with a new tranche of $481.2 million incremental term loans, and (ii) reduce the interest rate applicable to loans borrowed under the Credit Agreement to LIBOR (subject to a floor of 1.00%) plus a borrowing margin of 3.50% from LIBOR plus a borrowing margin of 3.75%. At October 31, 2016, the borrowing interest rates for the First Lien Facility was 4.50%. Accrued interest, presented within other accrued expenses and current liabilities in our consolidated balance sheets, was approximately $0.4 million and $0.2 million at October 31, 2016 and April 30, 2016, respectively, and cash paid for interest was $11.0 million and $15.7 million in the six months ended October 31, 2016 and 2015, respectively. 
+
+Asset Based Lending Facility 
+
+The asset based revolving credit facility, or the ABL Facility, entered into on April 1, 2014, provides for revolving loans and the issuance of letters of credit up to an initial maximum aggregate principal amount of $200.0 million. Extensions of credit under the ABL Facility will be limited by a borrowing base calculated periodically based on specified percentages of the value of eligible inventory and eligible accounts receivable, subject to certain reserves and other adjustments. As of six months ended October 31, 2016, there was approximately $0.4 million accrued interest payable on the ABL Facility. In the six months ended October 31, 2016 and 2015, we paid interest and other fees of $2.0 million and $0.8 million, respectively, on the ABL Facility. 
+
+In fiscal 2016, we amended our ABL Facility to exercise the $100.0 million accordion feature of the ABL Facility which increased the aggregate revolving commitments from $200.0 million to $300.0 million and increased the sublimit for same day swing line borrowings from $20.0 million to $30.0 million. The other terms of the ABL Facility remain unchanged. 
+
+At our option, the interest rates applicable to the loans under the ABL Facility are based at LIBOR or Base Rate, plus, in each case, an applicable margin. The margins applicable for each elected interest rate are subject to a pricing grid, as defined in the ABL Facility Credit Agreement, based on average daily availability for the most recent fiscal quarter. The ABL Facility also contains an unused commitment fee subject to utilization, as included in the ABL Facility Credit Agreement. 
+
+The ABL Facility will mature on April 1, 2019 unless the individual affected lenders agree to extend the maturity of their respective loans under the ABL Facility upon our request and without the consent of any other lender. 
+
+As of October 31, 2016,  approximately $167.6 million was available for future borrowings under our ABL Facility. 
+
+Subsequent to October 31, 2016, the Company entered into the Second Amendment to the ABL Credit Agreement. The Second Amendment amended the ABL Credit Agreement to, among other things, (i) increase the Revolving Credit Commitments thereunder from $300.0 million  to $345.0 million, and (ii) extend the maturity date of the ABL Credit Agreement from April 1, 2019 to the earlier of (a) November 18, 2021 or (b) the date of termination in whole of the ABL Credit Agreement and the related obligations. The Second Amendment also amended the interest rate   
+
+40 
+
+Table of Contents  
+
+margin applicable to loans borrowed under the Credit Agreement to reflect a 0.25% decrease in the interest rate margin at each pricing level (as defined in the ABL Credit Agreement) relative to the interest rate margins charged at the corresponding pricing levels under the Credit Agreement. 
+
+Collateral under the ABL Facility and Term Loan Facilities 
+
+The ABL Facility is collateralized by (a) first priority perfected liens on our (i) accounts receivable, (ii) inventory, (iii) deposit accounts, (iv) cash and cash equivalents, (v) tax refunds and tax payments, (vi) chattel paper and (vii) documents, instruments, general intangibles, securities accounts, books and records, proceeds and supporting obligations related to each of the foregoing, subject to certain exceptions (collectively,  ABL Priority Collateral ) and (b) third priority perfected liens on our remaining assets not constituting ABL Priority Collateral, subject to customary exceptions (collectively,  Term Priority Collateral ). 
+
+The First Lien Facility and the Second Lien Facility are collateralized by (a) first priority liens and second priority liens, respectively, on the Term Priority Collateral and (b) second priority liens and third priority liens, respectively, on the ABL Priority Collateral, subject to customary exceptions. 
+
+Prepayments under the ABL Facility and Term Loan Facilities 
+
+The ABL Facility may be prepaid at our option at any time without premium or penalty and will be subject to mandatory prepayment if the outstanding ABL Facility exceeds the lesser of the (i) borrowing base and (ii) the aggregate amount of commitments. Mandatory prepayments do not result in a permanent reduction of the lenders  commitments under the ABL Facility. 
+
+The Term Loans under the Term Loan Facilities may be prepaid at any time without penalty. Under certain circumstances and subject to certain exceptions, the Term Loan Facilities will be subject to mandatory prepayments in the amount equal to: 100% of the net proceeds of certain assets sales and issuances or incurrences of non permitted indebtedness; and 50% of annual excess cash flow for any fiscal year, such percentage to decrease to 25% or 0% depending on the attainment of certain total leverage ratio targets. 
+
+As of October 31, 2016 and April 30, 2015, there was no requirement for a prepayment related to excess cash flow. 
+
+Guarantees 
+
+GYP Holdings III Corp. is the borrower under Term Loan Facilities and the lead borrower under the ABL Facility. Our wholly owned subsidiary, GYP Holdings II Corp. (and direct parent of GYP Holdings III Corp.) guarantees our payment obligations under the Term Loan Facilities and the ABL Facility. Certain of our other subsidiaries are co borrowers under the ABL Facility and guarantee our payment obligations under the Term Loan Facilities. 
+
+Covenants under the ABL Facility and Term Loan Facilities 
+
+The ABL Facility contains certain affirmative covenants, including financial and other reporting requirements. We were in compliance with all such covenants at October 31, 2016 and April 30, 2016. 
+
+The Term Loan Facilities contain a number of covenants that limit our ability and the ability of our restricted subsidiaries, as described in the Term Loan Credit Agreements, to: (i) incur more indebtedness; (ii) pay dividends, redeem stock or make other distributions; (iii) make investments; (iv) create restrictions on the ability of our restricted subsidiaries to pay dividends to us or make other intercompany transfers; (v) create liens securing indebtedness; (vi) transfer or sell assets; (vii) merge or consolidate; (viii) enter into certain transactions with our affiliates; and (ix) prepay or amend the terms of certain indebtedness. We were in compliance with all restrictive covenants at October 31, 2016 and April 30, 2016. 
+
+Events of Default under the ABL Facility and Term Loan Facilities 
+
+The ABL Facility and Term Loan Facilities provide for customary events of default, including non payment of principal, interest or fees, violation of covenants, material inaccuracy of representations or warranties, specified cross   
+
+41 
+
+Table of Contents  
+
+default to other material indebtedness, certain bankruptcy events, certain ERISA events, material invalidity of guarantees or security interest, material judgments and changes of control. 
+
+Installment Notes 
+
+The installment notes as of October 31, 2016 and April 30, 2016 represent notes for subsidiary stock repurchases from shareholders, notes for the payout of stock appreciation rights and a note to a seller of an acquired business. 
+
+Contractual Obligations 
+
+A  s discussed in "   Recent Events  " we fully repaid the Second Lien Facility using net proceeds from our IPO in the six months ended October 31, 2016. Other than the repayment of the Second Lien Facility t  here have been no material changes to the contractual obligations as disclosed in our Annual Report on Form 10-K for the fiscal year ended April 30, 2016, other than those made in the ordinary course of business. 
+
+Off Balance Sheet Arrangements 
+
+There have been no material changes to our off-balance sheet arrangements as discussed in our Annual Report on Form 10-K for the fiscal year ended April 30, 2016. 
+
+Critical Accounting Policies and Estimates 
+
+There have been no material changes to our critical accounting policies and estimates discussed in our Annual Report on Form 10-K for the fiscal year ended April 30, 2016. 
+
+Accounting Pronouncements Recently Adopted 
+
+See Note 1,   Basis of Presentation, Business and Summary of Significant Accounting Policies  , of Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10-Q for information regarding recently adopted accounting pronouncements. 
+
+Accounting Pronouncements Not Yet Adopted 
+
+See Note 1,   Basis of Presentation, Business and Summary of Significant Accounting Policies  , of Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10-Q for information regarding not yet adopted accounting pronouncements. 
+
+Non-GAAP Financial Measures 
+
+Adjusted EBITDA 
+
+The following is a reconciliation of our net income to Adjusted EBITDA for the six months ended October 31, 2016 and 2015. EBITDA, Adjusted EBITDA and Adjusted EBITDA margin are non-GAAP measures.   We report our financial results in accordance with GAAP. However, we present Adjusted EBITDA and Adjusted EBITDA margin, which are not recognized financial measures under GAAP, because we believe they assist investors and analysts in comparing our operating performance across reporting periods on a consistent basis by excluding items that we do not believe are indicative of our core operating performance. Management believes Adjusted EBITDA and Adjusted EBITDA margin is helpful in highlighting trends in our operating results, while other measures can differ significantly depending on long term strategic decisions regarding capital structure, the tax jurisdictions in which companies operate and capital investments. 
+
+In addition, we utilize Adjusted EBITDA in certain calculations under the ABL Facility and the First Lien Facility. The ABL Facility and the First Lien Facility permit us to make certain additional adjustments in calculating Consolidated EBITDA, such as projected net cost savings, which are not reflected in the Adjusted EBITDA data   
+
+42 
+
+Table of Contents  
+
+presented in this Quarterly Report on Form 10 Q. We may in the future reflect such permitted adjustments in our calculations of Adjusted EBITDA. See also,   Liquidity and Capital Resources Our Credit Facilities.  
+
+We believe that Adjusted EBITDA and Adjusted EBITDA margin are frequently used by analysts, investors and other interested parties in their evaluation of companies, many of which present an Adjusted EBITDA or Adjusted EBITDA margin measure when reporting their results. Our presentation of Adjusted EBITDA should not be construed as an inference that our future results will be unaffected by unusual or non recurring items. In addition, Adjusted EBITDA may not be comparable to similarly titled measures used by other companies in our industry or across different industries. 
+
+We also include information concerning Adjusted EBITDA margin, which is calculated as Adjusted EBITDA divided by net sales. We present Adjusted EBITDA margin because it is used by management as a performance measure to judge the level of Adjusted EBITDA that is generated from net sales. 
+
+Adjusted EBITDA and Adjusted EBITDA margin have their limitations as analytical tools and should not be considered in isolation, or as a substitute for analysis of our results as reported under GAAP. Some of these limitations include: 
+
+Adjusted EBITDA and Adjusted EBITDA margin do not reflect every expenditure, future requirements for capital expenditures or contractual commitments;     
+
+Adjusted EBITDA does not reflect changes in our working capital needs;     
+
+Adjusted EBITDA does not reflect the significant interest expense, or the amounts necessary to service interest or principal payments, on our outstanding debt;     
+
+Adjusted EBITDA does not reflect income tax expense and, because the payment of taxes is part of our operations, tax expense is a necessary element of our costs and ability to operate;     
+
+although depreciation and amortization are eliminated in the calculation of Adjusted EBITDA, the assets being depreciated and amortized will often have to be replaced in the future, and Adjusted EBITDA does not reflect any costs of such replacements;     
+
+non cash compensation is and will remain a key element of our overall long term incentive compensation package, although we exclude it as an expense when evaluating our ongoing operating performance for a particular period; and     
+
+Adjusted EBITDA does not reflect the impact of earnings or charges resulting from matters we consider not to be indicative of our ongoing operations.     
+
+We compensate for these limitations by relying primarily on our GAAP results and using Adjusted EBITDA and Adjusted EBITDA margin only as supplemental information. 
+
+43 
+
+Table of Contents  
+
+The following is a reconciliation of our net income to Adjusted EBITDA for the three and six months ended October 31, 2016 and 2015: 
+
+(a) 
+
+Represents non cash compensation expenses related to stock appreciation rights agreements. For additional details regarding stock appreciation rights, refer to  Management s Discussion and Analysis of Financial Condition and Results of Operations Critical Accounting Policies Subsidiary Equity Based Deferred Compensation Arrangements  included in our Annual Report on Form 10-K for the year ended April 30, 2016.     
+
+(b) 
+
+Represents non cash compensation expense related to changes in the redemption values of noncontrolling interests. For additional details regarding redeemable noncontrolling interests of our subsidiaries, refer to  Management s Discussion and Analysis of Financial Condition and Results of Operations Critical Accounting Policies Subsidiary Equity Based Deferred Compensation Arrangements  included in our Annual Report on Form 10-K for the year ended April 30, 2016.     
+
+(c) 
+
+Represents non cash equity based compensation expense related to the issuance of stock options.     
+
+(d) 
+
+Represents severance expenses and other costs permitted in calculations under the ABL Facility and the Term Loan Facilities.     
+
+(e) 
+
+Represents one time costs related to our IPO and acquisitions (other than the Acquisition) paid to third party advisors.     
+
+(f) 
+
+Represents management fees paid by us to our Sponsor. Following our IPO, our Sponsor no longer receives management fees from us.     
+
+(g) 
+
+Represents the non cash cost of sales impact of purchase accounting adjustments to increase inventory to its estimated fair value.     
+
+(h) 
+
+Represents the mark to market adjustments for the interest rate cap.     
+
+(i) 
+
+Quarterly amounts for fiscal 2016 included in the table above reflect the revised balances for income tax expense and net income as discussed in Note 1,  Basis of Presentation, Business, and Summary of Significant Accounting Policies  of Item 1 of this Quarterly Report on Form 10-Q.     
+
+44 
+
+Table of Contents  
+
+Adjusted Working Capital 
+
+Adjusted working capital represents current assets, excluding cash and cash equivalents, minus current liabilities, excluding current maturities of long-term debt. Adjusted working capital is not a recognized term under GAAP and does not purport to be an alternative to working capital. Management believes that adjusted working capital is useful in analyzing the cash flow and working capital needs of the Company. We exclude cash and cash equivalents and current maturities of long-term debt to evaluate the investment in working capital required to support our business. 
+
+The following is a reconciliation from working capital, the most directly comparable financial measure under GAAP, to adjusted working capital as of the dates presented: 
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk   
+
+Interest Rate Risk 
+
+We are exposed to interest rate risk through fluctuations in interest rates on our debt obligations. A significant portion of our outstanding debt bears interest at variable rates. As a result, increases in interest rates could increase the cost of servicing our debt and could materially reduce our profitability and cash flows. However, we have entered into an interest rate cap on three-month U.S. dollar LIBOR based on a strike rate of 2.0%, which effectively caps the interest rate at 5.5% on an initial notional amount of $275.0 million of our variable rate debt obligation under the First Lien Facility, or any replacement facility with similar terms. Excluding the impact of this interest rate cap and the interest rate floor on the First Lien Facility, each 1% increase in interest rates on the First Lien Facility would increase our annual interest expense by approximately $4.8 million based on balances outstanding under the First Lien Facility as of October 31, 2016. Assuming the ABL Facility was fully drawn, each 1% increase in interest rates would result in a $3.5 million increase in our annual interest expense on the ABL Facility. We seek to manage exposure to adverse interest rate changes through our normal operating and financing activities, as well as through hedging activities, such as entering into interest rate derivative agreements, as discussed below under " Derivative Financial Instruments." As of October 31, 2016, $152.4 million was outstanding under the ABL Facility and $167.6 million was available for future borrowings under the ABL Facility. In addition, we had $480.0 million outstanding under the First Lien Facility. 
+
+Other than noted above, there have been no material changes to our exposure to market risks from those reported in our Annual Report on Form 10-K for the fiscal year ended April 30, 2016. 
+
+Item 4.  Controls and Procedures   
+
+Evaluation of Disclosure Controls and Procedures 
+
+Our management, with the participation of our principal executive officer and principal financial officer, evaluated the effectiveness of our disclosure controls and procedures as of the end of the period covered in this Quarterly Report on Form 10-Q. The term  disclosure controls and procedures,  as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to provide reasonable assurance   
+
+45 
+
+Table of Contents  
+
+that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to provide reasonable assurance that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to management of the company, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure.   Because of their inherent limitations, disclosure controls and procedures may not prevent or detect all misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Based on their evaluation, as of the end of the period covered in this Quarterly Report on Form 10-Q, our principal executive officer and principal financial officer concluded that our disclosure controls and procedures were not effective because of the material weaknesses in our internal control over financial reporting described below. 
+
+Remediation Efforts and Status of Previously Disclosed Material Weaknesses 
+
+As previously disclosed in the prospectus filed with the SEC on May 27, 2016 in connection with the initial public offering, or IPO, of our common stock we identified material weaknesses in our internal control over financial reporting. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of a company s annual or interim financial statements will not be prevented or detected on a timely basis. The material weaknesses included an insufficient complement of personnel with a level of U.S. GAAP accounting knowledge commensurate with our financial reporting requirements, a lack of formal accounting policies and procedures, ineffective IT general computer controls and a lack of controls over the preparation and review of manual journal entries. The material weakness related to our IT general controls could impact the effectiveness of our IT-dependent controls which could result in our inability to prevent or detect material misstatements in our financial statement accounts or disclosures. These deficiencies previously resulted in material adjustments to correct the previously issued fiscal 2013 and 2014 consolidated financial statements of our wholly owned subsidiary, GYP Holdings III Corp., and could result in material misstatements to our consolidated financial statements that would not be prevented or detected. 
+
+We are currently in the process of remediating the above material weaknesses and have taken several steps to improve our internal control over financial reporting. While we are pleased with the progress of our remediation efforts to date, we will continue to evaluate their effectiveness on our remediation status and may determine to take additional measures to address the material weaknesses or otherwise modify our remediation plan. Our finance and IT leadership continues to closely evaluate, supplement, and make changes, as needed, to the complement of resources responsible for our ongoing remediation efforts and the effectiveness of internal control over financial reporting  .    However, while we have made progress in the overall remediation status, the material weaknesses cannot be considered remediated until the applicable controls have been designed, implemented and operated for a sufficient period of time and management has concluded that these controls are operating effectively. 
+
+To address the material weakness associated with an insufficient complement of personnel with a level of U.S. GAAP accounting knowledge commensurate with our financial reporting requirements, we have taken the following measures: 
+
+Beginning in early 2015, we hired additional financial reporting personnel with technical accounting and financial reporting experience.     
+
+During fiscal 2016 and in the first quarter of fiscal 2017, we made changes to our financial reporting and accounting resources, including adjusting the roles and responsibilities of these resources to align with their experience and expertise.     
+
+In fiscal 2016, we enhanced our internal audit function through the engagement of a third party professional services firm and the hiring of an experienced senior manager of internal audit with public company experience to lead our internal audit function and assist us in the monitoring of internal control over financial reporting.     
+
+To address the material weakness related to formal accounting policies and procedures, we have taken the following measures over the last twelve months: 
+
+46 
+
+Table of Contents  
+
+We developed and implemented formal accounting policies and procedures, including those designed to evaluate the impact of new accounting pronouncements.     
+
+We provided training to our entire accounting organization in order to enhance the level of communication and understanding of internal controls.     
+
+We established a disclosure committee designed to strengthen the effectiveness of our disclosure controls and evaluate whether our financial statements and public filings include the appropriate disclosures.     
+
+To address the material weakness associated with ineffective IT general computer controls, over the last twelve months, we have been developing and implementing numerous enhancements to our IT infrastructure and to the design of our IT policies and procedures. Specifically, we have performed the following: 
+
+We developed policies and procedures related to the management and approval of changes in our IT environment, including procedures to review changes in IT data and the configuration of systems. We are in the final phase of implementing these policies and procedures.      
+
+We developed policies and procedures related to security access, including policies and procedures to set up or remove users to our IT systems. We are in the final phase of implementing these policies and procedures.     
+
+We established policies and procedures for the performance of security access reviews of our key financial systems  users to ensure the appropriateness of their roles and security access levels. These access reviews will be performed on a periodic basis. Management is in the process of finalizing the initial series of these reviews.      
+
+We developed monitoring activities designed to effectively mitigate lack of segregation of duties in IT development and production roles. We are in the final phase of implementing these policies and procedures.     
+
+To address the material weakness associated with the lack of controls over the preparation and review of manual journal entries, we developed controls designed to segregate the duties of creating and posting accounting journal entries, which we implemented during the fiscal quarter ended October 31, 2016. We continue to review these controls and are assessing whether additional enhancements are necessary to remediate the related material weakness. 
+
+Changes in Internal Control Over Financial Reporting 
+
+Except as described above in   Remediation Efforts and Status of Previously Disclosed Material Weaknesses,  there were no changes in our internal control over financial reporting during the fiscal quarter ended October 31, 2016 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+47 
+
+Table of Contents  
+
+PART II   Other Information   
+
+Item 1.  Legal Proceedings   
+
+From time to time, we are involved in lawsuits that are brought against us in the normal course of business. We are not currently a party to any legal proceedings that would be expected, either individually or in the aggregate, to have a material adverse effect on our business or financial condition. 
+
+The building materials industry has been subject to personal injury and property damage claims arising from alleged exposure to raw materials contained in building products as well as claims for incidents of catastrophic loss, such as building fires. As a distributor of building materials, we face an inherent risk of exposure to product liability claims in the event that the use of the products we have distributed in the past or may in the future distribute is alleged to have resulted in economic loss, personal injury or property damage or violated environmental, health or safety or other laws. Such product liability claims have included and may in the future include allegations of defects in manufacturing, defects in design, a failure to warn of dangers inherent in the product, negligence, strict liability or a breach of warranties. In particular, certain of our subsidiaries have been the subject of claims related to alleged exposure to asbestos containing products they distributed prior to 1979. Since 2002 and as of October 31, 2016, approximately 970 asbestos related personal injury lawsuits have been brought and we vigorously defend against them. Of these, 873 have been dismissed without any payment by us, 27 are on deferred or inactive court dockets, 65 are pending and only 5 have been settled, which settlements have not materially impacted our financial condition or operating results. See  Risk Factors Risks Relating to Our Business and Industry We are exposed to product liability, warranty, casualty, construction defect, contract, tort, employment and other claims and legal proceedings related to our business, the products we distribute, the services we provide and services provided for us by third parties  listed in Part 1, Item 1A of our Annual Report on Form 10-K for the fiscal year ended April 30, 2016. 
+
+Item 1A.  Risk Factors   
+
+There have been no material changes in the risks facing the Company as described in the Company s Annual Report on Form 10-K for the fiscal year ended April 30, 2016. 
+
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds   
+
+Use of Proceeds 
+
+On May 25, 2016, our registration statement on Form S-1 (File No. 333-205902) was declared effective by the Securities and Exchange Commission for our initial public offering pursuant to which we sold an aggregate of 8,050,000 shares of our common stock (inclusive of 1,050,000 shares of common stock sold by us pursuant to the full exercise of an overallotment option granted to the underwriters in connection with the offering) at a price to the public of $21.00 per share for aggregate gross offering proceeds of approximately $169.1 million. Barclays Capital Inc. and Credit Suisse Securities (USA) LLC acted as joint book-running managers and as representatives of the underwriters in the offering. RBC Capital Markets, Robert W. Baird   Co. Incorporated and Wells Fargo Securities, LLC acted as joint book-running managers in the offering. SunTrust Robinson Humphrey, Inc., Raymond James   Associates, Inc. and Stephens Inc. acted as co-managers in the offering. On June 1, 2016, we closed the sale of such shares, resulting in net proceeds to us of approximately $156.9 million after deducting underwriting discounts and commissions of approximately $11.8 million and other offering expenses of approximately $0.4 million. No payments were made by us to directors, officers or persons owning ten percent or more of our common stock or to their associates, or to our affiliates.  
+
+We used these proceeds together with cash on hand to repay the $160.0 million principal amount of our term loan debt outstanding under our senior secured second lien term loan facility, or the Second Lien Facility, which was a payment in full of the entire loan balance due under the Second Lien Facility.   There has been no material change in the planned use of proceeds from our initial public offering as described in our final prospectus, dated May 25, 2016, and filed with the Securities and Exchange Commission on May 26, 2016 pursuant to Rule 424(b). 
+
+Item 3.  Defaults Upon Senior Securities   
+
+None. 
+
+48 
+
+Table of Contents  
+
+Item 4.  Mine Safety Disclosures   
+
+Not Applicable. 
+
+Item 5.  Other Information   
+
+None. 
+
+Item 6.  Exhibits   
+
+The exhibits filed as part of this Quarterly Report on Form 10-Q are set forth on the Exhibit Index, which is incorporated herein by reference. 
+
+49 
+
+Table of Contents  
+
+SIGNATURES  
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this Quarterly Report on Form 10-Q to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+GMS INC.  
+
+Date: December 13, 2016  
+
+By:  
+
+/s/ H. Douglas Goforth  
+
+H. Douglas Goforth  
+
+Chief Financial Officer  
+
+(Principal Financial Officer)  
+
+50 
+
+Table of Contents  
+
+EXHIBIT INDEX  
+
+Indicates a management contract or compensatory plan or arrangement.  
+
+*  
+
+Filed herewith.  
+
+51 
+
+<EX-31.1>
+ 2
+ gms-20161031ex3116cf2bc.htm
+ EX-31.1
+
+gms_EX_31_1
+
+Exhibit 31.1 
+
+CERTIFICATION OF THE PRINCIPAL EXECUTIVE OFFICER 
+
+PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, G. Michael Callahan, Jr., certify that: 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;     
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;     
+
+4. 
+
+The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:     
+
+(a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;     
+
+(b) 
+
+Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and     
+
+(c) 
+
+Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and     
+
+5. 
+
+The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions):     
+
+(a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and     
+
+(b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting.     
+
+Date:  
+
+December  13, 2016  
+
+/s/   G. Michael Callahan, Jr.  
+
+G. Michael Callahan, Jr.  
+
+Chief Executive Officer, President and Director  
+					 
+						 (Principal Executive Officer)  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ gms-20161031ex312bbc442.htm
+ EX-31.2
+
+gms_EX_31_2
+
+Exhibit 31.2 
+
+CERTIFICATION OF THE PRINCIPAL FINANCIAL OFFICER 
+
+PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, H. Douglas Goforth, certify that: 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;     
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;     
+
+4. 
+
+The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:     
+
+(a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;     
+
+(b) 
+
+Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and     
+
+(c) 
+
+Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and     
+
+5. 
+
+The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions):     
+
+(a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and     
+
+(b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting.     
+
+Date:  
+
+December 13, 2016  
+
+/s/   H. Douglas Goforth  
+
+H. Douglas Goforth  
+
+Chief Financial Officer  
+					 
+						 (Principal Financial Officer)  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ gms-20161031ex321ed5e0d.htm
+ EX-32.1
+
+gms_EX_32_1
+
+Exhibit 32.1 
+
+CERTIFICATION OF THE PRINCIPAL EXECUTIVE OFFICER 
+
+PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report on Form 10-Q of GMS Inc., a Delaware corporation (the "Company"), for the quarter ended October 31, 2016, as filed with the Securities and Exchange Commission on the date hereof (the "Report"), G. Michael Callahan, Jr., Chief Executive Officer, President and Director of the Company, hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to his knowledge: 
+
+(1) 
+
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and     
+
+(2) 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.     
+
+Date:  
+
+December 13, 2016  
+
+/s/   G. Michael Callahan, Jr.  
+
+G. Michael Callahan, Jr.  
+
+Chief Executive Officer, President and Director  
+					 
+						 (Principal Executive Officer)  
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ gms-20161031ex3226b9ee2.htm
+ EX-32.2
+
+gms_EX_32_2
+
+Exhibit 32.2 
+
+CERTIFICATION OF THE PRINCIPAL FINANCIAL OFFICER 
+
+PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report on Form 10-Q of GMS Inc., a Delaware corporation (the "Company"), for the quarter ended October 31, 2016, as filed with the Securities and Exchange Commission on the date hereof (the "Report"), H. Douglas Goforth, Chief Financial Officer of the Company, hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to his knowledge: 
+
+(1) 
+
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and     
+
+(2) 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.     
+
+Date:  
+
+December 13, 2016  
+
+/s/   H. Douglas Goforth  
+
+H. Douglas Goforth  
+
+Chief Financial Officer  
+					 
+						 (Principal Financial Officer)  
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ gms-20161031.xml
+ EX-101.INS
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ gms-20161031.xsd
+ EX-101.SCH
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ gms-20161031_cal.xml
+ EX-101.CAL
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ gms-20161031_def.xml
+ EX-101.DEF
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ gms-20161031_lab.xml
+ EX-101.LAB
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ gms-20161031_pre.xml
+ EX-101.PRE
+
+</EX-101.PRE>
+

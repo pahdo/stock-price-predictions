@@ -1,0 +1,1113 @@
+<Header>
+<FileStats>
+    <FileName>20161101_10-Q_edgar_data_1078075_0001628280-16-020518_1.txt</FileName>
+    <GrossFileSize>9327834</GrossFileSize>
+    <NetFileSize>148155</NetFileSize>
+    <ASCII_Embedded_Chars>499473</ASCII_Embedded_Chars>
+    <HTML_Chars>3067919</HTML_Chars>
+    <XBRL_Chars>4031161</XBRL_Chars>
+    <XML_Chars>1407263</XML_Chars>
+    <N_Tables>57</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001628280-16-020518.hdr.sgml : 20161101
+<ACCEPTANCE-DATETIME>20161101142050
+ACCESSION NUMBER:		0001628280-16-020518
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		94
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161101
+DATE AS OF CHANGE:		20161101
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NETSCOUT SYSTEMS INC
+		CENTRAL INDEX KEY:			0001078075
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				042837575
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-26251
+		FILM NUMBER:		161964286
+
+	BUSINESS ADDRESS:	
+		STREET 1:		310 LITTLETON ROAD
+		CITY:			WESTFORD
+		STATE:			MA
+		ZIP:			01886
+		BUSINESS PHONE:		978-614-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		310 LITTLETON ROAD
+		CITY:			WESTFORD
+		STATE:			MA
+		ZIP:			01886
+
+</SEC-Header>
+</Header>
+
+ 0001628280-16-020518.txt : 20161101
+
+10-Q
+ 1
+ ntct-20160930x10q1.htm
+ 10-Q
+
+Document 
+
+Table of Contents  
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, DC 20549 
+
+FORM 10-Q 
+
+(Mark One) 
+
+For the quarterly period ended   September 30, 2016    
+  OR 
+
+For the transition period from                     to                      
+  Commission file number 000-26251 
+
+NETSCOUT SYSTEMS, INC. 
+  (Exact Name of Registrant as Specified in Its Charter) 
+
+Delaware 
+      
+    04-2837575 
+      (State or Other Jurisdiction of 
+  Incorporation or Organization) 
+      
+    (IRS Employer 
+  Identification No.) 
+
+310 Littleton Road, Westford, MA 01886 
+  (978) 614-4000 
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    YES    x      NO      
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files.)    YES    x      NO      
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one): 
+                         Large accelerated filer 
+      
+    x 
+    Accelerated filer 
+
+Non-accelerated filer 
+      
+         (Do not check if a smaller reporting company) 
+    Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). YES           NO    x 
+  The number of shares outstanding of the registrant s common stock, par value $0.001 per share, as of   October 26, 2016   was 91,572,414. 
+
+Table of Contents  
+
+NETSCOUT SYSTEMS, INC. 
+  FORM 10-Q 
+  FOR THE QUARTER ENDED   SEPTEMBER 30, 2016    
+  TABLE OF CONTENTS 
+
+CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING STATEMENTS 
+    1 
+
+PART I: FINANCIAL INFORMATION  
+
+Item 1. 
+     Unaudited Financial Statements:  
+
+Consolidated Balance Sheets: At September 30, 2016 and March 31, 2016  
+    2 
+
+Consolidated Statements of Operations: For the three and six months ended September 30, 2016 and 2015  
+    3 
+
+Consolidated Statements of Comprehensive Income (Loss): For the three and six months ended September 30, 2016 and 2015  
+    4 
+
+Consolidated Statements of Cash Flows: For the six months ended September 30, 2016 and 2015  
+    5 
+
+Notes to Consolidated Financial Statements  
+    6 
+
+Item 2. 
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    28 
+
+Item 3. 
+     Quantitative and Qualitative Disclosures About Market Risk  
+    44 
+
+Item 4. 
+     Controls and Procedures  
+    44 
+
+PART II: OTHER INFORMATION  
+
+Item 1. 
+     Legal Proceedings  
+    45 
+
+Item 1A. 
+     Risk Factors  
+    45 
+
+Item 2. 
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+    45 
+
+Item 3. 
+    Defaults Upon Senior Securities 
+    45 
+
+Item 4. 
+    Mine Safety Disclosures 
+    45 
+
+Item 5. 
+    Other Information 
+    45 
+
+Item 6. 
+     Exhibits  
+    46 
+
+SIGNATURES  
+      
+    47 
+
+EXHIBIT INDEX  
+      
+    48 
+
+Unless the context suggests otherwise, references in this Quarterly Report on Form 10-Q, or Quarterly Report, to  NetScout,  the  Company,   we,    us,  and  our  refer to NetScout Systems, Inc. and, where appropriate, our consolidated subsidiaries. 
+    
+  NetScout, the NetScout logo, Adaptive Service Intelligence and other trademarks or service marks of NetScout appearing in this Quarterly Report are the property of NetScout Systems, Inc. and/or its subsidiaries and/or affiliates in the USA and/or other countries. Any third-party trade names, trademarks and service marks appearing in this Quarterly Report are the property of their respective holders. 
+
+Table of Contents  
+
+Cautionary Statement Concerning Forward-Looking Statements 
+    
+  In addition to historical information, the following discussion and other parts of this Quarterly Report contain forward-looking statements under Section 21E of the Securities Exchange Act of 1934, as amended, and other federal securities laws.  These forward looking statements involve risks and uncertainties.  These statements relate to future events or our future financial performance and are identified by terminology such as  may,   will,   could,   should,   expects,   plans,   intends,   seeks,   anticipates,   believes,   estimates,   potential  or  continue,  or the negative of such terms or other comparable terminology.  These statements are only predictions.  You should not place undue reliance on these forward-looking statements.  Actual events or results may differ materially due to competitive factors and other factors, including those referred to in Part I, Item 1A.   Risk Factors   in our Annual Report on Form 10-K for our fiscal year ended March 31,   2016  , and elsewhere in this quarterly report.  These factors may cause our actual results to differ materially from any forward-looking statement. We are under no duty to update any of these forward-looking statements after the date of this Quarterly Report or to conform these statements to actual results or revised expectations. 
+
+1 
+
+     Table of Contents  
+
+PART I: FINANCIAL INFORMATION 
+   
+  Item 1. Unaudited Financial Statements 
+   
+  NetScout Systems, Inc. 
+  Consolidated Balance Sheets 
+  (In thousands, except share and per share data) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+  
+   2 
+
+Table of Contents  
+
+NetScout Systems, Inc. 
+  Consolidated Statements of Operations 
+  (In thousands, except per share data) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+  
+   3 
+
+Table of Contents  
+
+NetScout Systems, Inc. 
+  Consolidated Statements of Comprehensive Income (Loss) 
+  (In thousands) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+  
+   4 
+
+Table of Contents  
+
+NetScout Systems, Inc. 
+  Consolidated Statements of Cash Flows 
+  (In thousands) 
+  (Unaudited)   
+
+  The accompanying notes are an integral part of these consolidated financial statements. 
+  
+   5 
+
+Table of Contents  
+
+NetScout Systems, Inc. 
+  Notes to Consolidated Financial Statements 
+  (Unaudited) 
+   
+  NOTE 1   BASIS OF PRESENTATION 
+  The accompanying unaudited interim consolidated financial statements have been prepared by NetScout Systems, Inc., or NetScout or the Company. Certain information and footnote disclosures normally included in financial statements prepared under United States generally accepted accounting principles (GAAP) have been condensed or omitted pursuant to the rules and regulations of the Securities and Exchange Commission (SEC). In the opinion of management, the unaudited interim consolidated financial statements include all adjustments, consisting of normal recurring adjustments, necessary for a fair statement of the Company s financial position, results of operations and cash flows. The year-end consolidated balance sheet data was derived from audited financial statements, but does not include all disclosures required by GAAP. The results reported in these unaudited interim consolidated financial statements are not necessarily indicative of results that may be expected for the entire year. All significant intercompany accounts and transactions are eliminated in consolidation. 
+  The accompanying unaudited interim consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries. On July 14, 2015, or the Closing Date, the Company completed the acquisition of Danaher Corporation s (Danaher) Communications Business (Communications Business), which included certain assets, liabilities, technology and employees within Tektronix Communications, VSS Monitoring, Arbor Networks and certain portions of the Fluke Networks Enterprise business, which excluded Danaher s data communications cable installation business and its communication service provider business (the Comms Transaction). The Comms Transaction is more fully described in Note 7. The Comms Transaction was recorded using the acquisition method of accounting; accordingly, the financial results of the acquisition are included in the accompanying unaudited interim consolidated financial statements for the periods subsequent to the acquisition. 
+  During the second quarter of fiscal year 2017, as part of its continued integration of the Communication Business, the Company realigned its organizational structure.  As a result, the Company now accounts for its operations under   one   operating segment. For additional information, see Note 17 of the Company's Notes to Consolidated Financial Statements. 
+  These unaudited interim consolidated financial statements should be read in conjunction with the audited consolidated financial statements, including the notes thereto, included in the Company s Annual Report on Form 10-K for the fiscal year ended   March 31, 2016   filed with the SEC on May 31, 2016. 
+  Recent Accounting Pronouncements 
+  In August 2016, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update No. 2016-15, Classification of Certain Cash Receipts and Cash Payments (ASU 2016-15). ASU 2016-15 is intended to add or clarify guidance on the classification of certain cash receipts and payments in the statement of cash flows and to eliminate the diversity in practice related to such classifications. The guidance in ASU 2016-15 is required for annual reporting periods beginning after December 15, 2017, with early adoption permitted. The Company is currently assessing the potential impact of the adoption of ASU 2016-15 on its consolidated statement of cash flows.  
+  In March 2016, the FASB issued ASU 2016-09, Compensation - Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting (ASU 2016-09), which simplifies several aspects of the accounting for employee share-based payment transactions, including the accounting for income taxes, forfeitures and statutory tax withholding requirements, as well as classification in the statement of cash flows. ASU 2016-09 is effective for the Company beginning April 1, 2017. The Company is currently assessing the potential impact of the adoption of ASU 2016-09 on its consolidated financial statements.     
+  In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842) Section A - Leases: Amendments to the FASB Accounting Standards Codification (ASU 2016-02), its new standard on accounting for leases. This update requires the recognition of leased assets and lease obligations by lessees for those leases currently classified as operating leases under existing lease guidance. Short term leases with a term of 12 months or less are not required to be recognized. The update also requires disclosure of key information about leasing arrangements to increase transparency and comparability among organizations. ASU 2016-02 is effective for annual reporting periods beginning after December 31, 2018 and interim periods within those fiscal years, and early adoption is permitted. The Company is currently assessing the potential impact of the adoption of ASU 2016-02 on its consolidated financial statements.     
+  In May 2014, the FASB issued ASU No. 2014-09, Revenue from Contracts with Customers: Topic 606 (ASU 2014-09) and issued subsequent amendments to the initial guidance in August 2015, March 2016, April 2016 and May 2016 within ASU 2015-04, 2016-08, ASU 2016-10 and ASU 2016-12, respectively (  ASU 2014-09,   ASU 2015-04, ASU 2016-08, ASU 2016-10 and ASU 2016-12 collectively, Topic 606). Topic 606 supersedes nearly all existing revenue recognition guidance under GAAP. The core principle of Topic 606 is to recognize revenues when promised goods or services are transferred to customers in an  
+  
+   6 
+
+     Table of Contents  
+
+amount that reflects the consideration that is expected to be received for those goods or services. Topic 606 defines a five-step process to achieve this core principle and, in doing so, it is possible more judgment and estimates may be required within the revenue recognition process than required under existing GAAP, including identifying performance obligations in the contract, estimating the amount of variable consideration to include in the transaction price and allocating the transaction price to each separate performance obligation, among others. Topic 606 will be effective for the Company in the first quarter of its fiscal year 2019. Early adoption is not permitted. The Company is currently assessing the potential impact of the adoption of ASU 2014-09 on its consolidated financial statements. 
+   
+  NOTE 2   CONCENTRATION OF CREDIT RISK AND SIGNIFICANT CUSTOMERS 
+  Financial instruments that potentially subject us to concentration of credit risk consist primarily of investments, trade accounts receivable and accounts payable. The Company's cash, cash equivalents, and marketable securities are placed with financial institutions with high credit standings.  
+  At   September 30, 2016   and March 31, 2016, the Company had   one   direct customer which accounted for more than   10%   of the accounts receivable balance, while no indirect channel partner accounted for more than 10% of the accounts receivable balance.  
+  During the three and   six months ended September 30, 2016  ,   one   direct customer accounted for more than   10%   of the Company's total revenue, while no indirect channel partner accounted for more than 10% of total revenue. During the three and six months ended   September 30, 2015  ,   one   direct customer accounted for more than   10%   of the Company's total revenue, while no indirect channel partner accounted for more than 10% of total revenue. 
+  As disclosed parenthetically within the Company's consolidated balance sheet, the Company has a receivable from related parties that represents a concentration of credit risk of   $17.5 million   and   $44.2 million   at September 30, 2016 and March 31, 2016, respectively. See Note 19 of the Company's Notes to Consolidated Financial Statements for further information regarding the details of these balances.  
+  Historically, the Company has not experienced any significant failure of its customers' ability to meet their payment obligations nor does the Company anticipate material non-performance by its customers in the future; accordingly, the Company does not require collateral from its customers. However, if the Company s assumptions are incorrect, there could be an adverse impact on its allowance for doubtful accounts. 
+   
+  NOTE 3   SHARE-BASED COMPENSATION 
+  The following is a summary of share-based compensation expense including restricted stock units and employee stock purchases made under the Company's 2011 Employee Stock Purchase Plan (ESPP) based on estimated fair values within the applicable cost and expense lines identified below (in thousands): 
+
+Employee Stock Purchase Plan     The Company maintains the ESPP for all eligible employees as described in the Company s Annual Report on Form 10-K for the year ended   March 31, 2016  . Under the ESPP, shares of the Company s common stock may be purchased on the last day of each bi-annual offering period at   85%   of the fair value on the last day of such offering period. The offering periods run from March 1st through August 31st and from September 1st through the last day of February each year. During the six months ended September 30, 2016, employees purchased   234,745   shares under the ESPP and the value per share was   $29.58  . 
+  
+   7 
+
+Table of Contents  
+
+NOTE 4   CASH, CASH EQUIVALENTS AND MARKETABLE SECURITIES 
+  The Company considers all highly liquid investments purchased with an original maturity of three months or less to be cash equivalents and those investments with original maturities greater than three months to be marketable securities. Cash and cash equivalents consisted of money market instruments and cash maintained with various financial institutions at   September 30, 2016   and   March 31, 2016  . 
+  Marketable Securities 
+  The following is a summary of marketable securities held by NetScout at   September 30, 2016  , classified as short-term and long-term (in thousands): 
+
+The following is a summary of marketable securities held by NetScout at   March 31, 2016  , classified as short-term and long-term (in thousands): 
+
+Contractual maturities of the Company s marketable securities held at   September 30, 2016   and   March 31, 2016   were as follows (in thousands): 
+
+8 
+
+Table of Contents  
+
+NOTE 5   FAIR VALUE MEASUREMENTS 
+   The fair value hierarchy has three levels based on the reliability of the inputs used to determine fair value. Level 1 refers to fair values determined based on quoted prices in active markets for identical assets. Level 2 refers to fair values estimated using significant other observable inputs, and Level 3 includes fair values estimated using significant non-observable inputs. The following tables present the Company s financial assets and liabilities measured on a recurring basis using the fair value hierarchy at   September 30, 2016   and   March 31, 2016   (in thousands): 
+
+This hierarchy requires the Company to use observable market data, when available, and to minimize the use of unobservable inputs when determining fair value. On a recurring basis, the Company measures certain financial assets and liabilities at fair value, including marketable securities and derivative financial instruments. 
+  The Company s Level 1 investments are classified as such because they are valued using quoted market prices or alternative pricing sources with reasonable levels of price transparency. 
+  The Company s Level 2 investments are classified as such because fair value is being calculated using market observable data for similar but not identical instruments, or a discounted cash flow model using the contractual interest rate as compared to the underlying interest yield curve. The Company's derivative financial instruments consist of forward foreign exchange contracts and are classified as Level 2 because the fair values of these derivatives are determined using models based on market observable inputs, including spot prices for foreign currencies and credit derivatives, as well as an interest rate factor. The Company classifies municipal obligations as level 2 because the fair values are determined using quoted prices from markets the Company considers to be inactive. Commercial paper is classified as Level 2 because the Company uses market  
+  
+   9 
+
+     Table of Contents  
+
+information from similar but not identical instruments and discounted cash flow models based on interest rate yield curves to determine fair value.  
+  The Company's Level 3 asset and liabilities consist of contingently returnable consideration and contingent purchase consideration, respectively. The Company's contingently returnable consideration represents a contingent right of return from Danaher to reimburse NetScout for cash awards to be paid by NetScout to employees of the Communications Business transferred to Newco (as defined below) for post-combination services on various dates through August 4, 2016 as part of the Comms Transaction. The contingently returnable consideration is classified as Level 3 because the fair value of the asset was determined using assumptions developed by management in determining the estimated cash awards expected to be paid on August 4, 2016 after applying an assumed forfeiture rate. The contingently returnable consideration of   $11.6 million   as of   September 30, 2016   is included as prepaid expenses and other current assets in the Company s consolidated balance sheet. Because the right of offset has not been met, the Company recorded the gross amount of compensation as contingently returnable consideration and the tax benefit of   $3.9 million   as contingent purchase consideration. The contingent purchase consideration is included as accounts payable in the Company's consolidated balance sheet as of September 30, 2016. 
+  The Company's contingent purchase consideration also includes   $660 thousand   related to the acquisition of certain assets and liabilities of Avvasi Inc. (Avvasi). The contingent purchase consideration represents amounts deposited into an escrow account, which was established to cover damages NetScout suffers related to any liabilities that NetScout did not agree to assume or as a result of the breach of representations and warranties of the seller as described in the asset purchase agreement. The contingent purchase consideration is included as accrued other in the Company's consolidated balance sheet as of September 30, 2016.  
+  The fair value of contingent purchase consideration related to the acquisition of Simena LLC (Simena) in November 2011 for future consideration to be paid to the former seller is   $4.7 million  . The contingent purchase consideration is included as contingent liabilities in the Company's consolidated balance sheet.   
+  The following table sets forth a reconciliation of changes in the fair value of the Company s Level 3 financial assets and liabilities for the   six months ended September 30, 2016   (in thousands):   
+
+  Deal-related compensation expense and accretion charges related to the contingent consideration for the   six months ended September 30, 2016   was   $76 thousand   and was included as part of earnings. 
+   
+  NOTE 6   INVENTORIES 
+  Inventories are stated at the lower of actual cost or net realizable value. Cost is determined by using the first in, first out (FIFO) method. Inventories consist of the following (in thousands): 
+
+10 
+
+Table of Contents  
+
+NOTE 7 - ACQUISITIONS 
+  Avvasi 
+  On August 19, 2016, the Company acquired certain assets and liabilities of Avvasi for   $4.6 million  . Avvasi s technology allows service providers to measure, improve and monetize video in their networks. This acquisition builds on the Company's ongoing investment to enhance its service assurance capabilities for video traffic over 4G/LTE networks.  
+  The Company has completed the purchase accounting as of September 30, 2016 related to the Avvasi acquisition. 
+  The following table summarizes the allocation of the purchase price (in thousands):  
+
+Of the total consideration,   $660 thousand   was deposited into an escrow account. The escrow account was established to cover damages NetScout suffers related to any liabilities that NetScout did not agree to assume or as a result of the breach of representations and warranties of the seller as described in the asset purchase agreement. Generally, indemnification claims that Avvasi would be liable for are limited to the total amount of the escrow account and shall be the sole source for the satisfaction of any damages to the Company for such claims, but such limitation does not apply with respect to seller's breach of certain fundamental representations or related to other specified indemnity items, for which certain of Avvasi's shareholders may be liable for additional amounts in excess of the escrow amount.  Except to the extent that valid indemnification claims are made prior to such time, the   $660 thousand   will be paid to the seller on August 21, 2017. 
+  In connection with the Avvasi acquisition, certain former employees of Avvasi will receive cash retention payments subject to such employee's continued employment with the Company through two specified dates: August 21, 2017 and August 20, 2018. The cash retention payment liability was accounted for separately from the business combination as the cash retention payment is automatically forfeited upon termination of employment. The Company will record the liability over the period it is earned as compensation expense for post-combination services. 
+  Goodwill was recognized for the excess purchase price over the fair value of the net assets acquired. Goodwill of   $2.0 million   from the acquisition was included within the Service Assurance reporting unit. Goodwill and intangible assets recorded as part of the acquisition are deductible for tax purposes. 
+  The fair values of intangible assets were based on valuations using an income approach. These assumptions include estimates of future revenues associated with the technology purchased as part of the acquisition and the migration of the current technology to a more advanced version of the software. This fair value measurement was based on significant inputs not observable in the market and thus represents Level 3 fair value measurements. The following table reflects the fair value of the acquired identifiable intangible assets and related estimates of useful lives (in thousands):    
+
+  The weighted average useful life of identifiable intangible assets acquired from Avvasi is   10.9   years.  
+  
+   11 
+
+     Table of Contents  
+
+Communications Business 
+  On July 14, 2015 (Closing Date), the Company completed the Comms Transaction, which was structured as a Reverse Morris Trust transaction whereby Danaher contributed its Communications Business to a new subsidiary, Potomac Holding LLC (Newco). The total equity consideration was approximately   $2.3 billion   based on issuing approximately   62.5 million   new shares of NetScout common stock to the existing common unit holders of Newco, based on the July 13, 2015 NetScout common stock closing share price of   $36.89   per share. On the Closing Date, the Company did not gain control over certain foreign entities due to regulatory and other compliance requirements (Delayed Close Entities). The Company closed on the acquisition of these Delayed Close Entities on October 7, 2015. 
+  The Comms Transaction was accounted for under the acquisition method of accounting with the operations of the Communications Business included in the Company s operating results from the relevant date of acquisition. The acquisition method of accounting requires, among other things, that assets acquired and liabilities assumed be recognized at their fair values as of the acquisition date. The determination of the fair value of assets acquired and liabilities assumed has been recognized based on management's estimates and assumptions using the information about facts and circumstances that existed at the acquisition date. 
+  While the Company uses its best estimates and assumptions as part of the purchase price allocation process to value the assets acquired and liabilities assumed on the acquisition date, its estimates and assumptions are subject to refinement. Fair value estimates are based on a complex series of judgments about future events and uncertainties and rely heavily on estimates and assumptions. The judgments used to determine the estimated fair value assigned to each class of assets acquired and liabilities assumed, as well as asset lives, can materially impact the Company's results of operations. The finalization of the purchase accounting assessment may result in a change in the valuation of assets acquired and liabilities assumed. As a result, the Company records adjustments to the assets acquired and liabilities assumed with a corresponding offset to goodwill to reflect additional information received about facts and circumstances which existed at the date of acquisition. The Company records adjustments to the assets acquired and liabilities assumed subsequent to the purchase price allocation period in the Company s operating results in the period in which the adjustments were determined.  
+  During the period ended September 30, 2016, the Company identified measurement period adjustments that impacted the estimated fair value of the assets and liabilities assumed on July 14, 2015 as a result of new information obtained about the facts and circumstances that existed as of the Closing Date. The     table below, which summarizes the allocation of the purchase price for the entities acquired on July 14, 2015, has been updated to reflect these measurement period adjustments.  The total measurement period adjustments res  ulted in a decrease in prepaid expenses and other current assets of   $0.2 million  , an increase in deferred income taxes of   $0.7 million  , an increase in deferred tax liabilities of   $3.3 million   and an overall increase in goodwill of   $2.8 million  . This change to the provisional amounts of fair value of the assets and liabilities assumed had no impact on the Statement of Operations for t  he year ended March 31, 2016 or the quarters ended June 30, 2016 and September 30, 2016.     The Company has completed the purchase accounting as of September 30, 2016 related to the Comms Transaction. 
+  In connection with the Comms Transaction, under the Employee Matters Agreement dated July 14, 2015 by and among the Company, Danaher and Newco, Danaher will fund certain contracts under which employees will provide post-combination services to the Company.  
+    
+           1) 
+    For any outstanding Danaher restricted stock units or stock options held by employees of the Communications Business transferred to Newco (Newco Employees) that vested from July 14, 2015 through August 4, 2015, the awards continued to vest in Danaher shares. These awards met the definition of a derivative under ASC 815 and as such, the Company determined the fair value of these awards on July 14, 2015 and recorded them separate from the business combination as prepaid compensation. The derivative was amortized into compensation expense through August 4, 2015, the post-combination requisite settlement date. The total amount of compensation expense for post-combination services recorded for the three and six months ended September 30, 2015 was   $6.5 million  .  
+       
+           2) 
+    All outstanding Danaher restricted stock units or stock options held by Newco Employees that were due to vest after August 4, 2015 were cancelled and replaced by NetScout with a cash retention award equal to   one half   of the value of the employee s cancelled Danaher equity award and up to an aggregate of   $15 million   of restricted stock units relating to shares of NetScout common stock equal to the remaining   one half   of the value of the employee s cancelled Danaher equity award. The restricted stock units issued are considered new share-based payment awards granted by NetScout to the former employees of Danaher. NetScout accounted for these new awards separately from the business combination. The Company recognized share-based compensation net of an estimated forfeiture rate and only recognized compensation cost for those shares expected to vest on a straight-line basis over the requisite service period of the award. The cash retention award was paid on August 4, 2016, to those employees that continued their employment with NetScout through the applicable vesting date of August 4, 2016. Danaher will reimburse NetScout for the amount of the cash retention payments (net of any applicable employment taxes and tax deductions). The cash  
+     
+   12 
+
+     Table of Contents  
+
+retention award liability was accounted for separately from the business combination as the cash retention award was automatically forfeited upon termination of employment. NetScout recorded the cash retention award liability over the period it was earned as compensation expense for post-combination services. The reimbursement by Danaher to NetScout of the cash retention award payment represents contingently returnable consideration, which was accounted for separately from the business combination on the date of the acquisition. At   September 30, 2016  , the Company has recorded a receivable from Danaher in the amount of   $11.6 million  , and is included as prepaid expenses and other current assets in Company s consolidated balance sheet. At   September 30, 2016  , the Company has recorded the tax effect of the cash retention award of   $3.9 million  , which is included as accounts payable in the Company s consolidated balance sheet. For the three and   six months ended September 30, 2016  ,   $2.6 million   and   $4.3 million   has been recorded as compensation expense for post-combination services.  For the three and six months ended September 30, 2015,   $2.6 million   was recorded as compensation expense for post-combination services. 
+    
+           3) 
+    Newco Employees that were entitled to receive an incentive bonus under the Danaher annual bonus plan and who continued to be employed by NetScout through December 31, 2015 received a cash incentive bonus payment. The cash incentive bonus liability was accounted for separately from the business combination as the cash incentive bonus is automatically forfeited upon termination of employment. NetScout recorded the liability over the period it was earned as compensation expense for post-combination services. The payment of the cash retention award, which was reimbursed by Danaher to NetScout, was accounted for separately from the business combination on the date of the acquisition. For the three and six months ended September 30, 2015,   $4.1 million   has been recorded as compensation for post-combination services. 
+       
+           4) 
+    Certain Newco Employees received cash retention payments that were subject to the employee s continued employment with NetScout through October 16, 2015, ninety (  90  ) days after the close of the acquisition. The cash retention payment liability was accounted for separately from the business combination as the cash retention payment was automatically forfeited upon termination of employment. NetScout recorded the liability over the period it was earned as compensation expense for post-combination services. The payment of the cash retention award, which was reimbursed by Danaher to NetScout, was accounted for separately from the business combination on the date of the acquisition. For the three and six months ended September 30, 2015,   $6.7 million   has been recorded as compensation for post-combination services. 
+
+13 
+
+     Table of Contents  
+
+The following table summarizes the allocation of the purchase price for the entities acquired on July 14, 2015 (in thousands):  
+
+(1) 
+    Represents approximately 62.5 million new shares (plus cash in lieu of fractional shares) of NetScout common stock issued to the existing common unit holders of Newco based on the July 13, 2015 NetScout common stock closing share price of $36.89 per share, less the fair value attributable to the foreign entities that the Company did not obtain control over on July 14, 2015 due to regulatory and other compliance requirements. 
+
+(2) 
+    Represents the value of certain outstanding Danaher equity awards held by Newco Employees for which continuing employees received, or will receive value after the Closing Date. A portion of this amount relates to awards that continued to vest in Danaher shares after the Closing Date. These future compensation amounts were settled in shares other than shares of the acquired business. The balance of this amount also represents future compensation expense and relates to cash awards which were paid by NetScout to acquired Newco employees on August 4, 2016. The cash payments by NetScout will be reimbursed by Danaher. These items are further described in the Employee Matters Agreement dated July 14, 2015 by and among NetScout Systems, Inc., Danaher Corporation and Potomac Holding LLC and have been accounted for separately from the Comms Transaction. 
+
+14 
+
+     Table of Contents  
+
+The following table summarizes the allocation of the purchase price for the Delayed Close Entities acquired on October 7, 2015 (in thousands):  
+
+(1 
+    ) 
+    Represents the fair value attributable to the Delayed Close Entities that the Company obtained control over on October 7, 2015. 
+
+The Comms Transaction was aimed at extending the Company's reach into growth-oriented adjacent markets, including cyber security, with a broader range of market-leading products and capabilities; strengthening the Company's go-to-market resources to better support a larger, more diverse and more global customer base; and increasing scale and elevating the Company's strategic position within key accounts. Goodwill was recognized for the excess purchase price over the fair value of the assets acquired. Goodwill of   $1.5 billion   from the acquisition was included within the following reporting units:   $534.8 million   in the Security reporting unit and   $976.5 million   in the Service Assurance reporting unit. All reporting units resulting from the Comms Transaction will be included in the Company's annual goodwill impairment review. 
+  Goodwill and intangible assets recorded as part of the acquisition are not deductible for tax purposes. 
+  The fair values of intangible assets were based on valuations using an income approach. These assumptions include estimates of future revenues associated with the technology purchased as part of the acquisition and the migration of the current technology to a more advanced version of the software. This fair value measurement was based on significant inputs not observable in the market and thus represents Level 3 fair value measurements. The following table reflects the fair value of the acquired identifiable intangible assets and related estimates of useful lives (in thousands):  
+
+The weighted average useful life of identifiable intangible assets acquired in the Comms Transaction is   14.7 years  . Developed technology is amortized using an accelerated amortization method and has a weighted average useful life of   11.7 years  . Customer relationships are amortized using an accelerated amortization method and have a weighted average useful life of   16.3 years  . Backlog is amortized using an accelerated amortization method and has a weighted average useful life of   2.0 years  . Trademarks and trade names are amortized using an accelerated amortization method and have a weighted average useful life of   8.5 years  . Leasehold interests are amortized on a straight-line basis and have a weighted average useful life of   5.6 years  . 
+  
+   15 
+
+     Table of Contents  
+
+The Company incurred approximately   $0   and   $17.9 million   of acquisition-related costs related to the Comms Transaction during the   six months ended September 30, 2016   and 2015, respectively. 
+    
+  During the   six months ended September 30, 2016  , the Company has recorded   $344.7 million   of revenue and a net loss of   $10.3 million   directly attributable to the entities acquired as part of the Comms Transaction within its consolidated financial statements.  
+    
+  The following table presents unaudited pro forma results of the historical Consolidated Statements of Operations of the Company and the Communications Business of Danaher for the three and six months ended September 30, 2015, giving effect to the Comms Transaction as if they occurred on April 1, 2014 (in thousands, except per share data):  
+
+The pro forma results for the three and six months ended September 30, 2015 primarily include adjustments for amortization of intangibles. This pro forma information does not purport to indicate the results that would have actually been obtained had the acquisitions been completed on the assumed date, or which may be realized in the future. 
+   
+  NOTE 8   GOODWILL AND INTANGIBLE ASSETS 
+  Goodwill 
+  We assess goodwill for impairment at the reporting unit level at least annually, or on an interim basis if an event occurs or circumstances change that would, more likely than not, reduce the fair value of the reporting unit below its carrying value. 
+  Through the first quarter of fiscal year 2017, the Company had   five   reporting units: (1) legacy NetScout, (2) cybersecurity (Arbor Networks), (3) service assurance product lines focused on the service provider market (formerly known as Tektronix Communications), (4) network visibility product lines (formerly known as VSS Monitoring) and (5) service assurance product lines primarily focused on the enterprise market (formerly known as FNET). As part of its continued integration efforts of the Communication Business acquisition, effective July 1, 2016, the Company reorganized its business units.  As a result of this change, the Company reduced the number of reporting units from   five   reporting units to   two   reporting units. The two reporting units are: (1) Service Assurance and (2) Security. The former cybersecurity reporting unit was aggregated within the Security reporting unit along with portions of the legacy NetScout business while all other former reporting units were aggregated into the Service Assurance reporting unit. Our reporting units are determined based on the components of our operating segments that constitute a business for which financial information is available and for which operating results are regularly reviewed by segment management.  
+  As a result of the reduction in reporting units, the Company completed a quantitative impairment analysis for goodwill as of July 1, 2016. To conduct the impairment test, the Company performed a quantitative step 1 analysis on a before and after basis and concluded the estimated fair values of each of the Company s current and former reporting units exceeded their respective carrying values both immediately prior to and subsequent to the change.  
+  
+   16 
+
+     Table of Contents  
+
+The Company determined the fair values of its reporting units by preparing a discounted cash flow analysis using forward looking projections of the reporting units  future operating results and by comparing the value of the reporting units to the implied market value of selected peers. The significant assumptions used in the discounted cash flow analysis include: revenue and revenue growth, selling margins, other operating expenditures, the discounted rate used to present value future cash flows and terminal growth rates. The discount rate used is a cost of equity method, which is essentially equal to the  market participant  weighted-average cost of capital (WACC). The Service Assurance reporting unit's goodwill fair value substantially exceeded its carrying value. The Security reporting unit's goodwill fair value did not substantially exceed its carrying value. The Company performed a sensitivity analysis on our significant assumptions used to determine the fair value of the Security reporting unit and has determined that a reasonable, negative change in its assumptions, as follows, would not impact our conclusion: decrease projected revenue growth by   2%  , decrease selling margin by   4%  , decrease the operating margin by   5%   or increase the WACC by   200 basis points  . 
+  At   September 30, 2016  , goodwill attributable to our Service Assurance and Security reporting units was   $1.2 billion   and   $548.5 million  , respectively. At March 31, 2016, goodwill attributable to our Service Assurance and Security reporting units was   $1.2 billion   and   $547.4 million  , respectively. Goodwill is tested for impairment at a reporting unit level at least annually, or on an interim basis if an event occurs or circumstances change that would, more likely than not, reduce the fair value of the reporting unit below its carrying value.  
+  The change in the carrying amount of goodwill for the   six months ended September 30, 2016   is due to the acquisition of Avvasi, purchase accounting adjustments, and the impact of foreign currency translation adjustments related to asset balances that are recorded in currencies other than the U.S. Dollar. 
+  The changes in the carrying amount of goodwill for the   six months ended September 30, 2016   are as follows (in thousands): 
+
+Intangible Assets 
+  The net carrying amounts of intangible assets were   $1.0 billion   and $  1.1 billion   at   September 30, 2016   and   March 31, 2016  , respectively. Intangible assets acquired in a business combination are recorded under the acquisition method of accounting at their estimated fair values at the date of acquisition. The Company amortizes intangible assets over their estimated useful lives, except for the acquired trade name which resulted from the Network General Central Corporation (Network General) acquisition, which has an indefinite life and thus is not amortized. The carrying value of the indefinite-lived trade name is evaluated for potential impairment annually or more frequently if events or changes in circumstances indicate that the asset might be impaired.   
+  
+   17 
+
+     Table of Contents  
+
+Intangible assets include the indefinite-lived trade name with a carrying value of   $18.6 million   and the following amortizable intangible assets at   September 30, 2016   (in thousands): 
+
+Intangible assets include the indefinite-lived trade name with a carrying value of   $18.6 million   and the following amortizable intangible assets at   March 31, 2016   (in thousands): 
+
+Amortization included as product revenue consists of amortization of backlog.  Amortization included as cost of product revenue consists of amortization of developed technology, distributor relationships, core technology and software. Amortization included as operating expense consists of all other intangible assets. The following table provides a summary of amortization expense for the three and   six months ended     September 30, 2016   and 2015, respectively. 
+
+18 
+
+     Table of Contents  
+
+The following is the expected future amortization expense at   September 30, 2016   for the fiscal years ending March 31 (in thousands): 
+
+The weighted average amortization period of developed technology and core technology is   11.5 years  . The weighted average amortization period for customer and distributor relationships is   16.1 years  . The weighted average amortization period for trademarks and trade names is   8.5 years  . The weighted average amortization period for leasehold interests is   5.6 years  . The weighted average amortization period for backlog is   2.0 years  . The weighted average amortization period for capitalized software is   4.0 years  . The weighted average amortization period for amortizing all intangible assets is   14.6 years  . 
+   
+  NOTE 9   DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES 
+  NetScout operates internationally and, in the normal course of business, is exposed to fluctuations in foreign currency exchange rates. The exposures result from costs that are denominated in currencies other than the U.S. Dollar, primarily the Euro, British Pound, Canadian Dollar, and Indian Rupee. The Company manages its foreign cash flow risk by hedging forecasted cash flows for operating expenses denominated in foreign currencies for up to   twelve   months, within specified guidelines through the use of forward contracts. The Company enters into foreign currency exchange contracts to hedge cash flow exposures from costs that are denominated in currencies other than the U.S. Dollar. These hedges are designated as cash flow hedges at inception. 
+  All of the Company s derivative instruments are utilized for risk management purposes, and the Company does not use derivatives for speculative trading purposes. These contracts will mature over the next   twelve   months and are expected to impact earnings on or before maturity. 
+  The notional amounts and fair values of derivative instruments in the consolidated balance sheets at   September 30, 2016   and   March 31, 2016   were as follows (in thousands): 
+
+(a) 
+    Notional amounts represent the gross contract/notional amount of the derivatives outstanding. 
+     The following table provides the effect foreign exchange forward contracts had on other comprehensive income (loss) (OCI) and results of operations for the   three months ended September 30, 2016   and   2015   (in thousands): 
+
+19 
+
+     Table of Contents  
+
+(a) 
+    The amount represents the change in fair value of derivative contracts due to changes in spot rates. 
+              (b) 
+    The amount represents reclassification from other comprehensive income to earnings that occurs when the hedged item affects earnings. 
+              (c) 
+    The amount represents the change in fair value of derivative contracts due to changes in the difference between the spot price and forward price that is excluded from the assessment of hedge effectiveness and therefore recognized in earnings.   No   gains or losses were reclassified as a result of discontinuance of cash flow hedges. 
+       
+  The following table provides the effect foreign exchange forward contracts had on other comprehensive income (loss) (OCI) and results of operations for the   six months ended September 30, 2016   and   2015   (in thousands): 
+
+(a) 
+    The amount represents the change in fair value of derivative contracts due to changes in spot rates. 
+              (b) 
+    The amount represents reclassification from other comprehensive income to earnings that occurs when the hedged item affects earnings. 
+              (c) 
+    The amount represents the change in fair value of derivative contracts due to changes in the difference between the spot price and forward price that is excluded from the assessment of hedge effectiveness and therefore recognized in earnings.   No   gains or losses were reclassified as a result of discontinuance of cash flow hedges. 
+
+NOTE 10   LONG-TERM DEBT 
+  On July 14, 2015, the Company entered into a certain credit facility with a syndicate of lenders pursuant to a Credit Agreement (Credit Agreement), dated as of July 14, 2015, by and among: the Company; JPMorgan Chase Bank, N.A. (JPMorgan), as administrative agent and collateral agent; J.P. Morgan Securities LLC, KeyBanc Capital Markets, Merrill Lynch, Pierce, Fenner   Smith Incorporated, RBC Capital Markets and Wells Fargo Securities, LLC, as joint lead arrangers and joint bookrunners; Santander Bank, N.A., SunTrust Bank, N.A. and U.S. Bank National Association, as co-documentation agents; and the lenders party thereto. The Credit Agreement provides for a   five  -year,   $800 million   senior secured revolving credit facility, including a letter of credit sub-facility of up to   $50 million  . The Company may elect to use the new credit facility for working capital purposes or repurchase of up to   20 million   shares of common stock under the Company's common stock repurchase plan. The commitments under the Credit Agreement will expire on July 14, 2020, and any outstanding loans will be due on that date. At   September 30, 2016  ,   $300 million   was outstanding under this credit facility. 
+  At the Company s election, revolving loans under the Credit Agreement bear interest at either (a) an Alternate Base Rate per annum equal to the greatest of (1) JPMorgan s prime rate, (2)   0.50%   in excess of the Federal Funds effective rate, or (3) an adjusted one month LIBOR rate plus   1%  ; or (b) such adjusted LIBOR rate (for the interest period selected by the Company), in each case plus an applicable margin. For the period from the delivery of the Company's financial statements for the quarter ended June 30, 2016 until the Company has delivered financial statements for the quarter ended September 30, 2016, the applicable margin will be   1.50%   per annum for LIBOR loans and   0.50%   per annum for Alternate Base Rate loans, and thereafter the applicable margin will vary depending on the Company s leverage ratio, ranging from   1.00%   per annum for Base Rate loans and   2.00%   per annum for LIBOR loans if the Company s consolidated leverage ratio is greater than   2.50   to 1.00, down to   0.25%   per annum for Alternate Base Rate loans and   1.25%   per annum for LIBOR loans if the Company s consolidated leverage ratio is equal to or less than   1.00   to 1.00.  
+  The Company s consolidated leverage ratio is the ratio of its total funded debt compared to its consolidated adjusted EBITDA. Consolidated adjusted EBITDA includes certain adjustments, including, without limitation, adjustments relating to extraordinary, unusual or non-recurring charges, certain restructuring charges, non-cash charges, certain transaction costs and expenses and certain pro forma adjustments in connection with material acquisitions and dispositions, all as set forth in detail in the definition of Consolidated EBITDA in the Credit Agreement.  
+  
+   20 
+
+     Table of Contents  
+
+Commitment fees will accrue on the daily unused amount of the credit facility. For the period from the delivery of the Company's financial statements for the quarter ended June 30, 2016 until the Company has delivered financial statements for the quarter ended September 30, 2016, the commitment fee will be   0.25%   per annum, and thereafter the commitment fee will vary depending on the Company s consolidated leverage ratio, ranging from   0.35%   per annum if the Company s consolidated leverage ratio is greater than   2.50   to 1.00, down to   0.20%   per annum if the Company s consolidated leverage ratio is equal to or less than   1.00   to 1.00.  
+    
+  Letter of credit participation fees are payable to each lender on the amount of such lender s letter of credit exposure, during the period from the closing date of the Credit Agreement to but excluding the date which is the later of (i) the date on which such lender s commitment terminates or (ii) the date on which such lender ceases to have any letter of credit exposure, at a rate per annum equal to the applicable margin for LIBOR loans. Additionally, the Company will pay a fronting fee to each issuing bank in amounts to be agreed to between the Company and the applicable issuing bank.  
+  Interest on Alternate Base Rate loans is payable at the end of each calendar quarter. Interest on LIBOR loans is payable at the end of each interest rate period or at the end of each three-month interval within an interest rate period if the period is longer than three months. The Company may also prepay loans under the Credit Agreement at any time, without penalty, subject to certain notice requirements.  
+  Debt is recorded at the amount drawn on the revolving credit facility plus interest based on floating rates reflective of changes in the market which approximates fair value.  
+  The loans and other obligations under the credit facility are (a) guaranteed by each of the Company s wholly owned material domestic restricted subsidiaries, subject to certain exceptions, and (b) are secured by substantially all of the assets of the Company and the subsidiary guarantors, including a pledge of all the capital stock of material subsidiaries held directly by the Company and the subsidiary guarantors (which pledge, in the case of any foreign subsidiary, is limited to   65%   of the voting stock), subject to certain customary exceptions and limitations. The Credit Agreement generally prohibits any other liens on the assets of the Company and its restricted subsidiaries, subject to certain exceptions as described in the Credit Agreement.  
+  The Credit Agreement contains certain covenants applicable to the Company and its restricted subsidiaries, including, without limitation, limitations on additional indebtedness, liens, various fundamental changes, dividends and distributions, investments (including acquisitions), transactions with affiliates, asset sales, including sale-leaseback transactions, speculative hedge agreements, payment of junior financing, changes in business and other limitations customary in senior secured credit facilities. In addition, the Company is required to maintain certain consolidated leverage and interest coverage ratios. These covenants and limitations are more fully described in the Credit Agreement. At   September 30, 2016  , the Company was in compliance with all of these covenants. 
+  The Credit Agreement provides that events of default will exist in certain circumstances, including failure to make payment of principal or interest on the loans when required, failure to perform certain obligations under the Credit Agreement and related documents, defaults under certain other indebtedness, certain insolvency events, certain events arising under ERISA, a change of control and certain other events. Upon an event of default, the administrative agent with the consent of, or at the request of, the holders of more than   50%   in principal amount of the loans and commitments may terminate the commitments and accelerate the maturity of the loans and enforce certain other remedies under the Credit Agreement and the other loan documents.  
+  In connection with the Company s new revolving credit facility described above, effective as of the Closing Date, the Company terminated its existing term loan and revolving credit facility pursuant to the Credit and Security Agreement, dated as of November 22, 2011, by and among the Company, KeyBank National Association, as joint lead arranger, sole book runner and administrative agent, Wells Fargo Bank, National Association, as joint lead arranger and co-syndication agent, Merrill Lynch, Pierce, Fenner   Smith Incorporated, as joint lead arranger, Bank of America, N.A., as co-syndication agent, and Silicon Valley Bank and Comerica Bank, as co-documentation agents, and the Lenders party thereto.  
+  The Company capitalized   $6.6 million   of debt issuance costs associated with the origination of the Credit Agreement, which are being amortized over the life of the revolving credit facility. The unamortized balance was   $5.1 million   as of   September 30, 2016  . A balance of   $1.4 million   is included as prepaid expenses and other current assets and a balance of   $3.7 million   was included as other assets in Company s consolidated balance sheet.   
+  
+   21 
+
+Table of Contents  
+
+NOTE 11   RESTRUCTURING CHARGES 
+  During the fiscal year ended March 31, 2016, the Company recorded a restructuring charge of   $500 thousand   related to one-time termination benefits to be paid to   one   employee, which was the completion of a plan that was required as a closing condition for the Comms Transaction.     
+  During the quarter ended June 30, 2016, the Company restructured certain departments to better align functions related to the Comms Transaction. As a result of the restructuring program, the Company recorded   $2.0 million   of restructuring charges related to one-time termination benefits to be paid to   nineteen   employees which was recorded in the six months ended September 30, 2016. 
+  The following table provides a summary of the activity related to the restructuring plans and the related restructuring liability (in thousands):   
+
+  The accrual for employee-related severance is included as accrued compensation in the Company's consolidated balance sheet. The balance is expected to be paid in full during the quarter ended December 31, 2016. 
+   
+  NOTE 12   COMMITMENTS AND CONTINGENCIES 
+  Acquisition related         The Company has a contingent liability related to the acquisition of Simena in November 2011 for future consideration to be paid to the former seller which had an initial fair value of   $8.0 million   at the time of acquisition. At   September 30, 2016  , the present value of the future consideration was   $4.7 million  . 
+  The Company has another contingent liability related to the Comms Transaction in July 2015 which represents the tax effected portion of the contingently returnable consideration. At September 30, 2016, the fair value of the future consideration to be paid to Danaher was   $3.9 million  . For additional information, see Note 7 of the Company's Notes to Consolidated Financial Statements. 
+  In addition, the Company has a contingent liability for   $660 thousand   related to the acquisition of Avvasi in August 2016 for which an escrow account that was established to cover damages NetScout suffers related to any liabilities that NetScout did not agree to assume or as a result of the breach of representations and warranties of the sellers as described in the asset purchase agreement. Generally, indemnification claims that Avvasi would be liable for are limited to the total amount of the escrow account, which shall be the sole source for the satisfaction of any damages to the Company for such claims, but such limitation does not apply with respect to seller's breach of certain fundamental representations or related to other specified indemnity items, for which certain of Avvasi's shareholders may be liable for additional amounts in excess of the escrow amount. Except to the extent that valid indemnification claims are made prior to such time, the   $660 thousand   will be paid to the seller on August 21, 2017. 
+     Legal     From time to time, NetScout is subject to legal proceedings and claims in the ordinary course of business. In the opinion of management, the amount of ultimate expense with respect to any current legal proceedings and claims, if determined adversely, will not have a material adverse effect on the Company s financial condition, results of operations or cash flows. 
+
+NOTE 13   PENSION BENEFIT PLANS 
+  Certain of the Company's non-U.S. employees participate in certain noncontributory defined benefit pension plans acquired in the Comms Transaction.   None   of the Company's employees in the U.S. participate in any noncontributory defined benefit pension plans. In general, these plans are funded based on considerations relating to legal requirements, underlying asset returns, the plan s funded status, the anticipated deductibility of the contribution, local practices, market conditions, interest rates and other factors. 
+  The following sets forth the components of the Company's net periodic pension cost of the noncontributory defined benefit pension plans for the three and   six months ended September 30, 2016   and 2015 (in thousands): 
+  
+   22 
+
+     Table of Contents  
+
+Expected Contributions 
+  During the   six months ended September 30, 2016  , the Company made contributions of   $112 thousand   to its defined benefit pension plans. During the fiscal year ending March 31, 2017, the Company's cash contribution requirements for its defined benefit pension plans are expected to be less than   $1.0 million  . As a majority of the participants within the Company's plans are all active employees, the benefit payments are not expected to be material in the foreseeable future. 
+        
+  Other Matters 
+  Substantially all employees not covered by defined benefit plans are covered by defined contribution plans, which generally provide for company funding based on a percentage of compensation. Expense for all defined contribution plans amounted to   $2.4 million  ,   $5.3 million  , and   $1.5 million   and   $2.8 million   for the three and   six months ended September 30, 2016   and 2015, respectively. 
+   
+  NOTE 14   STOCKHOLDERS EQUITY 
+  On September 20, 2016, the stockholders of the Company approved an amendment to the Third Amended and Restated Certificate of Incorporation to increase the number of authorized shares of common stock, par value   $0.001   per share, from   150,000,000   to   300,000,000   shares. The increase in authorized shares of common stock has been reflected in the Company's financial statements. 
+   
+  NOTE 15   TREASURY STOCK 
+  On April 22, 2014, the Company's board of directors approved a stock repurchase program.  This program authorized management to make repurchases of NetScout outstanding common stock of up to   $100 million  . The Company repurchased   67,752   shares for   $2.8 million   under this program during the six months ended September 30, 2015. Through July 14, 2015 the Company had repurchased   824,452   shares totaling   $34.3 million   in the open market under this stock repurchase plan. At March 31, 2016, there were   no   shares of common stock that remained available to be purchased under this plan due to the approval of a new share repurchase program approved on May 19, 2015. 
+  On May 19, 2015, the Company s board of directors approved a new share repurchase program, conditional upon the completion of the Comms Transaction. This program enables the Company to repurchase up to   20 million   shares of its common stock.  This plan became effective on July 14, 2015 upon the completion of the Comms Transaction and replaced the Company's previously existing open market stock repurchase program described above. The Company is not obligated to acquire any specific amount of common stock within any particular timeframe under this program. Through   September 30, 2016  , the Company has repurchased   13,107,527   shares totaling   $376.6 million   in the open market under this stock repurchase plan. At   September 30, 2016  ,   6,892,473   shares of common stock remained available to be purchased under the plan. The Company repurchased   3,029,391   shares for   $76.6 million   under the program during the six months ended   September 30, 2016  . 
+  In connection with the delivery of common shares upon vesting of restricted stock units, the Company withheld   227,185   shares at a cost of   $6.6 million   related to minimum statutory tax withholding requirements on these restricted stock units during the   six months ended September 30, 2016  . These withholding transactions do not fall under the repurchase program described above, and therefore do not reduce the amount that is available for repurchase under that program. 
+  
+   23 
+
+Table of Contents  
+
+NOTE 16   NET LOSS PER SHARE 
+  Calculations of the basic and diluted net loss per share and potential common shares are as follows (in thousands, except for per share data):  
+
+The following table sets forth restricted stock units excluded from the calculation of diluted net loss per share, since their inclusion would be anti-dilutive (in thousands): 
+
+Basic net income (loss) per share is calculated by dividing net income (loss) by the weighted average number of shares outstanding during the period. Unvested restricted shares, although legally issued and outstanding, are not considered outstanding for purposes of calculating basic earnings per share. Diluted net income (loss) per share is calculated by dividing net income (loss) by the weighted average number of shares outstanding plus the dilutive effect, if any, of outstanding stock options, restricted shares and restricted stock units using the treasury stock method. The calculation of the dilutive effect of outstanding equity awards under the treasury stock method includes consideration of proceeds from the assumed exercise of stock options, unrecognized compensation expense and any tax benefits as additional proceeds. As we incurred a net loss in the   six months ended September 30, 2016  , all outstanding restricted stock units have an anti-dilutive effect and are therefore excluded from the computation of diluted weighted average share outstanding. 
+   
+  NOTE 17   INCOME TAXES 
+  The Company's effective income tax rates were   22.1%   and   78.1%   for the   three months ended September 30, 2016   and   2015  , respectively. Generally, the effective tax rate differs from the statutory tax rate due to the impact of the domestic production activities deduction, research and development credit, the impact of state taxes and income generated in jurisdictions that have a different tax rate than the U.S. statutory rate.     The effective tax rate for the   three months ended September 30, 2016   is lower than the effective rate for the   three months ended September 30, 2015  , primarily due to an increase in the research and development credit (the research and development tax credit was not enacted in the prior period), a change in the jurisdictional mix of earnings and a decrease in non-deductible transaction costs. 
+  The Company's effective income tax rates were   32.8%   and   99.0%   for the   six months ended September 30, 2016   and   2015  , respectively. The effective tax rate for the   six months ended September 30, 2016   is lower than the effective rate for the   six months ended September 30, 2015  , primarily due to an increase in the research and development credit (the research and development tax credit was not enacted in the prior period), a change in the jurisdictional mix of earnings and a decrease in non-deductible transaction costs. 
+  
+   24 
+
+Table of Contents  
+
+NOTE 18   SEGMENT AND GEOGRAPHIC INFORMATION 
+  As part of its continued integration efforts of the Comms Transaction, effective July 1, 2016, the Company reorganized its business units, which resulted in a change in operating segment composition. As a result of this change, the Company reorganized the number of operating segments from   five   operating segments to   one   operating segment. The financial information that is regularly reviewed by the Company's Chief Operating Decision Maker (CODM) to allocate resources and assess performance was changed during the second quarter of fiscal year 2017. Our operating segments are determined based on the units that constitute a business for which financial information is available and for which operating results are regularly reviewed by segment management. The Company reports revenue and income in   one   reportable segment.  
+  The Company manages its business in the following geographic areas: United States, Europe, Asia and the rest of the world. In accordance with United States export control regulations, the Company does not sell or do business with countries subject to economic sanctions and export controls. 
+  Total revenue by geography is as follows (in thousands): 
+
+The United States revenue includes sales to resellers in the United States. These resellers fulfill customer orders and may subsequently ship the Company s products to international locations. The Company reports these shipments as United States revenue because the Company ships the products to a United States location. A majority of revenue attributable to locations outside of the United States is a result of export sales. Substantially all of the Company s identifiable assets are located in the United States. 
+   
+  NOTE 19 - RELATED PARTY TRANSACTIONS 
+  During our fiscal year ended March 31, 2016 and the three months ended June 30, 2016, a member of the Company s Board of Directors served as an executive officer of Danaher. As part of the split off of Danaher s Communications Business and the Company s subsequent acquisition of that business from Newco's shareholders, NetScout has entered into multiple transactions with Danaher which include: transition services agreements, lease agreements, closing agreements, and compensation for post-combination services provisions within the separation and distribution agreement. This board member is now the founding President and CEO of Fortive Corporation (Fortive), which spun off of Danaher in July 2016. As part of the spin off of Fortive, the transition services agreement was amended to, among other things, assign Danaher's rights, duties, obligations and liabilities under the transition services agreement to Fluke Corporation, a subsidiary of Fortive. The Company has disclosed the transactions with Danaher and Fortive parenthetically within the financial statements. 
+  As disclosed parenthetically within the Company's consolidated balance sheet, the Company has receivables from related parties. The following table summarizes those balances (in thousands):   
+
+25 
+
+     Table of Contents  
+
+As disclosed within the Company's consolidated balance sheet, the Company has payables due to related parties. The following table summarizes those balances (in thousands):   
+
+  As disclosed parenthetically within the Company's consolidated statements of operations, the Company has recorded expenses from related parties. The following table summarizes those balances (in thousands): 
+
+As disclosed within the Company's consolidated statements of cash flows, the Company has cash flows due to related parties and due from related parties. The following table summarizes those cash flows (in thousands): 
+
+A member of the Company s Board of Directors served as a member of the board of directors for EMC Corporation (EMC) during the three and six months ended September 30, 2016, and therefore, the Company considers sales to EMC to be a related party transaction. During the quarter EMC was acquired by Dell Technologies and EMC's board members resigned.  The Company will continue to report the wind down of preexisting transactions as related party transactions through the  
+  
+   26 
+
+     Table of Contents  
+
+Company's fiscal year 2017. The Company recognized   $107 thousand   and   $346 thousand   in revenue from EMC during the   six months ended September 30, 2016   and 2015 in the ordinary course of business.  
+  A member of the Company s Board of Directors also serves as a consultant for The MITRE Corporation (MITRE) and therefore, the Company considers sales to MITRE to be a related party transaction. The Company generated   $22 thousand   and   $0   in revenue from MITRE during the   six months ended September 30, 2016   and 2015 in the ordinary course of business.  
+  During our fiscal year ended March 31, 2016, the Company had a member of the Board of Directors who served as a Section 16 officer of State Street Corporation (State Street) and therefore, the Company considered sales to State Street to be a related party transaction. The Company recognized   $122 thousand   in revenue from State Street during the six months ended September 30, 2015 in the ordinary course of business. This board member is no longer a Section 16 officer of State Street, and as a result, State Street is no longer considered a related party in the Company's fiscal year ended March 31, 2017. 
+  
+   27 
+
+Table of Contents  
+
+Item 2.  Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Overview 
+  We are an industry leader for real-time operational intelligence and performance analytics for service assurance and cyber security solutions that are used in many of the most demanding service provider, enterprise and government networks. Our solutions, based on proprietary Adaptive Service Intelligence (ASI) technology, help customers continuously monitor the service delivery environment to identify performance issues and to provide insight into network-based security threats. As a result, customers can quickly resolve issues that cause business disruptions or that adversely impact the user experience. We manufacture and market these products for integrated hardware and software solutions and are also well positioned to help customers deploy our software in commercial-off-the-shelf hardware and in virtualized form factors. Regardless of the platform, customers use our solutions to help drive return on investment on their network and broader information technology (IT) initiatives while reducing the tangible risks associated with downtime, poor service quality and compromised security.  
+  We have been a technology innovator for three-plus decades since our founding in 1984. Our solutions change how organizations manage and optimize the delivery of business applications and services, assure user experience across global internet protocol (IP) networks and help protect networks from unwanted security threats. Through both internal development and acquisitions, we have continually enhanced and expanded our product portfolio to meet the evolving needs of customers worldwide. Our software analytics capture and transform terabytes of network traffic data in real time into high value, actionable information that enables customers to optimize network performance, manage applications, enhance security and gain insight into the end-user experience.  
+  Our mission is to enable enterprise and service providers to realize maximum benefit with minimal risk from technology advances, like IP convergence, network function virtualization (NFV), software defined networking (SDN), virtualization, cloud, mobility, bring your own device (BYOD), web and the evolving Internet by managing the inherent complexity in a cost-effective manner. Our ASI technology, which we have developed in support of this mission, has the potential of not only expanding our leadership in our core markets, but can also serve as the underlying technology platform that can extend use of our solutions across our global customer base.  
+  Our operating results are influenced by a number of factors, including, but not limited to, the mix and quantity of products and services sold, pricing, costs of materials used in our products, growth in employee-related costs, including commissions, and the expansion of our operations. Factors that affect our ability to maximize our operating results include, but are not limited to, our ability to introduce and enhance existing products, the marketplace acceptance of those new or enhanced products, continued expansion into international markets, development of strategic partnerships, competition, successful acquisition integration efforts, and our ability to achieve expense reductions and make structural improvements in the current economic conditions.  
+  On July 14, 2015, we completed the Comms Transaction, which was structured as a Reverse Morris Trust transaction whereby Danaher contributed the Communications Business to Newco. The total equity consideration was approximately $2.3 billion based on issuing approximately 62.5 million new shares of NetScout common stock to the existing holders of common units of Newco, based on the July 13, 2015 NetScout common stock closing share price of $36.89 per share. The Comms Transaction was aimed at extending NetScout's reach into growth-oriented adjacent markets, including cyber security, with a broader range of market-leading products and capabilities; strengthening its go-to-market resources to better support a larger, more diverse and more global customer base; and increasing NetScout's scale and elevating its strategic position within key accounts. For additional information regarding the Comms Transaction, see Note 7 of our Notes to Consolidated Financial Statements. 
+  On August 19, 2016, we acquired certain assets and liabilities of Avvasi for $4.6 million. Avvasi s technology allows service providers to measure, improve and monetize video in their networks. This acquisition builds on NetScout's ongoing investment to enhance its service assurance capabilities for video traffic over 4G/LTE networks. For additional information regarding the Avvasi acquisition, see Note 7 of our Notes to Consolidated Financial Statements. 
+  During the second quarter of fiscal year 2017, as part of our continued integration efforts of the Comm Transaction, we reorganized our business units. As a result, we now account for our operations under one reportable segment. 
+  On September 20, 2016, NetScout's stockholders approved an amendment to the Third Amended and Restated Certificate of Incorporation to increase the number of authorized shares of common stock, par value $0.001 per share, from 150,000,000 to 300,000,000 shares. The increase in authorized shares of common stock has been reflected in our financial statements. 
+  
+   28 
+
+Table of Contents  
+
+Results Overview 
+  We continued to navigate through challenging market conditions, which have primarily impacted sales with service provider customers.  Revenue during the three months ended September 30, 2016 benefited from the incremental revenue from the acquisition of the Danaher Communications Business. Our business has maintained strong gross profit margins and income from operations improved due in part to the combination of prudent investment and decreased costs related to the Transaction when compared to the three months ended September 30, 2015.   
+  We continue to maintain strong liquidity. At   September 30, 2016  , we had cash, cash equivalents and marketable securities (current and non-current) of $303.4 million and $500 million available under our credit facility. The cash, cash equivalents and marketable securities balance represents a decrease of $48.7 million from   March 31, 2016  , which reflects $76.6 million of cash used to repurchase shares of our common stock, $15.7 million of cash used for capital expenditures and $4.6 million of cash used in the Avvasi acquisition during the six months ended September 30, 2016. These decreases were partially offset by cash provided by operations of $53.6 million during the six months ended September 30, 2016. 
+   
+  Use of Non-GAAP Financial Measures 
+    
+  We supplement the United States generally accepted accounting principles (GAAP) financial measures we report in quarterly and annual earnings announcements, investor presentations and other investor communications by reporting the following non-GAAP measures: non-GAAP total revenue, non-GAAP product revenue, non-GAAP service revenue, non-GAAP income from operations, non-GAAP operating margin, non-GAAP EBITDA from operations, non-GAAP EBIDTA from operations margin, non-GAAP net income, and non-GAAP net income per share (diluted). Non-GAAP revenue eliminates the GAAP effects of acquisitions by adding back revenue related to deferred revenue revaluation and the amortization of acquired intangible assets. Non-GAAP income from operations includes the foregoing adjustments and also removes expenses related to the amortization of acquired intangible assets, stock-based compensation, certain expenses relating to acquisitions including inventory fair value adjustments, depreciation costs, compensation for post-combination services and business development and integration costs. Non-GAAP operating margin is calculated based on the non-GAAP financial metrics discussed above. Non-GAAP EBITDA from operations includes the aforementioned items related to non-GAAP income from operations and also removes non-acquisition-related depreciation expense. Non-GAAP net income includes the foregoing adjustments and also removes expenses related to share-based compensation and certain expenses relating to acquisitions including: compensation for post-combination services, business development charges, and depreciation expenses, net of related income tax effects. Non-GAAP diluted net income per share also excludes these expenses as well as the related impact of all these adjustments on the provision for income taxes. 
+    
+  These non-GAAP measures are not in accordance with GAAP, should not be considered an alternative for measures prepared in accordance with GAAP (revenue, net income (loss) and diluted net income (loss) per share), and may have limitations in that they do not reflect all our results of operations as determined in accordance with GAAP. These non-GAAP measures should only be used to evaluate our results of operations in conjunction with the corresponding GAAP measures. The presentation of non-GAAP information is not meant to be considered superior to, in isolation from, or as a substitute for results prepared in accordance with GAAP. 
+    
+  Management believes these non-GAAP financial measures enhance the reader's overall understanding of our current financial performance and our prospects for the future by providing a higher degree of transparency for certain financial measures and providing a level of disclosure that helps investors understand how we plan and measure our business. We believe that providing these non-GAAP measures affords investors a view of our operating results that may be more easily compared to our peer companies and also enables investors to consider our operating results on both a GAAP and non-GAAP basis during and following the integration period of our acquisitions. Presenting the GAAP measures on their own may not be indicative of our core operating results. Furthermore, management believes that the presentation of non-GAAP measures when shown in conjunction with the corresponding GAAP measures provide useful information to management and investors regarding present and future business trends relating to our financial condition and results of operations. 
+
+29 
+
+     Table of Contents  
+
+The following table reconciles revenue, net income (loss) and net income (loss) per share on a GAAP and non-GAAP basis for the three and   six months ended     September 30, 2016   and 2015 (in thousands, except for per share amounts): 
+
+Critical Accounting Policies 
+   Our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with GAAP consistently applied. The preparation of these consolidated financial statements requires us to make significant estimates and judgments that affect the amounts reported in our consolidated financial statements and the accompanying notes. These items are regularly monitored and analyzed by management for changes in facts and circumstances, and material changes in these estimates could occur in the future. Changes in estimates are recorded in the period in which they become known. We base our estimates on historical experience and various other assumptions that we believe to be reasonable under the circumstances. Actual results may differ from our estimates.  
+  
+   30 
+
+     Table of Contents  
+
+While all of our accounting policies impact the consolidated financial statements, certain policies are viewed to be critical. Critical accounting policies are those that are both most important to the portrayal of our financial condition and results of operations and that require management's most subjective or complex judgments and estimates. We consider the following accounting policies to be critical in fully understanding and evaluating our financial results: 
+             
+    marketable securities; 
+                
+    revenue recognition; 
+                
+    valuation of goodwill, intangible assets and other acquisition accounting items; and 
+                
+    share-based compensation. 
+     Please refer to the critical accounting policies set forth in our Annual Report on Form 10-K for the fiscal year ended   March 31, 2016  , filed with the Securities and Exchange Commission (SEC) on May 31,   2016  , for a description of all of our critical accounting policies. 
+   
+  Three Months Ended   September 30, 2016   and   2015    
+  Revenue 
+  Product revenue consists of sales of our hardware products and licensing of our software products. Service revenue consists of customer support agreements, consulting and training. During the   three months ended September 30, 2016   and 2015, one direct customer accounted for more than 10% of our total revenue, while no indirect channel partner accounted for more than 10% of our total revenue.  
+
+Product.     The   3%  , or   $6.0 million  ,   decrease   in product revenue compared to the same period last year was primarily due to a $15.9 million decrease in revenue from entities acquired in the Comms Transaction. In particular, revenue for the three months ended September 30, 2015 benefited from a large service provider project with an acquired entity. This decrease was partially offset by an $11.0 million increase in revenue from the general enterprise sector in the legacy NetScout business. 
+  Going forward, we expect that the revenue mix in future quarters will likely be oriented toward service provider customers, consistent with recent quarterly trends. However, the timing and magnitude of certain projects will impact the quarterly revenue mix in any given quarter. 
+  Service.     The   20%  , or   $17.0 million  ,   increase   in service revenue compared to the same period last year was primarily due to an $18.0 million increase in revenue from entities acquired in the Comms Transaction. This increase was partially offset by a $1.1 million decrease in maintenance revenue in our legacy NetScout business. We expect service revenue growth to benefit from product revenue growth which increases our installed base and therefore our related maintenance contracts, which has potential to be offset by erosion on larger maintenance and support agreements when they are renewed. 
+  
+   31 
+
+     Table of Contents  
+
+Total revenue by geography is as follows: 
+
+United States revenues   decrease  d   6%  , or   $12.5 million  , compared to the same period last year primarily due to a $22.1 million decrease from entities acquired as part of the Comms Transaction, partially offset by an increase in the legacy NetScout general enterprise sector revenues. The   35%  , or   $23.4 million  ,   increase   in international revenue compared to the same period last year is primarily due to a $24.2 million incremental contribution from entities acquired as part of the Comms Transaction. We expect revenue from sales to customers outside the United States to continue to account for a significant portion of our total revenue in the future. In accordance with United States export control regulations we do not sell to, or do business with, countries subject to economic sanctions and export controls. 
+  Cost of Revenue and Gross Profit 
+  Cost of product revenue consists primarily of material components, manufacturing personnel expenses, manuals, packaging materials, overhead and amortization of capitalized software, acquired software and core technology. Cost of service revenue consists primarily of personnel, material, overhead and support costs. 
+
+Product.   The   25%  , or   $18.8 million  ,   decrease   in cost of product revenue was primarily due to a $12.8 million decrease in the step up amortization adjustments when compared to the three months ended September 30, 2015, as well as a $4.9 million reduction in incremental costs related to the Comms Transaction incurred during the three months ended September 30, 2015. In addition, in the legacy NetScout business, there was a $2.2 million decrease in amortization of intangibles primarily due to the acceleration of intangibles. These decreases were partially offset by a $725 thousand increase in direct material costs and a $536 thousand increase in obsolescence charges in the legacy NetScout business. The product gross profit percentage increased  
+  
+   32 
+
+     Table of Contents  
+
+by nine percentage points to   66%   during the three months ended   September 30, 2016   as compared to the three months ended   September 30, 2015  . The   13%  , or   $12.7 million  , increase in product gross profit corresponds with the   3%  , or   $6.0 million  , decrease in product revenue, and the   25%  , or   $18.8 million   decrease in cost of product revenue. Average headcount in manufacturing was   94   and   77   for the three months ended   September 30, 2016   and   2015  , respectively. 
+  Service.   The  13%  , or   $3.1 million     increase   in cost of service revenue during the three months ended   September 30, 2016   when compared to the three months ended   September 30, 2015   was primarily due to a $2.1 million increase in the incremental costs from the operations related to the Comms Transaction incurred during the three months ended September 30, 2016. This was due in part to the fact that the three months ended September 30, 2015 only included eleven weeks of expenses since the Comms Transaction occurred on July 14, 2015. In addition, in the legacy NetScout business there was a $280 thousand increase in compensation-related expenses and a $212 thousand increase in cost of materials used to support customers under service contracts. The service gross profit percentage increased by two percentage points to   73%   for the three months ended   September 30, 2016   as compared to the three months ended   September 30, 2015  . The   23%  , or   $13.9 million  ,   increase   in service gross profit corresponds with the   20%  , or   $17.0 million  ,   increase   in service revenue offset by an increase in costs. Average service headcount was   632   and   497   for the three months ended   September 30, 2016   and   2015  , respectively. 
+  Gross profit.   Our gross profit   increase  d   17%  , or   $26.6 million   during the three months ended   September 30, 2016   when compared to the three months ended   September 30, 2015  . This   increase   is attributable to the   increase   in revenue of   4%  , or   $10.9 million  , and the   16%  , or   $15.7 million  ,   decrease   in cost of revenue. The gross profit percentage increased seven percentage points to   69%   for the three months ended   September 30, 2016   as compared to the three months ended   September 30, 2015  , which reflects the mix of products and service during the quarter.  
+  Operating Expenses 
+
+Research and development.   Research and development expenses consist primarily of personnel expenses, fees for outside consultants, overhead and related expenses associated with the development of new products and the enhancement of existing products. 
+  The   7%  , or   $4.9 million  ,   decrease   in research and development expenses was due to a $4.6 million decrease in the incremental costs from the operations related to the Comms Transaction incurred during the three months ended September 30, 2015. Average headcount in research and development was   1,210   and   1,054   for the three months ended   September 30, 2016   and   2015  , respectively.   
+  Sales and marketing.   Sales and marketing expenses consist primarily of personnel expenses and commissions, overhead and other expenses associated with selling activities and marketing programs such as trade shows, seminars, advertising and new product launch activities. 
+  The   3%  , or   $2.4 million  ,   decrease   in total sales and marketing expenses was primarily due to a $3.9 million decrease in the incremental costs from the operations related to the Comms Transaction incurred during the three months ended September 30, 2015. This decrease was partially offset by a $1.3 million increase in trade shows and other events in the legacy NetScout business. Average headcount in sales and marketing was   924   and   789   for the three months ended   September 30, 2016   and   2015  , respectively. 
+  General and administrative.   General and administrative expenses consist primarily of personnel expenses for executive, financial, legal and human resource employees, overhead and other corporate expenditures. 
+  
+   33 
+
+     Table of Contents  
+
+The   24%  , or   $9.8 million  ,   decrease   in general and administrative expenses was due in part to a $3.2 million decrease in the incremental costs related to the Comms Transaction incurred during the three months ended September 30, 2015. In addition, in the legacy NetScout business there was a $10.8 million decrease in business development expenses related to the Comms Transaction. These decreases were partially offset by a $1.3 million increase in legal expenses, a $757 thousand increase in compensation-related expenses and a $474 thousand increase in depreciation expense in the legacy NetScout business. Average headcount in general and administrative was   284   and   204   for the three months ended   September 30, 2016   and   2015  , respectively. 
+  Amortization of acquired intangible assets  . Amortization of acquired intangible assets consists primarily of amortization of customer relationships, definitive lived trademark and tradenames, and leasehold interest related to the  Comms Transaction, ONPATH Technologies, Inc. (ONPATH), Simena, Fox Replay BV (Replay), Psytechnics, Ltd (Psytechnics) and Network General.   
+  The   78%  , or   $7.7 million  , increase in amortization of acquired intangible assets was due to an $8.6 million increase in amortization associated with the Comms Transaction, offset by an $863 thousand decrease in the amortization related to the legacy NetScout business. 
+  Interest and Other Expense, Net  .   Interest and other expense, net includes interest earned on our cash, cash equivalents and marketable securities, interest expense and other non-operating gains or losses. 
+
+The   193%  , or   $1.6 million  , increase in interest and other expense, net was primarily due to an $861 thousand increase in foreign currency exchange loss and a $407 thousand increase in interest expense. 
+  Income Tax Benefit.   Our effective income tax rates were   22.1%   and   78.1%   for the three months ended   September 30, 2016   and   2015  , respectively. Generally, the effective tax rate differs from the statutory tax rate due to the impact of the domestic production activities deduction, research and development credit, the impact of state taxes and income generated in jurisdictions that have a different tax rate than the U.S. statutory rate.     The effective tax rate for the three months ended   September 30, 2016   is lower than the effective rate for the three months ended September 30, 2015, primarily due to an increase in the research and development credit (the research and development tax credit was not enacted in the prior period), a change in the jurisdictional mix of earnings and a decrease in non-deductible transaction costs. 
+
+34 
+
+Table of Contents  
+
+Six Months Ended     September 30, 2016   and   2015    
+  Revenue 
+  During the   six months ended     September 30, 2016  , and 2015, one direct customer accounted for more than 10% of our total revenue, while no indirect channel partner accounted for more than 10% of our total revenue.  
+
+Product.     The   46%  , or   $105.0 million  ,   increase   in product revenue compared to the same period last year was primarily due to the $101.1 million additional revenue as a result of the Comms Transaction. In addition, there was an $11.8 million increase in revenue from the general enterprise sector in the legacy NetScout business partially offset by a $7.5 million decrease in revenue from the service provider sector in the legacy NetScout business. 
+  Service.     The   56%  , or   $74.2 million  ,   increase   in service revenue compared to the same period last year was primarily due to a $74.9 million increase from the expansion of our customer base as well as a full six months of revenue related to the acquired entities as compared to 11 weeks in the prior period due to the Comms Transaction.  
+  Total revenue by geography is as follows: 
+
+United States revenues   increase  d   30%  , or   $82.0 million  , primarily due to a $75.2 million increase from entities acquired as part of the Comms Transaction due to the full six months of revenue, as well as an increase within the legacy NetScout general enterprise sector. These increases were offset by a decrease within the legacy NetScout service provider sector. The   110%  , or   $97.1 million  ,   increase   in international revenue is primarily due to a $100.7 million increase from entities acquired as part of the Comms Transaction due to the full six months of revenue, partially offset by a decrease across the legacy NetScout service provider sector.  
+  
+   35 
+
+     Table of Contents  
+
+Cost of Revenue and Gross Profit 
+
+Product.   The   32%  , or   $28.6 million  ,   increase   in cost of product revenue compared to the same period last year was due to a $44.8 million increase in the incremental costs related to the Comms Transaction. The six months ended September 30, 2015 only included eleven weeks of increased expenses since the Comms Transaction occurred on July 14, 2015. This increase was partially offset by a $12.8 million decrease in the step up amortization adjustments when compared to the six months ended September 30, 2015.  In addition, in the legacy NetScout business there was a $2.6 million decrease in amortization of legacy NetScout intangibles primarily due to the acceleration of intangibles during the six months ended September 30, 2015 and a $1.3 million decrease in cost of goods sold for the legacy NetScout business. The product gross profit percentage increased by three percentage points to   65%   during the   six months ended September 30, 2016   when compared to the   six months ended     September 30, 2015  . Average headcount in manufacturing was   98   and   55   for the   six months ended September 30, 2016   and   2015  , respectively. 
+  Service.   The   64%  , or   $21.5 million  ,   increase   in cost of service revenue compared to the same period last year was primarily due to a $20.0 million increase in the incremental costs related to the Comms Transaction. The six months ended September 30, 2015 only included eleven weeks of increased expenses since the Comms Transaction occurred on July 14, 2015. In addition, in the legacy NetScout business there was a $393 thousand increase in compensation-related expenses and a $360 thousand increase in cost of materials used to support customers under service contracts. The service gross profit percentage decreased by two percentage points to   73%   for the   six months ended September 30, 2016   when compared to the   six months ended     September 30, 2015  . The   53%  , or   $52.7 million  ,   increase   in service gross profit corresponds with the   56%  , or   $74.2 million  ,   increase   in service revenue, partially offset by the   64%  , or   $21.5 million  , increase in cost of services. Average service headcount was   618   and   338   for the   six months ended September 30, 2016   and   2015  , respectively. 
+  Gross profit.   Our gross profit   increase  d   54%  , or   $129.1 million   compared to the same period last year. This   increase   is attributable to our   increase   in revenue of   50%   or   $179.1 million  , partially offset by a   41%  , or   $50.1 million  ,   increase   in cost of revenue. The gross profit percentage increased by two percentage points to   68%   for the   six months ended September 30, 2016   when compared to the   six months ended September 30, 2015  .   
+  
+   36 
+
+     Table of Contents  
+
+Operating Expenses 
+
+Research and development.   The   45%  , or   $37.6 million  ,   increase   in research and development expenses compared to the same period last year was primarily due to a $36.3 million increase in the incremental costs related to the Comms Transaction. The six months ended September 30, 2015 only included eleven weeks of increased expenses since the Comms Transaction occurred on July 14, 2015. In addition, in the legacy NetScout business there was a $1.3 million increase in compensation-related expenses. Average headcount in research and development was   1,211   and   706   for the   six months ended September 30, 2016   and   2015  , respectively. 
+  Sales and marketing.   The   35%  , or $  41.0 million  ,   increase   in total sales and marketing expenses compared to the same period last year was primarily due to a $36.7 million increase in the incremental costs related to the Comms Transaction. The six months ended September 30, 2015 only included eleven weeks of increased expenses since the Comms Transaction occurred on July 14, 2015. In addition, in the legacy NetScout business there was a $2.2 million increase in expenses related to the NetScout user conference and sales kickoff event due primarily to higher attendance and related rebranding activity, a $1.5 million increase in commission expense and a $1.0 million increase in other compensation-related expenses. Average headcount in sales and marketing was   922   and   579   for the   six months ended September 30, 2016   and   2015  , respectively. 
+  General and administrative.   The   22%  , or $  11.1 million  ,   increase   in general and administrative expenses compared to the same period last year was primarily due to an $8.2 million increase in the incremental costs related to the Comms Transaction. The six months ended September 30, 2015 only included eleven weeks of increased expenses since the Comms Transaction occurred on July 14, 2015. In addition, in the legacy NetScout business there was a $5.3 million increase in compensation-related expenses, a $3.0 million increase in legal expenses, an $811 thousand increase in depreciation expense, a $759 thousand increase in accounting related expenses and a $638 thousand increase in allocated overhead expense. These increases were offset by a $9.6 million decrease in business development expenses related to the Comms Transaction in the legacy NetScout business. Average headcount in general and administrative was   284   and   165   for the   six months ended September 30, 2016   and   2015  , respectively. 
+  Amortization of acquired intangible assets  . Amortization of acquired intangible assets consists primarily of amortization of customer relationships, definitive lived trademark and tradenames, and leasehold interest related to the acquisitions of the Communications Business, ONPATH, Simena, Replay, Psytechnics and Network General.   
+  The   230%  , or   $24.5 million  , increase in amortization of acquired intangibles assets were primarily due to an increase of $25.4 million in amortization related to the Comms Transaction. Amortization of intangible assets acquired in the Comms Transaction did not begin until July 2015. These increases were offset by a $957 thousand decrease in amortization of acquired intangible assets in the legacy NetScout business. 
+  
+   37 
+
+     Table of Contents  
+
+Interest and Other Expense, Net  .   Interest and other expense, net includes interest earned on our cash, cash equivalents and marketable securities, interest expense and other non-operating gains or losses. 
+
+The   448%  , or   $4.4 million  ,   increase   in interest and other expense was due to a $2.5 million increase in interest expense due to amounts drawn down on the credit facility entered into on July 14, 2015. The six months ended September 30, 2015 only included eleven weeks of increased expenses since the Comms Transaction occurred on July 14, 2015. In addition, there was a $1.5 million increase in foreign currency exchange expense. 
+  Income Tax Benefit.   Our effective income tax rates were   32.8%   and   99.0%   for the   six months ended September 30, 2016   and   2015  , respectively. Generally, the effective tax rate differs from the statutory tax rates due to the impact of the domestic production activities deduction, research and development credits, the impact of state taxes and income generated in jurisdictions that have a different rate than the U.S. statutory rate.     The effective tax rate for the six months ended September 30, 2016 is lower than the effective rate for the six months ended September 30, 2015, primarily due to an increase in the research and development credit (the research and development tax credit was not enacted in the prior period), a change in the jurisdictional mix of earnings and a decrease in non-deductible transaction costs.   
+
+Off-Balance Sheet Arrangements 
+    
+  At   September 30, 2016   and   2015  , we did not have any off-balance sheet arrangements as defined in Regulation S-K, Item 303(a)(4)(ii). 
+   
+  Commitment and Contingencies 
+  We account for claims and contingencies in accordance with authoritative guidance that requires us to record an estimated loss from a claim or loss contingency when information available prior to issuance of our consolidated financial statements indicates that it is probable that a liability has been incurred at the date of the consolidated financial statements and the amount of the loss can be reasonably estimated. If we determine that it is reasonably possible but not probable that an asset has been impaired or a liability has been incurred or if the amount of a probable loss cannot be reasonably estimated, then in accordance with the authoritative guidance, we disclose the amount or range of estimated loss if the amount or range of estimated loss is material. Accounting for claims and contingencies requires us to use our judgment. We consult with legal counsel on those issues related to litigation and seek input from other experts and advisors with respect to matters in the ordinary course of business. See Note 12 for a discussion of contingencies. 
+    Acquisition related         We have a contingent liability related to the acquisition of Simena in November 2011 for future consideration to be paid to the former seller which had an initial fair value of   $8.0 million   at the time of acquisition. At   September 30, 2016  , the present value of the future consideration was   $4.7 million  . 
+  We have a contingent liability related to the Comms Transaction in July 2015 which represents the tax effected portion of the contingently returnable consideration. At September 30, 2016, the fair value of the future consideration to be paid to Danaher was $3.9 million. For additional information, see Note 7. 
+  
+   38 
+
+     Table of Contents  
+
+Our contingent purchase consideration also includes $660 thousand related to the Avvasi acquisition. The contingent purchase consideration represents amounts deposited into an escrow account, which was established to cover any damages we suffer related to any liabilities that we did not agree to assume or as a result of the breach of representations and warranties of the seller as described in the asset purchase agreement. For additional information, see Note 7. 
+     Legal     From time to time, NetScout is subject to legal proceedings and claims in the ordinary course of business. In the opinion of management, the amount of ultimate expense with respect to any current legal proceedings and claims, if determined adversely, will not have a material adverse effect on our financial condition, results of operations or cash flows. 
+   
+  Liquidity and Capital Resources 
+  Cash, cash equivalents and marketable securities consist of the following (in thousands): 
+
+Cash, cash equivalents and marketable securities 
+  At   September 30, 2016  , cash, cash equivalents and marketable securities (current and non-current) totaled   $303.4 million  , a $  48.7 million   decrease from   $352.1 million   at   March 31, 2016   due primarily to $76.6 million used to repurchase shares of our common stock under our repurchase program, $15.7 million of cash used for capital expenditures and $4.6 million of cash used in the Avvasi acquisition.  These decreases were partially offset by cash provided by operations of $53.6 million during the six months ended September 30, 2016. 
+  At   September 30, 2016  , cash and short-term and long-term investments in the United States were $206.0 million, while cash held outside the United States was approximately $97.4 million. 
+  Cash and cash equivalents were impacted by the following: 
+
+Net cash from operating activities  
+  Cash provided by operating activities was   $53.6 million   during the   six months ended September 30, 2016  , compared to $  6.9 million   of cash provided by operating activities during the   six months ended September 30, 2015  . This $46.7 million   increase   was due in part to a $57.6 million increase from deferred revenue, a $41.6 million increase from amounts that are due from a related party as a result of the Comms Transaction, a $29.0 million increase from prepaid expenses and other assets, a $28.8 million increase from depreciation and amortization, a $9.4 million increase from accounts payable and a $7.7 million increase from share-based compensation expense. These increases were offset by a $46.1 million decrease from accounts receivable, a $29.5 million decrease from deferred income taxes, a $25.9 million decrease from accrued compensation and other expenses, a $10.0 million decrease from net loss, a $6.9 million decrease from inventories, a $6.6 million decrease from deal related compensation expense and accretion charges and a $3.3 million decrease from income taxes payable in the   six months ended September 30, 2016   as compared to the   six months ended September 30, 2015  . Days sales outstanding remained flat at 80 days at   September 30, 2016   compared to   March 31, 2016   and 51 days at   September 30, 2015  .  
+  
+   39 
+
+     Table of Contents  
+
+Net cash from investing activities 
+
+Cash provided by investing activities decreased by $  26.9 million   to   $15.8 million   during the   six months ended September 30, 2016  , compared to $  42.7 million   of cash provided by investing activities in the   six months ended September 30, 2015  .     
+  The overall increase in cash inflow from marketable securities related to a net increase in the proceeds from maturity of investments of $9.2 million during the   six months ended September 30, 2016   when compared to the   six months ended September 30, 2015  .   
+  Our investments in property and equipment consist primarily of computer equipment, demonstration units, office equipment and facility improvements. We plan to continue to invest in capital expenditures to support our infrastructure through the remainder of fiscal year   2017  . 
+  Net cash from financing activities 
+
+Cash used in financing activities increased   $145.9 million   to $  84.6 million   during the   six months ended September 30, 2016  , compared to $  61.3 million   of cash provided by financing activities in the   six months ended September 30, 2015  .   
+  We repurchased   3,029,391   and 4,564,348 shares for   $76.6 million   and $179.1 million under our stock repurchase program during the six months ended   September 30, 2016   and 2015, respectively. 
+  In connection with the delivery of common shares upon vesting of restricted stock units, we have withheld   227,185   and 157,771 share at a cost of   $6.6 million   and $5.9 million related to minimum statutory tax withholding requirements on these restricted stock units during the   six months ended September 30, 2016   and 2015, respectively. These withholding transactions do not fall under the repurchase program described above, and therefore do not reduce the amount that is available for repurchase under that program. 
+  
+   40 
+
+     Table of Contents  
+
+Credit Facility 
+  On July 14, 2015, we entered into a certain credit facility with a syndicate of lenders pursuant to a Credit Agreement (Credit Agreement), dated as of July 14, 2015, by and among: the Company; JPMorgan Chase Bank, N.A. (JPMorgan), as administrative agent and collateral agent; J.P. Morgan Securities LLC, KeyBanc Capital Markets, Merrill Lynch, Pierce, Fenner   Smith Incorporated, RBC Capital Markets and Wells Fargo Securities, LLC, as joint lead arrangers and joint bookrunners; Santander Bank, N.A., SunTrust Bank, N.A. and U.S. Bank National Association, as co-documentation agents; and the lenders party thereto. The Credit Agreement provides for a five-year, $800 million senior secured revolving credit facility, including a letter of credit sub-facility of up to $50 million. We may elect to use the new credit facility for working capital purposes or repurchase of up to 20 million shares of common stock under our common stock repurchase plan. The commitments under the Credit Agreement will expire on July 14, 2020, and any outstanding loans will be due on that date. At September 30, 2016, $300 million was outstanding under this credit facility. 
+  At our election, revolving loans under the Credit Agreement bear interest at either (a) an Alternate Base Rate per annum equal to the greatest of (1) JPMorgan s prime rate, (2) 0.50% in excess of the Federal Funds effective rate, or (3) an adjusted one month LIBOR rate plus 1%; or (b) such adjusted LIBOR rate (for the interest period selected by us), in each case plus an applicable margin. For the period from the delivery of our financial statements for the quarter ended June 30, 2016 until we have delivered financial statements for the quarter ended September 30, 2016, the applicable margin will be 1.50% per annum for LIBOR loans and 0.50% per annum for Alternate Base Rate loans, and thereafter the applicable margin will vary depending on our leverage ratio, ranging from 1.00% per annum for Base Rate loans and 2.00% per annum for LIBOR loans if our consolidated leverage ratio is greater than 2.50 to 1.00, down to 0.25% per annum for Alternate Base Rate loans and 1.25% per annum for LIBOR loans if our consolidated leverage ratio is equal to or less than 1.00 to 1.00.  
+  Our consolidated leverage ratio is the ratio of our total funded debt compared to its consolidated adjusted EBITDA. Consolidated adjusted EBITDA includes certain adjustments, including, without limitation, adjustments relating to extraordinary, unusual or non-recurring charges, certain restructuring charges, non-cash charges, certain transaction costs and expenses and certain pro forma adjustments in connection with material acquisitions and dispositions, all as set forth in detail in the definition of Consolidated EBITDA in the Credit Agreement.  
+  Commitment fees will accrue on the daily unused amount of the credit facility. For the period from the delivery of our  financial statements for the quarter ended June 30, 2016 until we have delivered financial statements for the quarter ended September 30, 2016, the commitment fee will be 0.25% per annum, and thereafter the commitment fee will vary depending on our consolidated leverage ratio, ranging from 0.35% per annum if our consolidated leverage ratio is greater than 2.50 to 1.00, down to 0.20% per annum if our consolidated leverage ratio is equal to or less than 1.00 to 1.00.  
+    
+  Letter of credit participation fees are payable to each lender on the amount of such lender s letter of credit exposure, during the period from the closing date of the Credit Agreement to but excluding the date which is the later of (i) the date on which such lender s commitment terminates or (ii) the date on which such lender ceases to have any letter of credit exposure, at a rate per annum equal to the applicable margin for LIBOR loans. Additionally, we will pay a fronting fee to each issuing bank in amounts to be agreed to between NetScout and the applicable issuing bank.  
+  Interest on Alternate Base Rate loans is payable at the end of each calendar quarter. Interest on LIBOR loans is payable at the end of each interest rate period or at the end of each three-month interval within an interest rate period if the period is longer than three months. We may also prepay loans under the Credit Agreement at any time, without penalty, subject to certain notice requirements.  
+  Debt is recorded at the amount drawn on the revolving credit facility plus interest based on floating rates reflective of changes in the market which approximates fair value.  
+  The loans and other obligations under the credit facility are (a) guaranteed by each of our wholly owned material domestic restricted subsidiaries, subject to certain exceptions, and (b) are secured by substantially all of the assets of us and the subsidiary guarantors, including a pledge of all the capital stock of material subsidiaries held directly by us and the subsidiary guarantors (which pledge, in the case of any foreign subsidiary, is limited to 65% of the voting stock), subject to certain customary exceptions and limitations. The Credit Agreement generally prohibits any other liens on the assets of the Company and its restricted subsidiaries, subject to certain exceptions as described in the Credit Agreement.  
+  The Credit Agreement contains certain covenants applicable to us and our restricted subsidiaries, including, without limitation, limitations on additional indebtedness, liens, various fundamental changes, dividends and distributions, investments (including acquisitions), transactions with affiliates, asset sales, including sale-leaseback transactions, speculative hedge  
+  
+   41 
+
+     Table of Contents  
+
+agreements, payment of junior financing, changes in business and other limitations customary in senior secured credit facilities. In addition, we are required to maintain certain consolidated leverage and interest coverage ratios. These covenants and limitations are more fully described in the Credit Agreement. At   September 30, 2016  , we were in compliance with all of these covenants. 
+  The Credit Agreement provides that events of default will exist in certain circumstances, including failure to make payment of principal or interest on the loans when required, failure to perform certain obligations under the Credit Agreement and related documents, defaults under certain other indebtedness, certain insolvency events, certain events arising under ERISA, a change of control and certain other events. Upon an event of default, the administrative agent with the consent of, or at the request of, the holders of more than 50% in principal amount of the loans and commitments may terminate the commitments and accelerate the maturity of the loans and enforce certain other remedies under the Credit Agreement and the other loan documents.  
+  In connection with our new revolving credit facility described above, effective as of the Closing Date, we terminated our existing term loan and revolving credit facility pursuant to the Credit and Security Agreement, dated as of November 22, 2011, by and among the Company, KeyBank National Association, as joint lead arranger, sole book runner and administrative agent, Wells Fargo Bank, National Association, as joint lead arranger and co-syndication agent, Merrill Lynch, Pierce, Fenner   Smith Incorporated, as joint lead arranger, Bank of America, N.A., as co-syndication agent, and Silicon Valley Bank and Comerica Bank, as co-documentation agents, and the Lenders party thereto.  
+  We capitalized   $6.6 million   of debt issuance costs associated with the origination of the Credit Agreement, which are being amortized over the life of the revolving credit facility. The unamortized balance was   $5.1 million   as of   September 30, 2016  . A balance of   $1.4 million   is included as prepaid expenses and other current assets and a balance of   $3.7 million   is included as other assets in our consolidated balance sheet.  
+  Expectations for Fiscal Year 2017 
+  We believe that our cash balances, available debt, short-term marketable securities classified as available-for-sale and future cash flows generated by operations will be sufficient to meet our anticipated cash needs for working capital and capital expenditures for at least the next 12 months. In addition, we expect that cash provided by operating activities will continue to increase due to an expected increase in cash collections related to anticipated higher revenues, partially offset by an anticipated increase in operating expenses that require cash outlays such as salaries and commissions. 
+  Additionally, a portion of our cash may be used to acquire or invest in complementary businesses or products or to obtain the right to use complementary technologies. From time to time, in the ordinary course of business, we evaluate potential acquisitions of such businesses, products or technologies. If our existing sources of liquidity are insufficient to satisfy our liquidity requirements, we may seek to sell additional equity or debt securities. The sale of additional equity or debt securities could result in additional dilution to our stockholders. 
+   
+  Recently Issued Accounting Pronouncements 
+  In August 2016, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update No. 2016-15, Classification of Certain Cash Receipts and Cash Payments (ASU 2016-15). ASU 2016-15 is intended to add or clarify guidance on the classification of certain cash receipts and payments in the statement of cash flows and to eliminate the diversity in practice related to such classifications. The guidance in ASU 2016-15 is required for annual reporting periods beginning after December 15, 2017, with early adoption permitted. We are currently assessing the potential impact of the adoption of ASU 2016-15 on our consolidated statement of cash flows.  
+  In March 2016, the FASB issued ASU 2016-09, Compensation - Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting (ASU 2016-09), which simplifies several aspects of the accounting for employee share-based payment transactions, including the accounting for income taxes, forfeitures and statutory tax withholding requirements, as well as classification in the statement of cash flows. ASU 2016-09 is effective for the Company beginning April 1, 2017. We are currently evaluating the impact of the pending adoption of ASU 2016-09 on our consolidated financial statements. 
+  In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842) Section A - Leases: Amendments to the FASB Accounting Standards Codification (ASU 2016-02), its new standard on accounting for leases. This update requires the recognition of leased assets and lease obligations by lessees for those leases currently classified as operating leases under existing lease guidance. Short term leases with a term of 12 months or less are not required to be recognized. The update also requires disclosure of key information about leasing arrangements to increase transparency and comparability among  
+  
+   42 
+
+     Table of Contents  
+
+organizations. ASU 2016-02 is effective for annual reporting periods beginning after December 31, 2018 and interim periods within those fiscal years, and early adoption is permitted. We are currently evaluating the impact of the pending adoption of ASU 2016-02 on our consolidated financial statements. 
+  In May 2014, the FASB issued ASU No. 2014-09, Revenue from Contracts with Customers: Topic 606 (ASU 2014-09) and issued subsequent amendments to the initial guidance in August 2015, March 2016, April 2016 and May 2016 within ASU 2015-04, 2016-08, ASU 2016-10 and ASU 2016-12, respectively (ASU 2014-09, ASU 2015-04, ASU 2016-08, ASU 2016-10 and ASU 2016-12 collectively, Topic 606). Topic 606 supersedes nearly all existing revenue recognition guidance under GAAP. The core principle of Topic 606 is to recognize revenues when promised goods or services are transferred to customers in an amount that reflects the consideration that is expected to be received for those goods or services. Topic 606 defines a five step process to achieve this core principle and, in doing so, it is possible more judgment and estimates may be required within the revenue recognition process than required under existing GAAP, including identifying performance obligations in the contract, estimating the amount of variable consideration to include in the transaction price and allocating the transaction price to each separate performance obligation, among others. Topic 606 will be effective for us in the first quarter of our fiscal year 2019. Early adoption is not permitted. We are currently assessing the potential impact of the adoption of ASU 2014-09 on our consolidated financial statements. 
+
+43 
+
+Table of Contents  
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk 
+  Interest Rate Risk  .  We hold our cash, cash equivalents and investments for working capital purposes. Some of the securities we invest in are subject to market risk. This means that a change in prevailing interest rates may cause the principal amount of the investment to fluctuate. To minimize this risk, we maintain our portfolio of cash, cash equivalents and investments in a variety of securities, including money market funds and government debt securities. The risk associated with fluctuating interest rates is limited to our investment portfolio. Due to the short-term nature of these instruments, we believe that we do not have any material exposure to changes in the fair value of our investment portfolio as a result of changes in interest rates. Declines in interest rates, however, would reduce future interest income. The effect of a hypothetical 10% increase or decrease in overall interest rates would not have had a material impact on our operating results or the total fair value of the portfolio. 
+  We are exposed to market risks related to fluctuations in interest rates related to our credit facility.  As of   September 30, 2016  , we owed $300 million on this loan with an interest rate of 2.03%.  A sensitivity analysis was performed on the outstanding portion of our debt obligation as of   September 30, 2016  .  Should the current weighted average interest rate increase or decrease by 10%, the resulting annual increase or decrease to interest expense would be approximately $609 thousand as of   September 30, 2016  . 
+  Foreign Currency Exchange Risk  . As a result of our foreign operations, we face exposure to movements in foreign currency exchange rates, primarily the Euro, British Pound, Canadian Dollar and Indian Rupee. The current exposures arise primarily from expenses denominated in foreign currencies. We currently engage in foreign currency hedging activities in order to limit these exposures. We do not use derivative financial instruments for speculative trading purposes. 
+  As of   September 30, 2016  , we had foreign currency forward contracts with notional amounts totaling   $15.5 million  . The valuation of outstanding foreign currency forward contracts at   September 30, 2016   resulted in an asset balance of   $63 thousand  , reflecting favorable rates in comparison to current market rates and a liability balance of   $175 thousand  , reflecting unfavorable contract rates in comparison to current market rates at this date. As of   March 31, 2016  , we had foreign currency forward contracts with notional amounts totaling   $17.5 million  . The valuation of outstanding foreign currency forward contracts at   March 31, 2016   resulted in a liability balance of   $158 thousand  , reflecting unfavorable contract rates in comparison to current market rates at this date and an asset balance of   $191 thousand   reflecting favorable rates in comparison to current market rates. The effect of a hypothetical 10% change in foreign currency exchange rates applicable to our business would not have a material impact on our historical consolidated financial statements. As our international operations grow, we will continue to reassess our approach to manage our risk relating to fluctuations in currency rates. 
+   
+  Item 4.  Controls and Procedures 
+  At   September 30, 2016  , NetScout, under the supervision and with the participation of our management, including the Company's principal executive officer and principal financial officer, evaluated the effectiveness of the design and operation of our disclosure controls and procedures pursuant to Rule 13a-15(b) promulgated under the Securities Exchange Act of 1934, as amended (Exchange Act). Based upon that evaluation, our principal executive officer and principal financial officer concluded that, at   September 30, 2016  , our disclosure controls and procedures were effective in ensuring that material information relating to NetScout, including its consolidated subsidiaries, required to be disclosed by NetScout in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC's rules and forms, including ensuring that such material information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure.  
+  No change in our internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) occurred during the period covered by this quarterly report that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.  
+
+44 
+
+Table of Contents  
+
+PART II: OTHER INFORMATION 
+   
+  Item 1.  Legal Proceedings 
+    
+  From time to time, NetScout is subject to legal proceedings and claims in the ordinary course of business.  In the opinion of management, the amount of ultimate expense with respect to any current legal proceedings and claims, if determined adversely, will not be material to our financial condition, results of operations or cash flows. 
+   
+  Item 1A.  Risk Factors 
+    
+  In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part I, Item 1A.  Risk Factors  in our Annual Report on Form 10-K for our fiscal year ended   March 31, 2016  . The risks discussed in our Annual Report on Form 10-K could materially affect our business, financial condition and future results. There have been no material changes to those risk factors since we filed our Annual Report on Form 10-K. The risks described in our Annual Report on Form 10-K are not the only risks facing us. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially and adversely affect our business, financial condition or operating results. 
+   
+  Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds 
+    
+  Sales of Unregistered Securities 
+  None. 
+  Issuer Purchase of Equity Securities 
+  The following table provides information about purchases we made during the quarter ended   September 30, 2016   of equity securities that are registered by us pursuant to Section 12 of the Exchange Act: 
+
+(1) 
+    We purchased an aggregate of 224,276 shares transferred to us from employees in satisfaction of minimum tax withholding obligations associated with the vesting of restricted stock units during the period. Such purchases reflected in the table do not reduce the maximum number of shares that may be purchased under our previously announced stock repurchase programs our 20 million share repurchase program authorized on May 19, 2015. 
+      
+  Item 3.  Defaults Upon Senior Securities 
+  None. 
+   
+  Item 4.  Mine Safety Disclosures 
+  Not Applicable. 
+   
+  Item 5.  Other Information 
+  None. 
+  
+   45 
+
+Table of Contents  
+
+Item 6. Exhibits 
+           (a) 
+    Exhibits 
+
++ 
+    Filed herewith. 
+      ++ 
+    Exhibit has been furnished, is not deemed filed and is not to be incorporated by reference into any of the Company's filings under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, irrespective of any general incorporation language contained in any such filing. 
+      ** 
+    XBRL (Extensible Business Reporting Language) information is furnished and not filed or a part of a registration statement or prospectus for purposes of sections 11 or 12 of the Securities Act of 1933, as amended, is deemed not filed for purposes of section 18 of the Securities Exchange Act of 1934, as amended, and otherwise is not subject to liability under these sections. 
+
+46 
+
+Table of Contents  
+
+SIGNATURES 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+NETSCOUT SYSTEMS, INC. 
+
+Date: November 1, 2016 
+      
+    /s/ Anil K. Singhal 
+
+Anil K. Singhal 
+
+President, Chief Executive Officer and Chairman 
+
+(Principal Executive Officer) 
+
+Date: November 1, 2016 
+      
+    /s/ Jean Bua 
+
+Jean Bua 
+
+Executive Vice President and Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+(Principal Accounting Officer) 
+
+47 
+
+Table of Contents  
+
+EXHIBIT INDEX 
+
++ 
+    Filed herewith. 
+      ++ 
+    Exhibit has been furnished, is not deemed filed and is not to be incorporated by reference into any of the Company's filings under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, irrespective of any general incorporation language contained in any such filing. 
+      ** 
+    XBRL (Extensible Business Reporting Language) information is furnished and not filed or a part of a registration statement or prospectus for purposes of sections 11 or 12 of the Securities Act of 1933, as amended, is deemed not filed for purposes of section 18 of the Securities Exchange Act of 1934, as amended, and otherwise is not subject to liability under these sections. 
+
+48 
+
+<EX-31.1>
+ 2
+ ntct-ex311_201609301.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  CERTIFICATIONS 
+  I, Anil K. Singhal, certify that: 
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of NetScout Systems, Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+     Date:   November 1, 2016    
+
+/s/ Anil K. Singhal 
+        
+    Anil K. Singhal 
+        
+    President, Chief Executive Officer and Chairman 
+        
+    (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ntct-ex312_201609301.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  CERTIFICATIONS 
+  I, Jean Bua, certify that: 
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of NetScout Systems, Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+     Date:   November 1, 2016    
+
+/s/ Jean Bua 
+        
+    Jean Bua 
+        
+    Executive Vice President and Chief Financial Officer 
+        
+    (Principal Financial Officer) 
+        
+    (Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ntct-ex321_201609301.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+  In connection with the Quarterly Report of NetScout Systems, Inc. (the  Company ) on Form 10-Q for the period ending   September 30, 2016   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Anil K. Singhal, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+                    /s/ Anil K. Singhal 
+      
+      Anil K. Singhal 
+      
+      President, Chief Executive Officer and Chairman 
+
+November 1, 2016    
+  This certification accompanies the Form 10-Q to which it relates, is not deemed filed with the Securities and Exchange Commission and is not to be incorporated by reference into any filing of NetScout Systems, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before or after the date of the Form 10-Q), irrespective of any general incorporation language contained in such filing. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ntct-ex322_201609301.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+  In connection with the Quarterly Report of NetScout Systems, Inc. (the  Company ) on Form 10-Q for the period ending   September 30, 2016   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Jean Bua, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+                    /s/ Jean Bua 
+      
+      Jean Bua 
+      
+      Executive Vice President and Chief Financial Officer 
+      
+      (Principal Financial Officer) 
+      
+      (Principal Accounting Officer) 
+
+November 1, 2016    
+  This certification accompanies the Form 10-Q to which it relates, is not deemed filed with the Securities and Exchange Commission and is not to be incorporated by reference into any filing of NetScout Systems, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before or after the date of the Form 10-Q), irrespective of any general incorporation language contained in such filing. 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ ntct-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ ntct-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ ntct-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ ntct-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ ntct-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ ntct-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

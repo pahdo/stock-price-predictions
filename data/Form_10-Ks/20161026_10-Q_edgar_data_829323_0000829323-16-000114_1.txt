@@ -1,0 +1,947 @@
+<Header>
+<FileStats>
+    <FileName>20161026_10-Q_edgar_data_829323_0000829323-16-000114_1.txt</FileName>
+    <GrossFileSize>3911812</GrossFileSize>
+    <NetFileSize>77052</NetFileSize>
+    <ASCII_Embedded_Chars>255670</ASCII_Embedded_Chars>
+    <HTML_Chars>1135352</HTML_Chars>
+    <XBRL_Chars>1680422</XBRL_Chars>
+    <XML_Chars>698334</XML_Chars>
+    <N_Tables>18</N_Tables>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000829323-16-000114.hdr.sgml : 20161026
+<ACCEPTANCE-DATETIME>20161026164735
+ACCESSION NUMBER:		0000829323-16-000114
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		63
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161026
+DATE AS OF CHANGE:		20161026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Inuvo, Inc.
+		CENTRAL INDEX KEY:			0000829323
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ADVERTISING [7310]
+		IRS NUMBER:				870450450
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32442
+		FILM NUMBER:		161953112
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 PRESIDENT CLINTON AVE., STE. 300
+		CITY:			LITTLE ROCK
+		STATE:			AR
+		ZIP:			72201
+		BUSINESS PHONE:		501-205-8508
+
+	MAIL ADDRESS:	
+		STREET 1:		500 PRESIDENT CLINTON AVE., STE. 300
+		CITY:			LITTLE ROCK
+		STATE:			AR
+		ZIP:			72201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INUVO, INC.
+		DATE OF NAME CHANGE:	20090810
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KOWABUNGA! INC.
+		DATE OF NAME CHANGE:	20081106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	THINK PARTNERSHIP INC
+		DATE OF NAME CHANGE:	20060315
+
+</SEC-Header>
+</Header>
+
+ 0000829323-16-000114.txt : 20161026
+
+10-Q
+ 1
+ a10-qseptember302016.htm
+ 10-Q
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+    
+  FORM 10-Q 
+  (Mark One) 
+    
+  x         QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+    
+  For the quarterly period ended   September 30, 2016    
+  OR 
+    
+  o          TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+    
+  For the transition period from ______________________ to ______________________ 
+    
+  Commission file number:   001-32442 
+  
+               Inuvo, Inc. 
+      (Exact name of registrant as specified in its charter) 
+
+(501) 205-8508 
+  Registrant's telephone number, including area code 
+  not applicable 
+  (Former name, former address and former fiscal year, if changed since last report) 
+    
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to the filing requirements for at least the past 90 days.     Yes      x      No     o 
+    
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes      x      No     o 
+    
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company.  See definitions of  large accelerated filer,  "accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. 
+                 Large accelerated filer   o 
+    Accelerated filer     o 
+      Non-accelerated filer     o 
+    Smaller reporting company   x 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes    o   No    x 
+  Indicate the number of shares outstanding of each of the issuer's classes of common stock, as of the latest practicable date. 
+
+TABLE OF CONTENTS 
+
+Page No. 
+      Part I 
+        
+      Item 1. 
+    Financial Statements. 
+      
+    4 
+        
+    Consolidated Balance Sheets 
+      
+    4 
+        
+    Consolidated Statements of Operations 
+      
+    5 
+        
+    Consolidated Statements of Cash Flows 
+      
+    6 
+        
+    Notes to Consolidated Financial Statements 
+      
+    7 
+      Item 2. 
+    Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+      
+    14 
+      Item 3. 
+    Quantitative and Qualitative Disclosures About Market Risk. 
+      
+    18 
+      Item 4. 
+    Controls and Procedures. 
+      
+    18 
+        
+      Part II 
+        
+      Item 1. 
+    Legal Proceedings. 
+      
+    19 
+      Item 1A. 
+    Risk Factors. 
+      
+    19 
+      Item 2. 
+    Unregistered Sales of Equity Securities and Use of Proceeds. 
+      
+    19 
+      Item 3. 
+    Defaults upon Senior Securities. 
+      
+    19 
+      Item 4. 
+    Mine Safety and Disclosures. 
+      
+    19 
+      Item 5. 
+    Other Information. 
+      
+    19 
+      Item 6. 
+    Exhibits. 
+      
+    20 
+      Signatures 
+      
+    21 
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION 
+    
+  This report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the "Securities Act"), and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). These forward-looking statements are subject to known and unknown risks, uncertainties and other factors which may cause actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. In some cases, you can identify forward-looking statements by terminology such as  will,   should,   intend,   expect,   plan,   anticipate,   believe,   estimate,   predict,   potential,  or  continue,  or the negative of such terms or other comparable terminology. This report includes, among others, statements regarding our: 
+
+material dependence on our relationships with Yahoo! and Google; 
+                
+    dependence of our Partner Network segment on relationships with distribution partners, and on the introduction of new products and services, which require significant investment; 
+                
+    dependence of our Owned and Operated Network segment on our ability to effectively market and attract traffic; 
+                
+    ability to acquire traffic through other search engines; 
+                
+    dependence on our financing arrangements with Western Alliance Bank, which is collateralized by our assets; 
+                
+    covenants and restrictions in our grant agreement with the state of Arkansas;  
+                
+    lack of control over content and functionality of advertisements we display from third-party networks; 
+                
+    need to keep pace with technology changes; 
+                
+    fluctuations of quarterly financial results and the trading price of our common stock; 
+                
+    vulnerability to interruptions of services; 
+                
+    dependence on key personnel; 
+                
+    vulnerability to regulatory and legal uncertainties and our ability to comply with applicable laws and regulations; 
+                
+    need to protect our intellectual property; 
+                
+    vulnerability to publishers who could fabricate clicks;  
+                
+    dilutive impact to our stockholders from outstanding restricted stock grants, warrants and options; 
+                
+    seasonality of our business; and 
+                
+    downturn or uncertainty in global economic conditions. 
+       
+  These forward-looking statements were based on various factors and were derived utilizing numerous assumptions and other factors that could cause our actual results to differ materially from those in the forward-looking statements. Most of these factors are difficult to predict accurately and are generally beyond our control. You should consider the areas of risk described in connection with any forward-looking statements that may be made herein. Readers are cautioned not to place undue reliance on these forward-looking statements and readers should carefully review this report in its entirety, including the risks described in Part II, Item 1A. Risk Factors appearing in this report, together with those appearing in Item 1A. Risk Factors, in our Annual Report on Form 10-K for the year ended December 31, 2015 and our subsequent filings with the Securities and Exchange Commission. 
+    
+  Except for our ongoing obligations to disclose material information under the Federal securities laws, we undertake no obligation to release publicly any revisions to any forward-looking statements, to report events or to report the occurrence of unanticipated events. These forward-looking statements speak only as of the date of this report, and you should not rely on these statements without also considering the risks and uncertainties associated with these statements and our business. 
+
+OTHER PERTINENT INFORMATION 
+    
+  Unless specifically set forth to the contrary, when used in this report the terms "Inuvo," the  Company,  "we," "us," "our" and similar terms refer to Inuvo, Inc., a Nevada corporation, and its subsidiaries. When used in this report,    2015    means the fiscal year ended   December 31, 2015   and "  2016  " means the fiscal year ending   December 31, 2016  . The information which appears on our corporate web site at www.inuvo.com is not part of this report. 
+
+3 
+
+PART I - FINANCIAL INFORMATION 
+
+ITEM 1. FINANCIAL STATEMENTS 
+
+INUVO, INC. 
+  CONSOLIDATED BALANCE SHEETS 
+  September 30, 2016   (Unaudited) and   December 31, 2015    
+
+See accompanying notes to the consolidated financial statements. 
+  
+   4 
+
+INUVO, INC. 
+  CONSOLIDATED STATEMENTS OF OPERATIONS 
+  For the Three and Nine Months Ended September 30,     2016   and   2015    
+  (Unaudited) 
+
+See accompanying notes to the consolidated financial statements. 
+  
+   5 
+
+INUVO, INC. 
+  CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  (Unaudited) 
+
+See accompanying notes to the consolidated financial statements. 
+  
+   6 
+
+Inuvo, Inc. 
+  Notes to Consolidated Financial Statements 
+
+Note 1   Organization and Business    
+    
+  Company Overview 
+    
+  Inuvo, Inc. and subsidiaries ("we", "us" or "our") is an internet advertising technology and digital publishing company. 
+    
+  We develop technology to deliver content and targeted advertisements over the internet. We generate revenue when an end user clicks on the advertisements we delivered. We manage our business as   two   segments, the Partner Network and the Owned and Operated Network.  
+    
+  The Partner Network delivers advertisements to our partners' owned or managed websites and applications on desktop, tablet and mobile devices. We generate revenue in this segment when an advertisement we serve is clicked. At that time, we share a portion of the revenue we collect from the advertiser with the publishing partner where the click originated. Our proprietary technology platform allows for targeted distribution of advertisements at a scale that measures in the hundreds of millions of advertisements delivered monthly. 
+    
+  The Owned and Operated Network designs, builds and markets consumer websites and applications. This segment consists of our mobile-ready ALOT websites and acquired web properties. The focus is on providing engaging content to our users. The majority of revenue generated by this segment is derived from clicks on advertisements delivered through web searches and advertisements displayed on the websites. 
+    
+  We have taken several significant steps to position our business for long-term success including investments in ad serving technology, the development of adaptive, native advertising technology, the creation of proprietary content, the expansion of publishers within the Partner Network, the continued expansion of direct relationships with advertisers, and the optimization of overhead and operational costs all of which we expect will improve revenue and profitability.  Our ALOT-branded websites and applications have a broad appeal focusing on popular topics such as health, local search, finance, careers, travel, living and education.  These sites are content rich, searchable, mobile-ready web properties.  We plan to continue the expansion of our website and mobile application business by expanding the ALOT brand and acquiring websites. Recently, we launched the ALOT Auto site that focuses on popular automotive topics. In 2015, we launched our proprietary native advertising solution for web publishers and application developers, "SearchLinks"       . This is our entry product in the fast growing native advertising marketplace where ad copy seamlessly integrates with the content of the host website or application. SearchLinks was made available to the marketplace in the third quarter of 2015 and is included in the Partner Network. We expect it to be a contributor for the remainder of 2016 and 2017.  
+    
+  Liquidity 
+    
+  On September 27, 2016, we renewed our Business Financing Agreement with Western Alliance Bank ("Western Alliance Bank"), the parent company of Bridge Bank, N.A., our original lender (see Note 5, "Notes Payable"). The renewal provided continued access to the revolving line of credit up to   $10 million   through September 2018.  As of   September 30, 2016  , the balance of the revolving line of credit was   zero   and had approximately   $5.7 million   of available credit. During the first quarter of 2014, we filed an S-3 registration statement with the Securities and Exchange Commission ("SEC") to replace the existing, expiring S-3  shelf  registration statement. Though the revolving line of credit and cash generated by operations is expected to provide sufficient cash for operations over the next   twelve   months, we may still elect to sell stock to the public or to selected investors, or borrow under the current or any replacement line of credit or other debt instruments in order to fund the development of our technologies, make acquisitions, pursue new business opportunities or grow existing businesses. 
+    
+  Customer concentration 
+    
+  We generate the majority of our revenue from   two   customers, Yahoo! and Google. At   September 30, 2016   and   December 31, 2015  , these two customers combined accounted for   98.5%   and   98.6%  , respectively, of our gross accounts receivable balance.  For the three and   nine   months ended   September 30, 2016  , these two customers combined accounted for   98.6%   and   98.2%   of net revenue, respectively. For the   three and nine   months ended   September 30, 2015  , these two customers combined accounted for   97.8%   and   98.1%   of net revenue, respectively.   
+
+7 
+
+We leverage the vast, direct relationships Yahoo! and Google have with advertisers as an alternative to going directly to advertisers ourselves. While this strategy creates a concentration risk, it also provides upside opportunities not the least of which include; access to hundreds of thousands of advertisers across geographies; the ability to scale our business across verticals; an avoidance of the sales costs associated with a direct to advertisers sales force; access to innovation; and macro level market insight. 
+
+Note 2   Summary of Significant Accounting Policies 
+    
+  Basis of presentation 
+    
+  The consolidated financial statements presented are for Inuvo, Inc. and its consolidated subsidiaries. The accompanying unaudited consolidated financial statements have been prepared based upon SEC rules that permit reduced disclosure for interim periods. Certain information and footnote disclosures have been condensed or omitted in accordance with those rules and regulations. The accompanying consolidated balance sheet as of   December 31, 2015  , was derived from audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States ("GAAP"). In our opinion, these consolidated financial statements reflect all adjustments that are necessary for a fair presentation of results of operations and financial condition for the interim periods shown including normal recurring accruals and other items. The results for the interim periods are not necessarily indicative of results for the full year. For a more complete discussion of significant accounting policies and certain other information, this report should be read in conjunction with the consolidated financial statements and accompanying notes included in our Annual Report on Form 10-K for the year ended   December 31, 2015  , which was filed with the SEC on February 12, 2016. 
+    
+  Use of estimates 
+    
+  The preparation of financial statements, in accordance with GAAP, requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, net revenues and expenses and disclosure of contingent assets and liabilities. The estimates and assumptions used in the accompanying consolidated financial statements are based upon management s regular evaluation of the relevant facts and circumstances as of the date of the consolidated financial statements. We regularly evaluate estimates and assumptions related to allowances for doubtful accounts, accrued sales reserve, goodwill and purchased intangible asset valuations, lives of intangible assets, deferred income tax asset valuation allowances, contingent liabilities, including the Arkansas grant contingency, and stock compensation. Actual results may differ from the estimates and assumptions used in preparing the accompanying consolidated financial statements, and such differences could be material. 
+    
+  Revenue Recognition    
+    
+  We recognize revenue in accordance with Accounting Standards Codification ( ASC ) 605-10 Revenue Recognition. We recognize revenue when the following criteria have been met: persuasive evidence of an arrangement exists, the fees are fixed and determinable, no significant obligations remain and collection of the related receivable is reasonably assured. 
+    
+  Most of our revenue is generated through clicks on advertisements presented on our properties or those of our partners. We recognize revenue from clicks in the period in which the click occurs. Payments to partners who display advertisements we serve are recognized as cost of revenue. Revenue from data sales and commissions is recognized in the period in which the transaction occurs and the other revenue recognition criteria are met. 
+    
+  Recent accounting pronouncements  
+    
+  I  n May 2014, the Financial Accounting Standards Board ( FASB ) issued Accounting Standard Update ( ASU ) 2014-09,  Revenue from Contracts with Customers,  which supersedes the revenue recognition requirements in Topic 605,    Revenue Recognition    and requires entities to recognize revenue in a way that depicts the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. In August 2015, the FASB issued ASU 2015-14, which defers by one year the effective date of ASU 2014-09. Accordingly, this guidance is effective for interim and annual periods beginning after December 15, 2017 with early adoption permitted for interim and annual periods beginning after December 15, 2016. The Company plans to adopt this guidance on January 1, 2018. The Company is currently evaluating the effects, if any, that the adoption of this guidance will have on the Company s financial position, results of operations and cash flows. 
+    
+  In November 2015, FASB issued ASU No. 2015-17,   Balance Sheet Classification of Deferred Taxes,   to simplify the presentation of deferred income taxes. The amendments in this Update require that deferred tax liabilities and assets be  
+  
+   8 
+
+classified as noncurrent in a classified statement of financial position. The amendments in this Update apply to all entities that present a classified statement of financial position. The current requirement that deferred tax liabilities and assets of a tax-paying component of an entity be offset and presented as a single amount is not affected by the amendments in this Update. The amendments in this Update are effective for financial statements issued for annual periods beginning after December 15, 2016, and interim periods within those annual periods. Earlier application is permitted for all entities as of the beginning of an interim or annual reporting period. The adoption of ASU 2015-17 is not expected to have a significant impact on the Company s consolidated financial position or results of operations. 
+  In February 2016, the FASB issued ASU No. 2016-02,   Leases (Topic 842).   This standard will require all leases with durations greater than twelve months to be recognized on the balance sheet and is effective for interim and annual reporting periods beginning after December 15, 2018, although early adoption is permitted. We believe adoption of this standard will have an impact on our Consolidated Balance Sheets. Although we have not completed our assessment, we do not expect the adoption to change the recognition, measurement or presentation of lease expenses within the consolidated financial position or results of operations.  
+    
+  In March 2016, the FASB issued ASU No. 2016-09,   Compensation Stock Compensation (Topic 718)  . This standard makes several modifications to Topic 718 related to the accounting for forfeitures, employer tax withholding on share-based compensation and the financial statement presentation of excess tax benefits or deficiencies. ASU 2016-09 also clarifies the statement of cash flows presentation for certain components of share-based awards. The standard is effective for interim and annual reporting periods beginning after December 15, 2016, although early adoption is permitted. The adoption of ASU 2016-09 is not expected to have a significant impact on the Company s consolidated financial position or results of operations. 
+    
+  In August 2016, the FASB issued ASU No. 2016-15,   Statement of Cash Flows (Topic 230) Classification of Certain Cash Receipts and Cash Payments.    This Update addresses eight specific cash flow issues with the objective of reducing the existing diversity in practice.  The amendments in this Update are effective for public business entities for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years. The adoption of ASU 2016-15 is not expected to have a significant impact on the Company s consolidated financial position or results of operations. 
+
+Note 3  Property and Equipment 
+    
+  The net carrying value of property and equipment was as follows as of:   
+
+During the   three and nine   months ended   September 30, 2016  , depreciation expense was   $325,236   and   $958,704  , respectively.  During the   three and nine   months ended   September 30, 2015  , depreciation expense was   $229,350   and   $615,778  , respectively. 
+
+9 
+
+Note 4   Other Intangible Assets and Goodwill 
+    
+  The following is a schedule of intangible assets as of   September 30, 2016  : 
+
+(1) 
+    We have determined the ALOT trade names should be amortized over   five   years and the trade names related to our web properties have an indefinite life, and as such are not amortized. 
+              (2) 
+    On May 8, 2015, we purchased   two   domain websites with a fair value of   $715,874  .  We determined they should be amortized over   five   years (see Note 7).  The carrying value was adjusted by approximately   $46 thousand   to reflect the lower price paid as compared to the contingent liability recorded as a result of the change in the price of Inuvo stock from the date of acquisition to the first contingent release of shares. 
+       
+  Amortization expense over the next five years and thereafter is as follows: 
+
+Note 5 - Notes Payable 
+    
+  On March 1, 2012 we entered into a Business Financing Agreement with Bridge Bank, which is now owned by Western Alliance Bank. The agreement provided us with a   $5 million   term loan and access to a revolving credit line of up to   $10 million   which we use to help satisfy our working capital needs. We have provided Western Alliance Bank with a first priority perfected security interest in all of our accounts and personal property as collateral for the credit facility. Available funds under the revolving credit line are   80%   of eligible accounts receivable balances plus   $1 million  , up to a limit of   $10 million  . Eligible accounts receivable is generally defined as those from United States based customers that are not more than   90   days from the date of invoice. We had approximately   $5.7 million   available under the revolving credit line as of   September 30, 2016  . 
+    
+  On September 27, 2016, the Company entered into the Sixth Business Financing Modification Agreement with Western Alliance Bank, the parent company of Bridge Bank, our original lender, that renewed the existing Agreement and modified some terms. The modified terms require a monthly quick ratio of not less than   .75   to 1.00; quarterly consolidated revenue shall not negatively deviate more than   20%   from projections; and quarterly consolidated Adjusted EBITDA shall not negatively deviate more than   $500,000   from projections. The renewed agreement extended the revolving line of credit to September 2018. While we periodically utilize our line of credit for operating needs, as of   September 30, 2016  , the balance of the revolving line of credit was   zero  . We were in compliance with all bank covenants as of   September 30, 2016  .   
+
+10 
+
+Note 6   Accrued Expenses and Other Current Liabilities 
+    
+  The accrued expenses and other current liabilities consist of the following as of: 
+
+Note 7   Other Long-Term Liabilities 
+    
+  Other long-term liabilities consist of the following as of:   
+
+On May 8, 2015, we purchased   two   domain websites with a fair value of   $715,874   (see Note 4). The purchase consideration was our common stock and is contingent upon the seller attaining specific performance targets over   three   years.  On May 8, 2016, the seller achieved the specific performance target for the first year and as a result, we issued   166,667   shares of common stock. The accrued contingent liability and the related intangible asset, domain websites, were adjusted by approximately   $46 thousand   to reflect the lower price paid as compared to the contingent liability recorded as a result of the change in the price of Inuvo stock from the date of acquisition to the first contingent release of shares. 
+
+Note 8   Income Taxes 
+    
+  We have a deferred tax liability of   $3,799,600   as of   September 30, 2016  , related to our intangible assets.  
+    
+  We also have a net deferred tax asset of approximately   $39,852,000  . We believe it is more likely than not that essentially none of our deferred tax assets will be realized, and we have recorded a valuation allowance for the net deferred tax assets that may not be realized as of   September 30, 2016  .   
+
+Note 9 - Stock-Based Compensation 
+    
+  We maintain a stock-based compensation program intended to attract, retain and provide incentives for talented employees and directors and align stockholder and employee interests. Currently, we grant options and restricted stock units ("RSUs") from the 2010 Equity Compensation Plan ( 2010 ECP ). Option and RSUs vesting periods are generally up to   three   years.  
+    
+  Compensation Expense 
+    
+  For the three and   nine   months ended   September 30, 2016  , we recorded stock-based compensation expense for all equity incentive plans of   $315,596   and   $1,002,044  , respectively.  For the   three and nine   months ended   September 30, 2015  , we recorded stock-based compensation expense for all equity incentive plans of   $251,144   and   $385,818  .  Total compensation cost  
+  
+   11 
+
+not yet recognized at   September 30, 2016   was   $1,902,574   to be recognized over a weighted-average recognition period of   1.3   years.  
+    
+  Significant Grants and Cancellations 
+    
+  On July 27, 2015 and August 4, 2015, we granted certain employees service and performance RSUs totaling   965,500   shares with a weighted average fair value of   $3.03   per share.  The service RSUs vest annually over a   three   year period, commencing in July 2016, at the rate of   25%   of the grant in year one and year two and the remaining   50%   of the grant vesting on the third anniversary of the grant date. The awarding of the performance RSUs is contingent upon achieving certain revenue and profit targets and vest annually, one-third upon each anniversary of the grant date.  On July 27, 2016, August 4, 2016, and August 5, 2016, the first measurement period targets were achieved and the number of shares issued totaled   297,690   with a weighted average fair value of   $1.32  . 
+    
+  On April 1, 2016, we granted members of our board of directors a total of   63,160   RSUs with a weighted average fair value of   $1.90   a share which fully vest on March 31, 2017.   
+    
+  The following table summarizes the stock grants outstanding under our 2005 Long-Term Incentive Plan ("2005 LTIP") and 2010 ECP plans as of   September 30, 2016  : 
+
+(*) Expired June 2015 
+
+Note 10   Discontinued Operations 
+    
+  Certain of our subsidiaries previously operated in the European Union ("EU"). Though our operations ceased in 2009, statutory requirements required a continued presence in the EU for varying terms until November 2015. Profits and losses generated from the remaining assets and liabilities are accounted for as discontinued operations.  
+    
+  In the third quarter of 2016, our petition with the UK (United Kingdom) Companies House to strike off and dissolve the remaining subsidiary in the EU was approved.  As a result, for the   three and nine   months ended   September 30, 2016  , we recorded net income of   $171,844   and   $172,197  , respectively.  The net income came primarily from the writing off of certain accrued liabilities originating in 2009 and earlier. For the   three and nine   months ended   September 30, 2015  , we recorded net income of   $32,065   and   $37,632   largely due to adjustment of certain liabilities originating in 2009 and earlier and translation adjustments.   
+
+Note 11 - Earnings per Share 
+    
+  During the   three and nine   month periods ended   September 30, 2016  , we generated a net loss from continuing operations and as a result, all of our shares are anti-dilutive.  During the   three and nine   month periods ended   September 30, 2015  , we generated net income from continuing operations. Accordingly, some of our outstanding stock options, warrants and restricted stock awards have a dilutive impact for the 2015 periods, illustrated in the following table. We generated basic and diluted earnings per share from net income of   $0.03   for the   three   month period ending   September 30, 2015   and   $0.07   for the   nine   month period ending   September 30, 2015  .   
+  
+   12 
+
+In 2015, we had potentially dilutive options and restricted stock units. We had   308,925   outstanding stock options with a weighted average exercise price of   $4.56   for the three months ended   September 30, 2015     and   313,543   outstanding stock options with a weighted average price of   $4.50   for the nine months ended   September 30, 2015  .  For the three months ended   September 30, 2015  , we had   806,363   outstanding restricted stock units with a weighted average price of   $3.82  .  For the nine months ended   September 30, 2015  , we had   1,097,442   restrictive stock units outstanding with a weighted average exercise price of   $3.20  . All warrants were dilutive for the three and nine months ended September 30, 2015.   
+
+Note 12 - Leases 
+    
+  We lease certain office space and equipment. As leases expire, it can be expected that they will be renewed or replaced in the normal course of business. Rent expense from continuing operations was   $42,248   and   $135,635   for the   three   and   nine   months ended   September 30, 2016  , respectively and   $21,997   and   $34,897   for the three and   nine   months ended   September 30, 2015  .  
+    
+  Minimum future lease payments under non-cancelable operating leases as of   September 30, 2016   are: 
+
+In April 2015, we entered into a   five   year agreement to lease office space in Little Rock, Arkansas commencing October 1, 2015, to serve as our headquarters. The new lease is for   12,245   square feet and will cost approximately   $171,000   during its first year. Thereafter, the lease payment will increase by   2%  . 
+
+Note 13 - Litigation and Settlements 
+    
+  From time to time we may become subject to legal proceedings, claims and litigation arising in the ordinary course of business. In addition, we are currently involved in the following litigation which is not incidental to its business: 
+    
+  Oltean, et al. v. Think Partnership, Inc.; Edmonton, Alberta CA.   On March 6, 2008, Kelly Oltean, Mike Baldock and Terry Schultz, former employees, filed a breach of employment claim against Inuvo in The Court of Queen's Bench of Alberta, Judicial District of Edmonton, Canada, claiming damages for wrongful dismissal in the amount of   $200,000   for each of Kelly Oltean and Terry Schultz and   $187,500   for Mike Baldock. On March 6, 2008, the same   three   plaintiffs filed a similar statement of claim against Vintacom Acquisition Company, ULC, a subsidiary of Inuvo, again for wrongful dismissal and claiming the same damages. In October 2009, the   two   actions were consolidated. On August 18, 2016, the case was dismissed by a Consent Order whereby the case was dismissed without costs to the Company. 
+
+13 
+
+Note 14 - Segments 
+    
+  We operate our business as   two   segments, Partner Network and Owned and Operated Network which are described in Note 1.  
+    
+  Listed below is a presentation of net revenue and gross profit for all reportable segments for the three and   nine   months ended   September 30, 2016   and   2015  . We currently only track certain assets at the segment level and therefore assets by segment are not presented below.  
+    
+  Revenue by Segment 
+
+Gross Profit by Segment 
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Company Overview 
+    
+  Inuvo is an internet advertising technology and digital publishing company. 
+    
+  We develop technology to deliver content and targeted advertisements over the internet. We generate revenue when an end user clicks on the advertisements we delivered. We manage our business as two segments, the Partner Network and the Owned and Operated Network.  
+    
+  The Partner Network delivers advertisements to our partners' owned or managed websites and applications on desktop, tablet and mobile devices. We generate revenue in this segment when an advertisement we serve is clicked. At that time, we share a portion of the revenue we collect from the advertiser with the publishing partner where the click originated. Our proprietary technology platform allows for targeted distribution of advertisements at a scale that measures in the hundreds of millions of advertisements delivered monthly. 
+    
+  The Owned and Operated Network designs, builds and markets consumer websites and applications. This segment consists of our mobile-ready ALOT websites and acquired web properties. The focus is on providing engaging content to our users. The majority of revenue generated by this segment is derived from clicks on advertisements delivered through web searches and advertisements displayed on the websites. 
+    
+  We have taken several significant steps to position our business for long-term success including investments in ad serving technology, the development of adaptive, native advertising technology, the creation of proprietary content, the expansion of publishers within the Partner Network, the continued expansion of direct relationships with advertisers, and the optimization of overhead and operational costs all of which we expect will improve revenue and profitability.  Our ALOT-branded websites and applications have a broad appeal focusing on popular topics such as health, local search, finance, careers, travel, living and  
+  
+   14 
+
+education.  These sites are content rich, searchable, mobile-ready web properties.  We plan to continue the expansion of our website and mobile application business by expanding the ALOT brand and acquiring websites. Recently, we launched the ALOT Auto site that focuses on popular automotive topics. In 2015, we launched our proprietary native advertising solution for web publishers and application developers, "SearchLinks"       . This is our entry product in the fast growing native advertising marketplace where ad copy seamlessly integrates with the content of the host website or application. SearchLinks was made available to the marketplace in the third quarter of 2015 and is included in the Partner Network. We expect it to be a contributor for the remainder of 2016 and 2017.  
+    
+  Critical Accounting Policies and Estimates 
+    
+  The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amount of assets and liabilities, the disclosure of contingent assets and liabilities and the reported amounts of revenue and expenses during the reported periods. The more critical accounting estimates include estimates related to revenue recognition and accounts receivable allowances. We also have other key accounting policies, which involve the use of estimates, judgments and assumptions that are significant to understanding our results, which are described in Note 2 to our unaudited consolidated financial statements appearing earlier in this report. 
+
+Results of Operations 
+    
+  Net Revenue   
+
+The Partner Network delivers advertisements to our partners' websites and applications. Revenue in this segment is both a function of the total number of transactions processed through the ValidClick platform and the revenue we receive per transaction. The Partner Network represented 35% and 31%, respectively, of our total net revenue for the three and nine months ended September 30, 2016 as compared to 38% and 49% in each of the comparable periods in 2015. At the end of the first quarter, we experienced fluctuations in demand from advertisers, which translated into a reduction in revenue received for ads we delivered. The result was both a lower number of transactions and a lower average RPC ("Revenue Per Click"). This fluctuation persisted into the third quarter 2016 and by the middle of the third quarter, both volume of transactions and RPCs improved. Despite this fluctuation, the Partner Network grew 30% sequentially.   
+    
+  The Owned and Operated Network generates revenue through our consumer-facing ALOT branded websites and applications and acquired websites. Our ALOT web properties include ALOT Health, ALOT Finance, ALOT Careers, ALOT Local, ALOT Travel, ALOT Living, ALOT Education, and ALOT Auto. These websites are content-rich and optimized for mobile and desktop devices, and are designed to capitalize on a growing consumer demand for content, delivered both on the desktop and on mobile devices. The Owned and Operated Network represented 65% and 69%, respectively, of our total net revenue for the three and nine months ended September 30, 2016 as compared to 62% and 51% in each of the comparable periods in 2015. The increased revenue in the first nine months of 2016 for this segment is from additional advertisements served to a growing user base of our owned and operated web properties.  The increase in advertisements served and users engaged was due in part to increased marketing activity associated with our web properties where we are continuously expanding content. The lower revenue in the third quarter 2016 compared to the same quarter in the prior year was due in part to a reduction in marketing spend and in part due to the advertiser demand weakness described in the Partner segment. We intend to continue to expand our Owned and Operated Network by enhancing our current websites and mobile applications, launching additional mobile applications under the ALOT brand, expanding the content of the ALOT sites and acquiring additional web properties. 
+    
+  During the first quarter of 2016, the accrued sales allowance was adjusted as a result of not having an advertiser chargeback over the course of the previous year. The adjustment increased net revenue in the first quarter of 2016 by $250,000. 
+
+15 
+
+Cost of Revenue 
+
+Cost of revenue in the Partner Network is generated by payments to website publishers and application owners who host our 
+  advertisements. The lower cost of revenue in the third quarter and first nine months of 2016 compared to the same periods in 2015 was in large part due to lower contractual payments to publishers resulting from lower volume with the publishers.   
+    
+  The cost of revenue in the Owned and Operated Network consists of fees for web searches and content acquisition. Those expenses have remained flat for the third quarter and first nine months of 2016 compared to the same period in 2015. 
+
+Operating Expenses        
+
+Operating expenses for the three months ended   September 30, 2016  , slightly increased compared to the same period in 2015.  For the nine months ended September 30, 2016, operating expenses increased 35% compared to the same period in the prior year primarily as a result of higher marketing costs to launch and promote the ALOT web properties. 
+    
+  Marketing costs include those expenses required to attract traffic to our owned and operated websites. The decrease in marketing costs in the three months ended   September 30, 2016   compared to the same period in the prior year was due to the lower revenue in the owned and operated properties as described above.  The increase in marketing costs of $8.7 million for the nine months ended September 30, 2016 compared to the same period last year is a result of the $10.4 million revenue growth within the owned and operated website and application business. We expect marketing costs to continue to increase proportionally as we expand the ALOT branded websites and mobile applications and acquired web properties. 
+    
+  Compensation expense increased $109,744 and $899,952 in the three and   nine   month periods ended   September 30, 2016   as compared to the same periods in 2015, respectively, due primarily to an increase in the number of employees.  Our total employment, both full-time and part-time, was   70   at   September 30, 2016   compared to 61 at the same time last year.  We expect compensation expense to increase, though moderately, in the coming quarters as we hire additional developers and sales personnel to support our SearchLinks product.   
+    
+  Selling, general and administrative expenses increased $181,369 and $545,112 for the three and nine months ended   September 30, 2016   compared to same periods in 2015, respectively, primarily due to higher depreciation and amortization expense of $93,000 in the three months ended September 30, 2016 and $352,000 in the nine months ended September 30, 2016; higher facilities expense in the three and nine months ended September 30, 2016 of $9,000 and $130,000, respectively, and a credit adjustment of $120 thousand associated with the Arkansas grant in the third quarter of 2015. We do not expect selling, general and administrative expenses to increase for the remainder of 2016. 
+
+16 
+
+Interest expense, net 
+    
+  Interest expense, net, which represents interest expense on the bank credit facility, declined in the 2016 periods from the 2015 periods as a result of average outstanding loan balances which were significantly lower in the three and nine month periods ended   September 30, 2016   than the same periods in 2015.   
+    
+  Income tax benefit  
+    
+  Income tax benefit represents the credit expected from state income tax. Due to net operating loss carryovers, we have not incurred a federal income tax expense.   
+    
+  In February 2015, we settled a disputed income tax claim with the State of New Jersey.  The claim related to the 2007-2009 tax years and was settled for $100,000.  As a result, the remaining long-term taxes payable liability was adjusted and resulted in a one-time $406,000 income tax benefit which we recognized in the first quarter of last year.   
+    
+  Income from Discontinued Operations 
+    
+  In the third quarter of 2016, our petition with the UK (United Kingdom) Companies House to strike off and dissolve the remaining subsidiary in the EU was approved.  As a result, for the three months ended   September 30, 2016  , we recorded a net income of   $171,844   and for the nine months ended   September 30, 2016   net income of   $172,197  .  The net income came primarily from the write off of accrued liabilities originating in 2009 and earlier. For the three and nine months ended   September 30, 2015  , we recorded a net income of   $32,065   and   $37,632  , respectively, largely due to translation adjustments and adjustment of certain accrued liabilities originating in 2009 and earlier. 
+
+Liquidity and Capital Resources 
+    
+  On September 27, 2016, we renewed our Business Financing Agreement with Western Alliance Bank, the parent company of Bridge Bank, our original lender (see Note 5, "Notes Payable").  The renewal provided continued access to the revolving line of credit up to $10 million through September 2018. As of   September 30, 2016  , the balance of the revolving line of credit was zero and had approximately   $5.7 million   in availability.  
+    
+  In May 2015, we acquired websites from a publisher that had previously been a client on our ValidClick network. The purchase was structured as an earn-out payable in up to 500,000 shares of our common stock over a three year period dependent upon achieving certain minimum levels of volume. The fair value of the transaction was determined to be $715,874. The transaction was recorded as an intangible asset on our balance sheet offset by a contingent liability of the same amount. On May 8, 2016, the seller achieved the specific performance target for the first year and as a result, we distributed 166,667 shares of our common stock.  The accrued contingent liability and the related intangible asset, domain websites were adjusted by approximately $46 thousand to reflect the lower price paid as compared to the contingent liability recorded as a result of the change in the price of Inuvo stock from the date of acquisition to the first contingent release of shares. 
+    
+  During the first quarter of 2014, we filed an S-3 registration statement with the Securities and Exchange Commission ("SEC") to replace the existing, expiring S-3 "shelf" registration statement, which permits us to offer and sell up to $15 million of our securities from time to time in one or more offerings. To date, we have not taken down any sales from this shelf registration statement. Though we believe the revolving line of credit and cash generated by operations will provide sufficient cash for operations over the next twelve months, we may still elect to sell securities to the public or to selected investors, or borrow under the current or any replacement line of credit or other debt instruments in order to fund the development of our technologies, make acquisitions, pursue new business opportunities or grow existing businesses.  
+    
+  Cash Flows - Operating 
+    
+  Net cash provided by operating activities was   $488,582   during the   nine   months ended   September 30, 2016  . We reported a net loss of   $463,627  , which included non-cash expenses; depreciation and amortization expense of   $1,658,352   and stock-based compensation expense of   $1,002,044  .  The change in operating assets and liabilities during the   nine   months ended   September 30, 2016   was a net use of cash of   $1,556,199   primarily due to a decrease in the accounts payable balance by   $2,030,096   partially offset by a decrease in the accounts receivable and unbilled revenue balances by   $685,436  . Our terms are such, that we generally collect receivables prior to paying trade payables.   
+
+17 
+
+During the comparable period in   2015  , cash provided by operating activities was   $5,197,790   from a net income of   $1,722,712  , which included several non-cash expenses; depreciation and amortization of   $1,306,729  , stock-based compensation of   $385,818  .  
+    
+  Cash Flows - Investing 
+    
+  Net cash used in investing activities was   $929,380   and   $1,050,678   for the   nine   months ended   September 30, 2016   and   2015  , respectively. Cash used in investing activities during both periods primarily consisted of capitalized internal development costs. 
+    
+  Cash Flows - Financing 
+    
+  Net cash used in financing activities was   $178,295   during   2016  .  
+    
+  In   2015  , net cash used in financing activities was   $3,939,699   and was used to pay off the outstanding balance of the bank term loan and pay down the revolving credit facility to zero.   
+
+Off Balance Sheet Arrangements 
+    
+  As of   September 30, 2016  , we do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors. The term "off-balance sheet arrangement" generally means any transaction, agreement or other contractual arrangement to which an entity unconsolidated with us is a party, under which we have any obligation arising under a guarantee contract, derivative instrument or variable interest or a retained or contingent interest in assets transferred to such entity or similar arrangement that serves as credit, liquidity or market risk support for such assets. 
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+    
+  Not applicable to a smaller reporting company. 
+
+ITEM 4.  CONTROLS AND PROCEDURES. 
+    
+  Evaluation of Disclosure Controls and Procedures 
+    
+  We maintain  disclosure controls and procedures  as such term is defined in Rule 13a-15(e) under the Securities Exchange Act of 1934.  Disclosure controls and procedures are controls and procedures designed to reasonably assure that information required to be disclosed in our reports filed under the Securities Exchange Act of 1934, such as this report, is recorded, processed, summarized and reported within the time periods prescribed by SEC rules and regulations, and to reasonably assure that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, to allow timely decisions regarding required disclosure. 
+    
+  Our management does not expect that our disclosure controls will prevent all errors and fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. In addition, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of simple error or mistake.  Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the control. The design of any systems of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because of these inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+    
+  As required by Rule 13a-15 under the Securities Exchange Act of 1934, as of   September 30, 2016  , the end of the period covered by this report, our management concluded their evaluation of the effectiveness of the design and operation of our disclosure controls and procedures. As of the evaluation date, our Chief Executive Officer and Chief Financial Officer  
+  
+   18 
+
+concluded that we maintain disclosure controls and procedures that are effective in providing reasonable assurance that information required to be disclosed in our reports under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods prescribed by SEC rules and regulations, and that such information is accumulated and communicated to our management to allow timely decisions regarding required disclosure. 
+    
+  Changes in Internal Control over Financial Reporting 
+    
+  There were no changes in our internal control over financial reporting during the period ended   September 30, 2016   that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+PART II 
+
+ITEM 1. LEGAL PROCEEDINGS. 
+    
+  See Note 13, Litigation and Settlements, for a discussion of outstanding legal proceedings.   
+
+ITEM 1A. RISK FACTORS.  
+    
+  We desire to take advantage of the  safe harbor  provisions of the Private Securities Litigation Reform Act of 1995. Accordingly, we incorporate by reference the risk factors disclosed in Part I, Item 1A of our Form 10-K for the year ended   December 31, 2015  , filed with the Securities and Exchange Commission on February 12, 2016 subject to the new or modified risk factors appearing below that should be read in conjunction with the risk factors disclosed in such Form 10-K. 
+    
+  We rely on two customers for a significant portion of our revenues.   We are reliant upon Yahoo! and Google for most of our revenue. During the   third   quarter of   2016   they accounted for   67.3%   and   31.3%   of our revenues, respectively, and during the same period 2015 they accounted for   62.1%   and   35.8%  , respectively. The amount of revenue we receive from these customers is dependent on a number of factors outside of our control, including the amount they charge for advertisements, the depth of advertisements available from them, and their ability to display relevant ads in response to end-user queries. 
+    
+  We would likely experience a significant decline in revenue and our business operations could be significantly harmed if these customers do not approve our new websites and applications, or if we violate their guidelines or they change their guidelines. In addition, if any of these preceding circumstances were to occur, we may not be able to find a suitable alternate paid search results provider or otherwise replace the lost revenues. The loss of either of these customers or a material change in the revenue or gross profit they generate would have a material adverse impact on our business, results of operations and financial condition in future periods.  
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS. 
+    
+  None 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES. 
+    
+  None. 
+
+ITEM 4.  MINE SAFETY AND DISCLOSURES. 
+    
+  Not applicable. 
+
+ITEM 5. OTHER INFORMATION. 
+    
+  None 
+
+19 
+
+ITEM 6. EXHIBITS. 
+    
+                   Exhibit No. 
+      
+    Description of Exhibit 
+      10.26 
+      
+    Sixth Business Financing Modification Agreement dated September 27, 2016 by and among Western Alliance Bank, Inuvo, Inc., BabytoBee LLC, Kowabunga Marketing, Inc., Vertro, Inc. and Alot, Inc. * 
+      31.1 
+      
+    Rule 13a-14(a)/15d-14(a) certification of Chief Executive Officer * 
+      31.2 
+      
+    Rule 13a-14(a)/15d-14(a) certification of Chief Financial Officer * 
+      32.1 
+      
+    Section 1350 certification of Chief Executive Officer * 
+      32.2 
+      
+    Section 1350 certification of Chief Financial Officer * 
+      101.INS 
+      
+    XBRL Instance Document * 
+      101.SCH 
+      
+    XBRL Taxonomy Extension Schema Document * 
+      1010.CAL 
+      
+    XBRL Taxonomy Extension Calculation Linkbase Document * 
+      101.DEF 
+      
+    XBRL Taxonomy Extension Definition Linkbase Document * 
+      101.LAB 
+      
+    XBRL Taxonomy Extension Label Linkbase Document * 
+      101.PRE 
+      
+    XBRL Taxonomy Extension Presentation Linkbase Document * 
+
+* filed herewith 
+  
+   20 
+
+SIGNATURES 
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Inuvo, Inc. 
+
+October 26, 2016 
+    By: 
+    /s/ Richard K. Howe 
+
+Richard K. Howe, 
+
+Chief Executive Officer, principal executive officer 
+
+October 26, 2016 
+    By: 
+    /s/   Wallace D. Ruiz 
+
+Wallace D. Ruiz, 
+
+Chief Financial Officer, principal financial and accounting officer 
+
+21 
+
+<EX-10.26>
+ 2
+ westernalliancebank-inuvox.htm
+ EXHIBIT 10.26
+
+Exhibit 
+
+SIXTH BUSINESS FINANCING MODIFICATION AGREEMENT 
+  This Sixth Business Financing Modification Agreement (   Business Financing Modification Agreement   ) is entered into as of September 27, 2016, by and between WESTERN ALLIANCE BANK, an Arizona corporation (   Lender   ) INUVO, INC., a Nevada corporation (   Parent   ), BABYTOBEE, LLC, a New York limited liability company (   Babytobee   ), KOWABUNGA MARKETING, INC., a Michigan corporation (   Kowabunga   ), VERTRO, INC., a Delaware corporation (   Vertro   ), and ALOT, INC., a Delaware corporation (   A LOT    and together with Parent, Babytobee, Kowabunga and Vertro, each a    Borrower    and collectively,    Borrowers   ). 
+  1.  DESCRIPTION OF EXISTING INDEBTEDNESS  : Among other indebtedness which may be owing by Borrowers to Lender, Borrowers are indebted to Lender pursuant to, among other documents, a Business Financing Agreement, dated March 1, 2012, by and between Borrowers and Lender, as may be amended from time to time, including by that certain First Business Financing Modification Agreement dated as of June 29, 2012, that certain Second Business Financing Modification Agreement dated as of October 11, 2012, that certain Business Financing Modification Agreement dated March 8, 2013, that certain Third Business Financing Modification Agreement dated as of March 29, 2013, that certain Fourth Business Financing Modification Agreement dated as of March 6, 2014 and that certain Fifty Business Financing Modification Agreement dated as of September 20, 2014 (collectively, the    Business Financing Agreement   ).  Capitalized terms used without definition herein shall have the meanings assigned to them in the Business Financing Agreement. 
+  Hereinafter, all indebtedness owing by Borrowers to Lender shall be referred to as the    Indebtedness    and the Business Financing Agreement and any and all other documents executed by Borrowers in favor of Lender shall be referred to as the    Existing Documents  .  
+  2.        DESCRIPTION OF CHANGE IN TERMS  . 
+  A.        Modifications to Business Financing Agreement  : 
+  i)        Section 4.10 of the Business Financing Agreement is hereby deleted in its entirety and replaced with the following: 
+     Maintain its primary depository and operating accounts with Lender and, in the case of any deposit accounts not maintained with Lender, grant to Lender a first priority perfected security interest in and  control  (within the meaning of Section 9104 of the California Uniform Commercial Code) of such deposit account pursuant to documentation acceptable to Lender. Notwithstanding the foregoing, Borrowers may maintain one account in the United Kingdom with NatWest Bank, provided that at no time shall the balance of such account exceed $50,000.   
+  ii)        Section 4.15 of the Business Financing Agreement is hereby deleted in its entirety and replaced by the following: 
+
+4.15 Maintain Borrowers  consolidated financial condition as follows using generally accepted accounting principles consistently applied and used consistently with prior practices (except to the extent modified by the definitions herein): 
+  (a)    Quick Ratio, measured monthly of not less than 0.75 to 1.00 for each monthly measuring period. 
+  (b)    Performance to Plan. 
+  (i)    Revenue, measured quarterly on a consolidated basis, shall not negatively deviate more than 20% from the projections delivered in accordance with Section 4.9(e) of the Business Financing Agreement, with respect to any quarter. 
+  (ii)    Adjusted EBITDA, measured quarterly on a consolidated basis, shall not negatively deviate more than $500,000 from the projections delivered in accordance with Section 4.9(e) of the Business Financing Agreement, with respect to any quarter.  
+  iii)        The following defined terms set forth in Section 12.1 of the Business Financing Agreement are hereby added or amended and restated in their entirety, as applicable, as follows: 
+     Adjusted EBITDA    means net profit before tax plus interest expense, depreciation expense and amortization expense, plus non-cash expenses, minus non-cash gains. 
+  "  Cash Management Sublimit  " means $115,000.  
+     Maturity Date    means September 20, 2018 or such earlier date as Lender shall have declared the Obligations immediately due and payable pursuant to Section 7.2. 
+     Quick Ratio    means unrestricted cash and cash equivalents held at Bank, plus gross accounts receivable, divided by total current liabilities. 
+  3.        CONSISTENT CHANGES  .  The Existing Documents are each hereby amended wherever necessary to reflect the changes described above. 
+  4.        NO DEFENSES OF BORROWERS/GENERAL RELEASE  .  Each Borrower agrees that, as of this date, it has no defenses against the obligations to pay any amounts under the Indebtedness.  Each Borrower (each, a    Releasing Party   ) acknowledges that Lender would not enter into this Business Financing Modification Agreement without Releasing Party s assurance that it has no claims against Lender or any of Lender s officers, directors, employees or agents.  Except for the obligations arising hereafter under this Business Financing Modification Agreement, each Releasing Party releases Lender, and each of Lender s and entity s officers, directors and employees from any known or unknown claims that Releasing Party now has against Lender of any  
+
+nature, including any claims that Releasing Party, its successors, counsel, and advisors may in the future discover they would have now had if they had known facts not now known to them, whether founded in contract, in tort or pursuant to any other theory of liability, including but not limited to any claims arising out of or related to the Agreement or the transactions contemplated thereby.  Releasing Party waives the provisions of California Civil Code section 1542, which states: 
+  A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER, MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR. 
+  The provisions, waivers and releases set forth in this section are binding upon each Releasing Party and its shareholders, agents, employees, assigns and successors in interest.  The provisions, waivers and releases of this section shall inure to the benefit of Lender and its agents, employees, officers, directors, assigns and successors in interest.  The provisions of this section shall survive payment in full of the Obligations, full performance of all the terms of this Business Financing Modification Agreement and the Business Financing Agreement, and/or Lender s actions to exercise any remedy available under the Business Financing Agreement or otherwise. 
+  5.        CONTINUING VALIDITY  .  Each Borrower understands and agrees that in modifying the existing Indebtedness, Lender is relying upon such Borrower s representations, warranties, and agreements, as set forth in the Existing Documents.  Except as expressly modified pursuant to this Business Financing Modification Agreement, the terms of the Existing Documents remain unchanged and in full force and effect.  Lender s agreement to modifications to the existing Indebtedness pursuant to this Business Financing Modification Agreement in no way shall obligate Lender to make any future modifications to the Indebtedness.  Nothing in this Business Financing Modification Agreement shall constitute a satisfaction of the Indebtedness.  It is the intention of Lender and Borrowers to retain as liable parties all makers and endorsers of Existing Documents, unless the party is expressly released by Lender in writing.  No maker, endorser, or guarantor will be released by virtue of this Business Financing Modification Agreement.  The terms of this paragraph apply not only to this Business Financing Modification Agreement, but also to any subsequent Business Financing modification agreements. 
+  6.        CONDITIONS  .  The effectiveness of this Business Financing Modification Agreement is conditioned upon (i) payment by Borrowers of the Facility Fee and Due Diligence Fee, (ii) payment by Borrowers of all legal fees and expenses in connection with this Business Financing Modification Agreement, and (iii) delivery by each Borrower of updated Corporate Resolutions to Borrow.  
+  7.        NOTICE OF FINAL AGREEMENT  .  BY SIGNING THIS DOCUMENT EACH PARTY REPRESENTS AND AGREES THAT: (A) THIS WRITTEN AGREEMENT REPRESENTS THE FINAL AGREEMENT BETWEEN THE PARTIES, (B) THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES, AND (C) THIS WRITTEN AGREEMENT MAY NOT BE CONTRADICTED BY EVIDENCE OF ANY PRIOR,  
+
+CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OR UNDERSTANDINGS OF THE PARTIES. 
+  8.        COUNTERSIGNATURE  .  This Business Financing Modification Agreement shall become effective only when executed by Lender and each Borrower. 
+  [  Balance of Page Intentionally Left Blank  ] 
+
+IN WITNESS WHEREOF, Borrowers and Lender have executed this Business Financing Modification Agreement on the day and year above written. 
+                   BORROWERS: 
+      
+    LENDER: 
+      INUVO, INC. 
+      
+    WESTERN ALLIANCE BANK, an Arizona corporation 
+      By:        
+      
+    By:        
+      Name:        
+      
+    Name 
+      Title:        
+      
+    Title:        
+      BABYTOBEE, LLC 
+
+By:        
+
+Name:        
+
+Title:        
+
+KOWABUNGA MARKETING, INC. 
+
+By:        
+
+Name:        
+
+Title:        
+
+VERTRO, INC. 
+
+By:        
+
+Name:        
+
+Title:        
+
+ALOT, INC. 
+
+By:        
+
+Name:        
+
+Title:        
+
+[Signature Page to Sixth Business Financing Modification Agreement] 
+
+</EX-10.26>
+
+<EX-31.1>
+ 3
+ inuv-ex311_2016093016xq3.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+EXHIBIT 31.1 
+    
+  Rule 13a-14(a)/15d-14(a) Certification 
+    
+  I, Richard K. Howe, certify that: 
+    
+           1. 
+    I have reviewed this annual report on Form 10-K of Inuvo, Inc.; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a. 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           b. 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           c. 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d. 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+       
+           5. 
+    The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+       
+           a. 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+       
+           b. 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+       
+  Date:   October 26, 2016    
+    
+  /s/ Richard K. Howe   
+  Richard K. Howe 
+  Chief Executive Officer, principal executive officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ inuv-ex312_2016093016xq3.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+EXHIBIT 31.2 
+    
+  Rule 13a-14(a)/15d-14(a) Certification 
+    
+  I, Wallace D. Ruiz, certify that: 
+    
+           1. 
+    I have reviewed this annual report on Form 10-K of Inuvo, Inc.; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:   
+       
+           a. 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           b. 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           c. 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d. 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+       
+           5. 
+    The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+       
+           a. 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+       
+           b. 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+       
+  Date:   October 26, 2016    
+    
+  /s/ Wallace D. Ruiz   
+  Wallace D. Ruiz 
+  Chief Financial Officer, principal financial and accounting officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ inuv-ex321x2016093016xq3.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+EXHIBIT 32.1 
+
+Section 1350 Certification 
+    
+  In connection with the Annual Report of Inuvo, Inc. (the  Company ) on Form 10-K for the year ended   September 30, 2016   as filed with the Securities and Exchange Commission (the  Report ), I, Richard K. Howe, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. SS. 1350, as adopted pursuant to SS. 906 of the Sarbanes-Oxley Act of 2002, that: 
+    
+           1. 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and 
+       
+           2. 
+    The information contained in the Report fairly presents, in all material respects, the financial conditions and results of operations of the Company. 
+       
+  Date:   October 26, 2016    
+    
+  /s/ Richard K. Howe   
+  Richard K. Howe 
+  Chief Executive Officer, principal executive officer 
+    
+  A signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ inuv-ex322_2016093016xq3.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+EXHIBIT 32.2 
+
+Section 1350 Certification 
+    
+  In connection with the Annual Report of Inuvo, Inc. (the  Company ) on Form 10-K for the year ended   September 30, 2016   as filed with the Securities and Exchange Commission (the  Report ), I, Wallace D. Ruiz, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. SS. 1350, as adopted pursuant to SS. 906 of the Sarbanes-Oxley Act of 2002, that: 
+    
+           1. 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and 
+       
+           2. 
+    The information contained in the Report fairly presents, in all material respects, the financial conditions and results of operations of the Company. 
+       
+  Date:   October 26, 2016    
+    
+   /s/ Wallace D. Ruiz   
+  Wallace D. Ruiz 
+  Chief Financial Officer, principal financial and accounting officer 
+    
+  A signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 7
+ inuv-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ inuv-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ inuv-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ inuv-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ inuv-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ inuv-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

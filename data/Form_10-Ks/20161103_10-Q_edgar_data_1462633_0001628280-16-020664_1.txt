@@ -1,0 +1,1501 @@
+<Header>
+<FileStats>
+    <FileName>20161103_10-Q_edgar_data_1462633_0001628280-16-020664_1.txt</FileName>
+    <GrossFileSize>5781063</GrossFileSize>
+    <NetFileSize>190720</NetFileSize>
+    <ASCII_Embedded_Chars>273093</ASCII_Embedded_Chars>
+    <HTML_Chars>2072039</HTML_Chars>
+    <XBRL_Chars>2297715</XBRL_Chars>
+    <XML_Chars>816121</XML_Chars>
+    <N_Tables>56</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001628280-16-020664.hdr.sgml : 20161103
+<ACCEPTANCE-DATETIME>20161102181023
+ACCESSION NUMBER:		0001628280-16-020664
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		65
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161103
+DATE AS OF CHANGE:		20161102
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Jive Software, Inc.
+		CENTRAL INDEX KEY:			0001462633
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				421515522
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35367
+		FILM NUMBER:		161969302
+
+	BUSINESS ADDRESS:	
+		STREET 1:		325 LYTTON STREET
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94301
+		BUSINESS PHONE:		503-295-3700
+
+	MAIL ADDRESS:	
+		STREET 1:		325 LYTTON STREET
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94301
+
+</SEC-Header>
+</Header>
+
+ 0001628280-16-020664.txt : 20161103
+
+10-Q
+ 1
+ jive-09302016x10q.htm
+ 10-Q JIVE 9.30.2016
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  WASHINGTON, D.C. 20549 
+  FORM 10-Q 
+
+For the quarterly period ended   September 30, 2016    
+  OR 
+
+For the transition period from                          to                        
+  Commission File No. 001-35367 
+  _______________________________________________________ 
+  JIVE SOFTWARE, INC. 
+  (Exact name of registrant as specified in its charter) 
+  _______________________________________________________ 
+
+Registrant s telephone number, including area code: 650-319-1920 
+  _______________________________________________________ 
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes    x      No      
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (  232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes    x      No      
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. 
+                       Large accelerated filer 
+
+Accelerated filer 
+    x 
+
+Non-accelerated filer 
+      
+    (Do not check if a smaller reporting company) 
+    Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes           No    x 
+  The number of shares of the registrant s common stock outstanding as of   October 31, 2016   was   78,107,355  . 
+
+JIVE SOFTWARE, INC. 
+  INDEX TO FORM 10-Q 
+
+Page 
+       PART I   FINANCIAL INFORMATION  
+
+Item 1. 
+     Financial Statements (Unaudited)  
+
+Consolidated Balance Sheets  
+    2 
+
+Consolidated Statements of Operations   
+    3 
+
+Consolidated Statements of Comprehensive Loss   
+    4 
+
+Consolidated Statements of Cash Flows   
+    5 
+
+Condensed Notes to Consolidated Financial Statements  
+    6 
+
+Item 2. 
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    15 
+
+Item 3. 
+     Quantitative and Qualitative Disclosures About Market Risk  
+    29 
+
+Item 4. 
+     Controls and Procedures  
+    29 
+
+PART II   OTHER INFORMATION  
+
+Item 1A. 
+     Risk Factors  
+    29 
+
+Item 6. 
+     Exhibits  
+    50 
+
+Signatures  
+    51 
+
+1 
+
+PART I   FINANCIAL INFORMATION 
+
+Item 1.     Financial Statements 
+   
+  JIVE SOFTWARE, INC. 
+  Consolidated Balance Sheets 
+  (In thousands, except per share data) 
+  (Unaudited) 
+
+See accompanying Condensed Notes to Consolidated Financial Statements. 
+  
+   2 
+
+JIVE SOFTWARE, INC. 
+  Consolidated Statements of Operations 
+  (In thousands, except per share amounts) 
+  (Unaudited) 
+
+See accompanying Condensed Notes to Consolidated Financial Statements. 
+
+3 
+
+JIVE SOFTWARE, INC. 
+  Consolidated Statements of Comprehensive Loss 
+  (In thousands) 
+  (Unaudited) 
+
+See accompanying Condensed Notes to Consolidated Financial Statements. 
+  
+   4 
+
+JIVE SOFTWARE, INC. 
+  Consolidated Statements of Cash Flows 
+  (In thousands) 
+  (Unaudited) 
+
+See accompanying Condensed Notes to Consolidated Financial Statements. 
+  
+   5 
+
+JIVE SOFTWARE, INC. 
+  CONDENSED NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+  (Unaudited) 
+
+Note 1.    Nature of Business 
+    
+  We provide products that we believe improve business results by enabling a more productive and effective workforce through enhanced communications and collaboration both inside and outside the enterprise. Organizations deploy our products to improve the level of engagement, the quality of interaction and the overall relationship they have with their employees, customers and partners. Our products are primarily offered on a subscription basis, deployable in on-premise, hosted and cloud instances and used for internal or external communities. We generate revenues from product subscription license fees as well as from professional service fees for strategic consulting, configuration, implementation and training. 
+
+Note 2.    Basis of Presentation 
+    
+  The consolidated financial statements include the accounts of Jive Software, Inc. and its wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. 
+    
+  The accompanying consolidated financial statements and condensed footnotes have been prepared in accordance with the instructions to Form 10-Q and Article 10 of Regulation S-X. Accordingly, the financial statements do not include all of the information and footnotes required by accounting principles generally accepted in the United States ( GAAP ) for complete financial statements. In the opinion of management, all adjustments considered necessary for fair presentation have been included. The results of operations for the   three and nine  -month periods ended   September 30, 2016   are not necessarily indicative of the results to be expected for the full year. For further information, refer to the consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the year ended   December 31, 2015  , which was filed with the Securities and Exchange Commission (the  SEC ) on   February 29, 2016  . 
+    
+  The preparation of financial statements in conformity with GAAP requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities, revenues and expenses, and the related disclosure of contingent assets and liabilities in the financial statements and the accompanying notes. Significant estimates include the estimates relating to: 
+
+revenue recognition; 
+                
+    the useful lives of property and equipment; 
+                
+    stock-based compensation; 
+                
+    assumptions used in testing for impairment of goodwill; 
+                
+    other long-lived assets; 
+                
+    accrued restructuring costs; 
+                
+    capitalized software development costs; and 
+                
+    the recoverability of deferred income tax assets and liabilities. 
+       
+  Actual results could differ from those estimates, and such differences may be material to the consolidated financial statements. 
+  
+   6 
+
+Note 3.    Stock-Based Awards and Stock-Based Compensation 
+    
+  Stock Option Plans 
+    
+  2011 Plan 
+  Our 2011 Equity Incentive Plan (the  2011 Plan ) provides our board of directors with broad discretion in creating employee equity incentives. Unless otherwise provided in the 2011 Plan, the compensation committee of the board of directors, in its discretion, determines stock option exercise prices, which may not be less than the fair value of our common stock at the date of grant, vesting periods, and expiration periods, which are a maximum of   ten   years from the date of grant. 
+    
+  The 2011 Plan replaced two previous plans. Awards that were outstanding upon termination of the previous plans remained outstanding pursuant to their original terms and awards subsequently terminated return to the pool of shares available for grant under the 2011 Plan. 
+    
+  The 2011 Plan allows for grants of incentive stock options, nonstatutory stock options, stock appreciation rights, restricted stock, restricted stock units ("RSUs"), performance shares and performance stock units ("PSUs"). Generally, all stock option grants are issued under an option agreement that provides, among other things, that the option grant vests over a   four  -year period while RSU and PSU agreements vest between   one   and   four   years. 
+    
+  The number of shares available for issuance under the 2011 Plan increases on the first business day of each year in an amount equal to the lesser of (i)   5,000,000   shares; (ii)   3.9%   of the outstanding shares on the last day of the immediately preceding year; or (iii) such number of shares as determined by the board of directors.  
+    
+  Option Exchange Program 
+  On   August 5, 2016  , we commenced an option exchange which permitted employees (other than directors and named executive officers) to surrender certain outstanding stock options that had per share exercise prices that were above   $6.58   for cancellation in exchange for the grant of replacement RSUs covering a lesser number of shares and subject to a different vesting schedule. This option exchange was completed on   September 2, 2016  . Options to purchase a total of   586,275   shares of common stock with a weighted-average exercise price of   $11.29   per share were canceled and replaced with   122,400   RSUs, with per share fair value of   $4.33  , on   September 2, 2016  . The replacement RSUs will vest quarterly over the next   two   years. We accounted for this option exchange as a stock option modification in accordance with the provisions of ASC 718   Share-Based Compensation  . We will record incremental stock-based compensation expense of $  0.3 million   in addition to the remaining stock-based compensation expense attributable to the exchanged stock options to be amortized over the   two  -year vesting period of the replacement RSUs.    
+    
+  2015 Employee Stock Purchase Plan 
+  In May 2015, our stockholders approved the adoption of the 2015 Employee Stock Purchase Plan (the "ESPP"), pursuant to which   2,000,000   shares of common stock have been reserved for issuance to participating employees. Eligible employees may elect to contribute up to   15%   of their base salary during each pay period, up to   $25,000   in a calendar year, for the purchase of up to   3,000   shares during a purchase period. The ESPP provides for separate overlapping   12  -month offering periods starting every   six   months. Each offering has   two   purchase dates occurring every   six   months on designated dates. The offerings under the ESPP commence on May 15 and November 15 of each calendar year, with the first purchase period having occurred in May 2016. Any eligible employee may participate in only   one   offering period at a time and may purchase shares only through payroll deductions permitted under the ESPP.  At the end of each   six  -month period, the purchase price is determined and the accumulated funds are used to automatically purchase shares of common stock. The purchase price per share is equal to   85%   of the lower of the fair market value of the common stock on the first day of the offering period or the date of purchase.  
+    
+  During both the   three and nine   months ended   September 30, 2016  , a total of   271,052   shares were issued under the ESPP with a fair value of   $3.78   per share.  
+
+7 
+
+Stock Plan Activity 
+  Certain information regarding stock plan activity for the   nine  -month period ended   September 30, 2016   and stock options outstanding as of   September 30, 2016   was as follows: 
+
+Restricted Stock Activity 
+  Restricted stock results from the grant of RSUs. The shares of restricted stock vest over the period specified in the related RSU agreements.  
+    
+  Restricted stock activity was as follows: 
+
+All shares to be issued upon the exercise of stock options and the vesting of RSUs will come from newly issued shares. 
+    
+  Stock-based compensation expense was included in our Consolidated Statements of Operations as follows (in thousands): 
+
+As of   September 30, 2016  , unrecognized stock-based compensation related to all stock-based awards was   $28.7 million  , which will be recognized over the weighted average remaining vesting period of   2.4 years  . 
+  
+   8 
+
+Note 4.    Net Loss Per Share 
+    
+  Since we were in a loss position for all periods presented, basic net loss per share is the same as diluted net loss per share for all periods. 
+    
+  The following table sets forth the computation of basic and diluted net loss per share (in thousands, except per share data): 
+
+Potentially dilutive securities that are not included in the diluted per share calculations because they would be anti-dilutive were as follows: 
+
+Note 5.    Goodwill and Other Intangible Assets 
+    
+  Goodwill 
+  We perform a goodwill impairment test annually during our fourth quarter and more frequently if an event or circumstance indicates that an impairment may have occurred. Such events or circumstances may include, among other things, significant adverse changes in the general business climate.  
+    
+  In the second quarter of 2016, due to the 2016 Realignment Plan (as defined and discussed in Note 14 below), we performed a quantitative assessment of our goodwill balance. Our impairment test did not indicate any impairment of goodwill as the fair value of our business substantially exceeded its carrying value as of period end.   
+    
+  Our goodwill balance did not change during the   nine   months ended   September 30, 2016   or during the year ended   December 31, 2015  . 
+
+9 
+
+Other Intangible Assets, net 
+  The following table presents our intangible assets and their related useful lives (dollars in thousands):   
+
+Amortization expense related to intangible assets was as follows (in thousands): 
+
+Expected future amortization expense as of   September 30, 2016   is as follows (in thousands): 
+
+10 
+
+Note 6.    Cash, Cash Equivalents and Marketable Securities 
+    
+  Cash, cash equivalents and marketable securities consisted of the following (in thousands): 
+
+As of   September 30, 2016   and   December 31, 2015  , we did not consider any of our investments to be other-than-temporarily impaired. 
+
+11 
+
+As of   September 30, 2016  , the following table summarizes the estimated fair value of our investments in marketable securities, all of which are considered available-for-sale, classified by the contractual maturity date (in thousands): 
+
+See also Note 7. 
+
+Note 7.    Fair Value Measurements 
+    
+  Factors used in determining the fair value of financial assets and liabilities are summarized into three broad categories: 
+
+Level 1   quoted prices in active markets for identical securities as of the reporting date; 
+                
+    Level 2   other significant directly or indirectly observable inputs, including quoted prices for similar securities, interest rates, prepayment speeds and credit risk; and 
+                
+    Level 3   significant inputs that are generally less observable than objective sources, including our own assumptions in determining fair value. 
+       
+  The factors or methodology used for valuing securities are not necessarily an indication of the risk associated with investing in those securities. 
+    
+  The following tables present our financial assets that are measured at fair value on a recurring basis (in thousands):    
+
+We did not have any financial liabilities measured at fair value on a recurring basis at   September 30, 2016   or   December 31, 2015  . 
+
+12 
+
+We classify our marketable securities as available-for-sale and, accordingly, record them at fair value based on quoted market prices for similar securities. Unrealized holding gains and losses are excluded from earnings and are reported as a separate component of Stockholders  Equity until realized. See the Consolidated Statements of Comprehensive Loss. 
+    
+  There were no changes to our valuation techniques during the   nine   months ended   September 30, 2016  . 
+    
+  During the three and   nine  -month periods ended   September 30, 2016   and   2015  , we did not record any other-than-temporary impairments. 
+    
+  We recognize or disclose the fair value of certain assets such as non-financial assets, primarily long-lived assets, goodwill, intangible assets and certain other assets in connection with impairment evaluations. All of our non-recurring valuations use significant unobservable inputs and therefore fall under Level 3 of the fair value hierarchy. 
+    
+  The carrying value of our term loan approximates its fair value and falls under Level 2 of the fair value hierarchy, as the interest rate is variable and based on current market rates. 
+
+Note 8.    Long-Term Debt 
+    
+  We have a secured revolving loan facility and term loan facility of up to   $30.0 million   under a loan agreement (the  Loan Agreement ) with Silicon Valley Bank ( SVB ), which expires by its terms on   May 23, 2017  . 
+    
+  On March 29, 2016, we entered into a Fourth Loan Modification Agreement with SVB to modify the adjusted EBITDA financial covenant for periods ending after December 31, 2015.  
+    
+  At   September 30, 2016  , we had   $0.6 million   of outstanding letters of credit,   no   revolving loans outstanding under the Loan Agreement and   $1.8 million   of term loans outstanding at an interest rate of   2.83%  . We were in compliance with all covenants as of   September 30, 2016  .  
+
+Note 9.    Commitments and Contingencies 
+    
+  We have   $20.0 million   of future payments under our operating leases and   $2.4 million   of commitments under non-cancelable purchase orders at   September 30, 2016  .   These non-cancelable purchase order commitments will be filled at various times through the third quarter of 2017  ; our longest operating lease expires in   October 2022  . 
+
+Note 10.    Statements of Cash Flows 
+    
+  The summary of supplemental cash flows information is as follows (in thousands): 
+
+Note 11.    Related-Party Transactions 
+    
+  Certain members of our board of directors also serve on the board of directors of certain of our customers and, in some cases, are also investors of these customers. Certain information regarding these customers was as follows (in thousands): 
+
+13 
+
+Note 12.    Disgorgement Funds Received 
+    
+  On January 8, 2015, we received   $1.1 million   from a stockholder in settlement of a claim under Section 16(b) of the Securities Exchange Act of 1934, as amended, (the "Exchange Act"). We recognized the amount when realized in other, net on our Consolidated Statements of Operations. The amount is reflected as a non-recurring gain in our financing cash flows on our Consolidated Statements of Cash Flows. 
+
+Note 13.    New Accounting Pronouncements 
+    
+  Accounting Pronouncements Not Yet Adopted 
+  In May 2014, the Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update ( ASU ) No. 2014-09,  Revenue from Contracts with Customers,  which requires an entity to recognize the amount of revenue to which it expects to be entitled for the transfer of promised goods or services to customers. The ASU will replace most existing revenue recognition guidance in GAAP when it becomes effective. The new standard, as amended, is effective for us on January 1, 2018 with early application effective January 1, 2017 permitted. The standard permits the use of either the retrospective or cumulative effect transition method. We are evaluating the effect that ASU 2014-09 will have on our consolidated financial statements and related disclosures. We have not yet selected a transition method nor have we determined the effect of the standard on our ongoing financial reporting. 
+    
+  In February 2016, the FASB issued ASU No. 2016-02, "Leases," which, among other things, requires lessees to recognize most leases on-balance sheet. This will increase their reported assets and liabilities, in some cases very significantly. Lessor accounting remains substantially similar to current GAAP. ASU 2016-02 supersedes Topic 840, Leases. ASU 2016-02 is effective for us for annual and interim periods in fiscal years beginning after December 15, 2018. ASU 2016-02 mandates a modified retrospective transition method for all entities. We are evaluating the effect that ASU 2016-02 will have on our consolidated financial statements and related disclosures. We have not yet determined the effect of the standard on our ongoing financial reporting. 
+    
+  In March 2016, the FASB issued ASU 2016-09, "Compensation - Stock Compensation (Topic 718) - Improvements to Employee Share-Based Payment Accounting." ASU 2016-09 simplifies several aspects of the accounting for share-based payment transactions, including the income tax consequences, classification of awards as either equity or liabilities, and classification on the statement of cash flows. ASU 2016-09 is effective for public companies' annual periods, including interim periods within those fiscal years, beginning after December 15, 2016. Early adoption is permitted subject to certain requirements, and the method of application (i.e., retrospective, modified retrospective or prospective) depends on the transaction area that is being amended. We do not expect the adoption of ASU 2016-09 to have a material effect on our financial position, results of operations or cash flows. 
+
+Note 14.    Restructuring 
+    
+  In May 2016, our board of directors approved a world-wide restructuring plan (the  2016 Realignment Plan ) in order to re-balance staffing levels and better align them with the evolving needs of our business. During the three and   nine   months ended   September 30, 2016  , restructuring charges under the 2016 Realignment Plan included a $  0.1 million   credit and $  4.0 million   in employee termination benefits and exit costs, respectively, which were included as restructuring expenses on our Consolidated Statements of Operations. Other costs primarily consist of legal, consulting, and other costs related to employee terminations. 
+    
+  The restructuring accrual, a portion of which is included in accrued payroll and related liabilities, with the remainder in other accrued liabilities, is expected to be paid in full within the next three months. Changes in the restructuring accrual during the   nine   months ended   September 30, 2016   were as follows (in thousands): 
+
+14 
+
+Note 15.    Subsequent Events 
+    
+  On October 25, 2016, we entered into a lease with Water Tower Fee Owner, LLC (the  Landlord ) for approximately   12,500   square feet of office space in Campbell, California (the  Campbell Lease ). The initial term of the Campbell Lease is expected to commence on March 1, 2017 and run until June 2022 (the  Term ). The Campbell Lease provides for monthly base rent amounts ranging from   $52,681   to   $61,064  , as well as a requirement that we pay our pro rata share of certain real property taxes, operating expenses and common area maintenance expenses. We have the option to extend the lease for one additional   five  -year term subject to certain increases in base rent, provided that we give notice to the Landlord no earlier than   365   days prior to the expiration of the Term and no later than   270   days prior to the expiration of the Term. 
+  On October 28, 2016, we separately entered into an amendment to our office lease with TTC Partners, LLC for our office in Palo Alto, California (the  Palo Alto Lease ) that provides for an early termination of the Palo Alto Lease such that we may exit the entirety of the leased premises by March 20, 2017 (the  Amendment ). In connection with the early termination of the Palo Alto Lease, we will be relieved of obligations to pay approximately   $3.5 million   in rent and other payments which would have been required to be paid over the remainder of the term of the Palo Alto Lease, which, prior to the Amendment, was scheduled to expire in March 2020. 
+   
+  Item 2.    Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Forward Looking Statements 
+  This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Exchange Act. Forward-looking statements may be identified by the use of forward-looking words such as  believe,   may,   will,   estimate,   continue,   anticipate,   intend,   could,   would,   project,   plan,   expect,   target,   contemplate,   predict,   potential,   ensure,  or the negative or plural of these words or similar expressions. These forward-looking statements include, but are not limited to, statements concerning the following: 
+
+our future financial performance, including our expectations regarding our revenue, cost of revenue, gross profit or gross margin, operating expenses, ability to generate cash flow, mix of revenue streams, and ability to achieve and maintain future profitability; 
+                
+    anticipated trends, growth rates and challenges in our business and in the markets in which we operate; 
+                
+    the effects of increased competition in our market; 
+                
+    the timing and impact of the 2016 Realignment Plan, including our reduction in our workforce and related charges, as well as anticipated cost savings; 
+                
+    the timing and execution of our new business initiatives and changes in go-to-market strategies, product roadmap and development; 
+                
+    our ability to sell our products, successfully enter new markets and manage our international expansion; 
+                
+    our ability to timely and effectively scale and adapt our existing technology and network infrastructure; 
+                
+    our ability to timely and effectively acquire or develop new products that meet the needs and expectations of our market; 
+                
+    our ability to increase adoption of our platform by our customers  internal and external users; 
+                
+    our ability to grow our external community business; 
+                
+    our ability to protect our users  information and adequately address security and privacy concerns; 
+                
+    our ability to maintain an adequate rate of growth; 
+                
+    our future expenses; 
+                
+    our ability to effectively manage our growth; 
+                
+    our ability to maintain, protect and enhance our brand and intellectual property; 
+                
+    the attraction and retention of qualified employees and key personnel; and 
+                
+    other risk factors included under  Risk Factors  in this Quarterly Report on Form 10-Q. 
+       
+  These forward-looking statements are subject to risks, uncertainties and assumptions that are difficult to predict. Therefore, actual results may differ materially and adversely from those expressed in any forward-looking statements. Please refer to Item 1A. Risk Factors in this Quarterly Report on Form 10-Q for a discussion of reasons why our actual results may differ materially from our forward-looking statements. While we may elect to update forward-looking statements at some point in the future, we specifically disclaim any obligation to do so, even if our expectations change. 
+
+15 
+
+Overview 
+  We provide products that we believe improve business results by enabling a more productive and effective workforce through enhanced communications and collaboration both inside and outside the enterprise. Organizations deploy our products to improve the level of engagement, the quality of interaction and the overall relationship they have with their employees, customers and partners. Our products are primarily sold on a subscription basis, deployable in on-premise, hosted and cloud instances and used for internal or external communities. We generate revenues from product subscription license fees as well as from professional service fees for strategic consulting, configuration, implementation and training. 
+    
+  We sell our comprehensive Jive Platform across two principal communities: internally for employees within the enterprise and externally for customers and partners outside the enterprise. Internally focused communities comprised   77.3%   of revenues derived from our Jive Platform in the first   nine   months of   2016   compared to   75.9%   in the first   nine   months of   2015  . As the market opportunity for collaboration software within the enterprise continues to grow, we expect revenues generated from internally focused communities to continue to be a higher percentage of our total revenues than revenues generated from externally focused communities. However, we continue to believe there is a meaningful growth opportunity in the external community market as well, and are continuing to invest in our external community technology with the goal of growing market-share. 
+    
+  Our products are provided as cloud services with certain products also being available on-premise. In 2012, we released our first non-customizable version of our cloud-based platform, referred to as Jive Cloud, which is generally on a quarterly release cycle for new features and functionality. In the first   nine   months of   2016  , product revenues from all hosted and cloud deployments represented   70.3%   of total product revenues compared to   66.7%   in the first   nine   months of   2015  . With the increase in overall adoption by enterprises of cloud-based technologies, we anticipate that, over the long-term, cloud deployments of our platform will comprise an increasing portion of our business. 
+    
+  Historically, we have generated the majority of our revenues from sales to customers within the United States. Revenues from customers in the United States accounted for   73.5%   of total revenues in the first   nine   months of   2016   compared to   73.4%   in the first   nine   months of   2015  . We are continuing to focus on strengthening our direct sales presence and network of channel partners internationally, and we anticipate the percentage of our revenues generated outside of the United States will increase in the future. 
+    
+  In February 2016, we introduced our Jive WorkHub offerings, which are packaged solutions focused on distinct verticals and lines of business. Our initial focus for the Jive WorkHub is the healthcare vertical and employee engagement and customer engagement. These out-of-the-box packages provide an easy way for customers to quickly adopt solutions built to meet their specific needs. 
+    
+  On May 5, 2016, our board of directors approved the 2016 Realignment Plan designed to ensure that we have the correct cost structure and go-to-market strategies in place to achieve our desired corporate and operating results going forward, align our operations with evolving business needs and improve efficiencies. The 2016 Realignment Plan included a reduction in our workforce that resulted in the termination of approximately 14% of our personnel across our global operations and was substantially completed by September 30, 2016. In the   nine   months ended   September 30, 2016  , we incurred charges of   $4.0 million  , substantially all of which are related to employee severance and benefits, and included them as restructuring expenses on our Consolidated Statements of Operations. Cash payments of   $3.9 million   were made during the   nine   months ended   September 30, 2016  , with the remaining   $0.1 million   expected to be paid within the next three months. We expect these actions will generate aggregate savings of approximately   $10   million during 2016, net of the non-recurring severance charges and transition costs. 
+
+Seasonality 
+  Our fourth quarter has historically been our strongest quarter for new billings and renewals. This pattern may be amplified over time if the number of our customers with renewal dates occurring in the fourth quarter continues to increase. Furthermore, our quarterly sales cycles are frequently weighted toward the end of the quarter, with an increased volume of sales in the last few weeks of each quarter. The year-over-year compounding effect of this seasonality in billing patterns, overall new business and renewal activity has historically resulted in the value of invoices that we generate in the fourth quarter to increase in proportion to our billings in the other three quarters of our fiscal year. As a result, our first quarter has become our largest quarter for collections and operating cash flow. We expect this trend to continue in future years. 
+
+Critical Accounting Policies and the Use of Estimates 
+  Preparation of our financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses. We believe the most complex and sensitive judgments, because of their significance to the Consolidated Financial Statements included in this Quarterly Report on Form 10-Q, result primarily from the need to make estimates about the effects of matters that are inherently uncertain. 
+    
+  Management s Discussion and Analysis and Note 2 to the Consolidated Financial Statements in our   2015   Annual Report on Form 10-K describe the significant accounting estimates and policies used in preparation of the Consolidated Financial Statements.  
+  
+   16 
+
+Actual results in these areas could differ from management s estimates. During the first   nine   months of   2016  , there were no significant changes in our critical accounting policies or estimates from those reported in our   2015   Annual Report on Form 10-K, which was filed with the SEC on   February 29, 2016  . 
+
+New Accounting Pronouncements 
+  See Note 13 of the Condensed Notes to the Consolidated Financial Statements in this Quarterly Report on Form 10-Q for a discussion of new accounting pronouncements. 
+
+Non-GAAP Key Metrics 
+  In addition to GAAP metrics, such as total revenues and gross margin, we also regularly review short-term billings and total billings, both non-GAAP measures, as well as the number of Jive Platform customers to evaluate our business, measure our performance, identify trends affecting our business, allocate capital and make strategic decisions. We believe that these non-GAAP measures offer valuable supplemental information regarding the performance of our business, and they will help investors better understand the sales volumes and performance of our business. 
+    
+  The following tables set forth a reconciliation of total revenues to short-term billings and total billings, respectively (dollars in thousands): 
+    
+  Short-Term Billings 
+
+Total Billings 
+
+17 
+
+Our uses of short-term billings and total billings have limitations as analytical tools, and should not be considered in isolation or as a substitute for total revenues or an analysis of our results as reported under GAAP. Some of these limitations are: 
+
+short-term billings and total billings are not substitutes for total revenues, as billings are recognized when invoiced, while revenue is primarily recognized ratably over the contract term; 
+                
+    short-term billings can include fees paid for license terms greater than 12 months in prior periods that were previously recorded on our Consolidated Balance Sheets as a component of non-current deferred revenue and were reclassified in the current period as deferred revenue, current and therefore do not always reflect billings that occurred in the period; 
+                
+    total billings can include fees paid for license terms greater than 12 months and for subscription renewals prior to the expiration of the current subscription term and, therefore, do not always closely match with the timing of delivery of support, maintenance and hosting services and the costs associated with delivering those services; 
+                
+    changes to the composition of current period short-term billings and total billings may impact the correlation of current period short-term billings and total billings to future period revenues; 
+                
+    short-term billings and total billings would not exclude any agreements that contain customer acceptance provisions or other contractual contingencies that would require deferral of revenue required under GAAP; and 
+                
+    other companies, including companies in our industry, may not use short-term billings or total billings, may calculate non-GAAP measures differently or may use other financial measures to evaluate their performance, all of which could reduce the usefulness of our non-GAAP measures as comparative measures. 
+       
+  We consider short-term billings and total billings to be significant performance measures and leading indicators of future recognized revenue based on our business model of billing for subscription licenses annually and recognizing revenue ratably over the subscription term. The billings we record in any particular period reflect sales to new customers plus subscription renewals and upsell to existing customers, and represent amounts invoiced for product license fees and professional services. We typically invoice our customers for subscription fees in annual increments upon initiation of the initial contract or subsequent renewal. In addition, we also enter into arrangements with customers to purchase subscriptions for a term greater than 12 months. For subscriptions greater than 12 months, the customer has the option of being invoiced annually or paying for the full term of the subscription at the time the contract is signed. If the customer elects to pay the full multi-year amount at the time the contract is signed, the total amount billed for the entire term will be reflected in total billings; but only the amount that will be recognized as revenue in the following 12 month period would be included in short-term billings until the portion of the total billings beyond 12 months is subsequently reclassified from non-current deferred revenue to deferred revenue, current in a future period. However, if the customer elects to be invoiced annually for a multi-year contract, only the amount billed for the 12-month period will be included in both short-term billings and total billings. The portion of subscription terms under contract and not yet invoiced is considered backlog and is not reflected on our Consolidated Balance Sheets as deferred revenue. 
+    
+  Billings for consulting services can occur on either a time and materials or fixed fee basis. Billings for time and materials contracts typically occur on a bi-weekly basis as the services are delivered. Billings for fixed fee contracts are typically billed 100% at the beginning of the contract or 50% upon either signing or initiation of the project and 50% upon completion of the project. 
+    
+  Total billings increased in the three months ended September 30, 2016 compared to the prior year primarily as a result of higher renewal rates and increased upsell transactions. Total billings were effectively unchanged for the nine months ended September 30, 2016. 
+    
+  Short-term billings increased in the three-month period presented as a result of increased upsell transactions, a slight increase in our renewal rate and customers renewing prior to the period in which their existing subscription term concludes. Our short-term billings decreased for the nine-months presented as a result of decreased new customer transactions year-to-date compared to the same period in the prior year, partially offset by customers renewing prior to the period in which their existing subscription term concludes. We expect the recent decline in billings growth rate to negatively impact future revenue results. 
+
+18 
+
+Jive Platform Customers 
+  We define the number of our platform customers at the end of any given measurement period by counting each customer under an active contract for our Jive Platform products that carries a balance in our deferred revenue account at the end of that period. While a single customer may have multiple internal and external communities to support distinct departments, operating segments or geographies, we only include that customer once for purposes of this metric. We believe the number of Jive Platform customers is a leading indicator of our future revenues, billings and upsell opportunities. 
+    
+  Our Jive Platform customer count was as follows: 
+
+Our product revenues grew by   4.6%   in the first   nine   months of   2016   compared to the first   nine   months of   2015  . Our product revenues have grown at a faster rate than our customer count as we have continued to realize upsell opportunities with our existing customer base. We also believe that our increased focus on the large and mid-sized enterprise segments of our markets has effected, and will continue to effect, our customer count.  
+
+Components of Results of Operations 
+    
+  Revenues 
+  We generate revenues primarily in the form of software subscription fees and professional services for strategic consulting, upgrade services, configuration, implementation and other services related to our software. We offer our products with subscription terms typically ranging from 12 to 36 months. In addition to license fees for our platform, our revenues include fees for sales of modules, premium support offerings, additional users and page views. While subscription-based licenses make up the substantial majority of our product revenues, in certain instances we license our software to customers on a perpetual basis, with ongoing support and maintenance services. Revenues generated through the sale of subscription licenses also include fees, embedded in the total license fee, for updates and maintenance. We recognize revenue from professional services ratably over the subscription term when they are bundled with a subscription license, because we do not have vendor-specific objective evidence of fair value for all of our undelivered elements, including support and professional services. When professional services are sold on a standalone basis, the contract revenue is recognized as the services are delivered. These amounts, when recognized, are classified as professional services revenues on our Consolidated Statements of Operations based on the hourly rates at which they are billed. 
+    
+  Cost of Revenues 
+  Cost of product revenues includes all direct costs to produce and distribute our product offerings, including data center and support personnel, depreciation and maintenance related to equipment located at our hosting service providers and in our Jive managed data centers, salaries, amortization related to capitalized software development costs, rent expense for our data centers, web hosting services expense for cloud implementations, third-party royalty costs, benefits, amortization of acquired intangible assets and stock-based compensation. We recognize expense related to cost of revenues as they are incurred, while the associated product revenues are recognized ratably over the subscription term. 
+    
+  Cost of professional services revenues includes all direct costs to provide our professional services, which primarily include salaries, benefits and stock-based compensation for our professional services personnel, as well as third-party sub-contracting and outside services fees. We recognize expenses related to our professional services organization as they are incurred, while the majority of associated professional services revenues are recognized ratably over the subscription term. 
+    
+  Cost of revenues also includes allocated overhead costs for facilities and information technology. Allocated costs for facilities consist of rent and depreciation of equipment and leasehold improvements related to our facilities. Our allocated costs for information technology include costs for compensation of our information technology personnel and the cost associated with our information technology infrastructure. Our overhead costs are allocated to all departments based on headcount. 
+    
+  We expect that cost of revenues may increase in the future depending on the growth rate of our new customers and billings and our need to support the implementation, hosting and support of those new customers. We also expect that cost of revenues as a percentage of total revenues could fluctuate from period to period depending on growth of our services business and any associated costs relating to the delivery of services, the timing of sales of products that have royalties associated with them, the amount and timing of amortization of intangibles from acquisitions and capitalized software development costs and the timing of significant expenditures. Additionally, we expect professional services gross margin to continue to be negative through the remainder of   2016   as we continue to focus our professional services organization on strategic consulting, user adoption and enablement. 
+  
+   19 
+
+Research and Development 
+  Research and development costs include salaries, benefits and stock-based compensation for our engineers and developers, allocated facilities costs and payments to third parties for research and development of new software. We focus our research and development efforts on developing new versions of our platform with new and expanded features and enhancing the ease of use of our platform. Through the third quarter of 2014, we capitalized costs to develop internal-use software during the application development stage. In the third quarter of 2014, management developed a substantive plan to repurpose the in-process development into our existing software platform and new software products. As a result of this decision, the associated capitalized internal-use software costs became governed by the accounting standards related to development costs for software to be sold. As such, subsequent to July 2014, we no longer capitalize costs related to internal-use software and we account for our current capitalized costs as development costs for software to be sold. 
+    
+  Software development costs incurred subsequent to establishing technological feasibility through the general release of the software products are capitalized. Technological feasibility is demonstrated by the completion of a detailed program design or, working model if no program design is completed. Historically, technological feasibility has occurred concurrently with the commercial release of our products and as a result we have not capitalized software development costs. We do not anticipate capitalizing material software development costs in future periods. 
+    
+  The software development costs are being amortized on a straight-line basis over their estimated useful life and are recorded as a component of cost of product revenues. We begin amortizing the associated capitalized costs upon each product s or enhancement s release. Through   September 30, 2016  , we released products and enhancements related to $  6.9 million   of the capitalized costs. We anticipate the remaining products and enhancements related to the capitalized costs to be commercially released through the first half of 2017. 
+    
+  We make ongoing evaluations of the recoverability of our capitalized software by comparing the amount of capitalized software development costs for each product to the estimated net realizable value. If such evaluations indicate that the unamortized software development costs exceed the net realizable value, we write off the amount by which the unamortized software development costs exceed net realizable value. There was no impairment charge related to capitalized software development costs during the   nine   months ended   September 30, 2016   or   2015  . 
+    
+  Capitalized computer software development costs consisted of the following (in thousands): 
+
+Sales and Marketing 
+  Sales and marketing expenses primarily consist of salaries, incentive compensation and benefits, travel expense, marketing program fees, partner referral fees and stock-based compensation. Sales incentive compensation is recorded as earned as a component of sales and marketing expense. Sales incentive compensation is generally earned at the time a customer enters into a binding purchase agreement while associated revenue is recognized ratably over the subscription term. In addition, sales and marketing expenses include customer acquisition marketing, branding, advertising, customer events and public relations costs, as well as allocated facilities costs.  
+    
+  General and Administrative 
+  General and administrative expenses primarily consist of salaries, benefits and stock-based compensation for our executive, finance, legal, information technology, human resources and other administrative employees. In addition, general and administrative expenses include legal and accounting services, outside consulting, facilities and other supporting overhead costs not allocated to other departments. 
+    
+  Restructuring 
+  Restructuring expenses primarily consist of severance, and severance related benefits related to the "2016 Realignment Plan" announced in May 2016. In addition, restructuring expenses include legal and consulting costs associated with this action.  
+
+20 
+
+Other Income (Expense), Net 
+  Other income (expense), net consists primarily of interest expense on our outstanding debt and foreign exchange gains and losses, as well as income related to our investments. Included in other income for the   nine   months ended   September 30, 2015   is a gain related to the disgorgement of profits from a stockholder to us in settlement of a claim under Section 16(b) of the Exchange Act. 
+    
+  Provision For Income Taxes 
+  Provision for income taxes consists of federal and state income taxes in the United States and income taxes in certain foreign tax jurisdictions. Since we have generated net losses, we have placed a valuation allowance against any potential future benefits for loss carryforwards and research and development and other tax credits. 
+
+Results of Operations 
+  The following tables set forth our statement of operations data, both in absolute dollars and as a percentage of total revenues (dollars in thousands, except per share amounts): 
+
+21 
+
+(1) 
+    Stock-based compensation was included in our Consolidated Statements of Operations data as follows (dollars in thousands): 
+
+(2) 
+    Total other income in the   nine   months ended   September 30, 2015   included a $1.1 million gain related to the disgorgement of profits to us from a stockholder in settlement of a claim under Section 16(b) of the Exchange Act. 
+
+22 
+
+Revenues 
+
+Product Revenues 
+  The increases in product revenue in the   three and nine  -month periods ended   September 30, 2016   compared to the same periods in   2015   was primarily the result of an increase in the average annual subscription value and which was primarily driven by upsell to existing customers. The average new customer initial contract size remained consistent in the 2016 periods compared to the 2015 periods.  
+    
+  Certain information regarding our revenues was as follows: 
+
+Renewal rates, excluding upsell, were slightly above 90% for transactions over $50,000 in the three-month period and in the mid-80% range in the nine-month period ended   September 30, 2016  . Renewal rates were slightly below 90% for the   three and nine  -month periods ended   September 30, 2015  .  
+    
+  We continue to expect that the recent deceleration in short term billings growth will negatively impact future revenue results. 
+
+Professional Services Revenues 
+  The   increase  s in professional services revenue in the three and   nine  -month periods ended   September 30, 2016   compared to the same periods in   2015   were primarily due to an increase in bundled services sold during the 2015 period with the related revenue being recognized in the current period, consistent with their subscription terms. Professional services revenues as a percentage of product revenues remained consistent in both the   three and nine  -month periods ended   September 30, 2016   compared to the   2015   periods. We expect these percentages to experience minor fluctuations as we focus our professional services organization on strategic consulting and migrating existing customers to the Jive Cloud, which requires less customization work to implement. 
+    
+  We offer professional services as both standalone and bundled services. When sold as standalone services, the contract revenue is recognized as the services are delivered. For our bundled services, the amounts are recognized ratably over the relevant subscription term. Standalone professional services revenues in the three and   nine  -month periods ended   September 30, 2016   decreased   $0.2 million   and   $0.4 million  , respectively, compared to the same periods in   2015  . Bundled professional services  
+  
+   23 
+
+revenues in the three and   nine  -month periods ended   September 30, 2016   increased   $0.3 million   and   $1.1 million  , respectively, compared to the same periods in   2015  . 
+
+Cost of Revenues and Gross Margins 
+    
+  Cost of Revenues: Product 
+
+The decrease in cost of revenues for products in the three-month period ended   September 30, 2016   compared to the same period in 2015 was primarily due to: 
+
+a $0.5 million decrease in acquired intangibles amortization expense;  
+                
+    a $0.4 million decrease in depreciation expense; 
+                
+    a $0.4 million decrease in support costs; 
+                
+    a $0.2 million decrease in third-party hosting services; 
+                
+    a $0.2 million decrease in third-party royalty expense; and 
+                
+    a $0.2 million decrease in stock-based compensation. 
+       
+  The decreases in costs of revenue for products noted above were partially offset by a $0.3 million increase in capitalized software amortization, a $0.3 million increase in bonus expense, and a $0.3 million increase in miscellaneous expenses. 
+    
+  Cost of revenues for products in the   nine  -month period ended   September 30, 2016   remained relatively consistent compared to the same period in   2015  .  
+
+Cost of Revenues: Professional Services 
+
+The decreases in cost of revenues for professional services in the three and   nine  -month periods ended   September 30, 2016   compared to the same periods in   2015   were primarily due to the following: 
+
+a $1.0 million and a $1.2 million decrease, respectively, in salaries and benefits;  
+                
+    a $0.1 million and a $0.2 million decrease, respectively, in travel and entertainment expenses; and 
+                
+    a $0.3 million decrease in miscellaneous expense for the nine-month period. 
+     
+   24 
+
+The increases in professional services gross margin in the three and   nine  -month periods ended   September 30, 2016   compared to the same periods in   2015   were primarily driven by the 2016 Realignment Plan enacted in the prior quarter and which resulted in a reduction in salaries and benefits within the professional services organization.  
+
+Research and Development 
+
+The decreases in research and development expenses in the three and   nine  -month periods ended   September 30, 2016   compared to the same periods in   2015   were primarily due to: 
+
+a $0.9 million and a $2.4 million decrease, respectively, in salaries and benefits; 
+                
+    a $0.7 million and a $3.2 million decrease, respectively, in stock-based compensation; 
+                
+    a $0.4 million and a $0.5 million decrease, respectively, in overhead costs allocated to research and development based on relative headcount in the 2016 periods compared to the same periods of 2015;  
+                
+    a $0.3 million and a $0.2 million decrease, respectively, in miscellaneous expenses; 
+                
+    a $0.1 million and a $0.3 million decrease, respectively, in subscription services; 
+                
+    a $0.1 million and a $0.2 million decrease, respectively, in depreciation expense; and 
+                
+    a $0.6 million decrease in intangible asset amortization expense for the nine-month period. 
+       
+  The decreases noted above were partially offset by: 
+
+a $0.2 million and a $0.4 million increase, respectively, in third-party hosting expense; and 
+                
+    a $0.1 million and a $0.8 million increase, respectively, in consulting fees. 
+       
+  Sales and Marketing 
+
+25 
+
+The decreases in sales and marketing expenses in the three and   nine  -month periods ended   September 30, 2016   compared to the same periods in   2015   were primarily due to: 
+
+a $1.1 million decrease in salaries and benefits for the three-month period; 
+                
+    a $0.8 million decrease in general marketing expense for the nine-month period; 
+                
+    a $0.8 million and a $0.6 million decrease, respectively, in professional fees; 
+                
+    a $0.5 million and a $0.7 million decrease, respectively, in travel and entertainment expenses; 
+                
+    a $0.3 million and a $0.2 million decrease, respectively, in miscellaneous expenses;  
+                
+    a $0.2 million and a $0.4 million decrease, respectively, in advertising expenses; and 
+                
+    a $0.2 million decrease in amortization expense for the nine-month period. 
+       
+  The decreases noted above were partially offset by: 
+
+a $1.9 million increase in trade shows and events expenses for the nine-month period; and 
+                
+    a $0.6 million increase in sales commissions for the three-month period.  
+       
+  General and Administrative 
+
+The decreases in general and administrative expenses in the three and   nine  -month periods ended   September 30, 2016   compared to the same periods in   2015   were primarily due to: 
+
+a $0.8 million and a $1.3 million decrease, respectively, in recruiting and agency placement fees; 
+                
+    a $0.4 million and a $1.0 million decrease, respectively, in consulting fees; and 
+                
+    a $0.2 million and a $0.9 million decrease, respectively, in stock-based compensation. 
+       
+  The decreases noted above were partially offset by: 
+
+a $0.7 million and a $1.5 million increase, respectively, in salaries and benefits expenses; 
+                
+    a $0.4 million increase in subscription service expenses in the nine-month period; and 
+                
+    a $0.2 million increase in miscellaneous expenses in the the nine-month period. 
+       
+  Restructuring 
+
+26 
+
+Restructuring expenses in the three and   nine  -month periods ended   September 30, 2016   were related to our 2016 Realignment Plan, which was enacted during the second quarter of 2016, and primarily consists of severance and severance related benefits. 
+    
+  Other Income, net 
+
+The slight increase in other income, net in the three-month period ended   September 30, 2016   compared to the same period in   2015   was primarily due to a $0.1 million increase in interest income, partially offset by an increase in unrealized foreign currency loss. 
+    
+  The decrease in other income, net in the   nine  -month period ended   September 30, 2016   compared to the same period of   2015   was primarily due to a $1.1 million disgorgement of profit from a stockholder to us in connection with the settlement of a claim under Section 16(b) of the Exchange Act recognized in the   nine  -month period ended September 30, 2015 that did not recur in 2016, partially offset by a $0.3 million increase in other income and a $0.2 million increase in interest income.  
+    
+  Provision For Income Taxes 
+
+In the first   nine   months of both 2016 and 2015, we recorded income taxes that were principally attributable to state and foreign taxes. We believe that the recognition of the deferred tax assets arising from future tax benefits as a result of our losses before provision for income taxes is not more likely than not to be realized. We therefore continued to record valuation allowances against our deferred tax assets and, accordingly, benefits generated related to losses were offset by increases in the valuation allowance. 
+  
+   27 
+
+Liquidity and Capital Resources 
+
+We have financed our operations primarily through issuances of preferred stock, borrowings under our credit facility, cash generated from customer sales and the proceeds from our initial public offering, which closed on December 16, 2011. 
+    
+  Our principal source of liquidity at   September 30, 2016   consisted of $  7.1 million   of cash and cash equivalents, $  94.4 million   of short-term marketable securities and $  1.0 million   of non-current marketable securities. As of   September 30, 2016  , $  4.0 million   of our cash was held in foreign bank accounts. Our principal needs for liquidity include funding of our operating losses, working capital requirements, capital expenditures, debt service and acquisitions. We believe that our available resources are sufficient to fund our liquidity requirements for at least the next 12 months from   September 30, 2016  . 
+    
+  Free cash flow, which we define as cash flows provided by operating activities less principal payments on capital leases and purchases of property and equipment, was negative   $7.6 million   in the first   nine   months of   2016  . This is primarily due to increased severance and severance related costs as a result of the 2016 Realignment Plan, which we enacted in the second quarter of 2016.  
+
+Cash Flows from Operating Activities 
+  Cash flows used in operating activities were $  5.5 million   during the first   nine   months of   2016   compared to cash flows provided by operating activities of $  4.5 million   in the first   nine   months of   2015  . Changes to our operating cash flows are historically impacted by changes in our billings and our timeframe to collect the cash from outstanding accounts receivable, or days billings outstanding, offset by funding our growth and working capital needs. In the future, we may enter into material contracts requiring prepayments that may contribute to an increase in our cash flows used in operating activities. 
+    
+  The $  5.5 million   of cash used in operating activities in the first   nine   months of   2016   resulted from our net loss of   $14.9 million   and a   $25.8 million   decrease in deferred revenue, partially offset by net non-cash charges of   $21.5 million  . Net cash flows from operating activities during the   nine   months ended   September 30, 2016   decreased   $10.1 million   over the same period a year ago primarily due to a reduction in bookings from the prior year, partially offset by a decrease in net loss. Additionally, the timing of payments against accounts payable contributed to the decrease. 
+    
+  Cash Flows from Investing Activities 
+  Our primary investing activities have consisted of purchases of investments and purchases of property and equipment, primarily related to the build out of our data centers and leased facilities. The $  4.9 million   of cash provided by investing activities in the first   nine   months of 2016 included   $7.0 million   provided by maturities and sales of marketable securities, net of purchases, partially offset by $  2.0 million   used for purchases of property and equipment. 
+    
+  Cash Flows from Financing Activities 
+  Our financing activities have consisted primarily of repayments under our revolving credit facilities and the net proceeds from the issuance of our common stock from employee option exercises and other equity awards. Cash used in financing activities of $  2.2 million   in the first   nine   months of   2016   resulted from   $1.8 million   in principal payments on our term debt and   $0.6 million   in taxes paid related to the net settlement of equity awards, partially offset by   $0.3 million   of proceeds related to the exercise of stock options. 
+  
+   28 
+
+Debt Arrangements 
+    
+  Revolving Loan and Term Loan Facility 
+  We have a secured revolving loan facility and term loan facility of up to $  30.0 million  . Revolving loans may be converted into term loans under the facility, with all outstanding term loans reducing the availability under the revolving loan facility. Interest is accrued, at our option, at (i) an adjusted LIBOR rate, plus a margin of 2.0% or 2.25%, or (ii) the prime rate, plus a margin of 0.25% or 0.50%, in each case with such margin determined based on our adjusted quick ratio. 
+    
+  Repayment on our term loan began July 1, 2012, and is payable in quarterly installments. Each of the installment payments is $0.6 million, plus accrued interest. At   September 30, 2016  , we had $  0.6 million   of outstanding letters of credit and no revolving loans outstanding, $  1.8 million   of term loans outstanding at an interest rate of   2.83%   and we were in compliance with all financial and restrictive covenants. 
+
+Off-Balance Sheet Arrangements 
+  Except as disclosed within Note 9 of the Condensed Notes to the Consolidated Financial Statements in this Quarterly Report on Form 10-Q, we do not have any off-balance sheet arrangements that have or are reasonably likely to have a material current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources. 
+
+Item 3.    Quantitative and Qualitative Disclosures About Market Risk 
+    
+  There have been no material changes in our reported market risks or risk management policies since the filing of our   2015   Annual Report on Form 10-K, which was filed with the SEC on   February 29, 2016  . 
+
+Item 4.    Controls and Procedures 
+    
+  Evaluation of Disclosure Controls and Procedures 
+  Our management is responsible for establishing and maintaining adequate internal control over financial reporting. Management, with the participation of our chief executive officer and our chief financial officer, evaluated the effectiveness of our disclosure controls and procedures as of   September 30, 2016  . The term  disclosure controls and procedures,  as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company s management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based on the evaluation of our disclosure controls and procedures as of   September 30, 2016  , our chief executive officer and chief financial officer concluded that, as of such date, our disclosure controls and procedures were effective. 
+    
+  Changes in Internal Control Over Financial Reporting 
+  There were no changes in our internal control over financial reporting identified in connection with the evaluation required by Rule 13a-15(d) and 15d-15(d) of the Exchange Act that occurred during the quarter ended   September 30, 2016   that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+PART II   OTHER INFORMATION 
+
+Item 1A.    Risk Factors 
+    
+  Our operations and financial results are subject to various risks and uncertainties including those described below. You should carefully consider the following risk factors, together with all of the other information in this Quarterly Report on Form 10-Q and our Annual Report on Form 10-K, including the Consolidated Financial Statements and the related notes included elsewhere herein and therein, before deciding whether to invest in shares of our common stock. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties that we are unaware of, or that we currently believe are not material, may also become important factors that adversely affect us. If any of the following risks or others not specified below materialize, our  
+  
+   29 
+
+business, financial condition and results of operations could be materially adversely affected. In that case, the market price of our common stock could decline. 
+
+Risks Related to our Business and Industry 
+    
+  We have a history of cumulative losses and we do not expect to be profitable for the foreseeable future. 
+    
+  We have incurred losses in each of the last seven years and in the first   nine   months of   2016  , including a net loss of   $14.9 million   in the first   nine   months of   2016  , $34.9 million in   2015   and $56.2 million in   2014  . At   September 30, 2016  , we had an accumulated deficit of $  333.4 million  . As we continue to invest in infrastructure, development of our solutions and international operations and changes to our sales and marketing efforts, our operating expenses may continue to increase. Further, the changes to our sales and marketing efforts to align more closely with our go-to-market strategies, and increase our focus on the large and mid-sized enterprise segments of our markets may not result in increases in our revenues or billings or provide the gross margin improvements we anticipated, which may result in us undertaking additional cost savings initiatives or identifying opportunities to achieve greater efficiencies in how we conduct our business. Additionally, the cost savings initiatives we have implemented in connection with the 2016 Realignment Plan, and any cost savings initiatives we implement in the future, may not achieve their intended results and could materially and adversely affect our business, billings, revenue, renewal rates and operating results. 
+    
+  Although we have experienced revenue growth in prior periods, our revenue growth has slowed and you should not consider any previous revenue growth or growth rates as indicative of our future performance. We cannot assure you that we will achieve profitability on a GAAP basis in the future or that, if we do become profitable, we will sustain profitability. 
+    
+  Our quarterly results are likely to fluctuate due to a number of factors, and the value of our stock could decline substantially. 
+    
+  Our quarterly operating results are likely to fluctuate. For example, our fourth quarter has historically been our strongest quarter for new billings and renewals. This pattern may be amplified over time if the number of customers with renewal dates occurring in the fourth quarter continues to increase. Fluctuations in our quarterly financial results may be caused by a number of factors, many of which are out of our control. These factors include, but are not limited to, the following: 
+
+the renewal rates for our products; 
+                
+    upsell rates for our solutions and services; 
+                
+    changes in deferred revenue balances due to changes in the average duration of subscriptions, rate of renewals, timing of renewal billings, composition of billings for professional services, amount of multi-year prepayments, amount of non-renewable perpetual license billings and the rate of new business growth; 
+                
+    changes in the composition of current period billings; 
+                
+    changes in the mix of the average term length and payment terms; 
+                
+    changes in the mix of our revenue derived from internal and external communities; 
+                
+    the amount and timing of operating costs and capital expenditures related to our operations and any future expansion of our business; 
+                
+    the impact of the 2016 Realignment Plan and when the charges related to such plan are recognized; 
+                
+    whether the cost savings associated with the 2016 Realignment Plan are achieved, and if achieved, the amount and timing of such costs savings; 
+                
+    the disruption caused to the business by the implementation of the 2016 Realignment Plan; 
+                
+    changes in our go-to-market strategy; 
+                
+    changes in our pricing policies, whether initiated by us or as a response to competitive or other factors; 
+                
+    the cost and timing associated with, and management effort for, the introduction of new products and product features; 
+                
+    the rate of productivity of our sales force, and any future expansion of our sales force; 
+                
+    the length of the sales cycle for our products; 
+                
+    the success of our channel partners and strategic partners in reselling our products; 
+                
+    new solution introductions by our competitors; 
+                
+    our success in selling our platform to large enterprises; 
+                
+    general economic conditions that may adversely affect either our customers  ability or willingness to purchase additional subscriptions or a larger deployment, or hinder or delay a prospective customer s purchasing decision, or reduce the value of new subscriptions, or affect renewal rates or the timing of renewals; 
+     
+   30 
+
+timing of additional investments in the development of our platform or deployment of our services; 
+                
+    disruptions in our hosting services or our inability to meet service level agreements and any resulting refunds to customers; 
+                
+    security breaches and potential financial penalties to customers and government entities; 
+                
+    concerns over government-sponsored electronic surveillance activities; 
+                
+    purchases of new equipment and bandwidth in connection with our data center operations; 
+                
+    regulatory compliance costs; 
+                
+    potential delay in revenue recognition for product acceptance rights; 
+                
+    the timing of customer payments and payment defaults by customers; 
+                
+    the impact on services margins as a result of the use of third-party contractors to fulfill demand; 
+                
+    the impact on services margins as a result of periods of less than full utilization of our full-time services employees; 
+                
+    costs associated with acquisitions of companies and technologies; 
+                
+    potential goodwill, other long-lived asset or capitalized software development cost impairment; 
+                
+    the impact of capitalized research and development costs on current and future periods; 
+                
+    extraordinary expenses such as litigation or other dispute-related settlement payments; 
+                
+    adjustments arising from future foreign, federal, state and local sales and income tax examinations; 
+                
+    the impact of new accounting pronouncements; and 
+                
+    the timing and size of stock awards to employees. 
+       
+  Based on the factors described above, we believe that our quarterly operating results may vary significantly in the future and that period-to-period comparisons of our operating results may not be indicative of future results. 
+    
+  In addition, due to our evolving business model and the implementation of the 2016 Realignment Plan, the rapid pace of technological change, the unpredictability of the emerging market in which we participate, and potential fluctuations in future general economic and financial market conditions, we may not be able to accurately forecast our rate of growth. We plan our expense levels and investments on estimates of future billings, revenues and anticipated rate of growth. We may not be able to adjust our spending quickly enough if the addition of new customers, the upsell rate for existing customers, or the price for which we are able to sell our platform is below our expectations. As a result, we expect that our billings, revenues, operating results and cash flows may fluctuate significantly and comparisons of our billings, revenues, operating results and cash flows may not be meaningful and should not be relied upon as an indication of future performance. 
+    
+  Furthermore, we may fail to meet or exceed the expectations of securities analysts and investors, and the market price for our common stock could decline. If one or more of the securities analysts who cover us change their recommendation regarding our stock adversely, the market price for our common stock could decline. Additionally, our stock price may be based on expectations, estimates or forecasts of our future performance that may be unrealistic or may not be achieved. Further, our stock price may be affected by financial media, including press reports and blogs. 
+    
+  Because we generally recognize revenues from subscriptions for our products ratably over the term of the agreement, near term changes in sales may not be reflected immediately in our operating results. 
+    
+  We generally recognize revenues from customers ratably over the term of their agreements, which generally range from 12 to 36 months. As a result, most of the revenues we report in each quarter are derived from the recognition of deferred revenue relating to subscription agreements entered into during previous quarters or years. Consequently, a decline in new or renewed subscriptions in any one quarter is not likely to be reflected immediately in our revenues results for that quarter. Such declines, however, would negatively affect our revenues in future periods and the effect of significant downturns in sales and market acceptance of our solutions, and potential changes in our rate of renewals, may not be fully reflected in our results of operations until future periods. Our subscription model also makes it difficult for us to rapidly increase our total revenues through additional sales in any period, as revenues from new customers must be recognized over the applicable subscription term. In some instances, our customers choose to pre-pay the entire term of their multi-year subscriptions up front. As a result, billings can fluctuate significantly from quarter to quarter. 
+    
+  Our future success is, in large part, dependent upon the widespread adoption of collaboration software by enterprises and it is difficult to forecast the rate at which this will happen. 
+    
+  Collaboration software for enterprises remains at an early stage of technological and market development and the extent to which enterprise collaboration software will become widely adopted remains uncertain. It continues to remain difficult to predict customer adoption rates, customer demand for our platform, the future growth rate and size of this market and the entry of competitive solutions. Any expansion of the enterprise collaboration software market depends on a number of factors, including the cost,  
+  
+   31 
+
+performance and perceived value and benefits associated with enterprise collaboration software. If enterprise collaboration software does not achieve widespread adoption, or if there is a reduction in demand for enterprise collaboration software caused by a lack of customer acceptance, technological challenges, weakening economic conditions, competing technologies and products, decreases in corporate spending or otherwise, it could result in lower billings, reduced renewal rates and decreased revenues and our business could be adversely affected. Additionally, mergers or consolidations among our customers could reduce the number of our customers and could adversely affect our revenues and billings. In particular, if our customers are acquired by entities that are not our customers, are customers of our competitors, or that use fewer of our solutions, or that have more favorable contract terms and choose to discontinue, reduce or change the terms of their use of our platform, our business and operating results could be materially and adversely affected. 
+    
+  The market for enterprise collaboration software is intensely competitive, and if we do not compete effectively, our business will be harmed. 
+    
+  The market for enterprise collaboration software is highly competitive and rapidly evolving with new competitors entering the market. We expect the competitive landscape to continue to intensify in the future as a result of regularly evolving customer needs and frequent introductions of new products and services. We currently compete with large well-established multi-solution enterprise software vendors, stand-alone enterprise software application providers, and smaller software application vendors. Our primary competition for internal communities currently comes from large well-established enterprise software vendors such as Microsoft Corporation, IBM Corporation and salesforce.com, inc., each of which is significantly larger than we are, have greater name recognition, larger customer bases, much longer operating histories, significantly greater financial, technical, sales, marketing and other resources, and is able to provide comprehensive business solutions that are broader in scope than the solutions we offer. These well-established vendors may have preexisting relationships with our existing and potential customers and to the extent our solutions are not viewed as being superior in features, function and integration or priced competitively to existing solutions, we might have difficulty displacing them. We also compete with stand-alone enterprise software applications that have begun adding social features to their existing offerings. Some of these companies have large installed bases of active customers that may prefer to implement enterprise collaboration software solutions that are provided by an existing provider of customer management software, and these companies may be able to offer discounts and other pricing incentives that make their solutions more attractive. For our external community business, we also compete with standalone privately-held software providers, whose primary products are focused on providing external communities to their customers. For our team-based real time messaging business, we compete with many smaller startup software providers, whose primary products are focused on providing real time messaging products to their customers. In addition, large social and professional networking providers with greater name recognition, financial resources and other resources may add enterprise collaboration applications to their existing applications. Facebook recently launched Workplace by Facebook to provide an enterprise version of its social network service. Additionally in June 2016, Microsoft Corporation announced its plan to acquire LinkedIn, Inc., in an effort to combine Microsoft's existing products and services with LinkedIn's professional networking capabilities. In addition, our competitors have in the past, and may in the future, enter into strategic alliances with each other, resulting in increased competition. To the extent that our competitors are successful in combining these social networking capabilities with their existing products and to the extent social and professional networking providers are able to adapt their solutions to the enterprise collaboration market, we could experience increased competition, which could adversely affect our billings, renewal rates, revenues and margins. 
+    
+  Some of our competitors offer their solutions at a lower price or at no incremental cost, which has resulted in pricing pressures and increased competition. If we are unable to price our solutions appropriately, our operating results could be negatively impacted. In addition, lower margins, pricing pressures and increased competition generally could result in reduced sales and billings, losses or the failure of our platform to achieve or maintain more widespread market acceptance, any of which could harm our business. Our current and potential competitors may also establish cooperative relationships among themselves or with third parties that may further enhance their product offerings or resources. Certain current competitors have been, and current or potential competitors may be, acquired by third parties with greater available resources and as a result of such acquisitions, might be able to adapt more quickly to new technologies and customer needs, devote greater resources to the promotion or sale of their solutions, initiate or withstand substantial price competition, take advantage of other opportunities more readily or develop and expand their offerings more quickly than we do. If we are unable to compete effectively for a share of our market, our business, operating results and financial condition could be materially and adversely affected. 
+    
+  Actions that we are taking to restructure our business to better align with our business model transition strategy may be costly and may not be as effective as anticipated. 
+    
+  In May 2016, we implemented our 2016 Realignment Plan, which is designed to ensure that we have the correct cost structure and go-to-market strategies in place to achieve our desired corporate and operating results going forward, as well as align our operations with evolving business needs and improve efficiencies. However, there may be adverse consequences related to such  
+  
+   32 
+
+actions which include various charges for severance and severance-related costs and the loss of propriety information and in-house knowledge in connection with the planned reduction in our workforce. 
+    
+  This type of restructuring activity may result in business disruptions and may not produce the full efficiency and cost reduction benefits anticipated. Further, the benefits may be realized later than expected and the cost of implementing these measures may be greater than anticipated. If these measures are not successful, we may need to undertake additional cost reduction efforts, which could result in future charges. Moreover, the 2016 Realignment Plan may cause business disruptions with customers and elsewhere if our cost reduction and realignment efforts prove ineffective. As such, our ability to achieve our strategic goals and business plans as well as our business, results of operations and financial condition could be materially negatively impacted.  
+    
+  We have made changes to the structure, scale and makeup of the sales organization and their focus which may harm our future operating results. 
+    
+  We have recently made changes to our sales leadership and, in connection with the 2016 Realignment Plan, intend to increase our focus on large and mid-sized enterprise customers, reduce the size of our inside sales organization, place greater emphasis on selling our cloud-based solutions, continue to migrate customers to the cloud and rebalanced our investments to align with our more focused go-to market strategies. There is no guarantee that these changes will increase our revenue and it could adversely affect billings, renewal rates and revenues and our business and operating results could be negatively impacted. 
+    
+  We cannot accurately predict new subscription, subscription renewal or upsell rates and the impact these rates may have on our future revenues and operating results. 
+    
+  In order for us to improve our operating results and continue to grow our business, it is important that we continually attract new customers and that existing customers renew their subscriptions with us when their existing contract term expires. Our existing customers have no contractual obligation to renew their subscriptions after the initial subscription period and we cannot accurately predict renewal rates. Many of our customers  renewal rates may decline or fluctuate as a result of a number of factors, including, but not limited to, their satisfaction with our products and our customer support, the level of usage of our platform within their enterprise, the frequency and severity of outages, our product uptime or latency, the pricing of our, or competing, software or professional services, the effects of global economic conditions, and reductions in spending levels or changes in our customers  strategies regarding enterprise collaboration tools. If our customers renew their subscriptions, they may renew for fewer users or page views, for shorter contract lengths or on other terms that are less economically beneficial to us. In recent quarters, our renewal rates, excluding upsell, have generally been in the mid-80 percent range for transactions over $50,000, and we expect them to continue to fluctuate in future periods. If customers enter into shorter initial subscription periods, the risk of customers not renewing their subscriptions with us would increase and our billings and revenues may be adversely impacted. We cannot assure you that our customers will renew their subscriptions, and if our customers do not renew their agreements or renew on less favorable terms, our revenues may grow more slowly than expected or decline and our billings may be adversely impacted. 
+    
+  To the extent we are successful in increasing our customer base, we could incur increased losses because costs associated with generating customer agreements and performing services are generally incurred up front, while revenue is recognized ratably over the term of the agreement. This risk is particularly applicable for those customers who choose to deploy our products in hosted and cloud instances. If new customers sign agreements with short initial subscription periods and do not renew their subscriptions, our operating results could be negatively impacted due to the upfront expenses associated with our sales and implementation efforts. Alternatively, to the extent we are unsuccessful in increasing our customer base, we could also incur increased losses as costs associated with marketing programs and new products intended to attract new customers would not be offset by future incremental revenues and cash flow. 
+    
+  In order for us to improve our operating results, it is important that our customers make additional significant purchases of our functionality and offerings, including additional communities, modules, users or page views or professional services. If our customers do not purchase additional functionality or offerings, our revenues may grow more slowly than expected. Additionally, increasing incremental sales to our current customer base requires increasingly sophisticated and costly sales efforts that are targeted at senior management. We also invest various resources targeted at expanding the utilization rates of our products. There can be no assurance that our efforts would result in increased sales to existing customers, or upsells, and additional revenues. If our efforts to upsell to our customers are not successful, our business will suffer. 
+    
+  Additionally, our quarterly sales cycles are frequently more heavily weighted toward the end of the quarter with an increased volume of sales in the last few weeks of the quarter. If this trend becomes more exaggerated, it could negatively impact the timing of recognized revenues, cash collections and delivery of professional services in subsequent periods. Furthermore, the concentration of contract negotiations in the last few weeks of the quarter could require us to hire additional sales, legal and finance employees. 
+
+33 
+
+We depend on key personnel, members of our board of directors and our senior management team to run and oversee our business, and the loss of one or more key employees or the inability of replacements to quickly and successfully perform in their roles could harm our business and prevent us from implementing our business plan in a timely manner. 
+    
+  Our success depends largely upon the continued services of our executive officers, which includes key leadership in the areas of research and development, marketing, sales, product, services and the general and administrative functions. Any loss of the services of our senior management or our key personnel, the inability to attract or retain qualified personnel, or delays in hiring required personnel could significantly delay or prevent the achievement of our development and strategic objectives, and may adversely affect our business, financial condition and operating results. Our productivity and the quality of our products may be adversely affected if we do not integrate and train our new employees quickly and effectively. In May 2016, we implemented our 2016 Realignment Plan, which included a reduction in our workforce that resulted in the termination of approximately 14% of personnel across our global operations. Although our key personnel were not directly affected by the reduction in workforce, the terminations of others may have had a negative impact on morale and our ability to retain current personnel, as well as attract and hire new qualified personnel in the future. 
+    
+  In the last twelve months, we have announced the departure of five of our board members, including those who were not nominated for re-election. In addition, we have experienced changes in our management team over the past two years and, therefore, our current management team has only been working together for a short period of time. Furthermore, from time to time, there may be additional changes in our executive management team resulting from the hiring or departure of executives which could disrupt our business. In the future, there may be additional changes to our board of directors or management team which could divert management s attention and disrupt our business. 
+    
+  Our personnel do not have employment arrangements that require them to continue to work for us for any specified period and, therefore, they could terminate their employment with us at any time. We do not maintain key person life insurance policies on any of our employees. The loss of one or more of our key employees or groups could seriously harm our business. 
+    
+  Because competition for our target employees is intense, we may not be able to attract and retain the highly skilled employees we need to support our operations and customer base. 
+    
+  Our future success will depend, in part, on our continued ability to identify, hire, develop, motivate and retain talent. In the software industry in general, and in the San Francisco Bay Area specifically, there is substantial and continuous competition for software engineers with high levels of experience in designing, developing and managing software, as well as competition for sales executives and operations personnel. We may not be successful in attracting and retaining qualified personnel. We have, from time to time, experienced, and we expect to continue to experience, difficulty in hiring and retaining highly skilled employees with appropriate qualifications. Additionally, the workforce reduction implemented in connection with the 2016 Realignment Plan may adversely affect our ability to attract and retain such highly skilled employees. In addition, job candidates and existing employees often consider the value of the stock awards they receive in connection with their employment. If the value of our stock does not increase or declines, it may adversely affect our ability to retain highly skilled employees. In addition, since we expense all stock-based compensation, we may periodically change our stock compensation practices, which may include reducing the number of employees eligible for options or reducing the size of equity awards granted per employee. If the anticipated value of such stock-based incentive awards does not materialize, if our stock-based compensation otherwise ceases to be viewed as a valuable benefit, or if our total compensation package is not viewed as being competitive, our ability to attract, retain, and motivate executives and key employees could be weakened. If we fail to attract new personnel or fail to retain and motivate our current personnel, our business and future growth prospects could be severely harmed. 
+    
+  Because our long-term success depends, in part, on our ability to expand our sales to customers outside the United States, our business will be susceptible to risks associated with international operations. 
+    
+  We sell our products primarily through our direct sales organization, which is comprised of inside sales and field sales personnel located in a variety of geographic regions, including the United States, Canada, the Asia Pacific region, South America and Europe. Sales outside of the United States represented approximately   27%  , 27% and 24% of our total revenues in the   nine   months ended   September 30, 2016   and the fiscal years ended   December 31, 2015   and   2014  , respectively. As we continue to expand sales of our products to customers located outside the United States, our business will be increasingly susceptible to risks associated with international operations. However, we have a limited operating history outside the United States, and our ability to manage our business and conduct our operations internationally, particularly in new geographies, requires considerable management attention and resources and is subject to particular challenges of supporting a business in an environment of diverse cultures, languages, customs, tax laws, legal systems, alternate dispute systems and regulatory systems. The risks and challenges associated with international expansion include: 
+
+34 
+
+the effects and any resulting negative economic impact of the U.K. s referendum to exit the EU; 
+                
+    continued localization of our platform, sales collateral and legal agreements, including translation into foreign languages and associated expenses; 
+                
+    laws and business practices favoring local competitors; 
+                
+    compliance with multiple, conflicting and changing governmental laws and regulations, including employment, tax, privacy and data protection laws and regulations; 
+                
+    compliance with anti-bribery laws, including compliance with the Foreign Corrupt Practices Act and the UK's Bribery Act 2010; 
+                
+    international customers  potential reluctance to do business with U.S. companies who host content and data as a result of concerns around alleged data monitoring activities by the United States National Security Administration (the  NSA  
+                
+    regional data privacy laws that apply to the processing of personal information, particularly those focused on the transmission of our customers  data across international borders; 
+                
+    ability to provide local hosting, consulting and support services; 
+                
+    different pricing environments, including invoicing and collecting in foreign currencies and associated foreign currency exposure; 
+                
+    difficulties in staffing and managing foreign operations and the increased travel, infrastructure, accounting, tax and legal compliance costs associated with international operations; 
+                
+    different or lesser protection of our intellectual property rights; 
+                
+    difficulties in enforcing contracts and collecting accounts receivable, longer payment cycles and other collection difficulties; 
+                
+    regional economic and political conditions; 
+                
+    disruption as a result of the obligation of certain of our personnel in Israel to perform military service; and 
+                
+    security concerns such as civil or military unrest and terrorist activities. 
+       
+  Additionally, a substantial majority of our international customers currently pay us in U.S. dollars and, as a result, fluctuations in the value of the U.S. dollar and foreign currencies may make our platform more expensive for international customers, which could harm our business. In the future, an increasing number of our customers may pay us in foreign currencies. Any fluctuation in the exchange rate of these foreign currencies or pressure on the creditworthiness of sovereign nations, particularly in Europe, may negatively impact our business. If we are unable to successfully manage the challenges of international operations and expansion, our growth could be limited, and our business and operating results could be adversely affected. 
+    
+  Our sales cycle can be long and unpredictable, particularly with respect to large enterprises, and we may have to delay revenue recognition for some of the more complex transactions, which could harm our business and operating results. 
+    
+  The timing of our sales is difficult to predict. Our sales efforts involve educating our customers, frequently at an executive level, about the use, potential return on investment, technical capabilities, security and other benefits of our products. Customers often undertake a prolonged product-evaluation process which frequently involves not only our solutions but also those of our competitors. As we continue to increase the focus of our sales efforts on large and mid-sized enterprise customers in connection with the 2016 Realignment Plan, we will face greater costs, longer sales cycles and less predictability in completing some of our sales. In this market segment, the customer s decision to subscribe to our platform may be an enterprise-wide decision and, if so, may require us to provide even greater levels of education regarding the use and benefits of our products and obtain support from multiple departments within larger enterprises, as well as obtain support from the IT departments. In addition, prospective enterprise customers may require customized features and functions unique to their business process and may require acceptance testing related to those unique features. As a result of these factors, these sales opportunities may require us to devote greater sales support, operational support, technical support and professional services resources to individual customers, increasing costs and time required to complete sales and diverting our own sales and professional services resources to a smaller number of larger transactions, while potentially requiring us to delay revenue recognition on some of these transactions until the acceptance requirements have been met. 
+    
+  Our internally managed data hosting facilities expose us to additional risks which could result in operational inefficiencies, increase our costs and ultimately have a negative impact on our business. 
+    
+  Our internally managed hosting facilities are vulnerable to damage or interruption from natural disasters, fires, power loss, telecommunications failures and similar events. They are also subject to employee negligence, break-ins, computer viruses, sabotage, intentional acts of vandalism and other misconduct. The occurrence of any of these disasters, or other unanticipated  
+  
+   35 
+
+problems, could result in lengthy interruptions in our service, which would materially impact our customers  use of our offerings and may result in financial penalties for which we will be directly and solely responsible. 
+    
+  In addition, we are subject to other risks and challenges inherent in managing the infrastructure that hosts our customer communities, including any failure to properly plan for our infrastructure capacity requirements and our inability to obtain and maintain the technologies and personnel necessary to cause the hosting services to operate efficiently and in accordance with our contractual commitments, including those pertaining to uptime and security. 
+    
+  To the extent that we are required to add data center capacity to accommodate customer demands for additional bandwidth or storage to enable their communities, we may need to significantly increase the bandwidth, storage, power or other elements of our hosting operations, and the costs associated with adjustments to our data center architecture could also negatively affect our margins and operating results. 
+    
+  Interruptions or delays in our service as a result of a variety of factors could impair the delivery of our service and harm our business. 
+    
+  The availability of our platform could be interrupted by a number of factors, including disaster events at our hosting facilities, our customers  inability to access the Internet, the failure of our network or software systems due to human or other error, security breaches or inability of the infrastructure to handle spikes in customer usage. We may be required to issue credits or refunds or indemnify or otherwise be liable to customers or third parties for damages that may occur resulting from certain of these events. In December 2013, we experienced a hosting outage, which impacted several of our U.S. customers for up to 11.5 hours, as well as shorter outages in March 2014 and April 2015. Additionally, in November 2015, we experienced a hosting outage which resulted in varying periods of downtime during an approximately nine hour time period affecting several of our U.S. customers. As a result of these outages, we provided service credits to certain customers. Service credits provided to date have not been material, both individually and in the aggregate. If we experience similar outages in the future, we may experience customer dissatisfaction, the termination of customer contracts, potential contract liability and potential loss of confidence, which could harm our reputation and impact future revenues from these customers. 
+    
+  A rapid expansion of our business could cause our network or systems to fail. 
+    
+  In the future, we may need to expand our hosting operations at a more rapid pace than we have in the past, spend substantial amounts to purchase or lease data centers and equipment, upgrade our technology and infrastructure to handle increased customer demand and introduce new solutions. For example, if we secure a large customer or a group of customers which require significant amounts of bandwidth, storage or computing power to enable their communities, we may need to increase bandwidth, storage, server deployments, electrical power or other elements of our hosting operations and our existing systems may not be able to scale in a manner satisfactory to our existing or prospective customers.  
+    
+  We rely on third-party service providers to host some of our solutions and services and any interruptions or delays in services from such third parties could impair the delivery of our products and harm our business.  
+    
+  We currently outsource some of our hosting services to third-party hosting providers. In addition, we may outsource a larger portion of our hosting services and core offerings in the future. We do not control the operation of third party providers  facilities and therefore must rely on such providers to ensure that our technology and customer data is adequately protected.  The third party providers  facilities may be vulnerable to damage or interruption from natural disasters, fires, power loss, telecommunications failures and similar events. They are also subject to employee negligence, break-ins, computer viruses, sabotage, intentional acts of vandalism and other misconduct. The occurrence of any of these disasters, a decision by the provider to close the facilities without adequate notice or other unanticipated problems could result in lengthy interruptions in our service which would materially impact our customers  use of our offerings and may result in financial penalties.    
+    
+  If our internal or third-party vendors  security measures are breached or unauthorized access to customer data is otherwise obtained, our solutions may be perceived as not being secure, customers may reduce the use of or stop using our solutions and we may incur significant liabilities. 
+    
+  Our hosting operations involve the storage and transmission of customer data. In certain circumstances, we use third-party providers to assist in these operations. Security breaches or unauthorized access to customer data that we, or our third-party hosting providers, host could result in the misuse or loss of this information, litigation, indemnity obligations, regulatory fines and penalties and other liabilities. 
+
+36 
+
+Many of our customer and partner contracts provide that we assume full responsibility and will indemnify our customers for data privacy or security breaches or unauthorized access of customer data. If such a breach occurs, we could face contractual damages, damages and fees arising from our indemnification obligations, penalties for violation of applicable laws or regulations, possible lawsuits by affected individuals and significant remediation costs and efforts to prevent future occurrences. These risks increase as the adoption of our cloud-based products by enterprise customers increase.  
+    
+  In addition, whether there is an actual or a perceived breach of our security, the market perception of the effectiveness of our security measures could be harmed significantly and we could lose current or potential customers. For example, in August 2016, we became aware that usernames and passwords for our Producteev tool were held in a file outside our normal encryption procedures and we believe that this file may have potentially been accessed by an unauthorized third party. The Producteev tool is a standalone tool not utilizing the Jive core platform. Although we are unable to confirm whether or not any username and/or password data was in fact accessed, we notified all Producteev customers of this potential breach, which to date has not led to a material loss of revenue but may have had an effect on market perception of our security measures.   
+    
+  While we and our third-party vendors have security measures in place, these systems and networks are subject to ongoing threats and, therefore, these security measures may be breached as a result of third-party action, including cyber attacks or other intentional misconduct by computer hackers, employee error, failure to implement appropriate processes and procedures, malfeasance or otherwise. The frequency, severity, sophistication and public awareness of these cyber attacks or other intentional misconduct by computer hackers increased in recent years. If any such security breaches were to occur, it could result in one or more third parties obtaining unauthorized access to our customers  data or our data, including personally identifiable information, information covered by HIPAA, intellectual property and other confidential business information. Third parties may also attempt to fraudulently induce employees or customers into disclosing sensitive information such as user names, passwords or other information in order to gain access to our customers  data or our data, including intellectual property and other confidential business information. 
+    
+  Our hosting, support and professional services personnel sometimes must access customer communities to fulfill our contractual obligations to provide these services to our customers. This access may result in exposure to confidential customer data and personally-identifiable information that is stored within our platform. If our personnel or our software systems were to permit unauthorized loss or access to this data by a third party, our reputation could be damaged and we could incur significant liability. 
+    
+  As described above, we rely on certain third-party service providers to host and deliver services and data, and any interruptions or delays in these hosted services, any security or privacy breaches, or any failures in data collection could expose us to liability and harm our business and reputation. A security incident at any third-party hosting facility may compromise the confidentiality, integrity or availability of customer data. 
+    
+  Additionally, while our platform is not intended for the transmission or storage of credit card data, sensitive health, personal account or financial information and we contractually prohibit our customers from doing so, neither we nor our suppliers monitor or review the content that our customers upload and store within their communities. Therefore, we have no direct control over the substance or use of the content within our hosted communities. If customers use our platform for the transmission or storage of sensitive health, credit card, personal account or financial information and our security measures are breached our reputation could be damaged, our business may suffer and we could incur significant liability as many domestic and international laws place a higher burden of care on organizations that transmit and process this type of information. 
+    
+  Because techniques used to obtain unauthorized access or sabotage systems change frequently and generally are not identified until they are launched against a target, we may be unable to anticipate these techniques, to implement adequate preventative or mitigation measures or to detect any such security breaches in a timely manner. If an actual or perceived breach of our, or our third-party vendors', security occurs, it could negatively impact our ability to attract new customers and increase engagement by existing customers, cause existing customers to elect to not renew their subscriptions, subject us to third-party lawsuits, regulatory fines or other action or liability, thereby harming our reputation and our operating results. 
+    
+  In addition, through the Application Program Interfaces we make available to our customers and technology partners and through our add-on modules we deliver our customers may obtain third-party applications which access the data stored within their community. Because we do not control the transmissions between our customers and these third-party technology providers, or the processing of such data by third-party technology providers, we cannot ensure the complete integrity or security of such transmissions or processing. Any security breach could result in a loss of confidence in the security of our service, damage our reputation, disrupt our business, lead to legal and financial liability and negatively impact our future sales. 
+    
+  Because our platform could be used to collect and store personal information of our customers  employees or customers, privacy concerns could result in additional cost and liability to us or inhibit sales of our platform. 
+
+37 
+
+Personal privacy has become a significant issue in the United States and in many other countries where we offer our solutions. The regulatory framework for privacy issues worldwide is currently evolving and is likely to remain uncertain for the foreseeable future. Many federal, state and foreign government bodies and agencies have adopted or are considering adopting laws and regulations regarding the collection, use, disclosure, control and deletion of personal information. In the United States, these include, without limitation, rules and regulations promulgated under the authority of the Federal Trade Commission, HIPAA and state breach notification laws. Internationally, virtually every jurisdiction in which we operate has established its own data security and privacy legal framework with which we and our customers must comply. These obligations include, for example, the Data Protection Directive established in the EU, European Directive 2002/58/EC (commonly known as the  EU Cookie Law ), laws and regulations of EU member states, such as the German Federal Data Protection Act, and the Personal Data Protection Ordinance promulgated in Hong Kong.  
+    
+  Many of these obligations are frequently modified or updated and require ongoing supervision. For example, on April 14, 2016, the European Parliament formally adopted the General Data Protection Regulation (the  GDPR ), which will establish a new framework for data protection in Europe. The GDPR alters data protection requirements that exist under the Data Protection Directive and the EU Cookie Law, and may affect EU member state implementations of the Data Protection Directive. Between now and the time that the GDPR becomes effective in May 2018, we may need to modify our platform or our business to comply with new requirements contained in the GDPR or to address customer concerns relating to the GDPR, and any such measures may result in costs and expenses, and any failure to achieve required data protection standards may result in lawsuits, regulatory fines, or other actions or liability, all of which may harm our operating results. 
+    
+  In addition, with regard to transfers of personal data, from our employees and European customers to the United States, we historically have relied upon adherence to the U.S. Department of Commerce s Safe Harbor Privacy Principles and compliance with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks agreed to by the U.S. Department of Commerce and the EU and Switzerland, which, established a means for legitimizing the transfer of personal data by U.S. companies from the European Economic Area (the  EEA ), to the United States. The U.S.-EU Safe Harbor Framework was invalidated in October 2015 by a decision of the European Court of Justice (the  ECJ Ruling ). As a result of the ECJ Ruling, the Swiss data protection regulator has questioned the status of the U.S.-Swiss Safe Harbor Framework. In light of these events, we have engaged in measures designed to legitimize our transfers of personal data from the EEA to the United States, and may find it necessary or desirable to make other changes to our personal data handling. U.S. and EU authorities reached a political agreement on February 2, 2016 regarding a new potential means for legitimizing personal data transfers from the EEA to the United States, the EU-U.S. Privacy Shield. Although the EU-U.S. Privacy Shield was granted an adequacy decision by the EU College of Commissioners on July 12, 2016, and became available to U.S. companies on August 1, 2016, it still may be challenged by courts or data protection authorities. It is unclear whether the EU-U.S. Privacy Shield will serve as an appropriate means for us to legitimize personal data transfers from the EEA to the United States. We may be unsuccessful in establishing legitimate means for our transfer of personal data from the EEA or otherwise responding to the ECJ Ruling, and we may experience reluctance or refusal by current or prospective European customers to use our solutions. Our response to the ECJ Ruling may cause us to assume additional liabilities or incur additional expenses for implementing compliance requirements, and the ECJ Ruling and our response could adversely affect our billings. Additionally, we and our customers may face a risk of enforcement actions by data protection authorities in the EEA until the time, if any, that personal data transfers to us and by us from the EEA are legitimized under applicable EU data protection law. 
+    
+  In addition to government regulation, privacy advocacy and industry groups may propose new and different self-regulatory standards that either legally or contractually apply to us. Because the interpretation and application of privacy and data protection laws, regulations and standards are uncertain, it is possible that these laws, regulations and standards may be interpreted and applied in a manner that is inconsistent with our data management practices or the technological features of our solutions. If so, in addition to the possibility of fines, investigations, lawsuits and other claims and proceedings, it may be necessary or desirable for us to fundamentally change our business activities and practices or modify our software, which could have an adverse effect on our business. We may be unable to make such changes or modifications in a commercially reasonable manner or at all. Any inability to adequately address privacy concerns, even if unfounded, or any actual or perceived failure to comply with applicable privacy or data protection laws, regulations, standards and policies, could result in additional cost and liability to us, damage our reputation, inhibit sales and harm our business. 
+    
+  We expect that there will continue to be new proposed laws, regulations and industry standards concerning privacy, data protection and information security in the United States, the EU and other jurisdictions, and we cannot yet determine the impact such future laws, regulations and standards may have on our business. Because global laws, regulations and industry standards concerning privacy, data protection and information security have continued to develop and evolve rapidly, it is possible that our products may not be, or may not have been, compliant with each such applicable law, regulation, and industry standard. 
+
+38 
+
+Any such new laws, regulations, other legal obligations or industry standards, or any changed interpretation of existing laws, regulations or other standards may require us to incur additional costs and restrict our business operations. For instance, the U.K. s referendum to exit the EU has also created uncertainty with regard to the regulation of data protection in the U.K. In particular, it is unclear whether the U.K. will enact the EU Data Protection Directive, and how data transfers to and from the U.K. will be regulated. If our privacy or data security measures fail to comply with current or future laws, regulations, policies, legal obligations or industry standards, we may be subject to litigation, regulatory investigations, fines or other liabilities, as well as negative publicity and a potential loss of business. Moreover, if future laws, regulations, other legal obligations or industry standards, or any changed interpretations of the foregoing limit our customers  or partners  ability to use and share personally identifiable information or our ability to store, process and share personally identifiable information or other data, demand for our products could decrease, our costs could increase and our business, operating results and financial condition could be harmed.  
+    
+  Furthermore, the costs of compliance with, and other burdens imposed by, the laws, regulations, standards and policies that are applicable to the businesses of our customers may limit the use and adoption of, and reduce the overall demand for, our platform. Privacy concerns, whether valid or not valid, may inhibit market adoption of our platform particularly in certain industries and foreign countries. 
+    
+  For instance, publicity in recent years regarding the alleged surveillance activities of the NSA may cause our current and prospective customers to require additional information regarding our data disclosure policies which may elongate our sales cycles, require us to make additional contractual commitments, assume additional liabilities and adversely affect our billings. 
+    
+  If we fail to manage future growth effectively, we may be unable to execute on our business plan, maintain high levels of service or adequately address competitive challenges. 
+    
+  We have experienced growth in the past. For example, we have grown from 527 employees at December 31, 2012 to   590   at   September 30, 2016   and we have acquired six companies since January 2011. This growth has placed, and any future growth may place, a significant strain on our management and operational infrastructure, including our hosting operations and enterprise resource planning system. While we reduced the size of our workforce in connection with the 2016 Realignment Plan, we intend to continue to pursue growth opportunities. As such, our success in the future will depend, in part, on our ability to manage these changes effectively. We will need to continue to improve our operational, financial and management controls and our reporting systems and procedures, which may include the implementation of a new enterprise resource planning system in the future. Failure to effectively manage growth could result in declines in quality or customer satisfaction, increases in costs, difficulties in introducing new features or other operational difficulties. Any failure to effectively manage growth could adversely impact our business and reputation. 
+    
+  Changes in laws and/or regulations related to the Internet or related to privacy and data security concerns or changes in the Internet infrastructure itself may cause our business to suffer. 
+    
+  The future success of our business depends upon the continued use of the Internet as a primary medium for commerce, communication and business applications. Federal, state or foreign government bodies or agencies have in the past adopted, and may in the future adopt, laws or regulations affecting data privacy and the transmission of certain types of content using the Internet. For example, the State of California has adopted legislation requiring operators of commercial websites and mobile applications that collect personal information from California residents to conspicuously post and comply with privacy policies that satisfy certain requirements. Several other U.S. states have adopted legislation requiring companies to protect the security of personal information that they collect from consumers over the Internet, and more states may adopt similar legislation in the future. Additionally, the Federal Trade Commission has used its authority under Section 5 of the Federal Trade Commission Act to bring actions against companies for failing to maintain adequate security for personal information collected from consumers over the Internet and for failing to comply with privacy-related representations made to Internet users. The U.S. Congress has at various times proposed federal legislation intended to protect the privacy of Internet users and the security of personal information collected from Internet users that would impose additional compliance burdens upon companies collecting personal information from Internet users, and the U.S. Congress may adopt such legislation in the future. The EU also has adopted various directives regulating data privacy and security and the transmission of content using the Internet involving residents of the EU, including those directives known as the Data Protection Directive, the E-Privacy Directive, and the Privacy and Electronic Communications Directive, and may adopt similar directives in the future. The European Commission is currently considering a data protection regulation that may include operational requirements for companies that receive personal data that are different than those currently in place in the EU, and that may also include significant penalties for non-compliance. Additionally, various EU member states have passed legislation addressing data privacy and security, such as the German Federal Data Protection Act. Several other countries, including Canada and several Latin American and Asian countries, have constitutional protections for, or have adopted legislation protecting, individuals  personal information. Additionally, some federal, state, or foreign governmental bodies have established laws which  
+  
+   39 
+
+seek to censor the transmission of certain types of content over the Internet or require that individuals be provided with the ability to permanently delete all electronic personal information, such as the German Multimedia Law of 1997. 
+    
+  Given the variety of global privacy and data protection regimes, as well as their uncertain interpretation and application, it is possible we may find ourselves subject to inconsistent obligations. For instance, the USA Patriot Act is considered by some to be in conflict with certain directives of the EU. Situations such as these require that we make prospective determinations regarding compliance with conflicting regulations. Increased enforcement of existing laws and regulations, as well as any laws, regulations or changes that may be adopted or implemented in the future, could limit the growth of the use of hosted and cloud applications or communications generally, result in a decline in the use of the Internet and the viability of Internet-based applications such as our hosted and cloud solutions, require implementation of additional technological safeguards and reduce the demand for our enterprise collaboration software platform. Additionally, due to the complexity and diversity of these laws, our customers often include contractual obligations, which can impose significant risk of termination and financial penalties if we fail to comply. 
+    
+  If we are not able to develop and introduce enhancements and new features that achieve market acceptance or that keep pace with technological developments, our business could be harmed. 
+    
+  We operate in a dynamic environment characterized by rapidly changing technologies and industry and legal standards. The introduction of new enterprise collaboration software products by our competitors or new market entrants, the market acceptance of solutions or products based on new or alternative technologies, or the emergence of new industry standards could affect our ability to compete or potentially render our platform obsolete. Our ability to compete successfully, attract new customers and increase revenues from existing customers depends in large part on our ability to enhance and improve our existing enterprise collaboration software platform and to continually introduce or acquire new features that are in demand by the market we serve. The success of any enhancement or new solution depends on several factors, including timely completion and integration, adequate quality testing, introduction and market acceptance. Any new platform or feature that we develop or acquire may not be introduced in a timely or cost-effective manner, may contain defects or may not achieve the broad market acceptance necessary to generate significant revenues. If we are unable to anticipate or timely and successfully develop or acquire new offerings or features or enhance our existing platform to meet customer requirements, our business and operating results will be adversely affected. Additionally, for technologies that are acquired, we may not be able to successfully integrate or monetize the acquired technology at a rate that is consistent with the market s expectations. 
+    
+  Our platform must integrate with a variety of operating systems, software applications and hardware that are developed by others and, if we are unable to devote the necessary resources to ensure that our solutions interoperate with such software and hardware, we may fail to increase, or we may lose, market share and we may experience a weakening demand for our platform. 
+    
+  Our enterprise collaboration software platform must integrate with a variety of network, hardware and software platforms and cloud-based product suites, including Microsoft Office, and we need to continuously modify and enhance our platform to adapt to changes in Internet-related hardware, software, communication, browser and database technologies. Any failure of our solutions to operate effectively with future network platforms and technologies could reduce the demand for our platform, result in customer dissatisfaction and harm our business. If we are unable to respond in a timely manner to these changes in a cost-effective manner, our solutions may become less marketable and less competitive or obsolete and our operating results may be negatively impacted. In addition, an increasing number of individuals within the enterprise are utilizing devices other than personal computers, such as mobile phones and other handheld devices, to access the Internet and corporate resources and conduct business. If we cannot effectively make our platform available on these mobile devices, we may experience difficulty attracting and retaining customers. 
+    
+  We derive a substantial portion of our revenues from a single software platform. 
+    
+  We have historically derived a substantial portion of our total revenues from sales of a single software platform, the Jive Platform, and related modules. As such, any factor adversely affecting sales of this platform, including product release cycles, market acceptance, product competition, performance and reliability, reputation, price competition, and economic and market conditions, could harm our business and operating results. 
+
+40 
+
+Our business could be adversely affected if our customers are not satisfied with our implementation, customization or other professional services we provide. 
+    
+  Our business depends on our ability to satisfy our customers and meet our customers  business needs. If a customer is not satisfied with the type of solutions and professional services we or our partners deliver, we could incur additional costs to remedy the situation, the profitability of that work might be impaired, and the customer s dissatisfaction with our services could damage our ability to obtain additional services from that customer or our ability to renew that customer s subscription in subsequent periods. If we are not able to accurately estimate the cost of services requested by the customer, it might result in providing services on a discounted basis or free of charge until customer satisfaction is achieved. In addition, negative publicity related to our customer relationships, regardless of its accuracy, may further damage our business by affecting our ability to compete for new business with current and prospective customers. Further, we have customer payment obligations not yet due that are attributable to software we have already delivered. These customer obligations are typically not cancelable, but will not yield the expected revenues and cash flow if the customer defaults and fails to pay amounts owed, which could have a negative impact on our financial condition and operating results. 
+    
+  Additionally, large enterprises may request or require customized features and functions unique to their particular business processes. If prospective large customers require customized features or functions that we do not offer, then the market for our platform will be more limited and our business could suffer, particularly given our increased focus on the large and mid-sized enterprise segments of our markets. If a large enterprise contract requires customized features and functions, we cannot recognize any revenue related to the contract until the customized features and functions have been delivered to the customer. In addition, supporting large enterprise customers could require us to devote significant development services and support personnel and strain our personnel resources and infrastructure. If we are unable to address the needs of these customers in a timely fashion or further develop and enhance our platform, these customers may not renew their subscriptions, seek to terminate their relationship, renew on less favorable terms or fail to purchase additional features. If any of these were to occur, our revenues and billings may decline and we may not realize significantly improved operating results. 
+    
+  We might experience significant errors or security flaws in our platform. 
+    
+  Despite testing prior to their release, software products frequently contain undetected errors, defects or security vulnerabilities, especially when initially introduced or when new versions are released. Errors in our products could affect the ability of our products to interoperate with other hardware or software products, impact functionality and delay the development or release of new solutions or new versions of solutions and adversely affect market acceptance of our products. The detection and correction of any bugs or security flaws can be time consuming and costly. Some errors in our platform and related solutions may only be discovered after installation and use by customers. Any errors, defects or security vulnerabilities discovered after commercial release or contained in custom implementations could result in loss of revenues or delay in revenue recognition, loss of customers or increased service and warranty cost, any of which could adversely affect our business, financial condition and results of operations. Our products have contained and may contain undetected errors, defects or security vulnerabilities that could result in data unavailability, data security breaches, data loss or corruption or other harm to our customers. Undiscovered vulnerabilities in our products could expose them to hackers or other unscrupulous third parties who develop and deploy viruses, worms, and other malicious software programs that could attack our solutions, result in unauthorized access to customer data, or fraudulently induce individuals to provide their log-in credentials. Actual or perceived security vulnerabilities in our products could result in contractual or regulatory liability, harm our reputation and lead some customers to cancel subscriptions, reduce or delay future purchases or use competitive solutions. 
+    
+  Failure to adequately implement changes in our direct sales force may adversely affect our business and operating results. 
+    
+  In connection with the 2016 Realignment Plan, we are in the process of optimizing our sales and marketing infrastructure in order to align our operations with evolving business needs and improve efficiencies. Identifying and recruiting qualified personnel and training them requires significant time, expense and attention. It can take nine to 12 months or longer before our new sales representatives are fully trained and productive. In particular, if we are unable to hire, develop and retain talented sales personnel or if new direct sales personnel are unable to achieve desired productivity levels in a reasonable period of time, we may not be able to increase our billings and revenues or grow our business. 
+    
+  Our growth depends in part on the success of our strategic relationships with third parties. 
+    
+  Our future growth may depend on our ability to enter into successful strategic relationships with third parties. For example, we are investing resources in building our indirect sales channel by establishing relationships with third parties to facilitate incremental sales and to implement and customize our platform. In addition, we are also establishing relationships with other third parties to develop integrations with compatible technology and content. These relationships may not result in additional customers or enable  
+  
+   41 
+
+us to generate significant billings or revenues. Identifying partners as well as negotiating and documenting relationships with them requires significant time and resources. Our agreements for these relationships are typically non-exclusive and do not prohibit the other party from working with our competitors or from offering competing services. If we are unsuccessful in establishing or maintaining our relationships with these third parties, our ability to compete in the marketplace or to grow our revenues and billings could be impaired and our operating results would suffer.  
+    
+  Our use of open source technology could impose limitations on our ability to commercialize our products. 
+    
+  Our products contain software modules licensed to us by third-party authors under  open source  licenses. Use and distribution of open source software may entail greater risks than use of third-party commercial software, as open source licensors generally do not provide warranties or other contractual protections regarding infringement claims or the quality of the code. Some open source licenses contain provisions that require attribution or that we make available source code for modifications or derivative works we create based upon the type of open source software used. If we combine our proprietary software with open source software in a certain manner, we could, under certain open source licenses, be required to release the source code of our proprietary software to the public at no cost. This would allow our competitors to create similar products with lower development effort and time and ultimately could result in an adverse impact upon our intellectual property rights and ability to commercialize our products. 
+    
+  Although we monitor our use of open source software to avoid subjecting our products to conditions we do not intend, the terms of many open source licenses have not been interpreted by U.S. courts, and there is a risk that these licenses could be construed in a way that could impose unanticipated conditions or restrictions on our ability to commercialize our products. Moreover, we cannot assure you that our processes for controlling our use of open source software in our products will be effective. If we are held to have breached the terms of an open source software license, we could be required to seek licenses from third parties to continue offering our products on terms that are not economically feasible, to re-engineer our products, to discontinue the sale of our products if re-engineering could not be accomplished on a timely basis, or to make generally available, in source code form, our proprietary code, any of which could adversely affect our business, operating results and financial condition. 
+    
+  We, or our customers, may be sued by third parties for alleged infringement or misuse of their intellectual property. 
+    
+  The software industry is characterized by the existence of a large number of patents, copyrights, trademarks, trade secrets and other intellectual property and proprietary rights. Recently, a number of large software, technology and social networking companies have become active in initiating litigation against competitors and other third parties for misuse of these rights. Additionally, within the United States in particular, non-practicing entities have significantly increased their activities of pursuing patent litigation against technology companies and their customers. As a result, technology and software companies are increasingly required to defend against litigation claims that are based on allegations of infringement or other violations of intellectual property rights. Our technologies may not be able to withstand any third-party claims or rights against their use. As a result, our success depends upon our not infringing upon or misappropriating the intellectual property rights of others. Our competitors, as well as a number of other entities and individuals, may own or claim to own confidential information or certain intellectual property. In addition, as we continue to expand globally, we may need to increase our headcount and, in doing so, we may hire individuals from competing industries and companies. While we have implemented procedures designed to ensure that we do not receive confidential information from third parties in such situations third parties may believe that their former employees may misuse confidential information obtained during their previous employment which may lead to an increased risk of litigation related to claims of misuse or unauthorized use of such competitors  proprietary information. 
+    
+  From time to time, third parties have claimed, and may claim, that we infringe upon or have misappropriated their intellectual property rights, and we may be found to be infringing upon or misappropriating such rights. In the future, we, or our customers, may be the subject of claims that our platform, underlying technology or our actions in connection therewith infringe, misappropriate or violate the intellectual property rights of others. As a result of disclosure of information in filings required of a public company, our business and financial condition will become more visible, which we believe may result in threatened or actual litigation, including by competitors and other third parties. Any claims or litigation could cause us to incur significant expenses and, if successfully asserted against us, could require that we pay substantial damages or ongoing royalty payments, prevent us from offering our solutions, or require that we comply with other unfavorable terms. Even if the claims do not result in litigation or are resolved in our favor, these claims, and the time and resources necessary to resolve them, could divert the resources of our management and harm our business and operating results. As most of our customer and partner agreements obligate us to provide indemnification in connection with any such litigation and to obtain licenses, modify our platform, or refund fees, we have in the past been, and may in the future be, requested to indemnify our customers and business partners which could expose us to significant legal and financial liability. We expect that the occurrence of infringement claims is likely to grow as the market for enterprise collaboration software grows. Accordingly, our exposure to damages resulting from infringement claims could be increased and this could further exhaust our financial and management resources. 
+
+42 
+
+The outcome of any litigation, regardless of its merits, is inherently uncertain. Any intellectual property claim or lawsuit could be time-consuming and expensive to resolve, divert management attention from executing our business plan and require us to change our technology, change our business practices and/or pay monetary damages or enter into short- or long-term royalty or licensing agreements. In addition, in certain circumstances, such as those in which the opposing parties are large and well-funded companies, we may face a more expensive and protracted path to resolution of such claims or lawsuits. 
+    
+  Any failure to protect our intellectual property rights could impair our ability to protect our proprietary technology and our brand. 
+    
+  Our success and ability to compete depend in part upon our intellectual property. We primarily rely on a combination of copyright, trade secret and trademark laws, as well as confidentiality procedures and contractual restrictions with our employees, customers, partners and others to establish and protect our intellectual property rights. However, the steps we take to protect our intellectual property rights may be inadequate or we may be unable to secure intellectual property protection for all of our solutions. In particular, we have only recently begun to implement a strategy to seek patent protection for our technology. 
+    
+  Moreover, others may independently develop technologies that are competitive to ours or infringe our intellectual property. The enforcement of our intellectual property rights also depends on our legal actions against these infringers being successful, but we cannot be sure these actions will be successful, even when our rights have been infringed. If we fail to protect our intellectual property rights adequately, our competitors might gain access to our technology, and our business and operating results might be harmed. In addition, defending our intellectual property rights might entail significant expense and the diversion of management resources. Any of our intellectual property rights may be challenged by others or invalidated through administrative process or litigation. Any patents issued in the future may not provide us with competitive advantages, or may be successfully challenged by third parties. 
+    
+  Furthermore, legal standards relating to the validity, enforceability and scope of protection of intellectual property rights are uncertain. Effective protection of our intellectual property may not be available to us in every country in which our solutions are available. The laws of some foreign countries may not be as protective of intellectual property rights as those in the United States, and mechanisms for enforcement of intellectual property rights may be inadequate. Accordingly, despite our efforts, we may be unable to prevent third parties from infringing upon or misappropriating our intellectual property. 
+    
+  Additionally, in the United States, the central provisions of the Leahy-Smith America Invents Act (AIA) became effective on March 16, 2013. Among other things, this law has switched U.S. patent rights from prior  first-to-invent  system to the present  first inventor-to-file  system. This may result in inventors and companies having to file patent applications more frequently to preserve rights in their inventions. This may favor larger competitors that have the resources to file more patent applications. 
+    
+  We might be required to spend significant resources to monitor and protect our intellectual property rights, and our efforts to enforce our intellectual property rights may be met with defenses, counterclaims and countersuits attacking the validity and enforceability of our intellectual property rights. Litigation to protect and enforce our intellectual property rights could be costly, time-consuming and distracting to management, whether or not it is resolved in our favor, and could ultimately result in the impairment or loss of portions of our intellectual property. 
+    
+  The outcome of the U.K. s referendum on membership in the EU may have a negative effect on global economic conditions, financial markets, and on the U.K. and European economies, any or all of which could have a material adverse effect on our U.K. and international businesses. 
+    
+  On June 23, 2016, a referendum was held on the U.K. s membership in the EU, the outcome of which was a vote in favor of leaving the EU. The U.K. s vote to leave the EU creates an uncertain political and economic environment in the U.K. and potentially across other EU member states, which may last for a number of months or years. 
+    
+  The result of the referendum means that the long-term nature of the U.K. s relationship with the EU is unclear and that there is considerable uncertainty as to when any such relationship will be agreed and implemented. Should the U.K. leave the EU, it is unclear what trade agreements the U.K. will reach with the EU and also with other countries around the world and this will affect tariff agreements. Further, it is unclear to what extent EU regulation currently in effect in the U.K. will remain in place. In the interim, there is a risk of instability for both the U.K. and the EU, which could adversely affect our results, financial condition and prospects.  
+
+43 
+
+The nature of our business requires the application of complex revenue and expense recognition rules and the current legislative and regulatory environment affecting generally accepted accounting principles is uncertain. Significant changes in current principles could affect our financial statements going forward and changes in financial accounting standards or practices may cause adverse, unexpected financial reporting fluctuations and harm our operating results. 
+    
+  The accounting rules and regulations that we must comply with are complex and subject to interpretation by the Financial Accounting Standards Board (FASB), the SEC and various bodies formed to promulgate and interpret appropriate accounting principles. Recent actions and public comments from the FASB and the SEC have focused on the integrity of financial reporting and internal controls. In addition, many companies  accounting policies are being subject to heightened scrutiny by regulators and the public. Further, the accounting rules and regulations are continually changing in ways that could materially impact our financial statements. For example, in May 2014, the FASB issued new accounting guidance regarding revenue from contracts with customers, which supersedes the current revenue recognition requirements which was to become effective for us the first quarter of 2017 using one of two adoption methods. However, in August 2015, the FASB issued additional guidance, which defers the effective date of the new revenue standard for us until the first quarter of 2018 and permits early adoption as early as the first quarter of 2017. We have not yet selected a transition method or timing of adoption, and continue to evaluate the impact that this guidance will have on our financial condition and operating results. Regardless of the transition method, the application of this new guidance may result in a change in the timing and pattern of revenue recognition including the retrospective recognition of revenue in historical periods that may negatively affect our future revenue trend, which, despite no change in associated cash flows, could have a material adverse effect on our net income. We cannot predict the impact of future changes to accounting principles or our accounting policies on our financial statements going forward, which could have a significant effect on our reported financial results, and could affect the reporting of transactions completed before the announcement of the change. In addition, if we were to change our critical accounting estimates, including those related to the recognition of license revenue and other revenue sources, our operating results could be significantly affected. 
+    
+  Adverse economic conditions or reduced information technology spending may adversely impact our business and operating results. 
+    
+  Our business depends on the overall demand for information technology. In addition, the purchase of our products is often discretionary and may involve a significant commitment of capital and other resources. Weak global economic conditions, including effects of the U.K.'s referendum on the EU, or a reduction in information technology spending even if economic conditions improve, could adversely impact our business, financial condition and operating results. As global economic conditions continue to be volatile or economic uncertainty remains, trends in information technology spending also remain unpredictable and subject to reductions due to credit constraints and uncertainties about the future. Unfavorable economic conditions could adversely affect, our customers  ability or willingness to purchase our enterprise collaboration software platform, and could delay prospective customers  purchasing decisions, reduce the value or duration of their subscriptions, or affect renewal rates, all of which could adversely affect our operating results. Our sensitivity to economic cycles and any related fluctuation in demand may have a material adverse effect on our business, financial condition and operating results. 
+    
+  Catastrophic events may disrupt our business. 
+    
+  Our corporate headquarters are located in Palo Alto, California, a high portion of our technology and services personnel are located in our Portland, Oregon office. The West Coast, and California in particular, are active earthquake zones. Additionally, we rely on our network and third-party infrastructure and enterprise applications, internal technology systems and our website for our development, marketing, operational, support, hosted services and sales activities. In the event of a major earthquake or catastrophic event such as fire, power loss, telecommunications failure, cyber attack, war or terrorist attack, we may be unable to continue our corporate operations and may endure system interruptions, reputational harm, loss of intellectual property, contractual and financial liabilities, delays in our product development, lengthy interruptions in our services, breaches of data security and loss of critical data, all of which could harm our future operating results. 
+    
+  Although we back up customer data stored on our systems at least daily to a geographically distinct location, the data is not mirrored in real-time to this site. Thus, in the event of a physical disaster, or certain other failures of our computing infrastructure, customer data from very recent transactions may be permanently lost. Further, our full production infrastructure is not mirrored to a geographically distinct location and thus in the event of a disaster, production capacity may be impacted for an extended amount of time while the infrastructure is procured and rebuilt and data is restored. 
+
+44 
+
+We might require additional capital to support business growth, and this capital might not be available on acceptable terms, if at all. 
+    
+  We intend to continue to make investments to support our business growth and may require additional funds to respond to business challenges, including the need to develop new solutions or enhance our existing solutions, enhance our operating infrastructure and acquire complementary businesses and technologies. Accordingly, we may need to engage in equity or debt financings to secure additional funds. If we raise additional funds through further issuances of equity or convertible debt securities, our existing stockholders could suffer significant dilution, and any new equity securities we issue could have rights, preferences and privileges superior to those of holders of our common stock. Any debt financing secured by us in the future could involve restrictive covenants relating to our capital raising activities and other financial and operational matters, which may make it more difficult for us to obtain additional capital and to pursue business opportunities, including potential acquisitions. In addition, we may not be able to obtain additional financing on terms favorable to us, if at all. If we are unable to obtain adequate financing or financing on terms satisfactory to us, when we require it, our ability to continue to support our business growth and to respond to business challenges could be significantly limited, and our business, operating results, financial condition and prospects could be adversely affected. 
+    
+  The forecasts of market growth included in this document may prove to be inaccurate, and even if the markets in which we compete achieve the forecasted growth, we cannot assure you our business will grow at similar rates, if at all. 
+    
+  Growth forecasts are subject to significant uncertainty and are based on assumptions and estimates which may not prove to be accurate. Forecasts relating to the expected growth in the enterprise collaboration software market and other markets may prove to be inaccurate. Even if these markets experience the forecasted growth, we may not grow our business at similar rates, or at all. Our growth is subject to many factors, including our success in implementing our business strategy, which is subject to many risks and uncertainties. 
+    
+  There are limitations on the effectiveness of controls and the failure of our control systems may materially and adversely impact us. 
+    
+  We do not expect that disclosure controls or internal controls over financial reporting will prevent all errors and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control system s objectives will be met. Further, the design of a control system must reflect the fact that there are resource constraints and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. Failure of our control systems to prevent error or fraud could materially and adversely impact us. 
+    
+  The intended operational and tax benefits of our corporate structure and intercompany arrangements depend on the application of the tax laws of various jurisdictions and how we operate our business, and may be challenged by tax authorities. 
+    
+  Our corporate structure and intercompany agreements with our foreign subsidiaries are intended to optimize our operating structure and our worldwide effective tax rate, including the manner in which we develop and use our intellectual property, manage our cash flow, and the pricing of our intercompany transactions. Based on our current corporate structure, we may be subject to taxation in several jurisdictions around the world with increasingly complex tax laws, the application of which can be uncertain. For instance, we have a wholly-owned subsidiary in the U.K. which provides tax benefits to us. Depending on the terms reached regarding any exit from the EU, it is possible that there could be changes in the tax laws in the U.K. impacting the tax benefits we receive from our corporate structure, which could harm our operating results. Our foreign subsidiaries operate under cost plus transfer pricing agreements with us. These agreements provide for sales, support and development activities for our benefit. The taxing authorities of the jurisdictions in which we operate may challenge our methodologies for valuing technology or our transfer pricing arrangements, or determine that the manner in which we operate our business does not achieve the intended tax objectives, which could increase our international tax exposure and harm our operating results. For example, from May 2012 through June 30, 2013, we were under a United States federal tax examination for the tax years ending December 31, 2010 and 2011. Such examinations ended on June 13, 2013 and did not have a material financial impact. Further, from August 2014 through December 2014, we were under examination in Israel for the years ending December 31, 2010, 2011 and 2012. The examination officially concluded as of December 26, 2014 and did not have a material financial impact. 
+
+45 
+
+Our business could be negatively affected as a result of actions of activist shareholders. 
+    
+  If a proxy contest with respect to election of our directors is initiated in the future by any activist stockholder, or if other activist stockholder activities occur, our business could be adversely affected because: 
+
+responding to a proxy contest and other actions by activist stockholders can be costly and time-consuming, disrupting our operations and diverting the attention of management and our employees; 
+                
+    perceived uncertainties as to our future direction caused by activist activities may result in the loss of potential business opportunities, and may make it more difficult to attract and retain qualified personnel and business partners; and 
+                
+    if individuals are elected to our board of directors with a specific agenda, it may adversely affect our ability to effectively and timely implement our strategic plans. 
+       
+  The requirements of being a public company may strain our resources, divert management s attention and affect our ability to attract and retain qualified board members. 
+    
+  As a public company, we are subject to the reporting requirements of the Exchange Act, the listing requirements of the Nasdaq Global Market on which our common stock trades and other applicable securities rules and regulations. Compliance with these rules and regulations will increase our legal and financial compliance costs, make some activities more difficult, time-consuming or costly and increase demand on our systems and resources, particularly now that we are no longer an  emerging growth company  as defined in the Jumpstart Our Business Startups Act of 2012 (the "JOBS Act"). The Exchange Act requires, among other things, that we file annual, quarterly and current reports with respect to our business and operating results and maintain effective disclosure controls and procedures and internal control over financial reporting. In order to maintain and, if required, improve our disclosure controls and procedures and internal control over financial reporting to meet this standard, significant resources and management oversight may be required. As a result, management s attention may be diverted from other business concerns, which could harm our business and operating results. Although we have already hired additional employees to comply with these requirements, we may need to hire more employees in the future, which will increase our costs and expenses. 
+    
+  Because we are no longer an  emerging growth company  as defined in the JOBS Act, we are subject to the independent auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act, enhanced disclosure obligations regarding executive compensation in our periodic reports and proxy statements, and the requirements of holding a nonbinding advisory vote on executive compensation and stockholder approval of any golden parachute payments not previously approved. While we were able to determine in our management s report for fiscal 2015 that our internal control over financial reporting was effective, as well as provide an unqualified attestation report from our independent registered public accounting firm to that effect, we have and will continue to consume management resources and incur significant expenses for Section 404 compliance on an ongoing basis. In the event that our chief executive officer, chief financial officer, or independent registered public accounting firm determines in the future that our internal control over financial reporting is not effective as defined under Section 404, we could be subject to one or more investigations or enforcement actions by state or federal regulatory agencies, stockholder lawsuits or other adverse actions requiring us to incur defense costs, pay fines, settlements or judgments and causing investor perceptions to be adversely affected and potentially resulting in a decline in the market price of our stock. 
+    
+  In addition, changing laws, regulations and standards relating to corporate governance and public disclosure are creating uncertainty for public companies, increasing legal and financial compliance costs and making some activities more time consuming. These laws, regulations and standards are subject to varying interpretations, in many cases due to their lack of specificity, and, as a result, their application in practice may evolve over time as new guidance is provided by regulatory and governing bodies. This could result in continuing uncertainty regarding compliance matters and higher costs necessitated by ongoing revisions to disclosure and governance practices. We intend to invest resources to comply with evolving laws, regulations and standards, and this investment may result in increased general and administrative expenses and a diversion of management s time and attention from revenue-generating activities to compliance activities. If our efforts to comply with new laws, regulations and standards differ from the activities intended by regulatory or governing bodies, regulatory authorities may initiate legal proceedings against us and our business may be harmed. 
+    
+  We also expect that the combination of being a public company and the existence of these new rules and regulations will make it more difficult for us to attract and retain qualified executive officers as well as qualified members of our board of directors, particularly to serve on our Audit Committee and Compensation Committee. 
+
+46 
+
+We may acquire or invest in other companies or technologies in the future, which could divert management s attention, result in additional dilution to our stockholders, increase expenses, disrupt our operations and harm our operating results. 
+    
+  We have in the past, and may in the future, acquire or invest in other businesses, products or technologies that we believe could complement or expand our platform, enhance our technical capabilities or otherwise offer growth opportunities. We cannot assure you that we will realize the anticipated benefits of our past acquisitions or any future acquisition. The pursuit of potential acquisitions may divert the attention of management and cause us to incur various expenses related to identifying, investigating and pursuing suitable acquisitions, whether or not they are consummated. 
+    
+  There are inherent risks in integrating and managing acquisitions. If we acquire additional businesses, we may not be able to assimilate or integrate the acquired personnel, operations and technologies successfully or effectively manage the combined business following the acquisition. We also may not achieve the anticipated benefits from the acquired business due to a number of factors, including: 
+
+unanticipated costs or liabilities associated with the acquisition; 
+                
+    incurrence of acquisition-related costs, which would be recognized as a current period expense; 
+                
+    inability to generate sufficient revenues to offset acquisition or investment costs; 
+                
+    the inability to maintain relationships with customers and partners of the acquired business; 
+                
+    the difficulty of incorporating acquired technology and rights into our platform and of maintaining quality standards consistent with our brand; 
+                
+    difficulty in incorporating new people; 
+                
+    delays in customer purchases due to uncertainty related to any acquisition; 
+                
+    the need to implement additional controls, procedures and policies; 
+                
+    in the case of foreign acquisitions, the challenges associated with currency and regulatory risks; 
+                
+    challenges caused by distance, language and cultural differences; 
+                
+    harm to our existing business relationships with business partners and customers as a result of the acquisition; 
+                
+    the potential loss of key employees; 
+                
+    use of resources that are needed in other parts of our business; 
+                
+    the inability to recognize acquired revenues in accordance with our revenue recognition policies, and the loss of acquired deferred revenue; and 
+                
+    use of substantial portions of our available cash or the incurrence of debt to consummate the acquisition. 
+       
+  In addition, a significant portion of the purchase price of companies we acquire may be allocated to goodwill and other intangible assets, which must be assessed for impairment at least annually. Also, contingent considerations related to acquisitions will be remeasured to fair value at each reporting period, with any changes in the value recorded as income or expense. In the future, if our acquisitions do not yield expected returns, we may be required to take charges to our operating results based on the impairment assessment process, which could harm our results of operations. 
+    
+  Acquisitions could also result in dilutive issuances of equity securities or the incurrence of debt, which could adversely affect our operating results. In addition, if an acquired business fails to meet our expectations, our operating results, business and financial condition may suffer. 
+    
+  If we are unable to maintain effective internal control over financial reporting in the future, investors may lose confidence in our company and, as a result, the value of our common stock may be adversely affected. 
+    
+  We are subject to Section 404 of the Sarbanes-Oxley Act, which requires us to maintain internal controls over financial reporting and to report any material weaknesses in such internal controls. We have consumed and will continue to consume management resources and incur expenses for this compliance on an ongoing basis. Additionally, if we identify one or more material weaknesses in our internal control over financial reporting, we may be unable to assert that our internal controls are effective. If we are unable to assert that our internal control over financial reporting is effective, or if our auditors are unable to attest to the effectiveness of our internal controls, we could lose investor confidence in the accuracy and completeness of our financial reports, which would have a material adverse effect on the price of our common stock. 
+  
+   47 
+
+Risk Related to Ownership of our Common Stock 
+    
+  The market price of our common stock is likely to be volatile and could subject us to litigation. 
+    
+  The trading prices of the securities of technology companies have been highly volatile. Accordingly, the market price of our common stock has been, and is likely to continue to be, subject to wide fluctuations. Factors affecting the market price of our common stock include: 
+
+variations in our billings, renewal rates, operating results, cash flow, loss per share and how these results compare to analyst expectations; 
+                
+    the net increase in the number of customers acquired, either independently or as compared with published expectations of analysts that cover us; 
+                
+    forward looking guidance on billings, revenues, cash flows and loss per share; 
+                
+    announcements of technological innovations, new products or services, strategic alliances or significant agreements by us or by our competitors; 
+                
+    disruptions in our hosted and cloud services; 
+                
+    changes in the executive management team; 
+                
+    the economy as a whole, market conditions in our industry, and the industries of our customers; and 
+                
+    any other factors discussed herein. 
+       
+  In addition, if the market for technology stocks, especially social media related stocks, or the stock market in general experiences uneven investor confidence, the market price of our common stock could decline for reasons unrelated to our business, operating results or financial condition. The market price for our stock might also decline in reaction to events that affect other companies within, or outside, our industry, even if these events do not directly affect us. Some companies that have experienced volatility in the trading price of their stock have been subject of securities litigation. If we are the subject of such litigation, it could result in substantial costs and a diversion of management s attention and resources. 
+    
+  Our charter documents and Delaware law could discourage takeover attempts and lead to management entrenchment. 
+    
+  Our amended and restated certificate of incorporation and amended and restated bylaws contain provisions that could delay or prevent a change in control of our company. These provisions could also make it difficult for stockholders to elect directors that are not nominated by the current members of our board of directors or take other corporate actions, including effecting changes in our management. These provisions include: 
+
+a classified board of directors with three-year staggered terms, which could delay the ability of stockholders to change the membership of a majority of our board of directors; 
+                
+    the ability of our board of directors to issue shares of preferred stock and to determine the price and other terms of those shares, including preferences and voting rights, without stockholder approval, which could be used to significantly dilute the ownership of a hostile acquiror; 
+                
+    the exclusive right of our board of directors to elect a director to fill a vacancy created by the expansion of our board of directors or the resignation, death or removal of a director, which prevents stockholders from being able to fill vacancies on our board of directors; 
+                
+    a prohibition on stockholder action by written consent, which forces stockholder action to be taken at an annual or special meeting of our stockholders; 
+                
+    the requirement that a special meeting of stockholders may be called only by the chairman of our board of directors, our president, our secretary, or a majority vote of our board of directors, which could delay the ability of our stockholders to force consideration of a proposal or to take action, including the removal of directors; 
+                
+    the requirement for the affirmative vote of holders of at least 66 2/3% of the voting power of all of the then outstanding shares of the voting stock, voting together as a single class, to amend the provisions of our amended and restated certificate of incorporation relating to the issuance of preferred stock and management of our business or our amended and restated bylaws, which may inhibit the ability of an acquiror to affect such amendments to facilitate an unsolicited takeover attempt; 
+     
+   48 
+
+the ability of our board of directors, by majority vote, to amend the bylaws, which may allow our board of directors to take additional actions to prevent an unsolicited takeover and inhibit the ability of an acquiror to amend the bylaws to facilitate an unsolicited takeover attempt; and 
+                
+    advance notice procedures with which stockholders must comply to nominate candidates to our board of directors or to propose matters to be acted upon at a stockholders  meeting, which may discourage or deter a potential acquiror from conducting a solicitation of proxies to elect the acquiror s own slate of directors or otherwise attempting to obtain control of us. 
+       
+  In addition, as a Delaware corporation, we are subject to Section 203 of the Delaware General Corporation Law. These provisions may prohibit large stockholders, in particular those owning 15% or more of our outstanding voting stock, from merging or combining with us for a certain period of time. 
+  
+   49 
+
+Item 6.    Exhibits 
+    
+  The following exhibits are filed herewith or incorporated by reference hereto and this list is intended to constitute the exhibit index: 
+
+* 
+       
+    The certifications attached as Exhibit 32.1 and 32.2 that accompany this Quarterly Report on Form 10-Q are not deemed filed with the Securities and Exchange Commission and are not to be incorporated by reference into any filing of Jive Software, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date of this Quarterly Report on Form 10-Q, irrespective of any general incorporation language contained in such filing. 
+
+(1) 
+       
+    Incorporated by reference to Exhibit 3.2 to Form S-1 file number 333-176483 as declared effective by the Securitiesand Exchange Commission on December 12, 2011. 
+
+(2) 
+       
+    Incorporated by reference to Exhibit 3.4 to Form S-1 file number 333-176483 as declared effective by the Securities and Exchange Commission on December 12, 2011. 
+
+50 
+
+SIGNATURES 
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+JIVE SOFTWARE, INC. 
+
+Dated: 
+    November 2, 2016 
+      
+    /s/ ELISA STEELE 
+
+Elisa Steele 
+
+Chief Executive Officer and Director 
+
+(Principal Executive Officer) 
+
+/s/ BRYAN J. LEBLANC 
+
+Bryan J. LeBlanc 
+
+EVP and Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+51 
+
+<EX-31.1>
+ 2
+ jive-09302016xex311.htm
+ EXHIBIT 31.1 JIVE 9.30.2016
+
+Exhibit 
+
+EXHIBIT 31.1 
+    
+  CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+  PURSUANT TO RULE 13a-14(a) OR RULE 15d-14(a) 
+  OF THE SECURITIES EXCHANGE ACT OF 1934 
+    
+  I, Elisa Steele, certify that: 
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Jive Software, Inc.; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and  
+       
+           5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+       
+           (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+       
+           (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+       
+  Date:   November 2, 2016 
+                   By: 
+    /s/ Elisa Steele 
+      
+      Elisa Steele 
+      Chief Executive Officer and Director 
+      Jive Software, Inc. 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ jive-09302016xex312.htm
+ EXHIBIT 31.2 JIVE 9.30.2016
+
+Exhibit 
+
+EXHIBIT 31.2 
+    
+  CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+  PURSUANT TO RULE 13a-14(a) OR RULE 15d-14(a) 
+  OF THE SECURITIES EXCHANGE ACT OF 1934 
+    
+  I, Bryan J. LeBlanc, certify that: 
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Jive Software, Inc.; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and  
+       
+           5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+       
+           (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+       
+           (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+       
+  Date:   November 2, 2016                   By: 
+    /s/ Bryan J. LeBlanc 
+      
+      Bryan J. LeBlanc 
+      EVP and Chief Financial Officer 
+      Jive Software, Inc. 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ jive-09302016xex321.htm
+ EXHIBIT 32.1 JIVE 9.30.2016
+
+Exhibit 
+
+EXHIBIT 32.1 
+    
+  CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+  PURSUANT TO RULE 13a-14(b) OR RULE 15d-14(b) 
+  OF THE SECURITIES EXCHANGE ACT OF 1934 AND 18 U.S.C. SECTION 1350 
+    
+  In connection with the Quarterly Report of Jive Software, Inc. (the  Company ) on Form 10-Q for the quarter ended   September 30, 2016  , as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Elisa Steele, Chief Executive Officer and Director of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge: 
+    
+  (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+    
+  (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+    
+                   By: 
+    /s/ Elisa Steele 
+      
+      Elisa Steele 
+      Chief Executive Officer and Director 
+      Jive Software, Inc. 
+      Date: 
+    November 2, 2016 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ jive-09302016xex322.htm
+ EXHIBIT 32.2 JIVE 9.30.2016
+
+Exhibit 
+
+EXHIBIT 32.2 
+    
+  CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+  PURSUANT TO RULE 13a-14(b) OR RULE 15d-14(b) 
+  OF THE SECURITIES EXCHANGE ACT OF 1934 AND 18 U.S.C. SECTION 1350 
+    
+  In connection with the Quarterly Report of Jive Software, Inc. (the  Company ) on Form 10-Q for the quarter ended   September 30, 2016  , as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Bryan J. LeBlanc, EVP and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge: 
+    
+  (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+    
+  (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+    
+                   By: 
+    /s/ Bryan J. LeBlanc 
+      
+      Bryan J. LeBlanc 
+      EVP and Chief Financial Officer 
+      Jive Software, Inc. 
+      Date: 
+    November 2, 2016 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ jive-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ jive-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ jive-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ jive-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ jive-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ jive-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

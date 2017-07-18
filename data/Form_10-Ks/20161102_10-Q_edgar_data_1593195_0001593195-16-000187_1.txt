@@ -1,0 +1,1209 @@
+<Header>
+<FileStats>
+    <FileName>20161102_10-Q_edgar_data_1593195_0001593195-16-000187_1.txt</FileName>
+    <GrossFileSize>6926705</GrossFileSize>
+    <NetFileSize>146957</NetFileSize>
+    <ASCII_Embedded_Chars>411344</ASCII_Embedded_Chars>
+    <HTML_Chars>2205864</HTML_Chars>
+    <XBRL_Chars>2896209</XBRL_Chars>
+    <XML_Chars>1138889</XML_Chars>
+    <N_Tables>36</N_Tables>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001593195-16-000187.hdr.sgml : 20161102
+<ACCEPTANCE-DATETIME>20161101180825
+ACCESSION NUMBER:		0001593195-16-000187
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		84
+CONFORMED PERIOD OF REPORT:	20160925
+FILED AS OF DATE:		20161102
+DATE AS OF CHANGE:		20161101
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			tronc, Inc.
+		CENTRAL INDEX KEY:			0001593195
+		STANDARD INDUSTRIAL CLASSIFICATION:	NEWSPAPERS:  PUBLISHING OR PUBLISHING & PRINTING [2711]
+		IRS NUMBER:				383919441
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36230
+		FILM NUMBER:		161965870
+
+	BUSINESS ADDRESS:	
+		STREET 1:		435 NORTH MICHIGAN AVENUE
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60611
+		BUSINESS PHONE:		312 222 9100
+
+	MAIL ADDRESS:	
+		STREET 1:		435 NORTH MICHIGAN AVENUE
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60611
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tribune Publishing Co
+		DATE OF NAME CHANGE:	20131127
+
+</SEC-Header>
+</Header>
+
+ 0001593195-16-000187.txt : 20161102
+
+10-Q
+ 1
+ a2016q310q.htm
+ 10-Q
+
+Document 
+
+UNITED STATES  
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+    
+  FORM 10-Q 
+
+OR 
+
+Commission File No. 001-36230    
+  TRONC, INC.  
+  (Exact name of registrant as specified in its charter)  
+                   Delaware 
+      
+    38-3919441 
+      (State or other jurisdiction 
+  of incorporation or organization) 
+      
+    (I.R.S. employer  
+  identification no.) 
+
+435 North Michigan Avenue 
+
+Chicago Illinois 
+      
+    60611 
+      (Address of principal executive offices) 
+      
+    (Zip code) 
+
+Registrant s telephone number, including area code:    (312) 222-9100 
+    
+  Former name, former address and former fiscal year, if changed since last report. 
+  None 
+    
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes       X         No           
+    
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  Yes       X         No              
+    
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer, or a smaller reporting company.  See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act: 
+                   Large accelerated filer ____ 
+      
+    Accelerated filer       X      
+      Non-accelerated filer ____ 
+      
+    Smaller reporting company ____ 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes __  No       X     
+    
+  Indicate the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date. 
+
+TRONC INC. 
+
+FORM 10-Q 
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART I 
+      
+     FINANCIAL INFORMATION  
+
+Item 1. 
+      
+     Financial Statements    (unaudited) 
+      
+    3 
+
+Item 2. 
+      
+     Management's Discussion and Analysis of Financial Condition and Results of Operations  
+      
+    27 
+
+Item 3. 
+      
+     Quantitative and Qualitative Disclosures about Market Risk  
+      
+    41 
+
+Item 4. 
+      
+     Controls and Procedures  
+      
+    41 
+
+PART II 
+      
+     OTHER INFORMATION  
+      
+    42 
+
+Item 1. 
+      
+     Legal Proceedings  
+      
+    42 
+
+Item 1A. 
+      
+     Risk Factors  
+      
+    43 
+
+Item 2. 
+      
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+      
+    44 
+
+Item 3. 
+      
+     Defaults Upon Senior Securities  
+      
+    44 
+
+Item 4. 
+      
+     Mine Safety Disclosures  
+      
+    44 
+
+Item 5. 
+      
+     Other Information  
+      
+    44 
+
+Item 6. 
+      
+     Exhibits  
+      
+    44 
+
+SIGNATURES  
+      
+    45 
+
+1 
+
+CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING STATEMENTS 
+  The statements contained in this Quarterly Report on Form 10-Q, as well as the information contained in the notes to our Consolidated Financial Statements, include certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 that are based largely on our current expectations and reflect various estimates and assumptions by us.  Forward-looking statements are subject to certain risks, trends and uncertainties that could cause actual results and achievements to differ materially from those expressed in such forward-looking statements.  Such risks, trends and uncertainties, which in some instances are beyond our control, include:  competition and other economic conditions including fragmentation of the media landscape and competition from other media alternatives; changes in advertising demand, circulation levels and audience shares; our ability to develop and grow our online businesses; our success in implementing expense mitigation efforts; our success in implementing our strategic and branding initiatives; our reliance on revenue from printing and distributing third-party publications; changes in newsprint prices; macroeconomic trends and conditions; our ability to adapt to technological changes; our ability to realize benefits or synergies from acquisitions or divestitures or to operate our businesses effectively following acquisitions or divestitures; our reliance on third-party vendors for various services; adverse results from litigation, such as the stockholder derivative lawsuits, governmental investigations or tax-related proceedings or audits; our ability to attract, integrate and retain our senior management team and employees; our ability to satisfy pension and other postretirement employee benefit obligations; changes in accounting standards; the effect of labor strikes, lockouts and labor negotiations; regulatory and judicial rulings; our indebtedness and ability to comply with debt covenants applicable to our debt facilities; our ability to satisfy future capital and liquidity requirements; our ability to access the credit and capital markets at the times and in the amounts needed and on acceptable terms; and other events beyond our control that may result in unexpected adverse operating results.  For more information about these and other risks, see  Risk Factors  in our Annual Report on Form 10-K filed with the Securities and Exchange Commission on March 14, 2016, and in our other filings with the Securities and Exchange Commission, including in Part II, Item 1A of this Quarterly Report on Form 10-Q and our Quarterly Report on Form 10-Q filed with the Securities and Exchange Commission on August 5, 2016. 
+  The words  believe,   expect,   anticipate,   estimate,   could,   should,   intend,   may,   will,   plan,   seek  and similar expressions generally identify forward-looking statements.  However, such words are not the exclusive means for identifying forward-looking statements, and their absence does not mean that the statement is not forward looking.  Whether or not any such forward-looking statements are, in fact, achieved will depend on future events, some of which are beyond our control.  Readers are cautioned not to place undue reliance on such forward-looking statements, which are being made as of the date of this Quarterly Report on Form 10-Q.  We undertake no obligation to update any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. 
+  
+   2 
+
+PART I. 
+   
+  Item 1.    Financial Statements 
+   
+  TRONC, INC. 
+  CONSOLIDATED STATEMENTS OF INCOME (LOSS) 
+  (In thousands, except per share data) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements. 
+    
+  3 
+
+TRONC, INC. 
+  CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS 
+  (In thousands) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements. 
+    
+  4 
+
+TRONC, INC. 
+  CONSOLIDATED BALANCE SHEETS 
+  (In thousands, except per share data) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements. 
+    
+  5 
+
+TRONC, INC. 
+  CONSOLIDATED BALANCE SHEETS (continued) 
+  (In thousands, except per share data) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements. 
+    
+  6 
+
+TRONC, INC. 
+  CONSOLIDATED STATEMENT OF EQUITY (DEFICIT) 
+  (In thousands, except share data) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements. 
+    
+  7 
+
+TRONC, INC. 
+  CONSOLIDATED STATEMENTS OF CASH FLOWS  
+  (In thousands)  
+  (Unaudited)  
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements. 
+    
+  8 
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements. 
+    
+  9 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+  (Unaudited) 
+
+NOTE   1  : DESCRIPTION OF BUSINESS AND BASIS OF PRESENTATION 
+  Description of Business   tronc, Inc., formerly Tribune Publishing Company, and its subsidiaries (collectively, the  Company  or  tronc ) comprise a diversified media and marketing-solutions company that delivers innovative experiences for audiences and advertisers across all platforms.  The Company s diverse portfolio of iconic news and information brands includes   11   award-winning major daily titles, more than   60   digital properties and more than   180   verticals in markets including Los Angeles and San Diego, Ca.; Chicago, Il.; South Florida; Orlando, Fl.; Baltimore, Carroll County and Annapolis, Md.; Hartford, Ct.; Allentown, Pa., and Newport News, Va.  tronc also offers an array of customized marketing solutions, and operates a number of niche products, including   Hoy   and   El Sentinel  , making tronc the country s largest Spanish-language publisher. 
+  Fiscal Periods   The Company s fiscal year ends on the last Sunday in December.  Fiscal year 2016 ends on December 25, 2016 and fiscal year 2015 ended on December 27, 2015; both fiscal years are 52-week years with 13 weeks in each quarter. 
+  Basis of Presentation   T  he accompanying unaudited Consolidated Financial Statements and notes of the Company have been prepared in accordance with United States generally accepted accounting principles (   U.S.   GAAP   ).    The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the amounts reported in the unaudited Consolidated Financial Statements and accompanying notes.  Actual results could differ from these estimates.  In the opinion of management, the financial statements contain all adjustments necessary to present fairly the financial position of tronc as of   September 25, 2016   and December 27, 2015, the results of operations for the three and nine months ended   September 25, 2016   and   September 27, 2015   and the cash flows for the nine months ended   September 25, 2016   and   September 27, 2015  .  This includes all normal and recurring adjustments and elimination of intercompany transactions.  Results of operations for interim periods are not necessarily indicative of the results to be expected for the full year.  Certain prior period amounts have been reclassified to conform to current period classifications.  The year-end Consolidated Balance Sheet was derived from audited financial statements, but does not include all disclosures required by U.S. GAAP. 
+  The Company   assesses its operating segments in accordance with ASC Topic 280,    Segment Reporting.     In the three months ended June 26, 2016, the Company realigned under its new management team into two distinct segments, troncM and troncX.  troncM is comprised of the Company s media groups excluding their digital revenues and related digital expenses, except digital subscription revenues when sold with a print subscription.  troncX includes the Company s digital revenues and related digital expenses from local websites and mobile applications, digital only subscriptions, as well as Tribune Content Agency ( TCA ) and Forsalebyowner.com ( FSBO ).  The segregation of the digital business in troncX triggered an evaluation of the Company s operating and reportable segments in the second quarter of fiscal 2016.    Prior to the second quarter of fiscal 2016, tronc was managed by its chief operating decision maker, as defined by ASC Topic 280, as   one   business and   one   reportable segment.  Beginning with the second quarter of fiscal 2016, tronc began managing its business as   two   distinct segments and, accordingly, has revised its segment reporting to   two   reportable segments.  The prior periods have been restated to reflect the change in reportable segments.  See Note 17 for additional segment information. 
+  New Accounting Standards   In August 2016, the Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update ( ASU ) 2016-15, Topic 230,   Statement of Cash Flows  , which clarifies how companies present and classify certain cash receipts and cash payments in the statement of cash flows.  ASU 2016-15 is effective for interim and annual reporting periods beginning after December 15, 2017 and early adoption is permitted.  The Company is currently evaluating how the adoption of this standard will impact the Company s consolidated financial statements.  
+  In March 2016, the FASB issued ASU 2016-09, Topic 718,   Compensation Stock Compensation  .  This standard makes several modifications to Topic 718 related to the accounting for forfeitures, employer tax withholding on share-based compensation and the financial statement presentation of excess tax benefits or deficiencies.  ASU 2016-09 also clarifies the statement of cash flows presentation for certain components of share-based awards.  The standard is effective for interim and annual reporting periods beginning after December 15, 2016, although early adoption is permitted.  The Company is currently assessing how the adoption of this standard will impact the Company s results of operations, financial condition or cash flows. 
+  
+   10 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+In February 2016, the FASB issued ASU 2016-02, Topic 842,   Leases  .  This standard will require the recognition of lease assets and lease liabilities by lessees for operating leases.  This ASU is effective for reporting periods beginning after December 15, 2018, with early adoption permitted.  The Company is currently in the process of assessing the impact of ASU 2016-02 on the Company s results of operations, financial condition or cash flows. 
+  In July 2015, the FASB issued ASU 2015-11, Topic 330,   Simplifying the Measurement of Inventory.    This ASU requires an entity to measure inventory at the lower of cost or net realizable value, which consists of the estimated selling prices in the ordinary course of business, less reasonably predictable cost of completion, disposal, and transportation.  This ASU is effective for reporting periods beginning after December 15, 2016.  The guidance is to be applied prospectively.  The Company adopted the standard in the first quarter of 2016.  The adoption of this standard had no effect on the Company s results of operations, financial condition or cash flows.  
+  In April 2015, the FASB issued ASU 2015-05,   Customer s Accounting for Fees Paid in a Cloud Computing Arrangement  , which provides guidance to customers about whether a cloud computing arrangement includes a software license.  If a cloud computing arrangement includes a software license, the customer should account for the software license element of the arrangement consistent with the acquisition of other software licenses.  If the arrangement does not include a software license, the customer should account for a cloud computing arrangement as a service contract.  This ASU is effective for reporting periods beginning after December 15, 2015.  The Company adopted the standard as of the first quarter of 2016 and is applying the standard prospectively.  The adoption of this standard had no effect on the Company s results of operations, financial condition or cash flows.  
+  In May 2014, the FASB issued ASU 2014-09, Topic 606,   Revenue from Contracts with Customers   and issued subsequent amendments to the initial guidance in August 2015, March 2016, April 2016 and May 2016 within ASU 2015-14, ASU 2016-08, ASU 2016-10 and ASU 2016-12, respectively.  The new standard supersedes a majority of existing revenue recognition guidance under U.S. GAAP, and requires a company to recognize revenue when it transfers goods or services to a customer in an amount that reflects the consideration to which a company expects to be entitled.  Companies may need to use more judgment and make more estimates while recognizing revenue, which could result in additional disclosures to the financial statements.  ASU 2014-09 allows for either a  full retrospective  adoption or a  modified retrospective  adoption.  The amended effective date of ASU 2014-09 is for reporting periods beginning after December 15, 2017.  Companies are permitted to voluntarily adopt the new standard as of the original effective date which was reporting periods beginning after December 15, 2016.  The Company expects to adopt this standard on January 1, 2018.  The Company is currently evaluating the revenue recognition impact this guidance will have once implemented and the implementation approach to be used. 
+   
+  NOTE 2: PROCEEDINGS UNDER CHAPTER 11  
+  Chapter 11 Reorganization   On December 8, 2008, Tribune Media Company, formerly Tribune Company ( TCO ) and   110   of its direct and indirect   wholly-owned subsidiaries (each a  Debtor  and, collectively, the  Debtors ), filed voluntary petitions for relief under Chapter 11 ( Chapter 11 ) of title 11 of the United States Code in the United States Bankruptcy Court for the District of Delaware (the  Bankruptcy Court ).  A joint plan of reorganization for the Debtors (the  Plan ) became effective and the Debtors emerged from Chapter 11 on December 31, 2012 (the  Effective Date ).  Certain of the legal entities included in the Consolidated Financial Statements of tronc were Debtors or, as a result of the restructuring transactions undertaken pursuant to the Plan, are successor legal entities to legal entities that were Debtors (collectively, the  tronc Debtors ).  
+  On April 12, 2012, the Debtors and the official committee of unsecured creditors and creditors under certain TCO prepetition debt facilities filed the Plan with the Bankruptcy Court.  On July 23, 2012, the Bankruptcy Court issued the Confirmation Order.  Several notices of appeal of the Confirmation Order were filed.  The appellants sought, among other relief, to overturn the Confirmation Order and certain prior orders of the Bankruptcy Court, including the settlement of certain claims and causes of action related to the Leveraged ESOP Transactions that was embodied in the Plan.  There is currently no stay of the Confirmation Order in place pending resolution of the confirmation-related appeals.  In January 2013, TCO filed a motion before the Delaware District Court to dismiss the appeals as equitably moot, based on the substantial consummation of the Plan.  On June 18, 2014, the Delaware District Court entered an order granting in part and denying in part the motion to dismiss.  On July 16, 2014, notices of appeal of the Delaware District Court s order were filed with the U.S. Court of Appeals for the Third Circuit by Aurelius, Law Debenture, and Deutsche Bank.  On August 19, 2015, the Third Circuit affirmed the Delaware District Court s dismissal of Aurelius s appeal of the Confirmation Order.  The  
+  
+   11 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+Third Circuit, however, reversed the Delaware District Court s dismissal of Law Debenture s and Deutsche Bank s appeals of the Confirmation Order, and remanded those appeals for further proceedings on the merits.  On September 11, 2015, the Third Circuit denied Aurelius s petition for en banc review of the court s decision and on January 11, 2016, Aurelius filed a petition for writ of certiorari to the U.S. Supreme Court.  That petition was denied on March 31, 2016. 
+  Prior to December 27, 2015, the Chapter 11 estates of   96   of the Debtors were closed by a final decree issued by the Bankruptcy Court.  On May 11, 2016, the Chapter 11 estates of   8   more of the Debtors were closed by a final decree issued by the Bankruptcy Court.  On August 12, 2016, the Chapter 11 estates of   2   more of the Debtors, including the last   one   of the tronc Debtors  cases, were closed by a final decree issued by the Bankruptcy Court.  The remaining Chapter 11 cases relate to Debtors and successor legal entities that are subsidiaries of TCO and the cases continue to be administered under the caption  In re: Tribune Media Company, et al.,  Case No 08-13141. 
+  Reorganization Items, Net   Reorganization items, net, generally includes provisions and adjustments to reflect the carrying value of certain prepetition liabilities at their estimated allowable claim amounts and, pursuant to ASC Topic 852,    Reorganizations,    is reported separately in the Company s   Consolidated Statements of Income (Loss)  .  Reorganization items, net, may also include professional advisory fees and other costs directly associated with the Debtors  Chapter 11 cases. 
+  Specifically identifiable reorganization provisions, adjustments and other costs directly related to the Company have been included in the Company s   Consolidated Statements of Income (Loss)   for the three and   nine months ended September 25, 2016   and   September 27, 2015   and consisted of the following (in thousands): 
+
+The Company expects to incur certain expenses pertaining to the resolution of an unresolved claim in the Chapter 11 proceedings throughout 2016 and potentially in future periods. 
+   
+  NOTE 3: CHANGES IN OPERATIONS  
+  Employee Reductions   In the fourth quarter of 2015, the Company offered an Employee Voluntary Separation Program (     EVSP     ), which provided enhanced separation benefits to eligible non-union employees with more than   one year   of service.  The Company is funding the EVSP ratably over the payout period through salary continuation instead of lump sum severance payments.  The salary continuation started in the fourth quarter of 2015 and continues through the first half of 2018.  For the three and nine months ended   September 25, 2016  , the Company recorded an additional charge of   $0.8 million   and   $9.7 million  , respectively, for related severance, benefits and taxes in connection with the EVSP.   
+  During the first quarter of 2016, the Company began the process to outsource its information technology function ( ITO ).  The Company recorded a pretax charge of   $1.5 million   and   $4.4 million   for the three and nine months ended   September 25, 2016  , respectively, for severance, benefits and taxes in connection with the ITO, and expects a total estimated cost of   $7.0 million  . 
+  In addition to the ITO, the Company implemented additional reductions of   56   and   168   positions in the three and   nine months ended September 25, 2016  , respectively, and recorded a pretax charge related to these reductions and executive separations of   $1.5 million   and   $10.4 million  , respectively.   
+  The Company identified reductions in its staffing levels of   24   and   298   in the three and nine months ended   September 27, 2015  , respectively.  The Company recorded pretax charges related to these reductions of   $2.8 million   and   $6.2 million   for the three and nine months ended   September 27, 2015  , respectively. 
+  
+   12 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+A summary of the activity with respect to the Company s severance accrual for the   nine months ended September 25, 2016   is as follows (in thousands): 
+
+Charges for severance and related expenses are included in compensation expense in the accompanying   Consolidated Statements of Income (Loss)  . 
+  Lease Abandonment   In the third quarter of 2016, the Company permanently vacated approximately   200,000   sq. ft. of office space in the Chicago Tribune and Los Angeles Times buildings and took a charge of   $8.5 million   related to the abandonment.  These charges are included in other operating expenses in the accompanying   Consolidated Statements of Income (Loss)  . 
+   
+  NOTE   4  : RELATED PARTY TRANSACTIONS 
+  Aircraft Dry Sublease 
+  One of the Company s subsidiaries, Tribune Publishing Company, LLC ( TPC ), entered into an Aircraft Dry Sublease Agreement, which became effective as of February 4, 2016, with Merrick Ventures, LLC ( Merrick Ventures ).  Michael W. Ferro, Jr., the non-executive Chairman of the Company s Board of Directors, is chairman and chief executive officer of Merrick Ventures.  Under the agreement, TPC has subleased on a non-exclusive basis, a Bombardier aircraft leased by Merrick Ventures, at a cost, including TPC s proportionate share of the insurance premiums and maintenance expenses, of   $8,500   per flight hour flown.  TPC also is responsible for charges attributable to the operation of the aircraft by TPC during the lease term.  The initial term of the sublease is   one year  , which term automatically will be renewed on an annual basis.  Either party may terminate the agreement upon   30 days   written notice to the other.  During the three and nine months ended   September 25, 2016  , the Company incurred   $0.8 million   and   $2.1 million  , respectively, related to the aircraft sublease, of which   $1.1 million   has been reimbursed to Merrick Ventures and   $0.2 million   has been paid to an outside party for pilot services. 
+  Aggrego Agreement 
+  On March 2, 2016, the Company entered into a Memorandum of Understanding with Aggrego Services, LLC ( Aggrego ) to place widgets on the Company s publication websites which link to related content on Aggrego s websites, and to allocate a defined percentage of the revenue received from advertising relating to such content to the Company.  The Company paid Aggrego   $0.4 million   at inception of the agreement.  Wrapports, LLC owns over   50%   of Aggrego.  Mr. Ferro, through Merrick Ventures, was a significant interest holder and served as non-executive chairman of Wrapports, LLC.  On March 10, 2016, Merrick Media, LLC and Merrick Ventures divested their ownership interests in Wrapports, LLC.  As a result, the agreement with Aggrego is not considered a related party transaction after March 10, 2016.  See Note   8   for more information related to this agreement. 
+  Nant Capital, LLC 
+  In connection with the private placement described in Note 14, the Company entered into a term sheet with NantWorks, LLC for a co-exclusive, non-transferable, fee-bearing license pursuant to which the Company will receive access to over   100   machine vision and artificial intelligence technology patents for news media applications as well as access to and use of studio space made available by NantStudio, LLC, a subsidiary of NantWorks, LLC.  Under the term sheet, the Company will issue to NantStudio, LLC   333,333   shares of common stock and will be entitled to retain the first   $80 million   in revenues derived from the licensed patents royalty free, after which the Company will pay to NantWorks a   6%   royalty on subsequent revenues.  There can be no assurance that the terms described in the term sheet will ultimately be reflected in binding, definitive agreements.    
+  
+   13 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+NOTE   5  : ACQUISITIONS 
+  The San Diego Union-Tribune 
+  On    May 21, 2015  , the Company completed the acquisition of MLIM, LLC ( MLIM ), the indirect owner of   The San Diego Union-Tribune   (f/k/a the   U-T San Diego  ) and   nine   community weeklies and related digital properties in San Diego County, California, pursuant to the Membership Interest Purchase Agreement (the  Agreement ), dated May 7, 2015, among the Company, MLIM Holdings, LLC, the Papa Doug Trust under the agreement dated January 11, 2010, Douglas F. Manchester and Douglas W. Manchester, and MLIM, as amended effective May 21, 2015.  As of the closing of the transaction, the Company acquired   100%   of the equity interests in MLIM.  The results of operations of   The San Diego Union-Tribune   have been included in the consolidated financial statements since the closing date of the acquisition.  The allocation of the purchase price is based upon fair values.  The inputs for fair value are level 3.  The determination of the fair value of the intangible assets acquired and liabilities assumed has been completed and the final allocation of the purchase price is as follows (in thousands): 
+
+During the second quarter 2016, the Company completed the determination of the fair value of the intangible assets and liabilities.  As a result, the fair value for the intangible assets for subscriber relationships was increased by   $8.0 million   from the original value of   $9.3 million   to   $17.3 million  .  A corresponding decrease in goodwill was also recorded, adjusting goodwill from the original value of   $82.3 million   to   $74.3 million  .  The cumulative impact of the change on amortization expense is not material. 
+  Other 
+  In June 2016, the Company purchased the Pacific Magazine for approximately   $0.6 million  , and has classified   $0.3 million   of this purchase as an intangible asset. 
+  
+   14 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+NOTE 6: INVENTORIES  
+  Inventories consisted of the following (in thousands):  
+
+Inventories are stated at the lower of cost and net realizable value determined using the first-in, first-out ( FIFO ) basis for all inventories. 
+   
+  NOTE 7: GOODWILL AND OTHER INTANGIBLE ASSETS 
+  In accordance with Accounting Standards Codification ( ASC ) Topic No. 350,  Intangibles-Goodwill and Other  ( ASC Topic 350 ), the Company conducts an annual impairment review of its goodwill and other indefinite-lived intangible assets during the fourth quarter.  The impairment review includes a comparison of estimated fair values to book values at the reporting unit level and must be performed annually or more frequently if significant changes in circumstances ( triggering events ) indicate that an asset might be impaired.   
+  During the second quarter 2016, the Company realigned under its new management team into   two   distinct segments: troncM and troncX.  As part of the re-segmentation, the Company determined that the   nine   media groups and the   four   digital businesses are the reporting units at which goodwill will be evaluated.  See Note   17   for additional segment information. 
+  The re-segmentation of the digital business in troncX is considered a triggering event and as part of the re-segmentation, in the second quarter of 2016, the Company performed an interim assessment of the carrying value of its individual ASC Topic 350 reporting units as of immediately before and immediately after the re-segmentation.  T  he calculated fair value was determined using an average of the discounted cash flow method and the market comparable method, applying equal weight to both.  The calculated fair value uses level 3 inputs.  Estimates of fair value are subjective in nature, involve uncertainties and matters of significant judgment and are made at a specific point in time.  Thus, changes in key assumptions from period to period could significantly affect the estimates of fair value.  Significant assumptions used in the fair value estimates include projected revenues and related growth rates over time (the perpetuity growth rates used ranged from   (0.3)%   to   2.5%  ), forecasted revenue growth rates (forecasted revenue growth ranged from (  4.4%  ) to   3.3%  ), projected operating cash flow margins, estimated tax rates, depreciation expense, capital expenditures, required working capital needs, and an appropriate risk-adjusted weighted-average cost of capital (the weighted average cost of capital used for troncM was   10.0%   and for troncX was   12.0%  ). 
+  Based on the assessments performed, the estimated fair value of all of the Company s reporting units exceeded their carrying amounts. 
+  
+   15 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+Goodwill and other intangible assets at   September 25, 2016   and   December 27, 2015   consisted of the following (in thousands): 
+
+The changes in the carrying amounts of intangible assets not subject to amortization during the   nine months ended September 25, 2016   were as follows (in thousands):  
+
+In February 2016, the Company purchased the domain name LA.com for   $1.2 million   and has classified this purchase as an indefinite-lived intangible asset. 
+   
+  NOTE   8  : INVESTMENTS  
+  Investments consist of equity method investments in private companies totaling   $3.9 million   and   $3.7 million   at   September 25, 2016   and   December 27, 2015  , respectively:  
+
+16 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+The Company utilizes the services of CIPS Marketing Group, Inc. for local marketing efforts such as distribution, door-to-door marketing and total market coverage.  During the three and nine month periods ended   September 25, 2016  , the Company recorded   $0.3 million   and   $0.8 million  , respectively, in revenue and   $2.7 million   and   $8.5 million  , respectively, in other operating expenses related to such marketing services.  During the three and nine month periods ended   September 27, 2015  , the Company recorded   $0.3 million   and   $0.7 million  , respectively, in revenue and   $2.8 million   and   $8.2 million  , respectively, in other operating expenses related to such marketing services. 
+  In February 2016, Homefinder.com LLC ( Homefinder ) sold substantially all of its operating assets and liabilities, excluding cash, to Placester, Inc. ( Placester ) for stock representing   0.75%   of outstanding Placester stock.  Homefinder is in the process of winding down its operations.  Once complete, Homefinder will distribute the Placester stock and remaining cash to the owners of Homefinder in proportion to their ownership interests.  The carrying value of the Company s investment in Homefinder is not material. 
+  In April 2016, tronc, along with other leading media companies McClatchy, Gannett and Hearst, formed Nucleus Marketing Solutions, LLC ( Nucleus ).  This premier network will connect national advertisers to highly engaged audiences across existing and emerging digital platforms.  Nucleus will work with its marketing partners to address their goals by offering integrated services across all platforms.  The Company owns   25%   of Nucleus and funded its initial investment of   $1.8 million   in the second quarter of 2016.  The Company s interest in Nucleus is recorded as an equity method investment.  During the three month period ended   September 25, 2016  , the Company recorded   $2.1 million   on a net basis for revenue related to the Nucleus agreement. 
+  In March 2016, Contend, LLC ( Contend ) exercised its option to repurchase its Class A units from the Company.  The Company received   $1.2 million   for the units and recorded a gain of   $0.4 million   on the transaction.  Also in March 2016, the Company determined the recorded value of Jean Knows Cars, LLC was impaired and recorded a   $0.4 million   reduction in the carrying value of the investment. 
+  As discussed in Note   4  , on March 2, 2016, the Company entered into a Memorandum of Understanding with Aggrego (the  Aggrego Agreement ).  In connection with the Aggrego Agreement, effective July 31, 2016, Aggrego granted the Company a warrant that gives the Company the right to purchase   1,039,474   Class Q Common Units of Aggrego for an exercise price of   $1.00   per unit.  The exercise period of the warrant is from   July 31, 2016   to   July 31, 2018  .   
+   
+  NOTE   9  :  DEBT 
+  At   September 25, 2016  , the Company had   $384.9 million   in variable-rate debt outstanding under the Term Loan Credit Agreement, as defined below.  The weighted average interest rate for the variable-rate debt is   5.75%  .  At   September 25, 2016  , the fair value of borrowings outstanding under the Term Loan Credit Agreement was estimated to be   $382.0 million   based on level 2 inputs, because the fair value for these instruments is determined using observable inputs in non-active markets.    Level 2 inputs include quoted market prices in markets that are not active; quoted prices of assets or liabilities with similar attributes in active markets; or valuation models whose inputs are observable or unobservable but corroborated by market data.    
+  Senior Term Facility 
+  On August 4, 2014, the Company entered into a credit agreement (as amended, amended and restated or supplemented, the  Term Loan Credit Agreement ) with JPMorgan Chase Bank, N.A., as administrative agent and collateral agent (in such capacity, the  Term Collateral Agent ), and the lenders party thereto (the  Senior Term Facility ).  The Senior Term Facility originally provided for secured loans (the  Term Loans ) in the aggregate principal amount of   $350.0 million  .  The Senior Term Facility initially provided that it could be expanded by an amount up to (i) the greater of   $100.0 million   and an amount as will not cause the net senior secured leverage ratio after giving effect to such incurrence to exceed   2  :1 plus (ii) an amount equal to all voluntary prepayments of the term loans borrowed under the Senior Term Facility, subject to certain conditions.  In 2015,   $70 million   of the expansion was drawn for the acquisition of   The San Diego Union-Tribune.    As of   September 25, 2016  , total principal outstanding under the Term Loans was   $384.9 million  .  The Term Loans bear interest at a variable interest rate based on either LIBOR or a base rate, in either case plus an applicable margin.  The Term Loans amortize in equal quarterly installments equal to   1.25%   of principal amounts borrowed against the Senior Term Facility with the balance payable on the maturity date, August 4, 2021.  The Company is the borrower under the Senior Term Facility and  
+  
+   17 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+each of the Company s wholly-owned domestic subsidiaries, subject to certain exceptions (the  Subsidiary Guarantors ), guarantee the payment obligations under the Senior Term Facility.  The Senior Term Facility contains a number of covenants that, among other things, limit the ability of the Company and its restricted subsidiaries to: incur more indebtedness; pay dividends; redeem stock or make other distributions in respect of equity; make investments; and certain other usual and customary covenants.  As of   September 25, 2016  , the unamortized balance of the original issue discount was   $3.3 million   and the unamortized balance of the debt issuance costs associated with the Term Loans was   $7.9 million  .  As of   September 25, 2016  , the Company was in compliance with the covenants of the Senior Term Facility. 
+  Senior ABL Facility 
+  On August 4, 2014, the Company and the Subsidiary Guarantors entered into a credit agreement (the  ABL Credit Agreement ) with Bank of America, N.A., as administrative agent, collateral agent (in such capacity, the  ABL Collateral Agent ), swing line lender and letter of credit issuer and the lenders party thereto (the  Senior ABL Facility ).  The Senior ABL Facility will mature on August 4, 2019.  The Senior ABL Facility provides for senior secured revolving loans and letters of credit of up to a maximum aggregate principal amount of   $140.0 million  .  Up to   $75.0 million   of availability under the Senior ABL Facility is available for letters of credit and up to   $15.0 million   of availability under the Senior ABL Facility is available for swing line loans.  The Senior ABL Facility also permits the Company to increase the commitments under the Senior ABL Facility by up to   $75.0 million  .  The Senior ABL Facility bears interest at a variable interest rate based on either LIBOR or a base rate, in either case plus an applicable margin.  tronc, Inc. and the Subsidiary Guarantors are the borrowers under the Senior ABL Facility.  tronc, Inc. and the Subsidiary Guarantors guarantee the payment obligations under the Senior ABL Facility.  The Senior ABL Facility contains a number of covenants that, among other things, limit the ability of tronc and its restricted subsidiaries to: incur more indebtedness; pay dividends; redeem stock or make other distributions in respect of equity; make investments; and certain other usual and customary covenants.  Customary fees are payable in respect of the Senior ABL Facility, including commitment fees of   0.25%   and letter of credit fees.  As of   September 25, 2016  , there were   no   borrowings under the Senior ABL Facility and   $40.5 million   of the Senior ABL Facility availability supported outstanding undrawn letters of credit in the same amount. 
+  Letter of Credit Agreement 
+  On August 4, 2014, the Company and JPMorgan Chase Bank, N.A., as letter of credit issuer (the   L/C Issuer ) entered into a letter of credit agreement (the  Letter of Credit Agreement ).  The Letter of Credit Agreement provides for the issuance of standby letters of credit of up to a maximum aggregate principal face of   $30.0 million  .  The Letter of Credit Agreement permits the Company, at the sole discretion of L/C Issuer, to request an increase of the amount available to be issued under the Letter of Credit Agreement up to an aggregate maximum face amount of   $50.0 million  .  The Letter of Credit Agreement is scheduled to terminate on August 4, 2019.  
+  During the quarter ended September 27, 2015, the Company was notified that an outstanding letter of credit agreement was reduced from   $27.5 million   to   $17.0 million  .  Accordingly, the Company received   $10.5 million   released from the restricted cash collateral account during the quarter.  During the quarter ended September 25, 2016, the Company closed its outstanding letter of credit and moved the letter of credit to Bank of America, N.A. under the Senior ABL facility.  This transaction allowed for the release of the remaining   $17.0 million   held as restricted cash.  As of   September 25, 2016  , the Company had   no   outstanding undrawn letters of credit against the Letter of Credit Agreement.  
+  Capital Leases 
+  The Company has capital leases on technology licenses and trucks.  The total balance outstanding as of   September 25, 2016   for capital leases was   $1.8 million  , of which   $0.5 million   is in short-term debt. 
+   
+  NOTE 10: INCOME TAXES 
+  For the three and   nine months ended September 25, 2016  , the Company recorded income tax expense of   $4.4 million   and   $3.3 million  , respectively.  The effective tax rate on pretax income was   (71.1)%   and   (34.5)%   in the three and   nine months ended September 25, 2016  , respectively.  For the three and nine months ended   September 25, 2016  , the   rate differs from the U.S. federal statutory rate of   35%   primarily due to a   $7.1 million   charge to adjust the Company s deferred taxes, as described below, state income taxes, net of federal benefit, and nondeductible expenses.    For the three and   nine months ended  
+  
+   18 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+September 27, 2015  , the Company recorded income tax benefit of   $6.3 million   and   $2.8 million  , respectively.  The effective tax rate on pretax income was   42.5%   and   51.0%   in the three and   nine months ended September 27, 2015  , respectively.  During the three months ended June 28, 2015, the Company increased the estimated deferred tax rate on net deferred tax assets from   39.5%   to   40.0%  , which resulted in a decrease in the current period income tax expense of   $0.5 million  .  For the three and nine months ended September 27, 2015, the rate differs from the U.S. federal statutory rate of   35%   primarily due to state income taxes, net of federal benefit, nondeductible expenses and the domestic production activities deduction, as well as the above described change in the deferred tax rate that was applied to non-current deferred tax assets and liabilities. 
+  During September 2016, TCO reached a resolution with the Internal Revenue Service ( IRS ) regarding a pre-spin tax issue.  In connection with the resolution and in conjunction with the tax rules applicable to emergence from bankruptcy, TCO has adjusted the previously determined tax basis of its assets as of December 31, 2012.  This adjustment affected the tax basis of the assets and liabilities, including the deferred tax liability, transferred to the Company as part of TCO s August 4, 2014 spin-off of its publishing operations.  As a result of the IRS resolution, the Company recorded a reduction in tax basis of the shares in the Company transferred from TCO against the basis in TPC stock, a subsidiary of the Company, by   $17.7 million  , which resulted in an additional   $7.1 million   deferred tax liability and a   $7.1 million   charge to tax expense during the quarter ended   September 25, 2016  . 
+   
+  NOTE 11:  PENSION AND OTHER POSTRETIREMENT BENEFITS  
+  Multiemployer Pension Plans   The Company contributes to a number of multiemployer defined benefit pension plans under the terms of collective-bargaining agreements that cover its union-represented employees.  
+  Defined Benefit Plans   As part of the acquisition of   The San Diego Union-Tribune   in May 2015, the Company became the sponsor of a single-employer defined benefit plan, The San Diego Union-Tribune, LLC Retirement Plan (the  San Diego Pension Plan ).  The San Diego Pension Plan provides benefits to certain current and former employees of   The San Diego Union-Tribune.    Future benefits under the San Diego Pension Plan have been frozen since January 1, 2009.  The Company contributed   $8.9 million   to the San Diego Pension Plan in the first nine months of 2016 and expects to contribute an additional   $1.9 million   to the San Diego Pension Plan during the remainder of 2016.  The components of net periodic benefit credit for the Company s defined benefit plan were as follows (in thousands):   
+
+  Postretirement Benefits Other Than Pensions   The Company provides postretirement health care to retirees pursuant to a number of benefit plans.  There is some variation in the provisions of these plans, including different provisions for lifetime maximums, prescription drug coverage and certain other benefits.  In the first quarter of 2015, the Company notified plan members that the Company was no longer going to offer a life insurance benefit effective December 27, 2015.  The impact of this plan modification was to reduce the postretirement medical, life and other benefits liability by   $7.8 million   and to recognize a gain of the same amount to compensation expense.  The components of net periodic benefit credit for the Company s postretirement health care and life insurance plans were as follows (in thousands): 
+  
+   19 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+NOTE 12: STOCK-BASED COMPENSATION 
+  The tronc, Inc. 2014 Omnibus Incentive Plan, as amended (the  Equity Plan ), provides for the granting of stock options, stock appreciation rights, restricted stock units ( RSU ), performance share units, restricted and unrestricted stock awards, dividend equivalents and cash awards.  Stock-based compensation expense under the Equity Plan totaled   $2.2 million   and   $2.1 million   during the three   months ended   September 25, 2016   and   September 27, 2015  , respectively, and   $6.0 million   and   $5.1 million   during the nine   months ended   September 25, 2016   and   September 27, 2015  , respectively. 
+  In the nine months ended   September 25, 2016  ,   546,154   options and   942,300   RSUs were granted under the Equity Plan.  The weighted average exercise price of stock options granted during 2016 was   $14.71  .  The weighted average grant date fair value of the RSUs granted during 2016 was   $14.28  . 
+  As of   September 25, 2016  , the Company has   $3.6 million   of total unrecognized compensation costs related to unvested options, which is expected to be recognized over a weighted-average period of   2.54   years.  Additionally, as of   September 25, 2016  , the Company has   $17.2 million   of total unrecognized compensation cost related to unvested RSUs, which is expected to be recognized over a weighted-average period of   2.30   years. 
+   
+  NOTE 13: EARNINGS PER SHARE 
+  Basic earnings per common share is calculated by dividing net income attributable to tronc common stockholders by the weighted average number of shares of common stock outstanding.  Diluted earnings per common share is similarly calculated, except that the calculation includes the dilutive effect of the assumed issuance of common shares under equity-based compensation plans, except where the inclusion of such common shares would have an anti-dilutive impact.  
+  
+   20 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+For the three and   nine months ended September 25, 2016   and   September 27, 2015  , basic and diluted earnings per common share were as follows (in thousands, except per share amounts):  
+
+Potential dilutive common shares were anti-dilutive as a result of the Company s net loss for the three and nine months ended September 25, 2016 and September 27, 2015, respectively.  As a result, basic weighted average shares were used in the calculations of basic net earnings per share and diluted earnings per share for those periods. 
+  The number of stock options that were excluded from the computation of diluted earnings per share because their inclusion would result in an anti-dilutive effect on per share amounts was   1,339,604   and   1,023,033   for both the three and   nine months ended September 25, 2016   and September 27, 2015, respectively.  The number of RSUs that were excluded from the computation of diluted earnings per share because their inclusion would result in an anti-dilutive effect on per share amounts was   1,375,501   and   1,004,468   for both the three and   nine months ended September 25, 2016   and September 27, 2015, respectively.  
+   
+  NOTE   14  : STOCKHOLDERS  EQUITY 
+  Shareholder Rights Agreement 
+  On May 9, 2016, the Board of Directors of the Company adopted a limited duration Shareholder Rights Plan ( Rights Plan ).  Under the terms of the Rights Plan, except in certain situations, the rights will be exercisable   10   days from the public announcement that a person or group has acquired   20%   or more of the common stock of tronc, Inc. or has commenced a tender offer which would result in the ownership of   20%   or more of tronc s common stock.  If the rights become exercisable and a person or group acquires   20%   or more of tronc s common stock, each holder of a right, other than the person triggering the rights, will be entitled to receive upon exercise of a right that number of shares of tronc s common stock having a market value of two times the exercise price of the right.  The Rights Plan will expire on May 8, 2017. 
+   The Board of Directors declared a distribution of one preferred share purchase right (a  Right,  and collectively, the  Rights ) for each outstanding share of common stock, par value   $0.01   per share, of the Company, to purchase from the Company one one-thousandth of a share of Series A Preferred Stock, par value   $0.01   per share, of the Company (the  Preferred Stock ) at a price of   $75.00   per   one one-thousandth   of a share of Preferred Stock (the  Exercise Price ), subject to adjustment as provided in the Shareholder Rights Agreement (as described below).  The distribution was made to stockholders of record at the close of business on May 19, 2016 (the  Record Date ).  The description and terms of the Rights are set forth in a rights agreement, dated as of May 9, 2016, as the same may be amended from time to time (the  Shareholder Rights Agreement ), by and between the Company and Computershare Trust Company, N.A., as rights agent (the  Rights Agent ).   
+  
+   21 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+Private Placements 
+  Nant Capital, LLC 
+  On June 1, 2016, the Company completed a   $70.5 million   private placement, pursuant to which the Company sold to Nant Capital, LLC ( Nant Capital )   4,700,000   unregistered shares of the Company s common stock at a purchase price of   $15.00   per share.  The Company intends to use the   $70.4 million   net proceeds from the sale to further execute on its growth strategy, including acquisitions and digital initiatives.  The shares of common stock acquired by Nant Capital (the  Nant Shares ) are subject to certain lockup provisions that, subject to the terms and conditions set out in the purchase agreement dated May 22, 2016, among the Company, Nant Capital and Dr. Patrick Soon-Shiong (the  Nant Purchase Agreement ) prohibit certain transfers of the Nant Shares for the first   three years   following the date of issuance and, thereafter, any transfers of the Nant Shares that would result in a transfer of more than   25%   of the Nant Shares in any 12-month period.  The Nant Purchase Agreement also includes covenants prohibiting the transfer of shares of the Company s common stock if the transfer would result in a person beneficially owning more than   4.9%   of the Company s then-outstanding shares of common stock following the transfer, as well as transfers to a material competitor of the Company in any of the Company s then-existing primary geographical markets.  Nant Capital and Dr. Patrick Soon-Shiong, and their respective affiliates, are also prohibited from acquiring additional equity of the Company if the acquisition could result in their beneficial ownership of more than   25%   of the Company s then-outstanding shares of common stock.   
+  In connection with the private placement, Dr. Soon-Shiong was elected to fill a newly-created position on the Company s Board of Directors and was named non-executive Vice Chairman of the Board as of the date of the Company s 2016 Annual Meeting of Stockholders on June 2, 2016.  The Company granted Dr. Soon-Shiong the right to designate a replacement individual for election as a director at each annual and special meeting of the Company s stockholders at which directors are to be elected as part of the slate of nominees recommended by the Board, subject to the reasonable prior approval of the Board s Nominating and Corporate Governance Committee, in the event that Dr. Soon-Shiong is unable to continue to serve as a director.  Nant Capital s right to appoint a replacement director representative will expire upon the occurrence of either (a) the termination of the voting covenants described in the Nant Purchase Agreement or (b) at such time as Nant Capital, Dr. Soon-Shiong and their respective affiliates no longer beneficially own at least   75%   of the shares originally acquired through the Nant Purchase Agreement. 
+  Additionally, in connection with the private placement, the Company entered into a registration rights agreement (the  Nant Rights Agreement ) with Nant Capital.  Pursuant to the Nant Rights Agreement, Nant Capital will be entitled to certain registration rights under the Securities Act of 1933, as amended (the  Securities Act ), with respect to the Nant Shares.  The Nant Rights Agreement provides that the Company shall use its reasonable best efforts to cause a registration statement with respect to the Nant Shares to be declared effective no later than the earlier to occur of (a)   three years   after the consummation of the private placement transaction contemplated by the Nant Purchase Agreement and (b)   60 days   after the termination of the voting covenants of the Nant Purchase Agreement as described above.  The Company will pay all of its own costs and expenses, including all fees and expenses of counsel for the Company, relating to the Nant Rights Agreement. 
+   California Capital Equity, LLC ( CalCap ) directly owns all of the equity interests of Nant Capital and CalCap may be deemed to have beneficial ownership of the shares held by Nant Capital.  Dr. Patrick Soon-Shiong directly owns all of the equity interests of CalCap and may be deemed to beneficially own, and share voting power and investment power with Nant Capital over all shares of tronc common stock beneficially owned by Nant Capital.  Dr. Soon-Shiong directly owns   410,557   shares of tronc common stock and beneficially owns   14.03%   of tronc common stock as of   September 25, 2016  . 
+  Merrick Media, LLC 
+  On February 3, 2016, the Company completed a   $44.4 million   private placement, pursuant to which the Company sold to Merrick Media, LLC ( Merrick Media )   5,220,000   shares of the Company s common stock at a purchase price of   $8.50   per share.  The Company intends to use the   $42.9 million   net proceeds from the sale to execute further on its growth strategy, including acquisitions and digital initiatives.  The shares of common stock acquired by Merrick Media (the  Merrick Shares ) are subject to certain lockup provisions that, subject to the terms and conditions set out in the purchase agreement dated February 3, 2016 among the Company, Merrick Media and Mr. Ferro (the  Merrick Purchase Agreement ), prohibit certain transfers of the Merrick Shares for the first   three   years following the date of issuance and, thereafter, any transfers of the Merrick Shares that would result in a transfer of more than   25%   of the Merrick Shares purchased under the Merrick  
+  
+   22 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+Purchase Agreement in any 12-month period.  The Merrick Purchase Agreement also includes covenants prohibiting the transfer of the Merrick Shares if the transfer would result in a person beneficially owning more than   4.9%   of the Company s then-outstanding shares of common stock following the transfer, as well as transfers to a material competitor of the Company in any of the then-existing primary geographical markets.  Merrick Media and Mr. Ferro and their respective affiliates, are also prohibited from acquiring additional equity if the acquisition could result in their beneficial ownership of more than   25%   of the Company s then-outstanding shares of common stock. 
+   In connection with the private placement, Mr. Ferro was elected to fill a newly-created position on the Company s Board of Directors and was named non-executive Chairman of the Board.  The Company granted Merrick Media the right to designate a replacement individual for election as a director at each annual and special meeting of stockholders at which directors are to be elected as part of the slate of nominees recommended by the Board of Directors, subject to the reasonable prior approval of the Board s Nominating and Corporate Governance Committee, in the event that Mr. Ferro is unable to continue to serve as a director.  Merrick Media s right to appoint a replacement director representative will expire either (a) on the date that Mr. Ferro or his replacement is not nominated for reelection as a director, is removed as a director, or is not reelected as a director if the Company has not recommended his or his replacement s reelection or (b) at such time as Merrick Media, Mr. Ferro and their respective affiliates no longer beneficially own at least   75%   of the shares originally acquired pursuant to the Merrick Purchase Agreement. 
+  Additionally, in connection with the private placement, the Company entered into a registration rights agreement (the  Merrick Rights Agreement ) with Merrick Media.  Pursuant to the Merrick Rights Agreement, Merrick Media will be entitled to certain registration rights under the Securities Act, with respect to the Merrick Shares.  The Merrick Rights Agreement provides that the Company will use its reasonable best efforts to cause a registration statement with respect to the Merrick Shares to be declared effective no later than the earlier of (a)   three years   after the consummation of the private placement transaction contemplated by the Merrick Purchase Agreement and (b)   60 days   after the termination of the voting covenants of the Merrick Purchase Agreement as described above.  The Company will pay all of its own costs and expenses, including all fees and expenses of counsel for the Company, relating to the Merrick Rights Agreement. 
+  Mr. Ferro is the manager of Merrick Venture Management, LLC, which is the sole manager of Merrick Media.  Because Merrick Venture Management, LLC serves as the sole manager of Merrick Media, Mr. Ferro may be deemed to indirectly control all of the shares of the Company s common stock owned by Merrick Media. 
+  Dividends 
+  On February 11, 2016, the Company paid a dividend of   $0.175   per share on common stock outstanding, to stockholders of record on January 11, 2016.  In February 2016, the Company s Board of Directors suspended the payment of cash dividends on the Company s outstanding common stock.  Any future determination to declare and pay dividends will be made at the discretion of the Board of Directors, after taking into account the Company s financial results, capital requirements and other factors it may deem relevant. 
+  Name Change and Stock Exchange Listing 
+  The Company transferred its stock exchange listing from the New York Stock Exchange ( NYSE ) to The Nasdaq Global Select Market ( Nasdaq ) and changed its corporate name to tronc, Inc.  The common stock of the Company ceased trading on the NYSE on June 17, 2016 at the end of the day and began trading the morning of June 20, 2016 on the Nasdaq under the ticker symbol  TRNC.  
+  
+   23 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+NOTE 15: ACCUMULATED OTHER COMPREHENSIVE LOSS 
+  The following table sets forth the components of accumulated other comprehensive loss, net of tax where applicable (in thousands):     
+
+The following table presents the amounts and line items in the Consolidated Statements of Income (Loss) where adjustments reclassified from accumulated other comprehensive (loss) were recorded during the three and nine months ended   September 25, 2016   and   September 27, 2015   (in thousands): 
+
+NOTE 16: CONTINGENCIES 
+  Legal Proceedings   
+  The Company is subject to various legal proceedings and claims that have arisen in the ordinary course of business.  The legal entities comprising our operations are defendants from time to time in actions for matters arising out of their business operations.  In addition, the legal entities comprising our operations are involved from time to time as parties in various regulatory, environmental and other proceedings with governmental authorities and administrative agencies. 
+  Stockholder Derivative Lawsuits 
+  On June 1, 2016, Capital Structures Realty Advisors LLC, which purports to be a stockholder in the Company, filed a derivative lawsuit in the Delaware Court of Chancery against the members of the Company s Board of Directors as of June 1, 2016, Dr. Patrick Soon-Shiong and Nant Capital.  The complaint has named the Company as a nominal defendant.  The complaint alleges in relevant part that the Board breached its fiduciary duties by  refusing to negotiate with Gannett in good faith  and by  going forward with the stock sale  to Dr. Soon-Shiong and Nant Capital.  The complaint further alleges that Nant Capital and Dr. Soon-Shiong aided and abetted the Board s breaches of fiduciary duty.  On June 6, 2016, a second derivative complaint was filed in the Delaware Court of Chancery by Monroe County Employees Retirement System, which purports to be a stockholder in the Company.  On June 15, 2016, a third, mirror image, derivative complaint was filed in the Delaware Court of Chancery on behalf of an individual named John Solak, who purports to be a stockholder in the Company.  All   three   cases were consolidated on June 17, 2016, under the caption In re Tribune Publishing Co. Stockholder Litigation, Consolidated C.A. No. 12401-VCS.  On June 20, 2016, a fourth, mirror image derivative complaint was filed in the Delaware Court of Chancery on behalf of an individual named B.W. Tomasino, who purports to be a stockholder in the Company.  That case was consolidated with the other   three   derivative cases on July 7, 2016.  The plaintiffs seek equitable and injunctive relief, including, without limitation, rescission of the stock sale to Dr. Patrick Soon-Shiong and Nant Capital, implementation of a special committee to consider Gannett and any other offer for the Company, money damages, and costs and  
+  
+   24 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+disbursements, and such other relief deemed just and proper.  The consolidated case is pending before Vice Chancellor Slights.   
+  On September 2, 2016, plaintiffs filed a consolidated complaint.  The defendants filed motions to dismiss on October 3, 2016.  The defendants deny any and all allegations of wrongdoing and intend to defend vigorously against the lawsuits.  Due to the inherent uncertainty in litigation, however, the Company can provide no assurance as to the outcome of the matter or reasonably estimate a range of possible loss at this time.  Additionally, the Company maintains liability insurance for its directors and officers, which we expect to provide coverage for this litigation; however, there can be no guarantees as to coverage or whether any such policies will be adequate to cover all costs associated with this litigation.   
+   
+  NOTE   17  : SEGMENT INFORMATION 
+  The Company s business segments are based on the organization structure used by management for making operating and investment decisions and for assessing performance.  Beginning in the second quarter of fiscal 2016, the operating segments consist of troncM and   troncX.  troncM is comprised of the Company s media groups excluding their digital revenues and related digital expenses, except digital subscription revenues when sold with a print subscription.  troncX includes the Company s digital revenues and related digital expenses from local websites and mobile applications, digital only subscriptions, as well as Tribune Content Agency ( TCA ) and Forsalebyowner.com ( FSBO ).  Assets are not presented to or used by management at a segment level for making operating and investment decisions and therefore are not reported.    The prior periods have been restated to reflect the change in reportable segments. 
+  The Company measures segment profit using income from operations, which is defined as income from operations before net interest expense, gain on investment transactions, reorganization items and income taxes.   
+  Operating revenues and income (loss) from operations by operating segment were as follows for the periods indicated (in thousands):  
+
+The above operating revenues and operating results are not necessarily indicative of the results that may be expected for the full fiscal year. 
+  
+   25 
+
+TRONC, INC. 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  (Unaudited) 
+
+NOTE 18: SUPPLEMENTAL CASH FLOW INFORMATION 
+  Supplemental cash flow information for each of the periods presented is as follows (in thousands): 
+
+NOTE 19: SUBSEQUENT EVENT 
+  In April 2016, the Company received an unsolicited proposal from Gannett Co., Inc. to acquire all outstanding shares of the Company common stock for   $12.25   per share in cash which was revised in May 2016 to   $15   per share in cash with both proposals being subject to satisfactory due diligence by Gannett.  The Company s Board of Directors determined that the price reflected in Gannett s revised proposal was inadequate for a control investment and was not in the best interests of its shareholders and communicated such to Gannett.  Subsequently, the tronc Board, management team and their advisers engaged in substantive discussions and due diligence with Gannett regarding a potential transaction.  The parties agreed to a purchase price in mid-September and subsequently worked to finalize a merger agreement.  On November 1, 2016, the Company was informed that Gannett decided to terminate discussions regarding a potential business combination with tronc. 
+  
+   26 
+
+Item 2.      Management s Discussion and Analysis of Financial Condition and Results of Operations 
+    (in thousands, except share and per share amounts) 
+  T  he following discussion and analysis should be read in conjunction with the other sections of this Quarterly Report on Form 10-Q, including the Company s Consolidated Financial Statements and related Notes filed as part of this Quarterly Report, and  Cautionary Statement Concerning Forward-Looking Statements.  Management s Discussion and Analysis of Financial Condition and Results of Operations contains a number of forward-looking statements, all of which are based on our current expectations and could be affected by the uncertainties and other factors described throughout this Quarterly Report, as well as the factors described in our Annual Report on Form 10-K as filed with the SEC on March 14, 2016, particularly under Item 1A.  Risk Factors,  and in the Company s other filings with the SEC, including in Part II, Item 1A of this Quarterly Report on Form 10-Q and our Quarterly Report on Form 10-Q filed with the SEC on August 5, 2016. 
+  We believe that the assumptions underlying the Consolidated Financial Statements included in this Quarterly Report are reasonable. However, the Consolidated Financial Statements may not necessarily reflect our results of operations, financial position and cash flows for future periods. 
+  OVERVIEW 
+  tronc, Inc., formerly Tribune Publishing Company,   was formed as a Delaware corporation on November 21, 2013.  tronc, Inc.,   and its subsidiaries (collectively, the  Company  or  tronc ) comprise a diversified media and marketing-solutions company that delivers innovative experiences for audiences and advertisers across all platforms.  The Company s diverse portfolio of iconic news and information brands includes 11 award-winning major daily titles, more than 60 digital properties and more than 180 verticals in markets including Los Angeles and San Diego, Ca; Chicago, Il; South Florida; Orlando, Fl; Baltimore, Carroll County and Annapolis, Md.; Hartford, Ct.; Allentown, Pa.; and Newport News, Va. tronc also offers an array of customized marketing solutions, and operates a number of niche products, including   Hoy   and   El Sentinel  , making tronc the country s largest Spanish-language publisher. 
+  On August 4, 2014 (the  Distribution Date ), Tribune Media Company, formerly Tribune Company ( TCO )  completed the spin-off of its principal publishing operations into an independent company, Tribune Publishing Company (renamed tronc, Inc.) (the  Distribution ).  In the Distribution, 25,042,263 shares of tronc common stock were distributed to the TCO stockholders and holders of TCO warrants and TCO retained 381,354 shares of tronc common stock, representing 1.5% of outstanding common stock of tronc.  Subsequent to the Distribution, tronc became a separate publicly-traded company with its own board of directors and senior management team. 
+  2016 Highlights and Recent Events 
+             
+    On February 3, 2016, the Company completed a $44.4 million private placement of the Company s common stock to Merrick Media, LLC ( Merrick Media ). 
+                
+    In February 2016, Homefinder.com LLC ( Homefinder ) sold substantially all of its operating assets and liabilities, excluding cash, to Placester, Inc. ( Placester ) for cash and stock representing 0.75% of outstanding Placester stock. 
+                
+    In March 2016, Contend, LLC ( Contend ) exercised its option to repurchase its Class A units from the Company.  The Company received   $1.2 million   for the units and recorded a gain of   $0.4 million   on the transaction.  
+                
+    On June 1, 2016, the Company completed a $70.5 million private placement of the Company s common stock to Nant Capital, LLC ( Nant Capital ). 
+     Beginning with the second quarter of fiscal 2016, tronc began managing its business as two distinct segments  , troncM and troncX.  troncM is comprised of the Company s media groups excluding their digital revenues and related digital expenses, except digital subscription revenues when sold with a print subscription.  troncX includes the Company s digital revenues and related digital expenses from local websites and mobile applications, digital only subscriptions, as well as Tribune Content Agency ( TCA ) and Forsalebyowner.com ( FSBO ).    Accordingly, the Company changed its segment reporting to   two   reportable segments.  The prior periods have been restated to reflect the change in reportable segments.  Prior to the second quarter of fiscal 2016, tronc was managed by its chief operating decision maker, as defined by ASC Topic 280, as   one   business and   one   reportable segment.   
+  
+   27 
+
+troncM 
+  troncM s media groups include the Chicago Tribune Media Group, the Los Angeles Times Media Group, the San Diego Media Group, the Sun Sentinel Media Group, the Orlando Sentinel Media Group, The Baltimore Sun Media Group, the Hartford Courant Media Group, the Morning Call Media Group and the Daily Press Media Group.  In May 2015, the Company   acquired   The San Diego Union-Tribune   newspaper (f/k/a the   U-T San Diego  ) and nine community weeklies.  
+  In the   nine months ended September 25, 2016  ,   48.8%   of troncM s operating revenues were derived from advertising.  These revenues were generated from the sale of advertising space in published issues of the newspapers and from the delivery of preprinted advertising supplements.  Approximately   35.3%   of operating revenues for the   nine months ended September 25, 2016   were generated from the sale of newspapers and other publications to individual subscribers or to sales outlets that re-sell the newspapers.  The remaining   15.9%   of operating revenues for the   nine months ended September 25, 2016   were generated from the provision of commercial printing and delivery services to other newspapers, direct mail advertising and services, and other related activities. 
+  Newspaper print advertising is typically in the form of display, classified or preprint advertising.  Advertising and marketing services revenues are comprised of three basic categories: retail, national and classified.  Retail is a category of customers who tend to do business directly with the general public.  National is a category of customers who tend to do business directly with other businesses.  Classified is a type of advertising which is other than display or preprint. 
+  Circulation revenue results from the sale of print editions of newspapers to individual subscribers and the sale of print editions of newspapers to sales outlets that re-sell the newspapers.  
+  Other revenues are derived from commercial printing and delivery services provided to other newspapers, direct mail advertising and services and other related activities.    The Company contracts with a number of national and local newspapers to both print and distribute their respective publications in local markets where it is a newspaper publisher.  In some instances where it prints publications, it also manages and procures newsprint, ink and plates on their behalf.  These arrangements allow the Company to leverage its investment in infrastructure in those markets that support its own publications.  As a result, these arrangements tend to contribute incremental profitability and revenues.  The Company currently distributes national newspapers (including   The New York Times  ,   USA Today  , and   The Wall Street     Journal  ) in its local markets under multiple agreements.  Additionally, in Los Angeles and Chicago the Company provides some or all of these services to other local publications. 
+  Products and Services 
+  Our product mix consists of three publication types: (i) daily newspapers, (ii) weekly newspapers and (iii) niche publications.  The key characteristics of each of these types of publications are summarized in the table below. 
+                       
+    Daily Newspapers 
+    Weekly Newspapers 
+    Niche Publications 
+      Cost: 
+    Paid 
+    Paid and free 
+    Paid and free 
+      Distribution: 
+    Distributed four to seven days per week 
+    Distributed one to three days per week 
+    Distributed weekly, monthly or on an annual basis 
+      Income: 
+    Revenue from advertisers, subscribers, rack/box sales 
+    Paid:   Revenue from advertising, subscribers, rack/box sales 
+    Paid:   Revenue from advertising, rack/box sales 
+
+Free:   Advertising revenue only 
+    Free:   Advertising revenue only 
+
+As of   September 25, 2016  , the Company s prominent print publications include:  
+                               Media Group 
+      
+    City 
+      
+    Masthead 
+      
+    Circulation Type 
+      
+    Paid or Free 
+      Chicago Tribune Media Group 
+
+Chicago, IL 
+      
+    Chicago Tribune 
+      
+    Daily 
+      
+    Paid 
+
+Chicago, IL 
+      
+    Chicago Magazine 
+      
+    Monthly 
+      
+    Paid 
+
+Chicago, IL 
+      
+    Hoy 
+      
+    Daily 
+      
+    Free 
+
+Chicago, IL 
+      
+    Redeye 
+      
+    Daily 
+      
+    Free 
+
+28 
+
+Media Group 
+      
+    City 
+      
+    Masthead 
+      
+    Circulation Type 
+      
+    Paid or Free 
+      Los Angeles Times Media Group 
+
+Los Angeles, CA 
+      
+    Los Angeles Times 
+      
+    Daily 
+      
+    Paid 
+
+Los Angeles, CA 
+      
+    Hoy Los Angeles 
+      
+    Weekly 
+      
+    Free 
+      San Diego Media Group 
+
+San Diego, CA 
+      
+    The San Diego Union-Tribune 
+      
+    Daily 
+      
+    Paid 
+
+San Diego, CA 
+      
+    Hoy San Diego 
+      
+    Weekly 
+      
+    Free 
+      Sun Sentinel Media Group 
+
+Broward County, FL, Palm Beach County, FL 
+      
+    Sun Sentinel 
+      
+    Daily 
+      
+    Paid 
+
+Broward County, FL, Palm Beach County, FL 
+      
+    el Sentinel  
+      
+    Weekly 
+      
+    Free 
+      Orlando Sentinel Media Group 
+
+Orlando, FL 
+      
+    Orlando Sentinel 
+      
+    Daily 
+      
+    Paid 
+
+Orlando, FL 
+      
+    el Sentinel 
+      
+    Weekly 
+      
+    Free 
+      The Baltimore Sun Media Group 
+
+Baltimore, MD 
+      
+    The Baltimore Sun 
+      
+    Daily 
+      
+    Paid 
+
+Annapolis, MD 
+      
+    The Capital 
+      
+    Daily 
+      
+    Paid 
+
+Westminster, MD 
+      
+    Carroll County Times 
+      
+    Daily 
+      
+    Paid 
+      Hartford Courant Media Group 
+
+Hartford County, CT, Middlesex County, CT, Tolland County, CT 
+      
+    The Hartford Courant 
+      
+    Daily 
+      
+    Paid 
+      Daily Press Media Group 
+
+Newport News, VA (Peninsula) 
+      
+    Daily Press 
+      
+    Daily 
+      
+    Paid 
+      The Morning Call Media Group 
+
+Lehigh Valley, PA 
+      
+    The Morning Call 
+      
+    Daily 
+      
+    Paid 
+
+troncX 
+  troncX consists of   the Company s digital revenues and related digital expenses from local websites and mobile applications, digital only subscriptions, as well as TCA and FSBO.  During the second quarter of 2016, the segregation of the digital business into troncX triggered a new evaluation of the Company s operating and reportable segments.  
+  TCA is a syndication and licensing business providing quality content solutions for publishers around the globe.  Working with a vast collection of the world s best news and information sources, TCA delivers a daily news service and syndicated premium content to over 3,000 media and digital information publishers in nearly 100 countries.  Tribune News Service delivers the best material from 70 leading companies, including   Los Angeles Times, Chicago Tribune  , Bloomberg News,   Miami Herald, The Dallas Morning News, Seattle Times   and   The Philadelphia Inquirer  .  Tribune Premium Content syndicates columnists such as Arianna Huffington, Cal Thomas, Clarence Page, Ask Amy, Mario Batali and Rick Steves.  TCA manages the licensing of premium content from publications such as   Rolling Stone, The Atlantic, Fast Company, Mayo Clinic, Variety   and many more.    TCA Originals is a new service that identifies remarkable journalism for production in Hollywood.  Tribune Content Agency traces its roots to 1918. 
+  ForSaleByOwner.com is a national consumer-to-consumer focused real estate website.  The majority of the revenue generated by ForSaleByOwner.com is e-commerce, but approximately one-third is generated through a call center and strategic partnerships with service providers in the real estate industry.  The business generates the majority of its revenue by selling listing packages directly to home sellers who receive online advertising, home pricing tools, marketing advice, yard signs and technical support.  ForSaleByOwner.com also sells packages that allow home sellers to syndicate to other national websites such as Zillow and Realtor.com as well as their local multiple listing service ( MLS ).  
+  
+   29 
+
+In the   nine months ended September 25, 2016  ,   83.2%   of troncX s operating revenues were derived from advertising.  These revenues were generated from the sale of advertising space on interactive websites and digital marketing services.  The remaining   16.8%   of operating revenues for the   nine months ended September 25, 2016   were generated from the sale of digital content and other related activities. 
+  Digital advertising can be in the form of display, banner ads, coupon ads, video, search advertising and linear ads placed on tronc and affiliated websites.  Advertising services include development of mobile websites, search engine marketing and optimization, social media account management and content marketing for its customers  web presence for small to medium size businesses. 
+  Products and Services 
+  As of   September 25, 2016  , the Company s prominent websites include:  
+                 Websites 
+      www.tronc.com 
+    www.SunSentinel.com 
+      www.chicagotribune.com 
+    www.ElSentinel.com 
+      www.chicagomag.com 
+    www.OrlandoSentinel.com 
+      www.vivelohoy.com 
+    www.baltimoresun.com 
+      www.redeyechicago.com 
+    www.capitalgazette.com 
+      www.latimes.com 
+    www.carrollcountytimes.com 
+      www.la.com 
+    www.courant.com 
+      www.hoylosangeles.com 
+    www.dailypress.com 
+      www.sandiegouniontribune.com 
+    www.themorningcall.com 
+
+The Company s results of operations, when examined on a quarterly basis, reflect the seasonality of tronc s revenues.  Second and fourth quarter advertising revenues are typically higher than first and third quarter revenues.  Results for the second quarter reflect spring advertising revenues, while the fourth quarter includes advertising revenues related to the holiday season. 
+  Subsequent Event 
+  In April 2016, the Company received an unsolicited proposal from Gannett Co., Inc. to acquire all outstanding shares of the Company common stock for $12.25 per share in cash which was revised in May 2016 to   $15   per share in cash with both proposals being subject to satisfactory due diligence by Gannett.  The Company s Board of Directors determined that the price reflected in Gannett s revised proposal was inadequate for a control investment and was not in the best interests of its shareholders and communicated such to Gannett. Subsequently, the tronc Board, management team and their advisers engaged in substantive discussions and due diligence with Gannett regarding a potential transaction.  The parties agreed to a purchase price in mid-September and subsequently worked to finalize a merger agreement.  On November 1, 2016, the Company was informed that Gannett decided to terminate discussions regarding a potential business combination with tronc. 
+   
+  Chapter 11 Reorganization 
+  On December 8, 2008 (the      Petition Date   )  , TCO and   110   of its direct and indirect   wholly-owned subsidiaries (each a  Debtor  and, collectively, the  Debtors ), filed voluntary petitions for relief under Chapter 11 ( Chapter 11 ) of title 11 of the United States Code in the United States Bankruptcy Court for the District of Delaware (the  Bankruptcy Court ).  A joint plan of reorganization for the Debtors (the  Plan ) became effective and the Debtors emerged from Chapter 11 on December 31, 2012 (the  Effective Date ).  Certain of the legal entities included in the Consolidated Financial Statements of tronc were Debtors or, as a result of the restructuring transactions undertaken pursuant to the Plan, are successor legal entities to legal entities that were Debtors (collectively, the  tronc Debtors ).  Prior to December 27, 2015, the Chapter 11 estates of 96 of the Debtors have been closed by a final decree issued by the Bankruptcy Court.  On May 11, 2016, the Chapter 11 estates of   8   of the Debtors were closed by a final decree issued by the Bankruptcy Court.  On August 12, 2016, the Chapter 11 estates of   2   more of the Debtors, including the last   one   of the tronc Debtors  cases, were closed by a final decree issued by the  
+  
+   30 
+
+Bankruptcy Court.  The remaining Chapter 11 cases relate to Debtors and successor legal entities that are subsidiaries of TCO and the cases continue to be administered under the caption  In re: Tribune Media Company, et al.,  Case No 08-13141. 
+  Reorganization Items, Net   Reorganization items, net, generally includes provisions and adjustments to reflect the carrying value of certain prepetition liabilities at their estimated allowable claim amounts and, pursuant to ASC Topic 852,    Reorganizations,    is reported separately in tronc s Consolidated Statements of Income.  Reorganization items, net, may also include professional advisory fees and other costs directly associated with the Debtors  Chapter 11 cases. 
+  Specifically identifiable reorganization provisions, adjustments and other costs directly related to tronc have been included in the Company s Consolidated Statements of Comprehensive Income for three and   nine months ended September 25, 2016   and   September 27, 2015   and consisted of the following: 
+
+The Company expects to incur certain expenses pertaining to the resolution of an unresolved claim in the Chapter 11 proceedings throughout 2016 and potentially in future periods. 
+
+Results of Operations 
+   
+  Consolidated 
+  Operating results for the three and   nine months ended September 25, 2016   and   September 27, 2015   are shown in the table below. 
+
+* Represents positive or negative change in excess of 100% 
+
+31 
+
+Three Months Ended September 25, 2016   compared to the   Three Months Ended September 27, 2015    
+  Operating Revenues   Operating revenues   decreased     6.8%  , or   $27.4 million  , in the   three months ended September 25, 2016   compared to the same period for 2015.  The decrease was due primarily to decreases in advertising and other revenue. 
+  Compensation Expense   Compensation expense   decreased     10.8%  , or   $17.0 million  , in the   three months ended September 25, 2016   due primarily to a decrease in salary expense of $17.4 million as a result of the reduction in headcount in the last quarter of 2015 related to the employee voluntary severance program ( EVSP ), and a decrease in payroll tax expense and 401(k) contributions of $1.6 million, partially offset by an increase in accrued incentive compensation of $2.1 million compared to the prior year quarter. 
+  Newsprint and Ink Expense   Newsprint and ink expense declined   13.7%  , or   $4.0 million  , in the   three months ended September 25, 2016   due mainly to a 6.3% increase in the average cost per ton of newsprint and a 14.3% decrease in consumption.  
+  Outside Services Expense   Outside services expense declined   7.4%  , or   $9.5 million   in the   three months ended September 25, 2016   with decreases in production and distribution expenses. 
+  Other Expenses   Other expenses include occupancy costs, promotion and marketing costs, affiliate fees and other miscellaneous expenses.  These expenses declined   6.4%  , or   $5.4 million  , in the   three months ended September 25, 2016   with decreases relating to a prior year litigation matter and promotion and marketing costs offset by increases in occupancy costs.    In September 2016, the Company permanently vacated approximately   200,000   sq. ft. of office space in the Chicago Tribune and Los Angeles Times buildings and took a charge of   $8.5 million   related to the abandonment. 
+  Depreciation and Amortization Expense   Depreciation and amortization expense   increased   slightly in the   three months ended September 25, 2016  , due primarily to depreciation on prior year fixed asset additions.  
+  Loss on Equity Investments, Net   Loss on equity investments, net decreased by   $0.3 million   for the three month period ended   September 25, 2016  . 
+  Interest Expense, Net   Interest expense, net decreased   $0.3 million   for the three months ended   September 25, 2016   over the prior year period primarily due to   lower debt balances.  
+  Income Tax Expense (Benefit)   Income tax expense increased   $10.7 million   for the three month period ended   September 25, 2016   over the prior year period primarily due to a $7.1 million charge to adjust the Company s deferred taxes and a decrease in the Company s pre-tax loss.  See Note 10 for further explanation of the charge. 
+  The effective tax rate on pretax income was   (71.1%)   in the three months ended   September 25, 2016  .  This rate differs from the U.S. federal statutory rate of 35% primarily due to state income taxes, net of federal benefit, a charge to adjust the Company s deferred taxes and nondeductible expenses.  For the three months ended   September 27, 2015  , the Company recorded income tax benefit of   $6.3 million  .  The effective tax rate on pretax income was   42.5%   in the three months ended   September 27, 2015  .  This rate differs from the U.S. federal statutory rate of 35% primarily due to state income taxes, net of federal benefit, nondeductible expenses and the domestic production activities deduction.   
+  Nine Months Ended September 25, 2016   compared to the   Nine Months Ended September 27, 2015    
+  Operating Revenues   Operating revenues   decreased     2.9%  , or   $35.0 million  , in the   nine months ended September 25, 2016   compared to the same period for 2015.  The decrease was due primarily to decreases in advertising and other revenue mostly offset by contributions from acquisitions. 
+  Compensation Expense   Compensation expense   decreased     2.2%  , or   $10.0 million  , in the   nine months ended September 25, 2016   due primarily to a decrease in salary expense of $37.4 million as a result of the reduction in headcount due to the EVSP offset by higher severance charges of $17.7 million related to the EVSP, information technology outsourcing and other personnel restructuring, and an increase in other post retirement expense due to the 2015 recognition of a $7.8 million gain related to a plan amendment.   
+  
+   32 
+
+Newsprint and Ink Expense   Newsprint and ink expense declined   16.0%  , or   $14.7 million  , in the   nine months ended September 25, 2016   due mainly to a 2.9% decrease in the average cost per ton of newsprint and a 12.1% decrease in consumption, partially offset by consumption from acquisitions.  
+  Outside Services Expense   Outside services expense   decreased     1.2%  , or   $4.6 million  , in the   nine months ended September 25, 2016   due primarily to decreases in production and distribution expenses partially offset by increases in temporary help expenses. 
+  Other Expenses   Other expenses   decreased     2.0%  , or   $4.7 million  , in the   nine months ended September 25, 2016   due primarily to a decrease relating to a prior year litigation matter offset by increases in occupancy costs related to the permanently vacated leased space discussed above. 
+  Depreciation and Amortization Expense   Depreciation and amortization expense   increased     $2.6 million   in the   nine months ended September 25, 2016  , due primarily to depreciation on prior year fixed asset additions and amortization related to acquisition assets. 
+  Loss on Equity Investments, Net   Loss on equity investments, net decreased by   $0.1 million   for the nine month period ended   September 25, 2016   compared to the same period for 2015. 
+  Interest Expense, Net   Interest expense, net increased   $1.0 million   for the nine month period ended   September 25, 2016  , over the prior year period.    The increase in interest expense is due to the $70 million additional borrowing under the Senior Term Facility in May 2015 related to the acquisition of   The San Diego Union-Tribune  .  
+  Income Tax Expense (Benefit)   Income tax expense increased   $6.1 million   for the nine month period ended   September 25, 2016   over the prior year period primarily due to a $7.1 million charge to adjust the Company s deferred taxes offset by an increase in the Company s pre-tax loss.  See Note 10 for further explanation of the charge. 
+  The effective tax rate on pretax income was   (34.5)%   in the   nine months ended September 25, 2016  .  This rate differs from the U.S. federal statutory rate of 35% primarily due to state income taxes, net of federal benefit, a charge to adjust the Company s deferred taxes, non-deductible expenses and the domestic production activities deduction.  For the   nine months ended September 27, 2015  , the Company recorded income tax benefit of   $2.8 million  .  The effective tax rate on pretax income was   51.0%   in the   nine months ended September 27, 2015  .  This rate differs from the U.S. federal statutory rate of 35% primarily due to state income taxes, net of federal benefit, nondeductible expenses and the domestic production activities deduction.  Additionally, during the   nine months ended September 27, 2015  , the Company increased the estimated deferred tax rate on net deferred tax assets from 39.5% to 40.0% which resulted in a decrease in the prior period income tax expense of $0.5 million. 
+   
+  Segments 
+  Beginning with the second quarter of fiscal 2016, tronc began managing its business as   two distinct segments, troncM and troncX.  troncM is comprised of the Company s media groups excluding their digital revenues and related digital expenses, except digital subscription revenues when sold with a print subscription.  troncX includes the Company s digital revenues and related digital expenses from local websites and mobile applications, digital only subscriptions, as well as Tribune Content Agency ( TCA ) and Forsalebyowner.com ( FSBO ).    Accordingly, the Company changed its segment reporting to   two   reportable segments.  The prior periods have been restated to reflect the change in reportable segments.  Prior to the second quarter of fiscal 2016, tronc was managed by its chief operating decision maker, as defined by ASC Topic 280, as   one   business and   one   reportable segment.   
+  The Company measures segment profit using income from operations, which is defined as net income before net interest expense, gain on investment transactions, reorganization items and income taxes.   
+  
+   33 
+
+The tables below show the segmentation of income and expenses for the three and nine months ended   September 25, 2016   as compared to the three and nine months ended   September 27, 2015  .  Each three-month period consists of 13 weeks and each nine-month period consists of 39 weeks.   
+
+troncM 
+
+* Represents positive or negative change in excess of 100% 
+  
+   34 
+
+Three Months Ended September 25, 2016   compared to the   Three Months Ended September 27, 2015    
+  Advertising Revenues   Total advertising revenues   decreased     13.3%  , or   $23.6 million  , in the   three months ended September 25, 2016  .  Retail advertising revenue decreased $14.1 million, primarily due to decreases in food and drug store, personal services and specialty merchandise categories.  National advertising revenue decreased $4.7 million, primarily due to decreases in the movies and wireless categories.  Classified advertising revenue decreased or $4.9 million, primarily due to decreases in the recruitment category. 
+  Circulation Revenues   Circulation     revenues were down   1.0%  , or   $1.2 million  , in the   three months ended September 25, 2016   due primarily to decreases in home delivery and single copy revenue, partially offset by rate increases. 
+  Other Revenues   Other revenues decreased   3.0%  , or   $1.6 million  , in the   three months ended September 25, 2016  , due primarily to declines of $2.1 million in commercial print and delivery revenues for third-party publications, partially offset by an increase of $0.4 million in direct mail and marketing revenue  . 
+  Operating Expenses   Operating expenses decreased   11.4%  , or   $39.5 million  , in the three months ended   September 25, 2016  , due primarily to decreases in compensation expense, a prior year litigation matter, newsprint and ink expense and outside services expense, partially offset by increases in occupancy costs related to the vacated leased space discussed above and corporate allocations. 
+  Nine Months Ended September 25, 2016   compared to the   Nine Months Ended September 27, 2015 
+  Advertising Revenues   Total advertising revenues   decreased     8.8%  , or   $47.4 million  , in the   nine months ended September 25, 2016  .  Retail advertising decreased $27.1 million, year over year as decreases in department stores, furniture, specialty merchandise and financial services categories were offset by increases in real estate agencies categories and contributions from acquisitions.  National advertising decreased $11.8 million, year over year as decreases in movies, soft goods and technology categories were partially offset by contributions from acquisitions.  Classified advertising revenues decreased $8.4 million, primarily due to decreases in recruitment, real estate and automotive categories partially offset by contributions from acquisitions.   
+  Circulation Revenues   Circulation     revenues were up   5.1%  , or   $17.2 million  , in the   nine months ended September 25, 2016   due primarily to acquisitions.  Overall decreases in volume were generally offset by rate increases. 
+  Other Revenues   Other revenues   decreased     4.7%  , or   $7.9 million  , in the   nine months ended September 25, 2016  , due primarily to declines in commercial print and delivery revenues of $6.4 million for third-party publications  . 
+  Operating Expenses   Operating expenses decreased   6.1%  , or   $61.1 million  , in the nine months ended   September 25, 2016  , due primarily to decreases in compensation expense, newsprint and ink expense, outside services expense and a prior year litigation matter, partially offset by an increase in occupancy costs and corporate allocations. 
+  troncX 
+
+* Represents positive or negative change in excess of 100% 
+  
+   35 
+
+Three Months Ended September 25, 2016   compared to the   Three Months Ended September 27, 2015    
+  Advertising Revenues   Total advertising revenues   decreased     2.2%  , or   $1.0 million  , in the   three months ended September 25, 2016  .  Classified advertising revenue decreased $1.4 million, primarily due to decreases in the recruitment, real estate and auto categories.  National advertising revenue decreased $1.0 million, primarily due to decreases in the advertising agencies, movies and soft goods categories. These decreases were partially offset by increases in retail and other advertising revenue.  Retail advertising revenue increased $0.7 million, primarily due to increases in furniture and home furnishings and amusements categories.    
+  Content Revenues   Content revenues decreased   2.8%  , or   $0.3 million  , in the   three months ended September 25, 2016  , with decreases in content syndication partially offset by increases in digital subscription revenue  . 
+  Operating Expenses   Operating expenses increased   8.1%  , or   $3.9 million  , in the three months ended   September 25, 2016  , due primarily to increases in corporate allocations, affiliate fees, promotion expense, and depreciation, partially offset by decreases in compensation and outside services. 
+  Nine Months Ended September 25, 2016   compared to the   Nine Months Ended September 27, 2015 
+  Advertising Revenues   Total advertising revenues   increased     2.7%  , or   $3.8 million  , in the   nine months ended September 25, 2016  .  Retail advertising revenue increased $3.2 million, primarily due to increases in the furniture and home furnishings, food and drug stores, clubs and organizations and amusements categories.   National advertising revenue increased $1.7 million, primarily due to increases in the media category. Classified advertising revenue decreased $2.0 million, primarily due to decreases in the recruitment and real estate categories.   
+  Content Revenues   Content revenues   decreased     5.5%  , or   $1.7 million  , in the   nine months ended September 25, 2016  , with decreases in content syndication partially offset by increases in digital subscription revenue  . 
+  Operating Expenses   Operating expenses increased   9.4%  , or   $13.7 million  , in the nine months ended   September 25, 2016  , due primarily to increases in corporate allocations, depreciation and amortization, and affiliate fees expenses, partially offset by decreases in compensation expenses. 
+  
+   36 
+
+Non-GAAP Measures 
+  Adjusted EBITDA   The Company defines   Adjusted EBITDA as net income before equity in earnings of unconsolidated affiliates, income taxes, loss on early debt extinguishment, interest expense, other (expense) income, realized gain (loss) on investments, reorganization items, depreciation and amortization, net income attributable to non-controlling interests, and other items that the Company does not consider in the evaluation of ongoing operating performance.  These items include stock-based compensation expense, restructuring charges, transaction expenses, certain other charges and gains that the Company does not believe reflects the underlying business performance (including spin-related costs). 
+
+* Represents positive or negative change in excess of 100% 
+           (1) -  
+    Restructuring and transaction costs include costs related to tronc s internal restructuring, such as severance and IT outsourcing costs, charges associated with vacated space and transaction costs related to completed and potential acquisitions. 
+              (2) - 
+    In the first quarter of 2015, the Company did not deduct a gain of $7.8 million related to the termination of certain postretirement benefits in the determination of Adjusted EBITDA.  Management reassessed this gain and determined it is expected to be a non-recurring item and should be deducted in the determination of Adjusted EBITDA.  Accordingly, the 2015 Adjusted EBITDA as presented, includes such adjustment for the non-recurring gain from termination of certain post-retirement benefits.  
+              (3) - 
+    Adjustment to litigation settlement reserve. 
+     Adjusted EBITDA is a financial measure that is not calculated in accordance with accounting principles generally accepted in the United States of America ( U.S. GAAP ).  Management believes that because Adjusted EBITDA excludes (i) certain non-cash expenses (such as depreciation, amortization, stock-based compensation, and gain/loss on equity investments) and (ii) expenses that are not reflective of the Company s core operating results over time (such as restructuring costs, including the employee voluntary separation program and gain/losses on employee benefit plan terminations, litigation or dispute settlement charges or gains, and transaction-related costs), this measure provides investors with additional useful information to measure the Company s financial performance, particularly with respect to changes in performance from period to period.  The Company s management uses Adjusted EBITDA (a) as a measure of operating performance; (b) for planning and forecasting in future periods; and (c) in communications with the Company s Board of Directors concerning the Company s financial performance.      In addition, Adjusted EBITDA, or a similarly calculated measure, is used as the basis for certain financial maintenance covenants that the Company is subject to in connection with certain credit facilities.  Since not all companies use identical calculations, the Company s presentation of Adjusted EBITDA may not be comparable to other similarly titled measures of other companies and should not be used by investors as a substitute or alternative to net income or any measure of financial performance calculated and presented in accordance with U.S. GAAP.  Instead, management believes Adjusted EBITDA should be used to supplement the Company s financial measures derived in accordance with U.S. GAAP to provide a more complete understanding of the trends affecting the business. 
+  
+   37 
+
+Although Adjusted EBITDA is frequently used by investors and securities analysts in their evaluations of companies, Adjusted EBITDA has limitations as an analytical tool, and investors should not consider it in isolation or as a substitute for, or more meaningful than, amounts determined in accordance with U.S. GAAP.  Some of the limitations to using non-GAAP measures as an analytical tool are:  
+             
+    they do not reflect the Company s interest income and expense, or the requirements necessary to service interest or principal payments on the Company s debt;   
+                
+    they do not reflect future requirements for capital expenditures or contractual commitments; and 
+                
+    although depreciation and amortization charges are non-cash charges, the assets being depreciated and amortized will often have to be replaced in the future, and non-GAAP measures do not reflect any cash requirements for such replacements. 
+      
+  Liquidity   and Capital Resources 
+  The Company believes that its working capital, future cash from operations and access to borrowings under the Senior ABL Facility discussed below will provide adequate resources to fund its operating and financing needs for the foreseeable future.  The Company s access to, and the availability of, financing in the future will be impacted by many factors, including its credit rating, the liquidity of the overall capital markets and the current state of the economy.  There can be no assurances that the Company will have access to capital markets on acceptable terms. 
+  Sources and Uses 
+  The Company expects to fund capital expenditures, interest and principal and pension payments due in 2016 and other operating requirements through a combination of existing cash and cash flows from operations and investments.  The Company also has available borrowing capacity under the Company s revolving credit facility.  The Company s financial and operating performance remains subject to prevailing economic and industry conditions and to financial, business and other factors, some of which are beyond the control of the Company and, despite the Company s current liquidity position, no assurances can be made that cash flows from operations and investments, future borrowings under the revolving credit facility, and any refinancings thereof, or dispositions of assets or operations will be sufficient to satisfy the Company s future liquidity needs. 
+  The table below details the total operating, investing and financing activity cash flows for the   nine months ended September 25, 2016   and   September 27, 2015   (in thousands): 
+
+Cash flow generated from operating activities is tronc s primary source of liquidity.  Net cash provided by operating activities was   $55.5 million   for the   nine months ended September 25, 2016  , down   $5.9 million   from   $61.3 million   for the   nine months ended September 27, 2015  .  The decrease was primarily driven by lower operating results in 2016 and higher pension contributions in 2016 partially offset by favorable changes in working capital.  
+  Net cash used for investing activities totaled   $0.7 million   in the   nine months ended September 25, 2016   and included   $1.3 million   used to purchase domain names including LA.com and   $15.9 million   used for capital expenditures, partially offset by   $17.0 million   provided by a reduction in restricted cash and   $1.2 million   provided by a sale of the Company s interest in Contend.  In the   nine months ended September 27, 2015  , net cash used for investing activities totaled   $85.6 million   and included   $67.8 million   for the acquisition of   The   San Diego Union-Tribune   and     $27.5 million   for capital expenditures, partially offset by   $10.5 million   provided by a reduction in restricted cash. 
+  
+   38 
+
+Net cash provided by financing activities totaled   $91.5 million   in the   nine months ended September 25, 2016  .  During the period the Company had net proceeds of   $113.3 million   from the private placement of 9.9 million shares of common stock, partially offset by   $15.8 million   used for principal payments on senior debt and   $4.9 million   used for payment of stockholder dividends.  In the   nine months ended September 27, 2015  , net cash provided by financing activities totaled   $42.2 million   which included proceeds from the issuance of senior debt of   $69.0 million  , partially offset by   $14.4 million   in loan payments on senior debt,   $9.1 million   paid for stockholder dividends and   $2.7 million   paid for financing costs related to the issuance of senior debt. 
+  2016 Private Placements 
+  On June 1, 2016, the Company completed a   $70.5 million   private placement, pursuant to which the Company sold to Nant Capital, LLC ( Nant Capital )   4,700,000   unregistered shares of the Company s common stock at a purchase price of   $15.00   per share.  The Company intends to use the   $70.4 million   net proceeds from the sale to further execute on its growth strategy, including acquisitions and digital initiatives.  The shares of common stock acquired by Nant Capital (the  Nant Shares ) are subject to certain lockup provisions that, subject to the terms and conditions set out in the purchase agreement dated May 22, 2016, among the Company, Nant Capital and Dr. Patrick Soon-Shiong (the  Nant Purchase Agreement ) prohibit certain transfers of the Nant Shares for the first three years following the date of issuance and, thereafter, any transfers of the Nant Shares that would result in a transfer of more than 25% of the Nant Shares in any 12-month period.  The Nant Purchase Agreement also includes covenants prohibiting the transfer of shares of the Company s common stock if the transfer would result in a person beneficially owning more than 4.9% of the Company s then-outstanding shares of common stock following the transfer, as well as transfers to a material competitor of the Company in any of the Company s then-existing primary geographical markets.  Nant Capital and Dr. Patrick Soon-Shiong, and their respective affiliates, are also prohibited from acquiring additional equity of the Company if the acquisition could result in their beneficial ownership of more than 25% of the Company s then-outstanding shares of common stock.   
+  In connection with the private placement, Dr. Soon-Shiong was elected to fill a newly-created position on the Company s Board of Directors and was named non-executive Vice Chairman of the Board as of the date of the Company s 2016 Annual Meeting of Stockholders on June 2, 2016.  The Company granted Dr. Soon-Shiong the right to designate a replacement individual for election as a director at each annual and special meeting of the Company s stockholders at which directors are to be elected as part of the slate of nominees recommended by the Board, subject to the reasonable prior approval of the Board s Nominating and Corporate Governance Committee, in the event that Dr. Soon-Shiong is unable to continue to serve as a director.  Nant Capital s right to appoint a replacement director representative will expire upon the occurrence of either (a) the termination of the voting covenants described in the Nant Purchase Agreement or (b) at such time as Nant Capital, Dr. Soon-Shiong and their respective affiliates no longer beneficially own at least 75% of the shares originally acquired pursuant to the Nant Purchase Agreement. 
+  On February 3, 2016, the Company completed a   $44.4 million   private placement, pursuant to which the Company sold to Merrick Media, LLC ( Merrick Media )   5,220,000   shares of the Company s common stock at a purchase price of   $8.50   per share.  The Company intends to use the   $42.9 million   net proceeds from the sale to execute further on its growth strategy, including acquisitions and digital initiatives.  The shares of common stock acquired by Merrick Media (the  Merrick Shares ) are subject to certain lockup provisions that, subject to the terms and conditions set out in the purchase agreement dated February 3, 2016 among the Company, Merrick Media and Michael W. Ferro, Jr. (the  Merrick Purchase Agreement ), prohibit certain transfers of the Merrick Shares for the first three years following the date of issuance and, thereafter, any transfers of the Merrick Shares that would result in a transfer of more than 25% of the Merrick Shares purchased under the Merrick Purchase Agreement in any 12-month period.  The Merrick Purchase Agreement also includes covenants prohibiting the transfer of the Merrick Shares if the transfer would result in a person beneficially owning more than 4.9% of the Company s then-outstanding shares of common stock following the transfer, as well as transfers to a material competitor of the Company in any of the then-existing primary geographical markets.  Merrick Media and Mr. Ferro and their respective affiliates, are also prohibited from acquiring additional equity if the acquisition could result in their beneficial ownership of more than 25% of the Company s then-outstanding shares of common stock. 
+   In connection with the private placement, Mr. Ferro was elected to fill a newly-created position on the Company s Board of Directors and was named non-executive Chairman of the Board.  The Company granted Merrick Media the right to designate a replacement individual for election as a director at each annual and special meeting of stockholders at which directors are to be elected as part of the slate of nominees recommended by the Board of Directors, subject to the reasonable prior approval of the Board s Nominating and Corporate Governance Committee, in the event that Mr. Ferro is unable to continue to serve as a director.  Merrick Media s right to appoint a replacement director representative will expire either  
+  
+   39 
+
+(a) on the date that Mr. Ferro or his replacement is not nominated for reelection as a director, is removed as a director, or is not reelected as a director if the Company has not recommended his or his replacement s reelection or (b) at such time as Merrick Media, Mr. Ferro and their respective affiliates no longer beneficially own at least   75%   of the shares originally acquired pursuant to the Merrick Purchase Agreement.     
+  Dividends 
+  On February 11, 2016, the Company paid a dividend of $0.175 per share on common stock outstanding, to stockholders of record on January 11, 2016.  In February 2016, the Company s Board of Directors suspended the payment of cash dividends on the Company s outstanding common stock.  Any future determination to declare and pay dividends will be made at the discretion of the Board of Directors, after taking into account the Company s financial results, capital requirements and other factors it may deem relevant. 
+  Employee Reductions 
+  In the fourth quarter of 2015, the Company offered the EVSP, which provided enhanced separation benefits to eligible non-union employees with more than one year of service.  The Company is funding the EVSP ratably over the payout period through salary continuation instead of lump sum severance payments.  The salary continuation started in the fourth quarter of 2015 and continues through the first half of 2018.  For the three and nine months ended   September 25, 2016  , the Company recorded an additional charge of   $0.8 million   and   $9.7 million  , respectively, for related severance, benefits and taxes in connection with the EVSP.   
+  During the first quarter of 2016, the Company began the process to outsource its information technology function  ( ITO ).  Under the ITO, the Company expects to incur charges from the second quarter of 2016 to the third quarter of 2017 at a total estimated cost of   $7.0 million  .  For the three and nine months ended   September 25, 2016  , the Company recorded a pretax charge of   $1.5 million     and   $4.4 million  , respectively,   for related retention, severance, benefits and taxes in connection with the ITO.  
+  In addition to the ITO, the Company implemented additional reductions in its staffing levels of   168   positions in the   nine months ended September 25, 2016   and recorded a pretax charge related to these reductions and executive separations of   $10.4 million  .  
+  Senior Term Facility 
+  As of   September 25, 2016  , total principal outstanding under the secured loans (the  Term Loans ) provided for by the credit agreement with JPMorgan Chase Bank, N.A., as administrative agent and collateral agent, and the lenders party thereto dated August 4, 2014 (the  Senior Term Facility ) was   $384.9 million  .  The Term Loans bear interest at a variable interest rate based on either LIBOR or a base rate, in either case plus an applicable margin.  The Term Loans amortize in equal quarterly installments equal to   1.25%   of principal amounts borrowed against the Senior Term Facility with the balance payable on the maturity date, August 4, 2021.  tronc, Inc, is the borrower under the Senior Term Facility and each of the Company s wholly-owned domestic subsidiaries, subject to certain exceptions (the  Subsidiary Guarantors ), guarantee the payment obligations under the Senior Term Facility.  The Senior Term Facility contains a number of covenants that, among other things, limit the ability of tronc and its restricted subsidiaries to: incur more indebtedness; pay dividends; redeem stock or make other distributions in respect of equity; make investments; and certain other usual and customary covenants.  The weighted average interest rate for the variable rate debt is 5.75%.  As of   September 25, 2016  , the unamortized balance of the original issue discount was   $3.3 million   and the unamortized balance of the debt issuance costs associated with the term loans was   $7.9 million  .  As of   September 25, 2016  , the Company was in compliance with the covenants of the Senior Term Facility. 
+  Senior ABL Facility 
+  The credit agreement between the Company, Bank of America, N.A., as administrative agent, collateral agent swing line lender and letter of credit issuer and the lenders party thereto dated August 4, 2014 (the  Senior ABL Facility ) provides for senior secured revolving loans and letters of credit of up to a maximum aggregate principal amount of   $140.0 million  .  Up to   $75.0 million   of availability under the Senior ABL Facility is available for letters of credit and up to   $15.0 million   of availability under the Senior ABL Facility is available for swing line loans.  The Senior ABL Facility also permits tronc to increase the commitments under the Senior ABL Facility by up to   $75.0 million  .  The Senior ABL Facility bears interest at a variable interest rate based on either LIBOR or a base rate, in either case plus an applicable margin and will mature on  
+  
+   40 
+
+August 4, 2019.  tronc, Inc. and the Subsidiary Guarantors are the borrowers under the Senior ABL Facility.  tronc, Inc. and the Subsidiary Guarantors guarantee the payment obligations under the Senior ABL Facility.  The Senior ABL Facility contains a number of covenants that, among other things, limit the ability of tronc and its restricted subsidiaries to: incur more indebtedness; pay dividends; redeem stock or make other distributions in respect of equity; make investments; and certain other usual and customary covenants.  Customary fees are payable in respect of the Senior ABL Facility, including commitment fees of   0.25%   and letter of credit fees.  As of   September 25, 2016  , there were no borrowings under the Senior ABL Facility and   $40.5 million   of the Senior ABL Facility availability supported outstanding undrawn letters of credit in the same amount.  
+  Letter of Credit Agreement 
+  On August 4, 2014, tronc, formerly Tribune Publishing Company, and JPMorgan Chase Bank, N.A., as letter of credit issuer (the  L/C Issuer ) entered into a letter of credit agreement (the  Letter of Credit Agreement ).  The Letter of Credit Agreement provides for the issuance of standby letters of credit of up to a maximum aggregate principal face of   $30.0 million  .  The Letter of Credit Agreement permits tronc, at the sole discretion of L/C Issuer, to request an increase of the amount available to be issued under the Letter of Credit Agreement up to an aggregate maximum face amount of   $50.0 million  .  The Letter of Credit Agreement is scheduled to terminate on August 4, 2019.  During the quarter ended September 27, 2015, the Company was notified that an outstanding letter of credit agreement was reduced from $27.5 million to $17.0 million.  Accordingly, the Company received $10.5 million from the cash collateral account during the quarter.  During the quarter ended September 25, 2016, the Company closed its letter of credit for $17.0 million and moved the letter of credit to Bank of America, N.A. under the Senior ABL facility.  This movement allowed for the release of the remaining $17.0 million held as restricted cash.  As of   September 25, 2016  , the Company had no outstanding undrawn letters of credit against the Letter of Credit Agreement. 
+  New Accounting Standards 
+  See Note   1   for a description of new accounting standards issued and/or adopted in the nine months ended   September 25, 2016  . 
+   
+  Item 3.  Quantitative and Qualitative Disclosures About Market Risk 
+  As of   September 25, 2016  , there had been no material changes in the Company s exposure to market risk from the disclosure included in the annual report on Form 10-K as filed with the SEC on March 14, 2016. 
+   
+  Item 4.  Controls and Procedures  
+  Evaluation of Disclosure Controls and Procedures 
+  The Company carried out an evaluation (pursuant to Rule 13a-15(b) of the Securities Exchange Act of 1934 (the  Exchange Act )) under the supervision and with the participation of the Company s management, including the Company s President and Chief Executive Officer and the Executive Vice President and Chief Financial Officer, of the effectiveness of the     Company s disclosure controls and procedures (as defined in Rule 13a-15(e)), as of the end of the period covered by this report.  Based upon that evaluation, the President and Chief Executive Officer and the Executive Vice President and Chief Financial Officer concluded that, as of September 25, 2016, due to the material weaknesses in internal control over financial reporting described in Management s Report on Internal Control over Financial Reporting in the Company s Annual Report on Form 10-K for the year ended December 27, 2015 (the  Management Internal Controls Report ), the Company s disclosure controls and procedures were not effective. 
+  Notwithstanding the material weaknesses noted above, the Company s principal executive officer and the principal financial officer have certified that, based on their knowledge, the condensed consolidated financial statements included in this Quarterly Report on Form 10-Q fairly present in all material respects our financial position, results of operations and cash flows as of the period ends, and for each of the periods presented in this report. 
+  During the nine months ended September 25, 2016, except as discussed below and pertaining to the remediation of identified material weaknesses, there were no changes in the Company s internal control over financial reporting that have materially affected, or are reasonably likely to materially affect, the Company s internal control over financial reporting. 
+  
+   41 
+
+Internal Control over Financial Reporting 
+  In response to the identified material weaknesses, management has identified several enhancements to the Company s internal control over financial reporting to remediate the material weaknesses discussed in the Management Internal Controls Report.  These ongoing efforts include the following: 
+             
+    appointment of an executive over the Corporate Compliance function to assist management in its efforts related to effective control design, documentation and implementation, as well as remediate ineffective controls; 
+                
+    enhancement of the documentation process for our preprint advertising forecasting; 
+                
+    the Company has formalized the process for single copy rate changes to ensure compliance with contractual rates and maintenance of supporting documentation and has enhanced processes to ensure supporting documentation for all circulation rate changes is properly maintained; 
+                
+    modification of the Company s processes and controls over advertising insert variance analyses to ensure the appropriate controls are in place to address the associated risks; 
+                
+    streamlining the Company s commission and sales bonus plans to limit the number of different plans and enhance control thereof, as well as implementation of a more robust sales and commission calculation, authorization and monitoring process, incorporating increased automation and eliminating many manual processes;  
+                
+    implementation of a more controlled repository for retaining control execution evidence; and 
+                
+    providing training and guidance throughout the year to re-educate control owners about control owner accountability and retaining required supporting control documentation. 
+     Although management believes the Company has made improvements in these areas, additional efforts are underway to ensure remediation of the material weaknesses.  Accordingly, the Company will  continue to enhance overall monitoring of SOX compliance throughout the organization and more effectively integrate the controls into the day-to-day business operations while ensuring the associated risks are appropriately mitigated. 
+  In addition, under the direction of the Audit Committee of the Company s Board of Directors, management will continue to develop and implement policies and procedures to improve the overall effectiveness of internal control over financial reporting.  Management believes the foregoing efforts will ensure effective remediation of the material weaknesses.  As the Company continues to evaluate and work to improve its internal control over financial reporting, management may determine additional measures are necessary to address control deficiencies or determine that it is necessary to modify the remediation plan described above.  Management cannot provide assurance as to when the Company will remediate such weaknesses, nor can management be certain of whether additional actions will be required or the costs of any such actions. 
+   
+  PART II. 
+   
+  Item 1.  Legal Proceedings 
+  We are subject to various legal proceedings and claims that have arisen in the ordinary course of business.  The legal entities comprising our operations are defendants from time to time in actions for matters arising out of their business operations.  In addition, the legal entities comprising our operations are involved from time to time as parties in various regulatory, environmental and other proceedings with governmental authorities and administrative agencies. 
+  Stockholder Derivative Lawsuits  
+  On June 1, 2016, Capital Structures Realty Advisors LLC, which purports to be a stockholder in the Company, filed a derivative lawsuit in the Delaware Court of Chancery against the members of the Company s Board of Directors as of June 1, 2016, Dr. Patrick Soon-Shiong and Nant Capital LLC ( Nant Capital ).  The complaint has named the Company as a nominal defendant.  The complaint alleges in relevant part that the Board breached its fiduciary duties by  refusing to negotiate with Gannett in good faith  and by  going forward with the stock sale  to Dr. Soon-Shiong and Nant Capital.  The complaint further alleges that Nant Capital and Dr. Soon-Shiong aided and abetted the Board s breaches of fiduciary duty.  On June 6, 2016, a second derivative complaint was filed in the Delaware Court of Chancery by Monroe County Employees Retirement System, which purports to be a stockholder in the Company.  On June 15, 2016, a third, mirror image, derivative complaint was filed in the Delaware Court of Chancery on behalf of an individual named John Solak, who purports to be a stockholder in the Company.  All three cases were consolidated on June 17, 2016, under the caption In re Tribune Publishing Co. Stockholder Litigation, Consolidated C.A. No. 12401-VCS.  On June 20, 2016, a fourth, mirror image derivative complaint was filed in the Delaware Court of Chancery on behalf of an individual named B.W. Tomasino, who purports to be  
+  
+   42 
+
+a stockholder in the Company.  That case was consolidated with the other three derivative cases on July 7, 2016.  The plaintiffs seek equitable and injunctive relief, including, without limitation, rescission of the stock sale to Dr. Patrick Soon-Shiong and Nant Capital, implementation of a special committee to consider Gannett and any other offer for the Company, money damages, and costs and disbursements, and such other relief deemed just and proper.  The consolidated case is pending before Vice Chancellor Slights. 
+  On September 2, 2016, plaintiffs filed a consolidated complaint.  The defendants filed motions to dismiss on October 3, 2016.  The defendants deny any and all allegations of wrongdoing and intend to defend vigorously against the lawsuits.  Due to the inherent uncertainty in litigation, however, the Company can provide no assurance as to the outcome of the matter or reasonably estimate a range of possible loss at this time.  Additionally, the Company maintains liability insurance for its directors and officers, which we expect to provide coverage for this litigation; however, there can be no guarantees as to coverage or whether any such policies will be adequate to cover all costs associated with this litigation.   
+  Tribune Company Bankruptcy 
+  On December 31, 2012, Tribune Media Company, formerly Tribune Company ( TCO ), and 110 of its direct and indirect wholly-owned subsidiaries (collectively, the  Debtors ) that had filed voluntary petitions for relief under Chapter 11 of title 11 of the United States Code in the United States Bankruptcy Court for the District of Delaware (the  Bankruptcy Court ) on December 8, 2008 (or on October 12, 2009, in the case of Tribune CNLBC, LLC) emerged from Chapter 11.  Certain of the legal entities included in the Consolidated Financial Statements of tronc were Debtors or, as a result of the restructuring transactions undertaken at the time of the Debtors  emergence, are successor legal entities to legal entities that were Debtors.  
+  On April 12, 2012, the Debtors, the official committee of unsecured creditors and creditors under certain TCO prepetition debt facilities filed the Plan with the Bankruptcy Court.  On July 23, 2012, the Bankruptcy Court issued the Confirmation Order.  Several notices of appeal of the Confirmation Order were filed.  The appellants sought, among other relief, to overturn the Confirmation Order and certain prior orders of the Bankruptcy Court, including the settlement of certain claims and causes of action related to the Leveraged ESOP Transactions that was embodied in the Plan.  There is currently no stay of the Confirmation Order in place pending resolution of the confirmation-related appeals.  In January 2013, TCO filed a motion before the Delaware District Court to dismiss the appeals as equitably moot, based on the substantial consummation of the Plan.  On June 18, 2014 the Delaware District Court entered an order granting in part and denying in part the motion to dismiss.  On July 16, 2014, notices of appeal of the Delaware District Court s order were filed with the U.S. Court of Appeals for the Third Circuit by Aurelius, Law Debenture, and Deutsche Bank.  On August 19, 2015, the Third Circuit affirmed the Delaware District Court s dismissal of Aurelius s appeal of the Confirmation Order.  The Third Circuit, however, reversed the Delaware District Court s dismissal of Law Debenture s and Deutsche Bank s appeals of the Confirmation Order, and remanded those appeals for further proceedings on the merits.  On September 11, 2015, the Third Circuit denied Aurelius s petition for en banc review of the court s decision and on January 11, 2016, Aurelius filed a petition for writ of certiorari to the U.S. Supreme Court.  That petition was denied on March 31, 2016. 
+  On March 16, 2015, July 24, 2015, May 11, 2016, and August 12, 2016, the Bankruptcy Court entered final decrees collectively closing 106 of the Debtors  Chapter 11 cases.  The remaining Debtors  Chapter 11 cases have not yet been closed by the Bankruptcy Court, and certain claims asserted against the Debtors in the Chapter 11 cases remain unresolved.    
+  The Company does not believe that any matters or proceedings presently pending will have a material adverse effect, individually or in the aggregate, on our consolidated financial position, results of operations or liquidity.  However, legal matters and proceedings are inherently unpredictable and subject to significant uncertainties, some of which are beyond our control.  As such, there can be no assurance that the final outcome of these matters and proceedings will not materially and adversely affect our consolidated financial position, results of operations or liquidity.   
+   
+  Item 1A.  Risk Factors 
+  In addition to the other information in this report, you should carefully consider the discussion under  Risk Factors  in Item 1A as filed in the Company s Annual Report on Form 10-K filed with the SEC on March 14, 2016 and supplemented in the Company s Quarterly Reports on Form 10-Q.  There have been no material changes to our risk factors as disclosed in such filings. 
+  
+   43 
+
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds 
+  In August 2015, our Board of Directors authorized $30 million to be used for stock repurchases for 24 months from the date of authorization.  No repurchases were made in the   three months ended September 25, 2016  , and the Company has $28.6 million of remaining authorization under the stock repurchase plan as of   September 25, 2016  . 
+   
+  Item 3.  Defaults Upon Senior Securities 
+  None. 
+   
+  Item 4.  Mine Safety Disclosures 
+  Not applicable. 
+   
+  Item 5.  Other Information 
+  None. 
+   
+  Item 6.  Exhibits 
+  Exhibits marked with an asterisk (*) are incorporated by reference to documents previously filed by the Company with the Securities and Exchange Commission, as indicated.  All other documents are filed with this report.  Exhibits marked with a tilde (~) are management contracts, compensatory plan contracts or arrangements filed pursuant to Item 601(b)(10)(iii)(A) of Regulation S-K. 
+  Exhibit                    Description 
+  Number 
+               101.SCH 
+    XBRL Taxonomy Extension Scheme Document 
+              101.CAL 
+    XBRL Taxonomy Extension Calculation Linkbase Document 
+              101.DEF 
+    XBRL Taxonomy Extension Definition Linkbase Document 
+              101.LAB 
+    XBRL Taxonomy Extension Labels Linkbase Document 
+              101.PRE 
+    XBRL Taxonomy Extension Presentation Linkbase Document 
+
+44 
+
+SIGNATURES 
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+TRONC, INC. 
+
+November 1, 2016 
+      
+    By: 
+    /s/ Terry Jimenez 
+
+Terry Jimenez 
+
+(Chief Financial Officer and Principal Accounting Officer) 
+
+45 
+
+<EX-31.1>
+ 2
+ a2016q310qexhibit311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  SECTION 302 CERTIFICATION 
+  I, Justin C. Dearborn, Chief Executive Officer of tronc, Inc., certify that: 
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of tronc, Inc.; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a. 
+    designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b. 
+    designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c. 
+    evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d. 
+    disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+       
+           5. 
+    The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              a. 
+    all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              b. 
+    any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+     By:      /s/ Justin C. Dearborn     ___________________________________________ 
+  Justin C. Dearborn,  
+  Chief Executive Officer 
+  Date:    November 1, 2016 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a2016q310qexhibit312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  SECTION 302 CERTIFICATION 
+  I, Terry Jimenez, Chief Financial Officer of tronc, Inc., certify that: 
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of tronc, Inc.; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a. 
+    designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b. 
+    designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c. 
+    evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d. 
+    disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+       
+           5. 
+    The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              a. 
+    all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              b. 
+    any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+     By:    /s/ Terry Jimenez  _________________________________________ 
+  Terry Jimenez, 
+  Chief Financial Officer 
+  Date:    November 1, 2016 
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ a2016q310qexhibit32.htm
+ EXHIBIT 32
+
+Exhibit 
+
+Exhibit 32 
+  CERTIFICATION PURSUANT TO THE 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  In connection with the Quarterly Report of tronc, Inc. (the  Company ) on Form 10-Q for the period ended September 25, 2016, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), the undersigned, Justin C. Dearborn, Chief Executive Officer of the Company, and Terry Jimenez, Chief Financial Officer of the Company, each hereby certifies, pursuant to 18 U.S.C  1350, as adopted pursuant to  906 of the Sarbanes-Oxley Act of 2002, that: 
+           1. 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              2. 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+By:    /s/ Justin C. Dearborn  _____________________________________ 
+  Justin C. Dearborn, 
+  Chief Executive Officer 
+
+Date:    November 1, 2016 
+
+By:   /s/ Terry Jimenez  ________________________________________ 
+  Terry Jimenez, 
+  Chief Financial Officer 
+
+Date:    November 1, 2016 
+
+</EX-32>
+
+<EX-101.INS>
+ 5
+ trnc-20160925.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ trnc-20160925.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ trnc-20160925_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ trnc-20160925_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ trnc-20160925_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ trnc-20160925_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

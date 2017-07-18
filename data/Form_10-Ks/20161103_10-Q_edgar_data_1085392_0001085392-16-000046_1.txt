@@ -1,0 +1,1484 @@
+<Header>
+<FileStats>
+    <FileName>20161103_10-Q_edgar_data_1085392_0001085392-16-000046_1.txt</FileName>
+    <GrossFileSize>11366942</GrossFileSize>
+    <NetFileSize>162358</NetFileSize>
+    <ASCII_Embedded_Chars>3491421</ASCII_Embedded_Chars>
+    <HTML_Chars>2897830</HTML_Chars>
+    <XBRL_Chars>3575508</XBRL_Chars>
+    <XML_Chars>1059738</XML_Chars>
+    <N_Tables>57</N_Tables>
+    <N_Exhibits>14</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001085392-16-000046.hdr.sgml : 20161103
+<ACCEPTANCE-DATETIME>20161102180048
+ACCESSION NUMBER:		0001085392-16-000046
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		61
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161103
+DATE AS OF CHANGE:		20161102
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PUGET ENERGY INC /WA
+		CENTRAL INDEX KEY:			0001085392
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				911969407
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16305
+		FILM NUMBER:		161969276
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10885 NE 4TH STREET
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			980045515
+		BUSINESS PHONE:		4254546363
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 97034
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			980099734
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PUGET SOUND ENERGY INC
+		CENTRAL INDEX KEY:			0000081100
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				910374630
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04393
+		FILM NUMBER:		161969277
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10885 NE 4TH STREET
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			98004-5515
+		BUSINESS PHONE:		4254546363
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 97034
+		CITY:			BELLEVUE
+		STATE:			WA
+		ZIP:			980099734
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PUGET SOUND POWER & LIGHT CO /WA/
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 0001085392-16-000046.txt : 20161103
+
+10-Q
+ 1
+ pe-2016930x10q.htm
+ 10-Q
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+  FORM 10-Q 
+
+For the quarterly period ended   September 30, 2016    
+  OR 
+
+For the Transition period from ________ to ________ 
+                   Commission File Number 
+    Exact name of registrant as specified in its charter, state of incorporation,  
+  address of principal executive offices, telephone number 
+    I.R.S. 
+  Employer 
+  Identification 
+  Number 
+
+Indicate by check mark whether the registrants: (1) have filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) have been subject to such filing requirements for the past 90 days. 
+                                   Puget Energy, Inc. 
+    Yes 
+    /X/ 
+    No 
+    /  / 
+      
+    Puget Sound Energy, Inc. 
+    Yes 
+    /X/ 
+    No 
+    /  / 
+
+Indicate by check mark whether the registrants have submitted electronically and posted on their corporate websites, if any, every interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). 
+                                   Puget Energy, Inc. 
+    Yes 
+    /X/ 
+    No 
+    /  / 
+      
+    Puget Sound Energy, Inc. 
+    Yes 
+    /X/ 
+    No 
+    /  / 
+
+Indicate by check mark whether registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company.  See definition of  large accelerated filer, accelerated filer and smaller reporting company  in Rule 12b-2 of the Exchange Act. 
+                               Puget Energy, Inc. 
+    Large accelerated filer 
+    /  / 
+    Accelerated filer 
+    /  / 
+    Non-accelerated filer 
+    /X/ 
+    Smaller reporting company 
+    /  / 
+      Puget Sound Energy, Inc. 
+    Large accelerated filer 
+    /  / 
+    Accelerated filer 
+    /  / 
+    Non-accelerated filer 
+    /X/ 
+    Smaller reporting company 
+    /  / 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+                                   Puget Energy, Inc. 
+    Yes 
+    /  / 
+    No 
+    /X/ 
+      
+    Puget Sound Energy, Inc. 
+    Yes 
+    /  / 
+    No 
+    /X/ 
+
+All of the outstanding shares of voting stock of Puget Energy, Inc. are held by Puget Equico LLC, an indirect wholly-owned subsidiary of Puget Holdings LLC.  All of the outstanding shares of voting stock of Puget Sound Energy, Inc. are held by Puget Energy, Inc. 
+
+Table of Contents 
+
+2 
+
+DEFINITIONS 
+    
+                 ARO 
+    Asset Retirement and Environmental Obligations 
+      ASU 
+    Accounting Standards Update 
+      ASC 
+    Accounting Standards Codification 
+      EBITDA 
+    Earnings Before Interest, Tax, Depreciation and Amortization 
+      ERF 
+    Expedited Rate Filing 
+      FASB 
+    Financial Accounting Standards Board 
+      GAAP 
+    U.S. Generally Accepted Accounting Principles 
+      GRC 
+    General Rate Case 
+      ISDA 
+    International Swaps and Derivatives Association 
+      LIBOR 
+    London Interbank Offered Rate 
+      MMBtu 
+    One Million British Thermal Units 
+      MWh 
+    Megawatt Hour (one MWh equals one thousand kWh) 
+      NAESB 
+    North American Energy Standards Board 
+      NPNS 
+    Normal Purchase Normal Sale 
+      PCA 
+    Power Cost Adjustment 
+      PCORC 
+    Power Cost Only Rate Case 
+      PGA 
+    Purchased Gas Adjustment 
+      PSE 
+    Puget Sound Energy, Inc. 
+      Puget Energy 
+    Puget Energy, Inc. 
+      Puget Holdings 
+    Puget Holdings LLC 
+      REP 
+    Residential Exchange Program 
+      SERP 
+    Supplemental Executive Retirement Plan 
+      Washington Commission 
+    Washington Utilities and Transportation Commission 
+      WSPP 
+    WSPP, Inc. 
+
+3 
+
+FILING FORMAT 
+  This report on Form 10-Q is a Quarterly Report filed separately by two registrants, Puget Energy, Inc. (Puget Energy) and Puget Sound Energy, Inc. (PSE).  Any references in this report to  the Company  are to Puget Energy and PSE collectively. 
+
+FORWARD-LOOKING STATEMENTS 
+  Puget Energy and PSE include the following cautionary statements in this Form 10-Q to make applicable and to take advantage of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 for any forward-looking statements made by or on behalf of Puget Energy or PSE.  This report includes forward-looking statements, which are statements of expectations, beliefs, plans, objectives and assumptions of future events or performance.  Words or phrases such as  anticipates,   believes,   continues,   could,   estimates,   expects,   future,   intends,   may,   might,   plans,   potential,   predicts,   projects,   should,   will likely result,   will continue  or similar expressions are intended to identify certain of these forward-looking statements and may be included in discussion of, among other things, our anticipated operating or financial performance, business plans and prospects, planned capital expenditures and other future expectations.  In particular, these include statements relating to future actions, business plans and prospects, future performance expenses, the outcome of contingencies, such as legal proceedings, government regulation and financial results. 
+  Forward-looking statements reflect current expectations and involve risks and uncertainties that could cause actual results or outcomes to differ materially from those expressed.  There can be no assurance that Puget Energy s and PSE s expectations, beliefs or projections will be achieved or accomplished.   
+  In addition to other factors and matters discussed elsewhere in this report, some important factors that could cause actual results or outcomes for Puget Energy and PSE to differ materially from past results and those discussed in forward-looking statements include: 
+                   
+    Governmental policies and regulatory actions, including those of the Federal Energy Regulatory Commission (FERC) and the Washington Utilities and Transportation Commission (Washington Commission), that may affect our ability to recover costs and earn a reasonable return, including but not limited to disallowance or delays in the recovery of capital investments and operating costs and discretion over allowed return on investment; 
+        
+    Changes in, adoption of and compliance with laws and regulations, including decisions and policies concerning the environment, climate change, greenhouse gas or other emissions or byproducts of electric generation such as coal ash or other substances, natural resources, and fish and wildlife (in addition the Endangered Species Act) as well as the risk of litigation arising from such matters, whether involving public or private claimants or regulatory investigative or enforcement measures; 
+        
+    Changes in tax law, related regulations or differing interpretation or enforcement of applicable law by the Internal Revenue Service (IRS) or other taxing jurisdiction; and PSE's ability to recover costs in a timely manner arising from such changes; 
+        
+    Inability to realize deferred tax assets and use production tax credits (PTCs) due to insufficient future taxable income; 
+        
+    Inability to manage costs during the rate stay out period through January 17, 2017, which would cause increases in costs of operations; 
+        
+    Accidents or natural disasters, such as hurricanes, windstorms, earthquakes, floods, fires and landslides, and other acts of God, terrorism, asset-based or cyber-based attacks, pandemic or similar significant events, which can interrupt service and lead to lost revenue, cause temporary supply disruptions and/or price spikes in the cost of fuel and raw materials and impose extraordinary costs; 
+        
+    Commodity price risks associated with procuring natural gas and power in wholesale markets from creditworthy counterparties; 
+        
+    Wholesale market disruption, which may result in a deterioration of market liquidity, increase the risk of counterparty default, affect the regulatory and legislative process in unpredictable ways, negatively affect wholesale energy prices and/or impede PSE's ability to manage its energy portfolio risks and procure energy supply, affect the availability and access to capital and credit markets and/or impact delivery of energy to PSE from its suppliers; 
+        
+    Financial difficulties of other energy companies and related events, which may affect the regulatory and legislative process in unpredictable ways, adversely affect the availability of and access to capital and credit markets and/or impact delivery of energy to PSE from its suppliers; 
+        
+    The effect of wholesale market structures (including, but not limited to, regional market designs or transmission organizations) or other related federal initiatives; 
+        
+    PSE electric or natural gas distribution system failure, blackouts or large curtailments of transmission systems (whether PSE's or others'), or failure of the interstate natural gas pipeline delivering to PSE's system, all of which can affect PSE's ability to deliver power or natural gas to its customers and generating facilities; 
+        
+    Electric plant generation and transmission system outages, which can have an adverse impact on PSE's expenses with respect to repair costs, added costs to replace energy or higher costs associated with dispatching a more expensive generation resource; 
+        
+    The ability to restart generation following a regional transmission disruption; 
+        
+    The ability of a natural gas or electric plant to operate as intended; 
+        
+    Changes in climate or weather conditions in the Pacific Northwest, which could have effects on customer usage and PSE's revenue and expenses; 
+        
+    Regional or national weather, which could impact PSE's ability to procure adequate supplies of natural gas, fuel or purchased power to serve its customers and the cost of procuring such supplies; 
+        
+    Variable hydrological conditions, which can impact streamflow and PSE's ability to generate electricity from hydroelectric facilities; 
+        
+    The ability to renew contracts for electric and natural gas supply and the price of renewal; 
+        
+    Industrial, commercial and residential growth and demographic patterns in the service territories of PSE; 
+        
+    General economic conditions in the Pacific Northwest, which may impact customer consumption or affect PSE's accounts receivable; 
+        
+    The loss of significant customers, changes in the business of significant customers or the condemnation of PSE's facilities as a result of municipalization or other government action or negotiated settlement, which may result in changes in demand for PSE's services; 
+        
+    The failure of information systems or the failure to secure information system data, which may impact the operations and cost of PSE's customer service, generation, distribution and transmission; 
+        
+    Capital market conditions, including changes in the availability of capital and interest rate fluctuations; 
+        
+    Employee workforce factors, including strikes, work stoppages, availability of qualified employees or the loss of a key executive; 
+        
+    The ability to obtain insurance coverage, the availability of insurance for certain specific losses, and the cost of such insurance; 
+        
+    The ability to maintain effective internal controls over financial reporting and operational processes; 
+        
+    Changes in Puget Energy's or PSE's credit ratings, which may have an adverse impact on the availability and cost of capital for Puget Energy or PSE generally; and 
+        
+    Deteriorating values of the equity, fixed income and other markets which could significantly impact the value of investments of PSE's retirement plan, post-retirement medical benefit plan trusts and the funding of obligations thereunder. 
+
+Any forward-looking statement speaks only as of the date on which such statement is made, and, except as required by law, the Company undertakes no obligation to update any forward-looking statement to reflect events or circumstances after the date on which such statement is made or to reflect the occurrence of unanticipated events.  New factors emerge from time to time and it is not possible for management to predict all such factors, nor can it assess the impact of any such factor on the business or the extent to which any factor, or combination of factors, may cause results to differ materially from those contained in any forward-looking statement.  For further information, see Item 1A -  Risk Factors  in the Company's most recent Annual Report on Form 10-K. 
+
+4 
+
+PART I                    FINANCIAL INFORMATION 
+    
+  Item 1.                        Financial Statements 
+
+PUGET ENERGY, INC. 
+  CONSOLIDATED STATEMENTS OF INCOME 
+  (Dollars in Thousands) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of the financial statements. 
+  
+   5 
+
+PUGET ENERGY, INC. 
+  CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+  (Dollars in Thousands) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of the financial statements. 
+  
+   6 
+
+The accompanying notes are an integral part of the financial statements. 
+
+The accompanying notes are an integral part of the financial statements. 
+  
+   7 
+
+The accompanying notes are an integral part of the financial statements. 
+
+8 
+
+PUGET SOUND ENERGY, INC. 
+  CONSOLIDATED STATEMENTS OF INCOME 
+  (Dollars in Thousands) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of the financial statements. 
+  
+   9 
+
+PUGET SOUND ENERGY, INC. 
+  CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+  (Dollars in Thousands) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of the financial statements. 
+  
+   10 
+
+PUGET SOUND ENERGY, INC. 
+  CONSOLIDATED BALANCE SHEETS 
+  (Dollars in Thousands) 
+  (Unaudited) 
+
+ASSETS 
+
+The accompanying notes are an integral part of the financial statements. 
+  
+   11 
+
+PUGET SOUND ENERGY, INC. 
+  CONSOLIDATED BALANCE SHEETS 
+  (Dollars in Thousands) 
+  (Unaudited) 
+
+CAPITALIZATION AND LIABILITIES 
+
+The accompanying notes are an integral part of the financial statements. 
+  
+   12 
+
+PUGET SOUND ENERGY, INC. 
+  CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  (Dollars in Thousands) 
+  (Unaudited) 
+
+The accompanying notes are an integral part of the financial statements. 
+  
+   13 
+
+COMBINED NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) 
+
+(1) 
+     Summary of Consolidation Policy 
+       
+  Basis of Presentation  
+  Puget Energy is an energy services holding company that owns PSE.  PSE is a public utility incorporated in the state of Washington that furnishes electric and natural gas services in a territory covering approximately   6,000   square miles, primarily in the Puget Sound region.  Puget Energy is an indirect wholly-owned subsidiary of Puget Holdings LLC (Puget Holdings). 
+  The consolidated financial statements of Puget Energy reflect the accounts of Puget Energy and its subsidiary, PSE.  PSE s consolidated financial statements include the accounts of PSE and its subsidiary, Puget Western, Inc.  Puget Energy and PSE are collectively referred to herein as  the Company .  The consolidated financial statements are presented after elimination of intercompany transactions.  PSE s consolidated financial statements continue to be accounted for on a historical basis and do not include any purchase accounting adjustments. 
+  The consolidated financial statements contained in this Form 10-Q are unaudited.  In the respective opinions of the management of Puget Energy and PSE, all adjustments necessary for a fair statement of the results for the interim periods have been reflected and were of a normal recurring nature.  These consolidated financial statements should be read in conjunction with the audited financial statements (and the Combined Notes thereto) included in the combined Puget Energy and PSE Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+  The preparation of financial statements in conformity with U.S. Generally Accepted Accounting Principles (GAAP) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period.  Actual results could differ from those estimates. 
+  PSE collected Washington State excise taxes (which are a component of general retail customer rates) and municipal taxes totaling   $46.1 million   and   $169.6 million   for the   three and nine months ended September 30, 2016  , respectively, and   $47.6 million   and   $167.5 million   for the   three and nine months ended September 30, 2015   respectively.  The Company reports the collection of such taxes on a gross basis in operating revenue and as expense in taxes other than income taxes in the accompanying consolidated statements of income. 
+    
+  Change in Accounting Principle 
+  On January 1, 2016, the Company changed its method of presenting unamortized debt issuance costs in the balance sheet.  The new method of presenting debt issuance costs was adopted to comply with Accounting Standards Update (ASU) 2015-03,   "Interest-Imputation of Interest (Subtopic 835-30): Simplifying the Presentation of Debt Issuance Costs"  .  ASU 2015-03 requires debt issuance costs related to a recognized debt liability be presented in the balance sheet as a direct deduction from the carrying amount of the debt liability, consistent with the presentation of a debt discount.  The prior year comparative balance sheet has been adjusted to apply the new method retrospectively.  Due to the change in accounting principle, the   December 31, 2015   financial statement line item  Other long-term assets  decreased and  Debt discount, issuance costs and other  increased   $38.4 million   and   $30.0 million   at Puget Energy and PSE, respectively. 
+
+(2)  New Accounting Pronouncements 
+    
+  Revenue Recognition 
+  In May 2014, the Financial Accounting Standards Board (FASB) issued ASU  2014-09, "  Revenue from Contracts with Customers (Topic 606)  ", which outlines a single comprehensive model for use in accounting for revenue arising from contracts with customers and supersedes most current revenue recognition guidance, including industry-specific guidance. The ASU is based on the principle that an entity should recognize revenue to depict the transfer of goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. The ASU also requires additional disclosure about the nature, amount, timing and uncertainty of revenue and cash flows arising from customer contracts, including significant judgments and changes in judgments and assets recognized from costs incurred to fulfill a contract. 
+  In August 2015, the FASB issued ASU 2015-14, "  Revenue from Contracts with Customers (Topic 606): Deferral of the Effective Date"  , deferring the effective date for ASU 2014-09 to fiscal years, and interim periods within those fiscal years, beginning after December 15, 2017.  In addition to the FASB's deferral decision, the FASB provided reporting entities with an option to adopt ASU 2014-09 for the fiscal years, and interim periods within those fiscal years, beginning after December 15, 2016, the original effective date.  
+  
+   14 
+
+In March 2016, the FASB issued ASU 2016-08, "  Revenue from Contracts with Customers (Topic 606): Principal versus Agent Considerations (Reporting Revenue Gross versus Net)"  .      The amendments in ASU 2016-08 are intended to improve the operability and understanding of the implementation guidance on principal versus agent considerations.  Topic 606 requires an entity to determine whether the nature of its promise is to provide a good or service to the customer (i.e., the entity is a principal) or to arrange for the good or service to be provided to the customer by another party (i.e., the entity is an agent).  The effective date and transition requirements for ASU 2016-08 are the same as the effective date and transition requirements of ASU 2014-09. 
+  In April 2016, the FASB issued ASU 2016-10, "  Revenue from Contracts with Customers (Topic 606): Identifying Performance Obligations and Licensing".   The amendments in ASU 2016-10 are intended to clarify the aspects of identifying performance obligations and the licensing implementation guidance, while retaining the related principles for those areas. The effective date and transition requirements for ASU 2016-10 are the same as the effective date and transition requirements of ASU 2014-09.  
+  In May 2016, the FASB issued ASU 2016-12,   "Revenue from Contracts with Customers (Topic 606): Narrow-Scope Improvements and Practical Expedients".    The amendments in ASU 2016-12 are intended to clarify the objective of collectability criterion, presentation of sales taxes and other similar taxes collected from customers, specify the measurement date for noncash consideration, provide practical expedient for contract modifications at transition, define completed contracts at transition and clarify that an entity that retrospectively applies the guidance in Topic 606 to each prior reporting period is not required to disclose the effect of the accounting change for the period of adoption. The effective date and transition requirements for ASU 2016-12 are the same as the effective date and transition requirements of ASU 2014-09. 
+  The Company plans to adopt ASU 2014-09 during the first quarter of fiscal year 2018.  Reporting entities also have the option of using either a full retrospective or a modified retrospective approach for the adoption of the new standard.  The Company initiated a steering committee and project team to evaluate the impact of this standard and update any policies and procedures that may be affected and implement the new revenue recognition guidance.  At this time, the Company is still evaluating the impact this standard will have on its consolidated financial statements. 
+    
+  Lease Accounting 
+  In February 2016, the FASB issued ASU 2016-02,   "Leases (Topic 842)"  .  ASU 2016-02     requires lessees to recognize the following for all leases (with the exception of short-term leases) at the commencement date: (i) a lease liability, which is a lessee's obligation to make lease payments arising from a lease, measured on a discounted basis; and (ii) a right-of-use asset, which is an asset that represents the lessee s right to use, or control the use of, a specified asset for the lease term.  Under the new guidance, lessor accounting is largely unchanged. 
+  This amendment is effective for financial statements issued for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years.  Earlier adoption is permitted for all entities upon issuance.  Reporting entities must apply a modified retrospective approach for the adoption of the new standard.  The Company plans to adopt ASU 2016-02 during the first quarter of fiscal year 2019.  At this time, the Company is still evaluating the impact this standard will have on its consolidated financial statements. 
+    
+  Derivatives and Hedging 
+  In March 2016, the FASB issued ASU 2016-06,   "Derivatives and Hedging (Topic 815): Contingent Put and Call Options in Debt Instruments"  .      Topic 815 requires that embedded derivatives be separated from the host contract and accounted for separately as derivatives if certain criteria are met, including the  clearly and closely related  criterion.  ASU 2016-06 clarifies the requirements for assessing whether contingent call or put options that can accelerate the payment of principal on debt instruments are clearly and closely related to their debt hosts.  An entity performing the assessment under the amendment is required to assess the embedded call or put options solely in accordance with the four-step decision sequence.  
+  This amendment is effective for financial statements issued for fiscal years beginning after December 15, 2016, including interim periods within those fiscal years.  Earlier adoption is permitted for all entities upon issuance.  Reporting entities must apply a modified retrospective approach for the adoption of the new standard.  The Company plans to adopt ASU 2016-06 during the first quarter of fiscal year 2017, and is in the process of evaluating the potential impacts, if any, of this new guidance on its financial statements. 
+    
+  Statement of Cash Flows 
+  In August 2016, the FASB issued ASU 2016-15, "  Statement of Cash Flows (Topic 230): Classification of Certain Cash Receipts and Cash Payments".    The amendments in ASU 2016-15 provide guidance for eight specific cash flow issues that include: (i) debt prepayment or debt extinguishment costs, (ii) settlement of zero-coupon debt instruments, (iii) contingent consideration payments made after a business combination, (iv) proceeds from the settlement of insurance claims, (v) proceeds from the settlement of corporate-owned life insurance policies, including bank-owned life insurance policies, (vi) distribution received from equity method investees, (vii) beneficial interest in securitization transactions, and (viii) separately identifiable cash flows and application  
+  
+   15 
+
+of the predominance principle.  Current GAAP is unclear or does not include specific guidance on the eight cash flow classification issues included in the amendments.  
+  This update is effective for financial statements issued for fiscal years beginning after December 15, 2017 and interim periods within those fiscal years.  Early adoption is permitted for all entities upon issuance.  The amendments in this update should be applied using a retrospective transition method to each period presented.  The Company plans to adopt ASU 2016-15 during the first quarter of fiscal year 2018 and is in the process of evaluating the impact this standard will have on its consolidated statement of cash flows. 
+
+(3) 
+     Accounting for Derivative Instruments and Hedging Activities 
+       
+  PSE employs various energy portfolio optimization strategies but is not in the business of assuming risk for the purpose of realizing speculative trading revenue.  The nature of serving regulated electric customers with its portfolio of owned and contracted electric generation resources exposes PSE and its customers to some volumetric and commodity price risks within the sharing mechanism of the Power Cost Adjustment (PCA).  Therefore, wholesale market transactions and PSE's related hedging strategies are focused on reducing costs and risks where feasible, thus reducing volatility in costs in the portfolio.  In order to manage its exposure to the variability in future cash flows for forecasted energy transactions, PSE utilizes a programmatic hedging strategy which extends out   three   years.  PSE's energy risk portfolio management function monitors and manages these risks using analytical models and tools.  In order to manage risks effectively, PSE enters into forward physical electric and natural gas purchase and sale agreements, fixed-for-floating swap contracts, and commodity call/put options.  The forward physical electric agreements are both fixed and variable (at index), while the physical natural gas agreements are variable.  To fix the price of wholesale electricity and natural gas, PSE may enter into fixed-for-floating swap (financial) contracts with various counterparties.  PSE also utilizes natural gas call and put options as an additional hedging instrument to increase the hedging portfolio's flexibility to react to commodity price fluctuations.  Currently, the Company does not apply cash flow hedge accounting, and therefore records all mark-to-market gains or losses through earnings. 
+  The Company manages its interest rate risk through the issuance of mostly fixed-rate debt with varied maturities.  The Company utilizes internal cash from operations, borrowings under its commercial paper program and its credit facilities to meet short-term funding needs.  The Company may enter into swap instruments or other financial hedge instruments to manage the interest rate risk associated with these debts.  As of   September 30, 2016  , Puget Energy had   two   interest rate swap contracts outstanding which extend to   January 2017  .  As of the date of this report, these swap instruments are no longer hedging any variable interest rate debt.  Management continues to monitor the economics of terminating the swaps, unless the economics of terminating the swaps become more favorable, management intends to let them mature in   January 2017  .  PSE did not have any outstanding interest rate swap instruments. 
+  
+   16 
+
+The following table presents the volumes, fair values and locations of the Company's derivative instruments recorded on the balance sheets: 
+
+_______________ 
+            1   
+    Balance sheet locations: Current and Long-term Unrealized gain on derivative instruments. 
+               2   
+    Balance sheet locations: Current and Long-term Unrealized loss on derivative instruments. 
+               3   
+    Interest rate swap contracts are only held at Puget Energy. 
+               4   
+    All fair value adjustments on derivatives relating to the natural gas business have been deferred in accordance with ASC 980,  Regulated Operations,  due to the Purchased Gas Adjustment (PGA) mechanism. The net derivative asset or liability and offsetting regulatory liability or asset are related to contracts used to economically hedge the cost of physical gas purchased to serve natural gas customers. 
+        
+  It is the Company's policy to record all derivative transactions on a gross basis at the contract level, without offsetting assets or liabilities.  The Company generally enters into transactions using the following master agreements: WSPP, Inc. (WSPP) agreements, which standardize physical power contracts; International Swaps and Derivatives Association (ISDA) agreements, which standardize financial gas and electric contracts; and North American Energy Standards Board (NAESB) agreements, which standardize physical gas contracts.  The Company believes that such agreements reduce credit risk exposure because such agreements provide for the netting and offsetting of monthly payments as well as the right of set-off in the event of counterparty default.  The set-off provision can be used as a final settlement of accounts which extinguishes the mutual debts owed between the parties in exchange for a new net amount.  For further details regarding the fair value of derivative instruments, see Note 4 - "Fair Value Measurements". 
+
+17 
+
+The following tables present the potential effect of netting arrangements, including rights of set-off associated with the Company's derivative assets and liabilities: 
+
+_______________ 
+            1   
+    All derivative contract deals are executed under ISDA, NAESB and WSPP master netting agreements with right of set-off. 
+               2   
+    Interest rate swap contracts are only held at Puget Energy.  
+
+18 
+
+The following tables present the effect and locations of the realized and unrealized gains (losses) of the Company's derivatives recorded on the statements of income: 
+
+_______________ 
+            1   
+    Differences between Puget Energy and PSE for the   nine   months ended   September 30, 2015   are due to certain derivative contracts recorded at fair value in 2009 and subsequently designated as Normal Purchase Normal Sale (NPNS) or cash flow hedges. These differences occurred through February 2015. 
+       
+  The Company is exposed to credit risk primarily through buying and selling electricity and natural gas to serve its customers.  Credit risk is the potential loss resulting from a counterparty's non-performance under an agreement.  The Company manages credit risk with policies and procedures for, among other things, counterparty credit analysis, exposure measurement, exposure monitoring and exposure mitigation. 
+  The Company monitors counterparties that have significant swings in credit default swap rates, have credit rating changes by external rating agencies, have changes in ownership or are experiencing financial distress.  Where deemed appropriate, the Company may request collateral or other security from its counterparties to mitigate potential credit default losses.  Criteria employed in this decision include, among other things, the perceived creditworthiness of the counterparty and the expected credit exposure. 
+  It is possible that volatility in energy commodity prices could cause the Company to have material credit risk exposure with one or more counterparties.  If such counterparties fail to perform their obligations under one or more agreements, the Company could suffer a material financial loss.  However, as of   September 30, 2016  , approximately   96.6%   of the Company's energy portfolio exposure, excluding NPNS transactions, is with counterparties that are rated at least investment grade by rating agencies and   3.4%   are either rated below investment grade or not rated by rating agencies.  The Company assesses credit risk internally for counterparties that are not rated by the major rating agencies. 
+  The Company computes credit reserves at a master agreement level by counterparty.  The Company considers external credit ratings and market factors, such as credit default swaps and bond spreads, in the determination of reserves.  The Company recognizes  
+  
+   19 
+
+that external ratings may not always reflect how a market participant perceives a counterparty's risk of default.  The Company uses both default factors published by Standard   Poor's and factors derived through analysis of market risk, which reflect the application of an industry standard recovery rate.  The Company selects a default factor by counterparty at an aggregate master agreement level based on a weighted average default tenor for that counterparty's deals.  The default tenor is determined by weighting the fair value and contract tenors for all deals for each counterparty to derive an average value.  The default factor used is dependent upon whether the counterparty is in a net asset or a net liability position after applying the master agreement levels. 
+  The Company applies the counterparty's default factor to compute credit reserves for counterparties that are in a net asset position.  The Company calculates a non-performance risk on its derivative liabilities by using its estimated incremental borrowing rate over the risk-free rate.  Credit reserves are netted against the unrealized gain (loss) positions.  As of   September 30, 2016  , the Company was in a net liability position with many of its counterparties, so the default factors of counterparties did not have a significant impact on reserves for the period.  The majority of the Company's derivative contracts are with financial institutions and other utilities operating within the Western Electricity Coordinating Council.  As of   September 30, 2016  , PSE has posted a   $1.0 million   letter of credit as a condition of transacting on a physical energy exchange and clearinghouse in Canada.  PSE did not trigger any collateral requirements with any of its counterparties during the   nine   months ended   September 30, 2016  , nor were any of PSE's counterparties required to post collateral resulting from credit rating downgrades.  
+  The table below presents the fair value of the overall contractual contingent liability positions for the Company's derivative activity at   September 30, 2016  : 
+
+_______________ 
+            1   
+    Represents the derivative fair value of contracts with contingent features for counterparties in net derivative liability positions.  Excludes NPNS, accounts payable and accounts receivable. 
+               2   
+    Failure by PSE to maintain an investment grade credit rating from each of the major credit rating agencies provides counterparties a contractual right to demand collateral. 
+               3   
+    Collateral requirements may vary, based on changes in the forward value of underlying transactions relative to contractually defined collateral thresholds. 
+
+(4) 
+     Fair Value Measurements 
+       
+   ASC 820 established a fair value hierarchy that prioritizes the inputs used to measure fair value.  The hierarchy categorizes the inputs into three levels with the highest priority given to unadjusted quoted prices in active markets for identical assets or liabilities (Level 1 measurement) and the lowest priority given to unobservable inputs (Level 3 measurement).  The three levels of the fair value hierarchy are as follows: 
+    
+  Level 1 - Quoted prices are available in active markets for identical assets or liabilities as of the reporting date.  Level 1 primarily consists of financial instruments such as exchange-traded derivatives and listed equities.  Equity securities that are also classified as cash equivalents are considered Level 1 if there are unadjusted quoted prices in active markets for identical assets or liabilities. 
+    
+  Level 2 - Pricing inputs are other than quoted prices in active markets included in Level 1, which are either directly or indirectly observable as of the reporting date.  Level 2 includes those financial instruments that are valued using models or other valuation methodologies.  Instruments in this category include non-exchange-traded derivatives such as over-the-counter forwards and options. 
+
+20 
+
+Level 3 - Pricing inputs include significant inputs that have little or no observability as of the reporting date.  These inputs may be used with internally developed methodologies that result in management's best estimate of fair value. 
+    
+   Financial assets and liabilities measured at fair value are classified in their entirety in the appropriate fair value hierarchy based on the lowest level of input that is significant to the fair value measurement.  The Company's assessment of the significance of a particular input to the fair value measurement requires judgment and may affect the valuation of fair value assets and liabilities and their placement within the fair value hierarchy.  The Company primarily determines fair value measurements classified as Level 2 or Level 3 using a combination of the income and market valuation approaches.  The process of determining the fair values is the responsibility of the derivative accounting department which reports to the Controller and Principal Accounting Officer.  Inputs used to estimate the fair value of forwards, swaps and options include market-price curves, contract terms and prices, credit-risk adjustments, and discount factors.  Additionally, for options, the Black-Scholes option valuation model and implied market volatility curves are used.  Inputs used to estimate fair value in industry-standard models are categorized as Level 2 inputs as substantially all assumptions and inputs are observable in active markets throughout the full term of the instruments.  On a daily basis, the Company obtains quoted forward prices for the electric and natural gas markets from an independent external pricing service.  For interest rate swaps, the Company obtains monthly market values from an independent external pricing service using London Interbank Offered Rate (LIBOR) forward rates, which is a significant input.  Some of the inputs of the interest rate swap valuations, which are less significant, include the credit standing of the counterparties, assumptions for time value and the impact of the Company's nonperformance risk of its liabilities.  The Company classifies cash and cash equivalents, and restricted cash as Level 1 financial instruments due to cash being at stated value, and cash equivalents at quoted market prices. 
+  The Company considers its electric, natural gas and interest rate swap contracts as Level 2 derivative instruments as such contracts are commonly traded as over-the-counter forwards with indirectly observable price quotes.  However, certain energy derivative instruments with maturity dates falling outside the range of observable price quotes are classified as Level 3 in the fair value hierarchy.  Management's assessment is based on the trading activity in real-time and forward electric and natural gas markets.  Each quarter, the Company confirms the validity of pricing-service quoted prices used to value Level 2 commodity contracts with the actual prices of commodity contracts entered into during the most recent quarter.  
+    
+  Assets and Liabilities with Estimated Fair Value 
+  The carrying values of cash and cash equivalents, restricted cash, and short-term debt as reported on the balance sheet are reasonable estimates of their fair value due to the short term nature of these instruments and are classified as Level 1 in the fair value hierarchy.  The carrying value of other investments of   $51.5 million   and   $52.8 million   at   September 30, 2016   and   December 31, 2015  , respectively, are included in other property and investments on the balance sheet.  These values are also reasonable estimates of their fair value and classified as Level 2 in the fair value hierarchy as they are valued based on market rates for similar transactions. 
+
+21 
+
+The fair value of the junior subordinated and long-term notes was estimated using the discounted cash flow method with the U.S. Treasury yields and the Company's credit spreads as inputs, interpolating to the maturity date of each issue.  Carrying values and estimated fair values were as follows: 
+
+_______________ 
+      
+  Assets and Liabilities Measured at Fair Value on a Recurring Basis 
+  The following tables present the Company's financial assets and liabilities by level, within the fair value hierarchy, that were accounted for at fair value on a recurring basis: 
+
+22 
+
+The following table presents the Company's reconciliation of the changes in the fair value of Level 3 derivatives in the fair value hierarchy: 
+
+_______________ 
+            1   
+    Income Statement locations: Unrealized (gain) loss on derivative instruments, net.  Includes unrealized gains (losses) on derivatives still held in position as of the reporting date for electric derivatives of   $0.9 million     and   $(1.5) million   for the   three   months ended   September 30, 2016   and   2015  , respectively.  
+               2   
+    Income Statement locations: Unrealized (gain) loss on derivative instruments, net.  Includes unrealized gains (losses) on derivatives still held in position as of the reporting date for electric derivatives of   $4.0 million   and   $(10.4) million   for the   nine   months ended   September 30, 2016   and   2015  , respectively.  
+       
+  Realized gains and losses on energy derivatives for Level 3 recurring items are included in energy costs in the Company's consolidated statements of income under purchased electricity, electric generation fuel or purchased natural gas when settled. Unrealized gains and losses on energy derivatives for Level 3 recurring items are included in net unrealized (gain) loss on derivative instruments in the Company's consolidated statements of income.   
+  In order to determine which assets and liabilities are classified as Level 3, the Company receives market data from its independent external pricing service defining the tenor of observable market quotes.  To the extent any of the Company's commodity contracts extend beyond what is considered observable as defined by its independent pricing service, the contracts are classified as Level 3.  The actual tenor of what the independent pricing service defines as observable is subject to change depending on market conditions.  Therefore, as the market changes, the same contract may be designated Level 3 one month and Level 2 the next, and vice versa.  The changes of fair value classification into or out of Level 3 are recognized each month, and reported in the Level 3 Roll-Forward tables.  The Company did not have any transfers between Level 2 and Level 1 during the reported periods.  The Company does periodically transact at locations, or market price points, that are illiquid or for which no prices are available from the independent pricing service.  In such circumstances, the Company uses a more liquid price point and performs a 15-month regression against the illiquid locations to serve as a proxy for forward market prices.  Such transactions are classified as  
+  
+   23 
+
+Level 3.  The Company does not use internally developed models to make adjustments to significant unobservable pricing inputs.  The only significant unobservable input into the fair value measurement of the Company's Level 3 assets and liabilities is the forward price for electric and natural gas contracts.   
+  The following table presents the forward price ranges for the Company's Level 3 commodity contracts as of   September 30, 2016  :      
+
+_______________ 
+            1   
+    The valuation techniques, unobservable inputs and ranges are the same for asset and liability positions. 
+       
+  The following table presents the forward price ranges for the Company's Level 3 commodity contracts as of   December 31, 2015  :      
+
+_______________ 
+            1   
+    The valuation techniques, unobservable inputs and ranges are the same for asset and liability positions. 
+       
+  The significant unobservable inputs listed above would have a direct impact on the fair values of the above instruments if they were adjusted.  Consequently, significant increases or decreases in the forward prices of electricity or natural gas in isolation would result in a significantly higher or lower fair value for Level 3 assets and liabilities.  Generally, interrelationships exist between market prices of natural gas and power.  As such, an increase in natural gas pricing would potentially have a similar impact on forward power markets.  At   September 30, 2016   and   December 31, 2015  , a hypothetical   10%   increase or decrease in market prices of natural gas and electricity would change the fair value of the Company's derivative portfolio, classified as Level 3 within the fair value hierarchy, by   $0.6 million   and   $1.3 million  , respectively. 
+    
+  Long-Lived Assets Measured at Fair Value on a Nonrecurring Basis 
+  Puget Energy records the fair value of its intangible assets in accordance with ASC 360,  Property, Plant, and Equipment,  (ASC 360).  The fair value assigned to the power contracts was determined using an income approach comparing the contract rate to the market rate for power over the remaining period of the contracts incorporating non-performance risk.  Management also incorporated certain assumptions related to quantities and market presentation that it believes market participants would make in the valuation.  The fair value of the power contracts is amortized as the contracts settle.   
+  ASC 360 requires long-lived assets to be tested for impairment on an annual basis, and upon the occurrence of any events or circumstances that would be more likely than not to reduce the fair value of the long-lived assets below their carrying value.  One such triggering event is a significant decrease in the forward market prices of power. 
+  
+   24 
+
+At   September 30, 2016  , Puget Energy completed valuation and impairment testing of its power purchase contracts classified as intangible assets.  Due to decreases in future forecasted revenue and cost estimates related to Grant County's projected load, an impairment of the Priest Rapids Reasonable Portion contract was recorded.  Additional impairments were recorded at   March 31, 2016   and   December 31, 2015   due to decreases in forward power prices of   8.6%   and   4.5%  , respectively.  The following impairments were recorded to the Company's intangible asset contracts, with corresponding reductions to the regulatory liability as follows: 
+
+The valuations were measured using a discounted cash flow, income-based valuation methodology.  Significant inputs included forward electricity prices and power contract pricing which provided future net cash flow estimates which are classified as Level 3 within the fair value hierarchy.  A less significant input is the discount rate reflective of PSE's cost of capital used in the valuation.   
+  The following table presents the significant unobservable inputs used in estimating the impaired long-term power purchase contracts' fair value:  
+
+(5) 
+     Retirement Benefits 
+       
+  PSE has a defined benefit pension plan (Qualified Pension Benefits) covering the largest portion of PSE employees.  Pension benefits earned are a function of age, salary, years of service and, in the case of employees in the cash balance formula plan, the applicable annual interest crediting rates.  Starting with January 1, 2014 all newly hired non-represented employees, United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry (UA) employees, and International Brotherhood of Electrical Workers Local Union 77 (IBEW) employees hired on or after December 12, 2014 will receive annual pay credits of   4%   each year, which is the Company contribution.  Non-represented and IBEW employees can accumulate the Company contribution in the cash balance formula or the 401(k) plan.  UA employees will automatically receive the Company contribution in the cash balance formula plan.  They will also receive interest credits like other participants in the cash balance pension formula of the pension plan, which are at least   1%   per quarter.  When an employee with a vested cash balance formula benefit leaves PSE, he or she will have annuity and lump sum options for distribution.  Those who select the lump sum option will receive their current cash balance amount.  PSE also maintains a non-qualified Supplemental Executive Retirement Plan (SERP) for its key senior management employees. 
+  In addition to providing pension benefits, PSE provides legacy group health care and life insurance benefits (Other Benefits) for certain retired employees.  These benefits are provided principally through an insurance company.  The insurance premiums, paid primarily by retirees, are based on the benefits provided during the prior year. 
+  Puget Energy records purchase accounting adjustments associated with the re-measurement of the retirement plans. 
+  
+   25 
+
+The following tables summarize the Company s net periodic benefit cost for the   three and nine months ended September 30, 2016   and   2015  : 
+
+26 
+
+The following table summarizes the Company s change in benefit obligation for the periods ended   September 30, 2016   and   December 31, 2015  : 
+
+The aggregate expected contributions by the Company to fund the qualified pension plan, SERP and the other postretirement plans for the year ending   December 31, 2016   are expected to be at least   $24.0 million  ,   $2.5 million   and   $0.3 million  , respectively.  During the   three months ended September 30, 2016  , the Company contributed   $15.0 million   and   $0.5 million   to fund the qualified pension plan and SERP, respectively, and was refunded   $0.2 million   for other postretirement plan.  During the   nine months ended September 30, 2016  , the Company contributed   $24.0 million  ,   $2.6 million   and   $0.3 million   to fund the qualified pension plan, SERP and other postretirement plan, respectively.  
+
+(6) 
+     Regulation and Rates 
+       
+  Decoupling Filings 
+  While fluctuations in weather conditions will continue to affect PSE's billed revenue and energy supply expenses from month to month, PSE's decoupling mechanisms are expected to mitigate the impact of weather on operating revenue and net income.  The Washington Commission has allowed PSE to record a monthly adjustment to its electric and natural gas operating revenues related to electric transmission and distribution, natural gas operations and general administrative costs from residential, commercial and  
+  
+   27 
+
+industrial customers to mitigate the effects of abnormal weather, conservation impacts and changes in usage patterns per customer.  As a result, these electric and natural gas revenues will be recovered on a per customer basis regardless of actual consumption levels.  The energy supply costs, which are part of the PCA and PGA mechanisms, are not included in the decoupling mechanism.  The revenue recorded under the decoupling mechanisms will be affected by customer growth and not actual consumption.  Following each calendar year, PSE will recover or refund the difference between allowed decoupling revenue and the corresponding actual revenue to affected customers over a 12-month period beginning the following May.  The decoupling mechanism will end on December 31, 2017 unless the continuation of the mechanism is approved in PSE's next General Rate Case (GRC) filing, which PSE is required to submit by January 17, 2017 at the latest. 
+  On April 28, 2016, the Washington Commission approved PSE's request to change rates under its electric and natural gas decoupling mechanism, effective May 1, 2016.  The overall changes represent a rate increase for electric customers of   $20.8 million  , or   1.0%  , annually, and a rate increase for natural gas customers of   $25.4 million  , or   2.8%  , annually.  In addition, PSE exceeded the earnings test threshold for both its electric and natural gas business in 2015.  As a result, PSE recorded a reduction in electric decoupling deferral and revenue of   $11.9 million   and a reduction in natural gas decoupling deferral and revenue of   $5.5 million  .  This was reflected as a reduction to the electric and natural gas rate increases noted above.  As noted earlier, the Company is also limited to a   3.0%   annual decoupling related cap on increases in total revenue.  This limitation was triggered for the natural gas residential rate class.  The resulting amount of deferral that was not included in the 2016 rate increase is   $28.7 million   for natural gas revenue that was accrued through December 31, 2015.  This amount may be included in customer rates beginning in May 2017, subject to subsequent application of the earnings test and the   3.0%   cap on decoupling related rate increases.   
+  On April 22, 2015, the Washington Commission approved PSE's request to change rates under its electric and natural gas decoupling mechanism, effective May 1, 2015.  As part of this filing, PSE also requested to change the methodology of how decoupling deferrals are calculated going forward and adjust deferrals calculated in 2014.  The change was done to ensure that the amortization of prior years  accumulated decoupling deferrals were not included in the calculation of the current year decoupling deferrals.  The effect of the methodology change was a reduction of approximately   $12.0 million   previously recognized revenue from May through December of 2014.  The overall changes represent a rate increase for electric customers of   $53.8 million  , or   2.6%  , annually, and a rate increase for natural gas customers of   $22.0 million  , or   2.1%  , annually, effective May 1, 2015.  In addition, PSE exceeded the earnings test threshold for its natural gas business in 2014.  As a result, PSE recorded a reduction in natural gas decoupling deferral and revenue of   $1.3 million  .  This was reflected as a reduction to the natural gas rate increases noted above.  As noted earlier, the Company is also limited to a   3.0%   annual decoupling related cap on increases in total revenue.  This limitation was triggered for certain rate classes.  The resulting amount of deferral that was not included in the 2015 rate increase is   $1.9 million   for electric revenue and   $8.2 million   for natural gas revenue that was accrued through December 31, 2014. 
+    
+  General Rate Case Filing Postponed to 2017  
+  On March 17, 2016, the Washington Commission approved a joint petition postponing the filing of PSE s GRC until no later than January 17, 2017.  As part of the petition, PSE agreed to update power costs on December 1, 2016 in conjunction with the Centralia PPA compliance filing and to include a plan for Colstrip Units 1 and 2 shutdown in its GRC filing.  Monthly allowed revenue per customer values, which include an automatic annual increase, will continue through December 2017 until new rates go into effect from PSE's 2017 GRC. 
+    
+  Electric Regulation and Rates 
+  Storm Damage Deferral Accounting 
+  The Washington Commission issued a GRC order that defined deferrable catastrophic/extraordinary losses and provided that costs in excess of   $8.0 million   annually can be recorded as a regulatory asset for qualifying storm damage costs that meet the Institute of Electrical and Electronics Engineers (IEEE) threshold criteria for a major event.  For the   nine months ended September 30, 2016   and   2015  , PSE incurred   $15.6 million   and   $14.4 million  , respectively, in storm-related electric transmission and distribution system restoration costs, of which   $6.5 million   was recorded as a regulatory asset in   2016   and   $5.1 million   in   2015  . 
+
+28 
+
+Electric Property Tax Tracker Mechanism 
+  The purpose of the property tax tracker mechanism is to pass through the cost of all property taxes incurred by the Company.  The mechanism was implemented in 2013 and removed property taxes from general rates and included those costs as a component rate.  After the implementation, the mechanism acts as a tracker rate schedule and collects the total amount of property taxes assessed.  The tracker will be adjusted each year in May based on that year's assessed property taxes and true-ups to the rate from the prior year. 
+  The following table sets forth property tax tracker mechanism rate adjustments approved by the Washington Commission and the corresponding annual impact on PSE s revenue based on the effective dates: 
+
+Electric Conservation Rider 
+  The electric conservation rider collects revenue to cover the costs incurred in providing services and programs for conservation.  Rates change annually on May 1 to collect the annual budget that started the prior January. 
+  The following table sets forth conservation rider rate adjustments approved by the Washington Commission and the corresponding annual impact on PSE s revenue based on the effective dates: 
+
+Power Cost Only Rate Case Compliance Filing 
+  On September 30, 2016, PSE filed a compliance filing consistent with the Commission's Order 4 in PSE s 2014 Power Cost Only Rate Case (PCORC) under Docket No. UE-141141.  This allowed PSE to implement the December 1, 2016 price and volume changes associated with the Centralia Coal Transition purchase power agreement through a compliance filing.  
+  The following table sets forth the PCORC rate adjustments as proposed in the original filing by PSE and the corresponding annual impact on PSE s revenue based on the effective dates: 
+                   Effective Date 
+    Average 
+  Percentage 
+  Increase (Decrease) 
+  in Rates 
+    Increase (Decrease) 
+  in Revenue 
+  (Dollars in Millions) 
+      December 1, 2016, proposed 
+    (1.7)% 
+    $(37.3) 
+
+Federal Incentive Tracker Tariff 
+  The Federal Incentive Tracker Tariff passes through to customers the benefits associated with realized treasury grants and production tax credits (PTCs).  The filing results in a credit back to customers for pass-back of treasury grant amortization and pass-through of interest and any related true-ups.  The filing is adjusted annually for new Federal benefits, actual versus forecast interest and to true-up for actual load being different than the forecasted load set in rates. 
+  
+   29 
+
+The following table sets forth the Federal Incentive Tracker Tariff revenue requirement and the corresponding annual impact on PSE s revenue based on the effective dates: 
+
+Gas Regulation and Rates 
+  Gas Conservation Rider 
+  The gas conservation rider collects revenue to cover the costs incurred in providing services and programs for conservation.  Rates change annually on May 1 to collect the annual budget that started the prior January. 
+  The following table sets forth conservation rider rate adjustments approved by the Washington Commission and the corresponding annual impact on PSE s revenue based on the effective dates: 
+
+Cost Recovery Mechanism  
+  The purpose of the Cost Recovery Mechanism (CRM) is to recover capital costs related to enhancing the safety of the natural gas distribution system. 
+  The following table sets forth CRM rate adjustments approved by the Washington Commission and the corresponding annual impact on PSE s revenue based on the effective dates: 
+
+Property Tax Tracker Mechanism 
+  The purpose of the property tax tracker mechanism is to pass through the cost of all property taxes incurred by the Company.  The mechanism was implemented in 2013 and removed property taxes from general rates and included those costs as a component rate.  After the implementation, the mechanism acts as a tracker rate schedule and collects the total amount of property taxes assessed.  The tracker will be adjusted each year in May based on that year's assessed property taxes.   
+  
+   30 
+
+The following table sets forth property tax tracker mechanism rate adjustments approved by the Washington Commission and the corresponding annual impact on PSE s revenue based on the effective dates: 
+
+Purchased Gas Adjustment 
+  PSE has a PGA mechanism that allows PSE to recover expected natural gas supply and transportation costs and defer, as a receivable or liability, any natural gas supply and transportation costs that exceed or fall short of this expected natural gas cost amount in PGA mechanism rates, including accrued interest.  PSE is authorized by the Washington Commission to accrue carrying costs on PGA receivable and payable balances.  A receivable or payable balance in the PGA mechanism reflects an under recovery or over recovery, respectively, of natural gas cost through the PGA mechanism. 
+  The following table sets forth PGA rate adjustments approved by the Washington Commission and the corresponding annual impact on PSE s revenue based on the effective dates: 
+
+(7) 
+     Asset Retirement Obligation 
+       
+  The Company has recorded liabilities for steam, combustion turbine, combined cycle, and wind generation sites, distribution and transmission poles, gas mains, and leased facilities where disposal is governed by ASC 410  Asset Retirement and Environmental Obligations (ARO) .   
+  On April 17, 2015, the U.S. Environmental Protection Agency (EPA) published a final rule, effective October 19, 2015, that regulates Coal Combustion Residuals (CCR) under the Resource Conservation and Recovery Act, Subtitle D.  The CCR rule addresses the risks from coal ash disposal, such as leaking of contaminants into ground water, blowing of contaminants into the air as dust, and the catastrophic failure of coal ash surface impoundments by establishing technical requirements for CCR landfills and surface impoundments.  The rule also sets out recordkeeping and reporting requirements including requirements to post specific information to a publicly-accessible website. 
+  The CCR rule requires significant changes to the Company s Colstrip, Montana coal-fired steam electric generation facility (Colstrip) operations and those changes were reviewed by the Company and the plant operator in the second and third quarter of 2015.  PSE had previously recognized a legal obligation under the EPA rules to dispose of coal ash material at Colstrip, in 2003.  Due to the CCR rule, additional disposal costs were added to the ARO. 
+  The actual ARO costs related to the CCR rule requirements may vary substantially from the estimates used to record the increased obligation due to uncertainty about the compliance strategies that will be used and the preliminary nature of available data used to estimate costs.  We will continue to gather additional data and coordinate with the plant operator to make decisions about compliance strategies and the timing of closure activities.  As additional information becomes available, the Company will update the ARO obligation for these changes, which could be material. 
+  During the first quarter 2016, the Company updated its estimated decommissioning costs and timing of its ARO for Lower Snake River and Hopkins Ridge wind generation sites and increased the undiscounted ARO liability by   $19.7 million  . 
+
+31 
+
+The following table describes the changes to the Company s ARO for the   nine   months ended   September 30, 2016  : 
+
+(8) 
+     Commitment and Contingencies 
+       
+  Colstrip 
+  PSE has a   50%   ownership interest in Colstrip Units 1 and 2, and a   25%   interest in Colstrip Units 3 and 4.  On March 6, 2013, the Sierra Club and the Montana Environmental Information Center filed a Clean Air Act citizen suit against all Colstrip owners in the U.S. District Court, District of Montana.  Based on a second amended complaint filed in August 2014, the plaintiffs' lawsuit alleged violations of permitting requirements under the New Source Review program of the Clean Air Act and the Montana State Implementation Plan arising from seven projects undertaken at Colstrip during the time period from 2001 to 2012.  On July 12, 2016, PSE reached a settlement with the Sierra Club to dismiss all of the Clean Air Act allegations against the Colstrip Generating Station, which was approved by the court on September 6, 2016.  As part of the settlement, PSE agreed, along with Talen Energy, to retire the two oldest units (Units 1 and 2) at Colstrip in eastern Montana by no later than July 1, 2022.  In September 2016, as  a result of the settlement, PSE reclassified the Colstrip Units 1 and 2 net book value (NBV) of   $128.2 million  , as of the settlement shutdown date from a plant asset to a regulatory asset.  This reflects PSE's belief that the Washington Commission will allow recovery in rates of the regulatory asset and decommissioning costs in full, which would be consistent with prior precedents.  Colstrip Units 3 and 4, which are newer and more efficient, are not affected by the settlement, and allegations in the lawsuit against Colstrip Units 3 and 4 were dismissed as part of the settlement.  PSE is not able to determine the decommissioning costs of Colstrip Units 1 and 2 at this time, as the full scope of decommissioning activities are unknown.  
+    
+  Greenwood 
+  On March 9, 2016, a natural gas explosion occurred in the Greenwood neighborhood of Seattle, WA, damaging multiple structures.  The Washington Commission Staff completed its investigation of the incident and filed a complaint September 20, 2016, seeking from PSE   $3.2 million   in fines.  As a result, the Washington Commission will initiate a hearing before making a final determination.  As of September 30, 2016 PSE, has accrued   $3.2 million   for the fine. 
+    
+  Other Proceedings     
+  The Company is also involved in litigation relating to claims arising out of its operations in the normal course of business.  The Company has recorded reserves of   $0.8 million   and   $0.3 million   relating to these claims as of   September 30, 2016   and   December 31, 2015  , respectively. 
+  There have been no material changes to the contractual obligations and consolidated commercial commitments set forth in Part II, Item 7 - "Management's Discussion and Analysis of Financial Condition and Results of Operations" in the Company's Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+
+32 
+
+Related Party Transactions 
+  Scott Armstrong serves on the Board of Directors of the Company, and is the president and Chief Executive Officer of Group Health Cooperative (Group Health).  Group Health provides coverage to over   600,000   residents in Washington and Northern Idaho.  Certain employees of PSE elect Group Health as their medical provider and as a result, PSE paid Group Health a total of $  16.8 million   and $  14.8 million   for medical coverage for the   nine months ended September 30, 2016   and 2015, respectively. 
+
+Item 2.        Management's Discussion and Analysis of Financial Condition and Results of Operations 
+    
+  The following discussion and analysis should be read in conjunction with the financial statements and related notes thereto included elsewhere in this report on Form 10-Q.  The discussion contains forward-looking statements that involve risks and uncertainties, such as Puget Energy, Inc. (Puget Energy) and Puget Sound Energy, Inc. (PSE) objectives, expectations and intentions.  Words or phrases such as  anticipates,   believes,   continues,   could,   estimates,   expects,   future,   intends,   may,   might,   plans,   potential,   predicts,   projects,   should,   will likely result,   will continue  and similar expressions are intended to identify certain of these forward-looking statements.  However, these words are not the exclusive means of identifying such statements.  In addition, any statements that refer to expectations, projections or other characterizations of future events or circumstances are forward-looking statements.  Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this report.  Puget Energy's and PSE's actual results could differ materially from results that may be anticipated by such forward-looking statements.  Factors that could cause or contribute to such differences include, but are not limited to, those discussed in the section entitled  Forward-Looking Statements  included elsewhere in this report and in the section entitled "Risk Factors" included in Part I, Item 1A in Puget Energy's and Puget Sound Energy's Form 10-K for the period ended   December 31, 2015  .  Except as required by law, neither Puget Energy nor PSE undertakes any obligation to revise any forward-looking statements in order to reflect events or circumstances that may subsequently arise.  Readers are urged to carefully review and consider the various disclosures made in this report and in Puget Energy's and PSE's other reports filed with the U.S. Securities and Exchange Commission (SEC) that attempt to advise interested parties of the risks and factors that may affect Puget Energy's and PSE's business, prospects and results of operations. 
+
+Overview 
+    
+  Puget Energy is an energy services holding company and all of its operations are conducted through its subsidiary PSE, a regulated electric and natural gas utility company.  PSE is the largest electric and natural gas utility in the state of Washington, primarily engaged in the business of electric transmission, distribution and generation and natural gas distribution.  Puget Energy's business strategy is to generate stable cash flows by offering reliable electric and natural gas service in a cost-effective manner through PSE.  All of Puget Energy's common stock is indirectly owned by Puget Holdings LLC (Puget Holdings).  Puget Holdings is owned by a consortium of long-term infrastructure investors including Macquarie Infrastructure Partners I, Macquarie Infrastructure Partners II, Macquarie Capital Group Limited, FSS Infrastructure Trust, the Canada Pension Plan Investment Board, the British Columbia Investment Management Corporation, and the Alberta Investment Management Corporation.  Puget Energy and PSE are collectively referred to herein as  the Company.  
+  PSE generates revenue and cash flow primarily from the sale of electric and natural gas services to residential and commercial customers within a service territory covering approximately 6,000 square miles, principally in the Puget Sound region of the state of Washington.  PSE continually balances its load requirements, generation resources, purchase power agreements, and market purchases to meet customer demand.  The Company's external financing requirements principally reflect the cash needs of its construction program, its schedule of maturing debt and certain operational needs.  PSE requires access to bank and capital markets to meet its financing needs. 
+  For the   three and nine months ended September 30, 2016  , as compared to the same period in   2015  , PSE's net income was affected primarily by the following factors:  (1) an increase in electric margin driven by increased electric revenues, primarily from residential customers; (2) an increase in unrealized gain on derivative instruments; and (3) an increase in operations and maintenance expense.  
+
+33 
+
+Factors and Trends Affecting PSE's Performance   
+  The principal business, economic and other factors that affect PSE's operations and financial performance include:  
+             
+    The rates PSE is allowed to charge for its services; 
+                
+    PSE s ability to recover power costs that are included in rates which are based on volume; 
+                
+    PSE s ability to manage costs during the rate stay out period through January 17, 2017; 
+                
+    Weather conditions, including snow-pack affecting hydrological conditions; 
+                
+    Regulatory decisions allowing PSE to recover purchased power and fuel costs, on a timely basis; 
+                
+    PSE s ability to supply electricity and natural gas, either through company-owned generation, purchase power contracts or by procuring natural gas or electricity in wholesale markets; 
+                
+    Equal sharing between PSE and its customers of earnings which exceed PSE's authorized rate of return; 
+                
+    Availability and access to capital and the cost of capital; 
+                
+    Regulatory compliance costs, including those related to new and developing federal regulations of electric system reliability, state regulations of natural gas pipelines and federal, state and local environmental laws and regulations; 
+                
+    Wholesale commodity prices of electricity and natural gas; 
+                
+    Increasing depreciation and amortization;  
+                
+    Bonus depreciation and the impact on rate base; 
+                
+    General economic conditions in PSE's service territory and its effects on customer growth and use-per-customer; and 
+                
+    Federal, state, and local taxes. 
+       
+  Further detail regarding the factors and trends affecting performance of the Company during the fiscal quarter ended   September 30, 2016   is set forth below in this "Overview" section as well as in other sections of the Management's Discussion and Analysis. 
+
+Regulation of PSE Rates and Recovery of PSE Costs     
+  PSE's regulatory requirements and operational needs require the investment of substantial capital in 2016 and future years.  As PSE intends to seek recovery of these investments through the regulatory process, its financial results depend heavily upon favorable outcomes from that process.  The rates that PSE is allowed to charge for its services influence its financial condition, results of operations and liquidity.  PSE is highly regulated and the rates that it charges its retail customers are approved by the Washington Utilities and Transportation Commission (Washington Commission).  The Washington Commission has traditionally required these rates be determined based, to a large extent, on historic test year costs plus weather normalized assumptions about hydroelectric conditions and power costs in the relevant rate year. Incremental customer growth and sales typically have not provided sufficient revenue to cover general cost increases over time due to the combined effects of regulatory lag and attrition. Accordingly, the Company will need to seek rate relief on a regular and frequent basis in the future.  In addition, the Washington Commission determines whether the Company's expenses and capital investments are reasonable and prudent for the provision of cost effective, reliable and safe electric and natural gas service.  If the Washington Commission determines that a capital investment does not meet the reasonable and prudent standards, the costs (including return on any resulting rate base) related to such capital investment may be disallowed, partially or entirely, and not recovered in rates. 
+    
+  2013 Expedited Rate Filing, Decoupling and Centralia Decision   
+  PSE filed a settlement agreement with the Washington Commission on March 22, 2013.  The agreement was intended to settle all issues regarding decoupling, a power purchase agreement with TransAlta Centralia and the Expedited Rate Filing (ERF) which includes the property tax tracker.  The Washington Commission placed the ERF and decoupling filings under a common procedural schedule.    
+  On June 25, 2013, the Washington Commission issued final orders resolving the amended decoupling petition, the ERF filing and the Petition for Reconsideration (related to the TransAlta Centralia power purchase agreement).  Order No. 7 in the ERF/decoupling proceeding approved PSE's ERF filing with a small change to its cost of capital from   7.80%   to   7.77%   to update long term debt costs and a capital structure that included   48.0%   common equity with a return on equity (ROE) of   9.8%  .  This order also approved the property tax tracker discussed below and approved the amended decoupling and rate plan filing with the further condition that PSE and the customers will share   50.0%   each in earnings in excess of the   7.77%   authorized rate of return.  In addition, the rate plan (K-Factor) increase allowed decoupling revenue per customer for the recovery of delivery system costs to subsequently increase by   3.0%   for the electric customers and   2.2%   for the gas customers on January 1 of each year, until the conclusion of PSE's next General Rate Case (GRC) which was to be filed before April 1, 2016 and was later extended to January 17, 2017, as discussed below.  In the rate plan, increases are subject to a cap of   3.0%   of the total revenue for customers.  
+  
+   34 
+
+Decoupling Filings   
+  While fluctuations in weather conditions will continue to affect PSE's billed revenue and energy supply expenses from month to month, PSE's decoupling mechanisms are expected to mitigate the impact of weather on operating revenue and net income. The Washington Commission has allowed PSE to record a monthly adjustment to its electric and natural gas operating revenues related to electric transmission and distribution, natural gas operations and general administrative costs from residential, commercial and industrial customers to mitigate the effects of abnormal weather, conservation impacts and changes in usage patterns per customer.  As a result, these electric and natural gas revenues will be recovered on a per customer basis regardless of actual consumption levels.  The energy supply costs, which are part of the Power Cost Adjustment (PCA) and Purchased Gas Adjustment (PGA) mechanisms, are not included in the decoupling mechanism.  The revenue recorded under the decoupling mechanisms will be affected by customer growth and not actual consumption.  Following each calendar year, PSE will recover or refund the difference between allowed decoupling revenue and the corresponding actual revenue to affected customers over a 12-month period beginning the following May.  The decoupling mechanism will end on December 31, 2017 unless the continuation of the mechanism is approved in PSE's next GRC filing, which PSE is required to submit by January 17, 2017 at the latest. 
+  On April 28, 2016, the Washington Commission approved PSE s request to change rates under its electric and natural gas decoupling mechanisms, effective May 1, 2016.  The overall changes represent a rate increase for electric customers of $20.8 million, or 1.0%, annually, and a rate increase for natural gas customers of $25.4 million, or 2.8%, annually.  In addition, PSE exceeded the earnings test threshold for both its electric and natural gas businesses in 2015.  As a result, PSE recorded a reduction in electric decoupling deferral and revenue of $11.9 million and a reduction in natural gas deferral and revenue of $5.5 million.  This was reflected as a reduction to the electric and natural gas rate increases noted above.  As noted earlier, the Company is also limited to a 3.0% annual decoupling related cap on increases in total revenue.  This limitation was triggered for the natural gas residential rate class.  The resulting amount of deferral that was not included in the 2016 rate increase is $28.7 million for natural gas revenue that was accrued through December 31, 2015.  This amount may be included in customer rates beginning in May 2017, subject to subsequent application of the earnings test and the 3.0% cap on decoupling related rate increases. 
+    
+  General Rate Case Filing Postponed to 2017  
+  On March 17, 2016, the Washington Commission approved a joint petition postponing the filing of PSE s GRC until no later than January 17, 2017.  As part of the petition, PSE agreed to update power costs on December 1, 2016 in conjunction with the Centralia PPA compliance filing and to include a plan for Colstrip Units 1 and 2 shutdown in its GRC filing.  Monthly allowed revenue per customer values, which include an automatic annual increase, will continue through December 2017 until new rates go into effect from PSE's 2017 GRC. 
+    
+  Electric Rates 
+  Power Cost Adjustment Mechanism 
+  PSE currently has a PCA mechanism that provides for the recovery of power costs from customers or refunding of power cost savings to customers in the event those costs vary from the  power cost baseline  level of power costs.  The  power cost baseline  level is set, in part, based on normalized assumptions about weather and hydroelectric conditions.  Excess power costs or power cost savings are apportioned between PSE and its customers pursuant to the graduated scale set forth in the PCA mechanism.  The graduated scale currently applicable is as follows: 
+
+35 
+
+On August 7, 2015, the Washington Commission issued an order approving the settlement proposing changes to the PCA mechanism.  The settlement agreement will not take effect until January 1, 2017.  Key components of the settlement will include the following changes to the PCA mechanism: 
+
+Reduction to the cumulative deferral trigger for surcharge or refund from $30.0 million to $20.0 million; 
+                
+    Removal of fixed production costs from the PCA mechanism and placing them in the decoupling mechanism, assuming the decoupling mechanism continues as part of the next GRC.  If decoupling was not to continue, those fixed production costs would be treated the same as other non-PCA costs unless permission to treat them in another manner is obtained from the Washington Commission.  These fixed production costs include: (i) return and depreciation/amortization on fixed production assets and regulatory assets and liabilities; (ii) return on, depreciation, transmission expense and revenues on specific transmission assets; and (iii) hydro, other production and other power related expenses and O M costs;  
+                
+    Suspension of the requirement that a GRC must be filed within three months after rates are approved in a Power Cost Only Rate Case (PCORC), and agreeing, for a five-year period, that PSE will not file a GRC or PCORC within six months of the date rates go into effect for a PCORC filing; and 
+                
+    Establishment of a five-year moratorium on changes to the PCA/PCORC. 
+       
+  Pursuant to the PCA Settlement approved on August 7, 2015, effective January 1, 2017, PSE's fixed costs will no longer be tracked in PSE's PCA mechanism.  Accordingly, on September 30, 2016, PSE filed an accounting petition with the Washington Commission which requests deferral of the variances, either positive or negative, between the fixed costs previously recovered in the PCA and the revenue received to cover the allowed fixed costs.  The deferral period requested is between January 1, 2017 through the date that rates are in effect from PSE's next GRC.  Although the Washington Commission is not under any required timeline to approve the petition, parties to the joint petition postponing the filing for PSE's next GRC agreed to support or not oppose the deferral petition.   
+  PSE had a favorable PCA imbalance for the   three and nine months ended September 30, 2016  , which was   $4.5 million   and   $1.4 million  , respectively, above the  power cost baseline  level, of which   $0.3 million   was apportioned to customers due to a prior period true-up.  This compares to   an unfavorable   PCA imbalance for the   three and nine months ended September 30, 2015  , which was   $9.8 million   and   $14.8 million  , respectively, above the "power cost baseline" level, of which   no   amount was apportioned to customers. 
+    
+  Property Tax Tracker Mechanism 
+  On April 28, 2016, the Washington Commission approved PSE's request to change rates under its electric property tax tracker mechanism, effective May 1, 2016.  The approved rate change incorporates the effects of an increase to property taxes paid as well as true-ups to the rate from the prior year.  This represents a rate increase for electric customers of $5.7 million, or 0.3% annually. 
+    
+  Conservation Rider 
+  On April 28, 2016, the Washington Commission approved PSE's request to implement changes to rates under its electric conservation rider mechanism, effective May 1, 2016.  The approved rate change incorporates a decrease in the amounts budgeted and the true-up of costs and collections.  This represents a rate decrease for electric customers of $11.7 million, or 0.5% annually. 
+
+36 
+
+PCORC Compliance Filing 
+  On September 30, 2016, PSE filed with the Washington Commission the update to power costs under Schedule 95, which was allowed for under the Order 04 in the 2014 PCORC, and required under the joint petition filed March 9, 2016, seeking to postpone the filing of PSE s GRC.  The filing requests a reduction in Schedule 95 rates of $37.3 million or an overall rate decrease of 1.7% annually.  A corresponding reduction in the PCA Mechanism Baseline Rate used to track the PCA imbalance for sharing was also requested in this filing.   
+    
+  Federal Incentive Tracker Tariff 
+  On October 31, 2016, PSE filed with the Washington Commission the next annual true-up and rate filing to PSE's Federal Incentive Tracker Tariff, with an effective date of January 1, 2017.  The true-up filing requested a total credit of $51.7 million to be passed back to eligible customers over the twelve months beginning January 1, 2017.  The total credit includes $38.1 million which represents the pass-back of grant amortization and $13.6 million represents the pass through of interest, in addition to a minor true-up associated with the 2016 rate period.  This filing requests an overall average rate increase of 0.3% annually 
+  On December 30, 2015, the Washington Commission approved the annual true-up and rate filing to PSE's Federal Incentive Tracker Tariff, effective January 1, 2016.  The true-up filing resulted in a total credit of $57.3 million to be passed back to eligible customers over the twelve months beginning January 1, 2016.  The total credit includes $39.6 million which represents the pass-back of grant amortization and $17.7 million represents the pass through of interest, in addition to a minor true-up associated with the 2015 rate period.  This filing represents an overall average rate decrease of 0.2% annually. 
+    
+  Natural Gas Rates 
+  Purchased Gas Adjustment  
+  On October 27, 2016, the Washington Commission approved PSE's PGA natural gas tariff filing with an effective date of November 1, 2016, which reflects changes in wholesale gas and pipeline transportation costs and changes in deferral amortization rates.  The impact to the PGA rates is an annual revenue decrease of $4.1 million, or 0.4% annually, with no impact on net operating income. 
+  On October 29, 2015, the Washington Commission approved PSE's PGA natural gas tariff filing with an effective date of November 1, 2015, which reflected changes in wholesale gas and pipeline transportation costs and changes in deferral amortization rates.  The impact to the PGA rates is an annual revenue decrease of $185.9 million, or 17.4% annually, with no impact on net operating income. 
+    
+  Conservation Rider 
+  On April 28, 2016, the Washington Commission approved PSE's request to implement changes to rates under its natural gas conservation rider mechanism, effective May 1, 2016.  The approved rate change reflects actual costs and collections for the conservation program.  This represents a rate increase for natural gas customers of $2.9 million, or 0.3% annually. 
+    
+  Cost Recovery Mechanism  
+  On October 27, 2016, the Washington Commission approved PSE's CRM natural gas tariff filing with an effective date of November 1, 2016.  The purpose of this filing is to recover capital costs related to enhancing the safety of the natural gas distribution system.  The impact to the CRM rates is an annual revenue increase of $5.6 million, or 0.6% annually. 
+  On October 29, 2015, the Washington Commission approved PSE's CRM natural gas tariff filing with an effective date of November 1, 2015.  The purpose of this filing is to recover capital costs related to enhancing the safety of the natural gas distribution system.  The impact to the CRM rates is an annual revenue increase of $5.3 million, or 0.5% annually. 
+    
+  Property Tax Tracker Mechanism 
+  On April 28, 2016, the Washington Commission approved PSE's request to change rates under its natural gas property tax tracker mechanism, effective May 1, 2016.  This represents a rate increase for natural gas customers of $3.5 million or 0.4% annually. 
+    
+  Other Proceedings  
+  In August 2015, PSE filed a proposal with the Washington Commission to develop a liquefied natural gas (LNG) facility at the Port of Tacoma. The proposal requested a portion of the Tacoma LNG facility be treated as a part of PSE s regulated utility business. In response, the parties entered into mediation in May 2016 to resolve disputed matters regarding the corporate structure and impact on regulated customers. 
+  
+   37 
+
+As a result of mediation, on September 30, 2016, PSE and all parties filed a Prefiled Joint Testimony with the Washington Commission supporting a Settlement Stipulation. The Washington Commission approved the stipulation on October 31, 2016 allowing PSE s parent company, Puget Energy, to create a wholly-owned subsidiary, named Puget LNG, LLC (Puget LNG).  Puget LNG will have the sole purpose of owning, developing and financing the non-regulated activity of the Tacoma LNG facility. 
+  Under terms of the settlement, Puget LNG will be allocated 57% of capital cost of the Tacoma LNG facility and PSE will be allocated the remaining 43% of capital cost.  The portion of the Tacoma LNG facility allocated to PSE will be subject to regulation by the Washington Commission.  PSE and Puget LNG are required to operate the Tacoma LNG facility under a Joint Operating Agreement that PSE will be required to file with the Washington Commission within 60 days of the formation of Puget LNG.   
+
+Other Factors and Trends 
+  Weather Conditions     
+  Weather conditions in PSE's service territory have an impact on customer energy usage, affecting PSE's billed revenue and energy supply expenses.  PSE's operating revenue and associated energy supply expenses are not generated evenly throughout the year.  While both PSE's electric and natural gas sales are generally greatest during winter months, variations in energy usage by customers occur from season to season and also month to month within a season, primarily as a result of weather conditions.  PSE normally experiences its highest retail energy sales, and subsequently higher power costs, during the winter heating season in the first and fourth quarters of the year and its lowest sales in the third quarter of the year.  Varying wholesale electric prices and the amount of hydroelectric energy supplies available to PSE also make quarter-to-quarter comparisons difficult.  
+    
+  Customer Demand    
+  PSE expects the number of natural gas customers to grow at rates slightly above that of electric customers.  PSE also expects energy usage by both residential electric and natural gas customers to continue a long-term trend of slow decline primarily due to continued energy efficiency improvements. 
+    
+  Access to Debt Capital     
+  PSE relies on access to bank borrowings and short-term money markets as sources of liquidity and longer-term capital markets to fund its utility construction program, to meet maturing debt obligations and other capital expenditure requirements not satisfied by cash flow from its operations or equity investment from its parent, Puget Energy.  Neither Puget Energy nor PSE have any debt outstanding whose maturity would accelerate upon a credit rating downgrade.  However, a ratings downgrade could adversely affect the Company's ability to renew existing, or obtain access to new credit facilities and could increase the cost of such facilities.  For example, under Puget Energy's and PSE's credit facilities, the borrowing costs increase as their respective credit ratings decline due to increases in credit spreads and commitment fees.  If PSE is unable to access debt capital on reasonable terms, its ability to pursue improvements or acquisitions, including generating capacity, which may be relied on for future growth and to otherwise implement its strategy, could be adversely affected.  PSE monitors the credit environment and expects to continue to be able to access the capital markets to meet its short-term and long-term borrowing needs.  PSE's credit facilities mature in 2019 and Puget Energy's senior secured credit facility matures in 2018.  (See discussion on credit facilities in Item 2,  Puget Sound Energy - Credit Facilities  and "Puget Energy - Credit Facility"). 
+    
+  Regulatory Compliance Costs and Expenditures  
+  PSE's operations are subject to extensive federal, state and local laws and regulations.  These regulations cover electric system reliability, gas pipeline system safety and energy market transparency, among other areas.  Environmental laws and regulations related to air and water quality, including climate change and endangered species protection, waste handling and disposal (including generation by-products such as coal ash), remediation of contamination and siting new facilities also impact the Company's operations.  PSE must spend significant amounts to fulfill requirements set by regulatory agencies, many of which have greatly expanded mandates on measures including, but not limited to, resource planning, remediation, monitoring, pollution control equipment and emissions-related abatement and fees.  
+  Compliance with these or other future regulations, such as those pertaining to climate change, could require significant capital expenditures by PSE and may adversely affect PSE's financial position, results of operations, cash flows and liquidity. 
+
+Other Challenges and Strategies 
+  Competition   
+  PSE s electric and natural gas utility retail customers generally do not have the ability to choose their electric or natural gas supplier and therefore, PSE s business has historically been recognized as a natural monopoly.  However, PSE faces competition from public utility districts and municipalities that want to establish their own municipal-owned utility, as a result of which PSE  
+  
+   38 
+
+may lose a number of customers in its service territory.  Further, PSE faces increasing competition for sales to its retail customers.  Alternative methods of electric energy generation, including solar and other self-generation methods, compete with PSE for sales to existing electric retail customers.  In addition, PSE s natural gas customers may elect to use heating oil, propane or other fuels instead of using and purchasing natural gas from PSE.   
+
+Results of Operations 
+  Puget Sound Energy 
+  Non-GAAP Financial Measures - Electric and Natural Gas Margins 
+  The following discussion includes financial information prepared in accordance with U.S. Generally Accepted Accounting Principles (GAAP), as well as two other financial measures, electric margin and natural gas margin, that are considered  non-GAAP financial measures.   Generally, a non-GAAP financial measure is a numerical measure of a company s financial performance, financial position or cash flows that includes adjustments that result in a departure from GAAP presentation.  The presentation of electric margin and gas margin is intended to supplement an understanding of PSE s operating performance.  Electric margin and natural gas margin are used by PSE to determine whether PSE is collecting the appropriate amount of revenue from its customers to ultimately provide adequate recovery of operating costs, including interest and equity returns.  PSE s electric margin and natural gas margin measures may not be comparable to other companies  electric margin and natural gas margin measures.  Furthermore, these measures are not intended to replace operating income as determined in accordance with GAAP as an indicator of operating performance. 
+
+39 
+
+Electric Margin  
+  Electric margin represents electric sales to retail and transportation customers less the cost of generating and purchasing electric energy sold to customers, including transmission costs, to bring electric energy to PSE's service territory.  The following table displays the details of PSE's electric margin changes: 
+   
+ _____________ 
+            1   
+    Includes amortization of prior year collection/refund, adjustments related to excess rate of return, and adjustments related to amounts that will not be collected within 24 months. 
+               2   
+    As reported on PSE s Consolidated Statement of Income. 
+               3   
+    Electric margin does not include any allocation for amortization/depreciation expense or electric generation operation and maintenance expense. 
+       
+  Three Months Ended September 30, 2016   compared to 2015  
+  Electric Operating Revenue 
+  Electric operating revenues   increased   $12.5 million   primarily due to other operating revenues of   $8.9 million  , decoupling revenue of   $3.5 million  , higher retail sales of   $2.4 million  , partially offset by decreases in other decoupling adjustments of   $3.6 million  .   These items are discussed in detail below. 
+             
+    Electric retail sales   increased   $2.4 million   primarily due to increases in rates of $7.1 million and partially offset by $4.8 million due to a decrease in residential electricity usage of 54,310 Megawatt Hour (MWhs). 
+                
+    Decoupling revenue   increased   $3.5 million   due to lower residential usage compared to the prior year as a result of milder temperatures. 
+
+40 
+
+Other decoupling adjustments   decreased   $3.6 million   due to a $2.3 million increase in amortization of prior year deferrals and a $1.6 million earning-sharing adjustment.  
+                
+    Other electric operating revenue   increased   $8.9 million   primarily due to an increase in non-core gas sales of $5.1 million and a reduction of the PTC deferral of $3.8 million.  
+       
+  Electric Energy Costs 
+             
+    Purchased electricity   expense decreased   $2.8 million   primarily due to a decrease of $15.1 million of secondary purchases and lower power prices, partially offset by an $11.9 million increase related to firm purchases from Transalta Centralia and Electron Hydro generating stations. 
+                
+    Electric generation fuel   expense decreased   $6.4 million   primarily due to a reduced lower average cost of gas of $9.2 million, partially offset by a $2.8 million increase in coal deliveries.   
+                
+    Residential exchange credits   decreased   $4.0 million   resulting from lower Residential Exchange Program (REP) credits associated with the BPA REP settlement.  The REP credit tariff was lowered effective October 1, 2015.  The REP credit is a pass-through tariff item with a corresponding credit in electric operating revenue, with no impact on net income. 
+     The Northwest Power Act, through the REP, provides access to the benefits of low-cost federal power for residential and small farm customers of regional utilities, including PSE.  The program is administered by the BPA.  Pursuant to agreements (including settlement agreements) between the BPA and PSE, the BPA has provided payments of REP benefits to PSE, which PSE has passed through to its residential and small farm customers in the form of electricity bill credits. 
+    
+  Nine Months Ended September 30, 2016   compared to 2015  
+  Electric Operating Revenue 
+  Electric operating revenues   increased   $96.6 million   primarily due to higher retail sales of   $79.7 million  , decoupling revenue of   $15.1 million  , sales to other utilities and marketers of   $7.1 million   and other electric operating revenue of   $3.4 million  , which revenues were partially offset by decreases in other decoupling adjustments of   $9.3 million  .  These items are discussed in detail below. 
+             
+    Electric retail sales   increased   $79.7 million   due to increases in rates of $85.4 million which was partially offset by $5.7 million due to lower retail electricity usage of 57,913 MWhs.  
+                
+    Sales to other utilities and marketers   increased   $7.1 million   due primarily due to increased electric wholesale volumes of $19.1 million, partially offset by lower prices of $12.0 million. 
+                
+    Decoupling revenue   increased   $15.1 million   due to lower electric usage by residential and non-residential customers compared to prior-year as a result of milder temperatures. 
+                
+    Other decoupling adjustments   decreased   $9.3 million   primarily due to an increase in the amortization of prior year deferrals of $13.9 million, partially offset by the decrease of a $5.0 million sharing of the excess earnings related to the decoupling mechanism. 
+                
+    Other electric operating revenue   increased   $3.4 million   primarily due to a reduction of the PTC deferral of $7.1 million which was partially offset by a reduction of non-core gas sales of $2.5 million. 
+       
+  Electric Energy Costs 
+             
+    Electric generation fuel   expense decreased   $14.9 million   primarily due to a decrease in natural gas energy costs of $7.9 million at the Mint Farm generating facility and $7.0 million at the Goldendale generating facility.  The KWh generated from PSE's gas turbines decreased in 2016 as compared to 2015, this was partially offset by an increase in coal deliveries in 2016.  
+                
+    Residential exchange credits   decreased   $43.2 million   resulting from lower REP credits associated with the BPA REP settlement.  The REP credit tariff was lowered effective October 1, 2015.  The REP credit is a pass-through tariff item with a corresponding credit in electric operating revenue, with no impact on net income. 
+     The Northwest Power Act, through the REP, provides access to the benefits of low-cost federal power for residential and small farm customers of regional utilities, including PSE.  The program is administered by the BPA.  Pursuant to agreements (including settlement agreements) between the BPA and PSE, the BPA has provided payments of REP benefits to PSE, which PSE has passed through to its residential and small farm customers in the form of electricity bill credits. 
+
+41 
+
+Natural Gas Margin 
+  Natural gas margin is natural gas sales to retail and transportation customers less the cost of natural gas purchased, including transportation costs to bring natural gas to PSE's service territory.  The following table displays the details of PSE's natural gas 
+  margin:    
+
+  ___________________ 
+            1   
+    Includes amortization of prior year collection/refund, adjustments related to excess rate of return, and adjustments related to amounts that will not be collected within 24 months. 
+               2   
+    As reported on PSE s Consolidated Statement of Income. 
+               3   
+    Natural gas margin does not include any allocation for amortization/depreciation expense or natural gas operations and maintenance expense. 
+       
+  Three Months Ended September 30, 2016   compared to   2015    
+  Natural Gas Operating Revenue 
+  Natural gas operating revenue   decreased   $5.1 million   due primarily to a decrease of   $7.8 million   in total retail sales primarily the result of a PGA rate reduction; partially offset by   $3.6 million   in other decoupling adjustments.  These items are discussed in detail below. 
+             
+    Natural gas retail sales revenue   decreased   $7.8 million   primarily due to a decrease in natural gas retail sales as a result of a PGA rate reduction of $17.7 million, partially offset by an increase of $9.9 million due to an increase of 7,112 therms sold.   
+                
+    Other decoupling adjustments   increased   $3.6 million   due to the impact of $8.5 million primarily related to a 2015 adjustment of sharing of excess earnings; partially offset by an increase of $2.9 million in the 24-month revenue reserve and an increase in the amortization of prior year deferrals of $1.9 million.  
+     
+   42 
+
+Natural Gas Energy Costs 
+  Purchased natural gas   expense decreased   $12.4 million   primarily due to a reduction in the PGA rates. 
+    
+  Nine Months Ended September 30, 2016   compared to   2015    
+  Natural Gas Operating Revenue 
+  Natural gas operating revenue   decreased   $52.1 million   due primarily to a decrease of   $50.5 million   in total retail sales primarily the result of a PGA rate reduction and a decrease in decoupling revenue of   $3.1 million  .  These items are discussed in detail below. 
+             
+    Natural gas retail sales revenue   decreased   $50.5 million   primarily due to a decrease in natural gas retail sales as a result of a PGA rate reduction of $96.8 million, partially offset by $46.3 million increase due to an increase of 38,524 therms sold.   
+                
+    Decoupling revenue   decreased   $3.1 million   due to     increased gas usage by customers compared to the prior year. 
+       
+  Natural Gas Energy Costs 
+             
+    Purchased natural gas   expense decreased   $76.9 million   primarily due to a reduction in the PGA rates offset by higher therms sold. 
+
+Other Operating Expenses and Other Income (Deductions) 
+  The following table displays the details of PSE's operating expenses and other income (deductions) for the   three and nine months ended September 30, 2016   and   2015  : 
+
+Three Months Ended September 30, 2016   compared to   2015    
+  Other Operating Expenses 
+             
+    Utility operations and maintenance   expense increased   $7.1 million   which was primarily due to the following:   increased administrative and general expense of $5.4 million, an increase in gas operations expense of $2.7 million, an increase in generation operation and maintenance expense of $2.6 million at Wild Horse and Hopkins Ridge wind plants, and an increase of $2.3 million of uncollectible accounts expense, partially offset by a decrease in storm expense of $6.9 million.  
+                
+    Non-utility expense and other   expense increased   $3.0 million   primarily due to an increase in cost of biogas of $3.2 million. 
+
+43 
+
+Other Income, Interest Expense and Income Tax Expense 
+             
+    Other expense   increased   $3.4 million   primarily due to the Washington Commission Greenwood penalty of $3.2 million.  
+                
+    Income tax expense   increased   $7.8 million   primarily due to higher pre-tax income.  
+       
+  Nine Months Ended September 30, 2016   compared to   2015    
+  Other Operating Expenses 
+             
+    Net unrealized (gain) loss on derivative instruments   increased   $51.4 million  .  The net gain in 2016 was comprised of a gain of $42.0 million related to natural gas for power derivative instruments and a $15.3 million gain related to electric derivative instruments.  This compares to a gain of $15.4 million related to electricity derivative instruments and a loss of $9.6 million related to natural gas for power derivative instruments during the prior year.  The overall gain was primarily due to an increase of natural gas and wholesale electricity forward prices from September 30, 2015 to September 30, 2016. 
+                
+    Utility operations and maintenance   expense increased   $21.9 million   which was due to an increase of $6.2 million in generation operation and maintenance expense at Wild Horse and Hopkins Ridge wind plants, an increase of $6.2 million in natural gas operation and maintenance expense, and an increase of $8.5 million in outside services employed expense and electric maintenance plant expense, partially offset by a decrease of $3.7 million in customer service expense mostly due to a reduction in meter reading expense.  
+                
+    Non-utility expense and other   expense increased   $7.5 million   due primarily to an increase in cost of biogas of $9.1 million. 
+                
+    Depreciation and amortization   expense increased   $14.5 million   primarily due to an increase of $12.2 million of depreciation expense driven by an increase in net additions of assets and $4.7 million of regulatory credits related to the JPUD gain on sale returned to customers in 2015. 
+                
+    Taxes other than income taxes   increased   $6.5 million   primarily due to an increase in electric property tax amortization of $5.3 million, electric municipal taxes of $3.4 million, and electric state excise taxes of $2.8 million, partially offset by natural gas municipal taxes of $2.1 million, and natural gas state excise taxes of $2.0 million; all of which are based on changes in sales volumes for electricity and natural gas. 
+       
+  Other Income, Interest Expense and Income Tax Expense 
+             
+    Other income   increased   $4.4 million   primarily due to an increase in AFUDC equity of $4.3 million. 
+                
+    Other expense   increased   $3.6 million   primarily due to the Washington Commission Greenwood penalty of $3.2 million.  
+                
+    Interest expense   decreased   $6.7 million   primarily due to reduction of $3.8 million of interest on long-term debt and an increase of $2.4 million of AFUDC debt.  
+                
+    Income tax expense   increased   $40.9 million   primarily driven by a higher pre-tax income.  
+
+44 
+
+Puget Energy 
+  All the operations of Puget Energy are conducted through its subsidiary PSE.  Puget Energy's net income (loss) for the   three and nine months ended September 30, 2016   and   2015   are as follows: 
+
+_______________ 
+            1   
+    Puget Energy s interest expense includes elimination adjustments of intercompany interest on short-term debt. 
+       
+  Summary Results of Operation 
+  Three Months Ended September 30, 2016 compared to 2015  
+  Puget Energy s net income   increased   by   $10.3 million  , which is primarily due to PSE's increase in net income of   $9.1 million  .  The following are significant factors that impacted Puget Energy s net income which are not included in PSE s discussion: 
+             
+    Non-hedged interest rate swap expense     decreased     $1.7 million   primarily due to higher interest rates in 2016 compared to 2015. 
+       
+  Nine Months Ended September 30, 2016 compared to 2015  
+  Puget Energy s net income   increased   by   $74.7 million  , which is primarily attributable to PSE's increase in net income of   $74.7 million  .  The following are significant factors that impacted Puget Energy s net income which are not included in PSE s discussion: 
+             
+    Non-hedged interest rate swap expense     decreased     $3.9 million   primarily due to higher interest rates in 2016 compared to 2015. 
+                
+    Interest expense     increased     $3.6 million   primarily due to the long-term senior secured notes issued in May 2015 issued at a higher interest rate and larger principal amount than the previous term loans. 
+
+Capital Requirements 
+  Contractual Obligations and Commercial Commitments 
+  There have been no material changes to the contractual obligations and consolidated commercial commitments set forth in Part II, Item 7 in the Company's Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+
+45 
+
+The following are the Company's aggregate availability under commercial commitments as of   September 30, 2016  : 
+
+_______________ 
+            1   
+    For more information, see "Financing Program - Puget Sound Energy - Credit Facilities". 
+               2    
+    For more information, see "Financing Program - Puget Sound Energy - Demand Promissory Note". 
+               3   
+    For more information, see "Financing Program - Puget Energy - Credit Facility". 
+       
+  Off-Balance Sheet Arrangements 
+  As of   September 30, 2016  , the Company had no off-balance sheet arrangements that have or are reasonably likely to have a material effect on the Company's financial condition. 
+    
+  Utility Construction Program 
+  PSE s construction programs for generating facilities, the electric transmission system and the natural gas and electric distribution systems and the LNG are designed to meet regulatory requirements and customer growth and to support reliable energy delivery.  Construction expenditures, excluding equity AFUDC, totaled   $507.7 million   for the   nine months ended September 30, 2016  .  Presently planned utility construction expenditures, excluding equity AFUDC, are as follows: 
+
+The program is subject to change based upon general business, economic and regulatory conditions.  Utility construction expenditures and any new generation resource expenditures may be funded from a combination of sources which may include cash from operations, short-term debt, long-term debt and/or equity.  PSE s planned capital expenditures may result in a level of spending that will exceed its cash flow from operations.  As a result, execution of PSE s strategy is dependent in part on continued access to capital markets.   
+
+Capital Resources  
+  Cash from Operations 
+    
+  Nine Months Ended September 30, 2016 compared to 2015  
+  Puget Sound Energy 
+  Cash generated from operations   increased by   $117.2 million  , including   $74.7 million   from net income.  The following are significant factors that impacted PSE's cash flows from operations: 
+             
+    Accounts receivable and unbilled revenue   increased   $73.7 million  .  Key drivers were an increase in rates charged to customers and improved cash collections processes which led to quicker collections. 
+                
+    Deferred income taxes and tax credits   increased   $40.4 million   primarily due to a liability increase in long-term deferred income tax for electric and gas plant. 
+                
+    Net unrealized (gain) loss on derivative instruments   increased   $51.4 million  .  The net gain in 2016 was comprised of a gain of $42.0 million related to natural gas for power derivative instruments and a $15.3 million gain related to electric derivative instruments.  This compares to a gain of $15.4 million related to electricity derivative instruments and a loss of $9.6 million related to natural gas for power derivative instruments during the prior year.  The overall gain was primarily  
+     
+   46 
+
+due to an increase of natural gas and wholesale electricity forward prices from September 30, 2015 to September 30, 2016.  As a result, the net gain for cash flow statement purposes decreased cash from operations when comparing current versus prior year. 
+    
+  Puget Energy 
+  Cash generated from operations   for the   nine months ended September 30, 2016   increased by   $104.4 million   compared to the same period in 2015.  The net difference was primarily impacted by the increase from cash flow provided by the operating activities of PSE, as previously discussed.  The remaining variance is explained below. 
+             
+    Derivative contracts classified as financing activities due to merger   decreased   $8.0 million   primarily due to derivatives with a financing element settling in February 2015. 
+
+Financing Program 
+  The Company's external financing requirements principally reflect the cash needs of its construction program, its schedule of maturing debt and certain operational needs.  The Company anticipates refinancing the redemption of bonds or other long-term borrowings with its credit facilities and/or the issuance of new long-term debt.  Access to funds depends upon factors such as Puget Energy's and PSE's credit ratings, prevailing interest rates and investor receptivity to investing in the utility industry, Puget Energy and PSE.  The Company believes it has sufficient liquidity through its credit facilities and access to capital markets and operations to fund its needs over the next twelve months. 
+  Proceeds from PSE s short-term borrowings and sales of commercial paper are used to provide working capital and the interim funding of utility construction programs.  Puget Energy and PSE continue to have reasonable access to the capital and credit markets. 
+    
+  Puget Sound Energy  
+  Credit Facilities 
+  PSE has two unsecured revolving credit facilities which provide, in aggregate, $1.0 billion of short-term liquidity needs.  These facilities consist of a $650.0 million revolving liquidity facility (which includes a liquidity letter of credit facility and a swingline facility) to be used for general corporate purposes, including a backstop to the Company's commercial paper program and a $350.0 million revolving energy hedging facility (which includes an energy hedging letter of credit facility).  The $650.0 million liquidity facility includes a swingline feature allowing same day availability on borrowings up to $75.0 million. The credit facilities also have an accordion feature which, upon the banks' approval, would increase the total size of these facilities to $1.45 billion.  These unsecured revolving credit facilities mature in April 2019. 
+  The credit agreements are syndicated among numerous lenders and contain usual and customary affirmative and negative covenants that, among other things, place limitations on PSE's ability to transact with affiliates, make asset dispositions and investments or permit liens to exist. The credit agreements also contain a financial covenant of total debt to total capitalization of 65% or less.  PSE certifies its compliance with such covenants to participating banks each quarter.  As of   September 30, 2016  , PSE was in compliance with all applicable covenant ratios. 
+  The credit agreements provide PSE with the ability to borrow at different interest rate options.  The credit agreements allow PSE to borrow at the bank's prime rate or to make floating rate advances at London Interbank Offered Rate (LIBOR) plus a spread that is based upon PSE's credit rating.  PSE must pay a commitment fee on the unused portion of the credit facilities.  The spreads and the commitment fee depend on PSE's credit ratings.  As of the date of this report, the spread to the LIBOR is 1.25% and the commitment fee is 0.175%. 
+  As of   September 30, 2016  , no amounts were drawn and outstanding under PSE's $650.0 million liquidity facility.  No letters of credit were outstanding under either facility, and $172.0 million was outstanding under the commercial paper program.  Outside of the credit agreements, PSE had a $3.5 million letter of credit in support of a long-term transmission contract and a $1.0 million letter of credit in support of natural gas purchases in Canada. 
+    
+  Demand Promissory Note 
+  In, 2006, PSE entered into a revolving credit facility with Puget Energy, in the form of a credit agreement and a demand promissory note (Note) pursuant to which PSE may borrow up to $30.0 million from Puget Energy subject to approval by Puget Energy.  Under the terms of the Note, PSE pays interest on the outstanding borrowings based on the lower of the weighted-average interest rates of PSE's outstanding commercial paper or PSE's senior unsecured revolving credit facility.  Absent such borrowings, interest is charged at one-month LIBOR plus 0.25%.  On June 30, 2015, PSE repaid in full the $28.9 million outstanding balance under the Note. 
+  
+   47 
+
+Debt Restrictive Covenants 
+  The type and amount of future long-term financings for PSE may be limited by provisions in PSE's electric and natural gas mortgage indentures. 
+  PSE s ability to issue additional secured debt may also be limited by certain restrictions contained in its electric and natural gas mortgage indentures.  Under the most restrictive tests, at   September 30, 2016  , PSE could issue: 
+             
+    Approximately $2.3 billion of additional first mortgage bonds under PSE s electric mortgage indenture based on approximately $3.9 billion of electric bondable property available for issuance, subject to a minimum interest coverage ratio of 2.0 times net earnings available for interest (as defined in the electric utility mortgage), which PSE exceeded at   September 30, 2016  ; and 
+                
+    Approximately $405.0 million of additional first mortgage bonds under PSE s natural gas mortgage indenture based on approximately $675.0 million of gas bondable property available for issuance, subject to a minimum combined gas and electric interest coverage test of 1.75 times net earnings available for interest and a gas interest coverage test of 2.0 times net earnings available for interest (as defined in the natural gas utility mortgage), both of which PSE exceeded at   September 30, 2016  . 
+       
+  At   September 30, 2016  , PSE had approximately $6.9 billion in electric and natural gas rate base to support the interest coverage ratio limitation test for net earnings available for interest. 
+    
+  Shelf Registrations  
+  PSE has in effect a shelf registration statement (the  existing shelf ) under which it may issue, as of the date of this report, up to $375.0 million aggregate principal amount of senior notes secured by first mortgage bonds.  The existing shelf will expire in March 2017.  The Company intends to file with the SEC a new shelf registration statement (the  new shelf ) prior to expiration of the existing shelf, which will register senior notes of PSE secured by first mortgage bonds in an amount to be determined.  The new shelf will be subject to review by the SEC.     
+    
+  Dividend Payment Restrictions 
+  The payment of dividends by PSE to Puget Energy is restricted by provisions of certain covenants applicable to long-term debt contained in PSE s electric and natural gas mortgage indentures.  At   September 30, 2016  , approximately $487.4 million of unrestricted retained earnings was available for the payment of dividends under the most restrictive mortgage indenture covenant. 
+  Pursuant to the terms of the Washington Commission merger order, PSE may not declare or pay dividends if PSE s common equity ratio, calculated on a regulatory basis, is 44.0% or below except to the extent a lower equity ratio is ordered by the Washington Commission.  Also, pursuant to the merger order, PSE may not declare or make any distribution unless on the date of distribution PSE s corporate credit/issuer rating is investment grade, or, if its credit ratings are below investment grade, PSE s ratio of Earnings Before Interest, Tax, Depreciation and Amortization (EBITDA) to interest expense for the most recently ended four fiscal quarter periods prior to such date is equal to or greater than 3 to one.  The common equity ratio, calculated on a regulatory basis, was 48.0% at   September 30, 2016   and the EBITDA to interest expense was 5.2 to one for the 12 months ended   September 30, 2016  . 
+  PSE s ability to pay dividends is also limited by the terms of its credit facilities, pursuant to which PSE is not permitted to pay dividends during any Event of Default (as defined in the facilities), or if the payment of dividends would result in an Event of Default, such as failure to comply with certain financial covenants. 
+    
+  Puget Energy 
+  Credit Facility 
+  At   September 30, 2016  , Puget Energy maintained an $800.0 million revolving senior secured credit facility, which matures April 2018.  The Puget Energy revolving senior secured credit facility also has an accordion feature which, upon the banks' approval, would increase the size of the facility to $1.3 billion. 
+  The revolving senior secured credit facility provides Puget Energy the ability to borrow at different interest rate options and includes variable fee levels.  Interest rates may be based on the bank's prime rate or LIBOR, plus a spread based on Puget Energy's credit ratings.  Puget Energy must pay a commitment fee on the unused portion of the facility.  As of   September 30, 2016  , there was no amount drawn and outstanding under the facility.  As of the date of this report, the spread over LIBOR was 1.75% and the commitment fee was 0.275%.  Puget Energy entered into interest rate swap contracts to manage the interest rate risk associated with the credit facility or similar variable rate debt (see Note 3 in the Combined Notes to the Consolidated Financial Statements in Part I for more details). 
+  
+   48 
+
+The revolving senior secured credit facility contains usual and customary affirmative and negative covenants.  The agreement also contains a maximum leverage ratio financial covenant as defined in the agreement governing the senior secured credit facility.  As of   September 30, 2016  , Puget Energy was in compliance with all applicable covenants. 
+    
+  Dividend Payment Restrictions 
+  Puget Energy s ability to pay dividends is also limited by the merger order issued by the Washington Commission.  Pursuant to the merger order, Puget Energy may not declare or make a distribution unless on such date Puget Energy s ratio of consolidated EBITDA to consolidated interest expense for the four most recently ended fiscal quarters prior to such date is equal to or greater than 2 to one.  Puget Energy's EBITDA to interest expense was 3.5 to one for the 12 months ended   September 30, 2016  . 
+  At   September 30, 2016  , the Company was in compliance with all applicable covenants, including those pertaining to the payment of dividends. 
+
+Other 
+    
+  New Accounting Pronouncements 
+  For the discussion of new accounting pronouncements, see Note 2 - "New Accounting Pronouncements" in the Combined Notes to the Consolidated Financial Statements in Part I. 
+    
+  Colstrip    
+  PSE has a   50%   ownership interest in Colstrip Units 1 and 2, and a   25%   interest in Colstrip Units 3 and 4.  On March 6, 2013, the Sierra Club and the Montana Environmental Information Center filed a Clean Air Act citizen suit against all Colstrip owners in the U.S. District Court, District of Montana.  Based on a second amended complaint filed in August 2014, the plaintiffs' lawsuit alleged violations of permitting requirements under the New Source Review program of the Clean Air Act and the Montana State Implementation Plan arising from seven projects undertaken at Colstrip during the time period from 2001 to 2012.  On July 12, 2016, PSE reached a settlement with the Sierra Club to dismiss all of the Clean Air Act allegations against the Colstrip Generating Station, which was approved by the court on September 6, 2016.  As part of the settlement, PSE agreed, along with Talen Energy, to retire the two oldest units (Units 1 and 2) at Colstrip in eastern Montana by no later than July 1, 2022.  In September 2016, as a result of the settlement, PSE reclassified the Colstrip Units 1 and 2 net book value (NBV) of   $128.2 million  , as of the settlement shutdown date from a plant asset to a regulatory asset.  This reflects PSE's belief that the Washington Commission will allow recovery in rates of the regulatory asset and decommissioning costs in full, which would be consistent with prior precedents.  Colstrip Units 3 and 4, which are newer and more efficient, are not affected by the settlement, and allegations in the lawsuit against Colstrip Units 3 and 4 were dismissed as part of the settlement.  PSE is not able to determine the decommissioning costs of Colstrip Units 1 and 2 at this time, as the full scope of decommissioning activities are unknown.  
+    
+  Coal Combustion Residuals 
+  On April 17, 2015, the U.S. Environmental Protection Agency (EPA) published a final rule, effective October 19, 2015, that regulates CCRs under the Resource Conservation and Recovery Act, Subtitle D.  The CCR rule addresses the risks from coal ash disposal, such as leaking of contaminants into ground water, blowing of contaminants into the air as dust, and the catastrophic failure of coal ash containment structures by establishing technical design, operation and maintenance, closure and post closure care requirements for CCR landfills and surface impoundments, and corrective action requirements for any related leakage. The rule also sets forth recordkeeping and reporting requirements, including posting specific information related to CCR surface impoundments and landfills to publicly-accessible websites. 
+  The CCR rule requires significant changes to the Company's Colstrip operations and those changes were reviewed by the Company and the plant operator in the second quarter of 2015. PSE had previously recognized a legal obligation under the EPA rules to dispose of coal ash material at Colstrip in 2003.  Due to the CCR rule, additional disposal costs were added to the Asset Retirement and Environmental Obligations (ARO). 
+    
+  Clean Air Act 111(d)/EPA Clean Power Plan 
+  In June 2014, the EPA issued a proposed Clean Power Plan rule under Section 111(d) of the Clean Air Act designed to regulate GHG emissions from existing power plants.  The proposed rule includes state-specific goals and guidelines for states to develop plans for meeting these goals.  PSE filed comments on this rule in December 2014.  The EPA published a final rule on October 23, 2015.  The rule is being challenged by other states and parties, and the Supreme Court granted a stay of the rule on February 9, 2016 until the litigation is resolved.  PSE began review of the final rule and is working with key stakeholders in preparation for  
+  
+   49 
+
+implementation; but due to the stay, most states, including Montana and Washington have put off all discussion of implementation.  PSE cannot yet determine how the final rule may impact PSE or its existing generation facilities, if at all. 
+    
+  Voluntary Long-Term Renewable Energy 
+  On August 1, 2016, PSE filed a tariff revision with the Washington Commission to create an additional voluntary renewable energy product which will provide customers with energy choices to help them meet their sustainability goals.  Incremental costs of the program will be allocated to the voluntary participants of the program as is the case with PSE s existing Green Power programs.  PSE will initially offer this service to larger customers (aggregated annual loads greater than 10,000,000 kWh) and government customers.  The Washington Commission took no action which allowed the tariff to become effective on September 23, 2016. 
+    
+  Washington Clean Air Rule 
+  The Clean Air Rule (CAR) was adopted on September 15, 2016 in Washington State and attempts to reduce greenhouse gas emissions from  covered entities  located within Washington State.  Included under the new rule are large manufacturers, petroleum producers and natural gas utilities, including PSE.  CAR sets a cap on emissions associated with covered entities, which decreases over time approximately 5% every three years.  Entities must reduce their carbon emissions, or purchase emission reduction units (ERUs), as defined under the rule, from others.  
+  CAR covers natural gas distributors and subjects them to an emissions reduction pathway based on the indirect emissions of their customers.  CAR regulates the emissions of natural gas utilities' 1.2 million customers across the state, adding to the cost of natural gas for homes and businesses, which may increase costs to PSE customers.  
+  On September 27, 2016, PSE, along with Avista Corporation, Cascade Natural Gas Corporation and NW Natural, filed an action in the U.S. District Court for the Eastern District of Washington challenging CAR.  On September 30, 2016, the four companies filed a similar challenge to CAR in Thurston County Superior Court. 
+    
+  Energy Imbalance Market 
+  PSE joined the California ISO (CAISO) real-time Energy Imbalance Market (EIM) on October 1, 2016 after signing an agreement with CAISO confirming our intent to participate in March 2016.  Prior to joining, PSE s energy trading was conducted on an hourly or greater time basis, leaving the company with limited means to manage intra-hour variability associated with generation and loads.  The intra-hour generation variability has significantly increased in recent years with the influx of variable resources like wind and solar.  Deviations in supply and demand occur in every minute resulting in a mismatch between available electricity and what is needed by consumers.  The EIM solves these imbalances in real-time with automated 5-minute energy dispatch service, enabling PSE to realize both economic and reliability benefits.  
+    
+  Related Party Transactions 
+  Scott Armstrong serves on the Board of Directors of the Company, and is the president and Chief Executive Officer of Group Health Cooperative (Group Health).  Group Health provides coverage to over 600,000 residents in Washington and Northern Idaho.  Certain employees of PSE elect Group Health as their medical provider and as a result, PSE paid Group Health a total of $  16.8 million   and $  14.8 million   for medical coverage for the   nine months ended September 30, 2016   and 2015, respectively. 
+
+Item 3.        Quantitative and Qualitative Disclosure about Market Risk 
+    
+  The Company is exposed to various forms of market risk, consisting primarily of fluctuations in commodity prices, counterparty credit risk, as well as interest rate risk.  PSE maintains risk policies and procedures to help manage the various risks.  There have been no material changes to market risks affecting the Company from those set forth in Part II, Item 7A - "Quantitative and Qualitative Disclosures about Market Risk" of the Company s Annual Report on Form 10-K for the year ended December 31, 2015. 
+    
+  Commodity Price Risk 
+  The nature of serving regulated electric and natural gas customers with its portfolio of owned and contracted electric generation resources exposes PSE and its customers to some volumetric and commodity price risks.  PSE s Energy Management Committee (EMC) establishes energy risk management policies and procedures to manage commodity and volatility risks and the related effects on credit, tax, accounting, financing and liquidity.     
+  
+   50 
+
+PSE's objective is to minimize commodity price exposure and risks associated with volumetric variability in the natural gas and electric portfolios.  It is not engaged in the business of assuming risk for the purpose of speculative trading.  PSE hedges open natural gas and electric positions to reduce both the portfolio risk and the volatility risk in prices.   
+    
+  Counterparty Credit Risk 
+  PSE is exposed to credit risk primarily through buying and selling electricity and natural gas to serve customers.  Credit risk is the potential loss resulting from a counterparty's non-performance under an agreement.  PSE manages credit risk with policies and procedures for counterparty analysis and measurement, monitoring and mitigation of exposure.  Additionally, PSE has entered into commodity master arrangements (i.e., WSPP, Inc. (WSPP), International Swaps and Derivatives Association (ISDA) or North American Energy Standards Board (NAESB) with its counterparties to mitigate credit exposure to those counterparties.  
+     
+  Interest Rate Risk 
+  The Company believes its interest rate risk primarily relates to the use of short-term debt instruments, variable-rate leases and anticipated long-term debt financing needed to fund capital requirements.  The Company manages its interest rate risk through the issuance of mostly fixed-rate debt with varied maturities.  The Company utilizes internal cash from operations, borrowings under its commercial paper program, and its credit facilities to meet short-term funding needs.  Short-term obligations are commonly refinanced with fixed-rate bonds or notes when needed and when interest rates are considered favorable.  The Company may also enter into swaps or other financial hedge instruments to manage the interest rate risk associated with the debt.  
+
+Item 4.                        Controls and Procedures 
+    
+  Puget Energy 
+  Evaluation of Disclosure Controls and Procedures 
+  Under the supervision and with the participation of Puget Energy s management, including the President and Chief Executive Officer and Senior Vice President and Chief Financial Officer, Puget Energy has evaluated the effectiveness of its disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934) as of   September 30, 2016  , the end of the period covered by this report.  Based upon that evaluation, the President and Chief Executive Officer and Senior Vice President and Chief Financial Officer of Puget Energy concluded that these disclosure controls and procedures are effective. 
+    
+  Changes in Internal Control over Financial Reporting 
+  There were no changes in the Company's internal control over financial reporting that occurred during the period covered by this quarterly report that have materially affected, or are reasonably likely to materially affect, its internal control over financial reporting. 
+    
+  Puget Sound Energy 
+  Evaluation of Disclosure Controls and Procedures 
+  Under the supervision and with the participation of PSE s management, including the President and Chief Executive Officer and Senior Vice President and Chief Financial Officer, PSE has evaluated the effectiveness of its disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934) as of   September 30, 2016  , the end of the period covered by this report.  Based upon that evaluation, the President and Chief Executive Officer and Senior Vice President and Chief Financial Officer of PSE concluded that these disclosure controls and procedures are effective. 
+    
+  Changes in Internal Control over Financial Reporting 
+  There were no changes in the Company's internal control over financial reporting that occurred during the period covered by this quarterly report that have materially affected, or are reasonably likely to materially affect, its internal control over financial reporting.  
+  
+   51 
+
+PART II                    OTHER INFORMATION 
+
+Item 1.                           Legal Proceedings 
+    
+  Contingencies arising out of the Company's normal course of business existed as of   September 30, 2016  .  Litigation is subject to numerous uncertainties and the Company is unable to predict the ultimate outcome of these matters.  For details on legal proceedings, see Note 8 - "Commitment and Contingencies" in the Combined Notes to Consolidated Financial Statements in Part I. 
+
+Item 1A.                        Risk Factors 
+    
+  There have been no material changes from the risk factors set forth in Part I, Item 1A - "Risk Factors" of the Company's Annual Report on Form 10-K for the period ended   December 31, 2015  . 
+
+Item 6.                           Exhibits 
+    
+  Included in the Exhibit Index are a list of exhibits filed as part of this Quarterly Report on Form 10-Q. 
+
+52 
+
+SIGNATURES 
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, each registrant has duly caused this report to be signed on their behalf by the undersigned thereunto duly authorized. 
+
+PUGET ENERGY, INC. 
+  PUGET SOUND ENERGY, INC. 
+
+/s/ Matthew R. Marcelia 
+
+Matthew R. Marcelia 
+  Controller and Principal Accounting Officer 
+      Date:   
+    November 2, 2016 
+
+53 
+
+EXHIBIT INDEX 
+    
+                 3(i).1 
+    Amended Articles of Incorporation of Puget Energy (incorporated herein by reference to Exhibit 3.1 to Puget Energy s Current Report on Form 8-K, dated February 6, 2009, Commission File No. 1-16305). 
+      3(i).2 
+    Amended and Restated Articles of Incorporation of Puget Sound Energy, Inc. (incorporated herein by reference to Exhibit 3.2 to Puget Sound Energy s Current Report on Form 8-K, dated February 6, 2009, Commission File No. 1-4393). 
+      3(ii).1 
+    Amended and Restated Bylaws of Puget Energy dated February 6, 2009 (incorporated herein by reference to Exhibit 3.3 to Puget Energy s Current Report on Form 8-K, Commission File No. 1-16305). 
+      3(ii).2 
+    Amended and Restated Bylaws of Puget Sound Energy, Inc. dated February 6, 2009 (incorporated herein by reference to Exhibit 3.4 to Puget Sound Energy s Current Report on Form 8-K, Commission File No. 1-4393). 
+      12.1* 
+    Statement setting forth computation of ratios of earnings to fixed charges of Puget Energy, Inc. (2011 through 2015 and 12 months ended September 30, 2016). 
+      12.2* 
+    Statement setting forth computation of ratios of earnings to fixed charges of Puget Sound Energy, Inc. (2011 through 2015 and 12 months ended September 30, 2016). 
+      31.1* 
+    Chief Executive Officer certification of Puget Energy pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+      31.2* 
+    Principal Financial Officer certification of Puget Energy pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+      31.3* 
+    Chief Executive Officer certification of Puget Sound Energy pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+      31.4* 
+    Principal Financial Officer certification of Puget Sound Energy pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+      32.1* 
+    Chief Executive Officer certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+      32.2* 
+    Principal Financial Officer certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+      101 
+    Financial statements from the Quarterly Report on Form 10-Q of Puget Energy, Inc. and Puget Sound Energy, Inc. for the quarter ended September 30, 2016 filed on November 2, 2016 formatted in XBRL: (i) the Consolidated Statement of Income (Unaudited), (ii) the Consolidated Statements of Comprehensive Income (Unaudited), (iii) the Consolidated Balance Sheets (Unaudited), (iv) the Consolidated Statements of Cash Flows (Unaudited), and (v) the Notes to Consolidated Financial Statements (submitted electronically herewith). 
+
+__________________ 
+           * 
+       Filed herewith. 
+
+54 
+
+<EX-12.1>
+ 2
+ pe-ex121_2016930xq3.htm
+ PUGET ENERGY RATIO OF EARNINGS TO FIXED CHARGES
+
+Exhibit 
+
+(a) Represents interest portion of rents estimated at 33 1/3 percent. 
+
+</EX-12.1>
+
+<EX-12.2>
+ 3
+ pe-ex122_2016930xq3.htm
+ PSE RATIO OF EARNINGS TO FIXED CHARGES
+
+Exhibit 
+
+(a) Represents interest portion of rents estimated at 33 1/3 percent. 
+
+</EX-12.2>
+
+<EX-31.1>
+ 4
+ pe-ex311_2016930xq3.htm
+ PUGET ENERGY CHIEF EXECUTIVE OFFICER CERTIFICATION
+
+Exhibit 
+
+Exhibit 31.1 
+    
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO SECTION 302 
+  OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  I,   Kimberly J. Harris  , certify that: 
+  I have reviewed this report on Form 10-Q of   Puget Energy, Inc.  ; 
+  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+  The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+           a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+     The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+           a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+              b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+                  November 2, 2016 
+        
+  /s/ Kimberly J. Harris 
+      Kimberly J. Harris 
+      President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ pe-ex312_2016930xq3.htm
+ PUGET ENERGY CHIEF FINANCIAL OFFICER CERTIFICATION
+
+Exhibit 
+
+Exhibit 31.2 
+    
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO SECTION 302 
+  OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  I,   Daniel A. Doyle  , certify that: 
+  I have reviewed this report on Form 10-Q of   Puget Energy, Inc.  ; 
+  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+  The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+           a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+     The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+           a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+              b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+                  November 2, 2016 
+        
+  /s/ Daniel A. Doyle 
+      Daniel A. Doyle 
+      Senior Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-31.3>
+ 6
+ pe-ex313_2016930xq3.htm
+ PSE CHIEF EXECUTIVE OFFICER CERTIFICATION
+
+Exhibit 
+
+Exhibit 31.3 
+    
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO SECTION 302 
+  OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  I,   Kimberly J. Harris  , certify that: 
+  I have reviewed this report on Form 10-Q of   Puget Sound Energy, Inc.  ; 
+  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+  The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+           a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+     The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+           a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+              b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+                  November 2, 2016 
+        
+  /s/ Kimberly J. Harris 
+      Kimberly J. Harris 
+      President and Chief Executive Officer 
+
+</EX-31.3>
+
+<EX-31.4>
+ 7
+ pe-ex314_2016930xq3.htm
+ PSE CHIEF FINANCIAL OFFICER CERTIFICATION
+
+Exhibit 
+
+Exhibit 31.4 
+    
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO SECTION 302 
+  OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  I,   Daniel A. Doyle  , certify that: 
+  I have reviewed this report on Form 10-Q of   Puget Sound Energy, Inc.  ; 
+  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+  The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+           a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+     The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+           a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+              b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+                  November 2, 2016 
+        
+      /s/ Daniel A. Doyle 
+      Daniel A. Doyle 
+      Senior Vice President and Chief Financial Officer 
+
+</EX-31.4>
+
+<EX-32.1>
+ 8
+ pe-ex321_2016930xq3.htm
+ CHIEF EXECUTIVE OFFICER CERTIFICATION
+
+Exhibit 
+
+Exhibit 32.1 
+    
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO SECTION 906 
+  OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Report of   Puget Energy, Inc. and Puget Sound Energy, Inc  . (the  Companies ) on Form 10-Q   for the period ended     September 30, 2016   as filed with the Securities and Exchange Commission on the date hereof (the  Form 10-Q ), I,   Kimberly J. Harris, President and Chief Executive Officer   of the Companies, certify, pursuant to 18 U.S.C.  1350, as adopted pursuant to  906 of the Sarbanes-Oxley Act of 2002, that: 
+            (2) 
+    The information contained in the Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of the Companies. 
+       
+               November 2, 2016 
+        
+  /s/ Kimberly J. Harris 
+      Kimberly J. Harris 
+      President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 9
+ pe-ex322_2016930xq3.htm
+ CHIEF FINANCIAL OFFICER CERTIFICATION
+
+Exhibit 
+
+Exhibit 32.2 
+    
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO SECTION 906 
+  OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  In connection with the Report of   Puget Energy, Inc. and Puget Sound Energy, Inc.   (the  Companies ) on Form 10-Q   for the period ended     September 30, 2016   as filed with the Securities and Exchange Commission on the date hereof (the  Form 10-Q ), I,   Daniel A. Doyle, Senior Vice President and Chief Financial Officer   of the Companies, certify, pursuant to 18 U.S.C.  1350, as adopted pursuant to  906 of the Sarbanes-Oxley Act of 2002, that: 
+    
+            (2) 
+    The information contained in the Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of the Companies. 
+                  November 2, 2016 
+        
+  /s/ Daniel A. Doyle 
+      Daniel A. Doyle 
+      Senior Vice President and Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 10
+ psd-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 11
+ psd-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 12
+ psd-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 13
+ psd-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 14
+ psd-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 15
+ psd-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
+10-Q
+ 16
+ pe201693010q.pdf
+ 10-Q
+

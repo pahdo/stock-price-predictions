@@ -1,0 +1,895 @@
+<Header>
+<FileStats>
+    <FileName>20161108_10-Q_edgar_data_1014111_0001014111-16-000058_1.txt</FileName>
+    <GrossFileSize>7404026</GrossFileSize>
+    <NetFileSize>98197</NetFileSize>
+    <ASCII_Embedded_Chars>386101</ASCII_Embedded_Chars>
+    <HTML_Chars>2464015</HTML_Chars>
+    <XBRL_Chars>3188648</XBRL_Chars>
+    <XML_Chars>1127504</XML_Chars>
+    <N_Tables>42</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001014111-16-000058.hdr.sgml : 20161108
+<ACCEPTANCE-DATETIME>20161108172559
+ACCESSION NUMBER:		0001014111-16-000058
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		74
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161108
+DATE AS OF CHANGE:		20161108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			IMATION CORP
+		CENTRAL INDEX KEY:			0001014111
+		STANDARD INDUSTRIAL CLASSIFICATION:	MAGNETIC & OPTICAL RECORDING MEDIA [3695]
+		IRS NUMBER:				411838504
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14310
+		FILM NUMBER:		161982147
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 IMATION PL
+		CITY:			OAKDALE
+		STATE:			MN
+		ZIP:			55128
+		BUSINESS PHONE:		6517044000
+
+	MAIL ADDRESS:	
+		STREET 1:		1 IMATION PLACE
+		CITY:			OAKDALE
+		STATE:			MN
+		ZIP:			55128
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	3M INFORMATION PROCESSING INC
+		DATE OF NAME CHANGE:	19960619
+
+</SEC-Header>
+</Header>
+
+ 0001014111-16-000058.txt : 20161108
+
+10-Q
+ 1
+ imn0930201610-q.htm
+ 10-Q
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+    
+  FORM 10-Q 
+  (Mark One) 
+
+For the quarterly period ended   September 30, 2016    
+  or 
+
+For the transition period from                        to                       
+  Commission File Number: 1-14310 
+  
+  IMATION CORP. 
+  (Exact name of registrant as specified in its charter) 
+
+(651) 704-4000 
+    
+  (Registrant s telephone number, including area code) 
+    
+  Not Applicable 
+    
+  (Former name, former address and former fiscal year, if changed since last report) 
+    
+       Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.       Yes   o   No 
+       Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).       Yes   o   No 
+       Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. 
+                           Large accelerated filer   o 
+      
+    Accelerated filer     
+      
+    Non-accelerated filer   o  (Do not check if a smaller reporting company) 
+      
+    Smaller reporting company  o 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).   o   Yes       No 
+       Indicate the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date:   37,114,895   shares of Common Stock, par value $0.01 per share, were outstanding as of   October 31, 2016  . 
+
+Table of Contents  
+
+IMATION CORP. 
+  TABLE OF CONTENTS 
+
+2 
+
+Table of Contents  
+
+PART I. FINANCIAL INFORMATION 
+   
+  Item 1.   Financial Statements. 
+   
+  IMATION CORP. 
+  CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+  (In millions, except for per share amounts) 
+  (Unaudited) 
+
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+  
+    3 
+
+Table of Contents  
+
+IMATION CORP. 
+  CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS 
+  (In millions) 
+  (Unaudited) 
+
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+
+4 
+
+Table of Contents  
+
+IMATION CORP. 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+  (In millions) 
+
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+
+5 
+
+Table of Contents  
+
+IMATION CORP. 
+  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  (In millions) 
+  (Unaudited) 
+
+The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+
+6 
+
+Table of Contents  
+
+IMATION CORP. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Unaudited) 
+   
+  Note 1   Basis of Presentation 
+  The interim Condensed Consolidated Financial Statements of Imation Corp. ("Imation," the "Company," "we," "us" or "our") are unaudited but, in the opinion of management, reflect all adjustments necessary for a fair statement of financial position, results of operations, comprehensive loss and cash flows for the periods presented. Except as otherwise disclosed herein, these adjustments consist of normal, recurring items. The results of operations for any interim period are not necessarily indicative of full year results. The Condensed Consolidated Financial Statements and Notes are presented in accordance with the requirements for Quarterly Reports on Form 10-Q and do not contain certain information included in our annual Consolidated Financial Statements and Notes on Form 10-K. 
+  The unaudited Condensed Consolidated Financial Statements include the accounts of the Company, its wholly-owned subsidiaries and entities in which the Company owns or controls more than fifty percent of the voting shares, or have the ability to control through similar rights. The results of entities disposed of are included in the unaudited Condensed Consolidated Financial Statements up to the date of the disposal and, where appropriate, these operations have been reflected as discontinued operations. All inter-company balances and transactions have been eliminated in consolidation and, in the opinion of management, all normal recurring adjustments necessary for a fair presentation have been included in the interim results reported. 
+  The preparation of the interim Condensed Consolidated Financial Statements in conformity with accounting principles generally accepted in the United States of America (U.S. GAAP) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the interim Condensed Consolidated Financial Statements and the reported amounts of revenue and expenses for the reporting periods. Despite our intention to establish accurate estimates and use reasonable assumptions, actual results may differ from our estimates. 
+  The   December 31, 2015   Condensed Consolidated Balance Sheet data was derived from the audited Consolidated Financial Statements but does not include all disclosures required by U.S. GAAP. This Form 10-Q should be read in conjunction with our Consolidated Financial Statements and Notes included in our Annual Report on Form 10-K for the year ended   December 31, 2015   as filed with the U.S. Securities and Exchange Commission on March 15, 2016. 
+  The operating results of our former Storage Media and Accessories ("Legacy Businesses") and       IronKey businesses are presented in our Condensed Consolidated Statements of Operations as discontinued operations for all periods presented. Our continuing operations in each period presented represents our Nexsan business as well as corporate expenses and activities not directly attributable to our Legacy Businesses and IronKey. Assets and liabilities directly associated with our Legacy Businesses and IronKey and that are not part of our ongoing operations have been separately presented on the face of our Condensed Consolidated Balance Sheet as of both September 30, 2016 and December 31, 2015. See Note 4 -   Discontinued Operations   for further information. 
+   
+  Note 2   Recently Issued or Adopted Accounting Pronouncements  
+  In August 2014, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No. 2014-15, Disclosure of Uncertainties about an Entity s Ability to Continue as a Going Concern, which requires management to assess a company s ability to continue as going concern and to provide related footnote disclosures in certain circumstances. Before this new standard, there was minimal guidance in U.S. GAAP specific to going concern. Under the new standard, disclosures are required when conditions give rise to substantial doubt about a company s ability to continue as a going concern within one year from the financial statement issuance date. The new standard applies to all companies and is effective for the annual period ending after December 15, 2016, and all annual and interim periods thereafter. The Company is currently evaluating the impact of adopting this standard and will adopt and apply the guidance of this new standard when effective. 
+  In January 2016, the FASB issued ASU No. 2016-01, Recognition and Measurement of Financial Assets and Financial Liabilities, which revises the accounting related to (1) the classification and measurement of investments in equity securities and (2) the presentation of certain fair value changes for financial liabilities measured at fair value. The ASU also amends certain disclosure requirements associated with the fair value of financial instruments. The new guidance requires the fair value measurement of investments in equity securities and other ownership interests in an entity, including investments in partnerships, unincorporated joint ventures and limited liability companies (collectively, equity securities) that do not result in consolidation and are not accounted for under the equity method. Entities will need to measure these investments and recognize changes in fair value in net income. Entities will no longer be able to recognize unrealized holding gains and losses on equity securities they classify under current guidance as available for sale in other comprehensive income ("OCI"). They also will no longer be able to use the cost method of accounting for equity securities that do not have readily determinable fair values.  
+  
+    7 
+
+     Table of Contents  
+
+Instead, for these types of equity investments that do not otherwise qualify for the net asset value practical expedient, entities will be permitted to elect a practicability exception and measure the investment at cost less impairment plus or minus observable price changes (in orderly transactions). The ASU also establishes an incremental recognition and disclosure requirement related to the presentation of fair value changes of financial liabilities for which the fair value option ("FVO") has been elected. Under this guidance, an entity would be required to separately present in OCI the portion of the total fair value change attributable to instrument-specific credit risk as opposed to reflecting the entire amount in earnings. For derivative liabilities for which the FVO has been elected, however, any changes in fair value attributable to instrument-specific credit risk would continue to be presented in net income, which is consistent with current guidance. For Imation, this standard is effective beginning January 1, 2018 via a cumulative-effect adjustment to beginning retained earnings, except for guidance relative to equity securities without readily determinable fair values which is applied prospectively. The Company is currently assessing this ASU s impacts on our consolidated results of operations and financial condition.  
+  In February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842), which requires lessees to recognize right-of-use assets and lease liabilities on the balance sheet. ASU 2016-02 is to be applied using a modified retrospective approach at the beginning of the earliest comparative period in the financial statements. ASU 2016-02 will be effective for the Company beginning on January 1, 2019. Early adoption is permitted. The Company is currently evaluating the impact of adopting this standard on its consolidated financial statements. 
+  In March 2016, the FASB issued ASU No. 2016-08, Principal versus Agent Considerations (Reporting Revenue Gross versus Net), which amends ASU No. 2014-09, Revenue from Contracts with Customers, to clarify principal versus agent guidance in situations in which a revenue transaction involves a third party in providing goods or services to a customer. In such circumstances, an entity must determine whether the nature of its promise to the customer is to provide the underlying goods or services (i.e., the entity is the principal in the transaction) or to arrange for the third party to provide the underlying goods or services (i.e., the entity is the agent in the transaction). To determine the nature of its promise to the customer, the entity must first identify each specified good or service to be provided to the customer and then (before transferring it) assess whether it controls each specified good or service. The new ASU clarifies how an entity should identify the unit of accounting (the specified good or service) for the principal versus agent evaluation, and how it should apply the control principle to certain types of arrangements, such as service transactions, by explaining what a principal controls before the specified good or service is transferred to the customer. ASU No. 2016-08 will be effective for the Company beginning in its first quarter of 2017. The Company is currently assessing this standard s impact on its consolidated financial statements. 
+  In March 2016, the FASB issued ASU No. 2016-09, Compensation - Stock Compensation (Topic 718), which simplified certain aspects of the accounting for share-based payment transactions, including income taxes, classification of awards and classification in the statement of cash flows. ASU 2016-09 will be effective for the Company beginning in its first quarter of 2017. The Company is currently evaluating the impact of adopting the new stock compensation standard on its consolidated financial statements. 
+  In April 2016, the FASB issued ASU No. 2016-10, Identifying Performance Obligations and Licensing, which amends ASU No. 2014-09, Revenue from Contracts with Customers. In terms of identifying performance obligations in a revenue arrangement, the amendments clarify how entities would determine whether promised goods or services are separately identifiable from other promises in a contract and, therefore, would be accounted for separately. The guidance would also allow entities to disregard goods or services that are immaterial in the context of a contract and provides an accounting policy election to account for shipping and handling activities as fulfillment costs rather than as additional promised services. With regard to the licensing, the amendments clarify how an entity would evaluate the nature of its promise in granting a license of intellectual property, which determines whether the entity recognizes revenue over time or at a point in time. The standard also clarifies certain other aspects relative to licensing. ASU No. 2016-10 will be effective for the Company beginning in its first quarter of 2017. The Company is currently assessing this standard s impact on its consolidated financial statements. 
+    
+  In June 2016, the FASB issued ASU No. 2016-13, Financial Instruments - Credit Losses  ,   which is included in ASC Topic 326  ,   Measurement of Credit Losses on Financial Instruments. The new guidance revises the accounting requirements related to the measurement of credit losses and will require organizations to measure all expected credit losses for financial assets based on historical experience, current conditions and reasonable and supportable forecasts about collectability. Assets must be presented in the financial statements at the net amount expected to be collected. The guidance will be effective for the Company's annual and interim reporting periods beginning January 1, 2020, with early adoption permitted. The Company is evaluating the impact this standard will have on its business practices, financial condition, results of operations, and disclosures. 
+    
+  In August 2016, the FASB issued ASU No. 2016-15, Statement of Cash Flows - Classification of Certain Cash Receipts and Cash Payments. The update provides guidance on the following eight specific cash flow classification issues: (1) debt prepayment or debt extinguishment costs; (2) settlement of zero-coupon debt instruments or other debt instruments with coupon interest rates that are insignificant in relation to the effective interest rate of the borrowing; (3) contingent consideration  
+  
+    8 
+
+     Table of Contents  
+
+payments made after a business combination; (4) proceeds from the settlement of insurance claims; (5) proceeds from the settlement of corporate-owned life insurance policies, including bank-owned life insurance policies; (6) distributions received from equity method investees; (7) beneficial interests in securitization transactions; and (8) separately identifiable cash flows and application of the predominance principle. Current GAAP does not include specific guidance on these eight cash flow classification issues. The amendments of this ASU are effective for reporting periods beginning after December 15, 2017, with early adoption permitted. The Company is currently assessing this standard s impact on its consolidated financial statements. 
+   
+  Note 3   (Loss) Earnings per Common Share 
+  Basic (loss) earnings per common share is calculated using the weighted average number of shares outstanding for the period. Diluted (loss) earnings per common share is computed on the basis of the weighted average shares outstanding plus the dilutive effect of our stock-based compensation plans using the  treasury stock  method. Unvested restricted stock and treasury shares are excluded from the calculation of basic weighted average number of common shares outstanding. Once restricted stock vests, it is included in our common shares outstanding. 
+  Potential common shares are excluded from the computation of diluted (loss) earnings per common share when the effect would be anti-dilutive. Stock options are anti-dilutive when the exercise price of these instruments is greater than the average market price of the Company's common stock for the period. All potential common shares are anti-dilutive in periods of net loss available to common shareholders. 
+  The following table sets forth the computation of the weighted average basic and diluted (loss) earnings per share: 
+
+9 
+
+Table of Contents  
+
+Note 4   Discontinued Operations 
+  At December 31, 2015, our reportable segments were the Legacy Businesses, IronKey and Nexsan. In September 2015, the Company adopted a restructuring plan (the "Restructuring Plan") approved by the Board of Directors of the Company (the "Board") which began the termination process of our Legacy Businesses (which included all product lines and operations associated with commercial storage media (magnetic tape), consumer storage media (optical disc and flash drive) and audio and accessories). Strategically, our Board and management determined that there was not a viable plan to make the Legacy Businesses successful and, accordingly, we began to aggressively wind-down these businesses in an accelerated manner via the Restructuring Plan. The Restructuring Plan also called for the aggressive rationalization of the Company's corporate overhead and focused on reducing our operating losses. As of September 30, 2016, our wind-down of our Legacy Businesses is materially complete as we have effectively terminated all employees associated with our Legacy Businesses and ceased all operations, including revenue-producing activities. We are still in the process of collecting our outstanding receivables and settling our outstanding payable balances associated with these businesses, but all material activities associated with the Legacy Businesses were completed by March 31, 2016.   
+  U.S. GAAP requires accumulated foreign currency translation balances to be reclassified into the Consolidated Statement of Operations once the liquidation of the net assets of a foreign entity is substantially complete. As of September 30, 2016, because we have ceased operations in all of our international legal entities other than those associated with Nexsan, we have determined that the liquidations of our international entities associated with our Legacy Businesses are substantially complete. All remaining activities associated with these entities, including the final disposition of remaining balance sheet amounts and formal dissolution of these entities are being managed and controlled by the Company's U.S. corporate function. Accordingly, during the three and nine months ended September 30, 2016, the Company reclassified into discontinued operations   $0.0 million   and   $75.8 million   of foreign currency translation losses associated with our Legacy Businesses. 
+  Additionally, in February 2016 the Company sold its IronKey business to Kingston Digital, Inc. ("Kingston") and DataLocker Inc. ("DataLocker") pursuant to   two   asset purchase agreements which qualified as the sale of a business. To Kingston, we sold the assets representing the Company's business of developing, designing, manufacturing and selling IronKey mobile security solutions including Windows to Go USB flash drives, Windows to Go use cases and encrypted USB flash drives and external USB hard drives. The sale specifically excluded the software and services aspect of the IronKey business. Kingston paid a purchase price of   $4.3 million   at closing for certain assets, including inventory, and the Company retained accounts receivable and accounts payable relating to that business. To DataLocker, Imation sold the assets of the Company s business of software and services for its IronKey products, including services related to Windows to Go USB flash drives. DataLocker paid a purchase price of   $0.4 million   at closing and agreed to assume certain service obligations in the amount of approximately   $2 million  , as well as pay the Company earn-outs in the event certain service revenue targets are achieved. The potential earn-outs to Imation are determined in each of the   three   annual periods subsequent to the sale of IronKey, whereby the Company will receive   10%   of the amount, if any, whereby revenue exceeds thresholds established under the sale agreement.  The Company s best estimate, at this time, is that it will not receive any contingent consideration and, accordingly, has not recorded any associated receivable. The Company recorded a pre-tax gain on this sale of   $3.8 million   during the first quarter of 2016. 
+  The operating results for the Legacy Businesses and IronKey are presented in our Condensed Consolidated Statements of Operations as discontinued operations for all periods presented and reflect revenues and expenses that are directly attributable to these businesses that were eliminated from our ongoing operations.  
+  
+    10 
+
+     Table of Contents  
+
+The key components of the results of discontinued operations were as follows:  
+
+The depreciation and amortization expenses related to discontinued operations were   $0.0   million and   $1.5 million   for the quarter ended September 30, 2016 and 2015, respectively. Capital expenditures associated with discontinued operations were   $0.0   million for the quarters ended September 30, 2016 and 2015. 
+  The depreciation and amortization expenses related to discontinued operations were   $0.0   million and   $4.7 million   for the nine months ended September 30, 2016 and 2015, respectively. Capital expenditures associated with discontinued operations were   $0.0   million and   $0.3 million   for the nine months ended September 30, 2016 and 2015, respectively. 
+  The income tax provision related to discontinued operations were   $0.1 million   and   $1.9 million   for the quarter and nine months ended September 30, 2016, respectively. See Note 10 -   Income Taxes   for additional information. 
+  Current assets of discontinued operations of   $15.3 million   as of September 30, 2016 included approximately   $10.8 million   of restricted cash (primarily associated with our disputing of certain payables to vendors) and   $1.8 million   of accounts receivables, with the remainder consisting of a variety of immaterial other current asset amounts.   Current assets of discontinued operations of   $44.3 million   as December 31, 2015 included approximately   $16.0 million   of accounts receivable,   $10.0 million   of restricted cash,   $9.0 million   of assets held for sale,   $2.0 million   of inventory and other current assets.  
+  Current liabilities of discontinued operations of   $37.9 million   as of September 30, 2016 included accounts payable of   $28.7 million   and   $4.4 million   of customer credit and rebate accruals, with the remainder consisting of a variety of immaterial other current liability amounts.  Current liabilities of discontinued operations of   $74.6 million   as of December 31, 2015 included approximately   $39.0 million   of accounts payable,   $15.0 million   of restructuring accruals,   $5.0 million   of rebates,   $2.0 million   of deferred revenue and other current liabilities. 
+  
+    11 
+
+Table of Contents  
+
+Note 5   Supplemental Balance Sheet Information  
+  Additional supplemental balance sheet information is provided as follows: 
+
+(1)   Accounts receivable reserves and allowances include estimated amounts for customer returns, discounts on payment terms and uncollectible accounts. 
+  Other current liabilities (included as a separate line in our Condensed Consolidated Balance Sheets) primarily includes deferred revenue of   $6.4 million   and   $6.2 million  , levy accruals of   $5.5 million   and   $5.1 million  , corporate and legal accruals of   $2.5 million   and   $2.6 million  , accrued payroll of   $3.2 million   and   $3.3 million  ,  restructuring accruals of   $0.5 million   and   $2.2 million   and royalty accruals of   $0.0 million   and   $1.8 million   as of   September 30, 2016   and   December 31, 2015  , respectively.  
+  Other liabilities (included as a separate line in our Condensed Consolidated Balance Sheets) includes pension liabilities of   $23.9 million   and   $21.1 million   as of   September 30, 2016   and   December 31, 2015  , respectively.   
+   
+  Note 6   Intangible Assets and Goodwill 
+  Intangible Assets 
+  Intangible assets consist of developed technology recorded as a result of the acquisition of Connected Data, Inc. ("CDI") on October 14, 2015.  
+
+Amortization expense for intangible assets consisted of the following: 
+
+12 
+
+     Table of Contents  
+
+Estimated amortization expense for the remainder of   2016   and each of the next   four   years is as follows: 
+
+Goodwill 
+  The goodwill balance was   $3.8 million   as of September 30, 2016.  The goodwill is solely contained within our Nexsan segment.  There are no impairment indicators based on Management's assessment. We will monitor our results and expected cash flows in the future to access whether consideration of a goodwill impairment may be necessary. 
+
+Note 7   Restructuring and Other Expense 
+  The components of our restructuring and other expense included in the Condensed Consolidated Statements of Operations were as follows:   
+
+   (1)   For the three months ended September 30, 2016, other includes consulting expenses of   $0.3 million   and   $0.2 million   for Realization Services, Inc. (See Note 16 -   Related Party Transactions   for additional information) and Otterbourg P.C., respectively and   $0.1 million   for other consulting fees.  For the nine months ended September 30, 2016, other includes consulting expenses of   $2.4 million   and   $1.4 million   for Realization Services, Inc. and Otterbourg P.C., respectively, a net credit of   $1.9 million   for property tax refund for the former Oakdale site, as well as   $2.1 million   for other employee costs and consulting fees directly attributable to our Restructuring Plan. We have considered these costs to be attributable to our corporate activities and, therefore, they are not part of our discontinued operations. 
+    
+  Activity related to the new and existing restructuring accruals was as follows: 
+
+13 
+
+Table of Contents  
+
+Note 8   Stock-Based Compensation 
+  Stock-based compensation for continuing operations consisted of the following: Stock-based compensation for discontinued operations was immaterial. 
+
+We have stock-based compensation awards consisting of stock options, restricted stock and stock appreciation rights under   four   plans (collectively, the Stock Plans) which are described in detail in our   2015   Annual Report on Form 10-K. As of   September 30, 2016  , there were   2,368,019   shares available for grant under the 2011 Incentive Plan.   No   further shares were available for grant under any other stock incentive plan.  
+  Stock Options 
+  The following table summarizes our stock option activity: 
+
+The outstanding options are non-qualified and generally have a term of   ten years  . The following table summarizes our weighted average assumptions used in the Black Scholes valuation of stock options: 
+
+As of   September 30, 2016  , there was   $0.3 million   of total unrecognized compensation expense related to non-vested stock options granted under our stock-based compensation plans (collectively, the "Stock Plans"). That expense is expected to be recognized over a weighted average period of   2.2   years. 
+  
+    14 
+
+     Table of Contents  
+
+Restricted Stock 
+  The following table summarizes our restricted stock activity: 
+
+The cost of the awards is determined using the fair market value of the Company s common stock on the date of the grant, and compensation is recognized on a straight-line basis over the requisite vesting period. 
+  As of   September 30, 2016  , there was   $1.4 million   of total unrecognized compensation expense related to non-vested restricted stock granted under our Stock Plans. That expense is expected to be recognized over a weighted average period of   3.6   years. 
+  Stock Appreciation Rights 
+  During the   nine   months ended September 30, 2016 we did not grant any Stock Appreciation Rights ("SARs"). Outstanding SARs expire   5   years after the grant date and only vest when both stock price and revenue performance conditions specified by the terms of the SARs are met. Additionally, under the terms of the 2015 SARs, any cash payments to an individual under a 2015 vested SAR would reduce any cash payment received under any earlier SAR grant pertaining to that individual, if and when such earlier SAR vests. For the stock price condition, based on the terms of the awards,   50 percent   of the SARs may vest if the   30  -day average Imation stock price reaches   $8   per share or more by December 31, 2017 and the remaining   50 percent   of the SARs could vest if the   30  -day average Imation stock price reaches   $12   per share or more by December 31, 2017. Additionally, for the revenue performance condition, as a condition necessary for vesting, the net revenue of Nexsan must reach certain specified stretch targets by December 31, 2017. If exercised, the SARs require a cash payment to the holder in an amount based on the Imation stock price at the date of exercise as compared to the stock price at the date of grant. As of   September 30, 2016  , we had   1.1 million   SARs outstanding compared to   3.8 million   SARS outstanding as of December 31, 2015. The decrease was primarily due to the cancellation of SARs previously granted to IronKey employees. These SARs were canceled as a result of the sale of the IronKey business. We have   not   recorded any related compensation expense based on the applicable accounting rules. We will continue to assess these SARs each quarter to determine if any expense should be recorded. 
+   
+  Note 9   Retirement Plans 
+  Pension Plans 
+  During the   three and nine   months ended   September 30, 2016  , consistent with the funding requirements of our worldwide pension plans, we did not make any contributions to such plans. Effective January 1, 2010, the U.S. plan was amended to exclude new hires and rehires from participating in the plan. In addition, we eliminated benefit accruals under the U.S. plan as of January 1, 2011, thus  freezing  the defined benefit pension plan. Under the plan freeze, no pay credits were made to a participant s account balance after December 31, 2010. However, interest credits will continue in accordance with the annual update process. We do not presently anticipate contributing any significant amounts to fund our worldwide pension plans during the remainder of   2016  . 
+  In connection with actions taken under our announced restructuring programs, the number of employees accumulating benefits under our pension plan in the United States continues to decline. Participants in our U.S. defined benefit pension plan have the option of receiving cash lump sum payments when exiting the plan, which a number of participants exiting the plan have elected to receive. Lump sum payments for the three months ended September 30, 2016 have exceeded our expected 2016 interest costs. As a result, a partial settlement event occurred during the three months and nine months ended September 30, 2016 and we recognized a settlement loss of   $0.3 million   and   $2.6 million  , respectively. These settlement losses are included in restructuring and other in our Condensed Consolidated Statements of Operations.  
+  
+    15 
+
+     Table of Contents  
+
+Components of net periodic pension (credit) cost included the following: 
+
+Note 10   Income Taxes 
+  For interim income tax reporting, we are required to estimate our annual effective tax rate and apply it to year-to-date pre-tax income/loss excluding unusual or infrequently occurring discrete items. Tax jurisdictions with losses for which tax benefits cannot be realized are excluded. 
+  For the   three and nine   months ended   September 30, 2016  , we recorded income tax benefit from continuing operations of   $(0.2) million   and $  (2.3) million  , respectively. For the   three and nine   months ended   September 30, 2015  , we recorded income tax benefit of $  (0.2) million   and $  (0.1) million  , respectively. The change in the income tax expense from continuing operations for the nine months ended   September 30, 2016   compared to the same period last year is primarily related to the intraperiod allocation of total tax expense between continuing operations and discontinued operations. The effective income tax rate for the   three and nine   months ended   September 30, 2016   differs from the U.S. federal statutory rate of   35 percent   primarily due to a valuation allowance on various deferred tax assets and the intraperiod allocation of total tax expense between continuing operations and discontinued operations. 
+  We file income tax returns in multiple jurisdictions and are subject to review by various U.S and foreign taxing authorities. Our U.S. federal income tax returns for 2013 through 2015 are subject to examination by the Internal Revenue Service. With few exceptions, we are no longer subject to examination by foreign tax jurisdictions or state and local tax jurisdictions for years before 2009. In the event that we have determined not to file tax returns with a particular state or city, all years remain subject to examination by the tax jurisdiction.  
+  We accrue for the effects of uncertain tax positions and the related potential penalties and interest. Our liability related to uncertain tax positions, which is presented in other liabilities on our Condensed Consolidated Balance Sheets and which includes interest and penalties and excludes certain unrecognized tax benefits that have been netted against deferred tax assets, was   $1.4 million   and   $1.7 million   as of   September 30, 2016   and   December 31, 2015  , respectively. These liabilities are associated with our Legacy Businesses and have been included with the separately presented other liabilities of discontinued operations on the face of our consolidated balance sheet. It is reasonably possible that the amount of the unrecognized tax benefit with respect to certain of our unrecognized tax positions will increase or decrease during the next twelve months; however it is not possible to reasonably estimate the effect at this time. 
+   
+  Note 11   Major Customers and Accounts Receivable 
+  For the three months ended   September 30, 2016   and 2015,   two   customers accounted for   26.5%    and   one   customer accounted for   17.6%   of revenue, respectively.  For the nine months ended   September 30, 2016   and 2015,   one   customer accounted for   20.9%   and   18.6%   of revenue, respectively. 
+  At   September 30, 2016     one   customer accounted for   13.8%   of accounts receivable. At   December 31, 2015  ,   one   customer accounted for   19.9%   of accounts receivable. 
+
+16 
+
+Table of Contents  
+
+Note 12   Fair Value Measurements 
+  Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability, or the exit price in an orderly transaction between market participants on the measurement date. A three-level hierarchy is used for fair value measurements based upon the observability of the inputs to the valuation of an asset or liability as of the measurement date. Level 1 measurements consist of unadjusted quoted prices in active markets for identical assets or liabilities. Level 2 measurements include quoted prices in markets that are not active or model inputs that are observable either directly or indirectly for substantially the full term of the asset or liability. Level 3 measurements include significant unobservable inputs. A financial instrument's level within the hierarchy is based on the highest level of any input that is significant to the fair value measurement. Following is a description of our valuation methodologies used to estimate the fair value for our assets and liabilities. 
+  Assets and Liabilities that are Measured at Fair Value on a Nonrecurring Basis 
+  The Company's non-financial assets such as goodwill, intangible assets and property, plant and equipment are recorded at fair value when an impairment is recognized or at the time acquired in a business combination. The determination of the estimated fair value of such assets required the use of significant unobservable inputs which would be considered Level 3 fair value measurements. As of September 30, 2016 there were no indicators that would require an impairment of goodwill, intangible assets or property, plant and equipment. 
+  Assets and Liabilities that are Measured at Fair Value on a Recurring Basis 
+  The Company measures certain assets and liabilities at their estimated fair value on a recurring basis, including cash and cash equivalents, our contingent consideration obligations associated with the acquisition of CDI and investments in trading securities (described further below under the "Trading Equity Securities" heading). The following table provides information by level for assets and liabilities that are measured at fair value on a recurring basis as of September 30, 2016 and December 31, 2015:  
+                                         
+    September 30, 2016 
+    Quoted Prices in Active Markets for Identical Assets 
+  (Level 1) 
+    Significant Other Observable Inputs 
+  (Level 2) 
+    Unobservable Inputs 
+  (Level 3) 
+      Assets: 
+
+Trading securities 
+    $ 
+    37.7 
+      
+    $ 
+    2.9 
+      
+    $ 
+    34.8 
+      
+    $ 
+
+Liabilities: 
+
+Contingent consideration associated with CDI acquisition 
+    $ 
+    0.6 
+      
+    $ 
+
+$ 
+
+$ 
+    0.6 
+
+December 31, 2015 
+    Quoted Prices in Active Markets for Identical Assets 
+  (Level 1) 
+    Significant Other Observable Inputs 
+  (Level 2) 
+    Unobservable Inputs 
+  (Level 3) 
+      Assets: 
+
+Trading securities 
+    $ 
+    1.0 
+      
+    $ 
+    1.0 
+      
+    $ 
+
+$ 
+
+Warrants 
+    0.4 
+
+0.4 
+      
+      Liabilities: 
+
+Contingent consideration associated with CDI acquisition 
+    $ 
+    0.8 
+      
+    $ 
+
+$ 
+
+$ 
+    0.8 
+
+Trading Equity Securities 
+  On February 8, 2016, the Company entered into a subscription agreement with Clinton Lighthouse Equity Strategies Fund (Offshore) Ltd. ( Clinton Lighthouse ). Clinton Lighthouse is a market neutral fund which provides daily liquidity to its investors. The short term investment was classified as a trading security as we expect to be actively managing this investment at all times with the intention of maximizing our investment returns. Income or loss associated with this trading security as a component of "Other (income) expense" in our Condensed Consolidated Statements of Operations and purchases or sales of this security are reflected as Operating activities in our Condensed Consolidated Statements of Cash Flows. As of September 30, 2016, the short term investment balance in Clinton Lighthouse was   $34.8 million  . We recorded an unrealized loss of  
+  
+    17 
+
+     Table of Contents  
+
+approximately   $0.7 million   in the nine months ended September 2016 related to Clinton Lighthouse, which includes   $0.5 million   of accrued performance fees reflected within "Other (income) expense" in the Condensed Consolidated Statements of Comprehensive Loss. See Note 16   - Related Party Transactions   for more information  . 
+   
+  Note 13   Shareholders' Equity  
+  Treasury Stock 
+  On May 2, 2012, our Board of Directors authorized a share repurchase program that allowed for the repurchase of   5.0 million   shares of common stock, replacing our previous authorization. We did not repurchase any shares during the three months ended   September 30, 2016  . Since the authorization of this program, we have repurchased   3.0 million   shares of common stock for   $13.3 million   and, as of   September 30, 2016  , we had remaining authorization to repurchase up to   2.0 million   additional shares. The treasury stock held as of   September 30, 2016   was acquired at an average price of   $3.86   per share.  
+  Following is a summary of treasury share activity: 
+
+Accumulated Other Comprehensive Loss 
+  Accumulated other comprehensive loss and related activity consisted of the following: 
+
+As of September 30, 2016, the remaining   $1.0 million   of cumulative foreign currency translation amounts recorded in Accumulated Other Comprehensive Income pertain to our on-going Nexsan operations. See Note 4 -   Discontinued Operations   for disclosure pertaining to the   $75.8 million   of accumulated foreign currency translation losses reclassified into discontinued operations during the nine months ended September 30, 2016. 
+  
+    18 
+
+     Table of Contents  
+
+Details of amounts reclassified from accumulated other comprehensive loss and the line item in the Condensed Consolidated Statements of Operations are as follows: 
+
+Note 14   Segment Information 
+  Beginning in the fourth quarter of 2015, in conjunction with our accelerated wind-down of the Company's Legacy Businesses, the Company changed the manner in which it evaluates the operations of the Company and makes decisions around the allocation of resources. The Company operated in   three   reportable segments as of December 31, 2015: "Storage Media and Accessories" (also referred to as our "Legacy Businesses"); "IronKey"; and "Nexsan". We sold our IronKey business in February 2016 and have substantially completed the wind-down of the Legacy Businesses as of March 31, 2016. Both former segments are presented in our Condensed Consolidated Statements of Operations as discontinued operations and are not included in segment results for all periods presented. See Note 4 -   Discontinued Operations   for further information on these divestitures. Nexsan is our only remaining reportable segment as of September 30, 2016. 
+  We evaluate segment performance based on revenue and operating income (loss). The operating income (loss) reported in our segments excludes corporate and other unallocated amounts. Although such amounts are excluded from the business segment results, they are included in reported consolidated results. The corporate and unallocated operating loss includes costs which are not allocated to the business segments in management's evaluation of segment performance such as litigation settlement expense, corporate expense and other expenses. 
+  Net revenue and operating income (loss) from continuing operations by segment were as follows: 
+
+19 
+
+     Table of Contents  
+
+Note 15   Litigation, Commitments and Contingencies 
+  Litigation  
+  The Company is subject to various pending or threatened lawsuits, claims, and other legal matters that arise in the ordinary course of conducting business. All such matters involve uncertainty and accordingly, outcomes that cannot be predicted with assurance.  It is reasonably possible that the ultimate resolution of these matters, individually or in the aggregate, could materially affect our financial condition, results of the operations and cash flows. 
+  The Company is subject to allegations of patent infringement by our competitors as well as non-practicing entities - sometimes referred to as  patent trolls  - who may seek monetary settlements from us, our competitors, suppliers and resellers. The nature of such litigation is complex and unpredictable and, consequently, as of   September 30, 2016  , the Company is not able to reasonably estimate the amount of any monetary liability or financial impact that may be incurred with respect to these matters. It is reasonably possible that the ultimate resolution of these matters could materially affect our financial condition, results of operations and cash flows.  
+  On January 26, 2016, CMC Magnetic Corp. ("CMC"), a supplier of our Legacy Businesses, filed a suit in the District Court of Ramsey County Minnesota, seeking damages of   $6.3 million   from Imation and   $0.6 million   from Imation's wholly-owned subsidiary Imation Latin America Corp. ("ILAC") for alleged breach of contract.  Imation and ILAC deny any liabilities and assert counterclaims for breach of warranty, breach of contract, failure to pay rebates and unjust enrichment. Additionally, as further described in the following paragraph, Imation is disputing payables to CMC for amounts exceeding   $6.3 million  . In June 2016, CMC filed a motion seeking to amend its complaint to increase alleged damages to   $7.2 million   and add additional defendants including Imation directors and officers, which the Company has obligations to defend and indemnify. Thereafter, CMC served its amended complaint and Imation and ILAC answered asserting numerous affirmative defenses and counterclaims.  CMC has since retained new counsel in the action and CMC's time to reply to the counterclaims asserted by Imation and ILAC has been extended by agreement of the parties pending a motion by CMC's new counsel to further amend CMC's complaint, which motion the Court has given CMC until November 9, 2016 to file.  The Company believes CMC's claims are without merit and intends to defend its position vigorously. 
+  The Company is currently disputing trade payables with certain vendors (including CMC) associated with our Legacy Businesses on the basis of vendor non-performance.  As of September 30, 2016, based on invoices from these vendors, the Company has recorded, but not made payment, with the respect to   $26.8 million   of disputed trade payables, all of which are recorded as "Current liabilities of discontinued operations" on the Company's Condensed Consolidated Balance Sheets. To the extent the Company is able to resolve any of these disputes for an amount lower than the corresponding recorded liabilities, the applicable difference would be recognized as a gain within discontinued operations. In connection with disputed trade payables, certain vendors have attached, seized or otherwise effected restrictions on the Company's access to approximately   $10.8 million   of the Company's cash, all of which is recorded as restricted cash within "Current assets of discontinued operations" on the Company's Condensed Consolidated Balance sheets. 
+  On May 6, 2016 Nexsan Technologies Incorporated, a wholly own subsidiary of Imation ("NTI"), filed a complaint in United States District Court for the District of Massachusetts seeking a declaratory judgment against EMC Corporation ("EMC").  NTI alleges that NTI has a priority of right to use certain of its UNITY trademarks and that NTI's prosecution of its trademark applications with the respect to, and to use of, such trademarks does not infringe upon EMC's trademarks. In  
+  
+    20 
+
+     Table of Contents  
+
+addition, NTI seeks and injunctive relief to prevent EMC from threatening NTI with legal action related to use of UNITY trademarks, or making any public statements or statements to potential customers calling into question NTI's right to use UNITY trademarks.  EMC has answered and counterclaimed alleging that NTI's use of the UNITY trademark, infringes EMC's common law rights in the UNITY and EMC UNITY trademarks.  
+  Environmental Matters 
+  Our operations are subject to a wide range of federal, state and local environmental laws. Environmental remediation costs are accrued when a probable liability has been determined and the amount of such liability has been reasonably estimated. These accruals are reviewed periodically as remediation and investigatory activities proceed and are adjusted accordingly. Compliance with environmental regulations has not had a material adverse effect on our financial results. We did not have any environmental accruals as of September 30, 2016. 
+  Copyright Levies  
+  Background and historical developments associated with our copyright levies are discussed in Note 15 -   Litigation, Commitments and Contingencies   in our Notes to Consolidated Financial Statements of our Annual Report on Form 10-K for the year ended December 31, 2015. As of   September 30, 2016   and   December 31, 2015  , we had accrued liabilities of   $5.1 million   associated with accessed levies for which we are withholding payment.  These accruals are recorded as "Other current liabilities" on the Company's Condensed Consolidated Balance Sheets (and not within discontinued operations). The Company's management oversees copyright levy matters and continues to explore options to resolve these matters. 
+  The company is subject to several pending or threatened legal actions by the levy collection societies of the various European Union countries.  Generally, those actions relate to allegations of non-payment by Imation of copyright levies associated with the sale of Legacy Business products in commercial and consumer channels. Imation asserts corresponding counterclaims or claims in parallel actions seeking reimbursement for levies illegally collected by the levy collection societies with the respect to sales of Legacy Business products in the commercial channels.  
+  In one such action, Imation Europe B.V., a wholly-owned subsidiary of Imation ("Imation Europe"), alleges that Copie France, the levy collection society in France, illegally collected levies from Imation Europe with respect to the sales of Legacy Business products to commercial end-users in a manner contrary to European Union laws.  Copie France asserts counterclaims against Imation Europe for levies with respect to sales of Legacy Business products to commercial end-users.  A hearing occurred on December 8, 2015, in the High Court of Justice (Tribunal de Grande Instance de Paris) on Imation Europe's claim and Copie France s counterclaim. On April 8, 2016, the Paris District Court rejected all of Imation Europe's claims finding that the European Union law arguments raised by Imation were inapplicable and relied solely on French law to grant Copie France s counterclaims. Imation Europe has filed a notice of appeal which suspends enforcement of the ruling. Imation had previously reversed all accruals for liabilities associated with copyright levies in France.  Imation believes Copie France's counterclaims are without merit and intends to defend its position vigorously. Despite the April 2016 ruling of the Paris District Court, the Company does not believe it to be probable that it will have to make any copyright levy payments in the future to Copie France and, accordingly, has not recorded an accrual for this matter. 
+  The Canadian Private Copying Collective ("CPCC") is alleging that Imation Enterprises Corp. has not previously reported  certain prior sales of Legacy Business products that should have been subject to copyright levies and seeks damages of approximately CAD   1 million   and penalties and interest of approximately CAD   5 million  .  Imation believes CPCC's claims are without merit and intends to defend its position vigorously. The Company does not believe it to be probable that it will have to make any copyright levy payments in the future to CPCC and, accordingly, has not recorded an accrual for this matter. 
+  The Company is subject to threatened actions by certain customers of Imation seeking reimbursement of funds they allege relate to commercial levies that they claim they should not have paid. Although these actions are subject to the uncertainties inherent in the litigation process, based on the information presently available to the Company, management does not expect that the ultimate resolution of these actions will have a material adverse effect on our financial condition, results of operations or cash flows. Additional court decisions may be rendered in the future that may directly or indirectly impact our levy exposure in specific European countries which could result in our reassessment of exposure to copyright levy liabilities in those countries.  
+   
+  Note 16   Related Party Transactions 
+  As previously disclosed, on August 17, 2015, the Board appointed Mr. Kasoff to serve as Interim President of the Company effective August 19, 2015. Effective October 14, 2015, in connection with the appointment of Mr. Fernander to the position of Interim Chief Executive Officer, the Board appointed Mr. Kasoff as Chief Restructuring Officer at the same level of compensation he received as Interim President. Effective November 25, 2015, the Board of Directors appointed Mr. Kasoff to also serve as the Company's Interim Chief Financial Officer until April 26, 2016 when the Company appointed Mr. Danny  
+  
+    21 
+
+     Table of Contents  
+
+Zheng as the Chief Financial Officer. Effective September 8, 2016, Mr. Kasoff resigned as the Chief Restructuring Officer of the Company and remains a member of the Board of Directors. 
+  Mr. Kasoff also serves as president of Realization Services, Inc. (RSI), a management consulting firm specializing in assisting companies and capital stakeholders in troubled business environments. Pursuant to a consulting agreement between the Company and RSI dated August 17, 2015 and subsequent amendments, RSI had performed consulting services for the Company for the period from August 8, 2015 up to March 30, 2016, including assisting the Company with a review and assessment of the Company s business and the formulation of a business plan to enhance shareholder value going forward. On July 15, 2016, the Company entered into a consulting agreement with RSI to perform consulting services from July 18, 2016  through August 14, 2016 with an option for a   three week   extended term. Under the consulting agreement, RSI could receive consulting fees of up to   $125,000   per week during the initial term. Consulting fees for the extended term, if elected by the Company, could not exceed   $500,000  . RSI received consulting fees   $0.3 million   and   $2.4 million   for the three and nine months ending September 30, 2016 respectively.  The fees are recorded in restructuring and other charges. 
+  In January 2016, the Board approved investing up to   25%   of the Company s cash in investment funds with the focus on producing attractive risk-adjusted rates of return while maintaining liquidity. On February 8, 2016, the Company entered into a subscription agreement to invest up to   $20 million   of its excess cash from various Company subsidiaries in Clinton Lighthouse. Clinton Lighthouse is a market neutral fund which provides daily liquidity to its investors. Clinton Lighthouse is managed by Clinton Group, Inc. ( Clinton ). Pursuant to the arrangement, Clinton agreed to waive its customary management fee and agreed to the receipt of any consideration pursuant to its performance fee (which is based on the quarterly investment returns of the fund) in the form of the Company s common stock at a value of   $1.00   per share. The closing price of the Company s common stock on February 8, 2016 was   $0.65  . The Board, in conjunction with management, reviewed various funds and voted to approve this investment, with Joseph A. De Perio, the Chairman of the Board and a Senior Portfolio Manager at Clinton, recusing himself from all discussions and deliberations regarding, and abstaining from, the vote. On March 17, 2016, the Board approved the elimination of the   25%   limitation on the amount of the Company s cash that may be invested, such that the Company may invest up to   $35 million   cash, excluding gains or losses, in Clinton Lighthouse. On April 29, 2016, the Company and Clinton entered into an Amended and Restated Subscription Agreement in order to adjust the price at which the Company s stock would be valued for purposes of calculating the performance fee thereunder from   $1.00   to   $1.80   beginning May 1, 2016, subject to adjustment based on the volume weighted average price of the Company s common stock. As of September 30, 2016, the Company has accrued   $0.5 million   associated with the performance fees pertaining to this investment, but has not made any payments under the agreement.  As of September 30, 2016, the short term investment balance included a   $34.8 million   investment in Clinton Lighthouse. We recorded an unrealized loss of approximately   $0.7 million   in the nine months ended September 2016 related to Clinton Lighthouse, which includes   $0.5 million   of accrued performance fees in other (income) expense in the income statement. 
+   
+  Note 17   Subsequent Events 
+  None. 
+  
+    22 
+
+     Table of Contents  
+
+Item 2.   Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+  Overview 
+  Imation is a holding company involved in asset management.  The Company s Nexsan subsidiary is engaged in the global enterprise data storage business. At the corporate level, there is an ongoing strategic review as Imation continues to seek and explore new opportunities to enable us to pursue a diverse range of strategic business opportunities and deploy excess cash.  
+  This Management's Discussion and Analysis of Financial Condition and Results of Operations ("MD A") is intended to be read in conjunction with our Condensed Consolidated Financial Statements and related Notes that appear elsewhere in this Quarterly Report on Form 10-Q. This MD A contains forward-looking statements that involve risks and uncertainties. Imation's actual results could differ materially from those anticipated due to various factors discussed in this MD A under the caption "Forward-Looking Statements and Risk Factors" and the information contained in the Company's Annual Report on Form 10-K filed with the U.S. Securities and Exchange Commission ("SEC") on March 15, 2016, including Item 1A.   Risk Factors   of such Annual Report. 
+  This Quarterly Report on Form 10-Q includes tradenames and trademarks owned by us or that we have the right to use. Solely for convenience, the trademarks or tradenames referred to in this Quarterly Report on Form 10-Q may appear without the   or   symbols, but such references are not intended to indicate in any way that we will not assert, to the fullest extent under applicable law, our rights to these trademarks and tradenames. 
+  Executive Summary 
+  Consolidated Results of Operations for the Three Months Ended   September 30, 2016 
+             
+    Net revenue from continuing operations (Nexsan) of   $11.5 million   for the three months ended   September 30, 2016   was down   20.7 percent   compared with   $14.5 million   in the same period last year. The decrease was a result of the strategic decision to exit underperforming regions and low-margin portions of the business.  
+                
+    Operating loss from continuing operations was   $7.7 million   for the three months ended   September 30, 2016   compared with an operating loss of   $104.3 million   in the same period last year, an improvement of   $96.6 million  , due to charges incurred in connection with the intangible and goodwill write-off and asset disposal charges in the third quarter of 2015 and Nexsan and corporate cost reductions. 
+                
+    Diluted loss per share from continuing operations was   $0.20   for the three months ended   September 30, 2016   compared with a diluted loss per share of   $2.54   for the same period last year. 
+     Consolidated Results of Operations for the Nine Months Ended   September 30, 2016 
+             
+    Net revenue from continuing operations (Nexsan) of $  32.8 million   for the nine months ended   September 30, 2016   was down   30.4 percent   compared with $  47.1 million   in the same period last year. The decrease was a result of the strategic decision to exit underperforming regions and low-margin portions of the business.  
+                
+    Operating loss from continuing operations was $  29.9 million   for the nine months ended   September 30, 2016   compared with an operating loss of $  132.7 million   in the same period last year, due to the same reasons for the three months ended September 30, 2016. The operating loss for the nine months ended   September 30, 2016   includes a charge of $  7.1 million   for restructuring and other related to the restructuring program approved by our Board of Directors in September 2015. 
+                
+    Diluted loss per share from continuing operations was   $0.76   for the nine months ended   September 30, 2016   compared with a diluted loss per share of   $3.27   for the same period last year. 
+     Cash Flow/Financial Condition for the   Nine Months Ended     September 30, 2016 
+             
+    Cash and cash equivalents totaled   $11.9 million   at   September 30, 2016   compared with   $70.4 million   at   December 31, 2015  . The decline in the cash balance of   $58.5 million   was primarily due to investing the excess cash of $35.0 million into Clinton Lighthouse Equity Strategies Fund, operating loss and payment of restructuring related costs, offset by the proceeds from sales of assets. 
+     Results of Operations 
+  The following discussion relates to continuing operations unless indicated otherwise. The operating results of our Legacy Businesses and IronKey businesses are presented in our Condensed Consolidated Statements of Operations as discontinued operations and are not included in segment results for all periods presented. See Note 4 -   Discontinued Operations   in our Notes to Condensed Consolidated Financial Statements for further information on these divestitures.  
+  
+    23 
+
+     Table of Contents  
+
+Net Revenue 
+
+Net revenue for the three months ended   September 30, 2016   decreased   20.7 percent   compared with the same period last year due to declines in the Nexsan business segment. The decrease was a result of the strategic decision to exit underperforming regions and low-margin portions of the business.  
+  Net revenue for the   nine   months ended   September 30, 2016   decreased   30.4 percent   compared with the same period last year due to declines in the Nexsan business segment. The decrease was due to the same reasons for the three months ended   September 30, 2016  .  
+  See   Segment Results   for further discussion of our reporting segments and products.  
+  Gross Profit  
+
+Gross profit for the three months ended   September 30, 2016   increased   $0.1 million   and gross margin percentage increased by   10.0   percent compared with the same period last year due to production cost improvements, price optimization programs implemented by the new management team and product mix changes. 
+  Gross profit for the nine months ended   September 30, 2016   decreased   $3.7 million   as a result of the declines in revenue. Gross margin percentage increased by   5.4   percent compared with the same period last year due to the same reasons for the three months ended   September 30, 2016  . 
+   Selling, General and Administrative ("SG A") 
+
+SG A expense decreased for the three months ended   September 30, 2016   by   $7.0 million   (or   44.6 percent  ) compared with the same period last year primarily due to significant Nexsan and corporate cost reductions of $2.9 million and $4.1 million, respectively.  These cost reductions were realized primarily as the result of the strategic decision to discontinue Nexsan operations in underperforming regions and other personnel cost reductions. The corporate cost reductions relate to significant reductions in corporate headcount, IT spending and facility costs. The Company now maintains a small team at its headquarters in Minnesota. 
+  SG A expense decreased for the nine months ended   September 30, 2016   by   $22.0 million   compared with the same period last year primarily due to significant Nexsan and corporate cost reductions of $10.5 million and $11.5 million, respectively. Nexsan and corporate reductions relate to the same reasons described above. 
+  Research and Development ("R D") 
+
+24 
+
+     Table of Contents  
+
+R D expense was the same for the three months ended   September 30, 2016   compared with the same period last year. The R D investment was primarily related to the Nexsan Unity product. 
+  R D expense increased by   $0.7 million   for the nine months ended   September 30, 2016   compared with the same period last year due to investment in the refreshed E-Series product and the creation of Unity. 
+    
+  Restructuring and Other  
+
+For the three months ended   September 30, 2016  , the $  1.3 million   of restructuring and other charges includes severance expense of $0.4 million, consulting fees and other employee costs of $0.6 million and pension settlement charges of $0.3 million. Compared to the same period last year, restructuring and other charges decreased by $31.7 million.  The decrease is due to an asset disposal of $25.1 million in the third quarter of 2015, lower severance charges of $5.6 million, reduced consulting fees of $0.3 million and lower pension settlement costs of $0.7 million. 
+  For the nine months ended   September 30, 2016  , the   $7.1 million    of restructuring and other charges includes severance expense of $0.4 million, consulting fees and other employee costs of $5.9 million, pension settlement charges of $2.6 million, asset disposal charges of $0.1 million, and a net property tax refund of $1.9 million for the former Oakdale site. Compared to the same period last year, restructuring and other charges decreased by $27.4 million.  The decrease is due to lower asset disposal charges of $25.0 million, lower severance charges of $5.7 million, increased pension settlement costs of $1.6 million, increased other employee costs and consulting fees of $3.6 million, and a net credit of $1.9 million for a property tax refund for the former Oakdale site. 
+  See Note 7 -   Restructuring and Other Expense   in our Notes to Condensed Consolidated Financial Statements for further details on our restructuring and other expense. 
+     Operating Loss from Continuing Operations 
+
+Operating loss from continuing operations decreased by   $96.6 million   for the three months ended   September 30, 2016   compared with the same period last year primarily due to charges incurred in connection with the intangible and goodwill write-off and asset disposal charges in the third quarter of 2015 and Nexsan and corporate cost reductions. 
+  Operating loss from continuing operations decreased by   $102.8 million   for the   nine   months ended   September 30, 2016   compared with the same period last year primarily due to the same reasons for the three months ended September 30, 2016.  
+  
+    25 
+
+     Table of Contents  
+
+Other (Income) Expense 
+
+"NM"   -   Indicates the Percent Change is not meaningful 
+  Other expense for the three months ended   September 30, 2016   decreased by   $0.7 million   compared with the same period last year. The decrease was primarily due to the elimination of interest cost related to the previous credit facility. 
+  Other expense for the   nine   months ended   September 30, 2016   decreased by   $1.0 million   compared with the same period last year. The decrease was primarily due to the elimination of interest cost related to the previous credit facility and losses on short-term investments. 
+  Income Tax Provision (Benefit) 
+
+"NM  "   - Indicated the Percent Change is not meaningful 
+  The income tax provision for the three and nine months ended   September 30, 2016   is primarily related to the intraperiod allocation of total tax expense between continuing operations and discontinued operations. The effective income tax rate for the three and nine months ended   September 30, 2016   differs from the U.S. federal statutory rate of 35 percent primarily due to a valuation allowance on various deferred tax assets and the intraperiod allocation of total tax expense between continuing operations and discontinued operations. 
+  
+    26 
+
+     Table of Contents  
+
+Income (Loss) from Discontinued Operations 
+
+Discontinued operations comprise results from our former Legacy Businesses and IronKey segments. For the three months ended   September 30, 2016  , the Company had a gain of   $0.2 million   primarily due to the reversal of previously accrued liabilities. The loss for the   nine   months ended   September 30, 2016   was   $75.6 million  , primarily due to the release of cumulative translation adjustments. See Note 4 -   Discontinued Operations   in our Notes to Condensed Consolidated Financial Statements for more information on our discontinued operations. 
+  Segment Results 
+  Nexsan was the only business segment in the three months ended   September 30, 2016  . The previous Legacy Businesses  and IronKey segments were reported within discontinued operations. 
+  We evaluate segment performance based on revenue and operating income (loss). The operating income (loss) reported in our segments excludes corporate and other unallocated amounts. Although such amounts are excluded from the business segment results, they are included in reported consolidated results. Corporate and unallocated amounts may include depreciation and amortization, litigation settlement expense, goodwill impairment, intangible impairments, corporate expense, inventory write-offs related to our restructuring programs and restructuring and other expenses which are not allocated to the segments. 
+  Information related to our segments is as follows: 
+         Nexsan   
+
+  Nexsan revenue decreased by   20.7 percent   and   30.4 percent   for the three and   nine   months ended   September 30, 2016  , respectively, compared with the same periods last year. This was due to the strategic decision to exit underperforming regions and low-margin portions of the business. 
+  The operating loss decreased by $3.0 million for the three months ended   September 30, 2016   and $6.1 million for the   nine   months ended   September 30, 2016   compared with the same periods last year driven primarily by operating expense reductions and improved gross margin percentages due to production cost improvements, price optimization programs implemented by the new management team and product mix changes. 
+  
+    27 
+
+     Table of Contents  
+
+Corporate and Unallocated 
+
+For the three months ended September 2016, corporate and unallocated operating loss consists of $2.1 million of corporate charges and $1.3 million of restructuring and other charges. Costs decreased by $93.6 million due to lower corporate spending of $4.1 million, and lower restructuring and other charges of $92.1 million primarily due to charges incurred in connection with the intangible and goodwill write-off and asset disposal charges in the third quarter of 2015. 
+  For the nine months ended September 2016, corporate and unallocated operating loss consists of $8.5 million of corporate charges and $7.1 million of restructuring and other charges. Costs decreased by $96.7 million due to lower corporate spending of $11.5 million, and lower restructuring and other charges of $85.2 million primarily due to charges incurred in connection with the intangible and goodwill write-off and asset disposal charges in the third quarter of 2015. 
+  Impact of Changes in Foreign Currency Rates 
+  The impact of changes in foreign currency exchange rates to worldwide revenue was immaterial for the three and   nine   months ended   September 30, 2016  , respectively. 
+  Financial Position 
+  Our cash and cash equivalents balance as of   September 30, 2016   was $  11.9 million   compared to $  70.4 million   as of   December 31, 2015  . In addition, we had $34.8 million invested in the Clinton Lighthouse, a short term investment that has daily liquidity and $2.9 million in other short-term investments. 
+  Our accounts receivable balance as of   September 30, 2016   was   $7.7 million  , a decrease of   $2.1 million   from   $9.8 million   as of   December 31, 2015   as a result of sales declines. Days sales outstanding ("DSO") was   45 days   as of   September 30, 2016  , up 13 days from   December 31, 2015  , primarily due to the timing of customer payments. DSO is calculated using the count-back method, which calculates the number of days of most recent revenue that is reflected in the net accounts receivable balance.  
+  Our inventory balance as of   September 30, 2016   was   $4.6 million  , a decrease of   $3.5 million   from   $8.1 million   as of   December 31, 2015   as a result of inventory management improvements and sales declines. Days of inventory supply was     93 days   as of   September 30, 2016  , and down 39 days from   December 31, 2015  , primarily due to improved inventory management. Days of inventory supply is calculated using the current period inventory balance divided by an estimate of the inventoriable portion of cost of goods sold expressed in days. 
+  Our accounts payable balance as of September 30, 2016 was   $7.7 million  , an increase of   $2.7 million   from   $5.0 million   as of December 31, 2015. The increase in accounts payable was mainly due to the seasonal timing of payments.  
+  Our other current liabilities balance as of   September 30, 2016   was   $18.3 million   compared to   $30.5 million   as of   December 31, 2015  . The decrease of   $12.2 million   was mainly due to the payment of severances and accrued restructuring expenses. 
+  
+    28 
+
+     Table of Contents  
+
+Liquidity and Capital Resources 
+  Cash Flows Used in Operating Activities: 
+
+Cash used in operating activities was   $83.1 million   for the   nine   months ended   September 30, 2016   reflecting negative earnings and our investment of $34.8 million in Clinton Lighthouse and $2.9 million in other short term investments as well as the payments for accrued severance and restructuring. Cash used in operating activities was   $14.7 million   for the   nine   months ended   September 30, 2015   reflecting our investment in the Nexsan business and working capital changes. 
+  Cash Flows Used in Investing Activities: 
+
+Cash flows from investing activities for the   nine   months ended   September 30, 2016   included the sale of the Company's Oakdale, Minnesota facility, Memorex brand and IronKey businesses. Cash used in investing activities for the   nine   months ended   September 30, 2015   included capital expenditures of   $2.8 million   in Nexsan and corporate, partially offset by proceeds from the sale of our discontinued businesses.  
+  Cash Flows Used in Financing Activities: 
+
+Our liquidity needs for the remaining three months of 2016 include the following: investment in the Nexsan business ($3.0 to $4.0 million), corporate expense ($2.0 to $3.0 million) as well as supplier payments. We anticipate that cash and cash equivalents will provide liquidity sufficient to meet these needs and for our operations. 
+  
+    29 
+
+     Table of Contents  
+
+We also expect to use cash and cash equivalents in connection with alternative investment opportunities that we may undertake as part of our strategic plan to use excess capital. We may also raise additional capital through the issuance of equity, debt or both, to fund such acquisitions. There is no assurance, however, that such capital will be available when needed, in the amounts necessary or on terms satisfactory to us. 
+  Contractual Obligations 
+  As of   September 30, 2016  , there have been no material changes to our contractual obligations as presented in our Annual Report on Form 10-K for the year ended December 31, 2015.  
+  Copyright Levies  
+  See Note 15 -   Litigation, Commitments and Contingencies   in our Notes to Condensed Consolidated Financial Statements in Part I, Item 1 herein for further information. 
+  Short Term Investment 
+  See Note 12 -   Short Term Investment   in our Notes to Condensed Consolidated Financial Statements in Part I, Item 1 herein for further information. 
+  Critical Accounting Policies and Estimates 
+  A discussion of the Company s critical accounting policies was provided in Item 7 in our Annual Report on Form 10-K for the fiscal year ended   December 31, 2015  .  
+  Recent Accounting Pronouncements 
+  See Note 2 -   Recently Issued or Adopted Accounting Pronouncements   in our Notes to Condensed Consolidated Financial Statements in Part I, Item 1 herein for further information. 
+  Forward-Looking Statements and Risk Factors 
+  We may from time to time make written or oral forward-looking statements with respect to our future goals, including statements contained in this Form 10-Q, in our other filings with the SEC and in our reports to shareholders. 
+  Certain information which does not relate to historical financial information may be deemed to constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such forward-looking statements include information concerning strategic initiatives and potential acquisitions, the results of operations of our existing business lines and our ability to implement our restructuring plans, as well as other actions, strategies and expectations, and are identifiable by use of the words  believes,   expects,   intends,   anticipates,   plans,   seeks,   estimates,   projects,   may,   will,   could,   might,  or  continues  or similar expressions. Such statements are subject to a wide range of risks and uncertainties that could cause our actual results in the future to differ materially from our historical results and those presently anticipated or projected. We wish to caution investors not to place undue reliance on any such forward-looking statements. Any forward-looking statements speak only as of the date on which such statements are made, and we undertake no obligation to update such statements to reflect events or circumstances arising after such date. Risk factors include various factors set forth from time to time in our filings with the SEC including the following: our ability to successfully implement our strategy for our existing business as well as other lines of business that we may pursue; our ability to grow our business in new products with profitable margins and the rate of revenue decline for certain existing products; our ability to meet future revenue growth, gross margin and earnings targets; the ability to quickly develop, source, introduce and deliver differentiated and innovative products; the ability of the Clinton Lighthouse investment to generate positive returns: our potential dependence on third parties for new product introductions or technologies in order to introduce our own new products; our ability to successfully implement restructuring plans; continuing uncertainty in global and regional economic conditions; our ability to identify, value, integrate and realize the expected benefits from any acquisition which has occurred or may occur in connection with our strategy; the possibility that our goodwill and intangible assets or any goodwill or intangible assets that we acquire may become impaired; the ability of our security products to withstand cyber-attacks; the loss of a major customer, partner or reseller; changes in European law or practice related to the imposition or collectability of optical levies; the seasonality and volatility of the markets in which we operate; significant changes in discount rates and other assumptions used in the valuation of our pension plans; changes in tax laws, regulations and results of inspections by various tax authorities; our ability to successfully defend our intellectual property rights and the ability or willingness of our suppliers to provide adequate protection against third party intellectual property or product liability claims; the outcome of any pending or future litigation and patent disputes; our ability to access financing to achieve strategic objectives and growth due to changes in the capital and credit markets; our ability to retain and attract key employees to manage our existing businesses and the businesses we may acquire; increased compliance with changing laws and regulations potentially affecting our operating results; failure to adequately protect our information systems from cyber-attacks; the effect of the announcement of our review of strategic alternatives; the effect of the transition of our Board of Directors; and the volatility of our stock price due to our results or  
+  
+    30 
+
+     Table of Contents  
+
+market trends, the ability to meet the continued listing requirements of the NYSE; the implementation of new systems and enhancements which may be disruptive and could impact our ability to accurately report our financial results; the effect of decreasing revenues and greater losses in our Nexsan business as well as various factors set forth in Item 1A of our Annual Report on Form 10-K for the year ended   December 31, 2015  , and from time to time in Part II Item 1A of our Quarterly Reports on Form 10-Q and our other filings with the SEC.  
+   
+  Item 3.   Quantitative and Qualitative Disclosures about Market Risk  . 
+    
+  There has been no material change since our Annual Report on Form 10-K for the year ended   December 31, 2015  . For further information, see Item 7A. Quantitative and Qualitative Disclosures about Market Risk included in our Annual Report on Form 10-K for the year ended   December 31, 2015   as filed with the U.S. Securities and Exchange Commission on March 15, 2016. 
+
+Item 4.   Controls and Procedures  . 
+    
+  Evaluation of Disclosure Controls and Procedures 
+  Based on an evaluation of our disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (Exchange Act)) as of   September 30, 2016  , the end of the period covered by this report, the Interim Chief Executive Officer, Robert B. Fernander, and the Vice President and Chief Financial Officer, Danny Zheng, have concluded that the disclosure controls and procedures were effective. 
+  Changes in Internal Control Over Financial Reporting 
+  Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rules 13a-15(f) and 15d-15(f). Under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting as of   September 30, 2016   based on the guidelines established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO 2013). Our internal control over financial reporting includes policies and procedures that provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external reporting purposes in accordance with U.S. generally accepted accounting principles. During the quarter ended   September 30, 2016  , Management concluded there was no change in our internal control over financial reporting (as defined in Rule 13a-15(f) and 15d-15(e) under the Exchange Act) that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+  
+    31 
+
+Table of Contents  
+
+PART II. OTHER INFORMATION 
+   
+  Item 1.   Legal Proceedings  .  
+    
+  The Company is subject to various pending or threatened lawsuits, claims and other legal matters that arise in the ordinary course of conducting business. All such matters involve uncertainty and accordingly, outcomes that cannot be predicted with assurance. It is reasonably possible that the ultimate resolution of these matters, individually or in the aggregate, could materially affect our financial condition, results of operations and cash flows.  
+  The Company is subject to allegations of patent infringement by our competitors as well as by non-practicing entities, sometimes referred to as  patent trolls,  who may seek monetary settlements from us, our competitors, suppliers and resellers. The nature of such litigation is complex and unpredictable and, consequently, as of   September 30, 2016  , the Company is unable to reasonably estimate the amount of any monetary liability or financial impact that we may incur with respect to these matters. It is reasonably possible that the resolution of these matters could materially affect our financial condition, results of operations and cash flows. 
+  In the normal course of business, we periodically enter into agreements that incorporate general indemnification language. Performance of these indemnification obligations would generally be triggered by a breach of terms of the contract or by a third-party claim. There have historically been no material losses related to such indemnifications obligations. In accordance with accounting principles generally accepted in the United States of America, we record a liability in our Condensed Consolidated Financial Statements for these actions when a loss is known or considered probable and the amount can be reasonably estimated. 
+  See Note 15 -   Litigation, Commitments and Contingencies   in our Notes to Condensed Consolidated Financial Statements in Part I, Item 1 herein for information on Copyright Levies. 
+   
+  Item 1A.   Risk Factors  .  
+  There were no changes on the Risk Factors from our last Annual Report 10-K. For further information on other risk factors, see Item 1A.    Risk Factors    included in our Annual Report on Form 10-K for the fiscal year ended   December 31, 2015   as filed with the U.S. Securities and Exchange Commission on March 15, 2016. 
+   
+  Item 2.   Unregistered Sales of Equity Securities and Use of Proceeds. 
+   Not Applicable 
+   
+  Item 3.   Defaults Upon Senior Securities  . 
+   Not Applicable 
+   
+  Item 4.   Mine Safety Disclosures. 
+  Not Applicable 
+   
+  Item 5.   Other Information. 
+   Effective September 8, 2016, Barry L. Kasoff resigned as the Chief Restructuring Officer of the Company. Mr. Kasoff will continue to serve as a member of the Board. 
+  
+    32 
+
+Table of Contents  
+
+Item 6.   Exhibits. 
+   The following documents are filed as part of, or incorporated by reference into, this report: 
+
+33 
+
+Table of Contents  
+
+SIGNATURE 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+Imation Corp. 
+      Date: 
+    November 8, 2016 
+      
+    /s/ Danny Zheng 
+
+Danny Zheng 
+
+Vice President and Chief Financial Officer 
+  (duly authorized officer and principal financial officer) 
+
+34 
+
+Table of Contents  
+
+EXHIBIT INDEX 
+  The following exhibits are filed as part of this report: 
+
+35 
+
+<EX-31.1>
+ 2
+ imn09302016ex311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1    
+  Certification Pursuant to Section 302 
+  of the Sarbanes-Oxley Act of 2002    
+       I, Robert B. Fernander, certify that:  
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Imation Corp.; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a -15(e) and 15d -15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a -15(f) and 15d -15(f)) for the registrant and have: 
+       
+           (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           (c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           (d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+       
+           5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+       
+           (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+       
+           (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting.  
+
+November 8, 2016 
+
+By:   
+    /s/ ROBERT B. FERNANDER  
+
+Robert B. Fernander,  
+
+Interim Chief Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ imn09302016ex312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2    
+  Certification Pursuant to Section 302 
+  of the Sarbanes-Oxley Act of 2002    
+       I, Danny Zheng, certify that:  
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Imation Corp.; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a -15(e) and 15d -15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a -15(f) and 15d -15(f)) for the registrant and have: 
+       
+           (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           (c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           (d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and  
+       
+           5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions):  
+       
+           (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+       
+           (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting.  
+
+November 8, 2016 
+
+By:   
+    /s/ DANNY ZHENG 
+
+Danny Zheng,  
+
+Vice President and Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ imn09302016ex321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1    
+  Certification Pursuant to 
+  Section 906 of the Sarbanes-Oxley Act of 2002    
+    
+       In connection with the Quarterly Report of Imation Corp. (the  Company ) on Form 10-Q for the period ended   September 30, 2016  , as filed with the Securities and Exchange Commission (the  Report ), I, Robert B. Fernander, Interim Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that:  
+    
+           (1) 
+     The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+       
+           (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.   
+       
+                 November 8, 2016 
+
+/s/ ROBERT B. FERNANDER   
+      
+      Robert B. Fernander,  
+      
+      Interim Chief Executive Officer  
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ imn09302016ex322.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2    
+  Certification Pursuant to 
+  Section 906 of the Sarbanes-Oxley Act of 2002    
+    
+       In connection with the Quarterly Report of Imation Corp. (the  Company ) on Form 10-Q for the period ended   September 30, 2016  , as filed with the Securities and Exchange Commission (the  Report ), I, Danny Zheng, Vice President and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that:  
+    
+           (1) 
+    The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+       
+           (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.  
+
+November 8, 2016 
+
+/s/ DANNY ZHENG 
+      
+      Danny Zheng,  
+      
+      Vice President and Chief Financial Officer  
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ imn-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ imn-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ imn-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ imn-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ imn-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ imn-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

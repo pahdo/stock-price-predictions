@@ -1,0 +1,723 @@
+<Header>
+<FileStats>
+    <FileName>20161107_10-Q_edgar_data_12400_0000012400-16-000024_1.txt</FileName>
+    <GrossFileSize>3186248</GrossFileSize>
+    <NetFileSize>44030</NetFileSize>
+    <ASCII_Embedded_Chars>180782</ASCII_Embedded_Chars>
+    <HTML_Chars>1091116</HTML_Chars>
+    <XBRL_Chars>1316240</XBRL_Chars>
+    <XML_Chars>478474</XML_Chars>
+    <N_Tables>39</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000012400-16-000024.hdr.sgml : 20161107
+<ACCEPTANCE-DATETIME>20161104174223
+ACCESSION NUMBER:		0000012400-16-000024
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		43
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161107
+DATE AS OF CHANGE:		20161104
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BLACK HILLS POWER INC
+		CENTRAL INDEX KEY:			0000012400
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				460111677
+		STATE OF INCORPORATION:			SD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07978
+		FILM NUMBER:		161976121
+
+	BUSINESS ADDRESS:	
+		STREET 1:		625 NINTH ST
+		STREET 2:		PO BOX 1400
+		CITY:			RAPID CITY
+		STATE:			SD
+		ZIP:			57709
+		BUSINESS PHONE:		6053481700
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 1400
+		CITY:			RAPID CITY
+		STATE:			SD
+		ZIP:			57709
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BLACK HILLS CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BLACK HILLS POWER & LIGHT CO
+		DATE OF NAME CHANGE:	19860409
+
+</SEC-Header>
+</Header>
+
+ 0000012400-16-000024.txt : 20161107
+
+10-Q
+ 1
+ bhp10qq32016.htm
+ 10-Q
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+  Form 10-Q 
+
+Commission File Number 1-7978 
+    
+  Black Hills Power, Inc. 
+
+625 Ninth Street, Rapid City, South Dakota 57701 
+    
+  Registrant s telephone number (605) 721-1700 
+    
+  Former name, former address, and former fiscal year if changed since last report 
+  NONE 
+    
+  Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+                 Yes               x 
+    No       o 
+
+Indicate by check mark whether the Registrant has submitted electronically and posted on its corporate website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the Registrant was required to submit and post such files). 
+                 Yes               x 
+    No       o 
+
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company (as defined in Rule 12b-2 of the Exchange Act). 
+                       Large accelerated filer 
+    o 
+      
+    Accelerated filer 
+    o 
+
+Non-accelerated filer 
+    x 
+      
+    Smaller reporting company 
+    o 
+
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+                 Yes            o    
+    No            x 
+
+As of October 31, 2016, there were issued and outstanding 23,416,396 shares of the Registrant s common stock, $1.00 par value, all of which were held beneficially and of record by Black Hills Corporation. 
+    
+  Reduced Disclosure 
+    
+  The Registrant meets the conditions set forth in General Instruction H (1) (a) and (b) of Form 10-Q and is therefore filing this Form 10-Q with the reduced disclosure format. 
+
+TABLE OF CONTENTS 
+
+2 
+
+GLOSSARY OF TERMS AND ABBREVIATIONS 
+    
+  The following terms and abbreviations appear in the text of this report and have the definitions described below: 
+    
+                 AFUDC 
+    Allowance for Funds Used During Construction 
+      ASC 
+    Accounting Standards Codification 
+      ASU 
+    Accounting Standards Update issued by the FASB 
+      BHC 
+    Black Hills Corporation; the Parent Company 
+      Black Hills Energy 
+    The name used to conduct the business of BHC utility companies 
+      Black Hills Utility Holdings 
+    Black Hills Utility Holdings, Inc. a direct, wholly-owned subsidiary of Black Hills Corporation (doing business as Black Hills Energy) 
+      Black Hills Service Company 
+    Black Hills Service Company, LLC, a direct, wholly-owned subsidiary of BHC 
+      Cheyenne Light 
+    Cheyenne Light, Fuel and Power Company, a direct, wholly-owned subsidiary of Black Hills Corporation (doing business as Black Hills Energy) 
+      Cooling degree day 
+    A cooling degree day is equivalent to each degree that the average of the high and low temperature for a day is above 65 degrees.  The warmer the climate, the greater the number of cooling degree days.  Cooling degree days are used in the utility industry to measure the relative warmth of weather and to compare relative temperatures between one geographic area and another.  Normal degree days are based on the National Weather Service data for selected locations over a 30-year average. 
+      FASB 
+    Financial Accounting Standards Board 
+      FERC 
+    United States Federal Energy Regulatory Commission 
+      Fitch 
+    Fitch Ratings 
+      GAAP 
+    Accounting principles generally accepted in the United States of America 
+      Happy Jack 
+    Happy Jack Wind Farms, LLC, a subsidiary of Duke Energy Generation Services 
+      Heating degree day 
+    A heating degree day is equivalent to each degree that the average of the high and the low temperatures for a day is below 65 degrees.  The colder the climate, the greater the number of heating degree days.  Heating degree days are used in the utility industry to measure the relative coldness of weather and to compare relative temperatures between one geographic area and another.  Normal degree days are based on the National Weather Service data for selected locations over a 30-year average. 
+      kV 
+    Kilovolt 
+      LIBOR 
+    London Interbank Offered Rate 
+      Moody s 
+    Moody s Investors Service, Inc. 
+      MW 
+    Megawatts 
+      MWh 
+    Megawatt-hours 
+      SEC 
+    U. S. Securities and Exchange Commission 
+      Silver Sage 
+    Silver Sage Windpower, LLC, a subsidiary of Duke Energy Generation Services 
+      S P 
+    Standard   Poor s, a division of The McGraw-Hill Companies, Inc. 
+      WPSC 
+    Wyoming Public Service Commission 
+      WRDC 
+    Wyodak Resources Development Corp., an indirect, wholly-owned subsidiary of BHC 
+
+3 
+
+BLACK HILLS POWER, INC. 
+  CONDENSED STATEMENTS OF INCOME AND COMPREHENSIVE INCOME 
+
+The accompanying Notes to Condensed Financial Statements are an integral part of these Condensed Financial Statements. 
+  
+    4 
+
+BLACK HILLS POWER, INC. 
+  CONDENSED BALANCE SHEETS 
+
+The accompanying Notes to Condensed Financial Statements are an integral part of these Condensed Financial Statements. 
+  
+    5 
+
+BLACK HILLS POWER, INC. 
+  CONDENSED BALANCE SHEETS 
+
+The accompanying Notes to Condensed Financial Statements are an integral part of these Condensed Financial Statements. 
+
+6 
+
+BLACK HILLS POWER, INC. 
+  CONDENSED STATEMENTS OF CASH FLOWS 
+
+See Note   7   for supplemental cash flow information. 
+    
+  The accompanying Notes to Condensed Financial Statements are an integral part of these Condensed Financial Statements. 
+  
+    7 
+
+BLACK HILLS POWER, INC. 
+    
+  Notes to Condensed Financial Statements 
+  (unaudited) 
+  (Reference is made to Notes to Financial Statements 
+  included in our   2015   Annual Report on Form 10-K) 
+
+(  1  )    MANAGEMENT S STATEMENT 
+    
+  The unaudited condensed financial statements included herein have been prepared by Black Hills Power, Inc. (the  Company,   we,   us,  or  our ), pursuant to the rules and regulations of the SEC.  Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America have been condensed or omitted pursuant to such rules and regulations; however, we believe that the footnotes adequately disclose the information presented.  These condensed financial statements should be read in conjunction with the financial statements and the notes thereto, included in our   2015   Annual Report on Form 10-K filed with the SEC. 
+    
+  Accounting methods historically employed require certain estimates as of interim dates.  The information furnished in the accompanying condensed financial statements reflects all adjustments, including accruals, which are, in the opinion of management, necessary for a fair presentation of the   September 30, 2016  ,   December 31, 2015   and   September 30, 2015   financial information and are of a normal recurring nature.  The results of operations for the   three   and   nine   months ended   September 30, 2016   and   September 30, 2015  , and our financial condition as of   September 30, 2016   and   December 31, 2015   are not necessarily indicative of the results of operations and financial condition to be expected as of or for any other period. 
+    
+  Recently Issued and Adopted Accounting Standards 
+    
+  Statement of Cash Flows: Classification of Certain Cash Receipts and Cash Payments, ASU 2016-15 
+    
+  In August 2016, the FASB issued ASU 2016-15,   Statement of Cash Flows (Topic 230):  Classification of Certain Cash Receipts and Cash Payments (a consensus of the Emerging Issues Task Force).    This ASU requires changes in the presentation of certain items including but not limited to debt prepayment or debt extinguishment costs; contingent consideration payments made after a business combination; proceeds from the settlement of insurance claims; proceeds from the settlement of corporate-owned life insurance policies and distributions received from equity method investees.  The ASU will be effective for fiscal years beginning after December 15  , 2017.      We are currently assessing the impact that adoption of ASU 2016-15 will have on our financial position, results of operations and cash flows. 
+    
+  Leases, ASU 2016-02 
+    
+  In February 2016, the FASB issued ASU 2016-02,   Leases   (Topic 842), which supersedes ASC 840,   Leases  .  This ASU requires lessees to recognize a right-of-use asset and lease liability for all leases with terms of more than 12 months.  Lessees are permitted to make an accounting policy election to not recognize the asset and liability for leases with a term of 12 months or less.  The ASU does not significantly change the lessees  recognition, measurement and presentation of expenses and cash flows from the previous accounting standard.  Lessors  accounting under the ASC is largely unchanged from the previous accounting standard.  In addition, the ASU expands the disclosure requirements of lease arrangements.  Lessees and lessors will use a modified retrospective transition approach, which includes a number of practical expedients.  The guidance is effective for us beginning after December 15, 2018.  Early adoption is permitted.  We are currently assessing the impact that adoption of ASU 2016-02 will have on our financial position, results of operations or cash flows. 
+    
+  Disclosures for Investments in Certain Entities That Calculate Net Asset Value per Share (or its Equivalent), ASU 2015-07 
+    
+  On May 1, 2015, the FASB issued ASU 2015-07,   Disclosures for Investments in Certain Entities That Calculate Net Asset Value per Share (or its Equivalent)  .    This   ASU removes the requirement to categorize within the fair value hierarchy all investments for which fair value is measured using the net asset value per share practical expedient and also removes certain disclosure requirements.  The new requirements were effective for us beginning January 1, 2016 and will be applied     retrospectively to all periods presented, in our 2016 Form 10-K.  This ASU will not materially affect our financial statements and disclosures, but will change certain presentation and disclosure of the fair value of certain plan assets in our pension and other postretirement benefit plan disclosures in our 2016 Form 10-K, for all periods presented. 
+
+8 
+
+Simplifying the Presentation of Debt Issuance Costs, ASU 2015-03 
+    
+  In April 2015, the FASB issued ASU 2015-03,   Simplifying the Presentation of Debt Issuance Costs  .  Debt issuance costs related to a recognized debt liability are presented on the balance sheet as a direct deduction from the debt liability, similar to the presentation of debt discounts, rather than as an asset.  Amortization of these costs will continue to be reported as interest expense.  ASU 2015-03 is effective for annual and interim reporting periods beginning after December 15, 2015.  We adopted ASU 2015-03 in the first quarter of 2016 on a retrospective basis.  As of September 30, 2016, we have presented the debt issuance costs, previously reported in other assets, as direct deductions from the carrying amount of long-term debt.  The implementation of this standard resulted in reductions of other non-current assets and long-term debt of   $3.1 million   in the Condensed Balance Sheets as of December 31, 2015.  Adoption of ASU 2015-03 did not have a material impact on our financial position. 
+    
+  Revenue from Contracts with Customers, ASU 2014-09 
+    
+  In May 2014, the FASB issued ASU 2014-09,   Revenue from Contracts with Customers  .  The standard provides companies with a single model for use in accounting for revenue arising from contracts with customers and supersedes current revenue recognition guidance, including industry-specific revenue guidance.  The core principle of the model is to recognize revenue when control of the goods or services transfers to the customer, as opposed to recognizing revenue when the risks and rewards transfer to the customer under the existing revenue guidance.  On July 9, 2015, FASB voted to defer the effective date of ASU 2014-09 by one year.  The guidance is effective for annual and interim reporting periods beginning after December 15, 2017 and early adoption is permitted.  Entities will have the option of using either a full retrospective or modified retrospective approach to adopting this guidance.  Under the modified approach, an entity would recognize the cumulative effect of initially applying the guidance with an adjustment to the opening balance of retained earnings in the period of adoption.  As of September 30, 2016, we were actively evaluating all of our sources of revenue to determine the impact that adoption of ASU 2014-09 will have on our financial position, results of operations and cash flows. 
+
+(  2  ) 
+    ACCOUNTS RECEIVABLE AND ALLOWANCE FOR DOUBTFUL ACCOUNTS 
+       
+  Following is a summary of Receivables - customers, net included in the accompanying Condensed Balance Sheets (in thousands) as of: 
+
+9 
+
+(  3  ) 
+    REGULATORY ACCOUNTING 
+       
+  Our regulated electric operations are subject to regulation by various state and federal agencies.  The accounting policies followed are generally subject to the Uniform System of Accounts of the FERC. 
+    
+  Our regulatory assets and liabilities were as follows (in thousands) as of: 
+
+____________________ 
+           (a) 
+    Recovery of costs, but we are not allowed a rate of return. 
+              (b) 
+    In addition to recovery of costs, we are allowed a rate of return. 
+              (c) 
+    In addition to recovery or repayment of costs, we are allowed a return on a portion of this amount or a reduction in rate base, respectively. 
+
+(  4  ) 
+    RELATED-PARTY TRANSACTIONS 
+       
+  Receivables and Payables 
+    
+  We have accounts receivable and accounts payable balances related to transactions with other BHC subsidiaries.  The balances were as follows (in thousands) as of: 
+
+Money Pool Notes Receivable and Notes Payable 
+    
+  We have entered into a Utility Money Pool Agreement (the  Agreement ) with BHC, Black Hills Service Company and the utility companies conducting business as Black Hills Energy.  We are the administrator of the Money Pool.  Under the Agreement, we may borrow from BHC; however the Agreement restricts us from loaning funds to BHC or to any of BHC s non-utility subsidiaries.  The Agreement does not restrict us from paying dividends to BHC.  Borrowings and advances under the Agreement bear interest at the weighted average daily cost of our parent company s credit facility borrowings as defined under the Agreement, or if there are no external funds outstanding on that date, then the rate will be the daily one-month LIBOR plus   1.0%  .  At   September 30, 2016  , the average cost of borrowing under the Utility Money Pool was   1.81%  . 
+    
+  We had the following balances with the Utility Money Pool (in thousands) as of: 
+
+10 
+
+Our net interest income (expense) relating to balances with the Utility Money Pool was as follows (in thousands): 
+
+Other related party activity was as follows (in thousands): 
+
+(  5  ) 
+    EMPLOYEE BENEFIT PLANS 
+       
+  Beginning in 2016, we changed the method used to estimate the service and interest cost components of the net periodic pension, supplemental non-qualified defined benefit and other postretirement benefit costs.  The new method uses the spot yield curve approach to estimate the service and interest costs by applying the specific spot rates along the yield curve used to determine the benefit obligations to relevant projected cash outflows.  Previously, those costs were determined using a single weighted-average discount rate.  The change does not affect the measurement of the total benefit obligations as the change in service and interest costs offsets the actuarial gains and losses recorded in other comprehensive income, regulatory assets or regulatory liabilities.  The new method provides a more precise measure of interest and service costs by improving the correlation between the projected benefit cash flows and the discrete spot yield curve rates.  We accounted for this change as a change in estimate prospectively beginning in the first quarter of 2016.  The discount rates used to measure the 2016 service costs are   4.81%  ,   4.88%   and   4.18%   for pension, supplemental non-qualified defined benefit and other postretirement benefit costs, respectively.  The discount rates used to measure the 2016 interest costs are   3.90%  ,   3.82%   and   3.17%   for pension, supplemental non-qualified defined benefit and other postretirement benefit costs, respectively. The previous method would have used a discount rate for both service and interest costs of   4.63%   for pension,   4.50%   for supplemental non-qualified defined benefit and   4.03%   for other postretirement benefit costs.  The decrease in the total 2016 service and interest costs is approximately   $0.5 million  ,   $0.3 million   and   $0.1 million   for the pension, supplemental non-qualified defined benefit and other postretirement benefit costs, respectively, as compared to the previous method. 
+
+11 
+
+The components of net periodic benefit cost for the Defined Benefit Pension Plan were as follows (in thousands): 
+
+Defined Benefit Postretirement Healthcare Plan 
+    
+  The components of net periodic benefit cost for the Defined Benefit Postretirement Healthcare Plan were as follows (in thousands): 
+
+Supplemental Non-qualified Defined Benefit Plans 
+    
+  The components of net periodic benefit cost for the Supplemental Non-qualified Defined Benefit Plans were as follows (in thousands): 
+
+Contributions 
+    
+  We anticipate we will make contributions to the benefit plans during   2016   and   2017  .  Contributions to the Defined Benefit Pension Plan are cash contributions made directly to the Pension Plan Trust accounts.  Contributions to the Healthcare and Supplemental Plans are made in the form of benefit payments.  Contributions and anticipated contributions are as follows (in thousands): 
+
+12 
+
+(  6  ) 
+    FAIR VALUE OF FINANCIAL INSTRUMENTS 
+       
+  Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.  Accounting guidance on fair value measurements establishes a hierarchy for grouping assets and liabilities, based on significance of inputs.  For additional information see Note 1 included in our   2015   Annual Report on Form 10-K filed with the SEC. 
+    
+  The estimated fair values of our financial instruments were as follows (in thousands) as of: 
+
+_________________ 
+           (a) 
+    Carrying value approximates fair value due to either short-term length of maturity or variable interest rates that approximate prevailing market rates and therefore is classified in Level 1 in the fair value hierarchy. 
+              (b) 
+    Long-term debt is valued using the market approach based on observable inputs of quoted market prices and yields available for debt instruments either directly or indirectly for similar maturities and debt ratings in active markets and therefore is classified in Level 2 in the fair value hierarchy.  The carrying amount of our variable rate debt approximates fair value due to the variable interest rates with short reset periods. 
+
+(  7  ) 
+    SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION 
+
+(  8  ) 
+    COMMITMENTS AND CONTINGENCIES 
+       
+  There have been no significant changes to commitments and contingencies from those previously disclosed in Note 11 of our Notes to the Financial Statements in our   2015   Annual Report on Form 10-K. 
+
+13 
+
+ITEM 2.        MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND 
+  RESULTS OF OPERATIONS 
+
+Amounts are presented on a pre-tax basis unless otherwise indicated. 
+  Minor differences in amounts may result due to rounding. 
+    
+  Significant Events 
+    
+  Name Rebranding 
+    
+  We now operate with the trade name Black Hills Energy.  BHC rebranded all of its regulated utilities to operate under the name Black Hills Energy. 
+    
+  Regulatory Matters 
+    
+  During the first quarter of 2016, we commenced construction of the $54 million, 230-kV, 144 mile-long transmission line that will connect the Teckla Substation in northeast Wyoming, to the Lange Substation near Rapid City, South Dakota.  The first segment of this project connecting Teckla to Osage, WY was energized on August 31, 2016.  The second segment of the project is expected to be placed in service in the first half of 2017. 
+
+Results of Operations 
+    
+  The following discussion includes financial information prepared in accordance with GAAP, as well as another financial measure, gross margin, that is considered a  non-GAAP financial measure.   Generally, a non-GAAP financial measure is a numerical measure of a company s financial performance, financial position or cash flows that excludes (or includes) amounts that are included in (or excluded from) the most directly comparable measure calculated and presented in accordance with GAAP.  Gross margin (revenue less cost of sales) is a non-GAAP financial measure due to the exclusion of depreciation from the measure.  The presentation of gross margin is intended to supplement investors  understanding of our operating performance. 
+    
+  Gross margin is calculated as operating revenue less cost of fuel and purchased power.  Our gross margin is impacted by the fluctuations in power purchases, natural gas and other fuel supply costs.  However, while these fluctuating costs impact gross margin as a percentage of revenue, they only impact total gross margin if the costs cannot be passed through to our customers. 
+    
+  Our gross margin measure may not be comparable to other companies  gross margin measure.  Furthermore, this measure is not intended to replace operating income as determined in accordance with GAAP as an indicator of operating performance. 
+    
+  The following tables provide certain financial information and operating statistics: 
+
+14 
+
+____________________ 
+           (a) 
+    Decrease is primarily due to a planned outage at Wygen III and an extended planned outage at Wyodak for the nine months ended September 30, 2016. 
+
+15 
+
+____________________ 
+           (a) 
+    Decrease is primarily due to a planned outage at Wygen III and an extended planned outage at Wyodak during the nine months ended September 30, 2016. 
+
+Three Months Ended September 30, 2016   Compared to   Three Months Ended September 30, 2015  .    Net income was   $12 million   compared to   $12 million   for the same period in the prior year primarily due to the following: 
+    
+  Gross margin     decreased   primarily due to lower retail volumes and the impact of a decrease in cooling degree days compared to the same period in the prior year. 
+    
+  Operations and maintenance     decreased   primarily due to lower employee costs driven by a change in operating expense allocations impacting us as a result of our Parent Company integrating the acquired SourceGas utilities and lower generation and outside services, partially offset by higher depreciation expense driven by additional plant in service compared to the same period in the prior year. 
+    
+  Interest expense, net   decreased primarily due to higher AFUDC income in the current year driven by higher construction work-in-process balances compared to the same period in the prior year. 
+    
+  Other income, net   was comparable to the same period in the prior year. 
+    
+  Income tax expense  :  The effective tax rate was comparable to the same period in the prior year. 
+
+16 
+
+Nine Months Ended September 30, 2016   Compared to   Nine Months Ended September 30, 2015  .    Net income was   $33 million   compared to   $33 million   for the same period in the prior year primarily due to the following: 
+    
+  Gross margin     decreased   primarily due to a prior year increase in return on invested capital of $1.2 million from a rate case, a $1.8 million decrease due to third party billing true-ups related to the current and prior years and a decrease in commercial MW sold driven by lower demand, partially offset by the weather impact from the increase in cooling degree days compared to the same period in the prior year. 
+    
+  Operations and maintenance     decreased   primarily due to lower employee costs driven by a change in operating expense allocations impacting us as a result of our Parent Company integrating the acquired SourceGas utilities, partially offset by higher depreciation expense driven by additional plant in service compared to the same period in the prior year. 
+    
+  Interest expense, net   decreased primarily due to higher AFUDC income in the current year driven by higher construction work-in-process balances compared to the same period in the prior year. 
+    
+  Other income, net   was comparable to the same period in the prior year. 
+    
+  Income tax expense  :  The effective tax rate was comparable to the same period in the prior year. 
+
+Credit Ratings 
+    
+  Credit ratings impact our ability to obtain short and long-term financing, the cost of such financing, and vendor payment terms, including collateral requirements.  The following table represents our secured credit rating from each agency s review which was in effect at   September 30, 2016  : 
+                 Rating Agency 
+    Secured Rating 
+      S P 
+    A- 
+      Moody s 
+    A1 
+      Fitch  
+    A 
+
+17 
+
+FORWARD-LOOKING INFORMATION 
+    
+  This Quarterly Report on Form 10-Q contains forward-looking statements as defined by the SEC.  Forward-looking statements are all statements other than statements of historical fact, including without limitation those statements that are identified by the words  anticipates ,  estimates ,  expects ,  intends ,  plans ,  predicts  and similar expressions, and include statements concerning plans, objectives, goals, strategies, future events or performance, and underlying assumptions and other statements that are other than statements of historical facts.  From time to time, the Company may publish or otherwise make available forward-looking statements of this nature, including statements contained within Item 2 - Management s Discussion   Analysis of Financial Condition and Results of Operations. 
+    
+  Forward-looking statements involve risks and uncertainties, which could cause actual results or outcomes to differ materially from those expressed.  The Company s expectations, beliefs and projections are expressed in good faith and are believed by the Company to have a reasonable basis, including without limitation, management s examination of historical operating trends, data contained in the Company s records and other data available from third parties.  Nonetheless, the Company s expectations, beliefs or projections may not be achieved or accomplished. 
+    
+  Any forward-looking statement contained in this document speaks only as of the date on which the statement is made, and the Company undertakes no obligation to update any forward-looking statement or statements to reflect events or circumstances that occur after the date on which the statement is made or to reflect the occurrence of unanticipated events.  New factors emerge from time to time, and it is not possible for management to predict all of the factors, nor can it assess the effect of each factor on the Company s business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statement.  All forward-looking statements, whether written or oral and whether made by or on behalf of the Company, are expressly qualified by the risk factors and cautionary statements described in Item 1A of our   2015   Annual Report on Form 10-K, including statements contained within Item 1A - Risk Factors and Part II, Item 1A of this Quarterly Report on Form 10-Q. 
+
+ITEM 4. 
+    CONTROLS AND PROCEDURES 
+       
+  This section should be read in conjunction with Item 9A,  Controls and Procedures  included in our Annual Report on Form 10-K for the year ended December 31,   2015  . 
+    
+  Our Chief Executive Officer and Chief Financial Officer evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934) as of   September 30, 2016  .  Based on their evaluation, they have concluded that our disclosure controls and procedures were effective as of   September 30, 2016  . 
+    
+  Our disclosure controls and procedures are designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Security Exchange Act of 1934, as amended, is recorded, processed, summarized and reported, within the time periods specified in the Commission s rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. 
+    
+  Changes in Internal Control over Financial Reporting 
+    
+  During the quarter ended   September 30, 2016  , there have been no changes in our internal control over financial reporting that have materially affected or are reasonably likely to materially affect our internal control over financial reporting. 
+
+18 
+
+BLACK HILLS POWER, INC. 
+    
+  Part II - Other Information 
+
+Item 1. 
+    Legal Proceedings 
+       
+  For information regarding legal proceedings, see Note 11 of Notes to Financial Statements in Item 8 of our   2015   Annual Report on Form 10-K and Note   8   of our Notes to Condensed Financial Statements in this Quarterly Report on Form 10-Q, which information from Note   8   is incorporated by reference into this item. 
+
+Item 1A. 
+    Risk Factors 
+       
+  There are no material changes to the Risk Factors previously disclosed in Item 1A of Part I in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+
+Item 6. 
+    Exhibits 
+
+Exhibit 4.1* 
+    Restated and Amended Indenture of Mortgage and Deed of Trust of Black Hills Corporation (now called Black Hills Power, Inc.) dated as of September 1, 1999 (filed as Exhibit 4.19 to the Registrant s Post-Effective Amendment No. 1 to the Registrant s Registration Statement on Form S-3 (No. 333-150669-01)). First Supplemental Indenture, dated as of August 13, 2002, between Black Hills Power, Inc. and The Bank of New York Mellon (as successor to J.P. Morgan Chase Bank), as Trustee (filed as Exhibit 4.20 to the Registrant s Post-Effective Amendment No. 1 to the Registrant s Registration Statement on Form S-3 (No. 333-150669-01)). Second Supplemental Indenture, dated as of October 27, 2009, between Black Hills Power, Inc. and The Bank of New York Mellon (filed as Exhibit 4.21 to the Registration Statement on Form S-3 (No. 333-150669-01)). Third Supplemental Indenture, dated as of October 1, 2014, between Black Hills Power, Inc. and The Bank of New York Mellon (filed as Exhibit 10.1 to the Registrant s Form 8-K filed on October 2, 2014). 
+
+Exhibit 101 
+    Financial Statements for XBRL Format 
+     _________________________ 
+           * 
+    Previously filed as part of the filing indicated and incorporated by reference herein. 
+
+19 
+
+BLACK HILLS POWER, INC. 
+    
+  Signatures 
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+    
+  BLACK HILLS POWER, INC. 
+
+/S/ DAVID R. EMERY                                           
+  David R. Emery, Chairman 
+  and Chief Executive Officer 
+
+/S/ RICHARD W. KINZLEY                                 
+  Richard W. Kinzley, Senior Vice President 
+  and Chief Financial Officer 
+    
+  Dated:    November 4, 2016 
+
+20 
+
+EXHIBIT INDEX 
+
+Exhibit Number 
+    Description 
+
+Exhibit 4.1* 
+    Restated and Amended Indenture of Mortgage and Deed of Trust of Black Hills Corporation (now called Black Hills Power, Inc.) dated as of September 1, 1999 (filed as Exhibit 4.19 to the Registrant s Post-Effective Amendment No. 1 to the Registrant s Registration Statement on Form S-3 (No. 333-150669-01)). First Supplemental Indenture, dated as of August 13, 2002, between Black Hills Power, Inc. and The Bank of New York Mellon (as successor to J.P. Morgan Chase Bank), as Trustee (filed as Exhibit 4.20 to the Registrant s Post-Effective Amendment No. 1 to the Registrant s Registration Statement on Form S-3 (No. 333-150669-01)). Second Supplemental Indenture, dated as of October 27, 2009, between Black Hills Power, Inc. and The Bank of New York Mellon (filed as Exhibit 4.21 to the Registration Statement on Form S-3 (No. 333-150669-01)). Third Supplemental Indenture, dated as of October 1, 2014, between Black Hills Power, Inc. and The Bank of New York Mellon (filed as Exhibit 10.1 to the Registrant s Form 8-K filed on October 2, 2014). 
+
+Exhibit 101 
+    Financial Statements for XBRL Format 
+     _________________________ 
+           * 
+    Previously filed as part of the filing indicated and incorporated by reference herein. 
+
+21 
+
+<EX-31.1>
+ 2
+ bhpex-311q32016.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+EXHIBIT 31.1 
+  CERTIFICATION 
+    
+  I, David R. Emery, certify that: 
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Black Hills Power, Inc.; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; and 
+       
+           b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; and 
+       
+           c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting. 
+       
+           5. 
+    The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions): 
+       
+           a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+       
+           b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+       
+                   Date: 
+    November 4, 2016 
+
+/S/ DAVID R. EMERY 
+
+David R. Emery 
+
+Chairman and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ bhpex-312q32016.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+EXHIBIT 31.2 
+  CERTIFICATION 
+    
+  I, Richard W. Kinzley, certify that: 
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Black Hills Power, Inc.; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+       
+           b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;  
+       
+           c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting. 
+       
+           5. 
+    The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions): 
+       
+           a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+       
+           b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+       
+                   Date: 
+    November 4, 2016 
+
+/S/ RICHARD W. KINZLEY 
+
+Richard W. Kinzley 
+
+Senior Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ bhpex-321q32016.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  In connection with the Quarterly Report of Black Hills Power, Inc. (the  Company ) on Form 10-Q for the period ended   September 30, 2016   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, David R. Emery, Chairman and Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. ss. 1350, as adopted pursuant to ss. 906 of the Sarbanes-Oxley Act of 2002, that: 
+    
+           (1) 
+    The Report fully complies with the requirements of Section 13 (a) or  
+     15 (d) of the Securities Exchange Act of 1934; and 
+    
+           (2) 
+    The information contained in the Report fairly presents, in all material 
+     respects, the financial condition and results of operations of the Company. 
+
+Date: 
+    November 4, 2016 
+
+/S/ DAVID R. EMERY 
+
+David R. Emery 
+
+Chairman and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ bhpex-322q32016.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  In connection with the Quarterly Report of Black Hills Power, Inc. (the  Company ) on Form 10-Q for the period ended   September 30, 2016   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Richard W. Kinzley, Senior Vice President and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. ss. 1350, as adopted pursuant to ss. 906 of the Sarbanes-Oxley Act of 2002, that: 
+    
+           (1) 
+    The Report fully complies with the requirements of Section 13 (a) or  
+     15 (d) of the Securities Exchange Act of 1934; and 
+    
+           (2) 
+    The information contained in the Report fairly presents, in all material 
+     respects, the financial condition and results of operations of the Company. 
+
+Date: 
+    November 4, 2016 
+
+/S/ RICHARD W. KINZLEY 
+
+Richard W. Kinzley 
+
+Senior Vice President and Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ bkh-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ bkh-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ bkh-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ bkh-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ bkh-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ bkh-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

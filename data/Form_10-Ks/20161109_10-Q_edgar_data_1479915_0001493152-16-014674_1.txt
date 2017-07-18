@@ -1,0 +1,1184 @@
+<Header>
+<FileStats>
+    <FileName>20161109_10-Q_edgar_data_1479915_0001493152-16-014674_1.txt</FileName>
+    <GrossFileSize>1278447</GrossFileSize>
+    <NetFileSize>49359</NetFileSize>
+    <ASCII_Embedded_Chars>278908</ASCII_Embedded_Chars>
+    <HTML_Chars>252223</HTML_Chars>
+    <XBRL_Chars>363345</XBRL_Chars>
+    <XML_Chars>304608</XML_Chars>
+    <N_Tables>22</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-16-014674.hdr.sgml : 20161109
+<ACCEPTANCE-DATETIME>20161109165308
+ACCESSION NUMBER:		0001493152-16-014674
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		39
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161109
+DATE AS OF CHANGE:		20161109
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VapAria Corp
+		CENTRAL INDEX KEY:			0001479915
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				271521364
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-55470
+		FILM NUMBER:		161984923
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5550 NICOLLET AVENUE
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55419
+		BUSINESS PHONE:		612-812-2037
+
+	MAIL ADDRESS:	
+		STREET 1:		5550 NICOLLET AVENUE
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55419
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	OICco ACQUISITION IV, INC.
+		DATE OF NAME CHANGE:	20100105
+
+</SEC-Header>
+</Header>
+
+ 0001493152-16-014674.txt : 20161109
+
+10-Q
+ 1
+ form10-q.htm
+
+UNITED
+STATES    
+
+   SECURITIES
+AND EXCHANGE COMMISSION   
+
+   Washington,
+D.C. 20549   
+
+FORM
+10-Q   
+
+(Mark
+One)  
+
+For
+the Quarterly period ended September 30, 2016  
+
+or  
+
+For
+the transition period from __________________ to __________________________  
+
+Commission
+file number: 000-55470  
+
+VapAria
+Corporation   
+
+  (  Exact
+name of registrant as specified in its charter )   
+
+Delaware   
+         
+       27-1521364    
+ 
+       (State
+                                         or other jurisdiction of  
+          incorporation
+        or organization)   
+         
+       (I.R.S.
+                                         Employer  
+          Identification
+        No.)    
+
+(612)
+812-2037   
+
+  (Registrant s
+telephone number, including area code)  
+
+not
+applicable   
+
+  (Former
+name, former address and former fiscal year, if changed since last report)  
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.  
+
+[X]
+Yes [  ] No  
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Website, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.4.05 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  
+
+  [X]
+Yes [  ] No  
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller
+reporting company:  
+
+Large
+    accelerated filer  
+      [  ]  
+      Accelerated
+    filer  
+      [  ]   
+ 
+      Non-accelerated
+    filer  
+      [  ]  
+      Smaller
+    reporting company  
+      [X]   
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act)  
+
+[  ]
+Yes [X] No  
+
+Indicate
+the number of shares outstanding of each of the registrant s classes of common stock, as of the latest practicable date.
+75,210,000 shares of common stock are issued and outstanding as of November 09, 2016.  
+
+TABLE
+OF CONTENTS   
+
+Page
+    No.   
+ 
+        Part
+    I     
+
+Item 1.  
+       Financial Statements   
+      4   
+ 
+      Item 2.  
+       Management Discussion and Analysis
+    of Financial Condition and Results of Operations   
+      11   
+ 
+      Item 3.  
+       Quantitative and Qualitative
+    Disclosures About Market Risk.   
+      14   
+ 
+      Item 4.  
+       Controls and Procedures.   
+      14   
+
+Part
+    II     
+
+Item 1.  
+       Legal Proceedings.   
+      15   
+ 
+      Item 1A.  
+       Risk Factors   
+      15   
+ 
+      Item 2.  
+       Unregistered Sales of Equity
+    Securities and Use of Proceeds   
+      15   
+ 
+      Item 3.  
+       Defaults upon Senior Securities   
+      15   
+ 
+      Item 4.  
+       Mine Safety Disclosures   
+      15   
+ 
+      Item 5.  
+       Other Information.   
+      15   
+ 
+      Item 6.  
+       Exhibits   
+      15   
+
+CAUTIONARY
+STATEMENT REGARDING FORWARD-LOOKING INFORMATION   
+
+This
+report includes forward-looking statements that relate to future events or our future financial performance and involve known
+and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance or achievements
+to differ materially from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking
+statements. Words such as, but not limited to,  believe,   expect,   anticipate,   estimate, 
+ intend,   plan,   targets,   likely,   aim,   will, 
+ would,   could,  and similar expressions or phrases identify forward-looking statements. We have based
+these forward-looking statements largely on our current expectations and future events and financial trends that we believe may
+affect our financial condition, results of operation, business strategy and financial needs. Forward-looking statements include,
+but are not limited to, statements about:  
+
+our
+    lack of products or revenues and the substantial risks inherent in the establishment of a new business venture   
+
+our
+    very limited operating history and our unproven business plan;   
+
+our
+    history of losses;   
+
+our
+    ability to continue as a going concern;   
+
+our
+    ability to raise capital to fund our business plan, pay our operating expense and satisfy our obligations;   
+
+conflicts
+    of interest facing certain of our officers and directors;   
+
+future
+    reliance on third party manufacturers;   
+
+our
+    future ability to comply with government regulations;   
+
+our
+    lack of experience in selling, marketing or distributing products;   
+
+our
+    future ability to establish and maintain strategic partnerships;   
+
+our
+    possible future dependence on licensing or collaboration agreements;   
+
+the
+    inability of Chong Corporation to protect the intellectual property which is licensed to us, and risks of possible third-party
+    infringement of intellectual property rights;   
+
+anti-takeover
+    provisions of Delaware law;   
+
+the
+    dilution impact of the issuance of shares of our common stock upon a conversion of shares of our Series A 10% convertible
+    preferred stock and as payment for dividends; and   
+
+the
+    impact of penny stock rules on the future trading in our common stock.   
+
+You
+should read thoroughly this report and the documents that we refer to herein with the understanding that our actual future results
+may be materially different from and/or worse than what we expect. We qualify all of our forward-looking statements by these cautionary
+statements, Part 1. Item 1A. Risk Factors appearing in our Annual Report on Form 10-K for the year ended December 31, 2015 and
+our other filings with the Securities and Exchange Commission. New risk factors emerge from time to time and it is not possible
+for our management to predict all risk factors, nor can we assess the impact of all factors on our business or the extent to which
+any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking
+statements. Except for our ongoing obligations to disclose material information under the Federal securities laws, we undertake
+no obligation to release publicly any revisions to any forward-looking statements, to report events or to report the occurrence
+of unanticipated events. These forward-looking statements speak only as of the date of this report, and you should not rely on
+these statements without also considering the risks and uncertainties associated with these statements and our business.  
+
+OTHER
+PERTINENT INFORMATION   
+
+Unless
+specifically set forth to the contrary, when used in this report the terms  VapAria,   we,   our, 
+ us,  and similar terms refers to VapAria Corporation, a Delaware corporation formerly known as OICco Acquisition
+IV, Inc., and our wholly-owned subsidiary VapAria Solutions Inc., a Minnesota corporation ( VapAria Solutions ). In
+addition,  third quarter 2016  refers to the three months ended September 30, 2016,  third quarter 2015 
+refers to the three months ended September 30, 2015,  first nine months of 2016  refers to the nine months ended September30,
+2016 and  first nine months of 2015  refers to the nine months ended September 30, 2015.  2016  refers
+to the year ending December 31, 2016 and  2015  refers to the year ended December 31, 2015.  
+
+Unless
+specifically set forth to the contrary, the information which appears on our web site at  www.vaparia.com  is not part of
+this report.  
+
+PART
+1   FINANCIAL INFORMATION   
+
+Item
+1. Financial Statements   
+
+VapAria
+Corporation   
+
+   Consolidated
+Balance Sheets   
+
+See
+accompanying notes to consolidated unaudited financial statements  
+
+VapAria
+Corporation   
+
+   Consolidated
+Statement of Expenses   
+
+  (Unaudited)  
+
+See
+accompanying notes to consolidated unaudited financial statements  
+
+VapAria
+Corporation   
+
+   Consolidated
+Statement of Changes in Stockholders  Deficit   
+
+   For
+the nine months ended September 30, 2016   
+
+   (Unaudited)   
+
+See
+accompanying notes to consolidated unaudited financial statements  
+
+VapAria
+Corporation   
+
+   Consolidated
+Statement of Cash Flows   
+
+  (Unaudited)  
+
+See
+accompanying notes to consolidated unaudited financial statements  
+
+VAPARIA
+CORPORATION   
+
+   NOTES
+TO CONSOLIDATED UNAUDITED FINANCIAL STATEMENTS   
+
+   SEPTEMBER
+30, 2016   
+
+NOTE
+1   NATURE OF BUSINESS AND SUMMARY OF BASIS OF PRESENTATION   
+
+Nature
+of Business   
+
+VapAria
+Corporation (the  Company ) was incorporated under the laws of the State of Delaware on December 21, 2009 under the
+name OICco Acquisition IV, Inc.  
+
+On
+April 11, 2014 the Company entered into that certain Share Exchange Agreement and Plan of Reorganization (the  Agreement )
+with VapAria Solutions, Inc., a Minnesota corporation formerly known as VapAria Corporation ( VapAria Solutions )
+and the shareholders of VapAria Solutions (the  VapAria Solutions Shareholders ) pursuant to which we agreed to acquire
+100% of the outstanding capital stock of VapAria Solutions from the VapAria Solutions Shareholders in exchange for certain shares
+of our capital stock. On July 31, 2014 all conditions precedent to the closing were satisfied, including the reconfirmation by
+the investors of the prior purchase of 1,000,000 shares of our common stock pursuant to the requirements of Rule 419 of the Securities
+Act of 1933, as amended (the  Securities Act ), and the transaction closed.  
+
+At
+closing, we issued the VapAria Solutions Shareholders 36,000,000 shares of our common stock and 500,000 shares of our 10% Series
+A Convertible Preferred Stock in exchange for the common stock and preferred stock owned by the VapAria Solutions Shareholders.  
+
+As
+a result of the closing of this transaction, VapAria Solutions is now a wholly owned subsidiary of our company and its business
+and operations represent those of our company.  
+
+On
+August 19, 2014 the board of directors of the Company and the holders of a majority of its issued and outstanding common stock
+approved a Certificate of Amendment to our Amended and Restated Certificate of Incorporation changing the name of our company
+to VapAria Corporation. The name change was effective on August 19, 2014. Our Board determined it was in our best interests to
+change our corporate name to better reflect our business and operations following our recent acquisition of VapAria Solutions.  
+
+The
+Company is a specialty pharmaceutical company engaged in the research, design and development of methods and medicants to address
+chronic conditions with novel, vapor-centric approaches to pain management, appetite suppression, smoking cessation and various
+sleep disorders.  
+
+The
+Company has limited operations and, as of September 30, 2016, had no employees. However, its executive officers and directors
+have provided significant services to the Company without cash compensation.  
+
+The
+Company has a fiscal year end of December 31.  
+
+Basis
+of presentation   
+
+Basis
+of Presentation  - The accompanying financial statements have been prepared by the Company without audit. In the opinion
+of management, all adjustments (which include only normal recurring adjustments) necessary to present fairly the financial position,
+results of operations, and cash flows as of September 30, 2016 have been made.  
+
+Certain
+information and footnote disclosures included in financial statements prepared in accordance with accounting principles generally
+accepted in the United States have been condensed or omitted. It is suggested that these condensed financial statements be read
+in conjunction with the financial statements and footnotes thereto in the Company s December 31, 2015 audited financial
+statements appearing in its Annual Report on Form 10-K for the year ended December 31, 2015. The results of operations for the
+period ended September 30, 2016 are not necessarily indicative of the operating results for the full year.  
+
+Reclassifications   
+Certain reclassifications may have been made to our prior year s consolidated financial statements to conform to current
+year presentation. These reclassifications had no effect on our previously reported results of operations or accumulated deficit.  
+
+NOTE
+2   GOING CONCERN   
+
+The
+Company s financial statements are prepared in accordance with generally accepted accounting principles ( GAAP )
+applicable to a going concern. This contemplates the realization of assets and the liquidation of liabilities in the normal course
+of business. Currently, the Company has limited cash and no source of revenue sufficient to cover its operations costs and allow
+it to continue as a going concern. These conditions raise substantial doubt about the Company s ability to continue as a
+going concern. The Company will be dependent upon the raising of additional capital.  
+
+NOTE
+3   STOCKHOLDER S EQUITY   
+
+In
+January 2016 the Company issued 25,000,000 shares of common stock to Chong Corporation, a related entity, in exchange for five
+exclusive, worldwide license agreements. We issued 5,000,000 shares for each of the license agreements, for an aggregate issuance
+of 25,000,000 shares. In accordance with GAAP, the intellectual property is carried on the VapAria balance sheet at a fair value
+of $100,772. The five license agreements are as follows:  
+
+U.S.
+Patent No.: 8,903228 issued on December 20, 2014 for a vapor delivery device;  
+
+U.S.
+Patent No.: 8,962,040 issued on February 24, 2015 for vaporized appetite suppression (hoodia);  
+
+U.S.
+Patent No.: 9,254,002 issued on February 9, 2016- for vaporization of a tobacco formulation;  
+
+U.S.
+Patent No.: 9,283,180 issued on March 15, 2016- for a vaporized sleep aid- LTV-(melatonin); and  
+
+U.S.
+Patent App. No.: 13/453,939 filed on April 12, 2012 for an enhanced vapor delivery system.  
+
+On
+May 23, 2016 the Company paid an annual dividend of 50,000 shares of common stock to the sole shareholder of our Series A Preferred
+Stock, Chong Corporation, a related party.  
+
+On
+July 26, 2016, the United States Patent and Trademark Office issued US Patent No.: 9,399,110 related to US Patent Application
+No.: 13/453,939 filed on April 12, 2012 for an enhanced vapor delivery system. The issuance of this patent means that the entire
+IP portfolio licensed by the Company in the January 2016 license agreement, which then included a total of four patents and one
+patent application, is now five patents.  
+
+On
+September 30, 2016, the Company had 75,210,000 shares of common stock issued and outstanding.  
+
+NOTE
+4   RELATED PARTY TRANSACTIONS   
+
+During
+the third quarter the Company borrowed from Chong Corporation, a related entity, an additional $50,000. The balance outstanding
+at September 30, 2016 is $339,544. The loan is unsecured, noninterest bearing and due on demand.  
+
+We
+maintain our corporate offices at 5550 Nicollet Avenue, Minneapolis, MN 55419. We lease these premises from 5550 Nicollet LLC,
+an affiliate of Mr. Chong, under the terms of a three-year lease expiring in December 2016 at an annual rent of $9,000. We have
+the right to renew the lease for an additional 12-month term at an annual rental of $9,180 upon 60-day notice prior to the expiration
+of the initial term. Rent was $2,250 for this three-month period in both 2016 and 2015. As of September 30, 2016, $10,500 is due
+to 5550 Nicollet LLC.  
+
+NOTE
+5   NOTE PAYABLE   
+
+As
+of September 30, 2016, the Company has a note payable in the amount of $50,000 due to an individual. The note was issued on May
+30, 2013 and bears eight per cent (8%) annual interest. The note was extended June 30, 2016 and all principal and accrued interest
+is now due and payable December 31, 2016.  
+
+NOTE
+6   CONVERTIBLE NOTE   
+
+The
+Company assumed an unsecured convertible note for $40,000 that was issued on July 14, 2014 as part of the share exchange. The
+note was recently extended to mature on December 31, 2016 and continues to bear interest at 10% per annum. The note is convertible
+into shares of our common stock at $0.08 per share. The Company analyzed the conversion option in the notes for derivative accounting
+treatment under ASC Topic 815,  Derivatives and Hedging,  and determined that the instrument does not qualify for
+derivative accounting. The Company therefore performed an analysis to determine if the conversion option was subject to a beneficial
+conversion feature and determined that the instrument does not have a beneficial conversion feature.  
+
+The
+note was originally due on September 1, 2014. The Company entered into a note amendment on September 1, 2014 and the due date
+was extended to December 1, 2014. On December 1, 2014, the Company extended the note again to December 31, 2015. On December 31,
+2015 the note was again extended to July 31, 2016 and on July 31, 2016 it was extended to December 31, 2016. The Company analyzed
+the modification of the term under ASC 470-60  Trouble Debt Restructurings  and ASC 470-50  Extinguishment of
+Debt . The Company determined the modification is not substantial and the transaction should not be accounted for as an
+extinguishment with the old debt written off and the new debt initially recorded at fair value with a new effective interest rate.  
+
+NOTE
+7   COMMITMENT AND CONTINGENCIES   
+
+Relating
+to the December 2013 Agreement with Chong Corporation, beginning in the calendar year in which the first licensed products or
+licensed services takes place, but not prior to January 1, 2015, the Company is required to pay to Chong Corporation, a related
+entity, a 3% royalty for revenues with a $50,000 annual minimum royalty commitment.  
+
+The
+December 31, 2013 Agreement with Chong Corporation also requires us to pay for the costs associated with maintaining the patent
+applications and patents licensed to us. For the nine months ended September 30, 2016, there were no reimbursable costs.  
+
+Item
+2. Management s Discussion and Analysis of Financial Condition and Results of Operations.   
+
+The
+following discussion of our financial condition and results of operations for the three and nine month periods ended September
+30, 2016 and 2015 should be read in conjunction with the unaudited consolidated financial statements and the notes to those statements
+that are included elsewhere in this report. Our discussion includes forwardlooking statements based upon current expectations
+that involve risks and uncertainties, such as our plans, objectives, expectations and intentions. Actual results and the timing
+of events could differ materially from those anticipated in these forwardlooking statements as a result of a number of factors,
+including those set forth under  Cautionary Statements Regarding Forward-Looking Information  appearing earlier in
+this report, Part I. Item 1A. Risk Factors appearing in our Annual Report on Form 10-K for the year ended December 31, 2015, and
+our other filings with the Securities and Exchange Commission. We use words such as  anticipate,   estimate, 
+ plan,   project,   continuing,   ongoing,   expect,   believe, 
+ intend,   may,   will,   should,   could,  and similar expressions
+to identify forwardlooking statements. In addition, any statements that refer to projections of our future financial performance,
+our anticipated growth and trends in our businesses, and other characterizations of future events or circumstances are forwardlooking
+statements. Such statements are based on our current expectations and could be affected by the uncertainties and risk factors
+described throughout this report.  
+
+Overview
+and plan of operations   
+
+We
+are a pre-clinical specialty pharmaceutical company. Prior to forming VapAria Solutions in 2010, our management had more than
+25 years  collective experience in vaporization and vapor delivery of medicants, having been partners in a joint venture
+with pioneers in the industry and having had undertaken significant work internationally researching and developing products,
+shepherding them through the patent process and introducing them into the U.S. wholesale and retail supply chain.  
+
+Our
+initial goal was to leverage rights we acquired in December 2013 from an affiliate to develop and successfully launch a product
+in partnership with well-capitalized and experienced industry participants based on our exclusive license and exclusive options
+to license patented and patent-pending technologies under the December 2013 Agreement and formulations designed to significantly
+improve on current electronic nicotine delivery systems and other consumer products in the marketplace. During the first nine
+months of 2016, in addition to discussions with third party financing sources, we continued to engage in substantive discussions
+with several international companies which have expressed interest in our licensed technology in pursuit of this strategy.  
+
+In
+mid-2015 we adjusted our business focus owing to continuing research, development and design throughout and, thus, we completed
+a full design of a product embodiment based on our proprietary technology, authorized the production of fully functional prototypes
+and are scheduling pre-clinical assessments for the prototypes. In the first nine months of 2016 and 2015 we spent $95,172 and
+$69,316 respectively, in research and development costs related to these efforts. The first stage prototype was completed in the
+first quarter of 2016, the second stage prototypes were delivered in the second quarter of 2016 and in the third quarter of 2016
+we engaged an industry expert with 28 years of relevant experience to design IND-enabling studies that should take from pre-clinical
+stage to clinical stage and make the FDA 505(b)(2) pathway to regulatory approval and commercialization available to us. Certain
+of the costs associated with these studies are expected to be funded with the $1,000,0000 to $2,000,000 that we need to raise
+in the next 12 months to remain a going concern. If we are unable to raise sufficient capital to fund these costs, our ability
+to continue our commercialization efforts will be adversely impacted.  
+
+Our
+management, through the Chong Corporation, an affiliated entity that is the licensor of the intellectual property rights we acquired
+in December 2013 and January 2016, has built an extensive and robust portfolio of intellectual property that includes patented
+and patent-pending methods of vaporization and patented and patent-pending medicants and herbal remedies identified for their
+effectiveness and suitability to address the markets identified above. Historically we have relied upon related party loans that,
+as of September 30, 2016, total $339,544, and the $110,000 from the sale of our securities in private transactions that occurred
+in the first quarter of 2015 to provide working capital. Our management has worked without cash compensation. In the first nine
+months of 2016, the loan increased by $166,000 and these proceeds were used to pay expenses associated with research, development
+and design, patent protection prosecution activities and ordinary business expenses associated with identifying, meeting with
+and negotiating with potential business partners and our general operating expenses, including the payment of our obligations.
+We estimate that we will need to raise between $1 million and $2 million over the next 12 months to continue to implement our
+business plan.  
+
+We
+may seek to raise the necessary capital through future public or private debt or equity offerings of our securities, although
+we do not have any commitments from any third parties to provide any capital to us. While we believe that the exclusive rights
+to the proprietary technology on which our business is predicated could provide us with a significant competitive advantage if
+we can bring one or more products to market, our ability to accomplish that in the near term is dependent on a successful prototype
+and positive pre-clinical assessments of the prototype. Given the current lack of a public market for our common stock, our status
+as a pre-clinical stage company and the difficulties small companies experience in accessing the capital markets, we expect to
+encounter difficulties in pursuing public or private capital raises. We may also seek to minimize our capital needs by securing
+partnerships or joint ventures with well capitalized companies in the pharmaceutical or OTC consumer products industries. Until
+such time as we are able to raise all or a portion of the necessary capital, our ability to continue to implement our business
+plan will be in jeopardy.  
+
+Going
+concern   
+
+For
+the third quarter of 2016 we reported a net loss of $59,076 compared to a net loss of $110,295 for the same period in 2015. For
+the nine months ended September 30, 2016 we reported a net loss of $183,268 and net cash used in operating activities of $167,456.
+For the first nine months of 2015 we reported a net loss of $248,087 and net cash used in operations of $158,083. At September
+30, 2016 we had cash on hand of $4,459, a working capital deficit of $488,181 and an accumulated deficit of $1,101,552. The report
+of our independent registered public accounting firm on our consolidated financial statements for the year ended December 31,
+2015 contains an explanatory paragraph regarding our ability to continue as a going concern based upon our minimal cash and no
+source of revenues which are sufficient to cover our operating costs. These factors, among others, raise substantial doubt about
+our ability to continue as a going concern. Our consolidated financial statements do not include any adjustments that might result
+from the outcome of this uncertainty. There are no assurances we will be successful in our efforts to raise capital, develop a
+source of revenues, report profitable operations or to continue as a going concern, in which event investors would lose their
+entire investment in our company.  
+
+Results
+of operations   
+
+We
+did not generate any revenues from our operations in any of the 2016 or 2015 periods. Our total operating expenses for the third
+quarter of 2016 decreased 47% over those reported in the comparable period in 2015 and 27% for the first nine months of 2016 as
+compared to the first nine months of 2015. General and administrative expenses, which include amortization, rent, non-cash compensation
+and IP related expenses, decreased 62% in in the third quarter of 2016 when compared to the same period in 2015 and 64% for the
+first nine months of 2016 from the first nine months of 2015. The amounts recorded in 2015 reflect a one-time cost associated
+with IP maintenance so the decrease seen in the first nine months of 2016 compared to the same period in 2015 is expected.  
+
+Research
+and development expenses decreased in the third quarter of 2016 by 19% from the comparable 2015 period. For the nine months ended
+September 30, 2016 the overall increase over the same period in 2015 is 37%. Professional fees decreased 67% for the third quarter
+of 2016 and 47% for the first nine months of 2016 from the comparable 2015 periods. The decreases in the 2016 periods over the
+comparable 2015 periods is directly attributable to higher legal fees incurred in 2015 relating to due diligence costs associated
+with ongoing discussions and negotiations with potential licensees or product development partners. During 2015 we also incurred
+one-time legal fees associated with securing a freedom to operate opinion for which there was not a comparable expense in 2016.  
+
+We
+expect that our operating expenses will increase as we continue to develop our business and we devote additional resources towards
+promoting that growth, most notably reflected in anticipated increases in general overhead, salaries for personnel and technical
+resources, as well as increased costs associated with our SEC reporting obligations. However, as set forth elsewhere in this report,
+our ability to continue to develop our business and achieve our operational goals is dependent upon our ability to raise significant
+additional working capital. As the availability of this capital is unknown, we are unable to quantify at this time the expected
+increases in operating expenses in future periods.  
+
+Liquidity
+and capital resources   
+
+Liquidity
+is the ability of a company to generate sufficient cash to satisfy its needs for cash. As of September 30, 2016 we had $4,459
+in cash and cash equivalents and a working capital deficit of $488,181 as compared to $5,915 in cash and cash equivalents and
+a working capital deficit of $317,564 at December 31, 2015. Our current liabilities increased 52% at September 30, 2016 from December
+31, 2015, reflecting increases in interest payable and in the loan amount from a related party. Our principal source of operating
+capital during the first nine months of 2016 came from additional borrowing from a related party which lent us an additional $166,000.  
+
+We
+do not have any commitments for capital expenditures. Our working capital is not sufficient to fund our operations for at least
+the next 12 months and to satisfy our obligations as they become due. In June 2016, the holder of a $50,000 principal amount note
+agreed to the extension of the due date of the note from June 30, 2016 to December 31, 2016. The remaining note in the principal
+amount of $40,000 is convertible into 500,000 shares of our common stock at the option of the holder and is now due December 31,
+2016. While there are no assurances the holder will elect to convert the note, in that event we granted the holder demand and
+piggyback registration rights for those shares. We also owe a related party $339,544 which is due on demand. We do not have the
+funds necessary to repay these obligations or to fund the costs associated with filing a registration statement if the noteholder
+converts the note and exercises its registration rights. As described earlier in this report, we will need to raise between $1,000,000
+and $2,000,000 in additional capital during the next 12 months. As we do not have any firm commitments for all or any portion
+of this necessary capital, there are no assurances we will have sufficient funds to fund our operating expenses and continued
+development of our products and to satisfy our obligations as they become due. In that event, our ability to continue as a going
+concern is in jeopardy.  
+
+Net
+Cash Used in Operating Activities   
+
+We
+used $167,456 of cash in our operating activities in the first nine months of 2016 a slight increase when compared to $158,083
+used by our operating activities in the same period in 2015.  
+
+Net
+Cash Provided by (Used in) Investing Activities   
+
+There
+was no net cash provided by (used in) investing activities in the first nine months of 2016 or 2015.  
+
+Net
+Cash Provided by Financing Activities   
+
+Net
+cash provided by financing for the first nine months of 2016 consisted of $166,000 in borrowings from Chong Corporation, a related
+party, compared to a capital raise of $110,000 and the net borrowing of $51,000 from Chong Corporation in the first nine months
+of 2015.  
+
+Non
+cash investing and financing activities   
+
+Dividends
+of common stock issued on the shares of outstanding Series A 10% convertible preferred stock resulted in $7,500 in non-cash financing.  
+
+Critical
+accounting policies   
+
+The
+preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect
+the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities and the reported amounts of
+revenue and expenses during the reported periods. The more critical accounting estimates include estimates related to revenue
+recognition, accounts receivable allowances and impairment of long-lived assets. We also have other key accounting policies, which
+involve the use of estimates, judgments and assumptions that are significant to understanding our results, which are described
+in Note 2 to our unaudited consolidated financial statements for the third quarter of 2016 appearing elsewhere in this report.  
+
+Recent
+accounting pronouncements   
+
+There
+are no recent accounting standards that have been issued or proposed by the FASB or other standards setting bodies that require
+adoption.  
+
+Off
+balance sheet arrangements   
+
+As
+of the date of this report, we do not have any off-balance sheet arrangements that have or are reasonably likely to have a current
+or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity,
+capital expenditures or capital resources that are material to investors. The term  off-balance sheet arrangement 
+generally means any transaction, agreement or other contractual arrangement to which an entity unconsolidated with us is a party,
+under which we have any obligation arising under a guarantee contract, derivative instrument or variable interest or a retained
+or contingent interest in assets transferred to such entity or similar arrangement that serves as credit, liquidity or market
+risk support for such assets.  
+
+Item
+3. Quantitative and Qualitative Disclosures About Market Risk.   
+
+Not
+applicable for a smaller reporting company.  
+
+Item
+4. Controls and Procedures.   
+
+Evaluation
+of Disclosure Controls and Procedures .   
+
+We
+maintain  disclosure controls and procedures  as such term is defined in Rules 13a 15(e) under the Securities Exchange
+Act of 1934. In designing and evaluating our disclosure controls and procedures, our management recognized that disclosure controls
+and procedures, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives
+of disclosure controls and procedures are met. Additionally, in designing disclosure controls and procedures, our management necessarily
+was required to apply its judgment in evaluating the cost benefit relationship of possible disclosure controls and procedures.
+The design of any disclosure controls and procedures also is based in part upon certain assumptions about the likelihood of future
+events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions.
+
+Based
+on their evaluation as of the end of the period covered by this report, our Chief Executive Officer and our Chief Financial Officer
+have concluded that our disclosure controls and procedures were not effective to ensure that the information relating to our company
+required to be disclosed in our Securities and Exchange Commission reports (i) is recorded, processed, summarized and reported
+within the time periods specified in SEC rules and forms, and (ii) is accumulated and communicated to our management, including
+our Chief Executive Officer, to allow timely decisions regarding required disclosure due to the presence of continuing material
+weakness in our internal control over financial reporting as reported in our Annual Report on Form 10-K for the year ended December
+31, 2015. These material weaknesses in our internal control over financial reporting result from limited segregation of duties
+and limited multiple level of review in the financial close process.  
+
+The
+existence of the continuing material weaknesses in our internal control over financial reporting increases the risk that a future
+restatement of our financials is possible. In order to remediate these material weaknesses, we will need to expand our accounting
+resources. We will continue to monitor and evaluate the effectiveness of our disclosure controls and procedures and our internal
+control over financial reporting on an ongoing basis, however, we do not expect that the deficiencies in our disclosure controls
+will be remediated until such time as we have remediated the material weaknesses in our internal control over financial reporting.
+Subject to the availability of sufficient capital, we expect to expand our accounting resources during 2016 in an effort to remediate
+the material weaknesses in our internal control over financial reporting.  
+
+Changes
+in Internal Control over Financial Reporting.    
+
+There
+have been no changes in our internal control over financial reporting during our last fiscal quarter that has materially affected,
+or is reasonably likely to materially affect, our internal control over financial reporting.  
+
+PART
+II OTHER INFORMATION   
+
+Item
+1. Legal Proceedings.   
+
+None.  
+
+Item
+1A. Risk Factors.   
+
+In
+addition to the other information set forth in this report, you should carefully consider the risk factors discussed in Part I,
+Item 1A in our Annual Report on Form 10-K for the year ended December 31, 2015 and our subsequent filings with the Securities
+and Exchange Commission, which could materially affect our business, financial condition or future results. These cautionary statements
+are to be used as a reference in connection with any forward-looking statements. The factors, risks and uncertainties identified
+in these cautionary statements are in addition to those contained in any other cautionary statements, written or oral, which may
+be made or otherwise addressed in connection with a forward-looking statement or contained in any of our subsequent filings with
+the Securities and Exchange Commission.  
+
+Item
+2. Unregistered Sales of Equity Securities and Use of Proceeds.   
+
+None
+except as previously reported.  
+
+Item
+3. Defaults Upon Senior Securities.   
+
+None.  
+
+Item
+4. Mine Safety Disclosures.   
+
+Not
+applicable to our company s operations.  
+
+Item
+5. Other Information.   
+
+None,
+except as previously reported.  
+
+Item
+6. Exhibits.   
+
+No.   
+         
+       Description    
+
+3.5  
+         
+      Certificate
+    of Amendment to the Amended and Restated Certificate of Incorporation*   
+ 
+      31.1  
+         
+      Rule
+    13a-14(a)/ 15d-14(a) Certification of Chief Executive Officer *   
+ 
+      31.2  
+         
+      Rule
+    13a-14(a)/ 15d-14(a) Certification of Chief Financial Officer*   
+ 
+      32.1  
+         
+      Section
+    1350 Certification of Chief Executive Officer and Chief Financial Officer*   
+ 
+      101.INS  
+         
+      XBRL
+    Instance Document*   
+ 
+      101.PRE  
+         
+      XBRL
+    Taxonomy Extension Presentation Linkbase *   
+ 
+      101.LAE  
+         
+      XBRL
+    Taxonomy Extension Label Linkbase *   
+ 
+      101.DEF  
+         
+      XBRL
+    Taxonomy Extension Definition Linkbase *   
+ 
+      101.SCH  
+         
+      XBRL
+    Taxonomy Extension Schema *   
+
+* filed
+herewith  
+
+SIGNATURES   
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned thereunto duly authorized.  
+
+VapAria
+    Corporation   
+
+November
+    9, 2016  
+      By:  
+       /s/
+    Alexander Chong    
+
+Alexander
+    Chong, Chief Executive Officer   
+
+November
+    9, 2016  
+      By:  
+       /s/
+    Daniel Markes    
+
+Daniel
+    Markes, Chief Financial Officer   
+
+<EX-3.5>
+ 2
+ ex3-5.htm
+
+</EX-3.5>
+
+<EX-31.1>
+ 5
+ ex31-1.htm
+
+EXHIBIT
+31.1    
+
+Rule
+13a-14(a)/15d-14(a) Certification   
+
+I,
+Alexander Chong, certify that:  
+
+1.  
+      I
+    have reviewed this Quarterly Report on Form 10-Q for the period ended September 30, 2016 of VapAria Corporation.   
+
+2.  
+      Based
+    on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+    to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+    to the period covered by this report;   
+
+3.  
+      Based
+    on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+    material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+    presented in this report;   
+
+4.  
+       The
+                                         registrant s other certifying officer(s) and I are responsible for establishing
+                                         and maintaining disclosure controls and procedures (as defined in Exchange Act Rules
+                                         13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in
+                                         Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+(a)  
+      Designed
+    such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+    to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to
+    us by others within those entities, particularly during the period in which this report is being prepared;   
+
+(b)  
+      Designed
+    such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+    our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+    statements for external purposes in accordance with generally accepted accounting principles;   
+
+(c)  
+      Evaluated
+    the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+    about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based
+    on such evaluation; and   
+
+(d)  
+      Disclosed
+    in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+    most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially
+    affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting;
+    and   
+
+5.  
+      The
+    registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control
+    over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors
+    (or persons performing the equivalent functions):   
+
+(a)  
+      All
+    significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+    are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial
+    information; and   
+
+(b)  
+      Any
+    fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+    internal control over financial reporting.   
+
+November
+    9, 2016  
+       /s/
+    Alexander Chong    
+
+Alexander
+    Chong, Chief Executive Officer, principal executive officer   
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ ex31-2.htm
+
+EXHIBIT
+31.2    
+
+Rule
+13a-14(a)/15d-14(a) Certification   
+
+I,
+Daniel Markes, certify that:  
+
+1.  
+      I
+    have reviewed this Quarterly Report on Form 10-Q for the period ended September 30, 2016 of VapAria Corporation.   
+
+2.  
+      Based
+    on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+    to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+    to the period covered by this report;   
+
+3.  
+      Based
+    on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+    material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+    presented in this report;   
+
+4.  
+       The
+                                         registrant s other certifying officer(s) and I are responsible for establishing
+                                         and maintaining disclosure controls and procedures (as defined in Exchange Act Rules
+                                         13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in
+                                         Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+(a)  
+      Designed
+    such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+    to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to
+    us by others within those entities, particularly during the period in which this report is being prepared;   
+
+(b)  
+      Designed
+    such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+    our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+    statements for external purposes in accordance with generally accepted accounting principles;   
+
+(c)  
+      Evaluated
+    the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+    about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based
+    on such evaluation; and   
+
+(d)  
+      Disclosed
+    in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+    most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially
+    affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting;
+    and   
+
+5.  
+      The
+    registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control
+    over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors
+    (or persons performing the equivalent functions):   
+
+(a)  
+      All
+    significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+    are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial
+    information; and   
+
+(b)  
+      Any
+    fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+    internal control over financial reporting.   
+
+November
+    9, 2016  
+       /s/
+    Daniel Markes    
+
+Daniel
+    Markes, Chief Financial Officer, principal financial and accounting officer   
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ ex32-1.htm
+
+EXHIBIT
+32.1    
+
+Section
+1350 Certification   
+
+In
+connection with the Quarterly Report of VapAria Corporation (the  Company ) on Form 10-Q for the period ended September
+30, 2016 as filed with the Securities and Exchange Commission (the  Report ), I, Alexander Chong, Chief Executive
+Officer of the Company, and I, Daniel Markes, Chief Financial Officer of the Company, do hereby certify, pursuant to 18 U.S.C.
+  1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that:  
+
+1.  
+      The
+    Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended,
+    and   
+
+2.  
+      The
+    information contained in the Report fairly presents, in all material respects, the financial conditions and results of operations
+    of the Company.   
+
+November
+    9, 2016  
+       /s/
+    Alexander Chong    
+
+Alexander
+                                         Chong, Chief Executive Officer,  
+                                                           principal
+                                         executive officer    
+
+November
+    9, 2016  
+       /s/
+    Daniel Markes    
+
+Daniel
+                                         Markes, Chief Financial Officer,  
+                                                           principal
+                                         financial and accounting officer    
+
+A
+signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise
+adopting the signatures that appear in typed form within the electronic version of this written statement has been provided to
+the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request.  
+
+</EX-32.1>
+
+<EX-101.INS>
+ 9
+ vapa-20160930.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 10
+ vapa-20160930.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 11
+ vapa-20160930_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 12
+ vapa-20160930_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 13
+ vapa-20160930_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 14
+ vapa-20160930_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

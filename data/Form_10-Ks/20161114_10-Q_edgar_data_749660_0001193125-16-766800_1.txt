@@ -1,0 +1,1083 @@
+<Header>
+<FileStats>
+    <FileName>20161114_10-Q_edgar_data_749660_0001193125-16-766800_1.txt</FileName>
+    <GrossFileSize>3626126</GrossFileSize>
+    <NetFileSize>95541</NetFileSize>
+    <ASCII_Embedded_Chars>250305</ASCII_Embedded_Chars>
+    <HTML_Chars>590252</HTML_Chars>
+    <XBRL_Chars>1532638</XBRL_Chars>
+    <XML_Chars>967894</XML_Chars>
+    <N_Tables>38</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193125-16-766800.hdr.sgml : 20161111
+<ACCEPTANCE-DATETIME>20161114061000
+ACCESSION NUMBER:		0001193125-16-766800
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		69
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161114
+DATE AS OF CHANGE:		20161114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ICAD INC
+		CENTRAL INDEX KEY:			0000749660
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				020377419
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09341
+		FILM NUMBER:		161990080
+
+	BUSINESS ADDRESS:	
+		STREET 1:		98 SPIT BROOK ROAD, SUITE 100
+		CITY:			NASHUA
+		STATE:			NH
+		ZIP:			03062
+		BUSINESS PHONE:		603-882-5200
+
+	MAIL ADDRESS:	
+		STREET 1:		98 SPIT BROOK ROAD, SUITE 100
+		CITY:			NASHUA
+		STATE:			NH
+		ZIP:			03062
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HOWTEK INC
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 0001193125-16-766800.txt : 20161114
+
+10-Q
+ 1
+ d247926d10q.htm
+ FORM 10-Q
+
+Form 10-Q 
+
+Table of Contents  
+
+UNITED STATES   
+  SECURITIES AND EXCHANGE COMMISSION   
+  WASHINGTON, D.C. 20549        
+       FORM 10-Q
+            
+  (Mark One)   
+ 
+  For the quarterly period ended September 30, 2016   
+  OR       
+ 
+  For the transition period from
+                             to
+                                
+  Commission file number 001-09341        
+       iCAD, Inc.
+     (Exact name of registrant as specified in its charter)   
+
+(603) 882-5200   
+  (Registrant s telephone number, including area code)   
+  Not Applicable      (Former
+name, former address and former fiscal year, if changed since last report)        
+      Indicate by
+check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such
+reports), and (2) has been subject to such filing requirement for the past 90 days.    YES       NO   . 
+ Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such
+files).    YES       NO   .    Indicate by check mark whether the
+registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer ,  accelerated filer  and  smaller reporting
+company  in Rule 12b-2 of the Exchange Act.      
+
+Large Accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated filer 
+   
+    (do not check if a smaller reporting company) 
+    
+ Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange
+Act)    YES         NO     .    As of the close of
+business on November 9, 2016 there were 16,046,664 shares outstanding of the registrant s Common Stock, $.01 par value.      
+
+Table of Contents  
+
+  iCAD, Inc.  
+   INDEX      
+ 
+      2  
+
+Table of Contents  
+
+   iCAD, INC. AND SUBSIDIARIES   
+    Condensed Consolidated Balance Sheets   
+ (Unaudited)    (In thousands
+except for share data)      
+    See accompanying notes to condensed consolidated financial statements.   
+      3  
+
+Table of Contents  
+
+   iCAD, INC. AND SUBSIDIARIES   
+    Condensed Consolidated Statements of Operations   
+ (Unaudited)    (In thousands
+except for per share data)      
+    See accompanying notes to consolidated financial statements.   
+      4  
+
+Table of Contents  
+
+   iCAD, INC. AND SUBSIDIARIES   
+    Condensed Consolidated Statements of Cash Flows   
+ (unaudited)      
+    See accompanying notes to consolidated financial statements.   
+      5  
+
+Table of Contents  
+
+   iCAD, INC. AND SUBSIDIARIES   
+    Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016      Note 1 - Basis of Presentation and Significant Accounting Policies   
+ The accompanying condensed consolidated financial statements of iCAD, Inc. and subsidiaries ( iCAD  or the  Company ) have
+been prepared in accordance with accounting principles generally accepted in the United States of America ( US GAAP ). In the opinion of management, these unaudited interim condensed consolidated financial statements reflect all
+adjustments, consisting of normal recurring adjustments, necessary for a fair presentation of the financial position of the Company at September 30, 2016, the results of operations of the Company for the three month and nine month periods ended
+September 30, 2016 and 2015, and cash flows of the Company for the nine month periods ended September 30, 2016 and 2015. Although the Company believes that the disclosures in these financial statements are adequate to make the information
+presented not misleading, certain information normally included in the footnotes prepared in accordance with US GAAP has been omitted as permitted by the rules and regulations of the Securities and Exchange Commission ( SEC ). The
+accompanying financial statements should be read in conjunction with the audited financial statements and notes thereto included in the Company s Annual Report on Form 10-K for the fiscal year ended December 31, 2015 filed with the SEC on March
+11, 2016. The results for the three and nine month periods ended September 30, 2016 are not necessarily indicative of the results that may be expected for the fiscal year ending December 31, 2016, or any future period.  
+  Segments     The Company
+reports the results of two segments: Cancer Detection ( Detection ) and Cancer Therapy ( Therapy ). The Detection segment consists of our advanced image analysis and workflow products. The Therapy segment consists of our
+radiation therapy ( Axxent ) products, physics and management services, development fees, supplies, and fees for the AxxentHub software platform.  
+  Revenue Recognition     The
+Company recognizes revenue primarily from the sale of products and from the sale of services and supplies. Revenue is recognized when delivery has occurred, persuasive evidence of an arrangement exists, fees are fixed or determinable and
+collectability of the related receivable is probable. For product revenue, delivery has occurred upon shipment provided title and risk of loss have passed to the customer. Services and supplies revenue are considered to be delivered as the
+services are performed or over the estimated life of the supply agreement.    The Company recognizes revenue from the sale of its digital,
+film-based CAD and cancer therapy products and services in accordance with Financial Accounting Standards Board ( FASB ) Accounting Standards Codification ( ASC ) Update No. 2009-13,  Multiple-Deliverable Revenue
+Arrangements  ( ASU 2009-13 ) and ASC Update No. 2009-14,  Certain Arrangements That Contain Software Elements  ( ASU 2009-14 ) and ASC 985-605,  Software  ( ASC 985-605 ). Revenue from the
+sale of certain CAD products is  
+      6  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+  
+recognized in accordance with ASC 840  Leases  ( ASC 840 ). For multiple element arrangements, revenue is allocated to all deliverables based on their relative selling
+prices. In such circumstances, a hierarchy is used to determine the selling price to be used for allocating revenue to deliverables as follows: (i) vendor-specific objective evidence of fair value ( VSOE ), (ii) third-party evidence
+of selling price ( TPE ) and (iii) best estimate of the selling price ( BESP ). VSOE generally exists only when the deliverable is sold separately and is the price actually charged for that deliverable. The process for
+determining BESP for deliverables without VSOE or TPE considers multiple factors including relative selling prices, competitive prices in the marketplace, and management judgment; however, these may vary depending upon the unique facts and
+circumstances related to each deliverable.    The Company uses customer purchase orders that are subject to the Company s terms and
+conditions or, in the case of an Original Equipment Manufacturer ( OEM ) are governed by distribution agreements. In accordance with the Company s distribution agreements, the OEM does not have a right of return, and title and
+risk of loss passes to the OEM upon shipment. The Company generally ships Free On Board shipping point and uses shipping documents and third-party proof of delivery to verify delivery and transfer of title. In addition, the Company assesses
+whether collection is probable by considering a number of factors, including past transaction history with the customer and the creditworthiness of the customer, as obtained from third party credit references.  
+ If the terms of the sale include customer acceptance provisions and compliance with those provisions cannot be demonstrated, all revenue is
+deferred and not recognized until such acceptance occurs. The Company considers all relevant facts and circumstances in determining when to recognize revenue, including contractual obligations to the customer, the customer s post-delivery
+acceptance provisions, if any, and the installation process.    The Company has determined that iCAD s digital and film based sales
+generally follow the guidance of FASB ASC Topic 605  Revenue Recognition  ( ASC 605 ) as the software has been considered essential to the functionality of the product per the guidance of ASU 2009-14. Typically, the
+responsibility for the installation process lies with the OEM partner. On occasion, when iCAD is responsible for product installation, the installation element is considered a separate unit of accounting because the delivered product has
+stand-alone value to the customer. In these instances, the Company allocates revenue to the deliverables based on the framework established within ASU 2009-13. Therefore, the installation and training revenue is recognized as the services
+are performed according to the BESP of the element. Revenue from the digital and film based equipment, when there is installation, is recognized based on the relative selling price allocation of the BESP, when delivered.  
+ Revenue from certain CAD products is recognized in accordance with ASC 985-605. Sales of our software products typically include training
+and PCS, and the Company has established VSOE for these elements. Product revenue is determined based on the residual value in the arrangement and is recognized when delivered. Revenue for training is deferred and recognized when the
+training has been completed.  
+      7  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+  Sales of the Company s Therapy segment products typically include a controller,
+accessories, source agreements and services. The Company allocates revenue to the deliverables in the arrangement based on the BESP in accordance with ASU 2009-13. Product revenue is generally recognized when the product has been delivered
+and service and source revenue is typically recognized over the life of the service and source agreement. The Company includes the following in service and supplies revenue: the sale of physics and management services, the lease of electronic
+brachytherapy equipment, development fees, supplies and the right to use the Company s AxxentHub software. Physics and management services revenue and development fees are considered to be delivered as the services are performed or over
+the estimated life of the agreement. The Company typically bills items monthly over the life of the agreement except for development fees, which are generally billed in advance or over a 12 month period and the fee for treatment supplies which
+is generally billed in advance.    The Company defers revenue from the sale of certain service contracts and recognizes the related revenue
+on a straight-line basis in accordance with ASC Topic 605-20,  Services . The Company provides for estimated warranty costs on original product warranties at the time of sale.  
+  Cost of Revenue     Cost of
+revenue consists of the costs of products purchased for resale, costs relating to service including personnel costs for physicists, management services and radiation therapists, costs of service contracts to maintain equipment after the warranty
+period, product installation, training, customer support, certain warranty repair costs, inbound freight and duty, cost of supplies, manufacturing, warehousing, material movement, inspection, scrap, rework, amortization, depreciation and in-house
+product warranty repairs. Included in cost of revenue for the nine months ended September 30, 2016 is a credit of $467,000 related to a refund of the Medical Device Excise Tax ( MDET ). The MDET refund of $467,000 for the nine
+months ended September 30, 2016 related to refunds of the MDET for the periods from April 2013 to December 2015. The MDET refunds were not material to any prior period; accordingly, prior periods have not been restated.  
+  Note 2 - Loss per Common Share     The
+Company s basic net loss per share is computed by dividing net loss by the weighted average number of shares of common stock outstanding for the period.  
+ A summary of the Company s calculation of net loss per share is as follows (in thousands except per share amounts):  
+      8  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+
+   The shares of the Company s common stock, issuable upon the exercise of stock options and vesting of
+restricted stock that were excluded from the calculation of diluted net loss per share because their effect would have been antidilutive are as follows:      
+    Note 3   Business Combinations   
+  Acquisition of VuComp Cancer detection portfolio   
+ On January 13, 2016, the Company completed the acquisition of the VuCOMP cancer detection portfolio, including the M-Vu computer aided
+detection (CAD) technology platform. The acquisition includes an extensive library of related clinical data, VuCOMP s key personnel and the customer base that existed at closing of the transaction. The acquisition of the key personnel
+and clinical data is expected to contribute to the ongoing development of the Company s CAD technology which will be used for future cancer detection research and patents. As the Company considered this to be a business combination, the
+assets were valued in accordance with ASC Topic 805,   Business Combinations   ( ASC 805 ).    As noted below, the
+Company acquired VuComp s M-Vu Breast Density product in April 2015. In connection with the diligence of the January 2016 acquisition, VuComp disclosed that it had previously entered into a license agreement pursuant to which it issued an
+irrevocable, royalty-free worldwide license to a third party. On December 24, 2015, iCAD  
+      9  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+  
+notified VuComp of a claim under the April 2015 asset purchase agreement based on the disclosure of the third party license agreement, which iCAD believed constituted a breach of VuComp s
+representation as to its exclusive ownership of its intellectual property at the time of the April 2015 transaction. In connection with the purchase of the VuComp cancer detection portfolio, the Company provided a release of the aforementioned
+claim. The Company determined that this claim was a component of the purchase price. The Company determined the value of litigation settlement as the excess of the fair value of the business acquired over the cash consideration
+paid. As a result the Company recorded a gain on litigation settlement of $249,000 in the first quarter of 2016, which is a component of the purchase price as noted below:  
+   
+   The amount allocated to the acquired assets was estimated primarily through the use of discounted cash flow
+valuation techniques. Appraisal assumptions utilized under this method include a forecast of estimated future net cash flows, as well as discounting the future net cash flows to their present value. The following is a summary of the
+preliminary allocation of the total purchase price based on the estimated fair values as of the date of the acquisition and the amortizable life:      
+   The assets obtained in the acquisition of VuComp s M-Vu Cancer detection portfolio (including the M-Vu
+breast density product) and the anticipated future revenues are included in the Detection segment and, accordingly, the goodwill resulting from the purchase price allocation is included in goodwill of the Detection segment. Included in revenue
+of the Detection segment for the three and nine months ended September 30, 2016 is approximately $0.0 and $0.1 million, respectively as a result of this acquisition. Pro forma results of operations have not been presented because the effects of
+the business combination was not material to our consolidated financial results.  
+      10  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+   Acquisition of VuComp M-Vu Breast Density Product   
+ On April 29, 2015, pursuant to the terms of the Asset Purchase Agreement with VuComp, the Company purchased VuComp s M-Vu Breast Density
+product for $1,700,000 in cash. The Company considered the acquisition to be an acquisition of a business as the Company acquired the Breast Density product and certain customer liabilities which were considered to be an integrated set of
+activities at acquisition. Under the terms of the agreement, the Company acquired the breast density intellectual property product, which has been integrated with the Company s PowerLook Advanced Mammography Platform (AMP). PowerLook AMP
+is a modular solution designed to provide advanced tools for breast disease detection and analysis, including CAD for tomosynthesis. As the Company considered this to be a business combination, the assets were valued in accordance with ASC
+Topic 805,   Business Combinations   ( ASC 805 ).    The amount allocated to the acquired assets was estimated
+primarily through the use of discounted cash flow valuation techniques. Appraisal assumptions utilized under this method include a forecast of estimated future net cash flows, as well as discounting the future net cash flows to their present
+value. The acquired technology is being amortized over the estimated useful life of approximately eight years and nine months from the closing of the transaction. The following is a summary of the allocation of the total purchase price
+based on the fair values as of the date of the acquisition and the amortizable life:      
+   The assets obtained in the acquisition of VuComp s M-Vu Breast Density product and the anticipated future
+revenues are included in the Detection segment and, accordingly, the goodwill resulting from the purchase price allocation is included in goodwill of the Detection segment. Pro forma results of operations have not been presented because the
+effects of the business combination was not material to our consolidated financial results.  
+      11  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+   Note 4   Inventory   
+ The components of inventory, net of allowance for obsolete, unmarketable or slow-moving inventories, are summarized as follows:  
+   
+    Note 5   Long Term Debt   
+ On March 31, 2015, the Company repaid in full the aggregate amount outstanding under the Deerfield Facility Agreement, dated as of December 29,
+2011 (as amended, supplemented or otherwise modified to the date hereof, the  Facility Agreement ), by and among the Company, Deerfield Private Design Fund II, L.P., Deerfield Private Design International II, L.P., and Deerfield Special
+Situations Fund, L.P. and, for itself and as assignee of the obligations held by Deerfield Special Situations Fund International Master Fund, L.P. The Facility Agreement and related documents were terminated as of March 31, 2015. The Facility
+Agreement was to mature on December 29, 2016 and was able to be repaid prior to the maturity date at the Company s option without penalty or premium. On March 31, 2015, the Company used cash on hand to pay the $11.25 million outstanding
+principal amount due under the Facility Agreement and approximately $162,000 in accrued and unpaid interest on such principal amount.    The
+Company recorded a loss on the extinguishment of debt of approximately $1.7 million at the termination date in the quarter ended March 31, 2015.  
+ The following amounts compose interest expense included in our consolidated statement of operations for the three and nine months ended
+September 30, 2016 and 2015: (in thousands)      
+ 
+      12  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+  Cash interest expense represents the amount of interest paid in cash under the Facility
+Agreement which represents the interest of 5.75% on the Facility Agreement through March 31, 2015. Non-cash amortization is the amortization of the discount on the Facility Agreement. The amortization of debt costs relates to the costs
+incurred with the financing, which is primarily a facility fee and a finder s fee that were capitalized and are being expensed using the effective interest method. The amortization of the settlement obligation represents the interest
+associated with the settlement agreements for both Carl Zeiss Meditec AG and Hologic, Inc (see Note 8). Interest expense capital lease and Capital lease fair value amortization represent interest related to the capital lease as described in
+Note 6.     Note 6   Lease Commitments   
+  Operating leases   
+ Facilities are leased under operating leases expiring at various dates through March 2018. Certain of these leases contain renewal
+options. Rent expense under operating leases was $178,000 and $516,000 for the three and nine month periods ended September 30, 2016 and $165,000 and $490,000 for the three and nine month periods ended September 30, 2015, respectively.  
+ Future minimum lease payments as of September 30, 2016 under operating leases are as follows: (in thousands)  
+   
+    Capital leases   
+ The Company entered into a capital lease agreement for the purchase of certain equipment in August 2013 for approximately $409,000. Under
+the guidance of ASC Topic 840,   Leases   ( ASC 840 ) the Company determined that the lease was a capital lease as it contained a bargain purchase option whereby the Company has the option to buy the equipment for $1 at the
+end of the lease term. Accordingly, the equipment has been capitalized and a liability has been recorded. The equipment cost of $409,000 is reflected as property and equipment in the balance sheet and is being depreciated over its useful
+life. In the quarter ended September 30, 2016, this lease was paid in full.  
+      13  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+  In connection with the Radion/DermEbx Acquisition which closed in July 2014, the Company
+assumed two separate equipment lease obligations with payments totaling approximately $2.6 million through May 2017. The leases were determined to be capital leases and accordingly the equipment was capitalized and a liability of $2.5 million
+was recorded. In connection with the acquisition, the Company recorded a fair value adjustment to interest expense and is amortizing the adjustment over the life of the related lease. As of September 30, 2016, the outstanding liability for
+the acquired equipment leases was approximately $0.2 million.    Future minimum lease payments under all outstanding capital leases are as
+follows: (in thousands)      
+    Related Party Lease:   
+ Kamal Gogineni is an employee of one of the Company s subsidiaries and a stockholder of the Company s common
+stock. Additionally, Mr. Gogineni is a shareholder of Radion Capital Partners ( RCP ). RCP was the lessor under a lease between RCP and DermEbx (the  Lease ). In connection with the Company s acquisition of
+assets of Radion and DermEbx that closed in July 2014, one of the assets and obligations that the Company acquired was the Lease. Pursuant to the Lease, the Company is obligated to pay a total of $144,000 and the liability is included in the
+minimum lease payments above, with remaining payments of $67,000 in 2016 and $77,000 in 2017.     Note 7 - Stock-Based Compensation   
+ The Company follows the guidance in ASC Topic 718,   Compensation   Stock Compensation   ,  ( ASC 718 ).
+ 
+      14  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+  The Company granted options to purchase 100,500 shares of the Company s stock in the
+three months ended September 30, 2016. Options granted under the Company s stock incentive plans were valued utilizing the Black-Scholes model using the following assumptions and had the following fair values:  
+   
+   The Company s stock-based compensation expense, including options and restricted stock by category is as
+follows (amounts in thousands):      
+   As of September 30, 2016, unrecognized compensation cost (in thousands) related to unexercisable options and
+unvested restricted stock and the weighted average remaining period is as follows:      
+   The Company s restricted stock awards typically vest in either one year or three equal annual installments
+with the first installment vesting one year from grant date. The Company granted 93,500 shares of restricted stock in the quarter ended September 30, 2016, and 50,000 shares of restricted stock that were performance based tied to operational
+metrics. For performance based restricted shares, the probability of achieving the target is assessed quarterly and compared to actual results during the service period and stock-based compensation expense is adjusted accordingly.  
+      15  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+  The Company s aggregate intrinsic value for stock options and restricted stock
+outstanding is as follows (in thousands):      
+   The intrinsic value of stock options exercised during the three and nine months ended September 30, 2016 was
+$189,000 and $195,000, respectively. The intrinsic value of stock options exercised during the three and nine months ended September 30, 2015 was $7,000 and $306,000, respectively. The intrinsic value of restricted shares that vested in
+each of the quarters ended September 30, 2016 and 2015 was $0 and $10,000, respectively.     Note 8 - Commitments and Contingencies   
+  Foreign Tax Claim     In July
+2007, a dissolved former Canadian subsidiary of the Company, CADx Medical Systems Inc. ( CADx Medical ), received a tax re-assessment of approximately $6,800,000 from the Canada Revenue Agency ( CRA ) resulting from CRA s
+audit of CADx Medical s Canadian federal tax return for the year ended December 31, 2002. In February 2010 the CRA reviewed the matter and reduced the tax re-assessment to approximately $703,000, excluding interest and penalties. The
+Company believes that it is not liable for the re-assessment against CADx Medical and no accrual has been recorded for this matter as of September 30, 2016.  
+  Settlement Obligations   
+ In connection with the acquisition of Xoft in 2010, the Company recorded a royalty obligation pursuant to a settlement agreement entered into
+between Xoft and Hologic in August 2007. Xoft received a nonexclusive, irrevocable, perpetual, worldwide license, including the right to sublicense certain Hologic patents, and a non-compete covenant as well as an agreement not to seek further
+damages with respect to the alleged patent violations. In return, the Company has a remaining obligation to pay a minimum annual royalty payment to Hologic, of $250,000 payable through 2016. In addition to the minimum annual royalty
+payments, the litigation settlement agreement with Hologic also provided for payment of royalties based upon a specified percentage of future net sales on any products that utilize the licensed rights. The Company has a liability within
+accounts payable and accrued expenses for future payment and for future minimum royalty obligations totaling $448,000. The Company recorded interest expense of approximately $10,000 and $30,000 in the three and nine months ended September 30,
+2016, respectively, and $19,000 and $55,000 in the three and nine months ended September 30, 2015, respectively, related to this obligation.  
+      16  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+  In December, 2011, the Company agreed to a settlement related to litigation with Carl Zeiss
+Meditec AG. The Company is obligated to pay the remaining amount of $0.5 million in June 2017. As of September 30, 2016, the remaining liability recorded within accrued expenses for future payment and the remaining minimum royalty
+obligations was $461,000. The Company recorded interest expense of approximately $13,000 and $39,000 in the three and nine months ended September 30, 2016, respectively, and $13,000 and $69,000 in the three and nine months ended September 30,
+2015, respectively, related to this obligation.    The Company was granted a non-exclusive license from Yeda Research which relates to the
+3TP method for the detection of cancer and has a minimum obligation of $25,000 annually through 2032 for a total of approximately $0.4 million.  
+  Other Commitments     The
+Company is obligated to pay approximately $0.5 million for firm purchase obligations to suppliers for future product deliverables.  
+  Litigation     The Company
+is a party to various legal proceedings and claims arising out of the ordinary course of its business. Although the final results of all such matters and claims cannot be predicted with certainty, the Company currently believes that there are
+no current proceedings or claims pending against it the ultimate resolution of which would have a material adverse effect on its financial condition or results of operations. However, should the Company fail to prevail in any legal matter or
+should several legal matters be resolved against the Company in the same reporting period, such matters could have a material adverse effect on our operating results and cash flows for that particular period. In all cases, at each reporting period,
+the Company evaluates whether or not a potential loss amount or a potential range of loss is probable and reasonably estimable under ASC 450, Contingencies. Legal costs are expensed as incurred.  
+  Note 9 - Fair Value Measurements     The
+Company follows the provisions of ASC Topic 820,   Fair Value Measurement and Disclosures  , ( ASC 820 ). This topic defines fair value, establishes a framework for measuring fair value under US GAAP and enhances disclosures
+about fair value measurements. Fair value is defined under ASC 820 as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in
+an orderly transaction between market participants on the measurement date. Valuation techniques used to measure fair value under ASC 820 must maximize the use of observable inputs and minimize the use of unobservable inputs. The standard describes
+a fair value hierarchy based on three levels of inputs, of which the first two are considered observable and the last unobservable, that may be used to measure fair value which are the following:  
+      17  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+
+Level 1 - Quoted prices in active markets for identical assets or liabilities.        
+
+Level 2 - Inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices for similar assets or liabilities; quoted prices in markets that are not active; or other inputs that are
+observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.        
+
+Level 3 - Unobservable inputs that are supported by little or no market activity and that are significant to the fair value.    
+ A financial instrument s level within the fair value hierarchy is based on the lowest level of any input that is significant to the fair
+value measurement.    Our financial instruments include cash and cash equivalents, accounts receivable, accounts payable and certain accrued
+liabilities. The carrying amounts of our cash and cash equivalents (which are composed primarily of deposit and overnight sweep accounts), accounts receivable, accounts payable and certain accrued liabilities approximate fair value due to the
+short maturity of these instruments.    The Company s assets that are measured at fair value on a recurring basis relate to the
+Company s money market accounts.    The Company s money market funds are included in cash and cash equivalents in the accompanying
+balance sheets and are considered a Level 1 investment as they are valued at quoted market prices in active markets.    The following table
+sets forth the Company s assets and liabilities which are measured at fair value on a recurring basis by level within the fair value hierarchy.      
+ 
+      18  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+   Note 10   Income Taxes   
+ The Company recorded an income tax provision of $10,000 and $55,000 in the three and nine months ended September 30, 2016, respectively, as
+compared to income tax expense of $16,000 and an income tax benefit of $12,000, in the three and nine months ended September 30, 2015, respectively. The income tax benefit as of September 30, 2015 primarily related to a state tax provision and
+a benefit from the reversal of a deferred tax liability relating to tax amortizable goodwill. Because of the Company s goodwill impairment, the tax basis in amortizable goodwill is greater than book basis which results in a deferred tax
+asset that is subject to a valuation allowance. At September 30, 2016, the Company had no material unrecognized tax benefits and no adjustments to liabilities or tax expense were required under ASC 740,  Income Taxes . The
+Company does not expect that the unrecognized tax benefits will materially increase within the next twelve months. The Company did not recognize any interest or penalties related to uncertain tax positions at September 30, 2016. The Company files
+United States federal income tax returns and income tax returns in various states and local jurisdictions. The Company s three preceding tax years remain subject to examination by federal and state taxing authorities. In addition, because
+the Company has net operating loss carry-forwards, the Internal Revenue Service and state jurisdictions are permitted to audit earlier years and propose adjustments up to the amount of net operating loss generated in those years. The Company is
+not currently under examination by any federal or state jurisdiction for any tax years.     Note 11   Long-lived assets   
+ In accordance with FASB ASC Topic 360,  Property, Plant and Equipment , ( ASC 360 ), the Company assesses long-lived assets
+for impairment if events and circumstances indicate it is more likely than not that the fair value of the asset group is less than the carrying value of the asset group.  
+ ASC 360-10-35 uses  events and circumstances  criteria to determine when, if at all, an asset (or asset group) is evaluated for
+recoverability. Thus, there is no set interval or frequency for recoverability evaluation. In accordance with ASC 360-10-35-21 the following factors are examples of events or changes in circumstances that indicate the carrying amount of an asset
+(asset group) may not be recoverable and thus is to be evaluated for recoverability.      
+
+A significant decrease in the market price of a long-lived asset (asset group);        
+
+A significant adverse change in the extent or manner in which a long-lived asset (asset group) is being used or in its physical condition;    
+
+A significant adverse change in legal factors or in the business climate that could affect the value of a long-lived asset (asset group), including an adverse action or assessment by a regulator;    
+
+An accumulation of costs significantly in excess of the amount originally expected for the acquisition or construction of a long-lived asset (asset group);    
+      19  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+
+A current period operating or cash flow loss combined with a history of operating or cash flow losses or a projection or forecast that demonstrates continuing losses associated with the use of a long-lived asset (asset
+group).      The Company did not have any triggering events in the quarter ended September 30, 2016.  
+  Note 12 - Goodwill     In accordance with
+FASB ASC Topic 350-20,  Intangibles - Goodwill and Other , ( ASC 350-20 ), the Company tests goodwill for impairment on an annual basis and between annual tests if events and circumstances indicate it is more likely than not that
+the fair value of the reporting unit is less than the carrying value of the reporting unit.    Factors the Company considers important, which
+could trigger an impairment of such asset, include the following:      
+
+significant underperformance relative to historical or projected future operating results;        
+
+significant changes in the manner or use of the assets or the strategy for the Company s overall business;        
+
+significant negative industry or economic trends;        
+
+significant decline in the Company s stock price for a sustained period; and        
+
+a decline in the Company s market capitalization below net book value.      The Company would
+record an impairment charge if such an assessment were to indicate that the fair value of a reporting unit was less than the carrying value. In evaluating potential impairments outside of the annual measurement date, judgment is required in
+determining whether an event has occurred that may impair the value of goodwill or intangible assets. The Company utilizes either discounted cash flow models or other valuation models, such as comparative transactions and market multiples, to
+determine the fair value of reporting units. The Company makes assumptions about future cash flows, future operating plans, discount rates, comparable companies, market multiples, purchase price premiums and other factors in those
+models. Different assumptions and judgment determinations could yield different conclusions that would result in an impairment charge to income in the period that such change or determination was made. The Company did not have any
+triggering events in the quarter ended September 30, 2016.    The Company performed its annual impairment assessment at October 1, 2015 and
+compared the fair value of each reporting unit to its carrying value as of this date. The fair value exceeded the carrying value by approximately 584% for the Detection reporting unit and 144% for the Therapy reporting unit. The carrying
+values of the reporting units were determined based on an allocation of our assets and liabilities through specific allocation of certain assets and liabilities to the reporting units and an apportionment of the remaining net assets based on the
+relative size of the reporting units  revenues and operating expenses compared to the Company as a whole. The determination of reporting units also requires management judgment.  
+      20  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+  The Company determined the fair values for each reporting unit using a weighting of the
+income approach and the market approach. For purposes of the income approach, fair value is determined based on the present value of estimated future cash flows, discounted at an appropriate risk adjusted rate. The Company used internal
+forecasts to estimate future cash flows and includes an estimate of long-term future growth rates based on the most recent views of the long-term forecast for each segment. Accordingly, actual results can differ from those assumed in the
+forecasts. The discount rate of approximately 17% is derived from a capital asset pricing model and analyzing published rates for industries relevant to the reporting units to estimate the cost of equity financing. The Company uses
+discount rates that are commensurate with the risks and uncertainty inherent in the respective businesses and in the internally developed forecasts.  
+ In the market approach, the Company uses a valuation technique in which values are derived based on market prices of publicly traded companies
+with similar operating characteristics and industries. A market approach allows for comparison to actual market transactions and multiples. It can be somewhat limited in its application because the population of potential comparable
+publicly-traded companies can be limited due to differing characteristics of the comparative business and ours, as well as market data may not be available for divisions within larger conglomerates or non-public subsidiaries that could otherwise
+qualify as comparable, and the specific circumstances surrounding a market transaction (e.g., synergies between the parties, terms and conditions of the transaction, etc.) may be different or irrelevant with respect to the business.  
+ The Company corroborated the total fair values of the reporting units using a market capitalization approach; however, this approach cannot be
+used to determine the fair value of each reporting unit value. The blend of the income approach and market approach is more closely aligned to the business profile of the Company, including markets served and products available. In
+addition, required rates of return, along with uncertainties inherent in the forecast of future cash flows, are reflected in the selection of the discount rate. In addition, under the blended approach, reasonably likely scenarios and associated
+sensitivities can be developed for alternative future states that may not be reflected in an observable market price. The Company will assess each valuation methodology based upon the relevance and availability of the data at the time the
+valuation is performed and weight the methodologies appropriately.    As discussed in Note 3, in April 2015, the Company acquired
+VuComp s M-Vu    Breast Density product for $1.7 million. The product was integrated into the Company s Powerlook AMP system, which is a component of the Detection reporting unit.
+The Company determined that the acquisition was a business combination and recorded goodwill of $0.8 million to the Detection segment. In January 2016, the Company completed the acquisition of VuComp s M-Vu CAD and other assets for
+$6,000. The customers, related technology and clinical data acquired are being used for the Company s  
+      21  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+  
+Cancer Detection products and the Company recorded goodwill of $307,000 to the Detection segment. In the second quarter of 2016, the Company recorded a measurement period adjustment of
+$14,000 relating to unbilled accounts receivable. As a result, goodwill decreased to $293,000.    A roll forward of goodwill activity by
+reportable segment is as follows:      
+    Note 13   Segment Reporting   
+ In accordance with FASB Topic ASC 280,   Segments  , operating segments, are defined as components of an enterprise that engage
+in business activities for which discrete financial information is available and regularly reviewed by the chief operating decision maker ( CODM ) in deciding how to allocate resources and assess performance.  
+ The Company s CODM is the CEO. Each segment generates revenue from the sale of medical equipment and related services and/or sale of
+supplies. The Company has determined there are two segments, Cancer Detection and Cancer Therapy.    The Detection segment consists of
+our advanced image analysis and workflow products, and the Therapy segment consists of our radiation therapy Axxent products, and related services. The primary factors used by our CODM to allocate resources are based on revenues, gross profit,
+operating income, and earnings or loss before interest, taxes,  
+      22  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+  
+depreciation, amortization, and other specific and non-recurring items ( Adjusted EBITDA ) of each segment. Included in segment operating income are stock compensation,
+amortization of technology and depreciation expense. There are no intersegment revenues.    Our CODM does not use asset information by
+segment to allocate resources or make operating decisions.    Segment revenues, gross profit, segment operating income or loss, and a
+reconciliation of segment operating income or loss to GAAP loss before income tax is as follows (in thousands):      
+ 
+      23  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+   Note 14 - Recent Accounting Pronouncements   
+ In May 2014, the Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update ( ASU ) 2014-09
+ Revenue from Contracts with Customers  ( ASU 2014-09 ), which amends ASC 605  Revenue Recognition  and creates a new Topic 606  Revenue from Contracts with Customers.  This update provides guidance on how an
+entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. Upon initial
+application, the provisions of this update are required to be applied retrospectively to each prior reporting period presented or retrospectively with the cumulative effect of initially applying this update recognized at the date of initial
+application. This update also expands the disclosure requirements surrounding revenue recorded from contracts with customers. In August 2015, the FASB issued ASU 2015-14  Deferral of the Effective Date . The amendments in this
+Update defer the effective date of Update 2014-09 for all entities by one year. Public business entities, certain not-for-profit entities, and certain employee benefit plans should apply the guidance in Update 2014-09 to annual reporting
+periods beginning after December 15, 2017, including interim reporting periods within that reporting period. Earlier application is permitted only as of annual reporting periods beginning after December 15, 2016, including interim reporting
+periods within that reporting period. We are currently evaluating the effect of this update on our financial statements and have not yet determined the method of initial application we will use.  
+ In February 2016, the FASB issued ASU No. 2016-02,  Leases . The standard establishes a right-of-use ( ROU ) model that
+requires a lessee to record a ROU asset and a lease liability on the balance sheet for all leases with terms longer than 12 months. Leases will be classified as either finance or operating, with classification affecting the pattern of expense
+recognition in the income statement. The new standard is effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. A modified retrospective transition approach is required for lessees for
+capital and operating leases existing at, or entered into after, the beginning of the earliest comparative period presented in the financial statements, with certain practical expedients available. We are currently evaluating the impact of our
+pending adoption of the new standard on our consolidated financial statements.    In March 2016, the FASB issued ASU 2016-09,
+ Improvements to Employee Share-Based Payment Accounting.  This update was issued as part of a simplification effort for the accounting of share-based payment transactions, including the income tax consequences, classification of awards as
+either equity or liabilities, and classification on the statement of cash flows. The amendment is effective for annual periods beginning after December 15, 2016, and interim periods thereafter. Early adoption is permitted. We are currently
+evaluating the effect this amendment may have on our consolidated financial statements.    In August 2016, the FASB issued ASU 2016-15,
+ Statement of Cash Flows (Topic 230) , a consensus of the FASB s Emerging Issues Task Force. This update is intended to reduce diversity in practice in how certain transactions are classified in the statement of cash flows. The update
+requires cash payments for debt prepayment or debt extinguishment costs to be classified as cash outflows for financing activities. It also requires cash payments made soon after an acquisition s consummation date (approximately three
+ 
+      24  
+
+Table of Contents  
+
+iCAD, INC. AND SUBSIDIARIES   
+  Notes to Condensed Consolidated Financial Statements   
+  (Unaudited)      September
+30, 2016       
+  
+months or less) to be classified as cash outflows for investing activities. Payments made thereafter should be classified as cash outflows for financing activities up to the amount of the
+original contingent consideration liability. Payments made in excess of the amount of the original contingent consideration liability should be classified as cash outflows for operating activities. The amendment is effective for annual periods
+beginning after December 15, 2017, and interim periods thereafter. Early adoption is permitted. We are currently evaluating the effect this amendment may have on our consolidated financial statements.  
+   
+      25  
+
+Table of Contents  
+
+     Item 2. Management s Discussion and Analysis of Financial Condition and
+Results of Operations      Safe Harbor  Statement under the Private Securities Litigation Reform Act of 1995: Certain information included in
+this Item 2 and elsewhere in this Form 10-Q that are not historical facts contain forward looking statements that involve a number of known and unknown risks, uncertainties and other factors that could cause the actual results, performance or
+achievements of the Company to be materially different from any future results, performance or achievement expressed or implied by such forward looking statements. These risks and uncertainties include, but are not limited to, uncertainty of
+future sales and expense levels, protection of patents and other proprietary rights, the impact of supply and manufacturing constraints or difficulties, regulatory changes and requirements applicable to our products, product market acceptance,
+possible technological obsolescence of products, increased competition, integration of the acquired businesses, the impact of litigation and/or government regulation, changes in Medicare reimbursement policies, competitive factors, the effects
+of a decline in the economy in markets served by the Company and other risks detailed in the Company s other filings with the Securities and Exchange Commission. The words  believe ,  plan ,  intend ,
+ expect ,  estimate ,  anticipate ,  likely ,  seek ,  should ,  would ,  could  and similar expressions identify forward-looking statements. Readers are cautioned
+not to place undue reliance on those forward-looking statements, which speak only as of the date the statement was made.     Results of Operations
+     Overview     iCAD delivers innovative cancer
+detection and radiation therapy solutions and services that enable clinicians to find and treat cancers earlier and while enhancing patient care. iCAD offers a comprehensive range of upgradeable computer aided detection (CAD) and workflow solutions
+to support rapid and accurate detection of breast, prostate and colorectal cancers. iCAD s Xoft    Axxent    Electronic Brachytherapy
+(eBx   ) System    is a painless, non-invasive technology that delivers high dose rate, low energy radiation, which targets cancer while
+minimizing exposure to surrounding healthy tissue. The Xoft System is FDA cleared and CE marked for use anywhere in the body, including treatment of non-melanoma skin cancer, early-stage breast cancer and gynecological cancers. The comprehensive
+iCAD technology platforms include advanced hardware and software as well as management services designed to support cancer detection and radiation therapy treatments.  
+ The Company has grown primarily through acquisitions including CADx, Qualia Computing, CAD Sciences, Xoft, DermEbx, Radion and VuComp. The Radion/DermEbx
+acquisition extended the Company s position as a larger player in the oncology market, including the components that enable dermatologists and radiation oncologists to develop, launch and manage their electronic brachytherapy ( eBx )
+programs for the treatment of non-melanoma skin cancer. The VuComp acquisition included an extensive library of related clinical data which we expect to use for future cancer detection research and patents, as well as key personnel and expanded
+our customer base.  
+      26  
+
+Table of Contents  
+
+  In the Detection segment, our industry-leading solutions include advanced image analysis and workflow solutions
+that enable healthcare professionals to better serve patients by identifying pathologies and pinpointing the most prevalent cancers earlier, a comprehensive range of high-performance, upgradeable Computer-Aided Detection (CAD) systems and workflow
+solutions for mammography, Magnetic Resonance Imaging (MRI) and Computed Tomography (CT).    The Company intends to continue the extension of its image
+analysis and clinical decision support solutions for mammography, MRI and CT imaging. The Company believes that advances in digital imaging techniques, such as 3D mammography, should bolster its efforts to develop additional commercially viable
+CAD/advanced image analysis and workflow products. In April 2015, the Company acquired VuComp s M-Vu Breast Density product, which was integrated with the Company s mammography products. The purchase price was $1.7 million which
+was paid in cash at closing. In January 2016, the Company completed the acquisition of VuComp s M-Vu cancer detection portfolio including M-Vu CAD for $6,000. The acquisition provides clinical data for research and an additional
+customer install base to sell the Company s cancer detection solutions.    In the Therapy segment, the Company offers an isotope-free cancer treatment
+platform technology. The Xoft Electronic Brachytherapy System ( Xoft eBx ) can be used for the treatment of early- stage breast cancer, endometrial cancer, cervical cancer and skin cancer. We believe the Xoft eBx system platform
+indications represent strategic opportunities in the United States and international markets to offer differentiated treatment alternatives. In addition, the Xoft eBx system generates additional recurring revenue for the sale of consumables and
+related accessories. The acquisition of the assets of DermEbx and Radion allows the Company to offer solutions that enable dermatologists and radiation oncologists to develop launch and manage their eBx programs for the treatment of
+non-melanoma skin cancer ( NMSC ).    In May 2015 the Company announced that one of the regional Medicare Administrative Contractors instructed
+physicians to report CPT code (17999) rather than the established CPT code (0182T) for electronic brachytherapy for treatment of NMSC. This announcement resulted in a significant disruption in our Therapy segment as a result of the
+reimbursement uncertainty. A new CPT code (0394T) for the treatment on non-melanoma skin cancer utilizing electronic brachytherapy went into effect January 1, 2016. Revenues were impacted in fiscal year 2015 and the impact extended into
+the nine months ended September 30, 2016 as a result of the uncertainty. In 2015 the Company implemented expense reductions in response to the general uncertainty with respect to reimbursement levels.  
+ During the second quarter of 2016, certain regions of the U.S have been provided updates on reimbursement rates of CPT code (0394T). We believe that the
+clarity provided by these regions with respect to reimbursement could increase the number of providers treating NMSC with Xoft eBx in fiscal year 2016.  
+ As we have discussed in our risk factors noted in our Annual Report on Form 10-K filed with the SEC for the year ended December 31, 2015, our business can be
+affected by coverage policies adopted by federal and state governmental authorities, such as Medicare and Medicaid, as well as private payers, which often follow the coverage policies of these public programs. Such policies may affect which products
+customers purchase and the prices customers are willing to pay for  
+      27  
+
+Table of Contents  
+
+those products in a particular jurisdiction. The change in CPT codes in 2015 combined with reimbursement uncertainty for the new CPT code 0394T for the Company s electronic
+brachytherapy treatment of NMSC had a negative impact on the Company s revenues for the three and nine months ended September 30, 2016.    In
+connection with the preparation of the financial statements for the second quarter ended June 30, 2015, the Company evaluated the Therapy reporting unit for both long-lived asset and goodwill impairment. As a result of this assessment, the
+Company recorded material impairment charges in our Therapy reporting unit.    The Company s headquarters are located in Nashua, New Hampshire, with a
+manufacturing facility in New Hampshire and an operations, research, development, manufacturing and warehousing facility in San Jose, California.  
+  Critical Accounting Policies     The Company s
+discussion and analysis of its financial condition, results of operations, and cash flows are based on the Company s consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the
+United States of America. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and
+liabilities. On an on-going basis, the Company evaluates these estimates, including those related to accounts receivable allowance, inventory valuation and obsolescence, intangible assets, income taxes, warranty obligations, contingencies and
+litigation. Additionally, the Company uses assumptions and estimates in calculations to determine stock-based compensation. The Company bases its estimates on historical experience and on various other assumptions that it believes to be
+reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates
+under different assumptions or conditions. For a comprehensive list of the Company s critical accounting policies, reference should be made to the Annual Report on Form 10-K for the year ended December 31, 2015 filed on March 11, 2016.
+ 
+      28  
+
+Table of Contents  
+
+    Three months ended September 30, 2016 compared to the three months ended September 30, 2015    
+  Revenue: (in thousands)       
+    Three months ended September 30, 2016 and 2015:   
+ Total revenue for the three month period ended September 30, 2016 was $6.0 million compared with revenue of $9.6 million for the three month period ended
+September 30, 2015, a decrease of approximately $3.6 million, or 37.4%. The decrease in revenue was due to a $2.5 million decrease in Therapy revenue and a decrease in Detection revenues of approximately $1.1 million. The decrease in
+Therapy revenue is primarily the residual effect of reimbursement uncertainty.    Detection product revenue decreased by approximately $1.2 million from
+$3.2 million to $2.0 million or 38.4% in the three months ended September 30, 2016 as compared to the three months ended September 30, 2015. The decrease is due primarily to a decrease in CAD revenues of $0.4 million, and a decrease in MRI
+revenue of approximately $0.9 million, offset by an increase in Colon revenue of $0.1 million. The decrease in CAD revenue is due primarily to a decrease in digital systems. The decrease in MRI product revenue is due primarily to the
+Company s exclusive distribution partner exercising its right in August 2015 to a fully paid-up license to distribute MRI software. This provided the Company with a cash payment of $2.0 million during the third quarter of 2015 that is
+being amortized over the term of the contract through July 2017.    Detection service and supplies revenue increased by approximately $0.2 million from $2.0
+million in the three months ended September 30, 2015 to $2.1 million in the three months ended September 30, 2016. Service and supplies revenue reflects the sale of service contracts to our installed base of customers. Service and supplies
+revenue related to our installed base of customers can vary from quarter to quarter.    Therapy product revenue was approximately $23,000 for the three
+months ended September 30, 2016 as compared to $1.3 million for the three months ended September 30, 2015. Product revenue from the sale of our Axxent eBx systems can vary significantly due to an increase or decrease in the number of units sold
+which can cause a significant fluctuation in product revenue in the period.  
+      29  
+
+Table of Contents  
+
+  Therapy service and supply revenue decreased approximately $1.3 million from $3.1 million in the three months
+ended September 30, 2015 to $1.8 million for the three months ended September 30, 2016. The decrease in Therapy service and supplies revenue is due primarily to a decrease in the services related to electronic brachytherapy for NMSC, which is
+related to the residual effect of reimbursement uncertainty.     Cost of Revenue and Gross Profit: (in thousands)   
+
+Gross profit for the three month period ended September 30, 2016 was $4.1 million, or 68.3% of revenue as compared to $6.8
+million or 71.2% of revenue in the three month period ended September 30, 2015. Gross profit percent changes are primarily due to changes in the mix of business, consulting costs related to non-recurring engineering revenue, additional
+manufacturing investments and amortization of acquired intangibles.      
+
+Cost of products decreased by approximately $0.9 million from approximately $1.1 million for the three months ended September 30, 2015 to approximately $0.2 million for the three months ended September 30, 2016, which
+is due primarily to the reduction of product revenue. The cost of product revenue as a percentage of product revenue was approximately 12% for the three months ended September 30, 2016 as compared to 25% for the three months ended September 30,
+2015. The decrease in cost of product revenue as a percentage of product revenue is due primarily to product mix.    
+      30  
+
+Table of Contents  
+
+The cost of service and supplies was $1.4 million in each of the three months ended September 30, 2015 and September 30, 2016. The cost of service and supplies revenue as a percentage of service and supplies
+revenue was approximately 34% for the quarter ended September 30, 2016 and 27% for the quarter ended September 30, 2015. The decrease in cost of service and supplies is due primarily to the decrease in service and supplies revenue. The
+increase in the cost of service and supplies revenue as a percentage of revenue reflects the reduction in service and supplies revenue due to the fixed costs in the cost of service and supplies revenue.    
+
+Operating Expenses: (in thousands)       
+   Operating expenses decreased by approximately $0.4 million or 5.8% in the three months ended September 30, 2016. The
+Company continues to manage expenses while investing in long-term and strategic initiatives.     Engineering and Product Development.  Engineering and
+product development costs increased by $0.3 million from $2.1 million in the three month period ended September 30, 2015 to $2.4 million in the three month period ended September 30, 2016. Detection engineering and product development costs
+increased by $0.3 million to $1.3 million for the three months ended September 30, 2016 from $1.0 million for the three months ended September 30, 2015 Therapy engineering and product development costs remained at $1.1 million for each of the
+quarters ended September 30, 2016 and ended September 30, 2015. The Company continues to invest in strategic initiatives such as the development of clinical evidence in both Detection and Therapy, development of breast tomosynthesis products
+and ongoing enhancements to our electronic brachytherapy products.     Marketing and Sales.    Marketing and sales expenses decreased by $0.4
+million or 13.9%, from $2.7 million in the three month period ended September 30, 2015 to $2.3 million in the three month period ended September 30, 2016. Therapy marketing and sales expense decreased $0.4 million from $1.8 million in the three
+months ended September 30, 2015 to $1.4 million for the three months ended September 30, 2016. The decrease in Therapy marketing and sales expenses was due primarily to decreases in salaries and wages. Detection marketing and sales costs
+were $0.9 million in each of the three months ended September 30, 2015 and September 30, 2016.     General and Administrative.  General and
+administrative expenses decreased by $0.3 million from $2.1 million in the three month period ended September 30, 2015 to $1.8 million in the three month period ended September 30, 2016. The decrease was due primarily to a decrease in personnel
+costs, bad debt expense and stock compensation expense.  
+      31  
+
+Table of Contents  
+
+   Amortization and Depreciation.  Amortization and depreciation is primarily related to acquired intangible
+assets and depreciation related to machinery and equipment. Amortization and depreciation was approximately $0.3 million in each of the three month periods ended September 30, 2015 and September 30, 2016.  
+  Other Income and Expense: (in thousands)       
+    Interest expense . Interest expense of $15,000 decreased by $31,000 or 67.4% for the three month period ended September
+30, 2016 as compared to interest expense of $46,000 in the three month period ended September 30, 2015. The reduction in interest expense is due primarily to the reduction in interest related to capital leases. Interest related to the
+Hologic and Zeiss settlement obligations was $23,000 in the three months ended September 30, 2016 as compared to $32,000 in the same period in 2015.  
+  Interest income.  Interest income of $2,000 and $4,000 for the three month periods ended September 30, 2016, and 2015, respectively, reflects income
+earned from our money market accounts.     Tax expense.  Tax expense of $10,000 and $16,000 for the three month periods ended September 30, 2016, and
+2015, respectively, is due primarily to state non-income and franchise based taxes.  
+      32  
+
+Table of Contents  
+
+    Nine months ended September 30, 2016 compared to the nine months ended September 30, 2015    
+  Revenue: (in thousands)       
+    Nine months ended September 30, 2016 and 2015:   
+ Total revenue for the nine month period ended September 30, 2016 was $19.4 million compared to revenue of $33.9 million for the nine month period ended
+September 30, 2015, a decrease of approximately $14.5 million, or 42.8%. The decrease in revenue was due to a $12.6 million decrease in Therapy revenue and a decrease in Detection revenues of approximately $2.0 million. The decrease in
+Therapy revenue is primarily the residual effect of reimbursement uncertainty.    Detection product revenue decreased by approximately $2.5 million from
+$9.1 million to $6.6 million or 27.4% in the nine months ended September 30, 2016 as compared to the nine months ended September 30, 2015. The decrease is due primarily to a decrease in CAD revenues of $0.5 million and a decrease in MRI revenue
+of approximately $2.1 million, offset by an increase in Colon products revenue of $0.1 million. The decrease in MRI revenue is due to the Company s exclusive distribution partner exercising its right in August 2015 to a fully paid-up
+license to distribute the software. This provided the Company with a cash payment of $2.0 million during the third quarter of 2015 that is being amortized over the term of the contract through July 2017.  
+ Detection service and supplies revenue increased by approximately $0.5 million from $5.9 million in the nine months ended September 30, 2015 to $6.4 million
+in the nine months ended September 30, 2016. Service and supplies revenue reflects the sale of service contracts to our installed base of customers. Service and supplies revenue related to our installed base of customers can vary from
+quarter to quarter.    Therapy product revenue was approximately $0.9 million for the nine months ended September 30, 2016 as compared to $2.5 million for
+the nine months ended September 30, 2015. Therapy product revenue for the nine months ended September 30, 2016, was negatively impacted by customer reaction to the uncertainty of reimbursement rates in the United States. Product revenue
+from the sale of our Axxent eBx systems can vary significantly due to an increase or decrease in the number of units sold which can cause a significant fluctuation in product revenue in the period.  
+ Therapy service and supplies revenue decreased approximately $11.0 million from $16.5 million in the nine months ended September 30, 2015 to $5.5 million for
+the nine months ended September 30, 2016. The decrease in Therapy service and supplies revenue is due primarily to a decrease in the services related to electronic brachytherapy for NMSC, which is related to the residual effect of reimbursement
+uncertainty.  
+      33  
+
+Table of Contents  
+
+   Cost of Revenue and Gross Profit: (in thousands)   
+
+Gross profit for the nine month period ended September 30, 2016 was $14.0 million, or 72.1% of revenue as compared to $24.1
+million or 70.9% of revenue in the nine month period ended September 30, 2015. Gross profit percent changes are primarily due to changes in the mix of business, consulting costs related to non-recurring engineering revenue, additional
+manufacturing investments and amortization of acquired intangibles. Gross profit for the nine months ended September 30, 2016 includes a recovery of the medical device excise tax of approximately $0.5 million due to recording the impact of an
+expected refund in the second quarter of 2016.      
+
+Cost of products decreased by approximately $2.1 million from approximately $2.7 million for the nine months ended September 30, 2015 to approximately $0.6 million for the nine months ended September 30, 2016, which is
+due primarily to a reduction in product revenue as well as a recovery of medical device excise tax in cost of product revenue of $0.3 million. The cost of product revenue as a percentage of product revenue was approximately 8% for the nine
+months ended September 30, 2016 as compared to 24% for the nine months ended September 30, 2015. The decrease in cost of product revenue as a percentage of product revenue is due primarily to the recovery of medical device excise tax in
+2016. Cost of product revenue can vary due to product mix.        
+ 
+      34  
+
+Table of Contents  
+
+quarter ended September 30, 2015. The decrease in cost of service supplies is due primarily to the decrease in service and supplies revenue. The increase in the cost of service and
+supplies revenue as a percentage of revenue reflects the reduction in service and supplies revenue due to fixed costs in the cost of service and supplies revenue.     
+
+Amortization and depreciation decreased by $0.5 million from $1.4 million in the nine months ended September 30, 2015 to $0.9 million for the nine months ended September 30, 2016. In June 2015, the Company impaired
+intangible assets of the Therapy reporting unit and recorded amortization expense based on the revised values of the assets; as a result amortization and depreciation for the intangibles decreased.    
+  Operating Expenses: (in thousands)       
+   Operating expenses decreased by approximately $31.1 million or 60.1% in the nine months ended September 30, 2016. During
+the second quarter of 2015, the Company recorded impairment charges of $27.4 million and implemented cost reduction initiatives as a result of reimbursement uncertainty.  
+  Engineering and Product Development.  Engineering and product development costs increased by $0.2 million or 3.2% from $6.6 million in the nine month
+period ended September 30, 2015 to $6.8 million in the nine month period ended September 30, 2016. Therapy engineering and product development costs decreased by $0.5 million from $3.6 million in the nine months ended September 30, 2015 to $3.1
+million for the nine months ended September 30, 2016. Detection engineering and product development costs increased by $0.7 million to $3.7 million for the nine months ended September 30, 2016 from $3.0 million for the nine months ended
+September 30, 2015. The Company continues to invest in strategic initiatives such as the development of ongoing clinical evidence, development of breast tomosynthesis products and additional enhancements to our electronic brachytherapy
+products.     Marketing and Sales.    Marketing and sales expenses decreased by $2.3 million or 23.9%, from $9.7 million in the nine month
+period ended September 30, 2015 to $7.4 million in the nine month period ended September 30, 2016. Therapy marketing and sales expense decreased $2.1 million from $6.8 million in the nine months ended September 30, 2015 to $4.7 million for the
+nine months ended September 30, 2016. The decrease in Therapy marketing and sales expenses was due primarily to decreases in salaries and wages and travel costs. Detection marketing and sales costs decreased by $0.2 million from $2.9
+million in the nine months ended September 30, 2015 to $2.7 million for the nine months ended September 30, 2016, due primarily to a decrease in commission expense.  
+      35  
+
+Table of Contents  
+
+   General and Administrative.  General and administrative expenses decreased by $1.1 million from $6.6
+million in the nine month period ended September 30, 2015 to $5.6 million in the nine month period ended September 30, 2016. The decrease was due primarily to a decrease in personnel costs and a $249,000 gain on settlement of litigation related
+to the acquisition of VuComp M-Vu CAD in January 2016.     Amortization and Depreciation.  Amortization and depreciation is primarily related to
+acquired intangible assets and depreciation related to machinery and equipment. Amortization and depreciation decreased by $0.5 million from $1.4 million in the nine month period ended September 30, 2015 to $0.9 million in the nine month period
+ended September 30, 2016. In June 2015, the Company impaired intangible assets of the Therapy reporting unit and recorded amortization and depreciation expense based on the revised values of the assets. As a result, amortization and
+depreciation for the nine months ended September 30, 2016 decreased as compared to the nine months ended September 30, 2015.     Goodwill and long-lived
+asset impairment.  In connection with the preparation of the financial statements for the second quarter ended September 30, 2015, the Company evaluated the Therapy reporting unit for both long-lived asset and goodwill impairment and recorded an
+impairment charge of $14.0 million related to goodwill and an impairment charge of $13.4 million related to long-lived assets for a total of $27.4 million.  
+  Other Income and Expense: (in thousands)       
+    Loss on extinguishment of debt.  The loss of $1.7 million from the extinguishment of debt represents the loss associated
+with the payoff of the Deerfield facility agreement, which was terminated. On March 31, 2015, the Company paid $11.25 million which represented the entire obligation. The loss on extinguishment represents the unamortized discount on the
+Facility agreement, and the write-off of the deferred debt costs. The Facility Agreement was to mature on December 29, 2016 and was repaid at the Company s option without penalty or premium.  
+  Interest expense . Interest expense of $59,000 decreased by $564,000 or 90.5% for the nine month period ended September 30, 2016 as compared to interest
+expense of $623,000 in the nine month period ended September 30, 2015. The reduction in interest expense is due primarily to the reduction in interest related to the Deerfield facility agreement that was terminated in March 2015. Interest
+related to the Hologic and Zeiss settlement obligations was $69,000 in the nine months ended September 30, 2016 as compared to $124,000 in the same period in 2015.  
+      36  
+
+Table of Contents  
+
+   Interest income.  Interest income of $9,000 and $18,000 for the nine month periods ended September 30,
+2016, and 2015, respectively, reflects income earned from our money market accounts.     Tax expense.  Tax expense for the nine month period ended
+September 30, 2016 is due primarily to state non-income and franchise based taxes. The tax benefit of $12,000 for the nine month period ended September 30, 2015 is due primarily to the reversal of a deferred tax liability of approximately
+$117,000, offset by tax expense of approximately $105,000. The deferred liability was the result of tax amortizable goodwill that was recognized due to the impairment of goodwill.  
+  Liquidity and Capital Resources     We believe that our
+current liquidity and capital resources are sufficient to sustain operations through at least the next 12 months, primarily due to cash on hand. Our projected cash needs include planned capital expenditures, lease and settlement commitments,
+and other long-term obligations.    As of September 30, 2016, the Company has current assets of $20.8 million which includes $10.5 million of cash and cash
+equivalents. Current liabilities are $12.8 million and working capital is $8.0 million. The ratio of current assets to current liabilities was 1.63:1. On March 31, 2015 the Company paid $11.25 million to repay the Deerfield facility
+agreement. In April 2015, we paid $1.7 million to acquire VuComp s M-Vu Breast Density product which was paid in cash at closing. In January 2016, the Company paid $6,000 to acquire the assets of VuComp cancer detection portfolio
+including M-Vu Cad.      
+   Net cash used for operating activities for the nine month period ended September 30, 2016 was $3.9 million, compared to net
+cash used for operating activities of $25,000 for the nine month period ended September 30, 2015. The cash used for operating activities for the nine month period ended September 30, 2016 resulted primarily from our net loss and from working
+capital changes resulting from increases in inventory and decreases in accounts payable and deferred revenue, offset by the cash generated due to the decrease in accounts receivable. We expect that cash used
+ 
+      37  
+
+Table of Contents  
+
+for or provided by operating activities may fluctuate in future periods as a result of a number of factors, including fluctuations in our operating results, specifically the timing of when we
+recognize revenue, our accounts receivable collections and the timing of other payments.    The net cash used for investing activities for the nine month
+period ended September 30, 2016 was $0.3 million which was primarily used for purchases of property and equipment. Cash used for investing activities for the nine month period ended September 30, 2015 was $2.6 million, which represents $1.7
+million related to the acquisition of VuComp and $0.9 million for purchases of property and equipment.    Net cash used for financing activities for the
+nine month period ended September 30, 2016 was $0.7 million as compared to net cash used for financing activities of $12.0 million for the nine month period ended September 30, 2015. Cash used for financing activities for the nine months ended
+September 30, 2016 represents primarily repayments of capital leases. The net cash used of $12.0 million for the nine months ended September 30, 2015 is primarily the repayment of the Deerfield facility agreement and repayments of capital
+leases.     Contractual Obligations     The following table
+summarizes, for the periods presented, our future estimated cash payments under existing contractual obligations (in thousands).      
+   Operating lease obligations are the minimum payments due under these obligations. Capital lease obligations represent the
+principal payments due under the respective leases.    Settlement obligations represent the minimum payments attributable to the obligations related
+primarily to Zeiss, Hologic and Yeda.    Other commitments represent firm purchase obligations to suppliers for future product deliverables.  
+  Recent Accounting Pronouncements     See Note 14 to the
+Condensed Consolidated Financial Statements.  
+      38  
+
+Table of Contents  
+
+      Item 3.    Quantitative and Qualitative Disclosures about Market
+Risk      We believe we are not subject to material foreign currency exchange rate fluctuations, as substantially all of our sales and expenses are
+denominated in the U.S. dollar. We do not hold derivative securities and have not entered into contracts embedded with derivative instruments, such as foreign currency and interest rate swaps, options, forwards, futures, collars or warrants, either
+to hedge existing risks or for speculative purposes.        Item 4.   Controls and Procedures    
+ Our management, with the participation of our principal executive officer and principal financial officer, evaluated the effectiveness of the design and
+operation of our disclosure controls and procedures as of the end of the period covered by this report. Based on this evaluation, as of September 30, 2016, the principal executive officer and principal financial officer concluded that our disclosure
+controls and procedures (as defined in Rule 13a-15(e) of the Securities Exchange Act of 1934 ( Exchange Act ) were effective at the reasonable level of assurance.  
+ A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system
+are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no
+evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. Because of the inherent limitations in a cost-effective control system, misstatements due to error
+or fraud may occur and not be detected. We conduct periodic evaluations to enhance, where necessary our procedures and controls.    Our principal executive
+officer and principal financial officer conducted an evaluation of our internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f)) to determine whether any changes in internal control over financial reporting occurred
+during the quarter ended September 30, 2016, that have materially affected or which are reasonably likely to materially affect internal control over financial reporting. Based on that evaluation, there has been no such change during such
+period.  
+      39  
+
+Table of Contents  
+
+     PART II  OTHER INFORMATION      
+     Item 1. Legal Proceedings    
+ Please refer to the detailed discussion regarding litigation set forth in Note 8 of the Notes to Condensed Consolidated Financial Statements in this Form 10-Q.
+   The Company is involved in various legal matters that are in the process of litigation or settled in the ordinary course of business. Although the
+final results of all such matters and claims cannot be predicted with certainty, we believe that the ultimate resolution of all such matters and claims will not have a material adverse effect on our financial condition. However, such matters
+could have a material adverse effect on our operating results and cash flows for a particular period .         Item 1A.
+Risk Factors :      We operate in a changing environment that involves numerous known and unknown risks and uncertainties that could materially
+adversely affect our operations. Our risk factors are described in Part I, Item 1A of our Annual Report on Form 10-K filed with the SEC for the year ended December 31, 2015 as filed with the SEC on March 11, 2016. There have been no
+material changes in the risks affecting iCAD since the filing of our Form 10-K.        Item 6.   Exhibits    
+
+40  
+
+Table of Contents  
+
+    Signatures  
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned
+thereunto duly authorized.       
+
+iCAD, Inc.   
+ 
+ (Registrant)  
+
+Date: November 14, 2016 
+
+By: 
+   
+   /s/ Kenneth M. Ferry   
+
+Kenneth M. Ferry  
+
+Chief Executive Officer, Director  
+
+Date: November 14, 2016 
+
+By: 
+   
+   /s/ R. Scott Areglado   
+
+R. Scott Areglado  
+
+Chief Financial Officer (Interim)  
+ 
+      41  
+
+<EX-31.1>
+ 2
+ d247926dex311.htm
+ EX-31.1
+
+EX-31.1 
+
+EXHIBIT 31.1   
+  CERTIFICATION OF CHIEF EXECUTIVE OFFICER   
+ I, Kenneth M. Ferry, certify that:    1. I have
+reviewed this Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2016 of iCAD, Inc.;    2. Based on my knowledge,
+this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report;    3. Based on my knowledge, the financial statements, and other financial information included in this
+report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;  
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;  
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and;  
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the
+registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over
+financial reporting; and    5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of
+internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):  
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and   (b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date: November 14, 2016       
+
+/s/ Kenneth M. Ferry   
+ 
+ Kenneth M. Ferry  
+ 
+ Chief Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ d247926dex312.htm
+ EX-31.2
+
+EX-31.2 
+
+EXHIBIT 31.2   
+  CERTIFICATION OF CHIEF FINANCIAL OFFICER   
+ I, R.Scott Areglado, certify that:    1. I have
+reviewed this Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2016 of iCAD, Inc.;    2. Based on my knowledge,
+this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report;    3. Based on my knowledge, the financial statements, and other financial information included in this
+report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;  
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;  
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and;  
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the
+registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over
+financial reporting; and    5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of
+internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):  
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and   (b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.  
+ Date: November 14, 2016       
+
+/s/ R. Scott Areglado   
+ 
+ R. Scott Areglado  
+ 
+ Chief Financial Officer (Interim)  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ d247926dex321.htm
+ EX-32.1
+
+EX-32.1 
+
+EXHIBIT 32.1   
+  CERTIFICATION PURSUANT TO   
+  18 U.S.C. SECTION 1350,   
+  AS ADOPTED PURSUANT TO   
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002   
+ In connection with the Quarterly Report of iCAD, Inc. (the  Company ) on Form 10-Q for the quarterly period ended September 30, 2016 (the
+ Report ), I, Kenneth M. Ferry, as Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge:  
+
+(1) 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and        
+
+(2) 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.    
+
+/s/ Kenneth M. Ferry   
+ 
+ Kenneth M. Ferry  
+ 
+   Chief Executive Officer   
+ 
+  Date: November 14, 2016      
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ d247926dex322.htm
+ EX-32.2
+
+EX-32.2 
+
+EXHIBIT 32.2   
+  CERTIFICATION PURSUANT TO   
+  18 U.S.C. SECTION 1350,   
+  AS ADOPTED PURSUANT TO   
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002   
+ In connection with the Quarterly Report of iCAD, Inc. (the  Company ) on Form 10-Q for the quarterly period ended September 30, 2016 (the
+ Report ), I, R. Scott Areglado, as Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge:  
+
+(1) 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and        
+
+(2) 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.    
+
+/s/ R. Scott Areglado   
+ 
+ R. Scott Areglado  
+ 
+ Chief Financial Officer (Interim)  
+ 
+  Date: November 14, 2016  
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ icad-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ icad-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ icad-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ icad-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ icad-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ icad-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

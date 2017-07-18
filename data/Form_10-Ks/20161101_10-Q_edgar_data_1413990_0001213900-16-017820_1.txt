@@ -1,0 +1,1713 @@
+<Header>
+<FileStats>
+    <FileName>20161101_10-Q_edgar_data_1413990_0001213900-16-017820_1.txt</FileName>
+    <GrossFileSize>2159342</GrossFileSize>
+    <NetFileSize>77962</NetFileSize>
+    <ASCII_Embedded_Chars>139347</ASCII_Embedded_Chars>
+    <HTML_Chars>460384</HTML_Chars>
+    <XBRL_Chars>782798</XBRL_Chars>
+    <XML_Chars>660931</XML_Chars>
+    <N_Tables>31</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-16-017820.hdr.sgml : 20161101
+<ACCEPTANCE-DATETIME>20161031193449
+ACCESSION NUMBER:		0001213900-16-017820
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		52
+CONFORMED PERIOD OF REPORT:	20160831
+FILED AS OF DATE:		20161101
+DATE AS OF CHANGE:		20161031
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Portlogic Systems Inc.
+		CENTRAL INDEX KEY:			0001413990
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				202000407
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34905
+		FILM NUMBER:		161962956
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 TORONTO STREET
+		STREET 2:		SUITE 209
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5C 2B5
+		BUSINESS PHONE:		647-847-8350
+
+	MAIL ADDRESS:	
+		STREET 1:		2 TORONTO STREET
+		STREET 2:		SUITE 209
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5C 2B5
+
+</SEC-Header>
+</Header>
+
+ 0001213900-16-017820.txt : 20161101
+
+10-Q
+ 1
+ f10q0816_portlogicsystems.htm
+ QUARTERLY REPORT
+
+UNITED STATES  
+
+  SECURITIES AND EXCHANGE COMMISSION  
+
+  WASHINGTON, D.C. 20549  
+
+Form 10-Q  
+
+(Mark One) 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934 
+
+For the quarterly period ended August 31, 2016 
+
+or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934 
+
+For the transition period from ____________ to ____________ 
+
+Commission file number  333-151434  
+
+PORTLOGIC SYSTEMS INC.  
+
+ (Exact name of registrant as specified in its charter) 
+
+NEVADA   
+       
+      20-2000407   
+
+(State or other jurisdiction of 
+ incorporation or organization)  
+       
+     (I.R.S. Employer 
+ Identification No.)  
+
+2 Toronto Street, Suite 209, Toronto, Ontario, Canada  
+       
+      M5C 2B5   
+
+(Address of principal executive offices)  
+       
+     (Zip Code)  
+
+Registrant s telephone
+number, including area code       (437) 886-2432  
+
+Securities registered under Section 12(b) of the Exchange Act: None. 
+
+Securities registered under Section 12(g) of the Exchange Act: None. 
+
+Indicate by check mark
+whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.  Yes      No
+
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of
+ large accelerated filer,   accelerated filer,  and  smaller reporting company  in Rule 12b-2
+of the Exchange Act. 
+
+Large accelerated filer    
+      Accelerated filer                      
+ 
+      Non-accelerated filer      
+      Smaller
+    reporting company     
+ 
+      (Do not check if a smaller reporting company)    
+
+Indicate by check mark whether the registrant is
+a shell company (as defined in Rule 12b-2 of the Act).  Yes       No    
+
+As of October 31, 2016, the registrant had 130,740,184 shares of common
+stock, par value $0.001, outstanding. 
+
+PORTLOGIC SYSTEMS INC.  
+
+FORM 10-Q  
+
+  For the three months ended August 31, 2016  
+
+TABLE OF CONTENTS  
+
+PAGE  
+NUMBER    
+
+PART I   
+
+Item 1.  
+      Consolidated Financial Statements.  
+      1   
+ 
+      Item 2.  
+      Management's Discussion and Analysis of Financial Condition and Results of Operations.  
+      15   
+ 
+      Item 3.  
+      Quantitative and Qualitative Disclosures About Market Risk.  
+      18   
+ 
+      Item 4T.  
+      Controls and Procedures.  
+     18  
+
+PART II   
+
+Item 1.  
+      Legal Proceedings.  
+      20   
+ 
+      Item 1A.  
+      Risk Factors.  
+      20   
+ 
+      Item 2.  
+      Unregistered Sales of Equity Securities and Use of Proceeds.  
+      22   
+ 
+      Item 3.  
+      Defaults Upon Senior Securities.  
+      22   
+ 
+      Item 4.  
+      Submission of Matters to a Vote of Security Holders.  
+      22   
+ 
+      Item 5.  
+      Other Information.  
+      22   
+ 
+      Item 6.  
+      Exhibits.  
+      23   
+
+CAUTIONARY NOTICE REGARDING FORWARD-LOOKING STATEMENTS  
+
+Statements in this quarterly report on Form 10-Q may
+be  forward-looking statements . Forward-looking statements include, but are not limited to, statements that express
+our intentions, beliefs, expectations, strategies, predictions, or any other statements relating to our future activities or other
+future events or conditions. These statements are based on current expectations, estimates, and projections about our business
+based, in part, on assumptions made by our management. These statements are not guarantees of future performance and involve risks,
+uncertainties, and assumptions that are difficult to predict. Therefore, actual outcomes and results may, and probably will, differ
+materially from what is expressed or forecasted in the forward-looking statements due to numerous factors, including those described
+above and those risks discussed from time to time in this quarterly report on Form 10-Q, including the risks described under  Risk
+Factors  and  Management's Discussion and Analysis of Financial Condition and Results of Operations  and in other
+documents we file with the Securities and Exchange Commission. 
+
+In addition, such statements could be affected by risks
+and uncertainties related to our financial condition, factors that affect our industry, market and customer acceptance, competition,
+government regulations and requirements and pricing, as well as general industry and market conditions and growth rates, and general
+economic conditions. Any forward-looking statements speak only as of the date on which they are made, and we do not undertake any
+obligation to update any forward-looking statement to reflect events or circumstances after the date of this quarterly report on
+Form 10-Q, except as required by law. 
+
+PART I  
+
+Item 1.   
+      Financial Statements   
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+INTERIM CONSOLIDATED FINANCIAL STATEMENTS 
+
+AUGUST 31, 2016 (UNAUDITED) 
+
+FORMING A PART OF QUARTERLY REPORT 
+
+ PURSUANT TO THE SECURITIES EXCHANGE ACT OF 1934 
+
+PORTLOGIC SYSTEMS INC. 
+
+PORTLOGIC
+SYSTEMS INC.   
+
+   UNAUDITED
+INTERIM CONSOLIDATED BALANCE SHEETS   
+
+   AS
+OF AUGUST 31, 2016 AND MAY 31, 2016   
+
+  ( Amounts
+expressed in US Dollars)   
+
+*
+Common stock figures reflect the 1:750 reverse common stock split effective March 16, 2015 on a retroactive basis.   
+
+The
+accompanying notes form an integral part of these unaudited interim consolidated financial statements.  
+
+PORTLOGIC
+SYSTEMS INC.   
+
+   UNAUDITED
+INTERIM CONSOLIDATED STATEMENTS OF OPERATIONS   
+
+   FOR THE THREE MONTHS ENDED AUGUST 31, 2016 AND 2015   
+
+   (Amounts
+expressed in US Dollars)   
+
+*
+Reflects the 1:750 reverse common stock split effective March 16, 2015 on a retroactive basis.   
+
+The
+accompanying notes form an integral part of these unaudited interim consolidated financial statements.  
+
+PORTLOGIC
+SYSTEMS INC.   
+
+   UNAUDITED
+INTERIM CONSOLIDATED STATEMENTS OF CASH FLOWS   
+
+   FOR THE THREE MONTHS ENDED AUGUST 31, 2016 AND 2015   
+
+   (Amounts
+expressed in US Dollars)   
+
+The
+accompanying notes form an integral part of these unaudited interim consolidated financial statements.  
+
+PORTLOGIC SYSTEMS INC.   
+
+   NOTES
+TO UNAUDITED INTERIM CONSOLIDATED FINANCIAL STATEMENTS   
+
+   AUGUST
+31, 2016   
+
+   (Amounts
+expressed in US Dollars)   
+
+NOTE
+1. ORGANIZATION AND DESCRIPTION OF BUSINESS   
+
+Portlogic
+Systems Inc. ( Portlogic ) was incorporated under the laws of the State of Nevada on June 22, 2004. On June 5, 2008,
+Portlogic filed a Form S-1 Registration Statement under the United States Securities Act of 1933. It became effective June 24,
+2008.  
+
+Portlogic
+is a Toronto, Canada based technology company with enterprise mobile marketing applications solutions, kiosk hardware and software
+products which fall into six principal product families: m2Meet, m2Bank, m2Market, m2Ticket, m2Kiosk, and m2Workflow. Prior to
+January 2010. Portlogic created and licensed online interactive community portal software systems and developed a series of web-based
+community portal products.  
+
+On
+September 16, 2009, Portlogic incorporated a wholly-owned subsidiary, Sunlogic Energy Corporation in Panama City, Republic of
+Panama for the purpose of looking at solar and alternative green energy software and products. Sunlogic Energy Corporation is
+still incorporated as a subsidiary but its operations are on hold.  
+
+On
+June 18, 2012, Portlogic incorporated a wholly owned subsidiary, VOIP 1, Inc. under the laws of the State of Nevada. VOIP 1, Inc.
+specializes in data and voice telecommunications technologies. VOIP 1 began earning revenues in September 2012.  
+
+In
+August 2015, Portlogic started development on a high definition video server platform.  
+
+The
+accompanying unaudited interim consolidated financial statements include Portlogic and its subsidiary (herein after referred to
+collectively as the  Company ). All intercompany balances and transactions have been eliminated on consolidation.  
+
+The
+unaudited interim consolidated financial statements have been prepared in accordance with Securities and Exchange Commission requirements
+for interim financial statements. Therefore, they do not include all of the information and footnotes required in accordance with
+United States Generally Accepted Accounting Principles ( GAAP ) for complete financial statements. The unaudited interim
+consolidated financial statements should be read in conjunction with the Form 10-K for the year ended May 31, 2016.  
+
+The
+unaudited interim consolidated financial statements present the balance sheet, statements of operations, and cash flows of the
+Company. The unaudited interim consolidated financial statements have been prepared by management in accordance with GAAP.  
+
+NOTE
+2. GOING CONCERN   
+
+The
+unaudited interim consolidated financial statements are presented on a going concern basis which contemplates the realization
+of assets and discharge of obligations in the normal course of business as they come due.  No adjustments have been made
+to assets or liabilities in these unaudited interim consolidated financial statements should the Company not be able to continue
+normal business operations.  
+
+The
+Company has incurred losses from inception and, during the three month period ended August 31, 2016, the Company utilized $22,926
+(August 31, 2015 - $2,103) of cash in operations. At August 31, 2016, the Company reported a deficit of $1,532,387 and continues
+to expend cash in amounts that exceed revenues. These conditions cast substantial doubt on the ability of the Company to continue
+as a going concern and meet its obligations as they come due. Management is considering various alternatives and is pursuing raising
+additional capital resources. Nevertheless, there can be no assurance that these initiatives if undertaken will be successful.  
+
+PORTLOGIC
+SYSTEMS INC.   
+
+   NOTES
+TO UNAUDITED INTERIM CONSOLIDATED FINANCIAL STATEMENTS   
+
+   AUGUST
+31, 2016   
+
+   (Amounts
+expressed in US Dollars)   
+
+NOTE
+2. GOING CONCERN (cont d)   
+
+The
+Company has shifted its focus to specializing in mobile applications solutions marketing, and data and telecommunications technology.
+The Company also develops a series of web-based community portal products as well as a series of off-the-shelf template based
+websites. The Company s continuance as a going concern is dependent on the commercialization of more of the Company s
+products and the achievement of profitable operations as well as the success of the Company in raising additional long-term financing
+through debt or equity offerings. In the event that the Company is not successful in these efforts, the assets may not be realized
+or liabilities discharged at their carrying amounts, and differences from the carrying amounts reported in these consolidated
+financial statements could be material.  
+
+NOTE
+3. SIGNIFICANT ACCOUNTING POLICIES   
+
+The
+interim consolidated financial information is unaudited. In the opinion of management, all adjustments necessary to present fairly
+the consolidated financial position as of August 31, 2016 and the results of operations, and cash flows presented herein have
+been included in the unaudited interim consolidated financial statements. All such adjustments are of a normal and recurring nature.
+Interim results are not necessarily indicative of results of operations for the full year.  
+
+Accounting
+Estimates   
+
+The
+preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect
+the reported amount of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amount of revenues and expenses during the period. Financial statement items subject to significant
+judgment include the expected life of equipment, the net realizable value of accounts receivable, the completeness of expense
+accruals, as well as income taxes and loss contingencies. Actual results may differ from those estimates.  
+
+Cash
+and Cash Equivalents   
+
+Cash
+equivalents comprise highly liquid instruments with a maturity of three months or less when purchased. As at August 31, 2016,
+cash equivalents amounted to $Nil (May 31, 2016 - $Nil).  
+
+Asset
+Impairment   
+
+Long-lived
+assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying value may not be recoverable.
+An impairment loss would be recognized when the carrying amount of an asset exceeds the estimated undiscounted future cash flows
+that are expected to result from the use of the asset and its eventual disposition.    
+
+Advertising
+Costs   
+
+Advertising
+costs are expensed as incurred and included as part of selling and administrative expenses. Advertising costs amounted to $Nil
+for the three month period ended August 31, 2016 (August 31, 2015 - $Nil).  
+
+Revenue
+Recognition   
+
+The
+Company recognizes revenue at the point of passage to the customer of title and risk of loss when there is persuasive evidence
+of an arrangement, the sales price is determinable, and collection of the resulting receivable is reasonably assured.  
+
+Service
+revenues are generally recognized at the time of performance. Revenues billed in advance under contracts are deferred and recognized
+over the corresponding service periods.  
+
+PORTLOGIC
+SYSTEMS INC.   
+
+   NOTES
+TO UNAUDITED INTERIM CONSOLIDATED FINANCIAL STATEMENTS   
+
+   AUGUST
+31, 2016   
+
+   (Amounts
+expressed in US Dollars)   
+
+NOTE
+3. SIGNIFICANT ACCOUNTING POLICIES (cont d)   
+
+Foreign
+Currency Translation   
+
+The
+Company maintains its accounting records in US dollars, which is its functional and reporting currency. At the transaction date,
+each asset, liability, revenue and expense denominated in a foreign currency is translated into the functional currency by the
+use of the exchange rate in effect at that date. At the period end, monetary assets and liabilities denominated in a foreign currency
+are translated into the functional currency by using the exchange rate in effect at that date.  The resulting foreign exchange
+gains and losses are included in operations. Foreign exchange loss amounted to $Nil for the three month period ended August 31,
+2016 (August 31, 2015 - $Nil).  
+
+Income
+Taxes   
+
+The
+Company accounts for its income taxes in accordance with ASC 740,  Income Taxes , which requires recognition of deferred
+tax assets and liabilities for future tax consequences attributable to differences between the financial statement carrying amounts
+of existing assets and liabilities and their respective tax bases and tax credit carryforwards. Deferred tax assets and liabilities
+are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are
+expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized
+in operations in the period that includes the enactment date. Deferred tax assets are reduced by a valuation allowance when, in
+the opinion of management, it is more likely than not that the deferred tax assets will not be realized.  
+
+Earnings
+(Loss) per Share   
+
+The
+Company reports earnings (loss) per share in accordance with ASC 260,  Earnings per Share.  Basic earnings (loss) per
+share is computed by dividing income (loss) available to common stockholders by the weighted average number of common shares available.
+Diluted earnings (loss) per share is computed similar to basic earnings (loss) per share except that the denominator is increased
+to include the number of additional common shares that would have been outstanding if the potential common shares had been issued
+and if the additional common shares were dilutive. Diluted earnings (loss) per share has not been presented since the effect of
+the assumed conversion of the convertible loan into common shares would have an anti-dilutive effect.  
+
+Comprehensive
+Income   
+
+The
+Company has adopted ASC 220,  Comprehensive Income,  which establishes standards for reporting and the display of comprehensive
+income, its components and accumulated balances. Comprehensive income is defined to include all changes in equity except those
+resulting from investments by owners or distributions to owners. Among other disclosures, the standard requires that all items
+that are required to be recognized under the current accounting standards as a component of comprehensive income be reported in
+a financial statement that is displayed with the same prominence as other financial statements. Comprehensive income would be
+displayed in the statement of shareholders' equity and in the balance sheet as a component of shareholders' equity (deficiency).
+The Company had no other comprehensive income (loss) for the three month periods ended August 31, 2016 and August 31, 2015. As
+such, net loss is equivalent to total comprehensive loss.   
+
+Financial
+Instruments and Risk Concentrations   
+
+The
+Company s financial instruments comprise cash and cash equivalents, loan receivables, accounts payable and accrued liabilities,
+notes payable and convertible loan. Unless otherwise indicated, the fair value of financial assets and financial liabilities approximate
+their recorded values due to their short-terms to maturity. The Company determines the fair value of its long-term financial instruments
+based on quoted market values or discounted cash flow analyses.  
+
+PORTLOGIC
+SYSTEMS INC.   
+
+   NOTES
+TO UNAUDITED INTERIM CONSOLIDATED FINANCIAL STATEMENTS   
+
+   AUGUST
+31, 2016   
+
+   (Amounts
+expressed in US Dollars)   
+
+NOTE
+3. SIGNIFICANT ACCOUNTING POLICIES (cont d)   
+
+Financial
+Instruments and Risk Concentrations (cont d)   
+
+Financial
+instruments that may potentially subject the Company to concentrations of credit risk comprise primarily cash and cash equivalents
+and accounts receivable. Cash and cash equivalents comprise deposits with major commercial banks and/or checking account balances.
+With respect to accounts receivable, the Company performs periodic credit evaluations of the financial condition of its customers
+and typically does not require collateral from them. Allowances are maintained for potential credit losses consistent with the
+credit risk of specific customers and other information. Unless otherwise noted, it is management's opinion that the Company is
+not exposed to significant interest or currency risks in respect of its financial instruments.  
+
+Leases   
+
+Leases
+entered into by the Company as a lessee are classified as capital or operating leases. Leases that transfer substantially the
+entire risks and benefits incidental to ownership are classified as capital leases. At the inception of a capital lease, an asset
+and an obligation are recorded at an amount equal to the lesser of the present value of the minimum lease payments and the asset s
+fair market value at the beginning of each lease. Rental payments under operating leases are expensed as incurred.  
+
+Stock-Based
+Compensation   
+
+The
+Company has adopted SFAS 123 (Revised),  Share Based Payment,  which requires the Company to measure the cost of employee
+and non-employee services received in exchange for an award of equity instruments based on the grant-date fair value of the award.
+That cost will be recognized over the period during which an employee or a non-employee is required to provide service in exchange
+for the award-the requisite service period. No compensation cost is recognized for equity instruments for which employees do not
+render the requisite service. The grant-date fair value of employee and non-employee share options and similar instruments will
+be estimated using option-pricing models adjusted for the unique characteristics of those instruments.  
+
+NOTE
+4. FAIR VALUE MEASUREMENTS   
+
+Beginning
+June 1, 2008, the Company partially applied accounting standard,  Fair Value Measurements,  codified as ASC 820. The
+standard defines fair value, establishes a framework for measuring fair value, and expands disclosures about fair value measurements.
+The standard defines fair value as the price that would be received upon sale of an asset or paid upon transfer of a liability
+in an orderly transaction between market participants at the measurement date and in the principal or most advantageous market
+for that asset or liability. The fair value, in this context, should be calculated based on assumptions that market participants
+would use in pricing the asset or liability, not on assumptions specific to the entity. In addition, the fair value of liabilities
+should include consideration of non-performance risk including our own credit risk.  
+
+In
+addition to defining fair value, the standard expands the disclosure requirements around fair value and establishes a fair value
+hierarchy for valuation inputs. The hierarchy prioritizes the inputs into three levels based on the extent to which inputs used
+in measuring fair value are observable in the market. Each fair value measurement is reported in one of the three levels
+which are determined by the lowest level input that is significant to the fair value measurement in its entirety. These levels
+are:  
+
+Level 1  
+      Quoted prices (unadjusted)
+    in active markets for identical assets or liabilities;   
+
+Level 2  
+      Inputs other than quoted prices included within
+    Level 1 that are either directly or indirectly observable;   
+
+Level 3  
+      Assets or liabilities for which fair value is
+    based on valuation models with significant unobservable pricing inputs and which result in the use of management estimates.   
+
+PORTLOGIC
+SYSTEMS INC.   
+
+   NOTES
+TO UNAUDITED INTERIM CONSOLIDATED FINANCIAL STATEMENTS   
+
+   AUGUST
+31, 2016   
+
+   (Amounts
+expressed in US Dollars)   
+
+NOTE
+4. FAIR VALUE MEASUREMENTS (cont d)   
+
+NOTE
+5. ACCOUNTS PAYABLE AND ACCRUED LIABILITIES   
+
+NOTE
+6. SHORT TERM LOANS   
+
+In
+the year ended May 31, 2014, the Company received short-term loans from two separate parties to help meet cash flow needs for
+operations. These are short term loans that the Company has already started repaying in installments. The aggregate balance payable
+on these short term loans is $23,025 as of August 31, 2016 (May 31, 2016 - $23,025).  
+
+NOTE
+7. ASSIGNMENT AND NEW CONVERTIBLE LOANS   
+
+On
+October 11, 2012, the Company entered into a convertible loan agreement with Bedford International Ltd. for $25,000 which was
+received on October 4, 2012 to meet cash flow needs for operations. On January 12, 2014, the Company received notice that this
+convertible loan was assigned to Haynes Gallo Wealth Management Ltd. by Bedford International. On May 8, 2015, the Company agreed
+to settle the convertible note in full by issuing 1,250,000 share of common stock to Haynes Gallo Wealth Management at the conversion
+rate of $0.02 per share. The common stock was issued on July 15, 2015.  
+
+PORTLOGIC
+SYSTEMS INC.   
+
+   NOTES
+TO UNAUDITED INTERIM CONSOLIDATED FINANCIAL STATEMENTS   
+
+   AUGUST
+31, 2016   
+
+   (Amounts
+expressed in US Dollars)   
+
+NOTE
+7. ASSIGNMENT AND NEW CONVERTIBLE LOANS (cont d)   
+
+On
+December 31, 2013, the Board of Directors approved to amend an existing $636,546 in Notes Payable and New Loan to provide for
+conversion and assignment of outstanding amounts due and owing into shares of the Company s common stock. $70,000 of the
+Notes Payable were loaned by separate third parties and therefore reclassed. On August 12, 2016, the Company entered into a debt
+conversion agreement whereby $300,000 was elected to be converted into 60,000,000 share of common stock at the conversion rate
+of $0.005. The common stock was issued on August 26, 2016. Therefore, the total balance payable on this convertible loan is restated
+as $266,546 as of August 31, 2016 (May 31, 2016 - $566,546).  
+
+On
+December 3, 2013, the Company borrowed $45,000, structured as a convertible loan, from KJV Property Group LLC to help meet cash
+flow needs for operations. On March 26, 2015, $20,000 of this loan was assigned to Fenwood Capital LLC. On May 5, 2015, $20,000
+of this loan was elected to be converted into 1,000,000 shares of common stock at the conversion rate of $0.02 per share. The
+common stock was issued on July 15, 2015. As of May 31, 2016, there is a balance remaining of $5,000 payable on this convertible
+loan. Interest accrued on the $40,000 prior loaned amounts has been written off. On October 16, 2014, the Company borrowed a further
+$9,800 from KJV Property. On May 1, 2015, the Company entered into a Convertible Drawdown Loan Agreement with KJV Property, in
+consideration of a drawdown loan up to $100,000 for funds advanced over a term of two years. Interest payable on the principal
+amount shall accrue at a fixed rate equal to the prime interest rate plus 2%. On June 4, 2015, the Company borrowed $12,460 from
+the $100,000 available to be drawn down. The total balance payable on this convertible loan is $22,260 as of August 31, 2016 (May
+31, 2016 - $22,260).  
+
+On
+September 4, 2014, the Company borrowed $12,390, structured as a convertible loan, from Fenwood Capital LLC to help meet cash
+flow needs for operations. On November 20, 2014, a further $4,200 was borrowed. On August 18, 2015 a further $10,000
+was borrowed as a private placement for 200,000 common shares at $0.05 per share. In April 2016, a further $1,834 was
+borrowed. As of August 31, 2016, the 200,000 common shares have not been issued. During the three month period ended August
+31, 2016, a further $37,000 was borrowed to help meet cash flow needs for operations. As of August 31, 2016, the total
+balance payable on this convertible loan is $65,424 (May 31, 2016 - $28,424).  
+
+On
+March 26, 2015, a convertible loan for $20,000 was assigned to Fenwood Capital by another party. On May 5, 2015, Fenwood Capital
+elected to convert the loan into 1,000,000 shares of common stock at the conversion rate of $0.02 per share. The common stock
+was issued on July 15, 2015.  
+
+On
+November 16, 2015, the Company borrowed $15,000, structured as a convertible loan, from Haynes Gallo Wealth Management to help
+meet cash flow needs for operations. As of August 31, 2016, the total balance payable on this convertible loan is $15,000 (May
+31, 2016 - $15,000).  
+
+Interest
+expense on all the above loans of the Company has been calculated to August 31, 2016 and amounted to $4,377 for the three months
+ended August 31, 2016 (August 31, 2015 - $4,758) and is included in selling and administrative expense. As at August 31, 2016,
+accrued interest of $141,925 (May 31, 2016 - $137,548) is included in accounts payable and accrued liabilities.  
+
+NOTE
+8. DEBT CONVERSION AGREEMENT   
+
+On
+March 30, 2015, the Company entered into a debt conversion agreement with the Chief Executive and Financial Officer whereby $150,000
+of Accounts Payable owed by the Company to the officer was converted to 30,000,000 shares of restricted common stock in full satisfaction
+of the $150,000 amount owed. The restricted common stock was issued on June 22, 2015.  
+
+PORTLOGIC
+SYSTEMS INC.   
+
+   NOTES
+TO UNAUDITED INTERIM CONSOLIDATED FINANCIAL STATEMENTS   
+
+   AUGUST
+31, 2016   
+
+   (Amounts
+expressed in US Dollars)   
+
+NOTE
+9. SHAREHOLDER LOAN   
+
+A
+shareholder of the Company advanced amounts to the Company as required to help meet cash flow needs for operations. The Company
+entered into a debt conversion agreement with the shareholder on August 9, 2016 whereby the total balance payable was converted
+to 7,214,400 shares of restricted common stock in full satisfaction of the loan. The restricted common stock was issued on August
+22, 2016. Therefore, the total balance payable to the shareholder as of August 31, 2016 is $Nil (May 31, 2016 - $36,072).  
+
+NOTE
+10. CONVERTIBLE LOAN   
+
+A
+convertible debenture, issued March 11, 2005, was unsecured, matured March 11, 2012 and carried interest at a rate of 10% per
+annum. The instrument is convertible at the option of the holder into common shares of the Company at a rate of $0.05 per share,
+and may be redeemed at any time prior to maturity at the option of the holder, should certain conditions prevail. The holder of
+the debenture has signed agreements waiving interest accrued from March 11, 2005 through to March 10, 2016. This convertible debenture
+has not been repaid and is due on March 10, 2017.  
+
+NOTE
+11. STOCK TRANSACTIONS*   
+
+Transactions,
+other than employees  stock issuance, are in accordance with paragraph 8 of SFAS 123  Share Based Payment .
+Thus issuances shall be accounted for on the fair value of the consideration received. Transactions with employees  stock
+issuance are in accordance with paragraphs (16-44) of SFAS 123. These issuances shall be accounted for based on the fair value
+of the consideration received or the fair value of the equity instruments issued, or whichever is more readily determinable.  
+
+In
+January 2005, the Company issued a total of 23,605* shares of common stock to nine individuals for cash in the amount of $0.1250
+per share for a total of $2,950.  
+
+On
+February 7, 2005, the Company issued a total of 800* shares of common stock to one individual for cash in the amount of $0.25
+per share for a total of $200.  
+
+On
+May 26, 2005, the Company issued a total of 12,000* shares of common stock to one individual for cash in the amount of $0.25 per
+share for a total of $3,000.  
+
+In
+July 2005, the Company issued a total of 202,200* shares of common stock to nine individuals for cash in the amount of $0.25 per
+share for a total of $50,550.  
+
+On
+September 14, 2005, the Company issued a total of 10,000* shares of common stock to one director for cash in the amount of $0.25
+per share for a total of $2,500.  
+
+On
+October 31, 2005, the Company issued a total of 17,920* shares of common stock in the amount of $6.25 per share for a total of
+$112,000, which was the fair value of the stock on date of issuance, in consideration for the purchase of source code software.
+A further $40,000 in cash was also paid as consideration for this asset purchase agreement.  
+
+In
+April 2006, the Company issued a total of 240* shares of common stock to three individuals for cash in the amount of $6.25 per
+share for a total of $1,500.  
+
+In
+May 2006, the Company issued a total of 1,920* shares of common stock to five individuals for cash in the amount of $6.25 per
+share for a total of $12,000.  
+
+In
+June 2006, the Company issued a total of 250* shares of common stock to three individuals for cash in the amount of $6.00 per
+share for a total of $1,500.  
+
+On
+July 22, 2006, the Company issued a total of 82* shares of common stock to one individual for cash in the amount of $6.09 per
+share for a total of $500.  
+
+PORTLOGIC
+SYSTEMS INC.   
+
+   NOTES
+TO UNAUDITED INTERIM CONSOLIDATED FINANCIAL STATEMENTS   
+
+   AUGUST
+31, 2016   
+
+   (Amounts
+expressed in US Dollars)   
+
+NOTE
+11. STOCK TRANSACTIONS* (cont d)   
+
+On
+December 22, 2006, the Company issued a total of 250* shares of common stock to one individual for cash in the amount of $6.00
+per share for a total of $1,500.  
+
+On
+February 22, 2007, the Company issued a total of 1,068* shares of common stock to one individual for cash in the amount of $18.72
+per share for a total of $20,000.  
+
+In
+May 2007, the Company issued a total of 5,138* shares of common stock to three individuals for cash in the amount of $32.99 per
+share for a total of $169,500.  
+
+On
+January 10, 2008, the Company issued a total of 231* shares of common stock to one individuals for cash in the amount of $43.29
+per share for a total of $10,000.  
+
+On
+April 11, 2012, the Company issued a total of 40* shares of common stock to a director in return for services. The market value
+of shares on the date of issuance was $120.00 per share.  
+
+On
+April 11, 2012, the Company issued a total of 40* shares of common stock to another director in return for services. The market
+value of shares on the date of issuance was $120.00 per share.  
+
+On
+June 22, 2015, pursuant to the Debt Conversion Agreement dated March 30, 2015, the Company issued 30,000,000 shares of restricted
+common stock to an officer of the Company in full satisfaction of $150,000 of Accounts Payable owed to the officer for past services.  
+
+On
+July 15, 2015, pursuant to the Conversion Notice dated May 5, 2015, the Company issued 1,000,000 shares of common stock to Fenwood
+Capital LLC in the amount of $0.02 per share for a total of $20,000.  
+
+On
+July 15, 2015, pursuant to the Conversion Notice dated May 5, 2015, the Company issued 1,000,000 shares of common stock to KJV
+Property Group LLC in the amount of $0.02 per share for a total of $20,000.  
+
+On
+July 15, 2015, pursuant to the Conversion Notice dated May 8, 2015, the Company issued 1,250,000 shares of common stock to Haynes
+Gallo Wealth Management Ltd in the amount of $0.02 per share for a total of $25,000.  
+
+On
+August 22, 2016, the Company issued a total of 30,000,000 shares of restricted common stock to a director in return for services
+in the amount of $0.001 per share for a total of $30,000.  
+
+On
+August 22, 2016, pursuant to the Debt Conversion Agreement dated August 9, 2016, the Company issued 7,214,400 shares of restricted
+common stock to a shareholder of the Company in full satisfaction of $36,072 loan owed to the shareholder.  
+
+On
+August 26, 2016, pursuant to the Conversion Notice dated August 12, 2016, the Company issued 60,000,000 shares of restricted common
+stock to Next Level Ltd in full satisfaction of a $300,000 promissory note.  
+
+As
+of August 31, 2016, the Company had 130,740,184* share of common stock issued and outstanding.  
+
+PORTLOGIC
+SYSTEMS INC.   
+
+   NOTES
+TO UNAUDITED INTERIM CONSOLIDATED FINANCIAL STATEMENTS   
+
+   AUGUST
+31, 2016   
+
+   (Amounts
+expressed in US Dollars)   
+
+NOTE
+12. UNAMORTIZED STOCK-BASED COMPENSATION FOR STOCKHOLDERS   
+
+On
+August 22, 2016, the Company issued 30,000,000 shares of its restricted common stock to a director of the Company in return for
+services.  The stock-based compensation issued has been in the amount of $0.001 per share for a total of $30,000. The amount
+of this compensation is being amortized over twelve months starting August 9, 2016. The unamortized portion of this is $27,500
+as at August 31, 2016. $2,500 has been expensed as directors  fees.  
+
+The
+total unamortized portion of stock-based compensation for stockholders is $27,500 as at August 31, 2016 (May 31, 2016 - $Nil).  
+
+NOTE
+13. STOCKHOLDERS  DEFICIENCY   
+
+The
+stockholders' deficiency section of the Company contains the following classes of capital stock as of August 31, 2016:  
+
+Preferred
+stock: $0.001 par value: 1,000,000 shares authorized and 0 shares issued and outstanding. Common stock, $0.001 par value;
+225,000,000 shares authorized and 130,740,184* shares issued and outstanding.  
+
+The
+stockholders' deficiency section of the Company contains the following classes of capital stock as of May 31, 2016:  
+
+Preferred
+stock: $0.001 par value: 1,000,000 shares authorized and 0 shares issued and outstanding. Common stock, $0.001 par value;
+225,000,000 shares authorized and 33,525,784* shares issued and outstanding.  
+
+*
+After giving retroactive effect of 2:1 stock split effective January 20, 2010 and 3:1 forward common stock split effective March
+30, 2012 and the 1:750 reverse common stock split effective March 16, 2015.  
+
+NOTE
+14. COMMITMENTS AND RELATED PARTY TRANSACTIONS   
+
+PORTLOGIC
+SYSTEMS INC.   
+
+   NOTES
+TO UNAUDITED INTERIM CONSOLIDATED FINANCIAL STATEMENTS   
+
+   AUGUST
+31, 2016   
+
+   (Amounts
+expressed in US Dollars)   
+
+NOTE
+14. COMMITMENTS AND RELATED PARTY TRANSACTIONS (cont d)   
+
+c)    On
+                                         March 10, 2014, a former officer issued a promissory note to the Company, in consideration
+                                         of a loan of $150,000 for funds advanced, over a term of two years. Proceeds from any
+                                         repayment of the promissory note will be credited against start-up costs of our telecommunications
+                                         operations. As of August 31, 2016, $150,000 remains payable by the former officer.   
+
+d)    On
+                                         August 31, 2016, an executive appointee agreement was entered into under which compensation
+                                         of $1,000 per month was to be paid to perform services as an officer.    
+
+NOTE
+15. SUBSEQUENT EVENTS   
+
+The
+Company evaluated all events or transactions that occurred after August 31, 2016 up through the date these financial statements
+were available for issuance. During this period, the Company did not have any other material recognizable subsequent events.  
+
+Item 2.   
+       Management's Discussion and Analysis of Financial
+Condition and Results of Operations    
+
+INTRODUCTION  
+
+The
+following management discussion and analysis compares our results of operations for the three months ended August 31, 2016 to
+the same period in 2015. This management discussion and analysis should be read in conjunction with our unaudited interim
+consolidated financial statements and the related notes thereto included elsewhere in this quarterly report for the three months
+ended August 31, 2016.  
+
+CAUTIONARY
+STATEMENT REGARDING FORWARD-LOOKING STATEMENTS  
+
+This
+quarterly report on Form 10-Q contains forward-looking statements that involve risks and uncertainties. You should not place undue
+reliance on these forward-looking statements. Our actual results could differ materially from those anticipated in the forward-looking
+statements for many reasons, including the risks described in this report and other reports we file with the U.S. Securities and
+Exchange Commission. Although we believe the expectations reflected in the forward-looking statements are
+reasonable, they relate only to events as of the date on which the statements are made. We do not intend to
+update any of the forward-looking statements after the date of this report to conform these statements to actual results or to
+changes in our expectations, except as required by law.  
+
+OVERVIEW  
+
+We
+incorporated on June 22, 2004 as Portlogic Systems Inc. under the laws of the State of Nevada. On June 5, 2008, the Company filed
+a Form S-1 Registration Statement under the United States Securities Act of 1933. It became effective June 24, 2008. We have a
+financial year end of May 31.  
+
+We
+offer enterprise mobile marketing applications solutions, kiosk hardware and software products. Our 6 divisions are as follows:  
+
+1.    m2Meet:
+                                         A community networking software solution. Currently being developed from our proprietary
+                                         web based source code. Internet and mobile users with similar interests will use m2Meet
+                                         to socially network and connect using location based technology such as GPS.   
+ 
+    2.    m2Bank:
+                                         (Mobile to Bank) is a financial transactions system that facilitates bill payments, money
+                                         transfers, and account management.   
+ 
+    3.    m2Market:
+                                         Mobile marketing solutions including a Bluetooth push technology that is used to deliver
+                                         marketing materials to mobile phones.   
+ 
+    4.    m2Ticket:
+                                         Mobile ticketing sales engine which manages the sale and delivery of tickets through
+                                         mobile phones for the transportation and entertainment industry.   
+ 
+    5.    m2Kiosk:
+                                         A line of standard and custom kiosks hardware and software which integrates with mobile
+                                         phone applications in the marketing, financial, and ticketing industries.   
+ 
+    6.    m2Workflow:
+                                         Customer relations management (CRM) on mobile phones for service industries.    
+
+Due
+to the cost of developing the technology to offer such products we have decided to offer many of our products by bundling technology
+from third party suppliers. Agreements can include but are not limited to licensing agreements, reseller agreements, partnership
+agreements, memoranda of understanding, and software development agreements. We have also developed a product that we license
+to our customers to enable them to operate their own online social networking portal without requiring any technical programming
+or website design skills.  
+
+On
+June 18, 2012, we incorporated a wholly-owned subsidiary, VOIP 1, Inc. under the laws of the State of Nevada. VOIP 1, Inc. specializes
+in data and voice telecommunications technologies. VOIP 1 began earning revenues in September 2012.  
+
+On
+September 16, 2009, we incorporated a wholly-owned subsidiary, Sunlogic Energy Corporation in Panama City, Republic of Panama
+for the purpose of looking at solar and alternative green energy software and products. To date, our subsidiary has not had any
+operations.  
+
+In
+August 2015, we started developing a high definition video server platform.  
+
+CRITICAL
+ACCOUNTING POLICIES  
+
+Management's
+Discussion and Analysis of Financial Condition and Results of Operations is based upon our unaudited interim consolidated financial
+statements, which have been prepared in accordance with Securities and Exchange Commission requirements for interim financial
+statements. Therefore, they do not include all of the information and footnotes required in accordance with United States Generally
+Accepted Accounting Principles ( GAAP ) for complete financial statements. The unaudited interim consolidated financial
+statements should be read in conjunction with the Form 10-K for the year ended May 31, 2016.  
+
+The
+preparation of these unaudited interim consolidated financial statements requires us to make estimates and judgments that affect
+the reported amounts of assets, liabilities, revenue and expenses, and related disclosure of contingent assets and liabilities.
+On an on-going basis, we evaluate our estimates, including those related to the reported amounts of revenues and expenses, bad
+debt, investments, intangible assets, income taxes, and contingencies and litigation. We base our estimates on historical experience
+and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis
+for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual
+results could differ from these estimates under different assumptions or conditions. We consider the following accounting policies
+to be critical because the nature of the estimates or assumptions is material due to the levels of subjectivity and judgment necessary
+to account for highly uncertain matters or the susceptibility of such matters to change or because the impact of the estimates
+and assumptions on financial condition or operating performance is material.  
+
+CASH
+AND CASH EQUIVALENTS  
+
+Our
+cash equivalents comprise highly liquid instruments with a maturity of three months or less when purchased. As at August 31, 2016,
+cash equivalents amounted to $Nil (May 31, 2016 - $Nil).  
+
+REVENUE
+RECOGNITION  
+
+We
+recognize revenue at the point of passage to the customer of title and risk of loss when there is persuasive evidence of an arrangement,
+the sales price is determinable, and collection of the resulting receivable is reasonably assured.  
+
+We
+recognize service revenues at the time of performance. Revenues billed in advance under contracts are deferred and recognized
+over the corresponding service periods.  
+
+FOREIGN
+CURRENCY TRANSLATION  
+
+We
+maintain our accounting records in US dollars, which is our functional and reporting currency. At the transaction date, each asset,
+liability, revenue and expense denominated in a foreign currency is translated into the functional currency by the use of the
+exchange rate in effect at that date. At the period end, monetary assets and liabilities denominated in a foreign currency are
+translated into the functional currency by using the exchange rate in effect at that date.  The resulting foreign exchange
+gains and losses are included in operations. Foreign exchange loss amounted to $Nil for the three month period ended August 31,
+2016 (August 31, 2015 - $Nil).   
+
+RESULTS
+OF OPERATIONS  
+
+  COMPARISON
+OF RESULTS FOR THE THREE MONTHS ENDED AUGUST 31, 2016 AND 2015  
+
+REVENUE  
+
+For
+the three months ended August 31, 2016, we recognized $Nil in revenue. For the three months ended August 31, 2015, we recognized
+$Nil in revenue. We have not yet begun to generate revenues from our mobile marketing offerings or our high definition video server
+platform.  
+
+COST
+OF GOODS SOLD  
+
+We
+incurred $Nil in cost of goods sold for the three months ended August 31, 2016. We incurred $Nil in cost of goods sold for the
+three months ended August 31, 2015.  
+
+EXPENSES  
+
+During
+the three months ended August 31, 2016, we incurred total expenses of $15,177 comprised of selling and administrative expense.
+During the three months ended August 31, 2015, we incurred total expenses of $21,972 comprised of selling and administrative expense.
+Higher expenses for the three month period ended August 31, 2015 were a result of legal fees of $9,186 vs. $Nil in the three month
+period ended August 31, 2016 due to the costs associated with the 1:750 reverse common stock split that had not been accrued.
+This was partly offset by directors  fees in the current three month period ended August 31, 2016 of $3,500.  
+
+NET
+INCOME/LOSS  
+
+During
+the three months ended August 31, 2016, we incurred a net loss of $15,177 compared with net loss of $21,972 for the three months
+ended August 31, 2015 directly attributable to selling and administrative expense.  
+
+LIQUIDITY
+AND CAPITAL RESOURCES  
+
+As
+part of our expansion of operations, on June 18, 2012, we incorporated a wholly-owned subsidiary, VOIP 1, Inc. VOIP 1, Inc. specializes
+in data and voice telecommunications technologies. Because of the success we have had with our operations, we have been focusing
+on this business line as our main operations. As of August 2015, we have begun developing a high definition video server.  
+
+We
+have begun to have an adequate source of reliable, long-term revenue to fund operations. However, we have no significant assets
+or financial resources. The amount of working capital that we will require depends on several factors, including without limitation,
+the extent and timing of sales of our products and related services, future costs of development, the timing and costs associated
+with the expansion of our customer support capabilities, and our operating results.  
+
+As
+of August 31, 2016, we had cash and cash equivalents of $16,975. We had total current assets of $31,080.  
+
+We
+anticipate that we will require $750,000 in total, over the next nine months, to adequately fund the growth of our operations.
+We need to be assured that we have strong presentation support, an organized implementation strategy and ongoing technical support.
+As we sign more clients and technology partners with proven large scale application experience, we will begin to hire project
+managers and begin marketing our solutions to even more targeted potential clients.  
+
+Any
+additional cash revenues that we generate from our operations will ease the burden on our cash and enable us to finance operations
+beyond the next nine months. If we generate no cash revenues other than the $16,975 that we had available as of August 31, 2016,
+we will need to raise additional funds during the next nine months. Potential sources of such working capital could include senior
+debt facilities, new lines of credit, bank financings or additional sales of our securities. If we raise funds through the sale
+of our securities, the common stock currently outstanding would be diluted. There is a risk that such additional financing may
+not be available, or may not be available on acceptable terms, and the inability to obtain additional financing or generate sufficient
+cash from operations could require us to reduce or eliminate expenditures for capital equipment, production, or marketing of our
+products, or otherwise curtail or discontinue our operations, which could have a material adverse effect on our business, financial
+condition and results of operations.  
+
+Our
+unaudited interim consolidated financial statements have been prepared on a continuing operation basis, which contemplates the
+realization of assets and the settlement of liabilities and commitments in the normal course of business.  
+
+As
+of August 31, 2016, our total assets were $79,292, our total liabilities were $660,806 and stockholders  deficiency was
+$581,514.  
+
+SUBSEQUENT
+EVENTS  
+
+We
+have evaluated all events or transactions that occurred after August 31, 2016 up through the date these financial statements were
+available for issuance. During this period, we did not have any other material recognizable subsequent events.  
+
+OFF-BALANCE
+SHEET TRANSACTION  
+
+We
+currently have no off-balance sheet arrangements that have or are reasonably likely to have a current or future material effect
+on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures
+or capital resources.  
+
+Item 3.   
+       Quantitative and Qualitative Disclosures About Market
+Risk    
+
+Smaller
+reporting companies are not required to provide the information required by this Item.  
+
+Item
+    4T.   
+       Controls and Procedures.    
+
+Evaluation
+of Disclosure Controls and Procedures    
+
+Our
+management evaluated, with the participation of our Chief Executive Officer and our Chief Financial Officer, the effectiveness
+of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934,
+as amended (the  Exchange Act )) as of the end of the period covered by this quarterly report on Form 10-Q. Based
+on that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures
+can be relied upon to ensure that information we are required to disclose in reports that we file or submit under the Securities
+Exchange Act of 1934 (i) is recorded, processed, summarized and reported within the time periods specified in Securities and Exchange
+Commission rules and forms, and (ii) is accumulated and communicated to our management, including our Chief Executive Officer
+and Chief Financial Officer, as appropriate, to allow timely decisions regarding required reasonable assurance that such information
+is accumulated and communicated to our management. Our disclosure controls and procedures are designed to provide reasonable assurance
+that such information is accumulated and communicated to our management. Our disclosure controls and procedures include components
+of our internal control over financial reporting. Management's assessment of the effectiveness of our internal control over financial
+reporting is expressed at the level of reasonable assurance that the control system, no matter how well designed and operated,
+can provide only reasonable, but not absolute, assurance that the control system's objectives will be met.  
+
+Management s
+Report on Internal Control Over Financial Reporting    
+
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rule
+13a-15(f) under the Securities Exchange Act of 1934. We have assessed the effectiveness of those internal controls as of August
+31, 2016. In making this assessment, management used the criteria set forth by the Committee of Sponsoring Organizations of the
+Treadway Commission (COSO) in  Internal Control   Integrated Framework.   
+
+Because
+of inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Projections of any
+evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in
+conditions, or that the degree of compliance with the policies and procedures may deteriorate. All internal control systems, no
+matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective can provide only
+reasonable assurance with respect to financial statement  
+
+  preparation
+and presentation.  
+
+A
+material weakness in internal controls is a deficiency in internal control, or combination of control deficiencies, that adversely
+affects a company's ability to initiate, authorize, record, process, or report external financial data reliably in accordance
+with accounting principles generally accepted in the United States of America such that there is more than a remote likelihood
+that a material misstatement of the company's annual or interim financial statements that is more than inconsequential will not
+be prevented or detected. In the course of making our assessment of the effectiveness of internal controls over financial reporting,
+we identified a material weakness in our internal control over financial reporting. This material weakness consisted of inadequate
+staffing within the accounting operations of our Company. The small number of employees who are responsible for accounting functions
+prevents us from segregating duties within our internal control system. The inadequate segregation of duties is a weakness because
+it could lead to the untimely identification and resolution of accounting and disclosure matters or could lead to a failure to
+perform timely and effective reviews. Due to this material weakness, management could not conclude that its internal control over
+financial reporting was effective as of August 31, 2016. 
+
+Our
+review also indicated the existence of certain high level procedures that might or might not serve to provide compensating control
+over these weaknesses. These procedures consisted of analytical review of key operating results by our senior management, including
+preparation and review of monthly operating results, comparison of such results to budgets and to historical amounts. In addition,
+the board of directors received monthly updates on operations, and on a quarterly basis, reviews, investigates and discusses apparent
+inconsistencies and concerns with senior operating management.  
+
+Our
+review also revealed that although a number of controls appeared to exist, and were observed to have been in operation, documentary
+evidence that such controls were operating throughout the period was found to be lacking. Such evidence as signatures indicating
+that a certain procedure had been carried out and affixing responsibility were lacking in the internal control system.  
+
+This
+quarterly report does not include an attestation report of our registered public accounting firm regarding internal control over
+financial reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant
+to the rules of the Securities and Exchange Commission that permit us to provide only management s report in this quarterly
+report.  
+
+Changes
+in Internal Control Over Financial Reporting    
+
+There
+was no change in our internal controls over financial reporting that occurred during the quarter ended August 31, 2016 that has
+materially affected, or is reasonably likely to materially affect, our internal controls over financial reporting.  
+
+PART
+II   
+
+Item 1.   
+       Legal Proceedings    
+
+We
+may be involved from time to time in ordinary litigation, negotiation and settlement matters that will not have a material effect
+on our operations or finances. We are not aware of any pending or threatened litigation against us or our officers and directors
+in their capacity as such that could have a material impact on our operations or finances.  
+
+ITEM 1A.    
+       Risk Factors    
+
+Risks
+Relating To Our Business   
+
+We
+intend to grow our Company by acquisition and have expanded the scope of technology offerings to include marketing mobile applications
+solutions, kiosk hardware and software products, and telecommunications operations. If we are not successful, our business will
+be harmed.    
+
+Our
+business strategy includes the attainment of a portion of our growth through our ability to successfully execute our acquisition
+model. In order to pursue a growth by acquisition strategy successfully, we must identify suitable candidates for these transactions,
+complete these transactions, and manage post-closing issues such as integration of the acquired business into our corporate structure.
+Integration issues are complex, time-consuming, and expensive and, without proper planning and implementation, could significantly
+disrupt our business. Potential disruptions include diversion of management's attention, loss of key business and/or personnel
+from the acquired company, unanticipated events, and legal liabilities. If the business becomes impaired, there could be partial
+or full write-offs attributed to the acquisition.  
+
+If
+we cannot obtain additional financing, we may have to curtail operations and may ultimately cease to exist.   
+
+Our
+continued operations are contingent on our ability to raise additional capital and obtain financing and success in future operations.
+If we do not acquire sufficient additional funding or alternative sources of capital to meet our working capital, we may have
+to substantially curtail our operations and business plan. If we do not achieve sufficient revenues to meet our future obligations,
+we intend to seek sufficient financial resources by issuing shares of common stock, borrowing cash from a bank or one of our directors,
+or a combination of these activities. We may be unable to obtain additional financing using any of these methods. These conditions
+raise substantial doubt about our ability to continue as a going concern. However, our unaudited interim consolidated financial
+statements do not include any adjustments that might result if we are unable to continue our business.  
+
+We
+have a limited operating history and may never achieve or sustain profitable operations.   
+
+We
+have a short operating history and have not been profitable since our incorporation in June 2004. Even if we obtain future revenues
+sufficient to expand operations, increased operational or marketing expenses could adversely affect our liquidity. The limited
+extent of our assets and revenues, and our limited operating history make us subject to the risks associated with start-up companies,
+including potentially negative cash flows. We have no significant assets or financial resources. Our lack of operating history
+makes it very difficult for you to make an investment decision. We may never become profitable. You may lose your entire investment.  
+
+We
+depend on our officers and directors to perform our business activities and our ability to recruit and retain the qualified individuals
+needed to operate and develop our business is unknown.   
+
+We
+rely on our officers and directors to perform many of our business activities. Currently, our Chief Financial Officer, Secretary,
+and Treasurer, and President, Jueane Thiessen, personally performs most of our accounting and financial management functions,
+and liases with external contractors who provide additional programming and consulting services. Ms. Thiessen is also involved
+in carrying out our sales activities. On August 31, 2016, Michael E. Valera was appointed as our Chief Executive Officer. Mr.
+Valera will perform most of our management functions, and also build and lead the senior executive team, and set our vision and
+strategy. Our present management structure, although adequate for the early stage of our operations, will likely have to be significantly
+augmented as our operations expand. Our future success will depend in part on the services of our key personnel and, additionally,
+on our ability to identify, hire and retain additional qualified personnel. There is intense competition for qualified management,
+marketing, accounting, and sales personnel in our new business line: marketing mobile application solutions. We may not be able
+to continue to attract and retain the personnel needed to operate and develop our business. Because we rely on our officers and
+directors to perform our sales, accounting, and financial management activities, failure to attract and retain key personnel could
+have a material adverse effect on us.  
+
+We
+have limited cash which we anticipate will be insufficient to fund our plan of operations for the forthcoming next nine months
+ending May 31, 2017 and if we are unable to raise additional capital, our business may fail and stockholders may lose their entire
+investment.    
+
+We
+have limited capital reserves to finance expansion or to protect us from a downturn in business. We currently do not have sufficient
+cash to fund operations for the forthcoming next nine months ending May 31, 2017. We will need to continue to raise additional
+funds to fully fund our operations for the next nine month period beginning September 1, 2016. Additional financing may come in
+the form of an offering of common shares, borrowing from a bank or one of our directors, or from revenues generated by our current
+or new business. If additional shares are issued to raise capital, our existing stockholders will suffer a dilution of their stock
+ownership and the value of our outstanding shares may fall. If we borrow more money, we will have to pay interest and may also
+have to agree to restrictions that limit our operating flexibility. We have no commitments for additional financing and there
+can be no assurance that additional funds will be available when needed, or on terms acceptable to us, if at all. If adequate
+funds are not available, we may be required to change our planned business strategies. If we are unable to obtain adequate financing,
+we may not be able to successfully develop and market our products and services. As a result, we would need to curtail business
+operations which would have a material negative effect on operating results, the value of our outstanding stock is likely to fall,
+and our business may fail causing our stockholders to lose their entire investment.  
+
+Our
+sole director, Jueane Thiessen, also serves as one of our officers. This interrelationship may create a conflict of interest that
+might be detrimental to us.    
+
+Currently,
+our sole director, Jueane Thiessen, is also one of our officers, serving as our Chief Financial Officer, Treasurer, Secretary,
+and President. Because Ms. Thiessen is the only director, there exists a potential future conflict of interest regarding the decision
+to remove our officers or appoint new officers. Our directors and officers will deal with any such conflicts of interest, should
+they arise, in accordance with our Corporate Code of Ethics and applicable corporate law principles.  
+
+We
+may be subject to foreign currency fluctuation and such fluctuation may adversely affect our financial position and results.   
+
+Our
+main office is currently located in Canada and we pay most of our expenses in United States dollars. However, our target market
+is global. We may enter into contracts that require customers to pay us in currencies other than United States dollars. Therefore,
+our potential operations make us subject to foreign currency fluctuation. We do not make investments that offset the risk of adverse
+foreign currency fluctuations and we may suffer increased expenses and overall losses as a result.  
+
+We
+do not own patents on our products and, if other companies copy our products, our revenues may decline which may result in a decrease
+in our stock price.   
+
+We
+do not own patents on our products we have developed and we do not currently intend to file for patent protection on those products.
+Therefore, another company could recreate our products and could compete against us, which would adversely affect our revenues.  
+
+We
+do not carry any insurance and we may be subject to significant lawsuits which could substantially increase our expenses.   
+
+We
+do not carry any insurance. There are a number of occurrences that could adversely affect our financial condition. These include
+damage to our assets, financial records, or other property by fire or water, as well as any successful lawsuits against us involving
+recovery of damages arising out of our contractual, legal, or other duties. Should such an uninsured loss occur, our costs may
+substantially increase which would lower our overall profitability, if any.  
+
+Amendments
+to telecommunications regulations could have a material adverse effect on our business by increasing the cost of our operations
+or the costs that customers must incur to use our products and services.   
+
+We
+use telecommunications services to deliver our online software licensing and programming services to customers. In addition, our
+customers typically require telecommunications systems to use our products and services. The telecommunications industry is subject
+to regulatory control. Any amendments to current regulations in any jurisdiction where we operate or where our customers conduct
+business could have a material adverse effect on our business, results of operations, and prospects. If amendments to regulations
+increase the cost of using telecommunications services, our operating expenses may increase. Additionally, if regulatory amendments
+increase the cost that our customers must incur to use our services, we may experience difficulty attracting new customers or
+retaining existing customers.  
+
+Equipment
+loss or malfunctions and telecommunication service interruptions or delays may adversely affect our ability to provide our products
+and services.   
+
+Our
+business is highly dependent on our computer and telecommunications equipment and software systems for the operation and quality
+of our services. The temporary or permanent loss of all or a portion of these systems, including as a result of physical damage
+or operating malfunction, or significant replacement delays, could have a materially adverse effect on our business, financial
+condition, and results of operations. Any interruptions, delays or capacity problems experienced on the Internet or with telephone
+services could adversely affect our ability to provide our products and services.  
+
+Item
+    2.    
+       Unregistered Sales of Equity Securities and Use of
+Proceeds    
+
+N/A  
+
+Item 3.    
+       Defaults Upon Senior Securities    
+
+None.  
+
+Item 4.    
+       Submission of Matters to a Vote of Security Holders    
+
+During
+the first quarter of our fiscal year ended May 31, 2017, no matter was submitted to a vote of security holders through the solicitation
+of proxies or otherwise.  
+
+Item 5.   
+       Other Information    
+
+None.  
+
+Item 6.   
+       Exhibits    
+
+The
+exhibits listed below are filed as part of or incorporated by reference in this report.   
+
+Exhibit 
+
+    No.  
+       
+      Identification
+    of Exhibit   
+
+21.1  
+       
+      Subsidiaries
+    of the Registrant (filed herewith).   
+
+31.1  
+       
+      Certification
+    of the Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (filed herewith).   
+
+31.2 
+       
+     Certification
+    of the Principal  Accounting Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (filed herewith).  
+
+32.1  
+       
+      Certification
+    of Officers pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (filed
+    herewith).   
+
+SIGNATURES   
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.  
+
+Portlogic Systems Inc.   
+
+(Registrant)   
+
+Dated:
+    October 31, 2016  
+      By  
+      /s/
+    Michael E. De Valera   
+
+Chief
+    Executive Officer   
+
+By  
+      /s/
+    Jueane Thiessen   
+
+President,
+    Principal Accounting Officer and Treasurer   
+
+-
+24 -  
+
+<EX-21.1>
+ 2
+ f10q0816ex21i_portlogic.htm
+ SUBSIDIARIES OF THE REGISTRANT
+
+EXHIBIT 21.1   
+
+SUBSIDIARIES
+OF THE REGISTRANT   
+
+As
+of October 31, 2016, we have two wholly-owned subsidiaries:  
+
+Sunlogic
+Energy Corporation. This entity is incorporated in Panama City, Republic of Panama.  
+
+VOIP
+1, Inc. This entity is incorporated under the laws of the State of Nevada.  
+
+</EX-21.1>
+
+<EX-31.1>
+ 3
+ f10q0816ex31i_portlogic.htm
+ CERTIFICATION
+
+EXHIBIT 31.1  
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. ss 1350, AS ADOPTED PURSUANT TO 
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002  
+
+I, Michael De Valera, certify that: 
+
+1.           I
+have reviewed this Quarterly Report on Form 10-Q of Portlogic Systems Inc.; 
+
+2.           Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+the period covered by this report; 
+
+3          
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly
+present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and
+for, the periods presented in this report; 
+
+4.           The
+registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a)  Designed such disclosure controls and procedures, or caused such disclosure controls and procedures
+to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being
+prepared;  
+
+(b)  Designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;  
+
+(c)  Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented
+in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and  
+
+(d)  Disclosed in this report any change in the registrant's internal control over financial reporting
+that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial
+reporting; and   
+
+5.           The
+registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the
+equivalent functions): 
+
+(a)  All significant deficiencies and material weaknesses in the design or operation of internal control
+over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize
+and report financial information; and  
+
+(b)  Any fraud, whether or not material, that involves management or other employees who have a significant
+role in the registrant's internal control over financial reporting.   
+
+Date: October 31, 2016 
+
+/s/ Michael De Valera  
+
+By: Michael De Valera  
+
+Principal Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ f10q0816ex31ii_portlogic.htm
+ CERTIFICATION
+
+EXHIBIT 31.2  
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. ss 1350, AS ADOPTED PURSUANT TO 
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002  
+
+I, Jueane Thiessen, certify that: 
+
+1.           I
+have reviewed this Quarterly Report on Form 10-Q of Portlogic Systems Inc.; 
+
+2.           Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+the period covered by this report; 
+
+3          
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly
+present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and
+for, the periods presented in this report; 
+
+4.           The
+registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a)  Designed such disclosure controls and procedures, or caused such disclosure controls and procedures
+to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being
+prepared;  
+
+(b)  Designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;  
+
+(c)  Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented
+in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and  
+
+(d)  Disclosed in this report any change in the registrant's internal control over financial reporting
+that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial
+reporting; and   
+
+5.           The
+registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the
+equivalent functions): 
+
+(a)  All significant deficiencies and material weaknesses in the design or operation of internal control
+over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize
+and report financial information; and  
+
+(b)  Any fraud, whether or not material, that involves management or other employees who have a significant
+role in the registrant's internal control over financial reporting.   
+
+Date: October 31, 2016 
+
+/s/ Jueane Thiessen  
+
+By: Jueane Thiessen  
+
+Principal Accounting Officer, Secretary, and Treasurer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ f10q0816ex32i_portlogic.htm
+ CERTIFICATION
+
+EXHIBIT 32.1   
+
+CERTIFICATIONS
+PURSUANT TO   
+
+   SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+   (18
+U.S.C. SECTION 1350)   
+
+In
+connection with the Quarterly Report of Portlogic Systems Inc. (the  Company ) on Form 10-Q for the three months ended
+August 31, 2016 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), each of the
+undersigned officers of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002 that:  
+
+i.    The
+                                         Report fully complies with the requirements of 13(a) or 15(d) of the Securities Exchange
+                                         Act of 1934; and   
+
+ii.    The
+                                         information contained in the Report fairly presents, in all material respects, the financial
+                                         condition and Result of operations of the company.    
+
+IN
+WITNESS WHEREOF, the undersigned have executed this certification as of the 31 st  day of October, 2016.  
+
+/s/
+    Michael     De Valera  
+
+By:  Michael
+    De Valera  
+
+Principal
+    Executive Officer  
+
+/s/
+    Jueane     Thiessen  
+
+By:  Jueane
+    Thiessen  
+
+Principal
+    Accounting Officer, Treasurer, and Secretary  
+
+</EX-32.1>
+
+<EX-101.INS>
+ 6
+ pgsy-20160831.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ pgsy-20160831.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ pgsy-20160831_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ pgsy-20160831_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ pgsy-20160831_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ pgsy-20160831_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

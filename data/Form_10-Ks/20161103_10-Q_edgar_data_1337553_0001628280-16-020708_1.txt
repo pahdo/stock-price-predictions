@@ -1,0 +1,940 @@
+<Header>
+<FileStats>
+    <FileName>20161103_10-Q_edgar_data_1337553_0001628280-16-020708_1.txt</FileName>
+    <GrossFileSize>4448305</GrossFileSize>
+    <NetFileSize>105201</NetFileSize>
+    <ASCII_Embedded_Chars>253686</ASCII_Embedded_Chars>
+    <HTML_Chars>1425486</HTML_Chars>
+    <XBRL_Chars>1879055</XBRL_Chars>
+    <XML_Chars>703612</XML_Chars>
+    <N_Tables>23</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001628280-16-020708.hdr.sgml : 20161103
+<ACCEPTANCE-DATETIME>20161103143807
+ACCESSION NUMBER:		0001628280-16-020708
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		59
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161103
+DATE AS OF CHANGE:		20161103
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AERIE PHARMACEUTICALS INC
+		CENTRAL INDEX KEY:			0001337553
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				203109565
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36152
+		FILM NUMBER:		161971193
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7020 KIT CREEK ROAD
+		STREET 2:		SUITE 270
+		CITY:			RESEARCH TRIANGLE PARK
+		STATE:			NC
+		ZIP:			27709
+		BUSINESS PHONE:		919-313-9650
+
+	MAIL ADDRESS:	
+		STREET 1:		7020 KIT CREEK ROAD
+		STREET 2:		SUITE 270
+		CITY:			RESEARCH TRIANGLE PARK
+		STATE:			NC
+		ZIP:			27709
+
+</SEC-Header>
+</Header>
+
+ 0001628280-16-020708.txt : 20161103
+
+10-Q
+ 1
+ aerie93016.htm
+ 10-Q
+
+Document 
+
+Table of Contents  
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+
+FORM 10-Q 
+
+For the quarterly period ended   September 30, 2016    
+  or 
+
+For the transition period from                          to                        
+  Commission File Number 001-36152 
+
+Aerie Pharmaceuticals, Inc. 
+  (Exact name of registrant as specified in its charter) 
+
+Delaware 
+      
+    20-3109565 
+      (State or other jurisdiction of 
+  incorporation or organization) 
+      
+    (I.R.S. Employer 
+  Identification Number) 
+
+2030 Main Street, Suite 1500 
+  Irvine, California 92614 
+  (949) 526-8700 
+  (Address of principal executive offices, zip code and telephone number, including area code) 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days    Yes:           No:    o 
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes:           No:    o 
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act.  
+                         Large accelerated filer 
+      
+    o 
+       
+    Accelerated filer 
+
+Non-accelerated filer 
+      
+    o   (Do not check if a smaller reporting company) 
+       
+    Smaller reporting company 
+    o 
+   
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes:    o      No:      
+  As of   October 27, 2016  , there were   33,382,170   shares of the registrant s common stock, par value $0.001, outstanding.                 
+
+Table of Contents  
+
+TABLE OF CONTENTS 
+
+Page 
+       SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS  
+     ii  
+
+PART I. FINANCIAL INFORMATION  
+     1  
+
+Item 1. 
+     Financial Statements (Unaudited)  
+     1  
+
+Consolidated Balance Sheets  
+     1  
+
+Consolidated Statements of Operations and Comprehensive Loss  
+     2  
+
+Consolidated Statements of Cash Flows  
+     3  
+
+Notes to the Consolidated Financial Statements  
+     4  
+
+Item 2. 
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    15 
+
+Item 3. 
+     Quantitative and Qualitative Disclosures About Market Risk  
+    24 
+
+Item 4. 
+     Controls and Procedures  
+    25 
+
+PART II. OTHER INFORMATION  
+    26 
+
+Item 1. 
+     Legal Proceedings  
+    26 
+
+Item 1A. 
+     Risk Factors  
+    26 
+
+Item 2. 
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+    26 
+
+Item 3. 
+     Defaults Upon Senior Securities  
+    26 
+
+Item 4. 
+     Mine Safety Disclosures  
+    26 
+
+Item 5. 
+     Other Information  
+    26 
+
+Item 6. 
+     Exhibits  
+    27 
+
+Table of Contents  
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+  This report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the  Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended (the  Exchange Act ). We may, in some cases, use terms such as  predicts,   believes,   potential,   proposed,   continue,   estimates,   anticipates,   expects,   plans,   intends,   may,   would,   could,   might,   will,   should,   exploring,   pursuing  or other words that convey uncertainty of future events or outcomes to identify these forward-looking statements. 
+  Forward-looking statements appear in a number of places throughout this report and include statements regarding our intentions, beliefs, projections, outlook, analyses or current expectations concerning, among other things: 
+
+the success, timing and cost of our ongoing and anticipated preclinical studies and clinical trials for our current product candidates and potential future product candidates, including statements regarding the timing of initiation and completion of the studies and trials; 
+                
+    our expectations regarding the clinical effectiveness of our product candidates and results of our clinical trials; 
+                
+    the timing of and our ability to request, obtain and maintain U.S. Food and Drug Administration ( FDA ) or other regulatory authority approval of, or other action with respect to, our product candidates in the U.S., Canada, Europe, Japan and elsewhere; 
+                
+    our expectations related to the use of proceeds from the issuance and sale of our 2014 Convertible Notes (as defined herein) in September 2014 and the issuance and sale of common stock under our shelf registration statements on Form S-3 and  at-the-market  sales agreements; 
+                
+    our estimates regarding anticipated capital requirements and our needs for additional financing; 
+                
+    the commercial launch and potential future sales of our current or any other future product candidates; 
+                
+    our commercialization, marketing and manufacturing capabilities and strategy; 
+                
+    third-party payor coverage and reimbursement for our product candidates; 
+                
+    the glaucoma patient market size and the rate and degree of market adoption of our product candidates by eye-care professionals and patients; 
+                
+    the timing, cost or other aspects of the commercial launch of our product candidates; 
+                
+    our plans to pursue development of our product candidates for additional indications and other therapeutic opportunities; 
+                
+    the potential advantages of our product candidates; 
+                
+    our plans to explore possible uses of our existing proprietary compounds beyond glaucoma; 
+                
+    our ability to protect our proprietary technology and enforce our intellectual property rights;  
+                
+    our expectations regarding collaborations, licensing, acquisitions and strategic operations, including our ability to in-license or acquire additional ophthalmic products or product candidates; and 
+                
+    our stated objective of building a major ophthalmic pharmaceutical company. 
+     By their nature, forward-looking statements involve risks and uncertainties because they relate to events, competitive dynamics and industry change, and depend on regulatory approvals and economic and other environmental circumstances that may or may not occur in the future or may occur on longer or shorter timelines than anticipated. We discuss many of these risks under the heading  Risk Factors  in Part I, Item 1A of our Annual Report on Form 10-K for the fiscal year ended   December 31, 2015  , as filed with the Securities and Exchange Commission ( SEC ) on March 2, 2016, and other documents we have filed or furnished with the SEC. You should not rely upon forward-looking statements as predictions of future events. 
+  Although we believe that we have a reasonable basis for each forward-looking statement contained in this report, we caution you that forward-looking statements are not guarantees of future performance and that our actual results of operations, financial condition and liquidity, and the evolution of the industry in which we operate may differ materially from the forward-looking statements contained in this report. In addition, even if our results of operations, financial condition and liquidity, and events in the industry in which we operate are consistent with the forward-looking statements contained in this report, they may not be predictive of results or developments in future periods. 
+  
+   ii 
+
+     Table of Contents  
+
+Any forward-looking statements that we make in this report are made as of the date of this report. Except as required by law, we are under no duty to update or revise any of the forward-looking statements, whether as a result of new information, future events or otherwise, after the date of this report. 
+  
+   iii 
+
+Table of Contents  
+
+PART I. FINANCIAL INFORMATION 
+   
+  Item 1. Financial Statements 
+   
+  AERIE PHARMACEUTICALS, INC. 
+  Consolidated Balance Sheets 
+  (Unaudited) 
+  (in thousands, except share and per share data) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+1 
+
+Table of Contents  
+
+AERIE PHARMACEUTICALS, INC. 
+  Consolidated Statements of Operations and Comprehensive Loss 
+  (Unaudited) 
+  (in thousands, except share and per share data) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+2 
+
+Table of Contents  
+
+AERIE PHARMACEUTICALS, INC. 
+  Consolidated Statements of Cash Flows 
+  (Unaudited) 
+  (in thousands, except share and per share data) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+3 
+
+Table of Contents  
+
+AERIE PHARMACEUTICALS, INC. 
+  Notes to the Consolidated Financial Statements 
+  (Unaudited) 
+   
+  1. The Company 
+  Aerie Pharmaceuticals, Inc. ( Aerie ), with its wholly-owned subsidiaries Aerie Pharmaceuticals Limited and Aerie Pharmaceuticals Ireland Limited ( Aerie Limited  and  Aerie Ireland Limited , respectively, together with Aerie, the  Company ), is a clinical-stage pharmaceutical company focused on the discovery, development and commercialization of small molecule products to treat patients with glaucoma and other diseases of the eye.  
+  In March 2015, the Company revised its corporate structure to align with its business strategy outside of North America by establishing Aerie Limited, a wholly-owned subsidiary organized under the laws of the Cayman Islands. In addition, Aerie assigned the beneficial rights to its non-U.S. and non-Canadian intellectual property to Aerie Limited (the  IP Assignment ). As part of the IP Assignment, Aerie and Aerie Limited entered into a research and development cost sharing agreement pursuant to which Aerie and Aerie Limited will share the costs of the development of intellectual property. Additionally, in April 2015, the Company continued to prepare for internationally-based activities and established Aerie Ireland Limited as a wholly-owned subsidiary of Aerie Limited to develop and commercialize the beneficial rights of the intellectual property assigned as part of the IP Assignment pursuant to a license arrangement entered into between Aerie Limited and Aerie Ireland Limited. The Company has its principal executive offices in Irvine, California and operates as   one   business segment.  
+  The Company has not yet commenced commercial operations and therefore has not generated product revenue. The Company s activities since inception have primarily consisted of developing product candidates, raising capital and performing research and development activities. The Company does not expect to generate revenue until and unless it receives regulatory approval of and successfully commercializes its product candidates. The Company has incurred losses and experienced negative operating cash flows since inception. The Company has funded its operations primarily through the sale of equity securities and issuance of convertible notes (Note 8).  
+  If the Company does not successfully commercialize any of its product candidates, it may be unable to generate product revenue or achieve profitability. Accordingly, the Company may be required to obtain further funding through other public or private offerings, debt financing, collaboration and licensing arrangements or other sources. Adequate additional funding may not be available to the Company on acceptable terms, or at all. If the Company is unable to raise capital when needed or on attractive terms, it may be forced to delay, reduce or eliminate its research and development programs or commercialization efforts. 
+   
+  2. Significant Accounting Policies 
+  Basis of Presentation 
+  The Company s interim consolidated financial statements have been prepared in conformity with accounting principles generally accepted in the United States of America ( U.S. GAAP ). In the opinion of management, the Company has made all necessary adjustments, which include normal recurring adjustments necessary for a fair statement of the Company s consolidated financial position and results of operations for the interim periods presented. Certain information and disclosures normally included in the annual consolidated financial statements prepared in accordance with U.S. GAAP have been condensed or omitted. These interim consolidated financial statements should be read in conjunction with the audited consolidated financial statements and accompanying notes for the year ended   December 31, 2015   included in the Company s Annual Report on Form 10-K. The results for the   three and nine months ended     September 30, 2016   are not necessarily indicative of the results to be expected for a full year, any other interim periods or any future year or period. 
+  Principles of Consolidation 
+  The interim consolidated financial statements include the accounts of Aerie and its wholly-owned subsidiaries. All intercompany accounts, transactions and profits have been eliminated in consolidation. 
+  Use of Estimates 
+  The preparation of consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and reported amounts of income and expenses during the reporting periods. Significant items subject to such estimates and assumptions include the valuation of stock options and operating expense accruals. Actual results could differ from these estimates. 
+
+4 
+
+     Table of Contents  
+
+Deferred Financing Costs  
+  Deferred financing costs represent financing costs associated with the issuance of new shares of common stock and include only those specific incremental costs directly attributable to the issuance of shares, such as legal, accounting, printing, and filing fees. Deferred financing costs are offset against proceeds from the issuance within stockholders  equity on the consolidated balance sheet upon the completion of the transaction. 
+  Investments 
+  The Company determines the appropriate classification of its investments in debt and equity securities at the time of purchase. The Company s investments are comprised of certificates of deposit, commercial paper, corporate bonds and government agency securities that are classified as available-for-sale in accordance with ASC 320, Investments Debt and Equity Securities. The Company classifies investments available to fund current operations as current assets on its consolidated balance sheets. Investments are classified as long-term assets on the consolidated balance sheets if (i) the Company has the intent and ability to hold the investments for a period of at least one year and (ii) the contractual maturity date of the investments is greater than one year. 
+  Available-for-sale investments are recorded at fair value, with unrealized gains or losses included in Comprehensive loss on the Company s consolidated statements of operations and comprehensive loss and in Accumulated other comprehensive loss on the Company s consolidated balance sheets. For the   three and nine months ended     September 30, 2016  , the Company recognized unrealized losses of   $3,000   and unrealized gains of    $166,000  , respectively. For the   three and nine months ended     September 30, 2015  , the Company recognized unrealized gains of   $9,000   and   $75,000  , respectively.  
+  Realized gains and losses are determined using the specific identification method and are included as a component of Other income (expense), net (Note 3). There were   no   realized gains or losses recognized for the   three and nine months ended     September 30, 2016   or   2015  . 
+  The Company reviews investments for other-than-temporary impairment whenever the fair value of an investment is less than the amortized cost and evidence indicates that an investment s carrying amount is not recoverable within a reasonable period of time. To determine whether an impairment is other-than-temporary, the Company considers its intent to sell, or whether it is more likely than not that the Company will be required to sell the investment before recovery of the investment s amortized cost basis. Evidence considered in this assessment includes reasons for the impairment, the severity and the duration of the impairment and changes in value subsequent to period end. As of   September 30, 2016  , there were   no   investments with a fair value that was significantly lower than the amortized cost basis or any investments that had been in an unrealized loss position for a significant period.  
+  Fair Value Measurements 
+  The Company records certain financial assets and liabilities at fair value based on the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants. The fair value of the Company s financial instruments, including cash and cash equivalents, short-term investments, other current assets, accounts payable and accrued expenses approximate their respective carrying values due to the short-term nature of these instruments. The carrying amounts of long-term investments represent their estimated fair values. The estimated fair value of the 2014 Convertible Notes (as defined in Note 7) was   $211.3 million   and   $140.1 million   as of   September 30, 2016   and   December 31, 2015  , respectively. The increase in the estimated fair value of the 2014 Convertible Notes was primarily attributable to the change in the closing price of Aerie s common stock on   September 30, 2016   as compared to   December 31, 2015  . As of   September 30, 2016   and   December 31, 2015  , all outstanding warrants are classified as equity and are recorded within additional paid-in capital on the consolidated balance sheets.  
+  Recent Accounting Pronouncements 
+  In January 2016, the Financial Accounting Standards Board (the  FASB ) issued ASU 2016-01, which provides guidance related to the accounting for equity investments, financial liabilities under the fair value option and the presentation and disclosure requirements for financial instruments. The guidance is effective for annual periods beginning after December 15, 2017, and all annual and interim periods thereafter, with early adoption permitted. The Company is currently evaluating the impact of this accounting standard update on the Company s consolidated financial statements and disclosures.  
+  In February 2016, the FASB issued ASU 2016-02, which requires lessees to recognize a right of use asset and related lease liability for those leases classified as operating leases at the commencement date and have lease terms of more than 12 months. The guidance is effective for annual periods beginning after December 15, 2018, and all annual and interim periods thereafter, with early adoption permitted. The Company is currently evaluating the impact of this accounting standard update on the Company s consolidated financial statements and disclosures.  
+  
+   5 
+
+     Table of Contents  
+
+In March 2016, the FASB issued ASU 2016-09, which provides guidance related to how companies account for certain aspects of share-based payment awards to employees, including the accounting for income taxes, forfeitures, and statutory tax withholding requirements, as well as classification in the statement of cash flows. The new standard is effective for the Company for annual periods beginning after December 15, 2016 and for annual and interim periods thereafter, with early adoption permitted. The Company is currently evaluating the impact of this accounting standard update on the Company s consolidated financial statements and disclosures.  
+  In June 2016, the FASB issued ASU 2016-13, which requires that financial assets measured at amortized cost be presented at the net amount expected to be collected. Currently, GAAP delays recognition of the full amount of credit losses until the loss is probable of occurring. Under this new standard, the income statement will reflect an entity s current estimate of all expected credit losses. The measurement of expected credit losses will be based upon historical experience, current conditions, and reasonable and supportable forecasts that affect the collectability of the reported amount. Credit losses relating to available-for-sale debt securities will be recorded through an allowance for credit losses rather than as a direct write-down to the security. The new standard is effective for the Company for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years. Early adoption is permitted as of the fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. The Company is currently evaluating the impact of this accounting standard update on the Company s consolidated financial statements and disclosures.  
+  In August 2014, the FASB issued ASU 2014-15, which provides guidance about management s responsibility to evaluate whether there is substantial doubt about an entity s ability to continue as a going concern and to provide related footnote disclosures. The new standard is effective for the Company for fiscal years beginning after December 15, 2016 including interim periods within those fiscal years, with early adoption permitted. The Company is currently evaluating the impact of this accounting standard update on the Company s consolidated financial statements.  
+    
+  Net Loss per Share Attributable to Common Stock 
+  Basic net loss per share attributable to common stock ( Basic EPS ) is calculated by dividing the net loss attributable to common stockholders by the weighted average number of shares of common stock outstanding for the period, without consideration for potentially dilutive securities with the exception of warrants for common stock with a   $0.05   exercise price, which are exercisable for nominal consideration and are therefore included in the calculation of the weighted-average number of shares of common stock as common stock equivalents. Diluted net loss per share attributable to common stock ( Diluted EPS ) gives effect to all dilutive potential shares of common stock outstanding during this period. For Diluted EPS, net loss attributable to common stockholders used in calculating Basic EPS is adjusted for certain items related to the dilutive securities. 
+  For all periods presented, the Company s potential common stock equivalents have been excluded from the computation of Diluted EPS as their inclusion would have the effect of reducing the net loss per share of common stock. Therefore, the denominator used to calculate Basic EPS and Diluted EPS is the same in all periods presented. 
+  The Company s potential common stock equivalents that have been excluded from the computation of Diluted EPS for all periods presented consist of the following: 
+
+(1) 
+    Conversion is limited to a   9.985%   ownership cap in shares of common stock by the holder. In addition to the common stock equivalents presented above, the 2014 Convertible Notes provide for an increase in the conversion rate if conversion is elected in connection with a significant corporate transaction. Refer to Note 7 for further information regarding the 2014 Convertible Notes. 
+     
+   6 
+
+Table of Contents  
+
+3. Other Income (Expense), Net 
+  Other income (expense), net consists of the following: 
+
+4. Investments 
+  Cash, cash equivalents and investments as of   September 30, 2016   included the following: 
+
+7 
+
+     Table of Contents  
+
+Cash, cash equivalents and investments as of   December 31, 2015   included the following: 
+
+5. Fair Value Measurements 
+  The Company records certain financial assets and liabilities at fair value in accordance with the provisions of ASC Topic 820 on fair value measurements. As defined in the guidance, fair value, defined as an exit price, represents the amount that would be received to sell an asset or pay to transfer a liability in an orderly transaction between market participants. As a result, fair value is a market-based approach that should be determined based on assumptions that market participants would use in pricing an asset or a liability. As a basis for considering these assumptions, the guidance defines a three-tier value hierarchy that prioritizes the inputs used in the valuation methodologies in measuring fair value. 
+
+Level 1 Unadjusted quoted prices in active, accessible markets for identical assets or liabilities. 
+                
+    Level 2 Other inputs that are directly or indirectly observable in the marketplace. 
+                
+    Level 3 Unobservable inputs that are supported by little or no market activity. 
+     The fair value hierarchy also requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. 
+  
+   8 
+
+     Table of Contents  
+
+The following tables summarize the fair value of financial assets and liabilities that are measured at fair value and the classification by level of input within the fair value hierarchy: 
+
+As of   September 30, 2016   and   December 31, 2015  , the estimated fair value of the 2014 Convertible Notes was   $211.3 million   and   $140.1 million  , respectively. The estimated fair value of the 2014 Convertible Notes was determined using a scenario analysis and Monte Carlo simulation model to capture the various features of the 2014 Convertible Notes. The scenario analysis and Monte Carlo simulation require the use of Level 3 unobservable inputs and subjective assumptions, including but not limited to the probability of conversion, stock price volatility, the risk free interest rate and credit spread. The increase in the estimated fair value of the 2014 Convertible Notes was primarily attributable to the change in the closing price of Aerie s common stock on   September 30, 2016   as compared to   December 31, 2015  . The estimates presented are not necessarily indicative of amounts that could be realized in a current market exchange. The use of alternative market assumptions and estimation methodologies could have a material effect on these estimates of fair value. 
+  
+   9 
+
+Table of Contents  
+
+6. Accounts Payable   Other Current Liabilities 
+  Accounts payable and other current liabilities consist of the following: 
+
+(1) 
+    Comprised of accrued bonus, accrued vacation and other employee related expenses, and liabilities under the Company s employee stock purchase plan. 
+              (2) 
+    Comprised of accruals such as outside professional fees and other business related expenses. 
+              (3) 
+    Comprised of accruals such as fees for investigative sites, contract research organizations, contract manufacturing organizations and other service providers that assist in conducting preclinical research studies and clinical trials. 
+              (4) 
+    Accrued income taxes were the result of the taxable gain associated with the IP Assignment that occurred in March 2015 and were paid in the three months ended March 2016. 
+      
+  7. Convertible Notes 
+  On September 30, 2014, Aerie issued    $125.0 million   aggregate principle amount of senior secured convertible notes (  the 2014 Convertible Notes ) to Deerfield Partners, L.P., Deerfield International Master Fund, L.P., Deerfield Private Design Fund III, L.P., Deerfield Special Situations Fund, L.P. and Deerfield Special Situations International Master Fund, L.P. (collectively,  Deerfield ). On January 1, 2015, Deerfield Special Situations International Master Fund, L.P. transferred all of its rights under the 2014 Convertible Notes to Deerfield Special Situations Fund, L.P. 
+  The 2014 Convertible Notes bear interest at a rate of   1.75%   per annum   payable quarterly in arrears on the first business day of each January, April, July and October.   The 2014 Convertible Notes mature on the   seventh anniversary from the date of issuance  , unless earlier converted. 
+  The 2014 Convertible Notes constitute a senior secured obligation of Aerie, collateralized by a first priority security interest in substantially all of the assets of Aerie. The 2014 Convertible Notes provide that, upon the request of Aerie, Deerfield will release all of the liens on the collateral if both of the following occur: (i) beginning one month after FDA approval of either Rhopressa      or Roclatan     , shares of Aerie s common stock have traded at a price above   $30   per share (subject to adjustment for any subdivision or combination of outstanding common stock) for   30   consecutive trading days, and (ii) Aerie is prepared to close a financing that will be secured by a lien on Aerie s assets, subject only to the release of the lien on Aerie s assets held by Deerfield.  
+  At closing, Aerie paid Deerfield a one-time transaction fee of   $625,000  . In addition, Aerie reimbursed Deerfield in the amount of   $250,000   for certain expenses incurred by Deerfield in connection with the transaction. Aerie also incurred   $1.3 million   of legal and advisory fees in connection with the transaction. 
+  The 2014 Convertible Notes are convertible at any time at the option of Deerfield, in whole or in part, into shares of common stock, including upon the repayment of the 2014 Convertible Notes at maturity (the  Conversion Option ). However, upon conversion, Deerfield (together with their affiliates) is limited to a   9.985%   ownership cap in shares of common stock (the    9.985%   Cap ). The   9.985%   Cap would remain in place upon any assignment of the 2014 Convertible Notes by Deerfield. 
+  The initial conversion price is   $24.80   per share of common stock (equivalent to an initial conversion rate of   40.32   shares of common stock per $1,000 principal amount of 2014 Convertible Notes), representing a   30%   premium over the closing price of the common stock on September 8, 2014. The conversion rate and the corresponding conversion price are subject to adjustment for stock dividends (other than a dividend for which Deerfield would be entitled to participate on an as-converted basis), stock splits, reverse stock splits and reclassifications. In addition, in connection with certain significant corporate transactions, Deerfield, at its option, may (i) require Aerie to prepay all or a portion of the principal amount of the 2014 Convertible Notes,  
+  
+   10 
+
+     Table of Contents  
+
+plus accrued and unpaid interest, or (ii) convert all or a portion of the principal amount of the 2014 Convertible Notes into shares of common stock or receive the consideration Deerfield would have received had Deerfield converted the 2014 Convertible Notes immediately prior to the consummation of the transaction. The 2014 Convertible Notes provide for an increase in the conversion rate if Deerfield elects to convert their 2014 Convertible Notes in connection with a significant corporate transaction. The current maximum increase to the initial conversion rate, in connection with a significant corporate transaction, is   12.07   shares of common stock per $1,000 principal amount of 2014 Conversion Notes, which decreases over time and is determined by reference to the price of the common stock prior to the consummation of the significant corporate transaction or the value of the significant corporate transaction. 
+  The agreement governing the 2014 Convertible Notes contains various representations and warranties, and affirmative and negative covenants, customary for financings of this type, including restrictions on the incurrence of additional debt and liens on Aerie s assets. As of   September 30, 2016  , Aerie was in compliance with the covenants. The agreement governing the 2014 Convertible Notes also provides for certain events of default, including the failure to pay principal and interest when due; inaccuracies in Aerie s representations and warranties to Deerfield; failure to comply with any of the covenants; Aerie s insolvency or the occurrence of certain bankruptcy-related events; certain judgments against Aerie; the suspension, cancellation or revocation of governmental authorizations that are reasonably expected to have a material adverse effect on Aerie s business; the acceleration of a specified amount of indebtedness; and the failure to deliver shares of common stock upon conversion of the 2014 Convertible Notes. If any event of default were to occur, and continue beyond any applicable cure period, the holders of more than   50%   of the aggregate principal amount of the then outstanding 2014 Convertible Notes would be permitted to declare the principal and accrued and unpaid interest to be immediately due and payable. 
+  The Company recorded the 2014 Convertible Notes as long-term debt at face value less debt discounts relating to fees and certain expenses paid to Deerfield in connection with the transaction. The Conversion Option is a derivative that qualifies for an exemption from bifurcation and liability accounting as provided for in ASC Topic 815, Derivatives and Hedging   Contracts in Entity s Own Equity ( ASC 815 ). Since the Conversion Option is not bifurcated as a derivative pursuant to ASC 815, the Company further evaluated the Conversion Option to determine whether it is considered a beneficial conversion feature ( BCF ). The Company determined that the initial accounting conversion price was greater than the fair value of the common stock at the close of trading on the date of issuance, therefore no BCF existed at inception. However, if Deerfield elects to convert their 2014 Convertible Notes in connection with a significant corporate transaction, the increase to the initial conversion rate may cause a contingent BCF to exist at the time of conversion. The contingent BCF, if any, will be recognized in earnings when the contingency is resolved and will be measured using the fair value of the common stock at the close of trading on the date of issuance and the accounting conversion price as adjusted for such an increase to the initial conversion rate. 
+  In connection with the IP Assignment, Aerie granted Deerfield a security interest in an intercompany promissory note and pledged   65%   of the voting stock of Aerie Limited. Upon the request of Aerie, Deerfield will release the lien on the intercompany promissory note under certain circumstances. 
+  As of   September 30, 2016  , the Company recognized unamortized debt discounts and debt issuance costs of   $1.5 million  . Debt discounts are amortized using the effective interest method through the earlier of maturity or the conversion of the 2014 Convertible Notes. 
+  The table below summarizes the carrying value of the 2014 Convertible Notes as of   September 30, 2016  : 
+
+For the   three and nine months ended     September 30, 2016  , and   2015   interest expense related to the 2014 Convertible Notes was   $551,000   and   $1.6 million  , respectively.  
+  
+   11 
+
+Table of Contents  
+
+8. Stockholder s Equity 
+  In October 2013, the Company completed its initial public offering ( IPO ) and issued   7,728,000   shares of its common stock at an IPO price of   $10.00   per share. The Company received net proceeds from the IPO of approximately   $68.3 million  . On September 30, 2014, the Company issued the 2014 Convertible Notes, of which the Company received net proceeds of approximately   $122.9 million  . Refer to Note 7 for further information regarding the 2014 Convertible Notes. 
+  On November 3, 2014, the Company filed a shelf registration statement on Form S-3 (the  2014 Registration Statement ) that permits the offering, issuance and sale by the Company of up to a maximum aggregate offering price of   $150.0 million   of the Company s common stock and sales of common stock by certain selling stockholders.  
+  From November 10, 2014 through   September 30, 2016  , the Company issued and sold a total of   5,933,712   shares of common stock under its  at-the-market  sales agreements, of which   4,179,156   shares were issued and sold during the nine months ended September 30, 2016, and received net proceeds of approximately   $146.6 million  , of which   $96.2 million   were received during the nine months ended September 30, 2016, in each case, after deducting commissions at a rate of up to   3%   of the gross sales price per share sold and other fees and expenses. Sales under the  at-the-market  sales agreements were made pursuant to the 2014 Registration Statement. As of September 30, 2016, no shares remain available for issuance under the  at-the-market  sales agreements or the 2014 Registration Statement.  
+  On September 15, 2016, the Company filed an automatic shelf registration statement on Form S-3 (the  2016 Registration Statement ) that permits the offering, issuance and sale of an unlimited number of shares of common stock from time to time by the Company.  
+  On September 15, 2016, the Company entered into an underwriting agreement with Cantor Fitzgerald   Co., relating to the registered public offering of   2,542,373   shares of the Company s common stock at a price to the public of   $29.50   per share. The Company received net proceeds of approximately   $71.0 million  , after deducting underwriting discounts, fees and expenses of   $4.0 million  . The offering was made pursuant to the 2016 Registration Statement.  
+
+9. Stock Purchase Warrants 
+  As of   September 30, 2016  , the following equity classified warrants were outstanding: 
+
+The warrants outstanding as of   September 30, 2016   are all currently exercisable with weighted-average remaining lives of   3.0   years. 
+   
+  10. Stock-based Compensation 
+  Stock-based compensation expense for options granted and restricted stock awards ( RSAs ) is reflected in the consolidated statements of operations as follows: 
+
+12 
+
+     Table of Contents  
+
+The estimated fair value of options granted is determined on the date of grant using the Black-Scholes option pricing model. Options granted to non-employees are revalued at each financial reporting period until the required service is performed. Compensation expense related to RSAs is based on the market value of the Company s common stock on the date of grant and is expensed on a straight-line basis over the vesting period.  
+    
+  As of   September 30, 2016  , the Company had   $26.1 million   of unrecognized compensation expense related to options granted under its equity plans. This cost is expected to be recognized over a weighted average period of   2.3 years   as of   September 30, 2016  . The weighted average remaining contractual life on all outstanding options as of   September 30, 2016   was   7.6 years  . 
+    
+  As of   September 30, 2016  , the Company had   $2.6 million   of unrecognized compensation expense, related to unvested RSAs. This cost is expected to be recognized over the weighted average contractual term period of   2.8 years   as of   September 30, 2016  . 
+    
+  Equity Plans 
+  The Company maintains   two   equity compensation plans, the 2005 Aerie Pharmaceutical Stock Plan (the  2005 Plan ) and the 2013 Omnibus Incentive Plan (the  2013 Equity Plan ), which was amended and restated as the Aerie Pharmaceuticals, Inc. Amended and Restated Omnibus Incentive Plan (the  Amended and Restated Equity Plan ), as described below. The 2005 Plan and the Amended and Restated Equity Plan are referred to collectively as the  Plans.  
+  On  October 30, 2013, the effective date of the 2013 Equity Plan, the 2005 Plan was frozen and   no   additional awards have been or will be made under the 2005 Plan. Any remaining shares available for future grant under the 2005 Plan were allocated to the 2013 Equity Plan. 
+  At the 2015 Annual Meeting of Stockholders held on April 10, 2015, the Company s stockholders approved the adoption of the Amended and Restated Equity Plan and   no   additional awards have been or will be made under the 2013 Equity Plan. Any remaining shares available under the 2013 Equity Plan were allocated to the Amended and Restated Equity Plan.  
+  The Amended and Restated Equity Plan provides for the granting of up to   5,729,068   equity awards in respect of common stock of the Company, including equity awards that were available for issuance under the 2013 Equity Plan.  
+  The following table summarizes the stock option activity under the Plans: 
+
+(1) 
+    Includes vested options and options that are expected to vest in the future after applying an estimated annual forfeiture rate.  
+     
+   13 
+
+     Table of Contents  
+
+The following table summarizes the RSA activity under the Plans: 
+
+The vesting of the RSAs is time and service based with terms of   one   to   four   years. 
+   
+  11. Commitments and Contingencies 
+  Litigation 
+  The Company may periodically become subject to legal proceedings and claims arising in connection with its business. Except as set forth below, the Company is not a party to any known litigation, is not aware of any unasserted claims and does not have contingency reserves established for any litigation liabilities.  
+   A putative securities class action lawsuit captioned Kelley et al. v. Aerie Pharmaceuticals, Inc., et al., Case No. 3:15-cv-03007, was filed against the Company and certain of its officers and directors in the United States District Court for the District of New Jersey on April 29, 2015. An amended complaint was filed on September 28, 2015 on behalf of a purported class of persons and entities who purchased or otherwise acquired the Company s publicly traded securities between June 25, 2014 and April 23, 2015. The amended complaint asserted claims under the Securities Exchange Act of 1934, as amended, and alleged that the defendants made materially false and misleading statements or omitted allegedly material information during that period related to, among other things, the prospects of the Company s initial Phase 3 trial of Rhopressa   TM   , named  Rocket 1,  and Rhopressa   TM   .       On November 30, 2015, the defendants filed a motion to dismiss the amended complaint. On June 20, 2016, the United States District Court for the District of New Jersey granted the defendants  motion to dismiss the amended complaint. The Company considers the matter concluded.    
+  Contract Service Providers 
+  In the course of the Company s normal business operations, it has agreements with contract service providers to assist in the performance of its research and development, clinical research and manufacturing and other general business activities. Substantially all of these contracts are on an as needed basis. Future minimum commitments of the Company due under non-cancelable agreements with these service providers were   $310,000   as of   September 30, 2016   and are expected to be incurred by December 2017. 
+  
+   14 
+
+Table of Contents  
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+  The following management s discussion and analysis should be read in conjunction with our unaudited consolidated financial statements and related notes that appear elsewhere in this report and with our audited financial statements and related notes and management s discussion and analysis of financial condition and results of operations included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2015, as filed with the SEC on March 2, 2016. This discussion and analysis contains forward-looking statements that involve risks and uncertainties. Please see  Special Note Regarding Forward-Looking Statements  for additional factors relating to such statements, and see  Risk Factors  in our Annual Report on Form 10-K for the fiscal year ended December 31, 2015 and other documents we have filed or furnished with the SEC for a discussion of certain risk factors applicable to our business, financial condition and results of operations. Past operating results are not necessarily indicative of operating results in any future periods. 
+  Overview 
+  We are a clinical-stage pharmaceutical company focused on the discovery, development and commercialization of first-in-class therapies for the treatment of patients with glaucoma and other diseases of the eye. Our two advanced stage product candidates are designed to lower intraocular pressure, or IOP, in patients with open-angle glaucoma or ocular hypertension. Both product candidates are small molecule eye drops dosed once-daily and have shown in preclinical and clinical trials to be effective in lowering IOP, with novel mechanisms of action, or MOAs, and a positive safety profile.  
+  Our lead product candidate is once-daily Rhopressa  ophthalmic solution (netarsudil ophthalmic solution) 0.02%  ( Rhopressa   TM    ). We recently announced that we expect to re-submit our new drug application ( NDA ), with the U.S. Food and Drug Administration ( FDA ) for Rhopressa  in January 2017. Our initial submission, announced in September 2016, was withdrawn as a result of a contract manufacturer of our drug product not being prepared for pre-approval inspection by the FDA. The NDA submission will utilize our second Phase 3 registration trial for Rhopressa   TM   , named  Rocket 2,  as the pivotal clinical trial and our initial Phase 3 registration trial, named  Rocket 1,  as supportive in nature. We successfully completed the 90-day efficacy component of Rocket 2 in September 2015 when the trial achieved its primary efficacy endpoint of demonstrating non-inferiority of Rhopressa  compared to timolol. The final primary baseline IOP ranges for Rocket 2 were above 20 mmHg, or millimeters of mercury, to below 25 mmHg. We also expect to include as supportive data the results of Rocket 4 and Mercury 1, each as further discussed below, with the NDA submission for Rhopressa   TM   . 
+  In Rocket 2, in addition to successfully achieving non-inferiority to timolol at this endpoint range, the 12-month safety data from this registration trial also confirmed a positive safety profile for the drug and demonstrated a consistent IOP lowering effect throughout the 12-month period at the specified 8 a.m. measurement time points. In the recently announced primary efficacy results from our first Phase 3 registration trial for Roclatan , named  Mercury 1,  Rhopressa  demonstrated non-inferiority to latanoprost, the most commonly prescribed drug for the treatment of patients with glaucoma. 
+  Further, we are conducting a fourth Phase 3 registration trial for Rhopressa , named  Rocket 4,  in the U.S., which is designed to generate adequate six-month safety data for European regulatory approval. We recently announced the 90-day efficacy results from Rocket 4 where Rhopressa  achieved its primary efficacy endpoint of demonstrating non-inferiority of Rhopressa  compared to timolol for patients with baseline IOPs ranging from above 20 to below 25 mmHg. While Rocket 4 is not required for NDA filing purposes, we expect to file the Rocket 4 results with the Rhopressa  NDA as supportive data, along with the data from Mercury 1. European regulatory filings for Rhopressa  are currently expected to be submitted in the second half of 2017. We are also conducting a third Phase 3 registration trial for Rhopressa , named  Rocket 3,  in Canada, which is designed as a supplementary 12-month safety-only trial and is not required for NDA filing purposes. 
+    
+  We are developing Rhopressa  as the first of a new class of compounds that is designed to lower IOP in patients through novel MOAs. We believe that, if approved, Rhopressa  will represent the first new MOAs for lowering IOP in patients with glaucoma in over 20 years. Based on clinical data to date, we expect that Rhopressa , if approved, will have the potential to compete with non-PGA (prostaglandin analog) products as a preferred adjunctive therapy to PGAs, due to its IOP-lowering ability at consistent levels across tested baselines with once-daily dosing relative to currently marketed non-PGA products and its potential synergistic effect with PGA products. In addition, if approved, we believe that Rhopressa  may also potentially become a preferred therapy where PGAs are contraindicated, for patients who do not respond to PGAs, for patients who have lower IOPs but nevertheless present with glaucomatous damage to the optic nerve, which is commonly referred to as  low-tension  or  normal tension  glaucoma, as well as for patients who choose to avoid the cosmetic issues associated with PGA products. 
+    
+  Our second product candidate is once-daily Roclatan  ophthalmic solution (netarsudil/latanoprost ophthalmic solution) 0.02%/0.005% ( Roclatan  ). Roclatan  is a fixed-dose combination of Rhopressa  and latanoprost. The first Phase 3  
+  
+   15 
+
+     Table of Contents  
+
+registration trial for Roclatan , named  Mercury 1,  which is a 12-month safety trial with a 90-day efficacy readout, commenced in September 2015 and on September 14, 2016, we announced that Mercury 1 achieved its primary efficacy endpoint of demonstrating superiority of Roclatan  to each of its components, including Rhopressa, and market-leading PGA, latanoprost.  
+    
+  The trial is designed to evaluate patients with maximum baseline IOPs ranging from above 20 to below 36 mmHg at nine measured time points over the 90-day efficacy period. In the 90-day efficacy results, the IOP-lowering effect of Roclatan   TM    exceeded that of the latanoprost monotherapy in a range of 1.3 to 2.5 mmHg and that of the Rhopressa   TM    monotherapy in a range of 1.8 to 3.0 mmHg.  Roclatan   TM    reduced mean diurnal IOPs to 16 mmHg or lower in 61% of patients, a significantly higher percentage than observed in the comparator arms in the study. The most common adverse event observed in the Roclatan   TM    arm was hyperemia, or eye redness, which was reported in approximately 50% of patients and was scored as mild for approximately 80% of affected patients. There were no drug-related serious adverse events for any of the comparators in the trial. 
+    
+  The second Phase 3 registration trial for Roclatan , named  Mercury 2,  commenced in March 2016. Mercury 2 is a 90-day efficacy and safety trial designed to demonstrate superiority of Roclatan  to each of its components. We expect to report the topline 90-day data for Mercury 2 in the second quarter of 2017. If both Mercury 1 and Mercury 2 are successful, we expect to file an NDA for Roclatan  near year-end 2017. 
+    
+  Mercury 1 and Mercury 2 will also be used for European approval of Roclatan , and we plan to initiate a third Phase 3 registration trial for Roclatan , named  Mercury 3,  in Europe in the first half of 2017. Mercury 3 will be designed to compare Roclatan  to a fixed dose combination product broadly marketed in Europe, which if successful should benefit our commercialization prospects in Europe. 
+    
+  We believe Roclatan  has the potential to provide a greater IOP-lowering effect than any currently approved glaucoma product. Therefore, we believe that Roclatan   TM   , if approved, could compete with both PGA and non-PGA therapies and potentially become the product of choice for patients requiring maximal IOP lowering, including those with higher IOPs and those who present with significant disease progression. 
+    
+  Our stated objective is to build a major ophthalmic pharmaceutical company. In addition to our primary product candidates, Rhopressa  and Roclatan , we are also exploring the impact of Rhopressa  on the diseased trabecular meshwork, as well as neuroprotection, and evaluating possible uses of our existing proprietary portfolio of Rho kinase inhibitors beyond glaucoma. We have issued several research updates on preclinical results demonstrating the potential for Rhopressa  to have disease-modifying activity in glaucoma patients by stopping and potentially reversing fibrosis in the trabecular meshwork, and also increasing perfusion in the trabecular outflow pathway thus increasing both drainage and the delivery of nutrients to the diseased tissue. Our research has also shown the potential of Rhopressa  to promote retinal ganglion cell survival and axon regeneration. We have also commenced research to evaluate injectable sustained release formulation technologies with the potential capability of delivering Rhopressa  internally in the eye over several months for the treatment of glaucoma.  
+    
+  Additionally, our owned preclinical small molecule, AR-13154, has demonstrated the potential for the treatment of wet age-related macular degeneration (AMD) by inhibiting Rho kinase, PKC, JAK2 and PDGFR- , and has shown lesion size decreases in a model of wet AMD at levels similar to or better than current market-leading products, and even greater lesion size reduction in combination with VEGF inhibitors. As we look forward to next steps for AR-13154, we expect to continue evaluating sustained delivery systems and establish long-term efficacy and pharmacokinetics in preclinical models. 
+    
+  We may license, acquire or develop additional product candidates and technologies to broaden our presence in ophthalmology, and we continually explore and discuss potential additional opportunities for new ophthalmic products, delivery alternatives and new therapeutic areas with potential partners. Our approach has consistently been to explore opportunities with minimal initial investment allowing us to more fully evaluate the probability of success prior to making a material commitment. We are currently focused on the evaluation of delivery technologies for the delivery of our owned molecules to the front and back of the eye over sustained periods and are in the early stages of collaboration with a third party.  We have recently terminated our collaboration arrangement with GrayBug, Inc. for drug delivery technology and elected not to extend our collaboration agreement with Ramot at Tel Aviv University, Ltd. for a preclinical anti-beta amyloid molecule. Neither of these collaborations represented a material financial commitment by Aerie.   
+    
+  Our strategy includes developing our business outside of North America, including obtaining regulatory approval on our own for our lead product candidates in Europe and possibly obtaining regulatory approval on our own or through the use of a partner in Japan. Regarding our international commercialization strategy, if our product candidates are successful, we may  
+  
+   16 
+
+     Table of Contents  
+
+potentially commercialize ourselves or with a partner in Europe, and likely with a partner in Japan. We expect to finalize our European commercialization strategy by the end of 2016. 
+    
+  In March 2015, we revised our corporate structure to align with our business strategy outside of North America by establishing Aerie Pharmaceuticals Limited, a wholly-owned subsidiary organized under the laws of the Cayman Islands ( Aerie Limited ). In addition, we assigned the beneficial rights to our non-U.S. and non-Canadian intellectual property to Aerie Limited (the  IP Assignment ).  As part of the IP Assignment, we and Aerie Limited entered into a research and development cost sharing agreement pursuant to which we and Aerie Limited will share the costs of the development of intellectual property. Additionally, in April 2015, we continued to prepare for internationally-based activities and established Aerie Pharmaceuticals Ireland Limited ( Aerie Ireland Limited ) as a wholly-owned subsidiary of Aerie Limited to develop and commercialize the beneficial rights of the intellectual property assigned as part of the IP Assignment pursuant to a license arrangement entered into between Aerie Limited and Aerie Ireland Limited. We are currently preparing for the construction of an Aerie manufacturing plant in Ireland. 
+  We have incurred net losses since our inception in June 2005. Our operations to date have been limited to research and development and raising capital. As of   September 30, 2016  , we had an accumulated deficit of   $287.3 million  . We recorded net losses of   $23.8 million   and   $69.7 million   for the   three and nine months ended     September 30, 2016  , respectively, and net losses of   $18.0 million   and   $54.0 million   for the   three and nine months ended     September 30, 2015  , respectively. We anticipate that a substantial portion of our capital resources and efforts in the foreseeable future will be focused on completing the development and obtaining regulatory approval and preparing for potential commercialization of our product candidates. 
+  We expect to incur increased research and development expenses for the year ending December 31, 2016 as compared to the year ended December 31, 2015 as we continue to initiate and conduct clinical trials for Rhopressa  and Roclatan  and pursue regulatory approval. As we prepare for commercialization, we will incur increasing levels of commercial, sales, marketing and manufacturing expenses. Since our initial public offering ( IPO ) in October 2013, we are also incurring additional expenses associated with operating as a public company. As a result, we expect to continue to incur significant operating losses in 2016 and 2017.  
+  Prior to our IPO, we raised net cash proceeds of $78.6 million from the private placement of convertible preferred stock and convertible notes. Prior to and in connection with our IPO, all outstanding shares of convertible preferred stock and all convertible notes were converted into shares of common stock. On October 30, 2013, we completed our IPO and raised net proceeds of approximately $68.3 million, after deducting underwriting discounts and commissions of $5.4 million and expenses of $3.6 million. 
+  Since our IPO, we have issued $125.0 million aggregate principal amount of senior secured convertible notes (the  2014 Convertible Notes ), for which we received net proceeds of approximately   $122.9 million  , after deducting discounts and certain expenses of   $2.1 million  , have issued   5,933,712   shares of our common stock under our  at-the-market  sales agreements, for which we received net proceeds of approximately   $146.6 million  , after deducting commissions at a rate of up to 3% of the gross sales price per share sold and other fees and expenses, and have issued   2,542,373   shares of our common stock pursuant an underwriting agreement, dated September 15, 2016, with Cantor Fitzgerald   Co., for which we received net proceeds of approximately   $71.0 million  , after deducting the underwriting discount, fees and expenses of approximately   $4.0 million  .  
+  Our cash, cash equivalents and investments totaled   $255.6 million   as of   September 30, 2016   and are currently expected to provide sufficient resources for our ongoing needs. See  - Operating Capital Requirements.  
+  To date, we have not generated product revenue and we do not expect to generate product revenue unless and until we successfully complete development and obtain regulatory approval for one or more of our product candidates. If we do not successfully commercialize any of our product candidates, we may be unable to generate product revenue or achieve profitability. 
+  We may be required to obtain further funding through public or private offerings, debt financing, collaboration and licensing arrangements or other sources. Adequate additional funding may not be available to us on acceptable terms, or at all. If we are unable to raise capital when needed or on acceptable terms, we may be forced to delay, reduce or eliminate our research and development programs or commercialization efforts. 
+  
+   17 
+
+     Table of Contents  
+
+Financial Overview 
+  Revenue 
+  We have not generated any revenue from the sale of any products, and we do not expect to generate any revenue unless or until we obtain regulatory approval of and commercialize our product candidates. 
+  General and Administrative Expenses 
+  General and administrative expenses consist primarily of salaries, benefits and stock-based compensation for all officers and employees in general management, marketing, finance and administration. Other significant expenses include commercial related manufacturing costs, facilities expenses and professional fees for accounting, legal and other services. 
+  We expect that our general and administrative expenses will increase with the continued advancement of our product candidates and with our increased management, legal, compliance and accounting expenses as we continue to grow. We expect these increases will likely be associated with commercialization and related activities, the hiring of additional personnel and outside service provider activities.  
+  Research and Development Expenses 
+  Since our inception, we have focused on our development programs. Research and development expenses consist primarily of costs incurred for the research and development of our preclinical and clinical candidates, which include: 
+
+employee-related expenses, including salaries, benefits, travel and stock-based compensation expense for research and development personnel; 
+                
+    expenses incurred under agreements with contract research organizations ( CROs ), contract manufacturing organizations and service providers that assist in conducting clinical trials and preclinical studies; 
+                
+    costs associated with preclinical activities and development activities; 
+                
+    costs associated with regulatory operations; and 
+                
+    depreciation expense for assets used in research and development activities. 
+     We expense research and development costs to operations as incurred. The costs for certain development activities, such as clinical trials, are recognized based on the terms of underlying agreements as well as an evaluation of the progress to completion of specific tasks using data such as patient enrollment, clinical site activations along with additional information provided to us by our vendors. 
+  Expenses relating to activities, such as manufacturing and stability and toxicology studies, that are supportive of the product candidate itself, are classified as direct non-clinical. Expenses relating to clinical trials and similar activities, including costs associated with CROs and FDA related fees, are classified as direct clinical. Expenses relating to activities that support more than one development program or activity such as personnel costs, stock-based compensation and depreciation are not allocated to direct clinical or non-clinical expenses and are separately classified as  unallocated.  
+
+18 
+
+     Table of Contents  
+
+The following table shows our research and development expenses by product candidate and type of activity for the   three and nine months ended     September 30, 2016   and   2015  : 
+
+Our research and development expenditures are subject to numerous uncertainties in timing and cost to completion. Development timelines, the probability of success and development expenses can differ materially from expectations. The cost of clinical trials may vary significantly over the life of a project as a result of differences arising during clinical development, including, among others, the following: 
+
+number of trials required for approval; 
+                
+    number of sites included in the trials; 
+                
+    length of time required to enroll suitable patients; 
+                
+    number of patients that participate in the trials; 
+                
+    drop-out or discontinuation rates of patients; 
+                
+    duration of patient follow-up; 
+                
+    costs related to compliance with regulatory requirements; 
+                
+    number and complexity of analyses and tests performed during the trial; 
+                
+    phase of development of the product candidate; and 
+                
+    efficacy and safety profile of the product candidate. 
+     Our expenses related to clinical trials are based on estimates of patient enrollment and related expenses at clinical investigator sites as well as estimates for the services received and efforts expended pursuant to contracts with research institutions, consultants and CROs that assist in conducting and managing our clinical trials. We generally accrue expenses related to clinical trials based on contracted amounts applied to the level of patient enrollment and activity according to the protocol. If future timelines or contracts are modified based upon changes in the clinical trial protocol or scope of work to be performed, we modify our estimates of accrued expenses accordingly on a prospective basis. Historically, such modifications have not been material. 
+  Direct costs associated with our collaboration arrangements and for our exploration of the impact of Rhopressa  on the diseased trabecular meshwork and neuroprotection or for possible uses of our existing proprietary portfolio of Rho kinase inhibitors beyond glaucoma are included in Other research and development activities. Internal personnel costs associated with these activities are included in Unallocated expenses. 
+  As a result of the uncertainties discussed above, we are unable to determine with certainty the duration and completion costs of our development programs or precisely when and to what extent we will receive revenue from the commercialization and sale of any products that we may develop. We may never succeed in achieving regulatory approval for one or more of our product candidates. The duration, costs and timing of clinical trials and development of any product candidate will depend on a variety  
+  
+   19 
+
+     Table of Contents  
+
+of factors, including the uncertainties of future preclinical studies and clinical trials, uncertainties in the clinical trial enrollment rate and changing government regulation. In addition, the probability of success for each product candidate will depend on numerous factors, including efficacy and tolerability profiles, manufacturing capability, competition, and commercial viability. 
+  Other Income (Expense), Net 
+  Other income consists of interest earned on our cash and cash equivalents and investments as well as the net proceeds from the 2015 sale of our net operating loss tax benefits for the state of New Jersey. Refer to Note 3 to our unaudited consolidated financial statements appearing elsewhere in this report for further information. 
+  Other expense consists of interest expense under the 2014 Convertible Notes, amortization and accretion of debt discounts and premiums and other miscellaneous expense. 
+  Critical Accounting Policies and Use of Estimates 
+  Our management s discussion and analysis of financial condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States, or U.S. GAAP. The preparation of consolidated financial statements also requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, costs and expenses and related disclosures. We evaluate our estimates and judgments on an ongoing basis. Significant estimates include assumptions used in the determination of stock-based compensation and certain research and development expenses. We base our estimates on historical experience and on various other factors that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. 
+  Our significant accounting policies are more fully described in Note 2 to our unaudited consolidated financial statements included elsewhere in this report and Note 2 to our audited consolidated financial statements included in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+    
+  Results of Operations 
+  Comparison of the   Three Months Ended September 30, 2016   and   2015    
+  The following table summarizes the results of our operations for the three months ended   September 30, 2016   and   2015  : 
+
+General and administrative expenses 
+  General and administrative expenses increased by   $3.2 million   for the three months ended   September 30, 2016   as compared to the three months ended   September 30, 2015  . This increase was primarily associated with the expansion of our employee base to support the growth of our operations and preparatory commercial manufacturing activities, which commenced in 2016.  
+  Personnel costs increased by   $1.3 million  , including an increase in employee stock based compensation expense of   $0.7 million   and an increase in salaries and related expenses of   $0.6 million  . Our preparatory commercial manufacturing activities have primarily been related to the validation and scale-up of our current manufacturing activities for which we incurred   $1.8 million   during the three months ended   September 30, 2016  . 
+  
+   20 
+
+     Table of Contents  
+
+Research and development expenses 
+  During the three months ended   September 30, 2016  , our research and development activity was primarily associated with Phase 3 clinical trials for Rhopressa      and Roclatan     . Research and development expenses increased by   $2.8 million   for the three months ended   September 30, 2016   as compared to the three months ended   September 30, 2015  . Costs for Roclatan      increased by   $2.9 million  , including increased direct clinical costs of   $2.8 million   associated with the commencement of Mercury 1 and Mercury 2 in September 2015 and March 2016, respectively. Costs for Rhopressa      decreased by   $1.5 million   as direct clinical costs decreased by   $0.5 million   and direct non-clinical costs decreased by   $1.0 million   due to the timing of our clinical trials and NDA submission. Both Rocket 1 and Rocket 2 commenced in July 2014. Rocket 1 was completed in April 2015 and three-month efficacy results were reported for Rocket 2 in September 2015. Rocket 4 expenses commenced in mid-2015 and this trial is currently on-going.  Unallocated expenses, including employee compensation, consulting costs and related expenses, increased by   $1.1 million  . 
+    
+  Comparison of the   Nine Months Ended September 30, 2016   and   2015    
+  The following table summarizes the results of our operations for the   nine months ended September 30, 2016   and   2015  : 
+
+General and administrative expenses 
+  General and administrative expenses increased by   $6.8 million   for the   nine months ended     September 30, 2016   as compared to the   nine months ended     September 30, 2015  . This increase was primarily associated with the expansion of our employee base to support the growth of our operations and preparatory manufacturing activities associated with our commercialization efforts.  
+  Personnel costs increased by   $3.8 million  , including an increase in salaries and related expenses of   $2.3 million   and an increase in employee stock based compensation expense of   $1.5 million  . Our preparatory commercial manufacturing activities have primarily been related to the validation and scale-up of our current manufacturing activities for which we incurred   $3.7 million   during the   nine months ended     September 30, 2016  . These increases were partially offset by decreases in costs associated with professional fees of   $0.4 million   and decreases in travel and other expenses of   $0.2 million  . 
+  Research and development expenses 
+  During the   nine months ended     September 30, 2016  , our research and development activity was primarily associated with Phase 3 clinical trials for Rhopressa      and Roclatan     . Research and development expenses increased by   $6.2 million   for the   nine months ended     September 30, 2016   as compared to the   nine months ended     September 30, 2015  . Costs for Roclatan      increased by   $8.4 million  , including increased direct clinical costs of   $8.2 million   as a result of commencing Mercury 1 and Mercury 2 in September 2015 and March 2016, respectively. Costs for Rhopressa      decreased by   $6.9 million   as direct clinical costs decreased by   $4.1 million   and direct non-clinical costs decreased by   $2.9 million   due to the timing of our clinical trials and NDA submission. Both Rocket 1 and Rocket 2 commenced in July 2014. Rocket 1 was completed in April 2015 and three-month efficacy results for Rocket 2 were reported in September 2015. Rocket 4 expenses commenced in mid-2015 and this trial is currently on-going.  Unallocated expenses, including employee compensation, consulting costs and related expenses, increased by   $3.4 million  . Additionally, costs associated with other research and development activities, including collaboration arrangements, increased by   $1.2 million  . 
+  
+   21 
+
+     Table of Contents  
+
+Other income (expense), net 
+  Other income (expense), net decreased by   $2.9 million   for the    nine months ended     September 30, 2016   as compared to the   nine months ended     September 30, 2015  . The decrease was mainly due to income from the sale of our deferred New Jersey state tax benefits to unrelated third parties in 2015.  
+  Liquidity and Capital Resources 
+  Since our inception, we have funded operations primarily through the sale of equity securities and the issuance of convertible notes. We have incurred losses and experienced negative operating cash flows since our inception and anticipate that we will continue to incur losses for approximately the next two years, or until such a time when our product candidates are commercially successful, if at all.  
+  Prior to our IPO, we raised net cash proceeds of $78.6 million from the private placement of convertible preferred stock and convertible notes. Prior to and in connection with our IPO, all outstanding shares of convertible preferred stock and all convertible notes were converted into shares of common stock.  
+  On October 30, 2013, we completed our IPO and issued 7,728,000 shares of our common stock at an IPO price of $10.00 per share. We received net proceeds from the IPO of approximately $68.3 million. On September 30, 2014, we issued $125.0 million aggregate principal amount of the 2014 Convertible Notes, of which we received net proceeds of approximately   $122.9 million  .  
+  On November 3, 2014, we filed a shelf registration statement on Form S-3 (the  2014 Registration Statement ) that permits the offering, issuance and sale by us of up to a maximum aggregate offering price of $150.0 million of our common stock and sales of common stock by certain selling stockholders. 
+  From November 10, 2014 through   September 30, 2016  , we issued and sold a total of   5,933,712   shares of common stock under our  at-the-market  sales agreements, of which   4,179,156   shares were issued and sold during the nine months ended September 30, 2016, and received net proceeds of approximately   $146.6 million  , of which   $96.2 million   were received during the nine months ended September 30, 2016, in each case, after deducting commissions at a rate of up to   3%   of the gross sales price per share sold and other fees and expenses. Sales under the  at-the-market  sales agreements were made pursuant to the 2014 Registration Statement. As of September 30, 2016, no shares remain available for issuance under the  at-the-market  sales agreements or the 2014 Registration Statement.  
+  On September 15, 2016, we filed an automatic shelf registration statement on Form S-3 (the  2016 Registration Statement )  that permits the offering, issuance and sale of an unlimited number of shares of common stock from time to time by us. 
+  On September 15, 2016, we entered into an underwriting agreement with Cantor Fitzgerald   Co., relating to the registered public offering of   2,542,373   shares of our common stock at a price to the public of   $29.50   per share. We received net proceeds of approximately   $71.0 million  , after deducting underwriting discounts, fees and expenses of   $4.0 million  . The offering was made pursuant to the 2016 Registration Statement. 
+  As of   September 30, 2016  , our principal sources of liquidity were our cash and cash equivalents and investments, which totaled approximately   $255.6 million  .  We believe that our cash and cash equivalents and investments as of   September 30, 2016   will provide sufficient resources for our ongoing needs. 
+    
+  The following table summarizes our sources and uses of cash: 
+
+During the   nine months ended September 30, 2016   and   2015  , our operating activities used net cash of   $61.0 million   and   $41.5 million  , respectively. The use of net cash in each of these periods primarily resulted from our net losses, adjusted for certain  
+  
+   22 
+
+     Table of Contents  
+
+non-cash items. The increase in net loss from operations for the   nine months ended September 30, 2016   as compared to the   nine months ended     September 30, 2015   was primarily due to increased research and development expenses and general and administrative expenses as previously described, see   Results of Operations.  Additionally, in connection with the initial NDA submission for Rhopressa   TM   , announced in September 2016, we paid the FDA a user fee of   $2.4 million  , of which we expect   $1.8 million   to be reimbursed to us within the next twelve months. The   $0.6 million   retention by the FDA results from our withdrawal of the initial NDA submission prior to FDA acceptance of the NDA for review. For the   nine months ended     September 30, 2015  , we received   $2.9 million   of cash proceeds from the sale of deferred state tax benefits to unrelated parties, which decreased net cash used in operating activities. 
+  During the   nine months ended September 30, 2016  , our investing activities provided net cash of   $14.0 million   primarily related to maturities of available-for-sale investments of   $35.4 million  , which were partially offset by purchases of available-for-sale investments of   $19.9 million   and by purchases of office furnishings, software and equipment of   $1.4 million   to facilitate our increased research and development and corporate activities. During the   nine months ended     September 30, 2015  , our investing activities provided net cash of approximately   $14.4 million   primarily related to maturities and sales of available-for-sale investments of   $42.8 million  , which were partially offset by purchases of available-for-sale investments of   $26.6 million   and by purchases of office furnishings of   $1.9 million  . 
+  During the   nine months ended September 30, 2016   and   2015  , our financing activities provided net cash of   $167.9 million   and   $48.5 million  , respectively. The net cash provided by financing activities for the   nine months ended September 30, 2016   was primarily related to the issuance and sale of common stock pursuant to our  at-the-market  sales agreements and underwriting agreement, dated September 15, 2016, from which we received net proceeds of approximately   $96.2 million    and   $71.0 million  , respectively. The net cash provided by financing activities for the   nine months ended     September 30, 2015  , was primarily related to the issuance and sale of common stock pursuant to our  at-the-market  sales agreements, from which we received net proceeds of approximately   $47.1 million  . 
+  Operating Capital Requirements 
+  We expect to incur on-going operating losses as we continue to conduct and complete significant Phase 3 clinical trial activity in 2016 for Rhopressa   TM    and Roclatan   TM   , and further prepare in 2017 for commercialization in the U.S. of Rhopressa   TM    in 2018. Clinical trial expenses for trials conducted in the U.S. are expected to decrease in 2017 and we expect to incur additional clinical and other expenses abroad as we execute our strategy for ultimate commercialization in Europe and Japan. We currently expect that our existing cash and cash equivalents and investments will provide sufficient resources for our ongoing needs to complete all currently known non-clinical and clinical requirements for our development programs advancing Rhopressa   TM    and Roclatan   TM    approval by the FDA and product commercialization, pending successful outcome of the trials. We also intend to use these funds in part for general corporate purposes and for strategic growth opportunities, including the execution of clinical trials in Japan, the commencement of construction of a manufacturing plant in Ireland and the continuation of preclinical activity in support of our product pipeline. 
+  We also expect to continue to incur increasing costs associated with the growth of our operations, including but not limited to, increased costs and expenses for personnel associated with the expansion of our employee base, preparation for commercialization and expenses for compliance programs and various other costs. 
+  Due to the numerous risks and uncertainties associated with research, development and commercialization of pharmaceutical products, we are unable to estimate the exact amount of our operating capital requirements. We based our projections on assumptions that may prove to be incorrect or unreliable or may change due to circumstances beyond our control, and as a result we may consume our available capital resources earlier than we originally projected. Our future funding requirements will depend on many factors, including, but not limited to the following: 
+
+timing and costs of our future preclinical studies and clinical trials for our product candidates; 
+                
+    costs of any follow-on development or products; 
+                
+    timing and cost of the ongoing supportive preclinical studies and activities for our product candidates; 
+                
+    outcome, timing and costs of seeking regulatory approval; 
+                
+    costs of commercialization activities for our product candidates, if we receive regulatory approval, including the costs and timing of establishing product sales, marketing, manufacturing and distribution capabilities; 
+                
+    costs of operating as a public company, including legal, compliance, accounting and investor relations expenses; 
+                
+    terms and timing of any current or future collaborations, licensing, consulting or other arrangements; and 
+     
+   23 
+
+     Table of Contents  
+
+filing and prosecuting patent applications, maintaining and protecting our intellectual property rights and defending against intellectual property related claims. 
+     We may need to obtain additional financing to fund our future operations, including supporting our international operations and sales and marketing activities, as well as funding the ongoing development of any additional product candidates and technologies that we might license, acquire or develop internally. To the extent that we raise additional capital through the sale of common stock, convertible securities or other equity securities, the ownership interests of our existing stockholders may be materially diluted and the terms of these securities could include liquidation or other preferences that could adversely affect the rights of our existing stockholders. If we are unable to raise capital when needed or on acceptable terms, we could be forced to delay, reduce or discontinue our research and development programs or commercialization efforts. 
+  Contractual Obligations and Commitments 
+  The following table summarizes our contractual obligations at   September 30, 2016  : 
+
+(1) 
+    Our operating lease and other obligations are primarily related to our principal executive office in Irvine, California, corporate office in Bedminster, New Jersey, and new research facility in Durham, North Carolina.  
+              (2) 
+    On September 30, 2014, we issued the 2014 Convertible Notes to Deerfield Partners, L.P., Deerfield International Master Fund, L.P., Deerfield Private Design Fund III, L.P., Deerfield Special Situations Fund, L.P. and Deerfield Special Situations International Master Fund, L.P. The 2014 Convertible Notes mature on the seventh anniversary from the date of issuance, unless earlier converted. On January 1, 2015, Deerfield Special Situations International Master Fund, L.P. transferred all of its rights under the 2014 Convertible Notes to Deerfield Special Situations Fund, L.P.  Refer to Note 7 to our unaudited consolidated financial statements appearing elsewhere in this report for further information. 
+       
+  We have no other contractual obligations or commitments that are not subject to our existing financial statement accrual processes. 
+  Off-Balance Sheet Arrangements 
+  We did not have during the periods presented, and we do not currently have, any off-balance sheet arrangements as defined under SEC rules. 
+  Jumpstart Our Business Startups Act of 2012 
+  The Jumpstart Our Business Startups Act of 2012 (the  JOBS Act ) provides that an emerging growth company can take advantage of certain exemptions from various reporting and other requirements that are applicable to public companies that are not emerging growth companies. We currently take advantage of some, but not all, of the reduced regulatory and reporting requirements that are available to us for as long as we qualify as an emerging growth company. We have irrevocably elected under Section 107 of the JOBS Act not to take advantage of the extension of time to comply with new or revised financial accounting standards available under Section 102(b) of the JOBS Act and, therefore, we will be subject to the same new or revised accounting standards as other public companies that are not emerging growth companies. Our independent registered public accounting firm will not be required to provide an attestation report on the effectiveness of our internal control over financial reporting for as long as we qualify as an emerging growth company. 
+   
+  Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+  Our primary exposure to market risk is interest income sensitivity, which is affected by changes in the general level of U.S. interest rates. Our cash and cash equivalents as of   September 30, 2016  , totaled   $211.9 million   and consisted of cash and money market funds, commercial paper, corporate bonds and government agency securities with original maturities of three months or  
+  
+   24 
+
+     Table of Contents  
+
+less from the date of purchase. Our investments totaled   $43.7 million   as of   September 30, 2016   and consisted of certificates of deposit, commercial paper, corporate bonds and government agency securities. We had cash and cash equivalents and investments of   $150.4 million   as of   December 31, 2015  . Given the short-term nature of our cash equivalents and investments and our investment policy, a sudden change in market interest rates would not be expected to have a material impact on our financial condition or results of operations. We do not engage in any hedging activities against changes in interest rates. The 2014 Convertible Notes carry a fixed interest rate and, as such, are not subject to interest rate risk. We do not have any material foreign currency or any other derivative financial instruments. 
+   
+  Item 4. Controls and Procedures 
+  Evaluation of Disclosure Controls and Procedures 
+  Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15(d)-15(e)), as of the end of the period covered by this report. Based upon the evaluation, the Chief Executive Officer and Chief Financial Officer concluded that, as of   September 30, 2016  , the disclosure controls and procedures were effective to provide reasonable assurance that information required to be disclosed in the reports we file and submit under the Exchange Act, is (i) recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms and (ii) accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. In designing and evaluating our disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives, and management necessarily applies its judgment in evaluating the benefits of possible controls and procedures relative to their costs. 
+  Changes in Internal Control Over Financial Reporting 
+  There have been no significant changes in our internal control over financial reporting during our most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+  
+   25 
+
+Table of Contents  
+
+PART II. OTHER INFORMATION 
+   
+  Item 1. Legal Proceedings 
+  We may periodically become subject to legal proceedings and claims arising in connection with our business. Except as set forth below, we are not a party to any known litigation, are not aware of any unasserted claims and do not have contingency reserves established for any litigation liabilities.  
+  A putative securities class action lawsuit captioned Kelley et al. v. Aerie Pharmaceuticals, Inc., et al., Case No. 3:15-cv-03007, was filed against us and certain of our officers and directors in the United States District Court for the District of New Jersey on April 29, 2015. An amended complaint was filed on September 28, 2015 on behalf of a purported class of persons and entities who purchased or otherwise acquired our publicly traded securities between June 25, 2014 and April 23, 2015. The amended complaint asserted claims under the Securities Exchange Act of 1934, as amended, and alleged that the defendants made materially false and misleading statements or omitted allegedly material information during that period related to, among other things, the prospects of our initial Phase 3 trial of Rhopressa   TM   , named  Rocket 1,  and Rhopressa   TM   .       On November 30, 2015, the defendants filed a motion to dismiss the amended complaint. On June 20, 2016, the United States District Court for the District of New Jersey granted the defendants  motion to dismiss the amended complaint. We consider the matter concluded.   
+   
+  Item 1A. Risk Factors 
+  You should consider carefully the risks set forth under  Risk Factors  in our Annual Report on Form 10-K for the year ended   December 31, 2015  , filed with the SEC on March 2, 2016, and other documents that we have filed or furnished with the SEC. There have been no material changes to these risk factors. 
+   
+  Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+  Unregistered Sales of Equity Securities 
+  None.  
+  Use of Proceeds from Registered Securities 
+  On November 3, 2014, we filed the 2014 Registration Statement that permits the offering, issuance and sale by us of up to a maximum aggregate offering price of $150.0 million of our common stock and sales of common stock by certain selling stockholders.  
+    
+  From November 10, 2014 through September 30, 2016, we issued and sold a total of   5,933,712   shares of common stock under our  at-the-market  sales agreements, of which   4,179,156   shares were issued and sold during the nine months ended September 30, 2016, and received net proceeds of approximately   $146.6 million  , of which   $96.2 million   were received during the nine months ended September 30, 2016, in each case, after deducting commissions at a rate of up to 3% of the gross sales price per share sold and other fees and expenses. Sales under the  at-the-market  sales agreements were made pursuant to the 2014 Registration Statement. As of September 30, 2016, no shares remain available for issuance under the  at-the-market  sales agreements or the 2014 Registration Statement. 
+    
+  We currently hold the net proceeds from these sales as cash deposits and in a variety of capital preservation investments, including short-term, investment-grade, interest-bearing instruments and U.S. government securities.  
+   
+  Item 3. Defaults Upon Senior Securities 
+  None. 
+   
+  Item 4. Mine Safety Disclosures 
+  None. 
+   
+  Item  5. Other Information 
+  None. 
+  
+   26 
+
+Table of Contents  
+
+Item 6. Exhibits 
+  The exhibits filed as part of this Quarterly Report on Form 10-Q are set forth on the Exhibit Index, which is incorporated herein by reference. 
+  
+   27 
+
+Table of Contents  
+
+SIGNATURES 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+AERIE PHARMACEUTICALS, INC. 
+
+Date: November 3, 2016 
+
+/s/ RICHARD J. RUBINO 
+
+Richard J. Rubino 
+
+Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+28 
+
+Table of Contents  
+
+EXHIBIT INDEX 
+
+* 
+    Filed herewith. 
+
+** 
+    Attached as Exhibit 101 to this report are the following formatted in XBRL (Extensible Business Reporting Language): 
+
+(i) Consolidated Balance Sheets at September 30, 2016 and December 31, 2015 (unaudited), (ii) Consolidated Statements of Operations and Comprehensive Loss for the three and nine months ended September 30, 2016 and 2015 (unaudited), (iii) Consolidated Statements of Cash Flows for the nine months ended September 30, 2016 and 2015 (unaudited) and (iv) Notes to Consolidated Financial Statements (unaudited). 
+
+29 
+
+<EX-31.1>
+ 2
+ aeri9302016ex311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  CERTIFICATION 
+  I, Vicente Anido, Jr., PhD, certify that: 
+           1. 
+    I have reviewed this Quarterly Report on Form 10-Q of Aerie Pharmaceuticals, Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 3, 2016 
+
+/s/ VICENTE ANIDO, JR., PHD 
+
+Vicente Anido, Jr., PhD 
+
+Chief Executive Officer, Chairman of the Board 
+
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ aeri9302016ex312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  CERTIFICATION 
+  I, Richard J. Rubino, certify that: 
+           1. 
+    I have reviewed this Quarterly Report on Form 10-Q of Aerie Pharmaceuticals, Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 3, 2016 
+
+/s/ RICHARD J. RUBINO 
+
+Richard J. Rubino 
+
+Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ aeri9302016ex321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+  In connection with the filing of the Quarterly Report on Form 10-Q of Aerie Pharmaceuticals, Inc., a Delaware corporation (the  Company ), for the period ended   September 30, 2016   (the  Report ), the undersigned, Vicente Anido, Jr., PhD, Chief Executive Officer and Chairman of the Board of the Company, hereby certifies, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that to his knowledge: 
+    
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+              (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: November 3, 2016 
+
+/s/ VICENTE ANIDO, JR., PHD 
+
+Vicente Anido, Jr., PhD 
+
+Chief Executive Officer, Chairman of the Board 
+
+(Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ aeri9302016ex322.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+  In connection with the filing of the Quarterly Report on Form 10-Q of Aerie Pharmaceuticals, Inc., a Delaware corporation (the  Company ), for the period ended   September 30, 2016   (the  Report ), the undersigned, Richard J. Rubino, Chief Financial Officer of the Company, hereby certifies, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that to his knowledge: 
+    
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+              (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: November 3, 2016 
+
+/s/ RICHARD J. RUBINO 
+
+Richard J. Rubino 
+
+Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ aeri-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ aeri-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ aeri-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ aeri-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ aeri-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ aeri-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

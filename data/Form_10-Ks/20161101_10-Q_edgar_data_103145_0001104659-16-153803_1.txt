@@ -1,0 +1,1427 @@
+<Header>
+<FileStats>
+    <FileName>20161101_10-Q_edgar_data_103145_0001104659-16-153803_1.txt</FileName>
+    <GrossFileSize>6014356</GrossFileSize>
+    <NetFileSize>141706</NetFileSize>
+    <ASCII_Embedded_Chars>252817</ASCII_Embedded_Chars>
+    <HTML_Chars>1592498</HTML_Chars>
+    <XBRL_Chars>2395521</XBRL_Chars>
+    <XML_Chars>1306765</XML_Chars>
+    <N_Tables>31</N_Tables>
+    <N_Exhibits>12</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-16-153803.hdr.sgml : 20161101
+<ACCEPTANCE-DATETIME>20161101173131
+ACCESSION NUMBER:		0001104659-16-153803
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		66
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161101
+DATE AS OF CHANGE:		20161101
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VEECO INSTRUMENTS INC
+		CENTRAL INDEX KEY:			0000103145
+		STANDARD INDUSTRIAL CLASSIFICATION:	SPECIAL INDUSTRY MACHINERY, NEC [3559]
+		IRS NUMBER:				112989601
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-16244
+		FILM NUMBER:		161965731
+
+	BUSINESS ADDRESS:	
+		STREET 1:		TERMINAL DRIVE
+		CITY:			PLAINVIEW
+		STATE:			NY
+		ZIP:			11803
+		BUSINESS PHONE:		516 677-0200
+
+	MAIL ADDRESS:	
+		STREET 1:		TERMINAL DRIVE
+		CITY:			PLAINVIEW
+		STATE:			NY
+		ZIP:			11803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VACUUM ELECTRONIC MANUFACTURING CORP
+		DATE OF NAME CHANGE:	19700408
+
+</SEC-Header>
+</Header>
+
+ 0001104659-16-153803.txt : 20161101
+
+10-Q
+ 1
+ a16-17194_110q.htm
+ 10-Q
+
+Table of Contents   
+
+UNITED STATES  SECURITIES AND EXCHANGE COMMISSION   
+   Washington, D.C.  20549   
+
+FORM 10-Q   
+     
+   (   Mark One)  
+     
+   x            QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934   
+     
+   For the quarterly period ended September 30, 2016   
+     
+   OR   
+     
+   o               TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934   
+     
+   For the transition period from           to              
+     
+   Commission File Number:  0-16244   
+
+VEECO INSTRUMENTS INC.   
+  (Exact name of registrant as specified in its charter)  
+
+Delaware       (State or other jurisdiction of incorporation or   organization)      
+
+11-2989601       (I.R.S. Employer Identification No.)          
+
+Terminal   Drive    Plainview, New York      (Address of principal executive offices)      
+
+11803       (Zip Code)             
+
+(516) 677-0200   
+  (Registrant s telephone number, including area code)  
+     
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     Yes   x    No  o  
+     
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).     Yes   x    No  o  
+     
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act.  
+
+Large accelerated filer     x       
+ 
+  Accelerated filer                         o           
+
+Non-accelerated filer       o   (Do not check if a smaller reporting   company)      
+ 
+  Smaller reporting company        o              
+     
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     Yes   o    No  x  
+     
+  Indicate the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date:  
+
+Table of Contents   
+     
+    VEECO INSTRUMENTS INC.    
+     
+   INDEX   
+
+Safe Harbor Statement        
+ 
+  1           
+
+PART I FINANCIAL INFORMATION        
+ 
+  3           
+
+Item 1. Financial Statements        
+ 
+  3           
+
+Item 2.   Management s Discussion and Analysis of Financial Condition and Results of   Operations        
+ 
+  21           
+
+Item 3.   Quantitative and Qualitative Disclosures about Market Risk        
+ 
+  29           
+
+Item 4. Controls   and Procedures        
+ 
+  29           
+
+PART II OTHER   INFORMATION        
+ 
+  30           
+
+Item 1. Legal   Proceedings        
+ 
+  30           
+
+Item 1A. Risk Factors        
+ 
+  30           
+
+Item 2.   Unregistered Sales of Equity Securities and Use of Proceeds        
+ 
+  30           
+
+Item 3.   Defaults Upon Senior Securities        
+ 
+  30           
+
+Item 4. Mine Safety   Disclosures        
+ 
+  30           
+
+Item 5. Other   Information        
+ 
+  30           
+
+Item 6. Exhibits        
+ 
+  31           
+
+SIGNATURES        
+ 
+  32              
+
+Table of Contents   
+     
+   Safe Harbor Statement     
+     
+  This quarterly report on Form 10-Q (the  Report ) contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Discussions containing such forward-looking statements may be found in Part I - Items 1, 2, and 3 hereof, as well as within this Report generally. In addition, when used in this Report, the words  believes,   anticipates,   expects,   estimates,   targets,   plans,   intends,   will,  and similar expressions related to the future are intended to identify forward-looking statements. All forward-looking statements are subject to a number of risks and uncertainties that could cause actual results to differ materially from projected results.  
+     
+  In addition, the preparation of financial statements in conformity with U.S. Generally Accepted Accounting Principles ( U.S. GAAP ) requires management to make estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. Although these estimates and assumptions are based on knowledge of current events and planned actions to be undertaken in the future, they may ultimately differ from actual results. Operating results for the nine months ended September 30, 2016 are not necessarily indicative of the results that may be expected for the year ending December 31, 2016.  All estimates and assumptions are subject to a number of risks and uncertainties that could cause actual results to differ materially from these estimates and assumptions. 
+     
+  The risks and uncertainties of Veeco Instruments Inc. (together with its consolidated subsidiaries,  Veeco,  the  Company,   we,   us,  and  our,  unless the context indicates otherwise) include, without limitation, the following:  
+     
+                        Unfavorable market conditions may adversely affect our operating results; 
+     
+                        A reduction or elimination of foreign government subsidies and economic incentives may adversely affect the future order rate for our MOCVD equipment; 
+     
+                        The cyclicality of the industries we serve directly affects our business; 
+     
+                        We operate in industries characterized by rapid technological change; 
+     
+                        We have a concentrated customer base, located primarily in a limited number of regions, which operate in highly concentrated industries; 
+     
+                        We face significant competition; 
+     
+                        The timing of our orders, shipments, and revenue recognition may cause our quarterly operating results to fluctuate significantly; 
+     
+                        Our sales cycle is long and unpredictable; 
+     
+                        Our backlog is subject to customer cancellation or modification which could result in decreased sales, increased inventory obsolescence, and/or liabilities to our suppliers for products no longer needed; 
+     
+                        Our failure to estimate customer demand accurately could result in inventory obsolescence, liabilities to our suppliers for products no longer needed, and/or manufacturing interruptions or delays which could affect our ability to meet customer demand; 
+     
+                        Our failure to successfully manage our outsourcing activities or failure of our outsourcing partners to perform as anticipated could adversely affect our results of operations and our ability to adapt to fluctuating order volumes; 
+     
+                        We rely on a limited number of suppliers, some of whom are our sole source for particular components; 
+     
+                        Our inability to attract, retain, and motivate employees could have a material adverse effect on our business; 
+     
+                        Our acquisition strategy subjects us to risks associated with evaluating and pursuing these opportunities and integrating these businesses; 
+     
+                        Timing of market adoption of LED technology for general lighting is uncertain; 
+     
+                        Our sales to manufacturers are highly dependent on sales of consumer electronics applications, which can experience significant volatility due to seasonal and other factors and materially adversely impact our future results of operations; 
+     
+ 1   
+
+Table of Contents   
+     
+                        Our operating results have been, and may continue to be, adversely affected by tightening credit markets; 
+     
+                        We are exposed to the risks of operating a global business, including the need to obtain export licenses for certain of our shipments and political risks in the countries we operate; 
+     
+                        We may be exposed to liabilities under the Foreign Corrupt Practices Act and any determination that we violated these or similar laws could have a material adverse effect on our business; 
+     
+                        We are subject to internal control evaluations and attestation requirements of Section 404 of the Sarbanes-Oxley Act and any delays or difficulty in satisfying these requirements or negative reports concerning our internal controls could adversely affect our future results of operations and our stock price; 
+     
+                        Changes in accounting pronouncements or taxation rules or practices may adversely affect our financial results; 
+     
+                        Our income taxes can change; 
+     
+                        We may be required to take additional impairment charges on assets; 
+     
+                        The price of our common shares is volatile and could decline significantly; 
+     
+                        The enforcement and protection of our intellectual property rights may be expensive and/or divert our limited resources; 
+     
+                        We may be subject to claims of intellectual property infringement by others; 
+     
+                        We are subject to foreign currency exchange risks; 
+     
+                        If we are subject to cyber-attacks we could incur substantial costs and, if such attacks are successful, we could incur significant liabilities, reputational harm, and disruption to our operations; 
+     
+                        We have adopted certain measures that may have anti-takeover effects which may make an acquisition of our Company by another company more difficult; 
+     
+                        We are subject to risks of non-compliance with environmental, health, and safety regulations; 
+     
+                        Regulations related to conflict minerals will force us to incur additional expenses, may make our supply chain more complex, and may result in damage to our relationships with customers; and 
+     
+                        We have significant operations in locations which could be materially and adversely impacted in the event of a natural disaster, an act of terrorism or other significant disruption. 
+     
+  Consequently, such forward looking statements and estimates should be regarded solely as the current plans and beliefs of Veeco. We do not undertake any obligation to update any forward looking statements to reflect future events or circumstances after the date of such statements.  
+     
+ 2   
+
+Table of Contents   
+     
+   PART I FINANCIAL INFORMATION     
+     
+   Item 1. Financial Statements     
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Consolidated Balance Sheets   
+  (in thousands, except share amounts)  
+
+See accompanying Notes to the Consolidated Financial Statements.  
+     
+ 3   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Consolidated Statements of Operations   
+  (in thousands, except per share amounts)  
+  (unaudited)  
+
+See accompanying Notes to the Consolidated Financial Statements.  
+     
+ 4   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Consolidated Statements of Comprehensive Income (Loss)   
+  (in thousands)  
+  (unaudited)  
+
+See accompanying Notes to the Consolidated Financial Statements.  
+     
+ 5   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Consolidated Statements of Cash Flows   
+  (in thousands)  
+  (unaudited)  
+
+See accompanying Notes to the Consolidated Financial Statements.  
+     
+ 6   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Notes to the Consolidated Financial Statements   
+   (unaudited)   
+     
+   Note 1 - Basis of Presentation   
+     
+  The accompanying unaudited Consolidated Financial Statements of Veeco have been prepared in accordance with U.S. GAAP as defined in Financial Accounting Standards Board ( FASB ) Accounting Standards Codification 270 for interim financial information and with the instructions to Rule 10-01 of Securities and Exchange Commission Regulation S-X. Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements as the interim information is an update of the information that was presented in Veeco s most recent annual financial statements. For further information, refer to Veeco s Consolidated Financial Statements and Notes thereto included in the Annual Report on Form 10-K for the year ended December 31, 2015 ( 2015 Form 10-K ). In the opinion of management, all adjustments considered necessary for a fair presentation have been included. All such adjustments are of a normal, recurring nature. C ertain amounts previously reported have been reclassified in the financial statements to conform to the current presentation. 
+     
+  Veeco reports interim quarters on a 13-week basis ending on the last Sunday of each quarter. The fourth quarter always ends on the last day of the calendar year, December 31. The 2016 interim quarters end on April 3, July 3, and October 2, and the 2015 interim quarters ended on March 29, June 28, and September 27. These interim quarters are reported as March 31, June 30, and September 30 in Veeco s interim consolidated financial statements.  
+     
+   Revenue recognition   
+     
+  Veeco recognizes revenue when all of the following criteria have been met: persuasive evidence of an arrangement exists with a customer; delivery of the specified products has occurred or services have been rendered; prices are contractually fixed or determinable; and collectability is reasonably assured. Revenue is recorded including shipping and handling costs and excluding applicable taxes related to sales.  
+     
+   Contracts with customers frequently contain multiple deliverables , such as systems, upgrades, components, spare parts, maintenance, and service plans . Judgment is required to properly identify the accounting units of the multiple-element arrangements and to determine how the revenue should be allocated among the accounting units. Veeco also evaluates whether multiple transactions with the same customer or related parties should be considered part of a single, multiple-element arrangement based on an assessment of whether the contracts or agreements are negotiated or executed within a short time frame of each other or if there are indicators that the contracts are negotiated in contemplation of one another. Moreover, judgment is used in interpreting the commercial terms and determining when all criteria have been met in order to recognize revenue in the appropriate accounting period. 
+     
+  When there are separate units of accounting, Veeco allocates revenue to each element based on the following selling price hierarchy: vendor-specific objective evidence ( VSOE ) if available; third party evidence ( TPE ) if VSOE is not available; or the best estimate of selling price ( BESP ) if neither VSOE nor TPE is available. Veeco uses BESP for the majority of the elements in its arrangements.  The maximum revenue recognized on a delivered element is limited to the amount that is not contingent upon the delivery of additional items. 
+     
+  Veeco considers many facts when evaluating each of its sales arrangements to determine the timing of revenue recognition including its contractual obligations, the customer s creditworthiness, and the nature of the customer s post-delivery acceptance provisions. Veeco s system sales arrangements, including certain upgrades, generally include field acceptance provisions that may include functional or mechanical test procedures. For the majority of the arrangements, a customer source inspection of the system is performed in Veeco s facility or test data is sent to the customer documenting that the system is functioning to the agreed upon specifications prior to delivery. Historically, such source inspection or test data replicates the field acceptance provisions that are performed at the customer s site prior to final acceptance of the system. When Veeco objectively demonstrates that the criteria specified in the contractual acceptance provisions are achieved prior to delivery, revenue is recognized upon system delivery since there is no substantive contingency remaining related to the acceptance provisions at that date, subject to the retention amount constraint described below. For new products, new applications of existing products, or for products with substantive customer acceptance provisions  
+     
+ 7   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Notes to the Consolidated Financial Statements - continued   
+   (unaudited)   
+     
+  where Veeco cannot objectively demonstrate that the criteria specified in the contractual acceptance provisions have been achieved prior to delivery, revenue and the associated costs are deferred and fully recognized upon the receipt of final customer acceptance, assuming all other revenue recognition criteria have been met.  
+     
+  Veeco s system sales arrangements, including certain upgrades, generally do not contain provisions for the right of return, forfeiture, refund, or other purchase price concessions. In the rare instances where such provisions are included, all revenue is deferred until such rights expire. The sales arrangements generally include installation. The installation process is not deemed essential to the functionality of the equipment since it is not complex; it does not require significant changes to the features or capabilities of the equipment or involve constructing elaborate interfaces or connections subsequent to factory acceptance. Veeco has a demonstrated history of consistently completing installations in a timely manner and can reliably estimate the costs of such activities. Most customers engage Veeco to perform the installation services, although there are other third-party providers with sufficient knowledge who could complete these services. Based on these factors, installation is deemed to be inconsequential or perfunctory relative to the system sale as a whole, and as a result, installation service is not considered a separate element of the arrangement. As such, Veeco records the cost of the installation at the earlier of the time of revenue recognition for the system or when installation services are performed.  
+     
+  In many cases Veeco s products are sold with a billing retention, typically 10% of the sales price, which is billed by Veeco and payable by the customer when field acceptance provisions are completed. The amount of revenue recognized upon delivery of a system or upgrade, if any, is limited to the lower of i) the amount billed that is not contingent upon acceptance provisions or ii) the value of the arrangement consideration allocated to the delivered elements, if such sale is part of a multiple-element arrangement.  
+     
+  Veeco s contractual terms with customers in Japan generally specify that title and risk and rewards of ownership transfer upon customer acceptance. A distributor is used for almost all sales to customers in Japan. Title passes to the distributor upon shipment; however, due to customary local business practices, generally the risk and rewards of ownership of the systems transfer to the end-customers upon their acceptance. As a result, for customers in Japan, Veeco recognizes revenue upon receipt of written acceptance from the end-customer.  
+     
+  Veeco recognizes revenue related to maintenance and service contracts ratably over the applicable contract term. Veeco recognizes revenue from the sales of components, spare parts, and specified service engagements at the time of delivery in accordance with the terms of the applicable sales arrangement.  
+     
+  Incremental direct costs incurred related to the acquisition of a customer contract, such as sales commissions, are expensed as incurred, even if the related revenue is deferred in accordance with the above policy.  
+     
+   Recent accounting pronouncements   
+     
+   In May 2014, the FASB issued Accounting Standards Update ( ASU ) 2014-09, as amended:  Revenue from Contracts with Customers ,  which has been codified as Accounting Standards Codification 606 ( ASC606 ). ASC606 requires Veeco s revenue recognition to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which Veeco expects to be entitled in exchange for those goods or services. ASC606 outlines a five-step model to make the revenue recognition determination and requires new financial statement disclosures. Publicly-traded companies are required to adopt ASC606 for reporting periods beginning after December 15, 2017. ASC606 provides for different transition alternatives. Veeco has not yet determined which method of adoption will be selected. Veeco is evaluating the impact of adopting ASC606 on its consolidated financial statements and related financial statement disclosures.  A preliminary assessment of ASC606 indicates that the billing retention will no longer impact the timing of revenue recognition.  As a result, a small portion of revenue for system sales arrangements may be recognized earlier under ASC606 than it is under current U.S. GAAP.  
+     
+ 8   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Notes to the Consolidated Financial Statements - continued   
+   (unaudited)   
+     
+  In January 2016, the FASB issued ASU 2016-01:  Financial Instruments   Overall , which requires certain equity investments to be measured at fair value, with changes in fair value recognized in net income. Publicly-traded companies are required to adopt the update for reporting periods beginning after December 15, 2017; early adoption is permitted. Veeco does not expect this ASU will have a material impact on its consolidated financial statements.  
+     
+  In February 2016, the FASB issued ASU 2016-02:  Leases , which generally requires Veeco s operating lessee rights and obligations to be recognized as assets and liabilities on the Balance Sheet. In addition, interest on lease liabilities is to be recognized separately from the amortization of right-of-use assets in the Statement of Operations. Further, payments of the principal portion of lease liabilities are to be classified as financing activities while payments of interest on lease liabilities and variable lease payments are to be classified as operating activities in the Statement of Cash Flows. When the standard is adopted, Veeco will be required to recognize and measure leases at the beginning of the earliest period presented using a modified retrospective approach. ASU 2016-02 is effective for fiscal years beginning after December 15, 2018, with early application permitted. Veeco is evaluating the impact of adopting the ASU on its consolidated financial statements.  
+     
+  Veeco is also evaluating other pronouncements recently issued but not yet adopted. The adoption of these pronouncements is not expected to have a material impact on Veeco s consolidated financial statements.  
+     
+   Change in Accounting Principle   
+     
+  In March 2016, the FASB issued ASU 2016-09 Stock Compensation:  Improvements to Employee Share-Based Payment Accounting . Veeco adopted the ASU during the first quarter of 2016. Beginning in 2016, excess tax benefits and deficiencies are recognized as income tax expense or benefit in the income statement in the reporting period incurred. In conjunction with adopting the ASU, Veeco has made an accounting policy election to account for forfeitures when they occur. The ASU transition guidance requires that this election be applied on a modified retrospective basis through a cumulative-effect adjustment to retained earnings as of the beginning of the period in which the ASU is effective. Accordingly, Veeco recorded a $1.3 million charge to the opening accumulated deficit balance with a corresponding adjustment to additional paid-in capital, resulting in no impact to the opening balance of total stockholders  equity. In addition, Veeco recorded additional deferred tax assets with an equally offsetting valuation allowance of $2.4 million.  
+     
+ 9   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Notes to the Consolidated Financial Statements - continued   
+   (unaudited)   
+     
+   Note 2 - Income (Loss) Per Common Share   
+     
+  Basic income (loss) per common share is computed using the two-class method by dividing net income (loss) available to common stockholders by the weighted average number of common shares outstanding during the period. Diluted income per common share is calculated by dividing net income available to common stockholders by the weighted average number of common shares and common share equivalents outstanding during the period. The dilutive effect of outstanding options to purchase common stock and non-participating restricted share awards and restricted share units is considered in diluted income per common share by application of the treasury stock method. The dilutive effect of performance share units is included in diluted income per common share in the periods the performance targets have been achieved. The computations of basic and diluted income (loss) per common share for the three and nine months ended September 30, 2016 and 2015 are as follows:  
+
+Note 3 - Assets   
+     
+   Investments   
+     
+  Marketable securities are generally classified as available-for-sale and reported at fair value, with unrealized gains and losses, net of tax, presented as a separate component of stockholders  equity under the caption  Accumulated other comprehensive income  in the Consolidated Balance Sheets. These securities may include U.S. treasuries, government agency securities, corporate debt, and commercial paper, all with maturities of greater than three months when purchased. All realized gains and losses and unrealized losses resulting from declines in fair value that are other than temporary are included in  Other, net  in the Consolidated Statements of Operations.  
+     
+  Fair value is the price that would be received for an asset or the amount paid to transfer a liability in an orderly transaction between market participants. Veeco classifies certain assets based on the following fair value hierarchy:  
+     
+ 10   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Notes to the Consolidated Financial Statements - continued   
+   (unaudited)   
+     
+  Level 1:             Quoted prices in active markets that are unadjusted and accessible at the measurement date for identical, unrestricted assets or liabilities; 
+     
+  Level 2:             Quoted prices for identical assets and liabilities in markets that are not active, quoted prices for similar assets and liabilities in active markets or financial instruments for which significant inputs are observable, either directly or indirectly; and 
+     
+  Level 3:             Prices or valuations that require inputs that are both significant to the fair value measurement and unobservable. 
+     
+  A financial instrument s level within the fair value hierarchy is based on the lowest level of any input that is significant to the fair value measurement. Veeco has evaluated the estimated fair value of financial instruments using available market information and valuations as provided by third-party sources. The use of different market assumptions and/or estimation methodologies could have a significant effect on the estimated fair value amounts.  
+     
+  The following table presents the portion of Veeco s assets that were measured at fair value on a recurring basis at September 30, 2016 and December 31, 2015:  
+
+There were no transfers between fair value measurement levels during the three and nine months ended September 30, 2016.  
+     
+ 11   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Notes to the Consolidated Financial Statements - continued   
+   (unaudited)   
+     
+  At September 30, 2016 and December 31, 2015, the amortized cost and fair value of available-for-sale securities consist of:  
+
+Available-for-sale securities in a loss position at September 30, 2016 and December 31, 2015 consist of:  
+
+At September 30, 2016 and December 31, 2015, there were no short-term investments that had been in a continuous loss position for more than 12 months.  
+     
+  The available-for-sale securities at September 30, 2016 all contractually mature in one year or less. Actual maturities may differ from contractual maturities. Veeco may sell these securities prior to maturity based on the needs of the business. In addition, borrowers may have the right to call or prepay obligations prior to scheduled maturities.  
+     
+  There were minimal realized gains for the three and nine months ended September 30, 2016 and 2015. The cost of securities liquidated is based on specific identification.  
+     
+   Accounts receivable   
+     
+  Accounts receivable is presented net of an allowance for doubtful accounts of $0.3 million and $0.2 million at September 30, 2016 and December 31, 2015, respectively.  
+     
+ 12   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Notes to the Consolidated Financial Statements - continued   
+   (unaudited)   
+     
+   Inventories   
+     
+   Inventories are stated at the lower of cost or net realizable value on a first-in, first-out basis. Inventories at September 30, 2016 and December 31, 2015 consist of the following :  
+
+Prepaid expenses and other current assets   
+     
+  Prepaid expenses and other current assets primarily consist of supplier deposits, prepaid value-added tax, lease deposits, prepaid insurance, and prepaid licenses. Veeco had deposits with its suppliers of $13.1 million and $14.6 million at September 30, 2016 and December 31, 2015, respectively.  
+     
+   Assets held for sale   
+     
+  During the second quarter of 2016, the Company undertook initiatives to streamline operations, enhance efficiency, and reduce costs.  As part of that initiative, the Company listed its facility in Yongin-city, South Korea for sale.  At that time, Veeco determined that the carrying value of the building exceeded its fair market value, less cost to sell, and recorded an impairment charge.  During the third quarter of 2016, Veeco engaged potential buyers and re-evaluated market conditions for the building.  As a result, Veeco updated its assessment of fair market value and increased the carrying value of the building by $1.6 million, which is still lower than the original pre-impairment carrying value.  The increase in the carrying value was recorded as a contra-impairment charge in the Consolidated Statements of Operations.  
+     
+  During the third quarter of 2016, Veeco sold its building in Hyeongok-ri, South Korea, which had been designated as held for sale in the second quarter of 2016, at a price which approximated carrying value.  The Company also continues to market one of its properties in St. Paul, Minnesota.  The carrying value of assets held for sale reflects Veeco s estimate of fair value less costs to sell using the sales comparison market approach.  
+     
+   Property, plant, and equipment   
+     
+  Property, plant, and equipment at September 30, 2016 and December 31, 2015 consist of the following:  
+
+(1) Machinery and equipment also includes software, furniture and fixtures  
+     
+ 13   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Notes to the Consolidated Financial Statements - continued   
+   (unaudited)   
+     
+  For the three and nine months ended September 30, 2016, depreciation expense was $3.5 million and $10.2 million, respectively, and $3.2 million and $8.9 million for the comparable 2015 periods.  During the second quarter of 2016, and as part of the Company s efforts to streamline operations, enhance efficiency, and reduce costs, the Company removed certain lab equipment that was no longer required and recorded a non-cash impairment charge of $6.1 million.  In addition, during the second quarter of 2016, land and buildings with a net carrying value of $13.7 million were classified as assets held for sale on the Consolidated Balance Sheets.  During the third quarter of 2016, the Company decided to significantly reduce future investments in its Atomic Layer Deposition ( ALD ) technology development and, as a result, recorded a charge for impairment of its ALD assets, including a $3.3 million impairment of property, plant, and equipment.  
+     
+   Goodwill   
+     
+  Goodwill represents the future economic benefits arising from assets acquired in a business combination that are not individually identified and separately recognized. There were no changes to goodwill during the nine months ended September 30, 2016.  
+     
+   Intangible assets   
+     
+  Intangible assets consist of purchased technology, customer-related intangible assets, patents, trademarks (both long-lived and indefinite-lived), covenants not-to-compete, and software licenses and are initially recorded at fair value. Long-lived intangibles are amortized over their estimated useful lives in a method reflecting the pattern in which the economic benefits are consumed or amortized on a straight-line basis if such pattern cannot be reliably determined.  
+     
+  During the third quarter of 2016, the Company decided to significantly reduce future investments in its ALD technology development and, as a result, recorded a charge for impairment of its ALD assets, including $54.3 million for the full impairment of the intangible purchased ALD technology. The impairment charges were based on projected cash flows that required the use of unobservable inputs.  
+     
+  The components of purchased intangible assets at September 30, 2016 and December 31, 2015 consist of the following:  
+
+Other intangible assets primarily consist of patents, licenses, and non-compete agreements.  
+     
+   Other assets   
+     
+   Veeco has an ownership interest of less than 20% in a non-marketable investment, Kateeva, Inc. ( Kateeva ). Veeco does not exert significant influence over Kateeva and therefore the investment is carried at cost. There was no change to the $21.0 million carrying    value of the investment during the nine months ended September 30, 2016. The investment is 
+     
+ 14   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Notes to the Consolidated Financial Statements - continued   
+   (unaudited)   
+     
+  included in  Other assets  on the Consolidated Balance Sheet. The investment is subject to a periodic impairment review; as there are no open-market valuations, the impairment analysis requires judgment. The analysis includes assessments of Kateeva s financial condition, the business outlook for its products and technology, its projected results and cash flow, business valuation indications from recent rounds of financing, the likelihood of obtaining subsequent rounds of financing, and the impact of equity preferences held by Veeco relative to other investors. Fair value of the investment is not estimated unless there are identified events or changes in circumstances that could have a significant adverse effect on the fair value of the investment. No such events or circumstances are present.  
+     
+   Note 4 - Liabilities   
+     
+   Accrued expenses and other current liabilities   
+     
+  The components of accrued expenses and other current liabilities at September 30, 2016 and December 31, 2015 consist of:  
+
+Other liabilities include accruals for costs related to customer training, royalties, and travel.  
+     
+   Warranty   
+     
+  Warranties are typically valid for one year from the date of system final acceptance, and Veeco estimates the costs that may be incurred under the warranty. Estimated warranty costs are determined by analyzing specific product and historical configuration statistics and regional warranty support costs and are affected by product failure rates, material usage, and labor costs incurred in correcting product failures during the warranty period. Unforeseen component failures or exceptional component performance can also result in changes to warranty costs.  Changes in product warranty reserves for the nine months ended September 30, 2016 include: 
+
+15   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Notes to the Consolidated Financial Statements - continued   
+   (unaudited)   
+     
+   Restructuring accruals   
+     
+  During the nine months ended September 30, 2016, additional accruals were recognized and payments made related to previous years  restructuring initiatives. During the second and third quarters of 2016, the Company undertook additional restructuring activities as part of its initiative to streamline operations, enhance efficiency, and reduce costs. As a result of these actions, the Company notified approximately 50 employees of their termination from the Company and recorded restructuring charges related to these actions of $2.9 million, consisting of $2.8 million of personnel severance and related costs and $0.1 million of facility closing costs. In addition, during the third quarter of 2016, the Company decided to significantly reduce future investments in its ALD technology development, which impacts approximately 25 additional employees. As a result, the Company recorded personnel severance and related restructuring charges of $0.9 million in the third quarter of 2016.  Over the next few quarters, the Company expects to incur additional restructuring costs of $4 to $7 million as it finalizes all of these activities.  
+
+Customer deposits   
+     
+  Customer deposits totaled $25.8 million and $28.2 million at September 30, 2016 and December 31, 2015, respectively.  
+     
+   Long-term debt   
+     
+  Debt consists of a mortgage note payable with a carrying value of $1.3 million and $1.5 million at September 30, 2016 and December 31, 2015, respectively. The mortgage note payable is secured by certain land and buildings. One of the buildings is currently held for sale. The annual interest rate on the mortgage is 7.91%, and the final payment is due on January 1, 2020. Veeco estimated the mortgage fair value as $1.3 million and $1.6 million at September 30, 2016 and December 31, 2015, respectively, using a discounted cash flow model.  
+     
+   Other Liabilities   
+     
+  Other liabilities primarily consist of income taxes payable and other liabilities not expected to be paid within one year. Non-current income taxes payable were $4.9 million and less than $0.1 million at September 30, 2016 and December 31, 2015, respectively.  
+     
+ 16   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Notes to the Consolidated Financial Statements - continued   
+   (unaudited)   
+     
+   Note 5 - Commitments and Contingencies   
+     
+   Minimum lease commitments   
+     
+  At September 30, 2016, Veeco s total future minimum lease payments under non-cancelable operating leases have not changed significantly from the disclosure in the 2015 Form 10-K.  
+     
+   Purchase commitments   
+     
+  Veeco has purchase commitments of $60.1 million at September 30, 2016, substantially all of which become due within one year.  
+     
+   Bank guarantees   
+     
+  Veeco has bank guarantees and letters of credit issued by a financial institution on its behalf as needed.  At September 30, 2016, outstanding bank guarantees and letters of credit totaled $5.3 million, and unused bank guarantees and letters of credit of $59.8 million were available to be drawn upon. 
+     
+   Legal proceedings   
+     
+  Veeco is involved in various legal proceedings arising in the normal course of business. Veeco does not believe that the ultimate resolution of these matters will have a material adverse effect on its consolidated financial position, results of operations, or cash flows.  
+     
+   Note 6 - Equity   
+     
+   Accumulated Other Comprehensive Income ( AOCI )   
+     
+  The following table presents the changes in the balances of each component of AOCI, net of tax:  
+
+Late in 2015, the Company began the process to terminate a defined benefit plan it had acquired in the year 2000.  The plan had been frozen as of September 30, 1991, and no further benefits have been accrued by participants since that date.  In connection with the termination, responsibility for the payment of benefits under the plan was transferred to an insurance company during the third quarter of 2016. As a result, the Company reclassified the minimum pension liability of $1.3 million and the $0.4 million income tax benefit from AOCI to  Other, net  and  Income tax expense,  respectively, on the Consolidated Statements of Operations.  
+     
+ 17   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Notes to the Consolidated Financial Statements - continued   
+   (unaudited)   
+     
+   Note 7 - Share-based compensation   
+     
+  Restricted share awards are issued to employees that are subject to specified restrictions and a risk of forfeiture. The restrictions typically lapse over one to five years and may entitle holders to dividends and voting rights. Other types of share-based compensation include performance share awards, performance share units, and restricted share units (collectively with restricted share awards,  restricted shares ), as well as options to purchase common stock.  
+     
+  Share-based compensation expense was recognized in the following line items in the Consolidated Statements of Operations for the three and nine months ended September 30, 2016 and 2015  
+
+For the nine months ended September 30, 2016, equity activity related to stock options was as follows:  
+
+For the nine months ended September 30, 2016, equity activity related to restricted shares and performance shares was as follows:  
+
+Note 8 - Income Taxes   
+     
+  Income taxes are estimated for each of the jurisdictions in which the Company operates.  Deferred income taxes reflect the net tax effect of temporary differences between the carrying amount of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes, as well as the tax effect of carryforwards.  A valuation allowance is recorded to reduce deferred tax assets to the amount that is more likely than not to be realized.  Realization of net  
+     
+ 18   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Notes to the Consolidated Financial Statements - continued   
+   (unaudited)   
+     
+  deferred tax assets is dependent on future taxable income.  
+     
+  At the end of each interim reporting period, the effective tax rate is aligned to expectations for the full year.  This estimate is used to determine the income tax provision on a year-to-date basis and may change in subsequent interim periods. Income (loss) before income taxes and income tax expense for the three and nine months ended September 30, 2016 and 2015 were as follows:  
+
+For the three months ended September 30, 2016, the $1.1 million net expense for income taxes included $0.3 million relating to Veeco s U.S. operations and $0.8 million relating to Veeco s non-U.S. operations. For the nine months ended September 30, 2016, the $2.7 million net expense for income taxes included $1.2 million relating to Veeco s U.S. operations and $1.5 million relating to Veeco s non-U.S. operations.  For the three and nine months ended September 30, 2016, Veeco did not provide a current tax benefit on U.S. pre-tax losses as the amounts are not realizable on a more-likely-than-not basis. The U.S. tax expense is primarily related to U.S. tax amortization expense of indefinite-lived intangible assets that is not available to offset existing deferred tax assets.  
+     
+  For three and nine months ended September 30, 2015, Veeco did not provide a current tax benefit on U.S. pre-tax losses as the amounts are not realizable on a more-likely-than-not basis. The U.S. tax expense is primarily related to withholding taxes and is also related to U.S. tax amortization expense of indefinite-lived intangible assets that is not available to offset existing deferred tax assets.  
+     
+   Note 9 - Segment Reporting and Geographic Information   
+     
+  Veeco operates and measures its results in one operating segment and therefore has one reportable segment: the design, development, manufacture, and support of thin film process equipment primarily sold to make electronic devices.  
+     
+  Veeco categorizes its sales into the following four end-markets:  
+     
+   Lighting, Display   Power Electronics   
+     
+  Lighting refers to Light Emitting Diode ( LED  semiconductor illumination sources used in various applications including backlights, general lighting, automotive running lights, and head lamps. Display refers to LED displays including outdoor display/signage applications. Power Electronics refers to GaN-on-Silicon semiconductor devices such as rectifiers, inverters, and converters for the control and conversion of electric power.  
+     
+   Advanced Packaging, MEMS   RF   
+     
+  Advanced Packaging includes a portfolio of wafer-level assembly technologies that enable the miniaturization and performance improvement of electronic products, such as smartphones, smartwatches, tablets, and laptops. Micro-Electro Mechanical Systems ( MEMS ) includes tiny mechanical devices such as sensors, switches, mirrors, and actuators embedded in semiconductor chips used in vehicles, smartphones, tablets, and games. Radio Frequency ( RF ) includes semiconductor devices that make use of radio waves (RF fields) for wireless broadcasting and/or communications.  
+     
+   Scientific   Industrial   
+     
+  Scientific refers to advanced materials research at university research institutions, industry research institutions, industry  
+     
+ 19   
+
+Table of Contents   
+     
+   Veeco Instruments Inc. and Subsidiaries   
+   Notes to the Consolidated Financial Statements - continued   
+   (unaudited)   
+     
+  consortiums, and government research agencies. Industrial refers to large-scale product manufacturing applications including optical coatings: thin layers of material deposited on a lens or mirror that alters how light reflects and transmits; extreme ultraviolet ( EUV ) photomask: an opaque plate that allows light to shine through in a defined pattern for use in photolithography; front end semiconductor: early steps in the process of integrated circuit fabrication where the microchips are created but still remain on the silicon wafer; and high power lasers such as fiber lasers used for industrial materials processing.  
+     
+   Data Storage   
+     
+  The Data Storage end-market refers to the archiving of data in electromagnetic or other forms for use by a computer or device, including hard disk drives used in large capacity storage applications.  
+     
+  Sales by end-market and geographic region for the three and nine months ended September 30, 2016 and 2015 were as follows:  
+
+(1) EMEA consists of Europe, the Middle East, and Africa  
+     
+  For geographic reporting, sales are attributed to the location in which the customer facility is located.  
+     
+ 20   
+
+Table of Contents   
+     
+   Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations     
+     
+   Cautionary Statement Regarding Forward Looking Statements   
+     
+  Our discussion below constitutes  forward-looking statements  within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. When used in this Report, the words  believes,   anticipates,   expects,   estimates,   targets,   plans,   intends,   will,  and similar expressions related to the future are intended to identify forward-looking statements. All forward-looking statements are subject to a number of risks and uncertainties that could cause actual results to differ materially from projected results. You should not place undue reliance on any forward-looking statements, which speak only as of the dates they are made.  
+     
+   Executive Summary   
+     
+  We create process equipment that enables technologies for a cleaner, more productive and connected world. We design, develop, manufacture, market, and service thin film process equipment to meet the demands of key global trends such as improving energy efficiency, enhancing mobility, and increasing connectivity. Our equipment is used to make electronic devices which enable these trends, including light emitting diodes ( LEDs ), micro-electromechanical systems ( MEMS ), wireless devices, power electronics, hard disk drives ( HDDs ), and semiconductors.  
+     
+  We develop highly differentiated,  best-in-class  equipment for critical performance steps in thin film processing. Our products provide leading technology solutions with competitive cost-of-ownership. Core competencies in advanced thin film technologies and decades of specialized process know-how help us stay at the forefront of these rapidly advancing industries.  
+     
+  Our solutions sell into four key end-markets: Lighting, Display   Power Electronics; Advanced Packaging, MEMS   RF; Scientific   Industrial; and Data Storage.  
+     
+  Sales in the Lighting, Display   Power Electronics markets increased in the third quarter, reflecting an improvement in LED industry conditions. Following a prolonged period of weakness, demand for TV display backlighting has started to stabilize and consume excess LED capacity.  As a result, LED chip manufacturers have begun to make capital investments to support ongoing growth in LED demand for general lighting, signage, and automotive applications. While we have limited long-term visibility, we believe these trends are positive for metal organic chemical vapor deposition ( MOCVD ) demand in the near term. Our broad portfolio of MOCVD technologies has been developed to support the most significant industry trends, including developing mid-power LEDs, utilizing larger wafer sizes, and optimizing cost-of-ownership. Our TurboDisc     EPIK  700 Gallium-Nitride ( GaN ) MOCVD system continues to win new business for blue LEDs. Our recently introduced TurboDisc K475i  Arsenic-Phosphide ( AsP ) MOCVD system targets red-orange-yellow LEDs, laser diodes, and high-efficiency triple junction photovoltaic solar cells and has quickly gained market momentum. 
+     
+  Following record sales in the first half of the year, sales in the Advanced Packaging, MEMS   RF markets declined in the third quarter. RF applications represented the largest portion of sales in these markets as customers made incremental investments to support next generation mobile devices. We continue to focus on expanding into the advanced packaging markets with our Precision Surface Processing ( PSP ) product family.  Our versatile PSP product architecture is well suited for a multitude of advanced packaging process schemes, including WLFO (wafer level fan out) and 3D TSV (thru silicon via) applications.  
+     
+  Sales in the Scientific   Industrial market were comprised of a broad range of customers, spanning multiple product lines. Our SPECTOR ion beam deposition products represented the largest component of these sales.  SPECTOR is used by optical coating suppliers to manufacture a variety of products including laser mirrors, optical fibers, and anti-reflective coatings. We continue to win a majority of research opportunities, supported by our molecular beam epitaxy ( MBE ) GENXplor R D product. Our MBE systems enable universities and research consortia to conduct advanced materials research. Our MBE systems are also used for production applications, such as fiber lasers, where high volume throughput  
+     
+ 21   
+
+Table of Contents   
+     
+  and low cost of ownership are required. The diverse customer base represented by the Industrial   Scientific markets support ongoing demand for our products; however, sales can be highly variable quarter to quarter.  
+     
+  Sales in the Data Storage market were lower in the third quarter, although disk drive manufacturers continued to make incremental investments to upgrade their installed base of equipment. This mature market is facing softening demand for personal computers in the near term and a shift from HDDs to solid state drives in the longer term. Accordingly, our customers in the HDD industry are not expected to make significant investments in new capacity. This is consistent with recent experience that investments are being made on an  as-needed  basis. Orders are expected to continue to fluctuate from quarter to quarter.  
+     
+   Results of Operations   
+     
+   For the three months ended September 30, 2016 and 2015   
+     
+  The following table presents operating results as a percentage of net sales, as well as period-over-period dollar and percentage changes for those line items. Our results of operations are reported as one business segment.  
+
+* Not meaningful  
+     
+ 22   
+
+Table of Contents   
+     
+   Net Sales   
+     
+  The following is an analysis of sales by market and by region:  
+
+The overall sales decline was primarily due to reduced sales in Lighting, Display   Power Electronics, which was driven by an oversupply of LED units in this market, and a decline in Data Storage, which was a result of demand variability associated with this mature market.  By geography, the largest sales decline was in China, which was attributable to the decline in Lighting, Display   Power Electronics, partially offset by increases in Rest of World. We expect there will continue to be variations in our future sales distribution across markets and geographies.  
+     
+  Bookings increased to $118.0 million for the three months ended September 30, 2016 from $51.7 million for the comparable prior year period. The increase in bookings was primarily attributable to improvements in the Lighting, Display   Power Electronics market as we are seeing some improvement in LED industry conditions. We expect continued variations in quarter-to-quarter results, and we expect Data Storage demand to generally be weak as customers make limited technology purchases.  
+     
+  One of the performance measures we use as a leading indicator of the business is the book-to-bill ratio. The ratio is defined as orders recorded in a given period divided by revenue recognized in the same period. For the three months ended September 30, 2016, the book-to-bill ratio was about 1.4. Our backlog increased from $144.2 million at June 30, 2016 to $176.5 million at September 30, 2016.  
+     
+   Gross Profit   
+     
+  In the third quarter of 2016, gross profit decreased compared to 2015 due to a sharp decline in sales volume. Gross margins remained steady despite the decline in overall sales volume principally due to a favorable mix of products sold in the period and from the benefits associated with ongoing cost reduction activities.  
+     
+   Research and development expenses   
+     
+  Research and development expenses increased slightly due to small changes in personnel-related expenses. However, we expect research and development expenses to decline in the fourth quarter as certain development programs are completed. We expect to fund research and development programs that position the Company for future growth.  
+     
+ 23   
+
+Table of Contents   
+     
+   Selling, general, and administrative expenses   
+     
+  Selling, general, and administrative expenses decreased primarily due to reductions in personnel and personnel-related expenses, equity compensation, and professional fees as a result of our initiative to streamline operations, enhance efficiency, and reduce costs in response to market conditions.  
+     
+   Amortization expense   
+     
+  The decrease in amortization expense is a result of certain intangible assets becoming fully amortized, including the backlog and trademark/tradename assets associated with the December 2014 Precision Surface Processing ( PSP ) acquisition. In addition, during the third quarter of 2016, we decided to significantly reduce future investments in our Atomic Layer Deposition ( ALD ) technology development and, as a result, recorded a charge for impairment of the ALD assets, including a non-cash $54.3 million impairment of intangible purchased technology. As a result, going forward we expect there will be a significant decline in amortization expense.  
+     
+   Restructuring expense   
+     
+  During the third quarter of 2016, we undertook additional restructuring activities as part of our initiative to streamline operations, enhance efficiency, and reduce costs that was announced during the second quarter of 2016. As a result of these actions, we notified approximately 10 additional employees of their termination. We also incurred restructuring costs associated with our decision to reduce future investments in our ALD technology development, which impacts approximately 25 employees. We incurred $1.7 million of personnel severance and related costs and $0.1 million of facility closing costs. Over the next few quarters, we expect to incur additional restructuring costs of $4 to $7 million as we finalize these activities.  
+     
+   Asset impairment expense   
+     
+  As a result of our decision to significantly reduce future investments in our ALD technology development, during the third quarter of 2016 we recorded non-cash asset impairment charges of $57.6 million, the vast majority of which relates to the impairment of the intangible ALD technology asset. In addition, we engaged potential buyers and re-evaluated market conditions for the sale of a building that was previously impaired when it was designated as held for sale during the second quarter of 2016. Our updated assessment of fair market value for the building required us to increase the carrying value of the building, which is still lower than the original pre-impairment carrying value, and record a contra-impairment charge of $1.6 million.  
+     
+   Income tax expense   
+     
+  At the end of each interim reporting period, we estimate the effective income tax rate expected to be applicable for the full year. This estimate is used to determine the income tax provision or benefit on a year-to-date basis and may change in subsequent interim periods.  
+     
+  Our tax expense for the three months ended September 30, 2016 and 2015 was $1.1 million and $1.4 million, respectively. The 2016 tax expense included $0.3 million relating to our U.S. operations and $0.8 million relating to our non-U.S. operations, compared to 2015 when our expense included $0.4 million benefit related to U.S. operations and $1.8 million expense related to non-U.S. operations.  The decrease in our expense in 2016 was primarily related to reduced pretax income from our non-U.S. operations, offset by an increase in our U.S. tax expense.  
+     
+ 24   
+
+Table of Contents   
+     
+   For the nine months ended September 30, 2016 and 2015   
+     
+  The following table presents operating results as a percentage of net sales, as well as period-over-period dollar and percentage changes for those line items. Our results of operations are reported as one business segment.  
+
+* Not Meaningful  
+     
+   Net Sales   
+     
+  The following is an analysis of sales by market and by region:  
+
+The overall sales decline was primarily due to reduced sales in Lighting, Display   Power Electronics driven by an oversupply of LED units in the market. The decrease was partially offset by increased sales into the Advanced Packaging, MEMS   RF and Scientific   Industrial markets. By geography, sales decreased in all regions, except EMEA.  The largest sales decline was in China, which was attributable to the decline in Lighting, Display   Power Electronics. We expect there will continue to be variations in our future sales distribution across markets and geographies.  
+     
+ 25   
+
+Table of Contents   
+     
+  Bookings decreased to $247.3 million for the nine months ended September 30, 2016 from $277.3 million for the comparable prior year period. The decrease in bookings was primarily attributable to weak activity in the Lighting, Display   Power Electronics market in the first half of 2016 driven by an oversupply of LED units in the market. Beginning in the third quarter of 2016, we are seeing some improvement in LED industry conditions. While there may continue to be quarter-to-quarter variations, we also expect Data Storage demand to generally be weak as customers make limited technology purchases.  
+     
+  For the nine months ended September 30, 2016, the book-to-bill ratio was 1.04. Our backlog decreased slightly from $186.0 million at December 31, 2015 to $176.5 million at September 30, 2016, which includes a backlog adjustment of approximately $17.6 million relating to a partial cancellation of a prior period sales order.  
+     
+   Gross Profit   
+     
+  For the nine months ended September 30, 2016, gross profit decreased compared to 2015 due to a sharp decline in sales volume partially offset by improved gross margins. Gross margins increased despite the decline in overall sales volume principally due to a favorable mix of products sold in the period and from the benefits associated with ongoing cost reduction activities.  
+     
+   Research and development expenses   
+     
+  Research and development expenses increased due to the additional use of third party contractors to accelerate the development of products for the Lighting, Display   Power Electronics market, personnel-related expenses, and depreciation of research and development-related property, plant, and equipment, partially offset by decreased incentive compensation. We expect research and development expenses expect to decline in the fourth quarter as certain development programs are completed. We expect to fund research and development programs that position the Company for future growth.  
+     
+   Selling, general, and administrative expenses   
+     
+  Selling, general, and administrative expenses decreased primarily due to reductions in sales commissions, incentive compensation, as a result of the decline in our financial performance as well as a decrease in personnel-related expenses as a result of our initiative to streamline operations, enhance efficiency, and reduce costs in response to market conditions.  
+     
+   Amortization expense   
+     
+  The decrease in amortization expense is a result of certain intangible assets become fully amortized, including the backlog and trademark/tradename assets associated with the December 2014 Precision Surface Processing ( PSP ) acquisition. In addition, during the third quarter of 2016, we decided to significantly reduce future investments in our ALD technology development and, as a result, recorded a charge for impairment of the ALD assets, including a non-cash $54.3 million impairment of intangible purchased technology. As a result, going forward, we expect there will be a significant decline in amortization expense.  
+     
+   Restructuring expense   
+     
+  During the nine months ended September 30, 2016, we undertook restructuring activities as part of our initiative to streamline operations, enhance efficiency, and reduce costs. As a result of these actions, we notified approximately 50 employees of their termination. During the first nine months of 2016, we recorded restructuring charges of $3.1 million, consisting of $2.8 million of personnel severance and related costs and $0.3 million of facility closing costs. In addition, during the third quarter of 2016, we decided to significantly reduce our future investments in ALD technology development and, as a result, recorded personnel severance and related restructuring charges of $0.9 million.  Over the next few quarters, we expect to incur additional restructuring costs of $4 to $7 million as we finalize these activities.  
+     
+ 26   
+
+Table of Contents   
+     
+   Asset Impairment expense   
+     
+  As a result of our decision to significantly reduce future investments in our ALD technology development, during third quarter we recorded non-cash asset impairment charges of $57.6 million, the vast majority of which relates to the impairment of the intangible ALD technology asset. We evaluated the market conditions for all of our assets held for sale and made adjustments to the carrying value of the assets to match their fair market value, less cost to sell. As a result, we recorded net non-cash impairment charges of approximately $5.9 million. Additionally, we removed certain lab equipment that was no longer required from our facilities and recorded a non-cash impairment of $6.1 million.  
+     
+   Income tax expense   
+     
+  At the end of each interim reporting period, we estimate the effective income tax rate expected to be applicable for the full year. This estimate is used to determine the income tax provision or benefit on a year-to-date basis and may change in subsequent interim periods.  
+     
+  Our tax expense for the nine months ended September 30, 2016 and 2015 was $2.7 million and $9.4 million, respectively. The 2016 tax expense included $1.2 million relating to our U.S. operations and $1.5 million relating to our non-U.S. operations, compared to 2015 when our expense included $4.9 million related to U.S. operations and $4.5 million related to non-U.S. operations. The decrease in our expense in 2016 was primarily related to a significant reduction in our withholding taxes included in our 2015 U.S. tax expense as well as reduced pretax income from our non-U.S. operations in 2016.  
+     
+   Liquidity and Capital Resources   
+     
+  We believe that our projected cash flow from operations, combined with our cash and short term investments, will be sufficient to meet our projected working capital, contractual obligations, and other cash flow needs for the next twelve months. Our cash and cash equivalents as well as short-term investments at September 30, 2016 and December 31, 2015 were:  
+
+At September 30, 2016 and December 31, 2015, cash and cash equivalents of $161.5 million and $135.3 million, respectively, were held outside the United States. It is our current intention to permanently reinvest the cash and cash equivalent balances held in China, Taiwan, and Malaysia, and our current forecasts do not require repatriation of the funds back to the United States. At September 30, 2016, we had $108.4 million in cash held outside the United States on which we may have to pay significant U.S. income taxes to repatriate. Additionally, local government regulations may restrict our ability to move cash balances to meet cash needs under certain circumstances. We currently do not expect such regulations and restrictions to impact our ability to pay vendors, conduct operations throughout our global organization, or make acquisitions.  
+     
+ 27   
+
+Table of Contents   
+     
+   Cash Flows from Operating Activities   
+
+Cash used in operating activities for the nine months ended September 30, 2016 reflects net income adjusted for the effect of non-cash charges and changes in working capital components. Non-cash charges included depreciation, amortization, share-based compensation expense, asset impairment, and deferred taxes. Cash from operating activities was negatively impacted by changes in inventory, accounts payable and accrued expenses, and accounts receivable, partially offset by changes in customer deposits and deferred revenue and prepaid expenses and other current assets.  
+     
+   Cash Flows from Investing Activities   
+
+Cash provided by investing activities during the nine months ended September 30, 2016 is primarily attributed to net liquidations of short-term investments, offset by capital expenditures. As part of our efforts to streamline operations, enhance efficiency, and reduce costs, we are making certain investments in our facilities to support the consolidation activities, and we expect to incur additional capital expenditures of $6 to $9 million over the next few quarters related to these activities.  
+     
+   Cash Flows from Financing Activities   
+
+Cash flows used in financing activities during the nine months ended September 30, 2016 is primarily a result of our purchases of common shares as part of the s hare buyback program initiated during the fourth quarter of 2015.  
+     
+ 28   
+
+Table of Contents   
+     
+   Off-Balance Sheet Arrangements and Contractual Obligations   
+     
+   Off-Balance Sheet Arrangements   
+     
+  We do not have any off-balance sheet arrangements that have, or are reasonably likely to have, a current or future material effect on our financial condition, results of operations, liquidity, capital expenditures or capital resources other than operating leases, bank guarantees, and purchase commitments disclosed in the preceding footnotes.  
+     
+   Contractual Obligations and Commitments   
+     
+  We have commitments under certain contractual arrangements to make future payments for goods and services. These contractual arrangements secure the rights to various assets and services to be used in the future in the normal course of business. We expect to fund these contractual arrangements with cash generated from operations.  
+     
+   Item 3. Quantitative and Qualitative Disclosures about Market Risk     
+     
+   Interest Rate Risk   
+     
+  Our exposure to interest rate changes primarily relates to our investment portfolio. We centrally manage our investment portfolio considering investment opportunities and risks, tax consequences, and overall financing strategies. Our short term investment portfolio includes fixed income securities with a fair value of $62.8 million at September 30, 2016. These securities are subject to interest rate risk; a 100 basis point increase in interest rates would result in a decrease in the fair value of the September 30, 2016 investment portfolio of $0.2 million. While an increase in interest rates may reduce the fair value of the investment portfolio, we would not realize the losses in the Consolidated Statements of Operations unless the individual fixed income securities are sold prior to maturity or a loss position is determined to be other-than-temporary.  
+     
+   Currency Exchange Risk   
+     
+  We conduct business on a worldwide basis exposing a portion of our revenues, operating costs, and net investments in foreign affiliates to changes in currency exchange rates. The economic impact of currency exchange rate movements is complex because such changes are often linked to variability in real growth, inflation, interest rates, governmental actions, and other factors. These changes, if material, could cause us to adjust our financing and operating strategies. Consequently, isolating the effect of changes in currency does not incorporate these other important economic factors.  
+     
+  We may manage our risks and exposures to currency exchange rates through the use of derivative financial instruments. We only use derivative financial instruments in the context of hedging and do not use them for speculative purposes. During the nine months ended September 30, 2016 and 2015, we did not own any derivatives.  
+     
+  Our net sales to customers located outside of the United States represented approximately 78% and 72% of our total net sales for the three and nine months ended September 30, 2016, respectively and 86% and 82% for the comparable 2015 periods. We expect that net sales to customers outside the United States will continue to represent a large percentage of our total sales. Our sales denominated in currencies other than the U.S. dollar represented 2% and 4% of total net sales in the three and nine months ended September 30, 2016, respectively, and 2% for the comparable 2015 periods.  
+     
+  A 10% change in foreign exchange rates would have an immaterial impact on the consolidated results of operations.  
+     
+   Item 4. Controls and Procedures     
+     
+   Management s Report on Internal Control Over Financial Reporting   
+     
+  Our principal executive and financial officers have evaluated and concluded that our disclosure controls and procedures are effective at September 30, 2016. The disclosure controls and procedures are designed to ensure that the information required to be disclosed in this report filed under the Securities Exchange Act of 1934 is recorded, processed, summarized, and  
+     
+ 29   
+
+Table of Contents   
+     
+  reported within the time periods specified in the Securities and Exchange Commission s rules and forms and is accumulated and communicated to our principal executive and financial officers as appropriate to allow timely decisions regarding required disclosure.  
+     
+   Changes in Internal Control Over Financial Reporting   
+     
+  During the three months ended September 30, 2016, there were no changes in internal control that have materially affected or are reasonably likely to materially affect internal control over financial reporting.  
+     
+   PART II OTHER INFORMATION     
+     
+   Item 1. Legal Proceedings     
+     
+   Information regarding legal proceedings appears in the Commitments and Contingencies Note to the Consolidated Financial Statements in this quarterly report on Form 10-Q and in Part I   Item 3 of our  2015 Form 10-K . 
+     
+   Item 1A. Risk Factors     
+     
+   Information regarding risk factors appears in the Safe Harbor Statement at the beginning of this quarterly report on Form 10-Q and in Part I   Item 1A of our  2015 Form 10-K . There have been no material changes from the risk factors previously disclosed in our 2015 Form 10-K. 
+     
+   Item 2. Unregistered Sales of Equity Securities and Use of Proceeds     
+     
+  On October 28, 2015, our Board of Directors authorized a program to repurchase up to $100 million of our common stock to be completed through October 28, 2017. At March 31, 2016, $22.3 million of the $100 million had been utilized. No repurchases occurred during the second and third quarter of 2016. Repurchases may be made from time to time on the open market or in privately negotiated transactions in accordance with applicable federal securities laws. The timing and amount of future repurchases, if any, will depend upon market conditions, SEC regulations, and other factors. The repurchases would be funded using available cash balances and cash generated from operations. The program does not obligate us to acquire any particular amount of common stock and may be modified or suspended at any time at our discretion.  
+     
+   Item 3. Defaults Upon Senior Securities     
+     
+  None.  
+     
+   Item 4. Mine Safety Disclosures     
+     
+  Not Applicable.  
+     
+   Item 5. Other Information     
+     
+  None.  
+     
+ 30   
+
+Table of Contents   
+     
+   Item 6. Exhibits     
+     
+  Unless otherwise indicated, each of the following exhibits has been filed with the Securities and Exchange Commission by Veeco under File No. 0-16244.  
+
+*       
+ 
+  Filed herewith           
+
+**       
+ 
+  Filed herewith   electronically              
+     
+ 31   
+
+Table of Contents   
+     
+   SIGNATURES     
+     
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, on November 1, 2016.  
+
+Veeco Instruments Inc.           
+
+By:       
+ 
+  /S/ JOHN R. PEELER           
+
+John R. Peeler           
+
+Chairman and Chief Executive Officer            
+
+By:       
+ 
+  /s/ SHUBHAM MAHESHWARI           
+
+Shubham Maheshwari           
+
+Executive Vice President   and Chief Financial Officer               
+     
+ 32   
+
+<EX-10.1>
+ 2
+ a16-17194_1ex10d1.htm
+ EX-10.1
+
+Exhibit 10.1   
+     
+   VEECO INSTRUMENTS INC. 2010 STOCK INCENTIVE PLAN   
+     
+   NOTICE OF PERFORMANCE SHARE AWARD (2016)   
+     
+  Veeco Instruments Inc. (the   Company  ) is pleased to confirm the award to the employee named below (the   Grantee  ) of Restricted Stock Units (the   Award  ), subject to the terms and conditions of this Notice of Restricted Stock Unit Award (2016) (the   Notice  ), the Veeco Instruments Inc. 2010 Stock Incentive Plan, as amended from time to time (the   Plan  ) and the Veeco Instruments Inc. Terms and Conditions of Restricted Stock Unit Award (2016) (the   Terms and Conditions  ) attached hereto, as follows.  Unless otherwise provided herein, the terms in this Notice shall have the same meaning as those defined in the Plan.  
+
+Grantee:       
+
+Date of   Award:       
+ 
+  June 14,   2016           
+
+Total   Number of Performance Shares       
+
+Awarded   (the   Units  ):       
+
+Subject to the Grantee s Continuous Service and other limitations set forth in this Notice, the Terms and Conditions and the Plan, the Units will  vest  in accordance with the following schedule (the   Vesting Schedule  ):  
+     
+  One-half (1/2) of the Units (the   Cumulative Revenue Units  ) shall be subject to vesting based on the Company s cumulative revenue (the   Cumulative Revenue Target  ).  One-half (1/2) of the Units (the   Cumulative EBITDA Units  ) shall be subject to vesting based on the Company s cumulative EBITDA (the   Cumulative EBITDA Target   and, together with the Cumulative Revenue Target, the   Targets  ).  
+     
+  The Cumulative Revenue Units may vest only if the Company s Cumulative Revenue Target described on Exhibit A hereto attached is achieved by the end of the fourth quarter of 2021.  Depending on when the Cumulative Revenue Target is achieved, a number of the Cumulative Revenue Units shall become eligible to vest (  Eligible Units  ) as indicated in the Performance Chart below.  For example, if the Cumulative Revenue Target is achieved during the first quarter of 2019, 113% of the Cumulative Revenue Units shall become Eligible Units with respect to the Cumulative Revenue Target.  
+     
+  The Cumulative EBITDA Units may vest only if the Company s Cumulative EBITDA Target described on Exhibit A is achieved by the end of the fourth quarter of 2021.  Depending on when the Cumulative EBITDA Target is achieved, a number of the Cumulative EBITDA Units shall become eligible to vest (  Eligible Units  ) as indicated in the Performance Chart below.  For example, if the Cumulative EBITDA Target is achieved during the second quarter of 2020, 89% of the Cumulative EBITDA Units shall become Eligible Units with respect to the Cumulative EBITDA Target.  
+
+If the number of Eligible Units determined with respect to a Target includes a fractional Unit, the result shall be rounded up to the next whole Unit.  
+     
+  If the Cumulative Revenue Target or the Cumulative EBITDA Target is not achieved by the end of a particular quarter, the number of Cumulative Revenue Units or the Cumulative EBITDA Units that may no longer become Eligible Units will lapse, be forfeited and deemed reconveyed to the Company upon such determination.  The Company shall thereafter be the legal and beneficial owner of such reconveyed Units and the Company shall have all rights and interest therein or related thereto without further action by the Grantee.  For example, if the Cumulative Revenue Target has not been met by the end of the second quarter of 2020, 11% of the Cumulative Revenue Units will then be forfeited.  
+     
+  The performance criteria will be measured on the date of filing with the SEC of Veeco s quarterly report on Form 10-Q for the relevant performance period.  The date that the Company  
+
+determines that the Cumulative Revenue Target or the Cumulative EBITDA Target has been achieved is the  Determination Date  with respect to the Eligible Units related to that respective Target.  Eligible Units will vest in full on the later of the third anniversary of the Date of Award or the Determination Date.  For example, if the Cumulative Revenue Target is determined to have been earned in the second quarter of 2020, 100% of the Eligible Units related to the Cumulative Revenue Target would vest on the Determination Date.  
+     
+  For purposes of this Notice and the Terms and Conditions, the term  vest  shall mean, with respect to any Units, that such Units are no longer subject to forfeiture to the Company.  If the Grantee would become vested in a fraction of a Unit, such Unit shall not vest until the Grantee becomes vested in the entire Unit.  
+     
+  Vesting shall cease upon the date the Grantee terminates Continuous Service for any reason, including death or Disability.  In the event the Grantee terminates Continuous Service for any reason, including death or Disability, any unvested Units held by the Grantee immediately upon such termination of the Grantee s Continuous Service shall be forfeited and deemed reconveyed to the Company and the Company shall thereafter be the legal and beneficial owner of such reconveyed Units and shall have all rights and interest in or related thereto without further action by the Grantee.  
+     
+   Additional Provisions  : 
+     
+  This Award shall be subject to the terms and conditions set forth in the Veeco Instruments Inc. Terms and Conditions of Restricted Stock Unit Award (2016) (the   Terms and Conditions  ).  Unless Grantee notifies the Company within 10 days following receipt of this Notice that he or she declines this Award, Grantee will be deemed to have accepted and agreed to the Terms and Conditions.  Any such notice should be in writing and sent to Veeco Instruments Inc., Attention: General Counsel, Terminal Drive, Plainview, NY 11803 or by facsimile to (516) 677-0380.  
+
+VEECO INSTRUMENTS INC.           
+
+Name:   Robert W. Bradshaw           
+
+Title:   Sr. Vice President Human Resources           
+
+VEECO INSTRUMENTS INC. 2010 STOCK INCENTIVE PLAN   
+     
+   TERMS AND CONDITIONS OF   RESTRICTED STOCK UNIT AWARD (2016)   
+     
+  These TERMS AND CONDITIONS OF RESTRICTED STOCK UNIT AWARD (2016) (these   Terms and Conditions  ) apply to any award by Veeco Instruments Inc., a Delaware corporation (the   Company  ), of Restricted Stock Units, subject to certain restrictions pursuant to the Veeco Instruments Inc. 2010 Stock Incentive Plan (as it may be amended from time to time, the   Plan  ), which specifically references these Terms and Conditions.  
+     
+   ARTICLE 1  ISSUANCE OF UNITS   
+     
+  The Company hereby issues to the Grantee (the   Grantee  ) named in the Notice of Restricted Stock Unit Award (2016) (the   Notice  ) an award (the   Award  ) of the Total Number of Restricted Stock Units Awarded set forth in the Notice (the   Units  ), subject to the Notice, these Terms and Conditions, and the terms and provisions of the Plan, which is incorporated herein by reference.  Unless otherwise provided herein, the terms in these Terms and Conditions shall have the same meaning as those defined in the Plan.  
+     
+   ARTICLE 2  CONVERSION OF UNITS AND ISSUANCE OF SHARES   
+     
+  2.1                                   General .  Subject to Section 2.2, one share of Common Stock shall be issuable for each Unit subject to the Award (the   Shares  ) upon vesting.  Immediately thereafter, or as soon as administratively feasible, the Company will transfer the appropriate number of Shares to the Grantee after satisfaction of any required tax or other withholding obligations.  Any fractional Unit remaining after the Award is fully vested shall be discarded and shall not be converted into a fractional Share.  Notwithstanding the foregoing, the relevant number of Shares shall be issued no later than March 15th of the year following the calendar year in which the Award vests.  The Company may however, in its sole discretion, make a cash payment in lieu of the issuance of the Shares in an amount equal to the value of one share of Common Stock multiplied by the number of Units subject to the Award.  The number of Shares covered by the Award shall be proportionately adjusted for any stock dividend affecting the Shares in accordance with Section 10 of the Plan. 
+     
+  2.2                                   Delay of Issuance of Shares .  The Company shall delay the issuance of any Shares under this Article 2 to the extent necessary to comply with Section 409A(a)(2)(B)(i) of the Code (relating to payments made to certain  specified employees  of certain publicly-traded companies); in such event, any Shares  to which the Grantee would otherwise be entitled during the six (6) month period following the date of the Grantee s termination of Continuous Service will be issuable on the first business day following the expiration of such six (6) month period. 
+
+ARTICLE 3  RIGHT TO SHARES   
+     
+  Except as set forth herein, the Grantee shall not have any right in, to or with respect to any of the Shares (including any voting rights) issuable under the Award until the Award is settled by the issuance of such Shares to the Grantee.  Notwithstanding the foregoing, while one or more Shares remain subject to this Award, the Grantee shall have the right to accrue Cash Dividend Equivalents (as defined in this Article 3).  For purposes herein, a   Cash Dividend Equivalent   means, for each Share subject to the Award, a cash payment equal to the cash dividend, if any, that would become payable to the Grantee with respect to such Share had the Grantee been the holder of such Share.  Cash Dividend Equivalents will be subject to all of the terms and conditions of the Award, including that the Cash Dividend Equivalents will vest and become payable upon the same terms and at the same time as the Units to which they relate.  
+     
+   ARTICLE 4  TAXES   
+     
+  4.1                                   Tax Liability .  The Grantee is ultimately liable and responsible for all taxes owed by the Grantee in connection with the Award, regardless of any action the Company or any Related Entity takes with respect to any tax withholding obligations that arise in connection with the Award.  Neither the Company nor any Related Entity makes any representation or undertaking regarding the treatment of any tax withholding in connection with any aspect of the Award, including the grant, vesting, assignment, release or cancellation of the Units, the delivery of Shares, the payment of any Cash Dividend Equivalents, the subsequent sale of any Shares acquired upon vesting and the receipt of any dividends or dividend equivalents.  The Company does not commit and is under no obligation to structure the Award to reduce or eliminate the Grantee s tax liability. 
+     
+  4.2                                   Payment of Withholding Taxes .  Prior to any event in connection with the Award (e.g., vesting) that the Company determines may result in any tax withholding obligation, whether United States federal, state, local or non-U.S., including any social insurance, employment tax, payment on account or other tax-related obligation (the   Tax Withholding Obligation  ), the Grantee must arrange for the satisfaction of the minimum amount of such Tax Withholding Obligation in a manner acceptable to the Company. 
+     
+  (a)                                     By Share Withholding.   If permissible under Applicable Law, the Grantee authorizes the Company to, upon the exercise of its sole discretion, withhold from those Shares otherwise issuable to the Grantee the whole number of Shares sufficient to satisfy the minimum applicable Tax Withholding Obligation.  The Grantee acknowledges that the withheld Shares may not be sufficient to satisfy the Grantee s minimum Tax Withholding Obligation.  Accordingly, the Grantee agrees to pay to the Company or any Related Entity as soon as practicable, including through additional payroll withholding, any amount of the Tax Withholding Obligation that is not satisfied by the withholding of Shares described above. 
+     
+  (b)                                     By Sale of Shares .  Unless the Grantee determines to satisfy the Tax Withholding Obligation by some other means in accordance with clause (iii) below, the Grantee s acceptance of this Award constitutes the Grantee s instruction and authorization to the 
+
+Company and any brokerage firm determined acceptable to the Company for such purpose to, upon the exercise of Company s sole discretion, sell on the Grantee s behalf a whole number of Shares from those Shares issuable to the Grantee as the Company determines to be appropriate to generate cash proceeds sufficient to satisfy the minimum applicable Tax Withholding Obligation.  Such Shares will be sold on the day such Tax Withholding Obligation arises (e.g., a vesting date) or as soon thereafter as practicable.  The Grantee will be responsible for all broker s fees and other costs of sale, and the Grantee agrees to indemnify and hold the Company harmless from any losses, costs, damages, or expenses relating to any such sale.  To the extent the proceeds of such sale exceed the Grantee s minimum Tax Withholding Obligation, the Company agrees to pay such excess in cash to the Grantee.  The Grantee acknowledges that the Company or its designee is under no obligation to arrange for such sale at any particular price, and that the proceeds of any such sale may not be sufficient to satisfy the Grantee s minimum Tax Withholding Obligation.  Accordingly, the Grantee agrees to pay to the Company or any Related Entity as soon as practicable, including through additional payroll withholding, any amount of the Tax Withholding Obligation that is not satisfied by the sale of Shares described above.  
+     
+  (c)                                      By Check, Wire Transfer or Other Means . At any time not less than five (5) business days (or such fewer number of business days as determined by the Administrator) before any Tax Withholding Obligation arises (e.g., a vesting date), the Grantee may elect to satisfy the Grantee s Tax Withholding Obligation by delivering to the Company an amount that the Company determines is sufficient to satisfy the Tax Withholding Obligation by (x) wire transfer to such account as the Company may direct, (y) delivery of a certified check payable to the Company, or (z) such other means as specified from time to time by the Administrator. 
+     
+  Notwithstanding the foregoing, the Company or a Related Entity also may satisfy any Tax Withholding Obligation by offsetting any amounts (including, but not limited to, salary, bonus and severance payments) payable to the Grantee by the Company and/or a Related Entity.  Furthermore, in the event of any determination that the Company has failed to withhold a sum sufficient to pay all withholding taxes due in connection with the Award, the Grantee agrees to pay the Company the amount of such deficiency in cash within five (5) days after receiving a written demand from the Company to do so, whether or not the Grantee is an employee of the Company at that time.  
+     
+   ARTICLE 5  OTHER PROVISIONS   
+     
+  5.1                                   Transfer Restrictions .  The Units may not be transferred in any manner other than by will or by the laws of descent and distribution. 
+     
+  5.2                                   Entire Agreement; Governing Law .  The Notice, the Plan and these Terms and Conditions constitute the entire agreement of the parties with respect to the subject matter hereof and supersede in their entirety all prior undertakings and agreements of the Company and the Grantee with respect to the subject matter hereof, and may not be modified adversely to the Grantee s interest except by means of a writing signed by the Company and the Grantee.  These agreements are to be construed in accordance with and governed by the internal laws of the State of Delaware without giving effect to any choice of law rule that would cause the application of the laws of any jurisdiction other than the internal laws of the State of Delaware to the rights and 
+
+duties of the parties.  Should any provision of the Notice or these Terms and Conditions be determined to be illegal or unenforceable, the other provisions shall nevertheless remain effective and shall remain enforceable.  
+     
+  5.3                                   Construction .  The captions used in the Notice and these Terms and Conditions are inserted for convenience and shall not be deemed a part of the Award for construction or interpretation.  Except when otherwise indicated by the context, the singular shall include the plural and the plural shall include the singular.  Use of the term  or  is not intended to be exclusive, unless the context clearly requires otherwise. 
+     
+  5.4                                   Administration and Interpretation .  Any question or dispute regarding the administration or interpretation of the Notice, the Plan or these Terms and Conditions shall be submitted by the Grantee or by the Company to the Administrator.  The resolution of such question or dispute by the Administrator shall be final and binding on all persons. 
+     
+  5.5                                   Venue and Waiver of Jury Trial .  The parties agree that any suit, action, or proceeding arising out of or relating to the Notice, the Plan or these Terms and Conditions shall be brought exclusively in the United States District Court for the Eastern District of New York (or should such court lack jurisdiction to hear such action, suit or proceeding, in a New York state court in the County of Nassau) and that the parties shall submit to the jurisdiction of such court.  The parties irrevocably waive, to the fullest extent permitted by law, any objection the party may have to the laying of venue for any such suit, action or proceeding brought in such court.  THE PARTIES ALSO EXPRESSLY WAIVE ANY RIGHT THEY HAVE OR MAY HAVE TO A JURY TRIAL OF ANY SUCH SUIT, ACTION OR PROCEEDING.  If any one or more provisions of this Section 5.5 shall for any reason be held invalid or unenforceable, it is the specific intent of the parties that such provisions shall be modified to the minimum extent necessary to make it or its application valid and enforceable. 
+     
+  5.6                                   Notices .  Any notice required or permitted hereunder shall be given in writing and shall be deemed effectively given upon personal delivery, upon deposit for delivery by an internationally recognized express mail courier service or upon deposit in the United States mail by certified mail (if the parties are within the United States), with postage and fees prepaid, addressed to the other party at its address as shown in these instruments, or to such other address as such party may designate in writing from time to time to the other party. 
+     
+  5.7                                   Nature of Award .  In accepting the Award, the Grantee acknowledges and agrees that: 
+     
+  (a)                                    the Plan is established voluntarily by the Company, it is discretionary in nature, and it may be modified, amended, suspended or terminated by the Company at any time, unless otherwise provided in the Plan and these Terms and Conditions; 
+     
+  (b)                                    the Award is voluntary and occasional and does not create any contractual or other right to receive future awards of Units, or benefits in lieu of Units, even if Units have been awarded repeatedly in the past; 
+     
+  (c)                                     all decisions with respect to future awards, if any, will be at the sole discretion of the Company; 
+
+(d)                                    the Grantee s participation in the Plan is voluntary; 
+     
+  (e)                                     the Grantee s participation in the Plan shall not create a right to any employment with the Grantee s employer and shall not interfere with the ability of the Company or the employer to terminate the Grantee s employment relationship, if any, at any time; 
+     
+  (f)                                      the Award is not part of normal or expected compensation or salary for any purposes, including, but not limited to, calculating any severance, resignation, termination, redundancy, end of service payments, bonuses, long-service awards, pension or retirement or welfare benefits or similar payments and in no event should be considered as compensation for, or relating in any way to, past services for the Company or any Related Entity; 
+     
+  (g)                                     in the event that the Grantee is not an Employee of the Company or any Related Entity, the Award and the Grantee s participation in the Plan will not be interpreted to form an employment or service contract or relationship with the Company or any Related Entity; 
+     
+  (h)                                    the future value of the underlying Shares is unknown and cannot be predicted with certainty; 
+     
+  (i)                                        in consideration of the Award, no claim or entitlement to compensation or damages shall arise from termination of the Award or diminution in value of the Award or Shares acquired upon vesting of the Award, resulting from termination of the Grantee s Continuous Service by the Company or any Related Entity (for any reason whatsoever and whether or not in breach of local labor laws) and in consideration of the grant of the Award, the Grantee irrevocably releases the Company and any Related Entity from any such claim that may arise; if, notwithstanding the foregoing, any such claim is found by a court of competent jurisdiction to have arisen, then, by signing the Notice, the Grantee shall be deemed irrevocably to have waived his or her right to pursue or seek remedy for any such claim or entitlement; 
+     
+  (j)                                       in the event of termination of the Grantee s Continuous Service (whether or not in breach of local labor laws), the Grantee s right to receive Awards under the Plan and to vest in such Awards, if any, will terminate effective as of the date that the Grantee is no longer providing services and will not be extended by any notice period mandated under local law ( e.g. , providing services would not include a period of  garden leave  or similar period pursuant to local law); furthermore, in the event of termination of the Grantee s Continuous Service (whether or not in breach of local labor laws), the Administrator shall have the exclusive discretion to determine when the Grantee is no longer providing services for purposes of this Award; 
+     
+  (k)                                    the Company is not providing any tax, legal or financial advice, nor is the Company making any recommendations regarding the Grantee s participation in the Plan or the Grantee s acquisition or sale of the underlying Shares; and 
+     
+  (l)                                        the Grantee is hereby advised to consult with the Grantee s own personal tax, legal and financial advisers regarding the Grantee s participation in the Plan before taking any action related to the Plan. 
+
+5.8                                     Data Privacy   . 
+     
+  (a)                                      The Grantee hereby explicitly and unambiguously consents to the collection, use and transfer, in electronic or other form, of the Grantee s personal data as described in the Notice and these Terms and Conditions by and among, as applicable, the Grantee s employer, the Company and any Related Entity for the exclusive purpose of implementing, administering and managing the Grantee s participation in the Plan.   
+     
+  (b)                                      The Grantee understands that the Company and the Grantee s employer may hold certain personal information about the Grantee, including, but not limited to, the Grantee s name, home address and telephone number, date of birth, social insurance or other identification number, salary, nationality, job title, any Shares or directorships held in the Company, details of all Units or any other entitlement to Shares awarded, canceled, vested, unvested or outstanding in the Grantee s favor, for the exclusive purpose of implementing, administering and managing the Plan (  Data  ).   
+     
+  (c)                                     The Grantee understands that Data will be transferred to any third party assisting the Company with the implementation, administration and management of the Plan.  The Grantee understands that the recipients of the Data may be located in the Grantee s country, or elsewhere, and that the recipients  country may have different data privacy laws and protections than the Grantee s country.  The Grantee understands that the Grantee may request a list with the names and addresses of any potential recipients of the Data by contacting the Grantee s local human resources representative.  The Grantee authorizes the Company and any other possible recipients which may assist the Company (presently or in the future) with implementing, administering and managing the Plan to receive, possess, use, retain and transfer the Data, in electronic or other form, for the sole purpose of implementing, administering and managing the Grantee s participation in the Plan.  The Grantee understands that Data will be held only as long as is necessary to implement, administer and manage the Grantee s participation in the Plan.  The Grantee understands that the Grantee may, at any time, view Data, request additional information about the storage and processing of Data, require any necessary amendments to Data or refuse or withdraw the consents herein, in any case without cost, by contacting in writing the Grantee s local human resources representative.  The Grantee understands, however, that refusal or withdrawal of consent may affect the Grantee s ability to participate in the Plan.  For more information on the consequences of the Grantee s refusal to consent or withdrawal of consent, the Grantee understands that the Grantee may contact the Grantee s local human resources representative. 
+     
+  5.9                                   Language .  If the Grantee has received these Terms and Conditions or any other document related to the Plan translated into a language other than English and if the translated version is different than the English version, the English version will control, unless otherwise prescribed by Applicable Law. 
+     
+  5.10                            Amendment and Delay to Meet the Requirements of Section 409A .  The Grantee acknowledges that the Company, in the exercise of its sole discretion and without the consent of the Grantee, may amend or modify these Terms and Conditions in any manner and delay the issuance of any Shares issuable pursuant to these Terms and Conditions to the minimum extent necessary to meet the requirements of Section 409A of the Code as amplified by any Treasury 
+
+regulations or guidance from the Internal Revenue Service as the Company deems appropriate or advisable.  In addition, the Company makes no representation that the Award will comply with Section 409A of the Code and makes no undertaking to prevent Section 409A of the Code from applying to the Award or to mitigate its effects on any deferrals or payments made in respect of the Units.  The Grantee is encouraged to consult a tax adviser regarding the potential impact of Section 409A of the Code.  
+     
+  *  *  *  *  *  
+
+</EX-10.1>
+
+<EX-10.2>
+ 3
+ a16-17194_1ex10d2.htm
+ EX-10.2
+
+Exhibit 10.2   
+     
+   VEECO INSTRUMENTS INC. 2010 STOCK INCENTIVE PLAN   
+     
+   NOTICE OF CRITICAL PRIORITIES PERFORMANCE SHARE AWARD (2016)   
+     
+  Veeco Instruments Inc. (the   Company  ) is pleased to confirm the award to the employee named below (the   Grantee  ) of Restricted Stock Units (the   Award  ), subject to the terms and conditions of this Notice of Restricted Stock Unit Award (2016) (the   Notice  ), the Veeco Instruments Inc. 2010 Stock Incentive Plan, as amended from time to time (the   Plan  ) and the Veeco Instruments Inc. Terms and Conditions of Restricted Stock Unit Award (2016) (the   Terms and Conditions  ) attached hereto, as follows.  Unless otherwise provided herein, the terms in this Notice shall have the same meaning as those defined in the Plan.  
+
+Grantee:       
+
+Date of Award:       
+ 
+  June 14, 2016           
+
+Total Number of Performance Shares       
+
+Awarded (the   Units  ):       
+
+Subject to the Grantee s Continuous Service and other limitations set forth in this Notice, the Terms and Conditions and the Plan, the Units will  vest  based on satisfaction of the Critical Priorities Incentive Goals (each a   Goal   and, collectively, the   Goals  ) described on Exhibit A hereto, provided, however, that the number of Units that vest shall be reduced by a number of Units having a Fair Market Value equal to the amount paid under the Company s 2016 Bonus Plan rounded up to the nearest whole Unit, as determined by the Compensation Committee no later than July 31, 2017 (the   Determination Date  ).  Based on such determination, a number of Units (from 0% to 100% of the Units) shall vest on the day following the Determination Date (the   Vesting Date  ).  The Compensation Committee shall make all determinations and interpretations regarding satisfaction of the Goals in its sole discretion and such determinations and interpretations shall be final, binding and conclusive.  
+     
+  If the number of Units determined with respect to a Goal includes a fractional Unit, the result shall be rounded up to the next whole Unit.  
+     
+  The number of Units applicable to any portion of the Award that is determined to be unearned will lapse, be forfeited and deemed reconveyed to the Company upon such determination.  The Company shall thereafter be the legal and beneficial owner of such reconveyed Units and the Company shall have all rights and interest therein or related thereto without further action by the Grantee.  
+     
+  For purposes of this Notice and the Terms and Conditions, the term  vest  shall mean, with respect to any Units, that such Units are no longer subject to forfeiture to the Company.  If the Grantee would become vested in a fraction of a Unit, such Unit shall not vest until the Grantee becomes vested in the entire Unit.  
+     
+  Vesting shall cease upon the date the Grantee terminates Continuous Service for any reason, including death or Disability.  In the event the Grantee terminates Continuous Service for any reason, including death or Disability, any unvested Units held by the Grantee immediately upon such termination of the Grantee s Continuous Service shall be forfeited and deemed  
+
+reconveyed to the Company and the Company shall thereafter be the legal and beneficial owner of such reconveyed Units and shall have all rights and interest in or related thereto without further action by the Grantee.  
+     
+   Additional Provisions  : 
+     
+  This Award shall be subject to the terms and conditions set forth in the Veeco Instruments Inc. Terms and Conditions of Restricted Stock Unit Award (2016) (the   Terms and Conditions  ).  
+     
+  IN WITNESS WHEREOF, the Company and the Grantee have executed this Notice and agree that the Award is to be governed by the terms and conditions of this Notice and the Terms and Conditions.  
+     
+  This Award shall be subject to the terms and conditions set forth in the Terms and Conditions.  Unless Grantee notifies the Company within 10 days following receipt of this Notice that he or she declines this Award, Grantee will be deemed to have accepted and agreed to the Terms and Conditions.  Any such notice should be in writing and sent to Veeco Instruments Inc., Attention: General Counsel, Terminal Drive, Plainview, NY 11803 or by facsimile to (516) 677-0380.  
+
+VEECO INSTRUMENTS INC.           
+
+Name:   Robert W. Bradshaw           
+
+Title:   Sr. Vice President Human Resources              
+
+VEECO INSTRUMENTS INC. 2010 STOCK INCENTIVE PLAN   
+     
+   TERMS AND CONDITIONS OF   RESTRICTED STOCK UNIT AWARD (2016)   
+     
+  These TERMS AND CONDITIONS OF RESTRICTED STOCK UNIT AWARD (2016) (these   Terms and Conditions  ) apply to any award by Veeco Instruments Inc., a Delaware corporation (the   Company  ), of Restricted Stock Units, subject to certain restrictions pursuant to the Veeco Instruments Inc. 2010 Stock Incentive Plan (as it may be amended from time to time, the   Plan  ), which specifically references these Terms and Conditions.  
+     
+   ARTICLE 1  ISSUANCE OF UNITS   
+     
+  The Company hereby issues to the Grantee (the   Grantee  ) named in the Notice of Restricted Stock Unit Award (2016) (the   Notice  ) an award (the   Award  ) of the Total Number of Restricted Stock Units Awarded set forth in the Notice (the   Units  ), subject to the Notice, these Terms and Conditions, and the terms and provisions of the Plan, which is incorporated herein by reference.  Unless otherwise provided herein, the terms in these Terms and Conditions shall have the same meaning as those defined in the Plan.  
+     
+   ARTICLE 2  CONVERSION OF UNITS AND ISSUANCE OF SHARES   
+     
+  2.1                                   General .  Subject to Section 2.2, one share of Common Stock shall be issuable for each Unit subject to the Award (the   Shares  ) upon vesting.  Immediately thereafter, or as soon as administratively feasible, the Company will transfer the appropriate number of Shares to the Grantee after satisfaction of any required tax or other withholding obligations.  Any fractional Unit remaining after the Award is fully vested shall be discarded and shall not be converted into a fractional Share.  Notwithstanding the foregoing, the relevant number of Shares shall be issued no later than March 15th of the year following the calendar year in which the Award vests.  The Company may however, in its sole discretion, make a cash payment in lieu of the issuance of the Shares in an amount equal to the value of one share of Common Stock multiplied by the number of Units subject to the Award.  The number of Shares covered by the Award shall be proportionately adjusted for any stock dividend affecting the Shares in accordance with Section 10 of the Plan. 
+     
+  2.2                                   Delay of Issuance of Shares .  The Company shall delay the issuance of any Shares under this Article 2 to the extent necessary to comply with Section 409A(a)(2)(B)(i) of the Code (relating to payments made to certain  specified employees  of certain publicly-traded companies); in such event, any Shares  to which the Grantee would otherwise be entitled during the six (6) month period following the date of the Grantee s termination of Continuous Service will be issuable on the first business day following the expiration of such six (6) month period. 
+
+ARTICLE 3  RIGHT TO SHARES   
+     
+  Except as set forth herein, the Grantee shall not have any right in, to or with respect to any of the Shares (including any voting rights) issuable under the Award until the Award is settled by the issuance of such Shares to the Grantee.  Notwithstanding the foregoing, while one or more Shares remain subject to this Award, the Grantee shall have the right to accrue Cash Dividend Equivalents (as defined in this Article 3).  For purposes herein, a   Cash Dividend Equivalent   means, for each Share subject to the Award, a cash payment equal to the cash dividend, if any, that would become payable to the Grantee with respect to such Share had the Grantee been the holder of such Share.  Cash Dividend Equivalents will be subject to all of the terms and conditions of the Award, including that the Cash Dividend Equivalents will vest and become payable upon the same terms and at the same time as the Units to which they relate.  
+     
+   ARTICLE 4  TAXES   
+     
+  4.1                                   Tax Liability .  The Grantee is ultimately liable and responsible for all taxes owed by the Grantee in connection with the Award, regardless of any action the Company or any Related Entity takes with respect to any tax withholding obligations that arise in connection with the Award.  Neither the Company nor any Related Entity makes any representation or undertaking regarding the treatment of any tax withholding in connection with any aspect of the Award, including the grant, vesting, assignment, release or cancellation of the Units, the delivery of Shares, the payment of any Cash Dividend Equivalents, the subsequent sale of any Shares acquired upon vesting and the receipt of any dividends or dividend equivalents.  The Company does not commit and is under no obligation to structure the Award to reduce or eliminate the Grantee s tax liability. 
+     
+  4.2                                   Payment of Withholding Taxes .  Prior to any event in connection with the Award (e.g., vesting) that the Company determines may result in any tax withholding obligation, whether United States federal, state, local or non-U.S., including any social insurance, employment tax, payment on account or other tax-related obligation (the   Tax Withholding Obligation  ), the Grantee must arrange for the satisfaction of the minimum amount of such Tax Withholding Obligation in a manner acceptable to the Company. 
+     
+  (a)                                     By Share Withholding.   If permissible under Applicable Law, the Grantee authorizes the Company to, upon the exercise of its sole discretion, withhold from those Shares otherwise issuable to the Grantee the whole number of Shares sufficient to satisfy the minimum applicable Tax Withholding Obligation.  The Grantee acknowledges that the withheld Shares may not be sufficient to satisfy the Grantee s minimum Tax Withholding Obligation.  Accordingly, the Grantee agrees to pay to the Company or any Related Entity as soon as practicable, including through additional payroll withholding, any amount of the Tax Withholding Obligation that is not satisfied by the withholding of Shares described above. 
+     
+  (b)                                     By Sale of Shares .  Unless the Grantee determines to satisfy the Tax Withholding Obligation by some other means in accordance with clause (iii) below, the Grantee s acceptance of this Award constitutes the Grantee s instruction and authorization to the 
+
+Company and any brokerage firm determined acceptable to the Company for such purpose to, upon the exercise of Company s sole discretion, sell on the Grantee s behalf a whole number of Shares from those Shares issuable to the Grantee as the Company determines to be appropriate to generate cash proceeds sufficient to satisfy the minimum applicable Tax Withholding Obligation.  Such Shares will be sold on the day such Tax Withholding Obligation arises (e.g., a vesting date) or as soon thereafter as practicable.  The Grantee will be responsible for all broker s fees and other costs of sale, and the Grantee agrees to indemnify and hold the Company harmless from any losses, costs, damages, or expenses relating to any such sale.  To the extent the proceeds of such sale exceed the Grantee s minimum Tax Withholding Obligation, the Company agrees to pay such excess in cash to the Grantee.  The Grantee acknowledges that the Company or its designee is under no obligation to arrange for such sale at any particular price, and that the proceeds of any such sale may not be sufficient to satisfy the Grantee s minimum Tax Withholding Obligation.  Accordingly, the Grantee agrees to pay to the Company or any Related Entity as soon as practicable, including through additional payroll withholding, any amount of the Tax Withholding Obligation that is not satisfied by the sale of Shares described above.  
+     
+  (c)                                      By Check, Wire Transfer or Other Means . At any time not less than five (5) business days (or such fewer number of business days as determined by the Administrator) before any Tax Withholding Obligation arises (e.g., a vesting date), the Grantee may elect to satisfy the Grantee s Tax Withholding Obligation by delivering to the Company an amount that the Company determines is sufficient to satisfy the Tax Withholding Obligation by (x) wire transfer to such account as the Company may direct, (y) delivery of a certified check payable to the Company, or (z) such other means as specified from time to time by the Administrator. 
+     
+  Notwithstanding the foregoing, the Company or a Related Entity also may satisfy any Tax Withholding Obligation by offsetting any amounts (including, but not limited to, salary, bonus and severance payments) payable to the Grantee by the Company and/or a Related Entity.  Furthermore, in the event of any determination that the Company has failed to withhold a sum sufficient to pay all withholding taxes due in connection with the Award, the Grantee agrees to pay the Company the amount of such deficiency in cash within five (5) days after receiving a written demand from the Company to do so, whether or not the Grantee is an employee of the Company at that time.  
+     
+   ARTICLE 5  OTHER PROVISIONS   
+     
+  5.1                                   Transfer Restrictions .  The Units may not be transferred in any manner other than by will or by the laws of descent and distribution. 
+     
+  5.2                                   Entire Agreement; Governing Law .  The Notice, the Plan and these Terms and Conditions constitute the entire agreement of the parties with respect to the subject matter hereof and supersede in their entirety all prior undertakings and agreements of the Company and the Grantee with respect to the subject matter hereof, and may not be modified adversely to the Grantee s interest except by means of a writing signed by the Company and the Grantee.  These agreements are to be construed in accordance with and governed by the internal laws of the State of Delaware without giving effect to any choice of law rule that would cause the application of the laws of any jurisdiction other than the internal laws of the State of Delaware to the rights and 
+
+duties of the parties.  Should any provision of the Notice or these Terms and Conditions be determined to be illegal or unenforceable, the other provisions shall nevertheless remain effective and shall remain enforceable.  
+     
+  5.3                                   Construction .  The captions used in the Notice and these Terms and Conditions are inserted for convenience and shall not be deemed a part of the Award for construction or interpretation.  Except when otherwise indicated by the context, the singular shall include the plural and the plural shall include the singular.  Use of the term  or  is not intended to be exclusive, unless the context clearly requires otherwise. 
+     
+  5.4                                   Administration and Interpretation .  Any question or dispute regarding the administration or interpretation of the Notice, the Plan or these Terms and Conditions shall be submitted by the Grantee or by the Company to the Administrator.  The resolution of such question or dispute by the Administrator shall be final and binding on all persons. 
+     
+  5.5                                   Venue and Waiver of Jury Trial .  The parties agree that any suit, action, or proceeding arising out of or relating to the Notice, the Plan or these Terms and Conditions shall be brought exclusively in the United States District Court for the Eastern District of New York (or should such court lack jurisdiction to hear such action, suit or proceeding, in a New York state court in the County of Nassau) and that the parties shall submit to the jurisdiction of such court.  The parties irrevocably waive, to the fullest extent permitted by law, any objection the party may have to the laying of venue for any such suit, action or proceeding brought in such court.  THE PARTIES ALSO EXPRESSLY WAIVE ANY RIGHT THEY HAVE OR MAY HAVE TO A JURY TRIAL OF ANY SUCH SUIT, ACTION OR PROCEEDING.  If any one or more provisions of this Section 5.5 shall for any reason be held invalid or unenforceable, it is the specific intent of the parties that such provisions shall be modified to the minimum extent necessary to make it or its application valid and enforceable. 
+     
+  5.6                                   Notices .  Any notice required or permitted hereunder shall be given in writing and shall be deemed effectively given upon personal delivery, upon deposit for delivery by an internationally recognized express mail courier service or upon deposit in the United States mail by certified mail (if the parties are within the United States), with postage and fees prepaid, addressed to the other party at its address as shown in these instruments, or to such other address as such party may designate in writing from time to time to the other party. 
+     
+  5.7                                   Nature of Award .  In accepting the Award, the Grantee acknowledges and agrees that: 
+     
+  (a)                                    the Plan is established voluntarily by the Company, it is discretionary in nature, and it may be modified, amended, suspended or terminated by the Company at any time, unless otherwise provided in the Plan and these Terms and Conditions; 
+     
+  (b)                                    the Award is voluntary and occasional and does not create any contractual or other right to receive future awards of Units, or benefits in lieu of Units, even if Units have been awarded repeatedly in the past; 
+     
+  (c)                                     all decisions with respect to future awards, if any, will be at the sole discretion of the Company; 
+
+(d)                                    the Grantee s participation in the Plan is voluntary; 
+     
+  (e)                                     the Grantee s participation in the Plan shall not create a right to any employment with the Grantee s employer and shall not interfere with the ability of the Company or the employer to terminate the Grantee s employment relationship, if any, at any time; 
+     
+  (f)                                      the Award is not part of normal or expected compensation or salary for any purposes, including, but not limited to, calculating any severance, resignation, termination, redundancy, end of service payments, bonuses, long-service awards, pension or retirement or welfare benefits or similar payments and in no event should be considered as compensation for, or relating in any way to, past services for the Company or any Related Entity; 
+     
+  (g)                                     in the event that the Grantee is not an Employee of the Company or any Related Entity, the Award and the Grantee s participation in the Plan will not be interpreted to form an employment or service contract or relationship with the Company or any Related Entity; 
+     
+  (h)                                    the future value of the underlying Shares is unknown and cannot be predicted with certainty; 
+     
+  (i)                                        in consideration of the Award, no claim or entitlement to compensation or damages shall arise from termination of the Award or diminution in value of the Award or Shares acquired upon vesting of the Award, resulting from termination of the Grantee s Continuous Service by the Company or any Related Entity (for any reason whatsoever and whether or not in breach of local labor laws) and in consideration of the grant of the Award, the Grantee irrevocably releases the Company and any Related Entity from any such claim that may arise; if, notwithstanding the foregoing, any such claim is found by a court of competent jurisdiction to have arisen, then, by signing the Notice, the Grantee shall be deemed irrevocably to have waived his or her right to pursue or seek remedy for any such claim or entitlement; 
+     
+  (j)                                       in the event of termination of the Grantee s Continuous Service (whether or not in breach of local labor laws), the Grantee s right to receive Awards under the Plan and to vest in such Awards, if any, will terminate effective as of the date that the Grantee is no longer providing services and will not be extended by any notice period mandated under local law ( e.g. , providing services would not include a period of  garden leave  or similar period pursuant to local law); furthermore, in the event of termination of the Grantee s Continuous Service (whether or not in breach of local labor laws), the Administrator shall have the exclusive discretion to determine when the Grantee is no longer providing services for purposes of this Award; 
+     
+  (k)                                    the Company is not providing any tax, legal or financial advice, nor is the Company making any recommendations regarding the Grantee s participation in the Plan or the Grantee s acquisition or sale of the underlying Shares; and 
+     
+  (l)                                        the Grantee is hereby advised to consult with the Grantee s own personal tax, legal and financial advisers regarding the Grantee s participation in the Plan before taking any action related to the Plan. 
+
+5.8                                     Data Privacy   . 
+     
+  (a)                                      The Grantee hereby explicitly and unambiguously consents to the collection, use and transfer, in electronic or other form, of the Grantee s personal data as described in the Notice and these Terms and Conditions by and among, as applicable, the Grantee s employer, the Company and any Related Entity for the exclusive purpose of implementing, administering and managing the Grantee s participation in the Plan.   
+     
+  (b)                                      The Grantee understands that the Company and the Grantee s employer may hold certain personal information about the Grantee, including, but not limited to, the Grantee s name, home address and telephone number, date of birth, social insurance or other identification number, salary, nationality, job title, any Shares or directorships held in the Company, details of all Units or any other entitlement to Shares awarded, canceled, vested, unvested or outstanding in the Grantee s favor, for the exclusive purpose of implementing, administering and managing the Plan (  Data  ).   
+     
+  (c)                                     The Grantee understands that Data will be transferred to any third party assisting the Company with the implementation, administration and management of the Plan.  The Grantee understands that the recipients of the Data may be located in the Grantee s country, or elsewhere, and that the recipients  country may have different data privacy laws and protections than the Grantee s country.  The Grantee understands that the Grantee may request a list with the names and addresses of any potential recipients of the Data by contacting the Grantee s local human resources representative.  The Grantee authorizes the Company and any other possible recipients which may assist the Company (presently or in the future) with implementing, administering and managing the Plan to receive, possess, use, retain and transfer the Data, in electronic or other form, for the sole purpose of implementing, administering and managing the Grantee s participation in the Plan.  The Grantee understands that Data will be held only as long as is necessary to implement, administer and manage the Grantee s participation in the Plan.  The Grantee understands that the Grantee may, at any time, view Data, request additional information about the storage and processing of Data, require any necessary amendments to Data or refuse or withdraw the consents herein, in any case without cost, by contacting in writing the Grantee s local human resources representative.  The Grantee understands, however, that refusal or withdrawal of consent may affect the Grantee s ability to participate in the Plan.  For more information on the consequences of the Grantee s refusal to consent or withdrawal of consent, the Grantee understands that the Grantee may contact the Grantee s local human resources representative. 
+     
+  5.9                                   Language .  If the Grantee has received these Terms and Conditions or any other document related to the Plan translated into a language other than English and if the translated version is different than the English version, the English version will control, unless otherwise prescribed by Applicable Law. 
+     
+  5.10                            Amendment and Delay to Meet the Requirements of Section 409A .  The Grantee acknowledges that the Company, in the exercise of its sole discretion and without the consent of the Grantee, may amend or modify these Terms and Conditions in any manner and delay the issuance of any Shares issuable pursuant to these Terms and Conditions to the minimum extent necessary to meet the requirements of Section 409A of the Code as amplified by any Treasury 
+
+regulations or guidance from the Internal Revenue Service as the Company deems appropriate or advisable.  In addition, the Company makes no representation that the Award will comply with Section 409A of the Code and makes no undertaking to prevent Section 409A of the Code from applying to the Award or to mitigate its effects on any deferrals or payments made in respect of the Units.  The Grantee is encouraged to consult a tax adviser regarding the potential impact of Section 409A of the Code.  
+     
+  *  *  *  *  *  
+
+</EX-10.2>
+
+<EX-31.1>
+ 4
+ a16-17194_1ex31d1.htm
+ EX-31.1
+
+Exhibit 31.1   
+     
+  CERTIFICATION PURSUANT TO  RULE 13a   14(a) or RULE 15d   14(a)  OF THE SECURITIES EXCHANGE ACT OF 1934  
+     
+  I, John R. Peeler, certify that:  
+     
+  1.                 I have reviewed this quarterly report on Form 10-Q for the period ended September 30, 2016 of Veeco Instruments Inc.; 
+     
+  2.                 Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+     
+  3.                 Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+     
+  4.                 The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+     
+  (a)            designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+     
+  (b)            designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+     
+  (c)             evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+     
+  (d)            disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+     
+  5.                 The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+     
+  (a)            all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+     
+  (b)            any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+/s/ JOHN R. PEELER           
+
+By:       
+ 
+  John R. Peeler           
+
+Chairman and Chief Executive Officer           
+
+Veeco Instruments Inc.           
+
+November 1, 2016              
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ a16-17194_1ex31d2.htm
+ EX-31.2
+
+Exhibit 31.2   
+     
+  CERTIFICATION PURSUANT TO  RULE 13a   14(a) or RULE 15d   14(a)  OF THE SECURITIES EXCHANGE ACT OF 1934  
+     
+  I, Shubham Maheshwari, certify that:  
+     
+  1.                 I have reviewed this quarterly report on Form 10-Q for the period ended September 30, 2016 of Veeco Instruments Inc.; 
+     
+  2.                 Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+     
+  3.                 Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+     
+  4.                 The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+     
+  (a)            designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+     
+  (b)            designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+     
+  (c)             evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+     
+  (d)            disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+     
+  5.                 The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+     
+  (a)            all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+     
+  (b)            any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+/s/ SHUBHAM MAHESHWARI           
+
+By:       
+ 
+  Shubham Maheshwari           
+
+Executive Vice President and Chief Financial Officer           
+
+Veeco Instruments Inc.           
+
+November 1, 2016              
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ a16-17194_1ex32d1.htm
+ EX-32.1
+
+Exhibit 32.1   
+     
+  CERTIFICATION PURSUANT TO  18 U.S.C. SECTION 1350,  AS ADOPTED PURSUANT TO  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+     
+  In connection with the quarterly report of Veeco Instruments Inc. (the  Company ) on Form 10-Q for the period ended September 30, 2016 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, John R. Peeler, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:  
+     
+  (1)            The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+     
+  (2)            The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ JOHN R. PEELER           
+
+By:       
+ 
+  John R. Peeler           
+
+Chairman and Chief Executive Officer           
+
+Veeco Instruments Inc.           
+
+November 1, 2016              
+     
+  A signed original of this written statement required by Section 906 has been provided to Veeco Instruments Inc. and will be retained by Veeco Instruments Inc. and furnished to the Securities and Exchange Commission or its staff upon request.  
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ a16-17194_1ex32d2.htm
+ EX-32.2
+
+Exhibit 32.2   
+     
+  CERTIFICATION PURSUANT TO  18 U.S.C. SECTION 1350,  AS ADOPTED PURSUANT TO  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+     
+  In connection with the quarterly report of Veeco Instruments Inc. (the  Company ) on Form 10-Q for the period ended September 30, 2016 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Shubham Maheshwari, Executive Vice President and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:  
+     
+  (1)            The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+     
+  (2)            The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ SHUBHAM MAHESHWARI           
+
+By:       
+ 
+  Shubham Maheshwari           
+
+Executive Vice President and Chief Financial Officer           
+
+Veeco Instruments Inc.           
+
+November 1, 2016              
+     
+  A signed original of this written statement required by Section 906 has been provided to Veeco Instruments Inc. and will be retained by Veeco Instruments Inc. and furnished to the Securities and Exchange Commission or its staff upon request.  
+
+</EX-32.2>
+
+<EX-101.INS>
+ 8
+ veco-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 9
+ veco-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ veco-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.LAB>
+ 11
+ veco-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABELS LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ veco-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
+<EX-101.DEF>
+ 13
+ veco-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+

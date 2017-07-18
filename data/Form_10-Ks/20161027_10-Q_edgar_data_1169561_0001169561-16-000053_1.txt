@@ -1,0 +1,813 @@
+<Header>
+<FileStats>
+    <FileName>20161027_10-Q_edgar_data_1169561_0001169561-16-000053_1.txt</FileName>
+    <GrossFileSize>3500437</GrossFileSize>
+    <NetFileSize>104991</NetFileSize>
+    <ASCII_Embedded_Chars>243128</ASCII_Embedded_Chars>
+    <HTML_Chars>975081</HTML_Chars>
+    <XBRL_Chars>1459060</XBRL_Chars>
+    <XML_Chars>653423</XML_Chars>
+    <N_Tables>15</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001169561-16-000053.hdr.sgml : 20161027
+<ACCEPTANCE-DATETIME>20161027144707
+ACCESSION NUMBER:		0001169561-16-000053
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		57
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161027
+DATE AS OF CHANGE:		20161027
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COMMVAULT SYSTEMS INC
+		CENTRAL INDEX KEY:			0001169561
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33026
+		FILM NUMBER:		161955213
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 COMMVAULT WAY
+		CITY:			TINTON FALLS
+		STATE:			NJ
+		ZIP:			07724
+		BUSINESS PHONE:		732-870-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1 COMMVAULT WAY
+		CITY:			TINTON FALLS
+		STATE:			NJ
+		ZIP:			07724
+
+</SEC-Header>
+</Header>
+
+ 0001169561-16-000053.txt : 20161027
+
+10-Q
+ 1
+ a2016093010q.htm
+ 10-Q
+
+Document 
+
+Table of Contents  
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+
+FORM 10-Q 
+
+x   Quarterly Report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+  For the quarterly period ended:   September 30, 2016    
+    
+      Transition report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+  Commission File Number: 1-33026    
+
+Commvault Systems, Inc. 
+  (Exact name of registrant as specified in its charter) 
+
+Delaware 
+      
+    22-3447504 
+      (State or other jurisdiction of 
+  incorporation or organization) 
+      
+    (I.R.S. Employer 
+  Identification No.) 
+
+1 Commvault Way 
+  Tinton Falls, New Jersey  
+      
+    07724 
+      (Address of principal executive offices) 
+      
+    (Zip Code) 
+   
+ (732) 870-4000 
+  (Registrant s telephone number, including area code)    
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by the Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes    x      No      
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that registrant was required to submit and post such files.)    Yes    x      No      
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definition of  accelerated filer and large accelerated filer  in rule 12b-2 of the Exchange Act. (Check one): 
+                     Large accelerated filer 
+    x 
+    Accelerated filer 
+      
+      Non-accelerated filer 
+    o    (Do not check if smaller reporting company) 
+    Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes           No    x 
+  As of   October 25, 2016  , there were 45,293,158 shares of the registrant s common stock, $0.01 par value, outstanding. 
+
+Table of Contents  
+
+COMMVAULT SYSTEMS, INC. 
+  FORM 10-Q 
+  INDEX 
+
+Table of Contents                  
+
+Commvault Systems, Inc. 
+  Consolidated Balance Sheets 
+  (In thousands, except per share data) 
+  (Unaudited) 
+
+See accompanying unaudited notes to consolidated financial statements 
+  
+   1 
+
+Table of Contents                  
+
+Commvault Systems, Inc. 
+  Consolidated Statements of Loss 
+  (In thousands, except per share data) 
+  (Unaudited) 
+
+See accompanying unaudited notes to consolidated financial statements 
+  
+   2 
+
+Table of Contents                  
+
+Commvault Systems, Inc. 
+  Consolidated Statements of Comprehensive Loss 
+  (In thousands) 
+  (Unaudited) 
+
+See accompanying unaudited notes to consolidated financial statements 
+  
+   3 
+
+Table of Contents                  
+
+Commvault Systems, Inc. 
+  Consolidated Statement of Stockholders  Equity 
+  (In thousands) 
+  (Unaudited) 
+
+See accompanying unaudited notes to consolidated financial statements 
+  
+   4 
+
+Table of Contents                  
+
+Commvault Systems, Inc. 
+  Consolidated Statements of Cash Flows 
+  (In thousands) 
+  (Unaudited) 
+
+See accompanying unaudited notes to consolidated financial statements 
+
+5 
+
+Table of Contents                  
+
+Commvault Systems, Inc 
+  Notes to Consolidated Financial Statements - Unaudited 
+  (In thousands, except per share data) 
+   
+  1.        Basis of Presentation 
+    
+  Commvault Systems, Inc. and its subsidiaries ( Commvault  or the  Company ) is a leading provider of data and information management software applications and related services. The Company develops, markets and sells a suite of software applications and services, primarily in North America, Europe, Australia and Asia, that provides its customers with data protection solutions supporting all major operating systems, applications, and databases on virtual and physical servers, NAS shares, cloud-based infrastructures, and mobile devices; management through a single console; multiple protection methods including backup and archive, snapshot management, replication, and content indexing for eDiscovery; efficient storage management using deduplication for disk, tape and cloud; integration with the industry's top storage arrays; complete virtual infrastructure management supporting multiple hypervisors; security capabilities to limit access to critical data; policy based data management; and an end-user experience that allows them to protect, find and recover their own data using common tools such as web browsers, Microsoft Outlook and File Explorer. The Company also provides its customers with a broad range of professional and customer support services. 
+  The consolidated financial statements as of   September 30, 2016   and for the   three and six   months ended   September 30, 2016   and   2015   are unaudited, and in the opinion of management, include all adjustments (consisting only of normal recurring adjustments) necessary for a fair presentation of the results for the interim periods. Accordingly, they do not include all of the information and footnotes required by U.S. generally accepted accounting principles ( U.S. GAAP ) for complete financial statements and should be read in conjunction with the financial statements and notes in the Company s Annual Report on Form 10-K for fiscal   2016  . The results reported in these financial statements should not necessarily be taken as indicative of results that may be expected for the entire fiscal year. 
+  The preparation of financial statements and related disclosures in conformity with U.S. GAAP requires management to make judgments and estimates that affect the amounts reported in the Company s consolidated financial statements and the accompanying notes. The Company bases its estimates and judgments on historical experience and on various other assumptions that it believes are reasonable under the circumstances. The amounts of assets and liabilities reported in the Company s balance sheets and the amounts of revenues and expenses reported for each of its periods presented are affected by estimates and assumptions, which are used for, but not limited to, the accounting for revenue recognition, allowance for doubtful accounts, income taxes and related reserves, stock-based compensation and accounting for research and development costs. Actual results could differ from those estimates. 
+   
+  2.    Summary of Significant Accounting Policies 
+  There have been no significant changes in the Company s accounting policies during the   six   months ended   September 30, 2016   as compared to the significant accounting policies described in its Annual Report on Form 10-K for the year ended   March 31, 2016  .  
+  
+   6 
+
+     Table of Contents          
+  Commvault Systems, Inc 
+  Notes to Consolidated Financial Statements - Unaudited (continued) 
+  (In thousands, except per share data) 
+
+Recently Issued Accounting Standards 
+  Revenue Recognition                   In May 2014, the FASB issued Accounting Standards Update ("ASU") No. 2014-09, "Revenue from Contracts with Customers (Topic 606)" (ASU 2014-09) and has since modified the standard with ASU 2015-14, "Deferral of the Effective Date." These standards replace existing revenue recognition rules with a comprehensive revenue measurement and recognition standard and expanded disclosure requirements. The new standard becomes effective for the Company's fiscal 2019 with early adoption permitted in fiscal 2018. The Company is in the process of determining the impact of the standard on the financial statements and the timing of adoption. The FASB allows two adoption methods under the new standard. Under one method, a company will apply the rules to contracts in all reporting periods presented. The Company currently believes it will apply this method of adoption. 
+  Leases                In February 2016, the FASB issued ASU 2016-02  Leases (Topic 842)  ( ASU 2016-02 ). Under ASU 2016-02, a lessee will recognize in the balance sheet a liability to make lease payments (the lease liability) and a right-to-use asset representing its right to use the underlying asset for the lease term. The amendments of this ASU are effective for the Company's fiscal 2020, with early adoption permitted. A company will be required to recognize and measure leases at the beginning of the earliest period presented using a modified retrospective approach. The Company is currently assessing the impact the adoption of ASU 2016-02 will have on the financial statements. 
+  Stock-based Compensation                In March 2016, the FASB issued ASU 2016-09, "Improvements to Employee Share-Based Payment Accounting," which simplifies several aspects of the accounting for employee share-based payment transactions, including the accounting for income taxes, forfeitures, and statutory tax withholding requirements, as well as classification in the statement of cash flows. The Company is required to adopt the new guidance in fiscal 2018 with early adoption permitted. The Company is currently assessing the impact the adoption of ASU 2016-09 will have on the financial statements. 
+  There have been no other accounting pronouncements issued but not yet adopted by the Company which are expected to have a material impact on the Company s financial position, results of operations or cash flows. 
+  Revenue Recognition 
+  The Company derives revenues from   two   primary sources: software licenses and services. Services include customer support, consulting, assessment and design services, installation services and training. A typical sales arrangement includes both licenses and services. 
+  For sales arrangements involving multiple elements, the Company recognizes revenue using the residual method. Under the residual method, the Company allocates and defers revenue for the undelivered elements based on fair value and recognizes the difference between the total arrangement fee and the amount deferred for the undelivered elements as revenue. The determination of fair value of the undelivered elements in multiple-element arrangements is based on the price charged when such elements are sold separately, which is commonly referred to as vendor-specific objective-evidence, or VSOE. 
+  The Company s software licenses typically provide for a perpetual right to use the Company s software and are sold on a per-terabyte basis, on a per-copy basis, as site licenses or as a solution set. Software licenses sold on a capacity basis provide the customer with unlimited licenses of specified software products based on a defined level of terabytes of data under management. Site licenses give the customer the additional right to deploy the software on a limited basis during a specified term. Solution sets are generally sold on a per unit basis such as per virtual machine for our virtual machine backup, recovery and cloud management solution set; per mailbox for our email archive solution set and per user for our endpoint data protection solution set. 
+  The Company recognizes software revenue through direct sales channels upon receipt of a purchase order or other persuasive evidence and when all other basic revenue recognition criteria are met as described below. The Company recognizes software revenue through all indirect sales channels on a sell-through model. A sell-through model requires that the Company recognize revenue when the basic revenue recognition criteria are met as described below and these channels complete the sale of the Company s software products to the end-user. Revenue from software licenses sold through an original equipment manufacturer partner is recognized upon the receipt of a royalty report or purchase order from that original equipment manufacturer partner. 
+  
+   7 
+
+     Table of Contents          
+  Commvault Systems, Inc 
+  Notes to Consolidated Financial Statements - Unaudited (continued) 
+  (In thousands, except per share data) 
+
+Services revenue includes revenue from customer support and other professional services. Customer support includes software updates on a when-and-if-available basis, telephone support, integrated web-based support and bug fixes or patches. Customer support revenue is recognized ratably over the term of the customer support agreement, which is typically   one   year. To determine the price for the customer support element when sold separately, the Company primarily uses historical renewal rates. Historical renewal rates are supported by performing an analysis in which the Company segregates its customer support renewal contracts into different classes based on specific criteria including, but not limited to, the dollar amount of the software purchased, the level of customer support being provided and the distribution channel. As a result of this analysis, the Company has concluded that it has established VSOE for the different classes of customer support when the support is sold as part of a multiple-element sales arrangement. The Company s determination of fair value for customer support has not changed for the periods presented. 
+  The Company s other professional services include consulting services, implementation and post-deployment services and education services. Other professional services provided by the Company are not mandatory and can also be performed by the customer or a third-party. In addition to a signed purchase order, the Company s consulting services and implementation and post-deployment services are, in some cases, evidenced by a Statement of Work, which defines the specific scope of such services to be performed when sold and performed on a stand-alone basis or included in multiple-element sales arrangements. Revenues from consulting services and implementation and post-deployment services are based upon a daily or weekly rate and are recognized when the services are completed. Education services include courses taught by the Company s instructors or third-party contractors either at one of the Company s facilities or at the customer s site. Education services fees are recognized as revenue after the course has been provided. Based on the Company s analysis of such other professional services transactions sold on a stand-alone basis, the Company has concluded it has established VSOE for such other professional services when sold in connection with a multiple-element sales arrangement. The Company generally performs its other professional services within   90   days of entering into an agreement. The Company s determination of fair value for other professional services has not changed for the periods presented. 
+  The Company has analyzed all of the undelivered elements included in its multiple-element sales arrangements and determined that VSOE of fair value exists to allocate revenues to services. Accordingly, assuming all basic revenue recognition criteria are met, software revenue is recognized upon delivery of the software license using the residual method. 
+  The Company considers the four basic revenue recognition criteria for each of the elements as follows: 
+
+Persuasive evidence of an arrangement with the customer exists.       The Company s customary practice is to require a purchase order and, in some cases, a written contract signed by both the customer and the Company, or other persuasive evidence that an arrangement exists prior to recognizing revenue related to an arrangement. 
+
+Delivery or performance has occurred.       The Company s software applications are either physically or electronically delivered to customers with standard transfer terms such as FOB shipping point. Software and/or software license keys for add-on orders or software updates are typically delivered in an electronic format. If products that are essential to the functionality of the delivered software in an arrangement have not been delivered, the Company does not consider delivery to have occurred. Services revenue is recognized when the services are completed, except for customer support, which is recognized ratably over the term of the customer support agreement, which is typically   one   year. 
+
+Vendor s fee is fixed or determinable.       The fee customers pay for software applications, customer support and other professional services is negotiated at the outset of a sales arrangement. The fees are therefore considered to be fixed or determinable at the inception of the arrangement. The Company evaluates instances when extended payment terms are granted to determine if revenue should be deferred until payment becomes due. 
+
+Collection is probable.       Probability of collection is assessed on a customer-by-customer basis. Each new customer undergoes a credit review process to evaluate its financial position and ability to pay. If the Company determines from the outset of an arrangement that collection is not probable based upon the review process, revenue is recognized at the earlier of when cash is collected or when sufficient credit becomes available, assuming all of the other basic revenue recognition criteria are met. 
+     The Company s sales arrangements generally do not include acceptance clauses. However, if an arrangement does include an acceptance clause, revenue for such an arrangement is deferred and recognized upon acceptance. Acceptance occurs upon the earliest of receipt of a written customer acceptance, waiver of customer acceptance or expiration of the acceptance period. 
+  
+   8 
+
+     Table of Contents          
+  Commvault Systems, Inc 
+  Notes to Consolidated Financial Statements - Unaudited (continued) 
+  (In thousands, except per share data) 
+
+Deferred Revenue 
+  Deferred revenues represent amounts collected from, or invoiced to, customers in excess of revenues recognized. This results primarily from the billing of annual customer support agreements, and billings for other professional services fees that have not yet been performed by the Company and receipt of license fees that are deferred due to one or more of the revenue recognition criteria not being met. The value of deferred revenues will increase or decrease based on the timing of invoices and recognition of revenue. The Company expenses internal direct and incremental costs related to contract acquisition and origination as incurred. 
+  Deferred revenue consists of the following: 
+
+Concentration of Credit Risk 
+  The Company grants credit to customers in a wide variety of industries worldwide and generally does not require collateral. Credit losses relating to these customers have been minimal. 
+  Sales through the Company s distribution agreement with Arrow Enterprise Computing Solutions, Inc. ( Arrow ) totaled   35%   and   37%   of total revenues for the   six   months ended   September 30, 2016   and   2015  , respectively. Arrow accounted for approximately   38%   of total accounts receivable as of   September 30, 2016   and   43%   of total accounts receivable as of   March 31, 2016  . 
+  Sales through the Company s distribution agreement with Avnet Technology Solutions ("Avnet") totaled   10%   of total revenues for the   six   months ended   September 30, 2016  . Avnet accounted for approximately   11%   of total accounts receivable as of   September 30, 2016  . 
+  Fair Value of Financial Instruments 
+  The carrying amounts of the Company s cash and cash equivalents, accounts receivable and accounts payable approximate their fair values due to the short-term maturity of these instruments.  The Company s cash equivalents balance consists primarily of money market funds. The Company s short-term investments balance consists of U.S. Treasury Bills with maturities of one year or less.  The Company accounts for its short-term investments as held to maturity. 
+  Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for such asset or liability in an orderly transaction between market participants on the measurement date. Valuation techniques used to measure fair value should maximize the use of observable inputs and minimize the use of unobservable inputs. To measure fair value, the Company uses the following fair value hierarchy based on three levels of inputs, of which the first two are considered observable and the last unobservable: 
+  Level 1   Quoted prices in active markets for identical assets or liabilities. 
+  Level 2   Inputs other than Level 1 that are observable for the asset or liability, either directly or indirectly, such as quoted prices for similar assets and liabilities in active markets; quoted prices for identical or similar assets or liabilities in markets that are not active; or other inputs that are observable or can be corroborated by observable market data by correlation or other means. 
+  Level 3   Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities. 
+  
+   9 
+
+     Table of Contents          
+  Commvault Systems, Inc 
+  Notes to Consolidated Financial Statements - Unaudited (continued) 
+  (In thousands, except per share data) 
+
+The following table summarizes the composition of the Company s financial assets measured at fair value at   September 30, 2016   and   March 31, 2016  : 
+
+3.    Property and Equipment 
+  Property and equipment consist of the following: 
+
+The Company recorded depreciation and amortization expense of   $4,878   and   $5,590   for the   six   months ended   September 30, 2016   and   2015  , respectively.   
+   
+  4.    Net Loss per Common Share 
+  Basic net income (loss) per common share is computed by dividing net loss by the weighted average number of common shares during the period. Diluted net income (loss) per share is computed using the weighted average number of common shares and, if dilutive, potential common shares outstanding during the period. Potential common shares consist of the incremental common shares issuable upon the exercise of stock options, vesting of restricted stock units and shares to be purchased under the Employee Stock Purchase Plan. The dilutive effect of such potential common shares is reflected in diluted earnings per share by application of the treasury stock method. 
+  The diluted weighted average shares outstanding exclude outstanding stock options, restricted stock units, performance stock options, performance restricted stock units and shares to be purchased under the employee stock purchase plan totaling approximately    8,381   and   7,850   for the three months ended   September 30, 2016   and   2015   and   8,374   and   8,012   for the   six   months ended   September 30, 2016   and   2015  , respectively, because the effect would have been anti-dilutive. 
+  
+   10 
+
+Table of Contents          
+  Commvault Systems, Inc 
+  Notes to Consolidated Financial Statements - Unaudited (continued) 
+  (In thousands, except per share data) 
+
+5.    Commitments and Contingencies  
+       
+  In the normal course of its business, the Company may be involved in various claims, negotiations and legal actions. As of September 30, 2016, the Company is not aware of any asserted or unasserted claims, negotiations and legal actions for which a loss is considered reasonably possible of occurring and would require disclosure under the guidance. 
+    
+  On September 10, 2014, a purported class action complaint was filed in the United States District Court for the District of New Jersey against the Company, its Chief Executive Officer and its Chief Financial Officer. The case is captioned In re Commvault Systems, Inc. Securities Litigation (Master File No. 3:14-cv-05628-MAS-LHG). The suit alleges that the Company made materially false and misleading statements, or failed to disclose material facts, regarding the Company's financial results, business, operations and prospects in violation of Sections 10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder. The suit asserts claims covering an alleged class period from May 7, 2013 through April 24, 2014. It is purportedly brought on behalf of purchasers of the Company's common stock during that period, and seeks compensatory damages, costs and expenses, as well as equitable or other relief. Lead plaintiff, the Arkansas Teachers Retirement System, was appointed on January 12, 2015, and on March 18, 2015, an amended complaint was filed by the plaintiffs. On December 17, 2015, the defendant's motion to dismiss the case was granted and the case dismissed; however, the plaintiffs were permitted to re-file their claim, which they did on February 5, 2016.  Defendants filed another motion to dismiss on April 5, 2016, which was denied by the court on September 30, 2016. Due to the inherent uncertainties of litigation, the Company cannot accurately predict the ultimate outcome of this matter. The Company is unable at this time to determine whether the outcome of the litigation will have a material impact on its results of operations, financial condition or cash flows.  As of September 30, 2016 the Company has not recorded a reserve for this matter. 
+   
+  6.    Revolving Credit Facility 
+  On June 30, 2014, the Company entered into a   five  -year   $250,000   revolving credit facility (the  Credit Facility ). The Credit Facility is available for share repurchases, general corporate purposes, and letters of credit. The Credit Facility contains financial maintenance covenants including a leverage ratio and interest coverage ratio. The Credit Facility also contains certain customary events of default which would permit the lenders to, among other things, declare all loans then outstanding to be immediately due and payable if such default is not cured within applicable grace periods.  The Credit Facility also limits the Company's ability to incur certain additional indebtedness, create or permit liens on assets, make acquisitions, make investments, loans or advances, sell or transfer assets, pay dividends or distributions, and engage in certain transactions with foreign affiliates. Outstanding borrowings under the Credit Facility accrue interest at an annual rate equal to London Interbank Offered Rate plus   1.50%   subject to increases based on the Company's actual leverage. The unused balance on the Credit Facility is also subject to a   0.25%   annual interest charge subject to increases based on the Company's actual leverage. As of   September 30, 2016  , there were   no   borrowings under the Credit Facility and the Company was in compliance with all covenants.   
+  The Company has deferred the expense related to debt issuance costs, which are classified as Other Assets, and will amortize the costs into interest expense over the term of the Credit Facility. Unamortized amounts at   September 30, 2016   were   $694  .  The amortization of debt issuance costs was   $63   and   $126   in the   three and six   months ended   September 30, 2016   and   2015  . 
+   
+  7.    Capitalization 
+  The company did   no  t repurchase any of its shares during the   six   months ended September 30, 2016. As of   September 30, 2016  ,   $93,102   remained in the stock repurchase authorization that expires on March 31, 2017.  
+   
+  8.    Stock Plans 
+  On August 16, 2016, the Company s Omnibus Incentive Plan (the  2016 Incentive Plan ) was approved by its shareholders.  The 2016 Incentive Plan authorizes a broad range of awards including stock options, stock appreciation rights, full value awards (including restricted stock, restricted stock units, performance shares or units and other stock-based awards) and cash-based awards.  The maximum number of shares of common stock that may be delivered under the 2016 Incentive Plan is equal to   2,800   shares.  
+  
+   11 
+
+     Table of Contents          
+  Commvault Systems, Inc 
+  Notes to Consolidated Financial Statements - Unaudited (continued) 
+  (In thousands, except per share data) 
+
+The following table presents the stock-based compensation expense included in Cost of services revenue, Sales and marketing, Research and development and General and administrative expenses for the   three and six   months ended   September 30, 2016   and   2015  .  Stock-based compensation is attributable to stock options, restricted stock units, performance based awards and the employee stock purchase plan.   
+
+As of   September 30, 2016  , there was approximately   $96,050   of unrecognized stock-based compensation expense, net of estimated forfeitures, related to non-vested stock option and restricted stock unit awards that is expected to be recognized over a weighted average period of   1.79   years. To the extent the actual forfeiture rate is different from what the Company has estimated, stock-based compensation related to these awards will be different from the Company s current estimate. 
+  Stock Options 
+  Stock Option activity for the   six   months ended   September 30, 2016   is as follows: 
+
+The weighted average fair value of stock options granted was   $13.75   and   $15.47   per option during the   three and six   months ended   September 30, 2015  . The total intrinsic value of options exercised was   $3,070    and   $4,439   for the   three and six   months ended   September 30, 2016   and   $13,650   and   $19,974   for the   three and six   months ended   September 30, 2015  . The Company s policy is to issue new shares upon exercise of options as the Company does not hold shares in treasury. 
+  
+   12 
+
+     Table of Contents          
+  Commvault Systems, Inc 
+  Notes to Consolidated Financial Statements - Unaudited (continued) 
+  (In thousands, except per share data) 
+
+Restricted Stock Units 
+  Restricted stock unit activity for the   six   months ended   September 30, 2016   is as follows: 
+
+The weighted average fair value of restricted stock units awarded was   $52.13   and   $47.76   per unit during the   three and six   months ended   September 30, 2016  , and   $39.58   and   $41.41   per unit during the   three and six   months ended   September 30, 2015  , respectively. 
+  Performance Based Awards  
+    
+  In May 2016, the Company granted   115   performance restricted stock units ("PSU") to certain executives.  Vesting of these awards is contingent upon i) the Company meeting certain company-wide revenue and non-GAAP performance goals (performance-based) in fiscal 2017 and ii) the Company's customary service periods.  The awards vest in   three   annual tranches and have a maximum potential to vest at   200%   (  230   shares) based on actual fiscal 2017 performance. The related stock-based compensation expense is determined based on the value of the underlying shares on the date of grant and is recognized over the vesting term using the accelerated method. During the interim financial periods, management estimates the probable number of PSU s that would vest until the ultimate achievement of the performance goals is known.  The awards are included in the restricted stock unit table. 
+    
+  Awards with a Market Condition 
+  In the six months ended September 30, 2016, the Company granted   123   market performance stock units to certain executives. The vesting of these awards is contingent upon the Company meeting certain total shareholder return ("TSR") levels as compared to a market index over the next   three   years.  The awards vest in   three   annual tranches and have a maximum potential to vest at   200%   (  246   shares) based on TSR performance. The related stock-based compensation expense is determined based on the estimated fair value of the underlying shares on the date of grant and is recognized using the accelerated method over the vesting term. The estimated fair value was calculated using a Monte Carlo simulation model.  The weighted average fair value of the awards granted during the six months ended September 30, 2016 was   $57.28  .   The awards are included in the restricted stock unit table. 
+  Employee Stock Purchase Plan 
+  The Employee Stock Purchase Plan (the  Purchase Plan ) is a shareholder approved plan under which substantially all employees may purchase the Company s common stock through payroll deductions at a price equal to   85%   of the lower of the fair market values of the stock as of the beginning or the end of the   six  -month offering periods. An employee s payroll deductions under the Purchase Plan are limited to   10%   of the employee s salary and employees may not purchase more than   $25   of stock during any calendar year. As of   September 30, 2016  ,   2,503   shares were reserved for future issuance under the Purchase Plan. The Purchase Plan is considered compensatory and the fair value of the discount and look back provision are estimated using the Black-Scholes formula and recognized over the   six   month withholding period prior to purchase.  The total expense associated with the Purchase Plan was   $655   and   $1,334   for the   three and six   months ended   September 30, 2016   and   $520   and   $1,196   for the   three and six   months ended   September 30, 2015  .  
+  
+   13 
+
+Table of Contents          
+  Commvault Systems, Inc 
+  Notes to Consolidated Financial Statements - Unaudited (continued) 
+  (In thousands, except per share data) 
+
+9.    Income Taxes 
+  Income tax benefit was   $322   and   $903   in the   three and six   months ended   September 30, 2016  . The effective rate of the income tax benefit in the six month period ending September 30, 2016 is lower than the federal statutory rate primarily due to the favorable impact of research tax credits partially offset the unfavorable impact of permanent differences as well as by   $616   of income tax expense related to a change in the estimated state tax rate applied to the state deferred tax assets and the state income tax payable. 
+  Income tax expense was   $4,647   and income tax benefit was   $351   in the three and six months ended September 30, 2015, respectively. The effective rate of the income tax benefit in the six month period is lower than the federal statutory rate due to the impact of unfavorable permanent differences.  
+  Unrecognized Tax Benefits 
+  The calculation of the Company s tax liabilities involves dealing with uncertainties in the application of complex tax regulations in each of its tax jurisdictions. The number of years with open tax audits varies depending on the tax jurisdiction. A number of years may lapse before a particular matter is audited and finally resolved. A reconciliation of the beginning and ending amounts of unrecognized tax benefits is as follows: 
+                     Balance as of March 31, 2016 
+    $ 
+    1,952 
+      
+      Additions for tax positions related to fiscal 2017 
+    115 
+      
+      Additions for tax positions related to prior years 
+
+Settlements and effective settlements with tax authorities and remeasurements 
+
+Reductions related to the expiration of statutes of limitations 
+
+Foreign currency translation adjustment 
+
+Balance as of September 30, 2016 
+    $ 
+    2,067 
+
+All of the Company s unrecognized tax benefits would favorably impact the effective tax rate if they were recognized. Components of the reserve are classified as either current or long-term in the Consolidated Balance Sheet based on when the Company expects each of the items to be settled. Unrecognized tax benefits and the related accrued interest and penalties totaling   $1,892   are recorded as Other Liabilities on the Consolidated Balance Sheet, of which   $230   represents interest and penalties. The Company also has unrecognized tax benefits and related accrued interest and penalties totaling   $499   as a reduction of Deferred Tax Assets on the Consolidated Balance Sheet, of which   $94   represents interest and penalties. 
+  Other Tax Items 
+  The Company conducts business globally and as a result, files income tax returns in the United States and in various state and foreign jurisdictions. In the normal course of business, the Company is subject to examination by taxing authorities throughout the world, including such major jurisdictions as the United States, Australia, Canada, Germany, Netherlands and United Kingdom. The years subject to income tax examination in the Company s foreign jurisdictions cover the maximum time period with respect to these jurisdictions. Due to net operating loss ("NOL") carryforwards, in some cases the tax years continue to remain subject to examination with respect to such NOLs. As of September 30, 2016, none of the Company's major legal entities are under audit by a related tax jurisdiction.  
+
+14 
+
+Item 2 - Management s Discussion and Analysis of Financial Condition and Results of Operations 
+  You should read the following discussion and analysis along with our consolidated financial statements and the related notes included elsewhere in this quarterly report on Form 10-Q. The statements in this discussion regarding our expectations of our future performance, liquidity and capital resources, and other non-historical statements are forward-looking statements. These forward-looking statements are subject to numerous risks and uncertainties, including, but not limited to, the risks and uncertainties described under  Risk Factors  in our Annual Report on Form 10-K for the fiscal year ended March 31, 2016. Our actual results may differ materially from those contained in or implied by any forward-looking statements. 
+   
+   Overview 
+  We are a leading provider of data and information management software applications and related services. Our software platform is an enterprise level, integrated data and information management solution, built from the ground up on a single platform and unified code base. Our platform contains software functionality that works together seamlessly, sharing a single code and common function set to deliver Data Protection - Backup   Recovery; Cloud and Infrastructure Management; and Retention and Compliance across physical, virtual and cloud environments. All software functionality share the same back-end technologies to deliver the benefits of a holistic approach to protecting, managing, and accessing data. Our software addresses many aspects of data management in the enterprise, while providing scalability and control of data and information.  Our software enables our customers to simply and cost-effectively protect and manage their enterprise data throughout its lifecycle, from the mobile worker to the remote office, to the data center, covering the leading operating systems, relational databases, virtualized environments and applications. We also provide our customers with a broad range of professional services that are delivered by our worldwide support and field operations. As of   September 30, 2016  , we had licensed our software applications to over 23,500 registered customers. 
+  Our software licenses typically provide for a perpetual right to use our software and are sold on a per-terabyte capacity basis, on a per-copy basis, as site licenses, or as a solution set. During the   six   months ended   September 30, 2016  , approximately 70% of software license revenue was sold on a capacity basis.  This compares to approximately 73% of software license revenue was sold on a capacity basis during fiscal 2016.  Capacity-based software licenses provide our customers with unlimited licenses of specified software products based on a defined level of terabytes of data under management. As a result, when we sell our platform through a capacity license, certain of the various Commvault functionalities are bundled into one capacity-based price. We anticipate that capacity-based licenses will continue to account for the majority of our software license revenue for fiscal 2017. Site licenses give the customer the additional right to deploy the software on a limited basis during a specified term. Our primary solution sets in our software suite include virtual machine backup, recovery and cloud management; endpoint data protection; and email archive. These solution sets can be individually deployed or combined as part of a comprehensive data protection and information management solution. Our solution sets are generally sold on a per-unit basis such as per virtual machine for our virtual machine backup, recovery and cloud management solution set; per mailbox for our email archive solution set and per user for our endpoint data protection solution set. 
+  Historically, an insignificant amount of our revenue has been sold under subscription, or term-based, license arrangements. In these arrangements, the customer has the right to use the software on either a capacity basis or per-copy or per-unit basis over a designated period of time. Revenue in these arrangements is recognized ratably over the term of the agreement. Over the next several years, we expect revenue from these types of arrangements to become a more significant portion of our total revenue. 
+  The industry in which we currently operate continues to go through accelerating changes as the result of compounding data growth and the introduction of new technologies. We remain focused on both the data and information management trends in the marketplace and, in fact, a material portion of our existing research and development expenses are utilized toward the development of such new technologies. While we are confident in our ability to meet these changing industry demands with our Commvault suite and potential future releases, the development, release and timing of any features or functionality remain at our sole discretion and our solutions or other technologies may not be widely adopted. 
+  Given the nature of the industry in which we operate, our software applications are subject to obsolescence. We continually develop and introduce updates to our existing software applications in order to keep pace with evolving industry technologies. In addition, we must address evolving industry standards, changing customer requirements and competitive software applications that may render our existing software applications obsolete. For each of our software applications, we provide full support for the current generally available release and one prior release. When we declare a product release obsolete, a customer notice is delivered twelve months prior to the effective date of obsolescence announcing continuation of full product support for the first six months. We provide an additional six months of extended assistance support in which we only provide existing workarounds or fixes that do not require additional development activity. We do not have existing plans to make any of our software products permanently obsolete. 
+  
+   15 
+
+     Table of Contents                  
+
+Sources of Revenues 
+  We derive a significant portion of our total revenues from sales of licenses of our software applications. We do not customize our software for a specific end-user customer. We sell our software applications to end-user customers both directly through our sales force and indirectly through our global network of value-added reseller partners, systems integrators, corporate resellers and original equipment manufacturers. Our software revenue was   43%   and   41%   of our total revenues for the   six   months ended   September 30, 2016   and   2015  , respectively. 
+  In recent fiscal periods, we have generated approximately three-quarters of our software revenue from our existing customer base and approximately one-quarter of our software revenue from new customers. In addition, our total software revenue in any particular period is, to a certain extent, dependent upon our ability to generate revenues from large customer software deals, which we refer to as enterprise software transactions. Enterprise software transactions (transactions greater than $0.1 million) represented approximately   55%   and   49%   of our total software revenue in the   six   months ended   September 30, 2016   and   2015  , respectively.   
+  Software revenue generated through indirect distribution channels was   88%   of total software revenue in the   six   months ended   September 30, 2016   and was approximately   87%   of total software revenue in the   six   months ended   September 30, 2015  . Software revenue generated through direct distribution channels was approximately   12%   of total software revenue in the   six   months ended   September 30, 2016   and was approximately   13%   of total software revenue in the   six   months ended   September 30, 2015  . The dollar value of software revenue generated through indirect distribution channels   increased   approximately   $19.3 million  , or   20%  , in the   six   months ended   September 30, 2016   compared to the   six   months ended   September 30, 2015  . The dollar value of software revenue generated through direct distribution channels   increased   approximately   $1.0 million  , or   7%  , in the   six   months ended   September 30, 2016   compared to the   six   months ended   September 30, 2015  .  Deals initiated by our direct sales force are sometimes transacted through indirect channels based on end-user customer requirements, which are not always in our control and can cause this overall percentage split to vary from period-to-period. As such, there may be fluctuations in the dollars and percentage of software revenue generated through our direct distribution channels from time-to-time. We believe that the growth of our software revenue, derived from both our indirect channel partners and direct sales force, are key attributes to our long-term growth strategy. We will continue to invest in both our channel relationships and direct sales force in the future, but we continue to expect more revenue to be generated through indirect distribution channels over the long term. The failure of our indirect distribution channels or our direct sales force to effectively sell our software applications could have a material adverse effect on our revenues and results of operations. 
+    
+  Our primary original equipment manufacturer agreement is with Hitachi Data Systems ("HDS") and allows them to market, sell and support our software applications and services on a stand-alone basis and/or incorporate our software applications into their own hardware products. Our original equipment manufacturer partners, including HDS, have no obligation to recommend or offer our software applications exclusively or at all, and they have no minimum sales requirements and can terminate our relationship at any time. Sales through our original equipment manufacturer agreements, accounted for   15%   of our total revenues for both the   six   months ended   September 30, 2016   and 2015. 
+  We also have non-exclusive distribution agreements covering our North American commercial markets and our U.S. Federal Government market with Arrow Enterprise Computing Solutions, Inc. ("Arrow"), a subsidiary of Arrow Electronics, Inc., and Avnet Technology Solutions ("Avnet"), a subsidiary of Avnet, Inc. Pursuant to these distribution agreements, these distributors  primary role is to enable a more efficient and effective distribution channel for our products and services by managing our reseller partners and leveraging their own industry experience. We generated approximately   35%   of our total revenues through Arrow in the   six   months ended   September 30, 2016  , and approximately   37%   in the   six   months ended   September 30, 2015  . We generated approximately   10%   of our total revenues through Avnet in the   six   months ended   September 30, 2016  . If Arrow or Avnet were to discontinue or reduce the sales of our products or if our agreement with Arrow or Avnet was terminated, and if we were unable to take back the management of our reseller channel or find another North American distributor to replace Arrow or Avnet, then it could have a material adverse effect on our future business. 
+  Our services revenue was   57%   of our total revenues for the   six   months ended   September 30, 2016   and   59%   of our total revenues for the   six   months ended   September 30, 2015  . Our services revenue is made up of fees from the delivery of customer support and other professional services, which are typically sold in connection with the sale of our software applications. Customer support agreements provide technical support and unspecified software updates on a when-and-if-available basis for an annual fee based on licenses purchased and the level of service subscribed. Other professional services include consulting, assessment and design services, implementation and post-deployment services and training, all of which to date have predominantly been sold in connection with the sale of software applications.  
+
+16 
+
+     Table of Contents                  
+
+Most of our customer support agreements are for a one year term. As the end of the annual period approaches, we pursue the renewal of the agreement with the customer. Historically, maintenance renewals have represented a significant portion of our total revenue. Because of this characteristic of our business, if our customers choose not to renew their maintenance and support agreements with us on beneficial terms, or at all, our business, operating results and financial condition could be harmed. In addition, we are currently going through a re-alignment of our maintenance pricing to be more competitive in the market and make it easier for our customers to do business with Commvault. This maintenance pricing re-alignment will phase in over the current fiscal year and early fiscal 2018, and is primarily focused on the mid- to lower-end of the market (non-enterprise customers) which impacts approximately a quarter of our existing maintenance revenue dollar base. If we are not successful with our maintenance pricing re-alignment strategy, our business and financial performance might also be adversely impacted. 
+  The gross margin of our services revenue was   77%   for the   six   months ended   September 30, 2016   and   76%   for the   six   months ended   September 30, 2015  . Overall, our services revenue has lower gross margins than our software revenue. The gross margin of our software revenue was approximately   99%   for both the   six   months ended   September 30, 2016   and 2015. An increase in the percentage of total revenues represented by services revenue may adversely affect our overall gross margins. 
+   
+  Foreign Currency Exchange Rates  Impact on Results of Operations 
+  Sales outside the United States were approximately   42%   of our total revenue for the   six   months ended   September 30, 2016   and   43%   of our total revenue for the   six   months ended   September 30, 2015  . The income statements of our non-U.S. operations are translated into U.S. dollars at the average exchange rates for each applicable month in a period. To the extent the U.S. dollar weakens against foreign currencies, the translation of these foreign currency denominated transactions generally results in increased revenue, operating expenses and income from operations for our non-U.S. operations. Similarly, our revenue, operating expenses and net income will generally decrease for our non-U.S. operations if the U.S. dollar strengthens against foreign currencies. 
+  Using the average foreign currency exchange rates from the three months ended   September 30, 2015   our software revenue would have been higher by $0.6 million, our services revenue would have been higher by $0.8 million, our cost of sales would have been unchanged and our operating expenses would have been higher by $2.4 million from non-U.S. operations for the three months ended   September 30, 2016  . Using the average foreign currency exchange rates from the   six   months ended   September 30, 2015   our software revenue would have been higher by $1.5 million, our services revenue would have been higher by $1.7 million, our cost of sales would have been higher by approximately $0.1 million and our operating expenses would have been higher by $4.1 million from non-U.S. operations for the   six   months ended   September 30, 2016  .  
+  In addition, we are exposed to risks of foreign currency fluctuation primarily from cash balances, accounts receivables and intercompany accounts denominated in foreign currencies and are subject to the resulting transaction gains and losses, which are recorded as a component of general and administrative expenses. We recognized a net foreign currency transaction gain of   $0.1   million and   $0.4   million in the   three and six   months ended   September 30, 2016  . We recognized net foreign currency transaction gains of $0.3 million and $0.2 million in the   three and six   months ended   September 30, 2015  . 
+  
+   17 
+
+Table of Contents                  
+
+Critical Accounting Policies 
+  Our condensed consolidated financial statements are prepared in accordance with U.S. GAAP. The preparation of these condensed consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs and expenses and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. In many instances, we could have reasonably used different accounting estimates, and in other instances changes in the accounting estimates are reasonably likely to occur from period-to-period. Accordingly, actual results could differ significantly from the estimates made by our management. To the extent that there are material differences between these estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash flows will be affected.  
+  In many cases, the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require management s judgment in its application, while in other cases, significant judgment is required in selecting among available alternative accounting standards that allow different accounting treatment for similar transactions. We consider these policies requiring significant management judgment to be critical accounting policies. These critical accounting policies are: 
+     Revenue Recognition; 
+     Stock-Based Compensation; 
+     Accounting for Income Taxes; and  
+     Software Development Costs 
+  There have been no significant changes in our critical accounting policies and estimates during the   six   months ended   September 30, 2016   as compared to the critical accounting policies and estimates disclosed in  Management s Discussion and Analysis of Financial Condition and Results of Operations - Critical Accounting Policies  included in our Annual Report on Form 10-K for the year ended   March 31, 2016  . In addition, please see Note 2 of Notes to the Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10-Q and Note 2 of the Notes to Consolidated Financial Statements included in our fiscal   2016   Annual Report on Form 10-K filed for a description of our accounting policies. 
+   
+  Results of Operations 
+  The following table sets forth each of our sources of revenues and costs of revenues for the specified periods as a percentage of our total revenues for those periods (due to rounding, numbers in column may not sum to totals): 
+
+18 
+
+     Table of Contents                  
+
+Three months ended   September 30, 2016   compared to three months ended   September 30, 2015 
+  Revenues 
+  Total revenues   increased     $18.6 million  , or   13%  , from   $140.7 million   in the three months ended   September 30, 2015   to   $159.3 million   in the three months ended   September 30, 2016  . 
+  Software Revenue.   Software revenue   increased     $12.9 million  , or 22%, from   $57.6 million   in the three months ended   September 30, 2015   to   $70.5 million   in the three months ended   September 30, 2016  . Software revenue represented   44%   of our total revenues in the three months ended   September 30, 2016   compared to   41%   of total revenues in the three months ended   September 30, 2015  .  
+  We track software revenue on a geographic basis. The geographic regions that are tracked are the Americas (United States, Canada, Latin America), EMEA (Europe, Middle East, Africa) and APAC (Australia, New Zealand, Southeast Asia, China).  Americas, EMEA and APAC represented 63%, 23% and 14% of total software revenue, respectively, for the three months ended   September 30, 2016  .  The year over year growth of software revenue in the Americas, EMEA and APAC was 21%, 12% and, 53%, respectively. 
+             
+    The Americas software revenue growth for the three months ended   September 30, 2016   was the result of a 39% increase in enterprise transaction revenue.  The increase in enterprise transaction revenue was primarily a result of an increase in the total number of enterprise transactions.  
+                
+    EMEA software revenue increased primarily due to an increase in enterprise transaction revenue.  The increase in enterprise transaction revenue was primarily a result of an increase in the total number of enterprise transactions.  
+     Year over year software revenue growth in EMEA was adversely impacted by changes in foreign exchange rates as the U.S. dollar strengthened against the Euro and British pound sterling.  Using average foreign exchange rates from the   second   quarter of fiscal   2016  ,   second   quarter fiscal   2017   EMEA software revenue would have increased 18% compared to an actual increase of 12%.  
+             
+    The increase in APAC software revenue was the result of an increase in the number of enterprise revenue transactions.   
+                
+    Our software revenue in EMEA and APAC is subject to changes in foreign exchange rates as more fully discussed above in the  Foreign Currency Exchange Rates  Impact on Results of Operations  section. 
+     Software revenue derived from enterprise software transactions (transactions greater than $0.1 million) represented approximately   57%   of our software revenue in the three months ended   September 30, 2016   and approximately   49%   of our software revenue in the three months ended   September 30, 2015  . Enterprise software transactions   increased   by   $12.4 million  , or   44%  , in the three months ended   September 30, 2016   compared to the three months ended   September 30, 2015  . This   increase   was driven by a   45%   increase in the number of enterprise software transactions. The average dollar amount of such transactions was approximately   $268,000   in the three months ended   September 30, 2016   and approximately   $269,000   in the three months ended   September 30, 2015  . There was a increase in software revenue derived from transactions less than $0.1 million of   $0.5 million  , or   2%  , in the three months ended   September 30, 2016   compared to the three months ended   September 30, 2015  . 
+  Services Revenue.   Services revenue   increased     $5.7 million  , or   7%  , from   $83.2 million   in the three months ended   September 30, 2015   to   $88.9 million   in the three months ended   September 30, 2016  . Services revenue represented   56%   of our total revenues in the three months ended   September 30, 2016   and   59%   in the three months ended   September 30, 2015  . The   increase   in services revenue is due to a   $5.9 million     increase   in revenue from customer support agreements as a result of software sales to new customers and renewal agreements with our installed software base. The increase in customer support revenue was partially offset by a decline in professional services revenue.  
+  Cost of Revenues  . Total cost of revenues   increased     $0.7 million  , or   3%  , from   $20.9 million   in the three months ended   September 30, 2015   to   $21.7 million   in the three months ended   September 30, 2016  . Total cost of revenues represented   14%   of our total revenues in the three months ended   September 30, 2016   and   15%   of our total revenues in the three months ended   September 30, 2015  .  An increase in the percentage of total revenues represented by software revenue has the impact of improving our overall gross margins. 
+  
+   19 
+
+     Table of Contents                  
+
+Operating Expenses 
+  Sales and Marketing.   Sales and marketing expenses   increased     $8.9 million  , or   10%  , from   $85.8 million   in the three months ended   September 30, 2015   to   $94.8 million   in the three months ended   September 30, 2016  . The increase is due to a $5.1 million increase in employee compensation and related expenses mainly attributable to the expansion of our sales force from the prior year, a $1.9 million increase in stock-based compensation, and a $1.8 million increase in marketing expenses. Sales and marketing expenses as a percentage of total revenues   decreased   to   59%   in the three months ended   September 30, 2016   from   61%   in the three months ended   September 30, 2015  . 
+  Research and Development.   Research and development expenses   increased     $4.1 million  , or   25%  , from   $16.1 million   in the three months ended   September 30, 2015   to   $20.2 million   in the three months ended   September 30, 2016  . The   increase   is primarily due to an increase in salary and related expenses resulting from the expansion of our engineering group. Research and development expenses as a percentage of total revenues was   13%   in the three months ended   September 30, 2016   and   11%   in the three months ended   September 30, 2015  . Investing in research and development has been a priority for Commvault, and we anticipate continued spending related to the development of our data and information management software applications. 
+  General and Administrative.   General and administrative expenses   increased     $1.4 million  , or   7%  , from   $19.9 million   in the three months ended   September 30, 2015   to   $21.3 million   in the three months ended   September 30, 2016  . The increase is primarily the result of an increase in stock-based compensation.  General and administrative expenses in the three months ended   September 30, 2016   includes approximately $0.1 million of net foreign currency transaction gain compared to $0.3 million of net foreign currency transaction gains recognized in general and administrative expenses in the three months ended   September 30, 2015  . General and administrative expenses as a percentage of total revenues decreased to   13%   in the three months ended   September 30, 2016   from   14%   in the three months ended   September 30, 2015  . 
+  Depreciation and Amortization.   Depreciation expense   decreased   by   $0.4 million   from   $2.5 million   in the three months ended   September 30, 2015   to   $2.1 million   in the three months ended   September 30, 2016  .  
+  Income Tax Expense/Benefit  
+  Income tax benefit was   $0.3 million   in the three months ended   September 30, 2016   compared to an expense of   $4.6 million   in the three months ended   September 30, 2015  .  The effective rate of the income tax benefit in the three month period ending September 30, 2016 is lower than the federal statutory rate primarily due to projected permanent differences representing a smaller percentage of projected loss before taxes.  In addition, we estimate that cash expenditures for income taxes for fiscal 2017 will be less than $5.0 million. The income tax expense recorded in the three months ended September 30, 2015 is the result of a reduction in the amount of forecasted pre-tax income for the fiscal year at that time. 
+  Six months ended     September 30, 2016   compared to   six   months ended   September 30, 2015 
+  Revenues 
+  Total revenues   increased     $31.9 million  , or   11%  , from   $279.9 million   in the   six   months ended   September 30, 2015   to   $311.7 million   in the   six   months ended   September 30, 2016  . 
+  Software Revenue.   Software revenue   increased     $20.3 million  , or   18%  , from   $114.1 million   in the   six   months ended   September 30, 2015   to   $134.4 million   in the   six   months ended   September 30, 2016  . Software revenue represented   43%   of our total revenues in the   six   months ended   September 30, 2016   as compared to   41%   of total revenues in the   six   months ended   September 30, 2015  . 
+    
+  Americas, EMEA and APAC represented 59%, 27% and 14% of total software revenue, respectively, for the   six   months ended   September 30, 2016  .  The year-over-year increase of software revenue in the Americas, EMEA and APAC was 17%,   11%   and   36%  , respectively. 
+             
+    The increase in Americas software revenue for the   six   months ended   September 30, 2016   was the result of an increase in enterprise transaction revenue due to a higher number of enterprise revenue transactions.   
+                
+    EMEA software revenue increased primarily as a result of an increase in both enterprise and non-enterprise transaction revenue.   
+     Year over year software revenue growth in EMEA was adversely impacted by changes in foreign exchange rates as the U.S. dollar strengthened against the Euro and British pound sterling.  Using average foreign exchange rates from the first half of fiscal   2016  , first half fiscal   2017   EMEA software revenue would have increased 15% compared to an actual increase of 11%.  
+  
+   20 
+
+     Table of Contents                  
+
+The increase in APAC software revenue was the result of a significant increase in enterprise transaction revenue from an increase in the number of transactions.   
+                
+    Our software revenue in EMEA and APAC is subject to changes in foreign exchange rates as more fully discussed above in the  Foreign Currency Exchange Rates  Impact on Results of Operations  section. 
+     Software revenue derived from enterprise software transactions (transactions greater than $0.1 million) represented approximately   55%   of our software revenue in the   six   months ended   September 30, 2016   and approximately   49%   of our software revenue in the   six   months ended   September 30, 2015  . Enterprise software transaction revenue   increased   by   $17.7 million  , or   32%  , in the   six   months ended   September 30, 2016   compared to the   six   months ended   September 30, 2015  . This   increase   was driven by a   34%   increase in the number of transactions partially offset by a   2%   decline in the average dollar amount of such transactions. The average sales price was approximately   $255,000   in the   six   months ended   September 30, 2016   and approximately   $260,000   in the   six   months ended   September 30, 2015  . Software revenue derived from transactions less than $0.1 million   increased     $2.6 million  , or   5%  , in the   six   months ended   September 30, 2016   compared to the   six   months ended   September 30, 2015  . 
+  Services Revenue.   Services revenue   increased     $11.5 million  , or   7%  , from   $165.8 million   in the   six   months ended   September 30, 2015   to   $177.4 million   in the   six   months ended   September 30, 2016  . Services revenue represented   57%   of our total revenues in the   six   months ended   September 30, 2016   and   59%   in the   six   months ended   September 30, 2015  . The   increase   in services revenue is due to a   $12.5 million     increase   in revenue from customer support agreements as a result of software sales to new customers and renewal agreements with our installed software base.  The   increase   in customer support revenue was partially offset by a decline in professional services revenue.  
+  Cost of Revenues  . Total cost of revenues   increased     $1.2 million  , or   3%  , from   $41.5 million   in the   six   months ended   September 30, 2015   to   $42.7 million   in the   six   months ended   September 30, 2016  . Total cost of revenues represented   14%   of our total revenues in the   six   months ended   September 30, 2016   and   15%   in the   six   months ended   September 30, 2015  .  An increase in the percentage of total revenues represented by software revenue had the impact of improving our overall gross margins. 
+  Operating Expenses 
+  Sales and Marketing.   Sales and marketing expenses   increased     $15.9 million  , or   9%  , from   $171.6 million   in the   six   months ended   September 30, 2015   to   $187.5 million   in the   six   months ended   September 30, 2016  . The increase is primarily due to a $8.2 million increase in employee compensation and related expenses mainly attributable to the expansion of our sales force from the prior year and a $2.9 million increase in stock-based compensation.  In addition, during the first quarter the Company held its first worldwide sales meeting in several years which also contributed to the year over year increase in sales and marketing expense. Sales and marketing expenses as a percentage of total revenues   decreased   to   60%   in the   six   months ended   September 30, 2016   from   61%   in the   six   months ended   September 30, 2015  . 
+  Research and Development.   Research and development expenses   increased     $6.5 million  , or   20%  , from   $32.9 million   in the   six   months ended   September 30, 2015   to   $39.4 million   in the   six   months ended   September 30, 2016  . The   increase   is due to salary and related expenses resulting from the expansion of our engineering group. Research and development expenses as a percentage of total revenues was   13%   in the   six   months ended   September 30, 2016   and   12%   in the   six   months ended   September 30, 2015  . Investing in research and development has been a priority for Commvault, and we anticipate continued spending related to the development of our data and information management software applications. 
+  General and Administrative.   General and administrative expenses   increased     $1.5 million  , or   4%  , from   $39.7 million   in the   six   months ended   September 30, 2015   to   $41.3 million   in the   six   months ended   September 30, 2016  .  The increase is primarily the result of a $2.0 million increase in stock-based compensation.  Expenses in the   six   months ended   September 30, 2016   includes approximately   $0.4   million of net foreign currency transaction gains compared to approximately $0.2 million of net foreign currency transaction gain in the   six   months ended   September 30, 2015  . General and administrative expenses as a percentage of total revenues decreased to   13%   in the   six   months ended   September 30, 2016   from   14%   in the   six   months ended   September 30, 2015  . 
+  Depreciation and Amortization.   Depreciation expense   decreased   by   $0.7 million   from   $4.9 million   in the   six   months ended   September 30, 2015   to   $4.2 million   in the   six   months ended   September 30, 2016  .  
+  
+   21 
+
+     Table of Contents                  
+
+Income Tax Benefit 
+  Income tax benefit was   $0.9 million   in the   six   months ended   September 30, 2016   compared to   $0.4 million   in the   six   months ended   September 30, 2015  .  The effective rate of the income tax benefit in the six month period ending September 30, 2016 is lower than the federal statutory rate primarily due to the net favorable impact of research tax credits partially offset by the unfavorable impact of permanent differences as well as $616 of income tax expense related to a change in the estimated state tax rate applied to the state deferred tax assets and the state income tax payable.  The effective rate of the income tax benefit in the six months ended September 30, 2015 is lower than the federal statutory rate due to the impact of unfavorable permanent differences. 
+   
+  Liquidity and Capital Resources 
+  As of   September 30, 2016  , our cash and cash equivalents balance of   $321.8 million   primarily consisted of cash and money market funds. In addition, as of   September 30, 2016   we have short-term investments invested in U.S. Treasury Bills totaling   $117.8 million  . In recent fiscal years, our principal source of liquidity has been cash provided by operations. 
+  As of   September 30, 2016  , the amount of cash and cash equivalents held outside of the United States by our foreign legal entities was approximately   $159 million  . These balances are dispersed across many international locations around the world. We believe that such dispersion meets the current and anticipated future liquidity needs of our foreign legal entities. In addition, it is our intention to indefinitely reinvest undistributed earnings of our foreign legal entities. In the event we needed to repatriate funds from outside of the United States, such repatriation would likely be subject to restrictions by local laws and/or tax consequences including foreign withholding taxes or U.S. income taxes. It is not currently practical to estimate the legal restrictions or tax liability that would arise from such repatriations. 
+  We have a five-year $250 million revolving credit facility (the  Credit Facility ) that expires in 2019. The Credit Facility is available for share repurchases, general corporate purposes, and letters of credit. The Credit Facility contains financial maintenance covenants including a leverage ratio and interest coverage ratio. The Credit Facility also contains certain customary events of default which would permit the lenders to, among other things, declare all loans then outstanding to be immediately due and payable if such default is not cured within applicable grace periods.  The Credit Facility also limits our ability to incur certain additional indebtedness, create or permit liens on assets, make acquisitions, make investments, loans or advances, sell or transfer assets, pay dividends or distributions, and engage in certain transactions with foreign affiliates. Outstanding borrowings under the Credit Facility accrue interest at an annual rate equal to London Interbank Offered Rate plus 1.50% subject to increases based on the Company's actual leverage. The unused balance on the Credit Facility is also subject to a 0.25% annual interest charge subject to increases based on the Company's actual leverage. As of   September 30, 2016  , there were   no   borrowings under the Credit Facility and we believe we are in compliance with all covenants.  
+  During the   six   months ended   September 30, 2016  , we did not repurchase any of common stock shares under our share repurchase program. As of   September 30, 2016  , there was   $93 million   remaining in the share repurchase program which expires on March 31, 2017.  Under our stock repurchase program, repurchased shares are constructively retired and returned to unissued status. Our stock repurchase program has been funded by our existing cash and cash equivalent balances as well as cash flows provided by our operations. 
+  Our future stock repurchase activity is subject to the business judgment of our management and Board of Directors, taking into consideration our historical and projected results of operations, financial condition, cash flows and other anticipated capital requirements or investment alternatives.  Our stock repurchase program reduces the dilutive impact on our common shares outstanding associated with stock option exercises and our previous public and private stock offerings through the repurchase of common stock we believe is undervalued.  
+  Our summarized cash flow information is as follows (in thousands): 
+
+22 
+
+     Table of Contents                  
+
+Net cash provided by operating activities was   $44.3 million   in the   six   months ended   September 30, 2016   and   $31.5 million   in the   six   months ended   September 30, 2015  . In the   six   months ended   September 30, 2016  , cash provided by operating activities was primarily due to net loss adjusted for the impact of non-cash charges, a decrease in accounts receivable due to timing of cash receipts and an increase in deferred revenue.  In the   six   months ended   September 30, 2015  , cash provided by operating activities was primarily due to net loss adjusted for the impact of non-cash charges, and decreases in accounts receivable due to timing of cash receipts, partially offset by a reduction of accrued expenses. 
+  Net cash used in investing activities was   $20.8 million   for the   six   months ended   September 30, 2016   and   $28.1 million   in the   six   months ended   September 30, 2015  . In the   six   months ended   September 30, 2016  , cash used in investing activities was related to $18.8 million in net purchases of U.S. Treasury Bills and $2.1 million of capital expenditures. In the   six   months ended   September 30, 2015  , cash used in investing activities was due to $22.9 million in net purchases of U.S. Treasury Bills, $3.1 million of regular capital expenditures, and $2.1 million of spending on the Company s corporate campus headquarters.  
+  Net cash provided by (used in) financing activities was   $12.7 million   in the   six   months ended   September 30, 2016   and   $(11.1) million   in the   six   months ended   September 30, 2015  . The cash provided by financing activities in the   six   months ended   September 30, 2016   was due to   $11.5 million   of proceeds from the exercise of stock options and purchases under the employee stock purchase plan and   $1.2 million   of excess tax benefits recognized as a result of the stock option exercises and restricted stock vesting. The cash used in financing activities in the six months ended September 30, 2015 was due to $25.0 million of common stock repurchases partially offset by $8.0 million of proceeds from the exercise of stock options and the employee stock purchase plan and $5.9 million of excess tax benefits recognized as a result of the stock option exercises and restricted stock vesting.  
+  Working capital   increased     $48.7 million   from   $252.4 million   as of   March 31, 2016   to   $301.1 million   as of   September 30, 2016  .  The net increase in working capital is due primarily to a net increase in cash and short-term investments as a result of cash flow generated from operations. We believe that our existing cash, cash equivalents and our cash from operations will be sufficient to meet our anticipated cash needs for working capital, capital expenditures and potential stock repurchases for at least the next twelve months. We may seek additional funding through public or private financings or other arrangements during this period. Adequate funds may not be available when needed or may not be available on terms favorable to us, or at all. If additional funds are raised by issuing equity securities, dilution to existing stockholders will result. If we raise additional funds by obtaining loans from third parties, including borrowing under our revolving credit facility, the terms of those financing arrangements may include negative covenants or other restrictions on our business that could impair our operational flexibility, and would also require us to fund additional interest expense. If funding is insufficient at any time in the future, we may be unable to develop or enhance our products or services, take advantage of business opportunities or respond to competitive pressures, any of which could have a material adverse effect on our business, financial condition and results of operations. 
+   
+  Off-Balance Sheet Arrangements 
+  As of   September 30, 2016  , other than our operating leases, we do not have off-balance sheet financing arrangements, including any relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities.  
+   
+  Indemnifications 
+  Certain of our software licensing agreements contain certain provisions that indemnify our customers from any claim, suit or proceeding arising from alleged or actual intellectual property infringement. These provisions continue in perpetuity along with our software licensing agreements. We have never incurred a liability relating to one of these indemnification provisions in the past and we believe that the likelihood of any future payout relating to these provisions is remote. Therefore, we have not recorded a liability during any period related to these indemnification provisions. 
+  
+   23 
+
+Table of Contents                  
+
+Impact of Recently Issued Accounting Standards 
+  Revenue Recognition   
+  In May 2014, the FASB issued ASU No. 2014-09, "Revenue from Contracts with Customers (Topic 606)" (ASU 2014-09) and has since modified the standard with ASU 2015-14, "Deferral of the Effective Date." These standards replace existing revenue recognition rules with a comprehensive revenue measurement and recognition standard and expanded disclosure requirements. The new standard becomes effective for our fiscal 2019 with early adoption permitted in fiscal 2018.  We are still in the process of determining the impact of the standard on our financial statements and the timing of our adoption. The FASB allows two adoption methods under the new standard. Under one method, a company will apply the rules to contracts in all reporting periods presented.  We currently believe we will apply this method of adoption. While we continue to evaluate the impact of the new standard, we believe the standard may require us to implement new revenue recognition processes, which will change our internal controls over revenue recognition.  
+  Leases 
+  In February 2016, the FASB issued ASU 2016-02  Leases (Topic 842)  ( ASU 2016-02 ). Under ASU 2016-02, a lessee will recognize in the balance sheet a liability to make lease payments (the lease liability) and a right-to-use asset representing its right to use the underlying asset for the lease term. The amendments of this ASU are effective for our fiscal 2020, with early adoption permitted. An entity will be required to recognize and measure leases at the beginning of the earliest period presented using a modified retrospective approach. We are currently assessing the impact the adoption of ASU 2016-02 will have on our financial statements. 
+  Stock-based Compensation  
+  In March 2016, the FASB issued ASU 2016-09, "Improvements to Employee Share-Based Payment Accounting," which simplifies several aspects of the accounting for employee share-based payment transactions, including the accounting for income taxes, forfeitures, and statutory tax withholding requirements, as well as classification in the statement of cash flows.  The Company is required to adopt the new guidance in fiscal 2018 with early adoption permitted. We are currently assessing the impact the adoption of ASU 2016-09 will have on the financial statements. 
+   
+  Item 3 - Quantitative and Qualitative Disclosures about Market Risk 
+  Interest Rate Risk 
+  As of   September 30, 2016  , our cash and cash equivalents and short-term investments consisted primarily of money market funds and U.S. Treasury Bills. Due to the short-term nature of these investments, we are not subject to any material interest rate risk on these balances. 
+  Foreign Currency Risk 
+  Economic Exposure 
+  As a global company, we face exposure to adverse movements in foreign currency exchange rates. Our international sales are generally denominated in foreign currencies and this revenue could be materially affected by currency fluctuations. Approximately   42%   of our sales were outside the United States for the   six   months ended   September 30, 2016  . Our primary exposures are to fluctuations in exchange rates for the U.S. dollar versus the Euro, and to a lesser extent, the Australian dollar, British pound sterling, Canadian dollar, Chinese yuan, Indian rupee, Korean won and Singapore dollar. Changes in currency exchange rates could adversely affect our reported revenues and require us to reduce our prices to remain competitive in foreign markets, which could also have a material adverse effect on our results of operations. Historically, we have periodically reviewed and revised the pricing of our products available to our customers in foreign countries and we have not maintained excess cash balances in foreign accounts. 
+  
+   24 
+
+     Table of Contents                  
+
+Transaction Exposure 
+  Our exposure to foreign currency transaction gains and losses is primarily the result of certain net receivables due from our foreign subsidiaries and customers being denominated in currencies other than the functional currency of the subsidiary. Our foreign subsidiaries conduct their businesses in local currency and we generally do not maintain excess U.S. dollar cash balances in foreign accounts. 
+  Foreign currency transaction gains and losses are recorded in  General and administrative expenses  in the Consolidated Statements of Loss. We recognized a net foreign currency transaction gain of   $0.1   million and   $0.4   million in the   three and six   months ended   September 30, 2016  . We recognized net foreign currency transaction gains of $0.3 million and $0.2 million in the   three and six   months ended   September 30, 2015  . The net foreign currency transaction gains and losses recorded in  General and administrative  expenses include settlement gains and losses on forward contracts disclosed below. 
+  To date, we have selectively hedged our exposure to foreign currency transaction gains and losses on the balance sheet through the use of forward contracts, which were not designated as hedging instruments. The duration of forward contracts utilized for hedging our balance sheet exposure is generally one to three months.  Gains and losses from these contracts are recorded in general and administrative expenses. As of   September 30, 2016   and   March 31, 2016  , we did not have any forward contracts outstanding. We recorded net realized gains and losses of less than $0.1 million related to the settlement of forward exchange contracts in the   three and six   months ended   September 30, 2016   and 2015. In the future, we may enter into additional foreign currency based hedging contracts to reduce our exposure to significant fluctuations in currency exchange rates on the balance sheet. 
+   
+  Item 4 - Controls and Procedures 
+  Evaluation of Disclosure Controls and Procedures 
+  Our management, with the participation of the Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of the our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as of   September 30, 2016  . Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of   September 30, 2016  . 
+  Changes in Internal Control over Financial Reporting 
+  There was no change in our internal control over financial reporting that occurred during the   second   quarter of fiscal   2017   that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+  Inherent Limitations on Internal Controls 
+  Our management, including our Chief Executive Officer and Chief Financial Officer, do not expect that our disclosures controls and procedures or our internal controls over financial reporting will prevent or detect all error and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the controls. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because of inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+  
+   25 
+
+Table of Contents                  
+
+PART II. OTHER INFORMATION 
+   
+  Item 1. Legal Proceedings 
+  From time to time, we are subject to claims in legal proceedings arising in the normal course of our business. Except as discussed below, we do not believe that we are currently party to any pending legal action that could reasonably be expected to have a material adverse effect on our business or operating results. 
+  On September 10, 2014, a purported class action complaint was filed in the United States District Court for the District of New Jersey against the Company, our Chief Executive Officer and our Chief Financial Officer. The case is captioned In re Commvault Systems, Inc. Securities Litigation (Master File No. 3:14-cv-05628-MAS-LHG). The suit alleges that we made materially false and misleading statements, or failed to disclose material facts, regarding our financial results, business, operations and prospects in violation of Sections 10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder. The suit asserts claims covering an alleged class period from May 7, 2013 through April 24, 2014. It is purportedly brought on behalf of purchasers of our common stock during that period, and seeks compensatory damages, costs and expenses, as well as equitable or other relief. Lead plaintiff, the Arkansas Teachers Retirement System, was appointed on January 12, 2015, and on March 18, 2015, an amended complaint was filed by the plaintiffs. On December 17, 2015, the defendant's motion to dismiss the case was granted and the case dismissed; however, the plaintiffs were permitted to re-file their claim, which they did on February 5, 2016.  Defendants filed another motion to dismiss on April 5, 2016, which was denied by the court on September 30, 2016. Due to the inherent uncertainties of litigation, we cannot accurately predict the ultimate outcome of this matter. We are unable at this time to determine whether the outcome of the litigation will have a material impact on our results of operations, financial condition or cash flows. 
+   
+  Item 1A. Risk Factors 
+  In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part I,  Item 1A. Risk Factors  in our Annual Report on Form 10-K for the year ended   March 31, 2016  , which could materially affect our business, financial condition or future results. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and/or operating results. If any of the risks actually occur, our business, financial conditions or results of operations could be negatively affected. In that case, the trading price of our stock could decline, and our stockholders may lose part or all of their investment. 
+   
+  Item 2. Unregistered Sale of Equity Securities and Use of Proceeds 
+  Purchases of Equity Securities by the Issuer 
+       
+  There were no purchases of our common stock during the three months ended   September 30, 2016  . 
+
+Item 3. Defaults upon Senior Securities 
+  None 
+   
+  Item 4. Mine Safety Disclosures 
+  Not Applicable 
+   
+  Item 5. Other Information 
+  None 
+   
+  Item 6. Exhibits 
+  A list of exhibits filed herewith is included on the Exhibit Index, which immediately precedes such exhibits and is incorporated herein by reference. 
+  
+   26 
+
+Table of Contents                  
+
+Signatures 
+  Pursuant to the requirements of the Securities Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+Commvault Systems, Inc. 
+
+Dated:  
+    October 27, 2016 
+      
+    By: 
+    /s/ N. Robert Hammer 
+
+N. Robert Hammer 
+
+Chairman, President and Chief Executive Officer 
+
+Dated:  
+    October 27, 2016 
+      
+    By: 
+    /s/ Brian Carolan 
+
+Brian Carolan 
+
+Vice President and Chief Financial Officer 
+
+27 
+
+Table of Contents                  
+
+EXHIBIT INDEX 
+                 Exhibit 
+  No. 
+    Description 
+      31.1 
+    Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+      31.2 
+    Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+      32.1 
+    Certification of Chief Executive Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+      32.2 
+    Certification of Chief Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+      101.INS 
+    XBRL Instance Document 
+      101.SCH 
+    XBRL Taxonomy Extension Schema Document 
+      101.CAL 
+    XBRL Taxonomy Extension Calculation Linkbase Document 
+      101.DEF 
+    XBRL Taxonomy Extension Definition Linkbase Document 
+      101.LAB 
+    XBRL Taxonomy Extension Label Linkbase Document 
+      101.PRE 
+    XBRL Taxonomy Extension Presentation Linkbase Document 
+
+28 
+
+<EX-31.1>
+ 2
+ a20160930ex311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  Certification of Chief Executive Officer 
+  Required by Rule 13a-14(a) (17 CFR 240.13a-14(a)) 
+  I, N. Robert Hammer, certify that: 
+           1. 
+    I have reviewed this Quarterly Report on Form 10-Q of Commvault Systems, Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+        
+           (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing equivalent functions): 
+       
+           (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+                  /s/ N. ROBERT HAMMER 
+      N. Robert Hammer 
+      Chairman, President and Chief Executive Officer 
+
+Date:   October 27, 2016    
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a20160930ex312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  Certification of Chief Financial Officer 
+  Required by Rule 13a-14(a) (17 CFR 240.13a-14(a)) 
+  I, Brian Carolan, certify that: 
+           1. 
+    I have reviewed this Quarterly Report on Form 10-Q of Commvault Systems, Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+        
+           (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+       
+           5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing equivalent functions): 
+       
+           (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+                  /s/ BRIAN CAROLAN 
+      Brian Carolan 
+      Vice President and Chief Financial Officer 
+
+Date:   October 27, 2016    
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ a20160930ex321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+  Certification Pursuant To 
+  18 U.S.C. Section 1350 
+  As Adopted Pursuant To 
+  Section 906 of the Sarbanes-Oxley Act of 2002 
+  In connection with the Quarterly Report of Commvault Systems, Inc. (the  Company ) on Form 10-Q for the period ended   September 30, 2016   as filed with the Securities and Exchange Commission (the  Report ), I, N. Robert Hammer, Chairman, President and Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that: 
+    
+           (1) 
+    The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+                  /s/ N. ROBERT HAMMER 
+      N. Robert Hammer 
+      Chairman, President and Chief Executive Officer 
+
+October 27, 2016    
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ a20160930ex322.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+  Certification Pursuant To 
+  18 U.S.C. Section 1350 
+  As Adopted Pursuant To 
+  Section 906 of the Sarbanes-Oxley Act of 2002 
+  In connection with the Quarterly Report of Commvault Systems, Inc. (the  Company ) on Form 10-Q for the period ended   September 30, 2016   as filed with the Securities and Exchange Commission (the  Report ), I, Brian Carolan, Vice President and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that: 
+    
+           (1) 
+    The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+                  /s/ BRIAN CAROLAN 
+      Brian Carolan 
+      Vice President and Chief Financial Officer 
+
+October 27, 2016    
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ cvlt-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ cvlt-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ cvlt-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ cvlt-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ cvlt-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ cvlt-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

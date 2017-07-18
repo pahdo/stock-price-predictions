@@ -1,0 +1,2371 @@
+<Header>
+<FileStats>
+    <FileName>20161125_10-Q_edgar_data_1604191_0001654954-16-004305_1.txt</FileName>
+    <GrossFileSize>3399779</GrossFileSize>
+    <NetFileSize>84373</NetFileSize>
+    <ASCII_Embedded_Chars>223347</ASCII_Embedded_Chars>
+    <HTML_Chars>1007459</HTML_Chars>
+    <XBRL_Chars>1169230</XBRL_Chars>
+    <XML_Chars>842905</XML_Chars>
+    <N_Tables>20</N_Tables>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001654954-16-004305.hdr.sgml : 20161124
+<ACCEPTANCE-DATETIME>20161123183210
+ACCESSION NUMBER:		0001654954-16-004305
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		75
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161125
+DATE AS OF CHANGE:		20161123
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AzurRx BioPharma, Inc.
+		CENTRAL INDEX KEY:			0001604191
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37853
+		FILM NUMBER:		162017524
+
+	BUSINESS ADDRESS:	
+		STREET 1:		760 PARKSIDE AVENUE
+		STREET 2:		SUITE 217
+		CITY:			BROOKLYN
+		STATE:			NY
+		ZIP:			11226
+		BUSINESS PHONE:		646-699-7855
+
+	MAIL ADDRESS:	
+		STREET 1:		760 PARKSIDE AVENUE
+		STREET 2:		SUITE 217
+		CITY:			BROOKLYN
+		STATE:			NY
+		ZIP:			11226
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BioPharma d'Azur, Inc.
+		DATE OF NAME CHANGE:	20140331
+
+</SEC-Header>
+</Header>
+
+ 0001654954-16-004305.txt : 20161125
+
+10-Q
+ 1
+ azrx10q_sept302016.htm
+ FORM 10-Q
+
+SEC Connect 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 10-Q 
+
+(Mark One) 
+
+For the quarterly period ended September 30, 2016 
+
+OR 
+
+From the transition period
+from               to                
+
+Commission File Number 001-37853 
+
+AZURRX BIOPHARMA,
+INC.  
+
+(Exact name of small business issuer as specified in its
+charter) 
+
+Delaware  
+
+46-4993860 
+
+(State or other jurisdiction of incorporation or
+organization) 
+
+(IRS Employer Identification No.) 
+
+760 Parkside Avenue 
+
+Downstate Biotechnology Incubator, Suite 217 
+
+Brooklyn, New York 11226 
+
+(Address of principal executive offices) 
+
+(646) 699-7855 
+
+(Issuer s telephone number) 
+
+Indicate by check mark whether the registrant (1) has filed
+all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.  
+
+Yes [ ]    No [X] 
+
+Indicate by check mark whether the registrant has submitted
+electronically and posted on its corporate web site, if any, every
+Interactive Data File required to be submitted and posted pursuant
+to Rule 405 of Regulation S-T (Sec.232.405 of this chapter) during
+the preceding 12 months (or for such shorter period that the
+registrant was required to submit and post such files).  Yes
+[X]    No [   ] 
+
+Indicate by check mark whether the registrant is a large
+accelerated filer, an accelerated filer, a non-accelerated filer,
+or a smaller reporting company. See definitions of  large
+accelerated filer ,  accelerated filer  and
+ smaller reporting company  in Rule 12b-2 of the
+Exchange Act: 
+
+Large accelerated filer 
+
+[   ] 
+
+Accelerated filer 
+
+[   ] 
+
+Non-accelerated filer 
+
+[   ]  (Do not check if a smaller reporting
+company) 
+
+Smaller reporting company 
+
+[X] 
+
+Indicate by check mark whether the registrant is a shell company
+(as defined in Rule 12b-2 of the Exchange
+Act).  
+
+Yes [   ]    No [X] 
+
+As of November 22, 2016, there were 9,631,088 shares of the
+registrant s common stock, $0.0001 par value, issued and
+outstanding. 
+
+T ABLE OF CONTENTS 
+
+Page 
+
+PART I.       FINANCIAL
+INFORMATION  
+
+Item 1.  
+
+Consolidated Financial Statements  
+
+1 
+
+Item 2.  
+
+Management s Discussion and Analysis of Financial Condition
+and Results of Operations  
+
+25 
+
+Item 3.  
+
+Quantitative and Qualitative Disclosures About Market
+Risk  
+
+25  
+
+Item 4.  
+
+Controls and Procedures  
+
+25  
+
+PART II.       
+OTHER INFORMATION  
+
+25  
+
+Item 1.  
+
+Legal Proceedings  
+
+25  
+
+Item 1A.  
+
+Risk Factors  
+
+25  
+
+Item 2.  
+
+Unregistered Sales of Equity Securities and Use of
+Proceeds  
+
+25  
+
+Item 3.  
+
+Defaults Upon Senior Securities  
+
+26  
+
+Item 4.  
+
+Mine Safety Disclosures  
+
+26  
+
+Item 5.  
+
+Other Information  
+
+26  
+
+Item 6.  
+
+Exhibits  
+
+26  
+
+-i- 
+
+Table of Contents  
+
+PART I. FINANCIAL INFORMATION 
+
+Item  1.        F inancial Statements  
+
+In our opinion, the accompanying unaudited consolidated financial
+statements contain all adjustments (consisting only of normal
+recurring adjustments) necessary to present fairly our financial
+position, results of operations and cash flows for the interim
+periods presented. We have condensed such financial statements in
+accordance with the rules and regulations of the Securities and
+Exchange Commission ( SEC ). Therefore, such financial
+statements do not include all disclosures required by accounting
+principles generally accepted in the United States of America. In
+preparing these consolidated financial statements, the Company has
+evaluated events and transactions for potential recognition or
+disclosure through the date the consolidated financial statements
+were issued by filing with the SEC. 
+
+The results of operations for the nine months ended September 30,
+2016 are not necessarily indicative of the results to be expected
+for the entire fiscal year. 
+
+-1- 
+
+Table of Contents  
+
+See
+accompanying notes to consolidated financial
+statements 
+
+-2- 
+
+Table of Contents  
+
+See
+accompanying notes to consolidated financial
+statements 
+
+-3- 
+
+Table of Contents  
+
+AZURRX BIOPHARMA, INC. 
+
+Consolidated Statements of Changes in Stockholders' Equity
+(Deficit) (unaudited) 
+
+See
+accompanying notes to consolidated financial
+statements 
+
+-4- 
+
+Table of Contents  
+
+AZURRX BIOPHARMA, INC. 
+
+Consolidated Statements of Cash Flows (unaudited) 
+
+See
+accompanying notes to consolidated financial
+statements 
+
+-5- 
+
+Table of Contents  
+
+AzurRx
+BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements   
+
+N ote 1 - The Company and Basis of
+Presentation 
+
+The Company 
+
+AzurRx
+BioPharma, Inc. ( AzurRx  or  Parent ) was
+incorporated on January 30, 2014 in the State of Delaware. In June
+2014, AzurRx acquired 100% of the issued and outstanding capital
+stock of AzurRx BioPharma SAS (formerly ProteaBio Europe SAS), a
+company incorporated in October 2008 under the laws of France that
+had been a wholly-owned subsidiary of Protea Biosciences, Inc., or
+Protea Sub, in turn a wholly-owned subsidiary of Protea Biosciences
+Group, Inc., a publicly-traded company. AzurRx and its wholly-owned
+subsidiary, AzurRx Europe SAS, are collectively referred to as the
+ Company.  
+
+AzurRx,
+through its AzurRx Europe SAS subsidiary, is engaged in the
+research and development of non-systemic biologics for the
+treatment of patients with gastrointestinal disorders. Non-systemic
+biologics are non-absorbable drugs that act locally without
+reaching the systemic circulation, i.e. the intestinal lumen, skin
+or mucosa. The Company s current product pipeline consists of
+two therapeutic proteins under development: 
+
+MS1819
+- a recombinant (synthetic) lipase, an enzyme derived from a
+specialized yeast, which breaks apart fats. Lipases are required to
+treat patients whose pancreases do not work anymore in a condition
+known as exocrine pancreatic insufficiency (EPI) which usually
+arises from chronic pancreatitis (CP) or cystic fibrosis
+(CF). 
+
+AZ1101-
+a recombinant (synthetic) enzyme which is being developed to
+prevent hospital-acquired infections which come from resistant
+bacterial strains caused by parenteral (intra-venous)
+administration of b-lactam antibiotics, as well as prevention of
+antibiotic-associated diarrhea (AAD). 
+
+Initial
+Public Offering 
+
+On  October
+14, 2016, the Company completed an initial public offering
+( IPO ) of 960,000 shares of common stock at a price of
+$5.50 per share and received gross proceeds of $5,280,000. The
+Company incurred total expenses of approximately $1,774,000 in
+connection with the IPO, resulting in net offering proceeds of
+$3,506,000. Concurrent with the IPO, (i) the Company issued
+2,642,160 shares of common stock upon the mandatory conversion of
+the convertible debt that results in interest expense of
+approximately $254,000 from accelerated accretion, a beneficial
+conversion feature charge resulting in interest expense of
+approximately $6,423,000 and the elimination of the convertible
+debt and warrant liability, (ii) the Company issued 717,540
+warrants with a five-year life to certain OID noteholders in
+exchange for their agreement not to sell their shares for 6 months
+following the IPO with an exercise price equal to the IPO price
+with an estimated value of approximately $3,028,000 that will be
+charged to interest expense, and (iii) the grant of 48,000 warrants
+with a five-year life to the underwriters at 120% of the IPO price
+with an estimated value of approximately $197,000 that has no
+effect on expenses or stockholders  equity. On November 18,
+2016, the Company retired $362,786 of OID convertible debt and
+accreted interest not mandatorily converted at the time of the IPO
+that decreases cash and current liabilities by
+$362,786 .  
+
+Basis
+of Presentation and Principles of Consolidation 
+
+The
+accompanying unaudited interim consolidated financial statements
+have been prepared in accordance with accounting principles
+generally accepted in the United States of America ( U.S.
+GAAP ). In our opinion, the accompanying unaudited interim
+consolidated financial statements include all adjustments,
+consisting of normal recurring adjustments, which are necessary to
+present fairly our financial position, results of operations, and
+cash flows. The consolidated balance sheet at December 31, 2015 has
+been derived from audited financial statements of that date. The
+unaudited interim consolidated results of operations are not
+necessarily indicative of the results that may occur for the full
+fiscal year. Certain information and footnote disclosure normally
+included in financial statements prepared in accordance with U.S.
+GAAP have been omitted pursuant to instructions, rules, and
+regulations prescribed by the SEC. We believe that the disclosures
+provided herein are adequate to make the information presented not
+misleading when these unaudited interim consolidated financial
+statements are read in conjunction with the audited financial
+statements and notes previously dislosed in our Registration
+Statement on Form S-1 filed in connection with the
+IPO. 
+
+The
+financial statements include the accounts of AzurRx and its
+wholly-owned subsidiary, AzurRx Europe SAS. Intercompany
+transactions and balances have been eliminated upon
+consolidation. 
+
+-6- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+Note 2 - Significant Accounting Policies 
+
+Use of Estimates 
+
+The
+accompanying consolidated financial statements are prepared in
+conformity with U.S. GAAP, and include certain estimates and
+assumptions which affect the reported amounts of assets and
+liabilities at the date of the financial statements (including
+goodwill, intangible assets and contingent consideration), and the
+reported amounts of revenues and expenses during the reporting
+period, including contingencies. Accordingly, actual results may
+differ from those estimates. 
+
+Concentration of Risks 
+
+Financial
+instruments that potentially expose the Company to concentrations
+of credit risk consist primarily of cash and available for sale
+marketable securities. The Company primarily maintains its cash
+balances with financial institutions in federally-insured accounts.
+The Company may from time to time have cash in banks in excess of
+FDIC insurance limits. The Company has not experienced any losses
+to date resulting from this practice. 
+
+At
+December 31, 2015, the Company s investments in marketable
+securities were comprised of a single investment in a publicly
+traded stock received as payment from an investor for his $150,000
+investment in the Company's original issue discounted convertible
+notes. The investor agreed to make up any shortfall from sales of
+these securities while any gain is for the account of the Company.
+As of December 31, 2015, the market value of these marketable
+securities was $56,850 and an associated Other Receivable of
+$93,150 was recorded. On July 28, 2016, the investor paid $150,000
+in cash and the securities were returned to the
+investor. 
+
+Prepaid Expenses 
+
+All
+direct costs of the proposed IPO offering are being capitalized and
+included in Prepaid Expenses at September 30, 2016 and December 31,
+2015 in the amount of $982,377 and $345,968, respectively, which
+were offset against additional paid-in capital upon the closing of
+the IPO on October 14, 2016. 
+
+Property, Equipment, and Leasehold Improvements 
+
+Property,
+equipment and leasehold improvements are carried on the cost basis
+and depreciated over the estimated useful lives of the related
+assets using the straight-line method. For financial statement
+purposes, depreciation expense is provided using the straight-line
+method over the estimated useful lives of the assets as
+follows: 
+
+Laboratory
+Equipment         5
+years 
+
+Computer
+Equipment           5
+years 
+
+Office
+Equipment           
+     7-8 years 
+
+Leasehold
+Improvements     Term of lease or estimated useful
+life of the assets; whichever is shorter 
+
+Expenditures for
+maintenance and repairs are charged to operations as incurred while
+renewals and betterments are capitalized. 
+
+-7- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+Goodwill and Intangible Assets 
+
+Goodwill represents
+the excess of the purchase price of the acquired business over the
+fair value of amounts assigned to assets acquired and liabilities
+assumed. Goodwill and other intangible assets with indefinite
+useful lives are reviewed for impairment annually or more
+frequently if events or circumstances indicate impairment may be
+present. Any excess in carrying value over the estimated fair value
+is charged to results of operations. The Company has not recognized
+any impairment charges through September 30, 2016. 
+
+Intangible
+assets subject to amortization consist of in process research and
+development and license agreements reported at the fair value at
+date of the acquisition less accumulated amortization. Amortization
+expense is provided using the straight-line method over the
+estimated useful lives of the assets as follows: 
+
+In
+Process Research   Development  12 years 
+
+License
+Agreements            
+       
+         5
+years 
+
+Research and Development 
+
+Research and
+development ("R D") costs are charged to operations when
+incurred and are included in operating expenses. Research and
+development costs consist principally of compensation of employees
+and consultants that perform the Company s research
+activities, the fees paid to maintain the Company s licenses,
+and the payments to third parties for clinical trials and
+additional product development and testing. 
+
+Fair Value Measurements 
+
+The
+Company follows Accounting Standards Codification
+( ASC ) Topic 820-10, Fair Value Measurements and
+Disclosures ( ASC 820 ), which among other things,
+defines fair value, establishes a consistent framework for
+measuring fair value and expands disclosure for each major asset
+and liability category measured at fair value on either a recurring
+or nonrecurring basis. Fair value is an exit price, representing
+the amount that would be received to sell an asset or paid to
+transfer a liability in an orderly transaction between market
+participants. As such, fair value is a market-based measurement
+that should be determined based on assumptions that market
+participants would use in pricing an asset or
+liability. 
+
+As a
+basis for considering such assumptions, a three-tier fair value
+hierarchy has been established, which prioritizes the inputs used
+in measuring fair value as follows: 
+
+Level
+1: Observable inputs such as quoted prices (unadjusted) in active
+markets for identical assets or liabilities; 
+
+Level
+2: Inputs, other than the quoted prices in active markets, that are
+observable either directly or indirectly; and 
+
+Level
+3: Unobservable inputs in which there is little or no market data,
+which require the reporting entity to develop its own assumptions,
+which reflect those that a market participant would
+use. 
+
+At
+December 31, 2015, the Company had Level 2 instruments consisting
+of marketable securities of common stock in a thinly-traded public
+company received as payment from an investor for $150,000 of the
+Company s original issue discounted convertible notes, see
+Note 3 below. 
+
+At
+September 30, 2016 and December 31, 2015, the Company had Level 3
+instruments consisting of the Company s common stock warrant
+liability related to the Company s convertible debt (see Note
+10) and contingent consideration in connection with the Protea
+Europe SAS acquisition (see Note 7). 
+
+The
+carrying amounts of the Company s financial instruments,
+including accounts payable and accrued liabilities approximate fair
+value due to their short maturities. 
+
+-8- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+The
+following tables summarize the Company s financial
+instruments measured at fair value on a recurring
+basis: 
+
+The
+following table provides a reconciliation of the fair value of
+liabilities using Level 3 significant unobservable
+inputs: 
+
+The
+warrant liability above relates to the Company s original
+issue discounted convertible notes, see Note 10 below. 
+
+The
+fair values of the outstanding warrants were measured using a
+Binomial Option Pricing model. Inputs used to determine estimated
+fair value of the warrant liabilities at September 30, 2016 and
+December 31, 2015 include the estimated fair value of the
+underlying stock at the valuation date ($5.13 and $2.16,
+respectively), the estimated term in years of the warrants (4.59
+and 4.90, respectively), risk-free interest rates (1.09% and 1.72%,
+respectively), expected dividends (zero) and the expected
+volatility (83% and 98%, respectively) of the underlying stock. The
+significant unobservable inputs used in the fair value measurement
+of the warrant liabilities are the fair value of the underlying
+stock at the valuation date and the estimated term of the warrants.
+Generally, increases (decreases) in the fair value of the
+underlying stock and estimated term would result in a directionally
+similar impact to the fair value measurement. 
+
+The contingent
+consideration was valued by incorporating a series of Black-Scholes
+Option Pricing Models ( BSM ) into a discounted cash
+flow framework. Significant unobservable inputs used in this
+calculation at September 30, 2016 and December 31, 2015 included
+projected net sales over a 9-year period discounted by the
+Company s weighted average cost of capital (30.0% and 33.7%,
+respectively), the contractual hurdle amount of $100 million that
+replaces the strike price input in the traditional BSM, asset
+volatility (68% and 90%, respectively), that replaces the equity
+volatility in the traditional BSM, risk-free rates (ranging from
+0.9% to 1.6% and 1.5% to 2.7%, respectively), and an
+option-adjusted spread (0.9% and 0.5%, respectively) that is
+applied to these payments to account for the payer s risk and
+arrive at a fair value of the expected payment.  
+
+-9- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+The
+fair value of the Company's other receivables, convertible debt,
+and loans payable are as follows: 
+
+The
+fair value of Other Receivables approximates carrying value as
+these consist primarily of French research and development
+(R D) tax credits that are normally received within 9 months of
+year end and amounts due from collaboration partner Mayoly, see
+Note 14. 
+
+The
+fair value of Convertible Debt and Loans Payable approximates
+carrying value due to the terms of such instruments and applicable
+interest rates. 
+
+Stock-based Compensation 
+
+The
+Company s board of directors and stockholders have adopted
+and approved the Amended and Restated 2014 Omnibus Equity Incentive
+Plan which took effect on May 12, 2014. Although the Company did
+not grant any stock options under the Plan during the three and
+nine months ended September 30, 2016 and 2015, the Company will
+account for its stock-based compensation awards to employees and
+directors in accordance with ASC Topic 718,
+Compensation Stock Compensation ("ASC 718"). ASC 718 requires
+all stock-based payments to employees, including grants of employee
+stock options, to be recognized in the statements of operations
+based on their grant date fair values. For stock options granted to
+employees and to members of the board of directors for their
+services on the board of directors, the Company estimates the grant
+date fair value of each option award using the Black-Scholes
+option-pricing model. The use of the Black-Scholes option-pricing
+model requires management to make assumptions with respect to the
+expected term of the option, the expected volatility of the common
+stock consistent with the expected life of the option, risk-free
+interest rates and expected dividend yields of the common stock.
+For awards subject to service-based vesting conditions, the Company
+recognizes stock-based compensation expense, net of estimated
+forfeitures, equal to the grant date fair value of stock options on
+a straight-line basis over the requisite service period. The
+Company will account for any stock-based payments to non-employees
+in accordance with ASC Topic 505-50, Equity-Based Payments to
+Non-Employees ("ASC 505-50"). 
+
+Income Taxes 
+
+Income
+taxes are recorded in accordance with ASC 740, Accounting for
+Income Taxes ("ASC 740"), which provides for deferred taxes using
+an asset and liability approach. The Company recognizes deferred
+tax assets and liabilities for the expected future tax consequences
+of events that have been included in the financial statements or
+tax returns. The Company determines its deferred tax assets and
+liabilities based on differences between financial reporting and
+tax bases of assets and liabilities, which are measured using the
+enacted tax rates and laws that will be in effect when the
+differences are expected to reverse. Valuation allowances are
+provided if, based upon the weight of available evidence, it is
+more likely than not that some or all of the deferred tax assets
+will not be realized. 
+
+-10- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+The
+Company accounts for uncertain tax positions in accordance with the
+provisions of ASC 740. When uncertain tax positions exist, the
+Company recognizes the tax benefit of tax positions to the extent
+that the benefit will more likely than not be realized. The
+determination as to whether the tax benefit will more likely than
+not be realized is based upon the technical merits of the tax
+position as well as consideration of the available facts and
+circumstances. As of September 30, 2016 and December 31, 2015, the
+Company does not have any significant uncertain tax positions. All
+tax years are still open for audit. 
+
+Impairment of Long-lived Assets 
+
+The
+Company periodically evaluates its long-lived assets for potential
+impairment in accordance with ASC Topic 360, Property, Plant and
+Equipment ( ASC 360 ). Potential impairment is assessed
+when there is evidence that events or changes in circumstances
+indicate that the carrying amount of an asset may not be recovered.
+Recoverability of these assets is assessed based on undiscounted
+expected future cash flows from the assets, considering a number of
+factors, including past operating results, budgets and economic
+projections, market trends and product development cycles. If
+impairments are identified, assets are written down to their
+estimated fair value. The Company has not recognized any impairment
+charges through September 30, 2016. 
+
+Foreign Currency Translation 
+
+For
+foreign subsidiaries with operations denominated in a foreign
+currency, assets and liabilities are translated to U.S. dollars,
+which is the functional currency, at year-end exchange rates.
+Income and expense items are translated at average rates of
+exchange prevailing during the year. Gains and losses from
+translation adjustments are accumulated in a separate component of
+shareholders  deficit. 
+
+Collaboration Agreements 
+
+As more
+fully discussed in Note 14, the Company has joint research
+collaboration agreements with Laboratoires Mayoly Spindler SAS and
+INRA TRANSFERT. Any payments due from the Company's collaboration
+partners is recorded as a reduction in research and development
+expenses. 
+
+Subsequent Events 
+
+The
+Company considered events or transactions occurring after the
+balance sheet date but prior to the date the consolidated financial
+statements are available to be issued for potential recognition or
+disclosure in its consolidated financial statements. 
+
+Recent Accounting Pronouncements 
+
+In
+March 2016, the Financial Accounting Standards Board
+( FASB ) issued an Accounting Standards Update
+( ASU ) which simplifies several aspects of the
+accounting for share based payments, including the income tax
+consequences and classification on the statement of cash flows.
+Under the new standard, all excess tax benefits and deficiencies
+will be recognized as income tax expense or benefit in the income
+statement. Additionally, excess tax benefits will be classified as
+an operating activity on the statement of cash flows. This ASU is
+effective for annual and interim periods beginning after December
+15, 2016 and early adoption is permitted. The amendments requiring
+recognition of excess tax benefits and tax deficiencies in the
+income statement must be applied prospectively, and entities can
+elect to apply the amendments related to the presentation of excess
+tax benefits on the statement of cash flows using either a
+prospective or retrospective transition method. The Company is
+currently evaluating the standard to determine the impact of its
+adoption on our consolidated financial statements. 
+
+In
+February 2016, the FASB issued an ASU which requires lessees to
+recognize lease assets and lease liabilities arising from operating
+leases on the balance sheet. This ASU is effective for annual and
+interim reporting periods beginning after December 15, 2018 using a
+modified retrospective approach, with early adoption permitted. The
+Company is currently evaluating the standard to determine the
+impact of its adoption on our consolidated financial
+statements. 
+
+In
+November 2015, the FASB issued an ASU that requires all deferred
+tax liabilities and assets to be classified as noncurrent on the
+balance sheet. This ASU is effective for annual and interim
+reporting periods beginning after December 15, 2016, with early
+adoption permitted. In addition, this guidance can be applied
+either prospectively or retrospectively to all periods presented.
+The Company is currently evaluating the standard to determine the
+impact of its adoption on our consolidated financial
+statements. 
+
+In July
+2015, the FASB issued an ASU modifying the accounting for
+inventory. Under this ASU, the measurement principle for inventory
+will change from lower of cost or market value to lower of cost and
+net realizable value. The ASU defines net realizable value as the
+estimated selling price in the ordinary course of business, less
+reasonably predictable costs of completion, disposal, and
+transportation. The ASU is applicable to inventory that is
+accounted for under the first-in, first-out method and is effective
+for reporting periods after December 15, 2016, with early adoption
+permitted.   The
+Company is currently evaluating the standard to determine the
+impact of its adoption on our consolidated financial
+statements. 
+
+In May
+2014, the FASB issued an ASU which supersedes the most current
+revenue recognition requirements. The new revenue recognition
+standard requires entities to recognize revenue in a way that
+depicts the transfer of goods or services to customers in an amount
+that reflects the consideration which the entity expects to be
+entitled to in exchange for those goods or services. This guidance
+is effective for annual and interim reporting periods beginning
+after December 15, 2017, with early adoption permitted for annual
+periods after December 31, 2016. The Company is currently
+evaluating the standard to determine the impact of its adoption on
+our consolidated financial statements. 
+
+-11- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+Note
+3 - Marketable Securities 
+
+At
+December 31, 2015, the Company had $56,850 of common stock in a
+public company. These available for sale securities are recorded at
+fair value and were received as payment from an investor for
+$150,000 of the Company s original issue discounted
+convertible notes. The investor has agreed to make up any shortfall
+between the value of the marketable securities when converted to
+cash and the face amount of his original issue discounted
+convertible note. On July 28, 2016, the investor paid $150,000 in
+cash and the securities were returned to the investor. 
+
+Note
+4 - Other Receivables 
+
+Other
+Receivables consisted of the following: 
+
+The
+R D tax credits are refundable tax credits for research
+conducted in France. $912,818 of these refundable tax credits was
+received by the Company in the first nine months of 2016. The
+Investor subscription is related to an investor s agreement
+to make up any shortfall between the marketable securities given
+for his original issue discounted convertible debt, see Note 3. The
+make-whole provision is a deemed  put  measured at fair
+value due to its relationship in connection with the marketable
+securities. The Company follows the guidance in ASC 815-25-35-6 and
+records the change in fair values of both the marketable securities
+and the  put  in earnings. Due to the correlation of
+these instruments, the change in fair values completely offset and
+net to zero. Other is amounts due from collaboration partner
+Mayoly, see Note 14. 
+
+Note
+5 - Property, Equipment, and Leasehold Improvements 
+
+Property, equipment
+and leasehold improvements consisted of the following: 
+
+Depreciation
+expense for the three months ended September 30, 2016 and 2015 was
+$11,167 and $8,707, respectively. Depreciation expense for the nine
+months ended September 30, 2016 and 2015 was $33,097 and $28,480,
+respectively. Depreciation expense is included in General and
+Administrative ( G A ) expenses. 
+
+-12- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+Note 6 - Intangible Assets
+and Goodwill 
+
+Intangible assets
+are as follows: 
+
+Amortization
+expense for the three months ended September 30, 2016 and 2015 was
+$174,077 and $173,454, respectively. Amortization expense for the
+nine months ended September 30, 2016 and 2015 was $522,324 and
+$521,858, respectively. Amortization expense is included in G A
+expenses. 
+
+Amortization
+expense is expected to be as follows for the next 5
+years: 
+
+Goodwill
+is as follows: 
+
+Note
+7 - Contingent Consideration 
+
+On June
+13, 2014, the Company completed a stock purchase agreement (the
+ SPA ) with Protea Biosciences Group, Inc.
+( Protea Group ). Pursuant to the SPA, the Company is
+obligated to pay Protea certain contingent consideration in U.S.
+dollars upon the satisfaction of certain events, including (a) a
+one-time milestone payment of $2,000,000 due within (10) days of
+receipt of the first approval by the Food and Drug Administration
+( FDA ) of a New Drug Application ( NDA )
+or Biologic License Application ( BLA ) for a Business
+Product (as such term is defined in the SPA). (b) royalty payments
+equal to 2.5% of net sales of Business Product up to $100,000,000
+and 1.5% of net sales of Business Product in excess of $100,000,000
+and (c) ten percent (10%) of the Transaction Value (as defined in
+the SPA) received in connection with a sale or transfer of the
+pharmaceutical development business of Protea Europe.  Also
+see Note 1 for further information.  
+
+-13- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+Note 8 - Accounts Payable 
+
+Accounts payable
+and accrued expenses consisted of the following: 
+
+Note
+9 - Convertible Promissory Notes 
+
+Commencing on July
+22, 2014 and through April 3, 2015, the Company, through a series
+of transactions with various investors, raised $896,000 through the
+sale of its convertible promissory notes with various maturity
+dates that can be extended by the Company. The maturity dates
+ranged from August 31, 2014 through May 31, 2015. All maturity
+dates were extended by the Company. Through December 31, 2015, the
+Company entered into transactions in which noteholders were
+voluntarily repaid $761,000 and shares of common stock were issued
+to such noteholders in lieu of interest payments. The notes bore
+interest at 8% per annum and were convertible into common stock of
+the Company at $6.45 per share at the investors  discretion
+as long as the notes are outstanding. Notes outstanding at December
+31, 2015, of $135,000 were converted on July 22, 2016 into original
+issue discounted convertible notes, see Note 10,
+below. 
+
+On
+August 7, 2015, 5,242 shares of the Company s common stock
+were issued in payment of $33,790 of accrued interest payable on
+these notes. Interest payable at September 30, 2016 and December
+31, 2015 in connection with these notes was $7,192 and $1,186,
+respectively. 
+
+Note
+10 - Original Issue Discounted Convertible Notes 
+
+Commencing on
+October 10, 2014, the Company, through a series of transactions,
+issued original issue discounted convertible notes to several
+investors at 85% of the principal amount of the notes. The notes do
+not otherwise bear interest. The notes are voluntarily convertible
+into shares of the Company s common stock at the principal
+amount divided by the conversion price, which is the lesser of
+$6.45 per share or the per share price of the common stock
+representing the pre-money valuation immediately prior to any
+shares sold in the Company s IPO, multiplied by 80% (the
+ Convertible Shares ). 
+
+Under
+the voluntary and mandatory features, the Company did not recognize
+any amounts associated with the beneficial conversion feature at
+the dates of issuances of these notes due to the unsatisfied
+condition associated with the pre-money valuation. 
+
+Additionally,
+separate warrants to purchase shares of the Company s common
+stock equal to 50% of the number of Convertible Shares at the
+lesser of $7.37 per share or at a 20% discount to the pre-money IPO
+valuation of the Company were issued in conjunction with these
+notes. The warrants are exercisable for five years beginning six
+months after the issue date. If the pre-money IPO valuation of the
+Company is less than $43,750,000, then the number of Warrant Shares
+(herein defined as the underlying common stock shares) will be
+recalculated as follows: New Number of Warrant Shares = Existing
+Warrant Shares * [43,750,000/(IPO valuation*80%)]. 
+
+The
+notes had nine-month terms with principal and interest due starting
+July 10, 2015. The holders of the notes may demand payment in cash
+before the maturity date within thirty (30) trading days of the
+IPO. If, on the maturity date, the principal amount of any note
+remains unpaid, the Company shall pay to the note holder a one-time
+default penalty of 5% of the total amount unpaid on the maturity
+date. The Company, however, shall still be required to repay the
+note holder the principal balance and interest on the principal
+balance, which shall accrue at the default interest rate equal to
+the lesser of 18% per annum or the maximum rate permitted under
+applicable law. As of December 31, 2015, $2,105,882 in principal
+amount of these notes are in default due to being past their
+maturity dates. 
+
+-14- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+On
+March 31, 2016, the holders of all but $300,000 in principal signed
+exchange agreements nullifying the default provisions and rolling
+the principal amount into new original issue discounted convertible
+notes at 92% of the principal amount of the notes due on November
+4, 2016, modifying the conversion price to $4.65 per share, and
+modifying the exercise price of the warrants down to the lesser of
+(i) $5.58 or (ii) a 15% premium to the price per share or unit
+issued in the IPO or in connection with a public listing. The notes
+are voluntarily convertible into that number of shares of common
+stock as is equal to the aggregate principal amount of the notes
+plus any accrued but unpaid interest divided by $4.65. $2,094,000
+in gross proceeds were received in the nine months ended September
+30, 2016 in additional original issue discounted convertible notes
+under the same terms. On July 22, 2016, $135,000 of convertible
+promissory notes were converted into original issue discounted
+convertible notes under the same terms. 
+
+Under
+the mandatory conversion feature, upon the consummation of the
+Company s IPO at a pre-money valuation of at least
+$50,000,000 immediately prior to the IPO or the date the Company
+obtains a public listing (through a reverse merger, self-listing or
+other alternative means), the aggregate principal amounts of the
+notes plus any accrued but unpaid interest shall be automatically
+converted into that number of shares of common stock equal to the
+aggregate principal amount of the notes plus any accrued but unpaid
+interest multiplied by 1.25 divided by the lesser of $4.65 or the
+price per share issued in the IPO, or in the event of a public
+listing, the price per share issued by the Company in connection
+with such transaction. In the event the Company (i) pays a stock
+dividend or otherwise makes a distribution or distributions payable
+in shares of common stock on shares of common stock or any common
+stock equivalents, (ii) subdivides outstanding shares of common
+stock into a larger number of shares, (iii) combines (including by
+way of a reverse stock split) outstanding shares of common stock
+into a smaller number of shares or (iv) issues, in the event of a
+reclassification of shares of the common stock, any shares of
+capital stock of the Company, then the conversion price shall be
+adjusted by multiplying the conversion price by a fraction of which
+the numerator shall be the number of shares of common stock
+(excluding any treasury shares of the Company) outstanding
+immediately before such event, and of which the denominator shall
+be the number of shares of common stock outstanding immediately
+after such event. As long as at least 33% of the aggregate
+principal amount of the notes issued remains outstanding, the
+Company shall not, and shall not permit any of its subsidiaries to,
+directly or indirectly: a) amend its charter documents, including,
+without limitation, its certificate of incorporation and bylaws, in
+any manner that materially and adversely affects any rights of the
+holders; b) pay cash dividends or distributions on any equity
+securities of the Company; c) enter into any transaction with any
+affiliate of the Company which would be required to be disclosed in
+any public filing with the SEC, unless such transaction is made on
+an arm s-length basis and expressly approved by a majority of
+the disinterested directors of the Company (even if less than a
+quorum otherwise required for board approval); or d) enter into any
+agreement with respect to any of the foregoing. As a result of
+these exchange agreements, as of December 31, 2015, the Company has
+not recorded any of the default provisions for all but $300,000 in
+principal of these notes. The aggregate gross proceeds received in
+connection with these notes through September 30, 2016 and December
+31, 2015 was $9,297,529 and $6,145,000, respectively. 
+
+The
+Company determined that there was a beneficial conversion feature
+on the voluntary conversion feature in the amount of $36,670 at the
+dates of issuances on certain of these notes issued through
+September 30, 2016. Under the mandatory conversion feature, all of
+the unamortized discount remaining at the date of conversion shall
+be recognized immediately at that date as interest
+expense. 
+
+The Company
+accounted for the warrant feature of the notes based upon the fair
+value of the warrants on the date of issuance. The effect of the
+warrant modifications is reflected in the fair value adjustment at
+September 30, 2016 noted below. The Company recorded a warrant
+liability related to the warrants at September 30, 2016 and
+December 31, 2015 of $1,719,502 and $1,205,687, respectively, at
+the dates of issuance. The warrant liability was adjusted to the
+fair value at September 30, 2016 of $3,214,973 by recording a fair
+value adjustment of $285,271 and $1,873,311, respectively, in the
+three and nine months ended September 30, 2016. The warrant
+liability was adjusted to the fair value at September 30, 2015 by
+recording a fair value adjustment of ($55,586) and ($38,641),
+respectively, in the three and nine months ended September 30,
+2015.   
+
+For the
+three months ended September 30, 2016 and 2015, the Company
+recorded $724,246 and $516,198, respectively, of interest expense
+related to the original issue discount and warrant features of
+these notes. For the three months ended September 30, 2016 and
+2015, $413,462 and $245,065, respectively, of these amounts were
+accreted interest expense related to the original issue discount
+feature of the notes that also increased the outstanding balance of
+the convertible debt by the same amount. For the three months ended
+September 30, 2016 and 2015, $310,784 and $271,133, respectively,
+of these amounts was amortization of the debt discount related to
+the warrant features of the convertible debt. 
+
+-15- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+For the
+nine months ended September 30, 2016 and 2015, the Company recorded
+$1,820,603 and $917,588, respectively, of interest expense related
+to the original issue discount and warrant features of these notes.
+For the nine months ended September 30, 2016 and 2015, $1,054,374
+and $435,837, respectively, of these amounts were accreted interest
+expense related to the original issue discount feature of the notes
+that also increased the outstanding balance of the convertible debt
+by the same amount. For the nine months ended September 30, 2016
+and 2015, $766,230 and $481,752, respectively, of these amounts
+were amortization of the debt discount related to the warrant
+features of the convertible debt. 
+
+Convertible Debt
+consisted of: 
+
+Note 11 -   Equity  
+
+On July
+13, 2016, the Company amended its Certificate of Incorporation to
+increase the authorized shares of its common stock, $0.0001 par
+value, to 100,000,000 shares from 9,000,000 shares and increase the
+authorized shares of its preferred stock, $0.0001 par value, to
+10,000,000 shares from 1,000,000 shares. 
+
+Common Stock 
+
+At
+September 30, 2016 and December 31, 2015, the Company had issued
+and outstanding 6,028,928 and 4,296,979 shares, respectively, of
+its common stock. 
+
+Voting 
+
+Each
+holder of common stock has one vote for each share
+held. 
+
+Stock Option Plan 
+
+The Company s
+board of directors and stockholders have adopted and approved the
+Amended and Restated 2014 Omnibus Equity Incentive Plan (the
+ 2014 Plan ), which took effect on May 12, 2014. The
+2014 Plan permits the Company to award stock options (both
+incentive stock options and non-qualified stock options), stock
+appreciation rights, restricted stock, restricted stock units,
+performance stock awards, performance unit awards, unrestricted
+stock awards, distribution equivalent rights to the Company s
+officers, employees, directors, consultants and advisers. The
+maximum number of shares of common stock that may be issued
+pursuant to awards under the 2014 Plan is ten percent (10%) of the
+issued and outstanding shares of the Company s common stock
+on an  as converted  basis on a rolling basis. The
+ as converted  shares include all shares of the
+Company s common stock and all shares of the Company s
+common stock issuable upon the conversion of outstanding preferred
+stock and other convertible securities, but do not include any
+shares of common stock issuable upon the exercise of options and
+other convertible securities issued pursuant to the Plan. During
+the nine months ended September 30, 2016 and 2015, the Company did
+not grant any stock options under the 2014
+Plan.  
+
+Series A Convertible Preferred Stock 
+
+Pursuant to the SPA
+with the Protea Group, on June 13, 2014, the Company issued 100
+shares of Series A Convertible Preferred Stock ( Series
+A ). 
+
+The
+terms of the Series A are described below: 
+
+Voting 
+
+The
+Series A holders are entitled to vote, together with the holders of
+common stock as one class, on all matters to which holders of
+common stock shall be entitled to vote, in the same manner and with
+the same effect as the common stock holders with the same number of
+votes per share that equals the number of shares of common stock
+into which the Series A  is convertible at the time of such
+vote. 
+
+-16- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+Dividends 
+
+The
+holders of the Series A shall be entitled to receive dividends,
+when, as, and if declared by the board of directors, ratably with
+any declaration or payment of any dividend on common stock. To date
+there have been no dividends declared or paid by the board of
+directors. 
+
+Liquidation 
+
+The
+holders of the Series A shall be entitled to receive, before and in
+preference to, any distribution of any assets of the Company to the
+holders of common stock, an amount equal to $0.0001 per share, plus
+any declared but unpaid dividends. The liquidation preference as of
+September 30, 2016 and December 31, 2015 approximates par
+value. 
+
+Conversion 
+
+The
+Series A is convertible into 33% of the issued and outstanding
+shares of common stock on a fully diluted basis, assuming the
+conversion, exercise, or exchange for shares of common stock of all
+convertible securities issued and outstanding immediately prior to
+such conversion, including the Series A, all outstanding warrants
+and options, and all outstanding convertible debt, notes,
+debentures, or any other securities which are convertible,
+exercisable, or exchangeable for shares of common stock. The Series
+A is convertible at the holder s option any time commencing
+on the one-year anniversary of the initial issuance date. The
+Series A is subject to mandatory conversion at any time commencing
+on the one-year anniversary of the initial issuance date upon the
+vote or written consent by the holders of a majority of the Series
+A then outstanding or upon the occurrence of certain triggering
+events including a public offering coupled with an equity-linked
+financing with an offering price that values the Company prior to
+consummation of such financing at not less than $12,000,000 and the
+aggregate gross proceeds to the Company (before deduction of
+underwriting discounts and registration expenses) are not less than
+$6,000,000. On November 11, 2015, the Company and the Protea Group
+agreed that the Series A would be convertible into 2,439,365 shares
+of common stock. As of September 30, 2016, all Series A has been
+converted into common stock. 
+
+During
+the nine months ended September 30, 2016, Protea Group converted 71
+shares of Series A into 1,731,949 shares of common stock. During
+the year ended December 31, 2015, Protea Group converted 29 shares
+of Series A into 707,416 shares of commons stock. 
+
+Beneficial Conversion 
+
+The
+Series A was recorded at fair value when issued under purchase
+accounting for the purchase of the Company s French
+subsidiary. As such, there was no intrinsic value that would result
+in a beneficial conversion feature at date of issuance. The Series
+A was voluntarily converted and there was no associated beneficial
+conversion. 
+
+Note
+12 - Warrants 
+
+Stock
+warrant transactions for the nine months ended September 30, 2015
+and 2016 were as follows:   
+
+-17- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+Pursuant
+to the terms of exchange agreements executed on March 31, 2016 with
+certain holders of the Company s original issue discounted
+convertible notes, the associated warrants had their exercise price
+adjusted to $5.58 per share with no other adjustments made to the
+warrants, see Note 10 above. 
+
+During
+the nine months ended September 30, 2016, 41,118 immediately
+vesting warrants were issued to placement agents in connection with
+the placement of original issue discounted convertible notes with a
+value of $55,097, using the same valuation used to value the
+warrants issued in connection with the original issue discounted
+convertible notes, see Note 10 above. This amount was included in
+G A expenses. 
+
+During
+the nine months ended September 30, 2015, 101,140 immediately
+vesting warrants were issued to placement agents in connection with
+the placement of original issue discounted convertible notes with a
+value of $216,441, using the same valuation used to value the
+warrants issued in connection with the original issue discounted
+convertible notes, see Note 10 above. This amount was included in
+G A expenses. 
+
+Note 13 - Interest Expense 
+
+During
+the three months ended September 30, 2016 and 2015, the Company
+incurred $724,867 and $520,551, respectively, of interest expense.
+During the three months ended September 30, 2016 and 2015, $724,246
+and $516,198, respectively, of this amount was in connection with
+the original issue discounted convertible notes issued by the
+Company in the form of accretion of original issue debt discount
+and amortization of the debt discount related to the warrants.
+During the three months ended September 30, 2016 and 2015, the
+Company also incurred $621 and $4,353, respectively, of interest
+expense in connection with the promissory notes issued by the
+Company. 
+
+During
+the nine months ended September 30, 2016 and 2015, the Company
+incurred $1,826,610 and $942,672, respectively, of interest
+expense. During the nine months ended September 30, 2016 and 2015,
+$1,820,603 and $917,588, respectively, of this amount was in
+connection with the original issue discounted convertible notes
+issued by the Company in the form of accretion of original issue
+debt discount and amortization of the debt discount related to the
+warrants. During the nine months ended September 30, 2016 and 2015,
+the Company also incurred $6,007 and $25,084, respectively, of
+interest expense in connection with the promissory notes issued by
+the Company. 
+
+Note
+14 - Agreements 
+
+Mayoly Agreement 
+
+On
+March 22, 2010, the Company's predecessor (the
+ Predecessor ) entered into a joint research and
+development agreement (the  2010 Agreement ) with
+Laboratoires Mayoly Spindler SAS ( Mayoly ) with no
+consideration exchanged, pursuant to which Mayoly sublicensed
+certain of its exclusive rights to a genetically engineered yeast
+strain cell line on which MS1819 is based that derive from a Usage
+and Cross-Licensing Agreement dated February 2, 2006 (the
+ INRA Agreement ) between Mayoly and INRA TRANSFERT, a
+subsidiary of the National Institute for Agricultural Research
+( INRA ) in charge of patent management acting for and
+on behalf of the National Centre of Scientific Research
+( CNRS ) and INRA. 
+
+-18- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+Effective January
+1, 2014, the Predecessor entered into an amended and restated joint
+research and development agreement with Mayoly (the  Mayoly
+Agreement ) with no consideration exchanged, pursuant to
+which the Predecessor acquired the exclusive right, with the right
+to sublicense, to commercialize human pharmaceuticals based on the
+MS1819 lipase within the following territories: U.S. and Canada,
+South America (excluding Brazil), Asia (excluding China and Japan),
+Australia, New Zealand and Israel. Rights to the following
+territories are held jointly with Mayoly: Brazil, Italy, Portugal,
+Spain, China and Japan. The Mayoly Agreement requires the
+Predecessor to pay 70% of all development costs and requires each
+of the parties to use reasonable efforts to: 
+
+devote sufficient
+personnel and facilities required for the performance of its
+assigned tasks; 
+
+make available
+appropriately qualified personnel to supervise, analyze and report
+on the results obtained in the furtherance of the development
+program; and 
+
+deploy such
+scientific, technical, financial and other resources as is
+necessary to conduct the development program. 
+
+During
+the three months ended September 30, 2016 and 2015, the Company was
+reimbursed $365,697 and $119,844, respectively, from Mayoly under
+this agreement. During the nine months ended September 30, 2016 and
+2015, the Company was reimbursed $594,356 and $386,412,
+respectively, from Mayoly under this agreement. 
+
+The Agreement
+grants the Predecessor the right to cure any breach by Mayoly of
+its obligations under the INRA agreement. In connection with the
+Acquisition, the Predecessor, with the consent of INRA and CNRS,
+assigned all of its rights, title and interest in and to the 2014
+Agreement to the AzurRx Europe SAS.   
+
+The
+Agreement includes a  1,000,000 payment due to Mayoly upon
+the U.S. FDA approval of MS1819. 
+
+INRA Agreement 
+
+In
+February 2006, Mayoly and INRA TRANSFERT, on behalf of INRA and
+CNRS, entered into a Usage and Cross-Licensing Agreement granting
+Mayoly exclusive worldwide rights to exploit Yarrowia lipolytica
+and other lipase proteins based on their patents for use in humans.
+The INRA Agreement provides for the payment by Mayoly of royalties
+on net sales, subject to Mayoly s right to terminate such
+obligation upon the payment of a lump sum specified in the
+agreement. 
+
+Employment Agreement 
+
+On
+January 3, 2016, the Company entered into an employment agreement
+with its President and Chief Executive Officer, Johan Spoor. The
+employment agreement provides for a term expiring January 2, 2019.
+Either party may terminate Mr. Spoor s employment at any time
+and for any reason, or for no reason. During the term and for a
+period of twelve (12) months thereafter, Mr. Spoor shall not engage
+in competition with the Company either directly or indirectly, in
+any manner or capacity. 
+
+The Company will
+pay Mr. Spoor a base salary of $350,000 per year, which shall
+automatically increase to $425,000 upon (i) consummation of the IPO
+which results in the listing of the Company s common stock on
+The NASDAQ Stock Market or NYSE MKT (which occurred on October 11,
+2016), or (ii) consummation of a merger or consolidation of the
+Company with or into any other corporation or corporations, or a
+sale of all or substantially all of the assets of the Company, or
+the effectuation by the Company of a transaction or series of
+related transactions in which more than 50% of the voting shares of
+the Company is disposed of or conveyed, and in each such case the
+Company becomes a public reporting company which results in the
+listing of the Company s shares (or shares of the
+Company s parent company) on The NASDAQ Stock Market or NYSE
+MKT (the  Public Event ) (which occurred on October 11,
+2016). At the sole discretion of the board of directors or the
+compensation committee of the board, following each calendar year
+of employment, Mr. Spoor shall be eligible to receive an additional
+cash bonus based on his attainment of certain financial, clinical
+development, and/or business milestones to be established annually
+by the board of directors or the compensation
+committee.   
+
+-19- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+In
+addition, Mr. Spoor shall be issued 100,000 shares of restricted
+common stock, which vest as follows: (i) 50,000 restricted shares
+upon the first commercial sale in the United States of MS1819, and
+(ii) 50,000 restricted shares upon the total market capitalization
+of the Company exceeding $1 billion dollars for 20 consecutive
+trading days, in each case subject to the earlier determination of
+a majority of the board of directors. In the event of a Change of
+Control (as defined in the agreement), all of the restricted shares
+shall vest in full. The estimated fair value at the date of grant
+was $216,000. 
+
+Mr.
+Spoor shall also be issued 380,000 10-year stock options pursuant
+to the 2014 Plan, which options shall vest as follows so long as
+Mr. Spoor is serving as Chief Executive Officer or President at
+such time: (i) 100,000 of such stock options shall vest upon
+consummation of the IPO, (ii) 50,000 of such stock options shall
+vest upon the Company initiating a Phase II clinical trial in the
+United States for MS1819 (i.e., upon the first individual enrolled
+in the trial), (iii) 50,000 of such stock options shall vest upon
+the Company completing a Phase II clinical trial in the United
+States for MS1819, (iv) 100,000 of such stock options shall vest
+upon the Company initiating a Phase III clinical trial in the
+United States for MS1819, (v) 50,000 of such stock options shall
+vest upon the Company initiating a Phase I clinical trial in the
+United States for any product other than MS1819, and (vi) 30,000 of
+such stock options shall vest upon the determination of a majority
+of the board of directors. 
+
+On June
+8, 2016, the board of directors clarified Mr. Spoor s
+agreement as follows: the 380,000 options described have neither
+been granted nor priced since certain key provisions, particularly
+the underlying exercise price, have not been determined. The
+options will be granted at a future date to be determined by the
+board of directors, and the options will be priced at that future
+date when they are granted. As of September 30, 2016, no options
+have been granted. 
+
+If the
+Company terminates Mr. Spoor s employment other than for
+cause, or he terminates for good reason, as both terms are defined
+in the agreement, the Company will pay him twelve (12) months of
+his base salary as severance. If the Company terminates Mr.
+Spoor s employment other than for cause, or he terminates for
+good reason, in connection with a Change of Control, the Company
+will pay him eighteen (18) months of his base salary in lump sum as
+severance.  
+
+Note
+15 - Income Taxes 
+
+The
+Company is subject to taxation at the federal level in both the
+United States and France and at the state level in the United
+States. At September 30, 2016 and December 31, 2015, the Company
+had gross deferred tax assets of approximately $3,801,000 and
+$2,412,000, respectively. As the Company cannot determine that it
+is more likely than not that the Company will realize the benefit
+of the deferred tax asset, a valuation allowance of approximately
+$3,801,000 and $2,412,000, respectively, has been established at
+September 30, 2016 and December 31, 2015. 
+
+The
+significant components of the Company s net deferred tax
+assets (liabilities) consisted of: 
+
+-20- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+Income
+taxes computed using the federal statutory income tax rate differs
+from the Company s effective tax rate primarily due to the
+following: 
+
+At
+September 30, 2016, the Company has gross net operating loss
+carry-forwards for U.S. federal and state income tax purposes of
+approximately $8,391,000 and $8,388,000, respectively, which expire
+in the year 2036. The net increase in the valuation allowance for
+the nine months ended September 30, 2016 was approximately
+$1,389,000. 
+
+At
+December 31, 2015, the Company had gross net operating loss
+carry-forwards for U.S. federal and state income tax purposes of
+approximately $5,325,000 and $5,322,000, respectively, which expire
+in the year 2035. The net increase in the valuation allowance for
+the year ended December 31, 2015 was approximately
+$1,767,000. 
+
+The
+Company has a French subsidiary whose operations are not taxed in
+the United States and this is not considered in the tax provision.
+At December 31, 2015, the Company has approximately $5,052,000 in
+net operating losses which it can carryforward indefinitely to
+offset against future French income. 
+
+ASC 740
+prescribes recognition threshold and measurement attributes for the
+financial statement recognition and measurement of uncertain tax
+positions taken or expected to be taken in a tax return. ASC 740
+also provides guidance on de-recognition, classification, interest
+and penalties, accounting in interim periods, disclosure and
+transition. At September 30, 2016 and December 31, 2015, the
+Company had taken no uncertain tax positions that would require
+disclosure under ASC 740. 
+
+Note
+16 - Net Loss per Common Share 
+
+Basic
+net loss per share is computed by dividing net loss available to
+common shareholders by the weighted average number of common shares
+outstanding during the period. Diluted earnings per share reflect,
+in periods in which they have a dilutive effect, the impact of
+common shares issuable upon exercise of stock options and warrants
+and conversion of convertible debt that are not deemed to be
+anti-dilutive. The dilutive effect of the outstanding stock options
+and warrants is computed using the treasury stock
+method. 
+
+For the
+three and nine months ended September 30, 2016, diluted net loss
+per share did not include the effect of 1,092,800 shares of common
+stock issuable upon the exercise of outstanding warrants and
+2,160,239 shares of common stock issuable upon the conversion of
+convertible debt as their effect would be
+anti-dilutive. 
+
+For the
+three and nine months ended September 30, 2015, diluted net loss
+per share did not include the effect of 661,562 shares of common
+stock issuable upon the exercise of outstanding warrants; 1,118,973
+shares of common stock issuable upon the conversion of promissory
+notes and convertible debt; and 2,439,365 shares of common stock
+issuable upon the conversion of the Series A, as their effect would
+be anti-dilutive. 
+
+Note
+17 - Related Party Transactions 
+
+During the year
+ended December 31, 2015, the Company employed the services of JIST
+Consulting ( JIST ), a company controlled by Johan M.
+Spoor, the Company s current chief executive officer and
+president, as a consultant for business strategy, financial
+modeling, and fundraising. Expense recorded in general and
+administrative expense in the accompanying statements of operations
+related to JIST for the three months ended September 30, 2016 and
+2015 was $0 and $123,500, respectively. Expense recorded in general
+and administrative expense in the accompanying statements of
+operations related to JIST for the nine months ended September 30,
+2016 and 2015 was $0 and $345,800, respectively. Included in
+accounts payable at September 30, 2016 and December 31, 2015 is
+$508,300 and $508,300, respectively, for JIST relating to Mr.
+Spoor s services. Mr. Spoor received no other compensation
+from the Company other than as specified in his employment
+agreement and reimbursement of related travel
+expenses.   
+
+-21- 
+
+Table of Contents  
+
+AzurRx BioPharma, Inc. 
+
+Notes to Unadudited
+Consolidated Financial Statements  
+
+During
+the year ended December 31, 2015, the Company's former President,
+Christine Rigby-Hutton, was employed through Rigby-Hutton
+Management Services ( RHMS ). Expense recorded in
+general and administrative expense in the accompanying statements
+of operations related to RHMS for the three months ended September
+30, 2016 and 2015 was $0 and $0, respectively. Expense recorded in
+general and administrative expense in the accompanying statements
+of operations related to RHMS for the nine months ended September
+30, 2016 and 2015 was $0 and $27,750, respectively. Included in
+accounts payable at September 30, 2015 and December 31, 2015 is
+$38,453 for RHMS for Ms. Rigby-Hutton s services. Ms.
+Rigby-Hutton received no other compensation from the Company other
+than reimbursement of related travel expenses. Ms. Rigby-Hutton
+resigned from the Company effective April 20, 2015. 
+
+On
+August 31, 2014, January 31, 2015, February 28, 2015 and May 31,
+2015, the Company issued promissory notes to Matthew Balk and his
+affiliates in the aggregate principal amount of $236,000. These
+notes have been repaid in full as to $50,000 on November 11, 2014,
+$111,000 on April 3, 2015, and $75,000 on August 7, 2015. Mr. Balk
+holds voting and dispositive power over the shares held by Pelican
+Partners LLC, which owns 30%, 47%, and 64%, respectively, of the
+outstanding common stock of the Company as of September 30, 2016
+and December 31, 2015 and 2014. 
+
+From
+October 1, 2015 through December 31, 2015, the Company used the
+services of Edward Borkowski, a member of the board of directors
+and the chairman of the Company s audit committee, as a
+financial consultant. Expense recorded in general and
+administrative expense in the accompanying statements of operations
+related to Mr. Borkowski for the three and nine months ended
+September 30, 2016 and 2015 was $0 and $0, respectively. Included
+in accounts payable at September 30, 2016 and December 31, 2015 is
+$90,000 for Mr. Borkowski s services. Mr. Borkowski received
+no other compensation from the Company other than reimbursement of
+related travel expenses. On October 14, 2014 and March 12, 2015,
+the Company issued original issue discounted convertible notes to
+Mr. Borkowski, in the aggregate principal amount of $300,000. The
+notes will automatically convert into shares of the Company s
+common stock upon the consummation of the IPO at a conversion price
+equal to the principal amount divided by the lesser of $6.45 per
+share or the per share price of the Company s common stock in
+the IPO, multiplied by 80%. Mr. Borkowski has signed an exchange
+agreement related to these notes as detailed in Note 10
+above. 
+
+In July
+2016, the Company issued 45,000 shares of restricted stock to Mr.
+Borkowski and 30,000 shares of restricted stock to each of Messrs.
+Shenouda and Riddell, members of the Company's board of directors.
+The shares of restricted stock vest as follows: (i) 50% upon the
+first commercial sale in the United States of MS1819, and (ii) 50%
+upon the Company's total market capitalization exceeding $1 billion
+dollars for 20 consecutive trading days. 
+
+-22- 
+
+Table of Contents  
+
+Item 2.    M anagement s
+Discussion and Analysis of Financial Condition and Results of
+Operations. 
+
+References in this report to  we,   us, 
+ our,   the Company  and
+ AzurRx  refer to AzurRx BioPharma, Inc. and its
+subsidiary. References to the  SEC  refer to the U.S.
+Securities and Exchange Commission. 
+
+Forward-Looking Statements 
+
+You should read the following discussion and analysis of our
+financial condition and results of operations in conjunction with
+our consolidated financial statements and the related notes
+included elsewhere in this interim report. Our consolidated
+financial statements have been prepared in accordance with U.S.
+GAAP. The following discussion and analysis contains
+forward-looking statements within the meaning of Section 27A
+of the Securities Act of 1933 and Section 21E of the
+Securities Exchange Act of 1934 (the  Exchange Act ),
+including, without limitation, statements regarding our
+expectations, beliefs, intentions or future strategies that are
+signified by the words  expect, 
+ anticipate,   intend, 
+ believe,  or similar language. All forward-looking
+statements included in this document are based on information
+available to us on the date hereof, and we assume no obligation to
+update any such forward-looking statements. Our business and
+financial performance are subject to substantial risks and
+uncertainties. Actual results could differ materially from those
+projected in the forward-looking statements. In evaluating our
+business, you should carefully consider the information set forth
+under the heading  Risk Factors  in our Prospectus
+filed pursuant to Rule 424(b) under the Securities Act with the SEC
+on October 13, 2016. Readers are cautioned not to place undue
+reliance on these forward-looking statements. 
+
+Liquidity and Capital Resources 
+
+We have experienced net losses and negative cash flows from
+operations since our inception. As of September 30, 2016, we had
+sustained cumulative losses attributable to common stockholders of
+approximately $17,256,000. At September 30, 2016, we had cash of
+approximately $128,502. 
+
+We have funded our operations to date primarily through the
+issuance of debt and convertible debt securities. We have funded
+our working capital requirements with the proceeds of short-term 8%
+convertible promissory notes and original issue discounted
+convertible notes (the  OID Notes ). 
+
+Through September 30, 2016, we had received aggregate gross
+proceeds of $896,000 from the issuance of convertible promissory
+notes, $761,000 of which had been repaid, and $135,000 that was
+converted into OID Notes on July 22, 2016. Payment of $33,790 of
+accrued interest on the $761,000 principal amount of convertible
+promissory notes repaid was made through the issuance of an
+aggregate of 5,242 shares of common stock. 
+
+Through September 30, 2016, we have received aggregate gross
+proceeds of $9,297,529 from the issuance of $10,128,836 principal
+amount of OID Notes. 
+
+On October 14, 2016, we completed the IPO of 960,000 shares of
+common stock at an initial public offering price of $5.50 per share
+and received gross proceeds of $5,280,000. We incurred total
+expenses of approximately $1,774,000 in connection with the IPO,
+resulting in net offering proceeds of $3,506,000. 
+
+We expect to incur substantial expenditures in the foreseeable
+future for the development of our product candidates. We will
+require additional financing to develop, prepare regulatory filings
+and obtain regulatory approvals, fund operating losses, and, if
+deemed appropriate, establish manufacturing, sales and marketing
+capabilities. 
+
+-23- 
+
+Table of Contents  
+
+We are focused on expanding our product pipeline through
+collaborations, and also through acquisitions of products and
+companies. We are continually evaluating potential asset
+acquisitions and business combinations. To finance such
+acquisitions, we might raise additional equity capital, incur
+additional debt, or both. 
+
+Cash Flows for the Nine Months Ended September 30, 2016 and
+2015 
+
+Net cash used in operating activities for the nine months ended
+September 30, 2016 was $2,517,950, which primarily reflected our
+net loss of $8,960,139 plus non-cash depreciation and amortization
+expense of $555,421, non-cash fair value adjustment of the warrants
+liability of $1,873,311, non-cash fair value adjustment of the
+contingent consideration of $900,000, non-cash warrant expense of
+$55,097, non-cash accreted interest on OID Notes and debt discount
+- warrants of $1,820,604, a decrease in other receivables of
+$908,667 due to the collection of the French R D tax credit and
+the settling of amounts owed from an investor in the OID Notes, and
+an increase in accounts payable and accrued expenses of $960,863
+due to our cash position, offset by an increase in prepaid expenses
+of $628,256 consisting primarily of finance and legal costs
+associated with the IPO. Net cash used in operating activities for
+the nine months ended September 30, 2015 was $3,453,098, which
+primarily reflected our net loss of $5,264,028 plus non-cash
+depreciation and amortization expense of $550,338, non-cash warrant
+expense of $216,441, non-cash accreted interest on OID Notes and
+debt discount - warrants of $917,589, an increase in accounts
+payable and accrued expenses of $60,058 due to our cash position,
+an increase in other receivables of $290,472 due to amounts due
+from our research partners offset by an increase in prepaid
+expenses of $203,511 consisting primarily of finance and legal
+costs associated with the IPO. 
+
+Net cash used in investing activities for the nine months ended
+September 30, 2016 was $13,140 which consisted of the purchase of
+property and equipment. Net cash used in investing activities for
+the nine months ended September 30, 2015 was $19,896, which
+consisted of the purchase of property and equipment. 
+
+Net cash provided by financing activities for the nine months ended
+September 30, 2016 was $2,094,000, which consisted of the gross
+proceeds in connection with the issuance of the OID Notes. Net cash
+provided by financing activities for the nine months ended
+September 30, 2015 was $4,989,000, which consisted of the issuance
+of convertible promissory notes of $445,000 and the gross proceeds
+in connection with the issuance of the OID Notes of $5,345,000
+offset by the repayment of promissory notes of
+$801,000. 
+
+Consolidated Results of Operations for the Three and Nine Months
+Ended September 30, 2016 and 2015 
+
+R D expenses were $744,309 and $363,996, respectively, for the
+three months ended September 30, 2016 and 2015, an increase of
+$380,313. R D expenses were $2,270,546 and $1,734,484,
+respectively, for the nine months ended September 30, 2016 and
+2015, an increase of $536,062. The increase in R D is primarily
+due to costs associated with manufacturing additional batches of
+MS1819. We expect R D expenses to increase in future periods as
+our product candidates continue through clinical trials and we seek
+strategic collaborations. 
+
+G A expenses were $543,721 and $1,044,968, respectively, for
+the three months ended September 30, 2016 and 2015, a decrease of
+$501,247. G A expenses were $2,089,672 and $2,625,513,
+respectively, for the nine months ended September 30, 2016 and
+2015, a decrease of $535,841. The decrease was due primarily to a
+decrease in consulting fees. We expect G A expenses to increase
+going forward as we proceed to advance our product candidates
+through the development and regulatory process. 
+
+Fair value adjustment of our contingent consideration increased
+$900,000 for the three and nine months ended September 30, 2016 due
+primarily to lower risk of achieving sales projections as
+demonstrated by a decrease in the weighted average cost of capital
+relative to the prior valuation. No such fair value adjustment of
+our consideration was recorded in the three and nine months ended
+September 30, 2015.   
+
+Interest expense was $724,867 and $520,551, respectively, for the
+three months ended September 30, 2016 and 2015, an increase of
+$204,316. Interest expense was $1,826,610 and $942,672,
+respectively, for the nine months ended September 30, 2016 and
+2015, an increase of $883,938. The increase is due to the higher
+level of outstanding OID Notes. Fair value adjustment of our
+warrants was ($285,271) and $55,586, respectively, for the three
+months ended September 30, 2016 and 2015, an increase of $340,857.
+Fair value adjustment of our warrants was ($1,873,311) and $38,641,
+respectively, for the nine months ended September 30, 2016 and
+2015, an increase of $1,911,952. The increase was due to the higher
+amount of outstanding OID Notes as well as the warrants having a
+greater value at September 30, 2016 than at September 30,
+2015. 
+
+-24- 
+
+Table of Contents  
+
+Net loss was $3,198,168 and $1,873,929, respectively, for the three
+months ended September 30, 2016 and 2015. Net loss was $8,960,139
+and $5,264,028, respectively, for the nine months ended September
+30, 2016 and 2015. The higher net loss for the three and nine
+months ended September 30, 2016 compared to the same period in 2015
+is due to the higher expenses noted above. 
+
+Item 3.   Q uantitative and
+Qualitative Disclosures about Market Risks 
+
+Not applicable. 
+
+Item 4.   C ontrols and
+Procedures 
+
+Disclosure Controls and Procedures 
+
+Our management, with the participation of our chief executive
+officer and principal financial officer, has evaluated the
+effectiveness of our disclosure controls and procedures (as defined
+in Rules 13a- 15(e) and 15d- 15(e) under the Securities Exchange
+Act of 1934, as amended (Exchange Act)), as of the end of the
+period covered by this Quarterly Report on Form 10-Q. Based on such
+evaluation, our   principal
+executive and financial officer   has concluded that as
+of such date, our disclosure controls and procedures were
+effective.  
+
+Changes in Internal Control over Financial Reporting 
+
+There were no changes in our internal control over financial
+reporting identified in management s evaluation pursuant to
+Rules 13a-15(d) or 15d-15(d) of the Exchange Act during the period
+covered by this Quarterly Report on Form 10-Q that materially
+affected, or are reasonably likely to materially affect, our
+internal control over financial reporting. 
+
+PART II. OTHER INFORMATION 
+
+Item  1.   L egal
+Proceedings 
+
+None. 
+
+Item  1A.         Risk 
+ Factors  
+
+There are no material changes from the risk factors previously
+disclosed in our Prospectus filed pursuant to Rule 424(b) under the
+Securities Act with the SEC on October 13, 2016. 
+
+Item 2.     
+   Unregistered Sales of Equity
+Securities and Use of Proceeds  
+
+Unregistered Sales of Equity Securities 
+
+None. 
+
+Use of Proceeds 
+
+Our IPO
+was effected through a Registration Statement on Form S-1, as
+amended (Registration No. 333-212511), that was declared effective
+by the SEC on October 11, 2016 and completed on October 14, 2016,
+which registered 960,000 shares of our common stock at an offering
+price of $5.50 per share. We received gross proceeds of $5,280,000.
+The IPO was underwritten and co-managed by WallachBeth Capital, LLC
+and Network 1 Financial Securities, Inc., as representatives of the
+several underwriters. We paid to the underwriters underwriting
+commissions and a non-accountable expense allowance totaling
+$580,800. In addition, we incurred expenses of approximately
+$1,193,000, which when added to the underwriting commissions and
+non-accountable expense allowance paid by us, amount to total
+expenses of approximately $1,774,000. Thus, the net offering
+proceeds to us, after deducting underwriting commissions,
+non-accountable expense allowance and offering expenses payable by
+us, were approximately $3,506,000. No offering expenses were paid
+directly or indirectly to any of our directors or officers (or
+their associates) or persons owning ten percent or more of any
+class of our equity securities or to any other affiliates. We have
+placed the unused proceeds from the IPO in a non-interest bearing
+checking account. 
+
+-25- 
+
+Table of Contents  
+
+Item 3.     
+   Defaults Upon Senior
+Securities  
+
+None. 
+
+Item 4.     
+   Mine Safety
+Disclosures  
+
+Not applicable. 
+
+Item 5.     
+   Other
+Information  
+
+None. 
+
+Item 6.     
+   Exhibits  
+
+(b) 
+
+Exhibits 
+
+Exhibit No. 
+
+Description 
+
+31.1 
+
+Certification of the Principal Executive and Financial
+Officer, pursuant to Section 302 of the Sarbanes-Oxley Act of
+2002 
+
+32.1 
+
+Certification of the Principal Executive and Financial
+Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002 
+
+101.INS* 
+
+XBRL Instance Document 
+
+101.SCH* 
+
+XBRL Taxonomy Extension Schema 
+
+101.CAL* 
+
+XBRL Taxonomy Extension Calculation Linkbase 
+
+101.DEF* 
+
+XBRL Taxonomy Extension Definition Linkbase 
+
+101.LAB* 
+
+XBRL Taxonomy Extension Label Linkbase 
+
+101.PRE* 
+
+XBRL Taxonomy Extension Presentation Linkbase 
+
+* 
+
+Pursuant to Rule 406T of Regulation S-T, these interactive data
+files are deemed note filed or part of a registration statement or
+prospectus for purposes of Sections 11 or 12 of the Securities Act
+of 1933 or Section 18 of the Securities Exchange Act of 1934 and
+otherwise are not subject to liability. 
+
+-26- 
+
+Table of Contents  
+
+S IGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned thereunto duly
+authorized. 
+
+AZURRX BIOPHARMA, INC. 
+
+Date: November 23, 2016 
+
+By: 
+
+/s/
+Johan M. (Thijs) Spoor  
+
+Johan M. (Thijs) Spoor 
+
+President and Chief Executive Officer 
+
+(Principal Executive and Financial Officer) 
+
+-27- 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+ CERTIFICATION PURSUANT TO RULE 13A-14(A)/15D-14(A) CERTIFICATIONS SECTION 302 OF THE SARBANES-OXLY ACT OF 2002
+
+SEC Connect 
+
+Exhibit 31.1 
+
+CERTIFICATION PURSUANT TO 
+
+RULE 13A-14 OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Johan M. (Thijs) Spoor, certify that: 
+
+1. 
+
+I have reviewed this quarterly report on Form 10-Q of AzurRx
+BioPharma, Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact
+necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading
+with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in
+all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the
+periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer and I are
+responsible for establishing and maintaining disclosure controls
+and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as
+defined in Exchanged Act Rules 13a-15(f) and 15d-15(f) for the
+registrant and have: 
+
+a) 
+
+designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our
+supervision, to ensure that material information relating to the
+registrant, including its consolidated subsidiaries, is made known
+to us by others within those entities, particularly during the
+period in which this report is being prepared; 
+
+b) 
+
+designed such internal control over financial reporting, caused
+such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the
+reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+c) 
+
+evaluated the effectiveness of the registrant s disclosure
+controls and procedures and presented in this report our
+conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report
+based on such evaluation; and 
+
+d) 
+
+disclosed in this report any change in the registrant s
+internal control over financial reporting that occurred during the
+registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to
+materially affect, the registrant s internal control over
+financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer and I have
+disclosed, based on our most recent evaluation of internal control
+over financial reporting, to the registrant s auditors and
+the audit committee of the registrant s board of directors
+(or persons performing the equivalent functions): 
+
+a) 
+
+all significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial
+information; and 
+
+b) 
+
+any fraud, whether or not material, that involves management or
+other employees who have a significant role in the
+registrant s internal control over financial
+reporting. 
+
+November 23, 2016 
+
+/s/
+Johan M. (Thijs) Spoor  
+
+Johan M. (Thijs) Spoor 
+
+President and Chief Executive Officer 
+
+(Principal Executive and Financial Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ ex32-1.htm
+ CERTIFICATE PURSUANT TO SECTION 18 U.S.C. PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+SEC Connect 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report of AzurRx BioPharma,
+Inc. (the  Company ) on Form 10-Q for the period ended
+September 30, 2016 as filed with the Securities and Exchange
+Commission on the date hereof (the  Report ), I, Johan
+M. (Thijs) Spoor, the President and Chief Executive Officer of the
+Company, certify, pursuant to 18 U.S.C. Sec. 1350, as adopted
+pursuant to Sec. 906 of the Sarbanes-Oxley Act of 2002,
+that: 
+
+(1) 
+The Report fully complies with the requirements of
+Section 13(a) or 15(d) of the Securities Exchange Act of 1934;
+and 
+
+(2) 
+The information contained in the Report fairly presents, in all
+material respects, the financial condition and results of
+operations of the Company. 
+
+November 23, 2016 
+
+/s/
+Johan M. (Thijs) Spoor  
+
+Johan M. (Thijs) Spoor 
+
+President and Chief Executive Officer 
+
+(Principal Executive and Financial Officer) 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 4
+ azrx-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 5
+ azrx-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ azrx-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ azrx-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ azrx-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ azrx-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

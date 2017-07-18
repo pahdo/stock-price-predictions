@@ -1,0 +1,2172 @@
+<Header>
+<FileStats>
+    <FileName>20161114_10-Q_edgar_data_1390162_0001144204-16-133730_1.txt</FileName>
+    <GrossFileSize>16975571</GrossFileSize>
+    <NetFileSize>132852</NetFileSize>
+    <ASCII_Embedded_Chars>544210</ASCII_Embedded_Chars>
+    <HTML_Chars>5929941</HTML_Chars>
+    <XBRL_Chars>8137520</XBRL_Chars>
+    <XML_Chars>1895171</XML_Chars>
+    <N_Tables>62</N_Tables>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001144204-16-133730.hdr.sgml : 20161111
+<ACCEPTANCE-DATETIME>20161114093418
+ACCESSION NUMBER:		0001144204-16-133730
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		82
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161114
+DATE AS OF CHANGE:		20161114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Howard Bancorp Inc
+		CENTRAL INDEX KEY:			0001390162
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35489
+		FILM NUMBER:		161991262
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6011 University Boulevard
+		STREET 2:		Suite 370
+		CITY:			Ellicott City
+		STATE:			MD
+		ZIP:			21043
+		BUSINESS PHONE:		410-750-0020
+
+	MAIL ADDRESS:	
+		STREET 1:		6011 University Boulevard
+		STREET 2:		Suite 370
+		CITY:			Ellicott City
+		STATE:			MD
+		ZIP:			21043
+
+</SEC-Header>
+</Header>
+
+ 0001144204-16-133730.txt : 20161114
+
+10-Q
+ 1
+ v452170_10q.htm
+ 10-Q
+
+UNITED STATES   
+
+   SECURITIES
+AND EXCHANGE COMMISSION   
+
+  Washington, D.C. 20549  
+
+FORM 10-Q   
+
+For the quarterly period ended September 30,
+2016 
+
+OR 
+
+Commission File Number: 001-35489 
+
+HOWARD BANCORP,
+INC.   
+
+ (Exact name of registrant as specified in its
+charter) 
+
+Maryland  
+       
+      20-3735949   
+ 
+      (State or other jurisdiction of incorporation or organization)  
+       
+      (I.R.S. Employer Identification No.)   
+
+(410) 750-0020  
+
+ (Registrant s telephone number, including
+area code) 
+
+Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days.  Yes  x     No     
+
+Indicate by check mark whether the registrant has submitted electronically
+and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule
+405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and
+post such files). Yes  x  No     
+
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, or a small reporting company. See the definitions of  large accelerated
+filer,   accelerated filer  and  small reporting company in Rule 12b-2 of the Exchange Act.   
+
+Large accelerated filer       
+      Accelerated filer       
+ 
+      Non-accelerated filer      
+      Small reporting company  x    
+
+Indicate by check mark whether the registrant is a shell company
+(as defined in Rule 12b-2 of the Exchange Act).  Yes         No  x  
+
+The number of outstanding shares of common stock outstanding as
+of October 31, 2016. 
+
+Common Stock, $0.01 par value   6,991,072
+shares 
+
+HOWARD BANCORP,
+INC.  
+
+  TABLE OF CONTENTS  
+
+Page   
+ 
+      PART I  
+       Financial Information   
+     4  
+ 
+      Item 1.  
+       Financial Statements   
+     4  
+
+Consolidated Balance Sheets (Unaudited)   
+     4  
+
+Consolidated Statements of Operations (Unaudited)   
+     5  
+
+Consolidated Statements of Comprehensive Income (Unaudited)   
+     6  
+
+Consolidated Statements of Changes in Shareholders  Equity (Unaudited)   
+     6  
+
+Consolidated Statements of Cash Flows (Unaudited)   
+     7  
+
+Notes to Consolidated Financial Statements (Unaudited)   
+     8  
+
+Item 2.  
+       Management s Discussion and Analysis of Financial Condition and Results of Operations   
+     31  
+
+Item 3.  
+       Quantitative and Qualitative Disclosure about Market Risk   
+     46  
+
+Item 4.  
+       Controls and Procedures   
+     46  
+
+PART II  
+       Other Information   
+     47  
+ 
+      Item 1.  
+       Legal Proceedings   
+     47  
+
+Item 1A.  
+       Risk Factors   
+     47  
+
+Item 2.  
+       Unregistered Sales of Equity Securities and Use of Proceeds   
+     47  
+
+Item 3.  
+       Defaults Upon Senior Securities   
+     47  
+
+Item 4.  
+       Mine Safety Disclosures   
+     47  
+
+Item 5.  
+       Other Information   
+     47  
+
+Item 6.  
+       Exhibits   
+     47  
+
+Signatures   
+     48  
+
+2   
+
+As used in this report,  Bancorp  refers to Howard Bancorp,
+Inc., references to the  Company,   we,   us,  and  ours  refer to Howard Bancorp,
+Inc. and its subsidiaries, collectively, and references to the  Bank  refer to Howard Bank. 
+
+This report contains forward-looking statements, which can be identified
+by the use of words such as  estimate,   project,   believe,   intend,   anticipate, 
+ plan,   seek,   expect,   will,   may,   should  and words
+of similar meaning. You can also identify them by the fact that they do not relate strictly to historical or current facts. 
+
+These forward-looking statements include, but are not limited to: 
+
+statements of our goals, intentions and expectations, particularly with respect to our business plan and strategies, including
+continuing to focus on commercial customers, continuing to increase our originations of one-to four-family residential mortgage
+loans, increasing our mortgage lending portfolio and selling loans into the secondary markets;   
+
+statements regarding the asset quality of our investment portfolios and anticipated recovery and collection of unrealized losses
+on securities available for sale;   
+
+statements with respect to our allowance for credit losses, and the adequacy thereof;   
+
+statement with respect to having adequate liquidity levels;   
+
+our belief that we will retain a large portion of maturing certificates of deposit;   
+
+the expected impact of recent accounting pronouncements; and   
+
+future cash requirements and lack of expected losses relating to commitments to extend credit.  
+
+These forward-looking statements are based on our current beliefs
+and expectations and are inherently subject to significant business, economic and competitive uncertainties and contingencies,
+many of which are beyond our control. In addition, these forward-looking statements are subject to assumptions with respect to
+future business strategies and decisions that are subject to change. We are under no duty to and do not undertake any obligation
+to update any forward-looking statements after the date of this report. 
+
+The following factors, among others, could cause actual results
+to differ materially from the anticipated results or other expectations expressed in the forward-looking statements: 
+
+deterioration in general economic conditions, either nationally or in our market area, or a return to recessionary conditions,
+including as a result of the impact of the impending exit of the United Kingdom from the European Union;   
+
+competition among depository and other financial institutions;   
+
+inflation and changes in the interest rate environment that reduce our margins or reduce the fair value of financial instruments;   
+
+adverse changes in the securities markets;   
+
+changes in laws or government regulations or policies affecting financial institutions, including changes in regulatory fees
+and capital requirements;   
+
+our ability to enter new markets successfully and capitalize on growth opportunities, and to otherwise implement our growth
+strategy;   
+
+our ability to successfully integrate acquired entities, if any;   
+
+changes in consumer spending, borrowing and savings habits;   
+
+changes in accounting policies and practices, as may be adopted by the bank regulatory agencies, the Financial Accounting Standards
+Board, the Securities and Exchange Commission ( SEC ) and the Public Company Accounting Oversight Board;   
+
+loss of key personnel; and   
+
+other risks discussed in this report, in our annual report on Form 10-K for the year ended December 31, 2015, as filed with
+the SEC, and in other reports we may file.   
+
+Because of these and a wide variety of other uncertainties, our
+actual future results may be materially different from the results indicated by these forward-looking statements. You should not
+put undue reliance on any forward-looking statements. 
+
+3   
+
+PART I   
+
+    Item 1. Financial Statements  
+
+Howard Bancorp, Inc. and Subsidiary   
+
+Consolidated Balance Sheets   
+
+The accompanying notes are an integral part of these consolidated
+financial statements. 
+
+4   
+
+Consolidated Statements of Operations
+ (unaudited)  
+
+The accompanying notes are an integral part of these consolidated
+financial statements. 
+
+5   
+
+Consolidated Statements of Comprehensive
+Income  (unaudited)  
+
+The accompanying notes are an integral part of these consolidated
+financial statements. 
+
+Consolidated Statements of Changes
+in Shareholders  Equity  (unaudited)  
+
+The accompanying notes are an integral part of these consolidated
+financial statements. 
+
+6   
+
+Consolidated Statements of Cash
+Flows  (unaudited)  
+
+The accompanying notes are an integral part of these consolidated
+financial statements. 
+
+7   
+
+Notes to Consolidated Financial
+Statements  (unaudited)  
+
+Note 1: Summary of Significant Accounting Policies  
+
+Nature of Operations   
+
+On December 15, 2005, Howard Bancorp, Inc. ( Bancorp )
+acquired all of the stock and became the holding company of Howard Bank (the  Bank ) pursuant to the Plan of Reorganization
+approved by the shareholders of the Bank and by federal and state regulatory agencies. Each share of the Bank s common stock
+was converted into two shares of Bancorp common stock effected by the filing of Articles of Exchange on that date, and the shareholders
+of the Bank became the shareholders of Bancorp. The Bank has four subsidiaries, three of which hold foreclosed real estate and
+the other owns and manages real estate that is used as a branch location and has office and retail space. The accompanying consolidated
+financial statements of Bancorp and its wholly-owned subsidiary bank (collectively the  Company ) have been prepared
+in accordance with accounting principles generally accepted in the United States of America ( GAAP ). 
+
+Bancorp was incorporated in April of 2005 under the laws of the
+State of Maryland and is a bank holding company registered under the Bank Holding Company Act of 1956. Bancorp is a single bank
+holding company with one subsidiary, Howard Bank, which operates as a state trust company with commercial banking powers regulated
+by the Maryland Office of the Commissioner of Financial Regulation (the  Commissioner ). 
+
+On August 28, 2015, Bancorp completed its acquisition of Patapsco
+Bancorp, Inc. ( Patapsco Bancorp ), the parent company of The Patapsco Bank ( Patapsco Bank ), through
+the merger of Patapsco Bancorp with and into Bancorp (the  Merger ). The Merger was consummated pursuant to the Agreement
+and Plan of Merger dated as of March 2, 2015, by and between Bancorp and Patapsco Bancorp, as amended (the  Merger Agreement ).
+As a result of the Merger, each share of common stock of Patapsco Bancorp was converted into the right to receive, at the holder s
+election, $5.09 in cash or 0.3547 shares of the Bancorp s common stock, par value $0.01 per share ( Common Stock ),
+provided that (i) cash was paid in lieu of any fractional shares of Common Stock and (ii) 20% of the shares of common stock of
+Patapsco Bancorp outstanding at the time of the Merger was exchanged for cash in the Merger, with the remaining shares of Patapsco
+Bancorp common stock exchanged for 560,891 shares of Common Stock. The aggregate Merger consideration was $10.064 million. In connection
+with the Merger, the parties have caused Patapsco Bank to merge with and into the Bank, with the Bank the surviving bank. 
+
+On May
+6, 2016, Bancorp redeemed all of the 12,562 shares of the Series AA Preferred Stock that it had previously issued to the U.S. Department
+of the Treasury (the  Treasury ) under its Small Business Lending Fund ( SBLF ) program. The aggregate
+redemption price of the Series AA Preferred Stock was approximately $12.7 million, including dividends accrued but unpaid
+through the redemption date. The redemptions of the Series AA Preferred Stock was funded with variable rate debt  with
+Raymond James Bank, N.A. This debt matures one year from commencement, with interest only payments based upon 30 day LIBOR plus
+300 basis points. 
+
+The Company is a diversified financial services company providing
+commercial banking, mortgage banking and consumer finance through banking branches, the internet and other distribution channels
+to businesses, business owners, professionals and other consumers located primarily in the Greater Baltimore Metropolitan Area. 
+
+The following is a description of the Company s 
+ significant accounting policies. 
+
+Principles of Consolidation   
+
+The consolidated financial statements include the accounts of Bancorp,
+its subsidiary bank and the bank s subsidiaries. All significant intercompany accounts and transactions have been eliminated.
+Certain reclassifications have been made to the prior year s consolidated financial statements to conform to current period
+presentation, but any such reclassifications had no impact on net income or shareholders  equity as previously reported. 
+
+Use of Estimates   
+
+The preparation of financial statements in conformity with GAAP
+requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure
+of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses
+during the reporting period. Actual results could differ from those estimates. Material estimates that are particularly susceptible
+to significant changes in the near-term relate to the determination of the allowance for credit losses, other-than-temporary impairment
+of investment securities, and the fair value of loans held for sale. 
+
+8   
+
+Loans Held-For-Sale   
+
+The Company engages in sales of residential mortgage loans originated
+by the Bank. Loans held for sale are carried at fair value. Fair value is based on outstanding investor commitments or, in the
+absence of such commitments, on current investor yield requirements based on third party models. Gains and losses on sales of these
+loans are recorded as a component of noninterest income in the Consolidated Statements of Operations. The Company s current
+practice is to sell residential mortgage loans on a servicing released basis, and, therefore, it has no intangible asset recorded
+for the value of such servicing. 
+
+Upon sale and delivery, loans are legally isolated from the Company
+and the Company has no ability to restrict or constrain the ability of third party investors to pledge or exchange the mortgage
+loans. The Company does not have the entitlement or ability to repurchase the mortgage loans or unilaterally cause third party
+investors to put the mortgage loans back to the Company. Unrealized and realized gains on loan sales are determined using the specific
+identification method and are recognized through mortgage banking activity in the Consolidated Statements of Operations. 
+
+The Company enters into commitments to originate residential mortgage
+loans whereby the interest rate on the loan is determined prior to funding (i.e. rate lock commitment). Such rate lock commitments
+on mortgage loans to be sold in the secondary market are considered to be derivatives. The period of time between issuance of a
+loan commitment and closing and sale of the loan generally ranges from 15 to 60 days. The Company protects itself from changes
+in interest rates through the use of best efforts forward delivery commitments, whereby the Company commits to sell a loan at a
+premium at the time the borrower commits to an interest rate with the intent that the buyer has assumed interest rate risk on the
+loan. 
+
+For purposes of calculating fair value of rate lock commitments,
+the Bank estimates loan closing and investor delivery rate based on historical experience. The measurement of the estimated fair
+value of the rate lock commitments is presented as realized and unrealized gains from mortgage banking activities. 
+
+New Accounting Pronouncements    
+
+The Financial Accounting Standards Board (the  FASB )
+has issued ASU 2016-15,  Statement of Cash Flows (Topic 230): Classification of Certain Cash Receipts and Cash Payments .
+The amendments in this update provide guidance on eight specific cash flow issues with the objective of reducing the existing diversity
+in practice. The amendments in this update are effective for fiscal years beginning after December 15, 2017, including interim
+periods within those fiscal years. The Company is currently evaluating this guidance to determine the impact on its consolidated
+financial statements. 
+
+The FASB has issued ASU 2016-13,  Financial Instruments Credit
+Losses (Topic 326).  The main objective of this update is to provide financial statement users with more decision-useful information
+about the expected credit losses on financial instruments and other commitments to extend credit held by a reporting entity at
+each reporting date. To achieve this objective, the guidance in this update replaces the incurred loss impairment methodology in
+current GAAP with a methodology that reflects expected credit losses and requires consideration of a broader range of reasonable
+and supportable information to inform credit loss estimates. The measurement of expected credit losses is based on relevant information
+about past events, including historical experience, current conditions, and reasonable and supportable forecasts that affect the
+collectability of the reported amount. An entity must use judgment in determining the relevant information and estimation methods
+that are appropriate in its circumstances. The guidance in this update is effective for fiscal years beginning after December 15,
+2019, including interim periods within those fiscal years. The Company is currently evaluating this guidance to determine the impact
+on its consolidated financial statements. 
+
+The FASB has issued ASU 2016-09,  Compensation Stock Compensation
+(Topic 718).  The purpose of this guidance is to simplify the accounting for share-based payment transactions, including the
+income tax consequences of these transactions. Under the provisions of the update, the income tax consequences of excess tax benefits
+and deficiencies should be recognized in income tax expense in the reporting period in which the awards vest. Currently, excess
+tax benefits and deficiencies impact shareholders  equity directly to the extent there is a cumulative excess tax benefit.
+In the event that a tax deficiency has occurred during the reporting period and a cumulative tax benefit does not exist, the tax
+deficiency is recognized in income tax expense under current GAAP. The update also provides that entities may continue to estimate
+forfeitures in accounting for stock based compensation or recognize them as they occur. The provision of this update becomes effective
+for interim and annual periods beginning after December 15, 2016. The Company is currently evaluating this guidance to determine
+the impact on its consolidated financial statements. 
+
+The FASB has issued ASU 2016-02,  Leases (Topic 842).  The
+new guidance requires lessees to recognize lease assets and lease liabilities related to certain operating leases on their balance
+sheet and disclose key information about leasing arrangements. This guidance is effective for fiscal years beginning after December
+15, 2018 and interim periods within those fiscal years. The Company is currently evaluating this guidance to determine the impact
+on its consolidated financial statements. 
+
+9   
+
+The FASB has issued ASU No. 2016-01,  Financial Instruments  
+Recognition and Measurement of Financial Assets and Liabilities . ASU No. 2016-01 requires equity investments to be measured
+at fair value with changes in fair value recognized in net income, excluding equity investments that are consolidated or accounted
+for under the equity method of accounting. The guidance allows equity investments without readily determinable fair values to be
+measured at cost minus impairment, with a qualitative assessment required to identify impairment. The guidance also: requires public
+companies to use exit prices to measure the fair value of financial instruments for disclosure purposes; requires separate presentation
+of financial assets and financial liabilities by measurement category and form of financial asset on the balance sheet or the accompanying
+notes to the financial statements; and eliminates the disclosure requirements related to measurement assumptions for the fair value
+of instruments measured at amortized cost. In addition, the guidance requires that for liabilities measured at fair value under
+the fair value option, changes in fair value due to changes in instrument-specific credit risk be presented in other comprehensive
+income. ASU No. 2016-01 is effective for fiscal years beginning after December 15, 2017 and interim periods within those fiscal
+years. The Company is currently evaluating the impact of adopting the new guidance on its consolidated financial statements. 
+
+The FASB issued ASU No. 2014-09,  Revenue from Contracts with
+Customers  (Topic 606). The guidance requires an entity to recognize revenue to depict the transfer of promised goods or services
+to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods
+or services. The guidance in this update is effective for annual reporting periods beginning after December 15, 2017, including
+interim periods within that reporting period. Early adoption is permitted, but not before the original effective date of December
+15, 2016. The Company will evaluate the guidance in this update but does not believe it will have a material impact on its financial
+position or results of operations. 
+
+Note 2: Business Combinations   
+
+Patapsco Bancorp Acquisition   
+
+On August 28, 2015, Bancorp completed its acquisition of Patapsco
+Bancorp through the merger of Patapsco Bancorp, the parent company of The Patapsco Bank, with and into Bancorp pursuant to the
+Merger Agreement. As a result of the Merger, each share of common stock of Patapsco Bancorp was converted into the right to receive,
+at the holder s election, $5.09 in cash or 0.3547 shares of Common Stock, provided that (i) cash was paid in lieu of any
+fractional shares of Common Stock and (ii) 20% of the shares of common stock of Patapsco Bancorp outstanding at the time of the
+merger were exchanged for cash in the merger, with the remaining shares of Patapsco Bancorp common stock exchanged for 560,891
+shares of Common Stock. The aggregate Merger consideration was $10.064 million. In connection with the Merger, immediately thereafter
+Patapsco Bank was merged with and into the Bank, with the Bank the surviving bank. 
+
+The Company has accounted for the merger under the acquisition method
+of accounting in accordance with FASB ASC Topic 805,  Business Combinations,  whereby the acquired assets and assumed
+liabilities were recorded by Bancorp at their estimated fair values as of their acquisition date. Fair value estimates for loans
+and deposits were based on management s acceptance of a fair market valuation analysis performed by an independent third
+party firm. 
+
+The acquired assets and assumed liabilities of Patapsco Bancorp
+were measured at estimated fair value. Management made significant estimates and exercised significant judgment in accounting for
+the acquisition of Patapsco Bancorp. Management judgmentally assigned risk ratings to loans based on appraisals and estimated collateral
+values, expected cash flows, prepayment speeds and estimated loss factors to measure fair values for loans. Deposits and borrowings
+were valued based upon interest rates, original and remaining terms and maturities, as well as current rates for similar funds
+in the same markets. Premises and equipment was valued based on recent appraised values. Management used quoted or current market
+prices to determine the fair value of investment securities. 
+
+The following table provides the purchase price as of the acquisition
+date, the identifiable assets acquired and liabilities assumed at their estimated fair values, and the resulting goodwill of $603
+thousand recorded from the acquisition: 
+
+(in thousands) 
+
+Purchase Price Consideration    
+
+Cash consideration    
+     $  2,015     
+ 
+     Purchase price assigned to shares exchanged for stock    
+        8,049     
+ 
+     Total purchase price for Patapsco Bancorp acquisition    
+     $  10,064     
+
+10   
+
+A  cquired loans    
+
+The following table outlines the contractually required payments
+receivable, cash flows we expect to receive, non-accretable credit adjustments and the accretable yield for all Patapsco Bancorp
+loans as of the acquisition date. 
+
+ (in thousands) 
+
+Upon the acquisition of Patapsco Bancorp, the Company recorded all
+loans acquired at the estimated fair value on the purchase date with no carryover of the related allowance for loan losses. On
+the acquisition date, the Company segregated the loan portfolio into two loan pools, performing and non-performing loans to be
+retained in the Bank s portfolio. 
+
+The Company had an independent third party determine the net discounted
+value of cash flows on approximately 1,000 performing loans totaling $156.4 million. The valuation took into consideration the
+loans  underlying characteristics, including account types, remaining terms, annual interest rates, interest types, past
+delinquencies, timing of principal and interest payments, current market rates, loan-to-value ratios, loss exposures, and remaining
+balances. These performing loans were segregated into pools based on loan and payment type and in some cases, risk grade. The effect
+of this fair valuation process was a net accretable discount adjustment of $866 thousand at acquisition. 
+
+The Company also individually evaluated 13 impaired loans totaling
+$3.5 million to determine the fair value as of the August 28, 2015 measurement date. In determining the fair value for each individually
+evaluated impaired loan, a number of factors including the remaining life of the acquired loan, estimated prepayments, estimated
+loss ratios, estimated value of the underlying collateral and net present value of cash flows expected to be recorded were considered,
+among others. 
+
+The Company established a credit risk related non-accretable difference
+of $1.7 million relating to these acquired, credit impaired loans, reflected in the recorded net fair value. The Company further
+estimated the timing and amount of expected cash flows in excess of the estimated fair value and established an accretable discount
+adjustment of $372 thousand at acquisition relating to these impaired loans. 
+
+11   
+
+Note 3: Investment Securities   
+
+The amortized cost and estimated fair values of investments available
+for sale are as follows: 
+
+Gross unrealized losses and fair value by investment category and
+length of time the individual securities have been in a continuous unrealized loss position at September 30, 2016 and December
+31, 2015 are presented below: 
+
+The portfolio contained three agency securities with unrealized
+losses of $12 thousand at September 30, 2016. 
+
+The unrealized losses that existed were a result of market changes
+in interest rates since the original purchase. Management systematically evaluates investment securities for other-than-temporary
+declines in fair value on a quarterly basis. This analysis requires management to consider various factors, which include (1) the
+duration and magnitude of the decline in value, (2) the financial condition of the issuer or issuers and (3) the structure of the
+security. 
+
+An impairment loss is recognized in earnings if any of the following
+are true: (1) the Company intends to sell the debt security; (2) it is more likely than not that the Company will be required to
+sell the security before recovery of its amortized cost basis; or (3) the Company does not expect to recover the entire amortized
+cost basis of the security. In situations where the Company intends to sell or when it is more likely than not that the Company
+will be required to sell the security, the entire impairment loss must be recognized in earnings. In all other situations, only
+the portion of the impairment loss representing the credit loss must be recognized in earnings, with the remaining portion being
+recognized in shareholders  equity as a component of other comprehensive income, net of deferred tax. 
+
+12   
+
+The amortized cost and estimated fair values of investments available
+for sale by contractual maturity are shown below: 
+
+There were no sales of investment securities during the nine months
+ended September 30, 2016. At September 30, 2016 and December 31, 2015, $18.4 million and $22.8 million, respectively, in fair value
+of securities were pledged as collateral for repurchase agreements and public fund deposits. No single issuer of securities, except
+for U.S. Government agency securities, had outstanding balances that exceeded ten percent of shareholders  equity at September
+30, 2016. 
+
+Note 4: Loans and Leases  
+
+The Bank makes loans to customers primarily in the Greater Baltimore
+Maryland metropolitan area and surrounding communities. A substantial portion of the Bank s loan portfolio consists of loans
+to businesses secured by real estate and/or other business assets.  
+
+The loan portfolio segment balances at September 30, 2016 and December
+31, 2015 are presented in the following table: 
+
+Acquired Impaired Loans  
+
+The following table documents changes in the accretable discount
+on acquired impaired loans during the nine months ended September 30, 2016 and 2015, along with the outstanding balances and related
+carrying amounts for the beginning and end of those respective periods. 
+
+13   
+
+There was not an allowance for credit losses required on acquired
+impaired loans at either September 30, 2016 or September 30, 2015. 
+
+Note 5: Credit Quality Assessment  
+
+Allowance for Credit Losses   
+
+ The following table provides information by the respective loan
+portfolio segment on the activity in the allowance for credit losses for the three and nine month periods ended September 30, 2016
+and 2015: 
+
+14   
+
+The following table provides additional information on the allowance
+for credit losses at September 30, 2016 and December 31, 2015: 
+
+When potential losses are identified, a specific provision and/or
+charge-off may be taken, based on the then current likelihood of repayment, that is at least in the amount of the collateral deficiency,
+and any potential collection costs, as determined by the independent third party appraisal.   
+
+All loans that are considered impaired are subject to the completion
+of an impairment analysis.  This analysis highlights any potential collateral deficiencies. A specific amount of impairment
+is established based on the Bank s calculation of the probable loss inherent in the individual loan. The actual occurrence
+and severity of losses involving impaired credits can differ substantially from estimates. 
+
+15   
+
+Credit risk profile by portfolio segment based upon internally assigned
+risk assignments are presented below: 
+
+Special Mention  - A Special Mention asset has potential weaknesses that deserve management s close attention.
+If left uncorrected, these potential weaknesses may result in deterioration of the repayment prospects for the asset or in the
+institution s credit position at some future date. Special Mention assets are not adversely classified and do not expose
+an institution to sufficient risk to warrant adverse classification.   
+
+Substandard  - Substandard loans are inadequately protected by the current sound worth and paying capacity of the obligor
+or of the collateral pledged, if any. Loans so classified must have a well-defined weakness or weaknesses that jeopardize the liquidation
+of the debt. They are characterized by the distinct possibility that the Bank will sustain some loss if the deficiencies are not
+corrected.   
+
+Doubtful  - Loans classified Doubtful have all the weaknesses inherent in those classified Substandard with the added
+characteristic that the weaknesses make collection or liquidation in full, on the basis of currently known facts, conditions and
+values, highly questionable and improbable.   
+
+Loans classified Special Mention, Substandard, Doubtful or Loss
+are reviewed at least quarterly to determine their appropriate classification. All commercial loan relationships are reviewed annually.
+Non-classified residential mortgage loans and consumer loans are not evaluated unless a specific event occurs to raise the awareness
+of possible credit deterioration. 
+
+16   
+
+An aged analysis of past due loans are as follows: 
+
+17   
+
+Total loans either in non-accrual status or in excess of ninety
+days delinquent totaled $6.0 million or 0.74% of total loans outstanding at September 30, 2016, which represents a decrease from
+$9.8 million or 1.3% at December 31, 2015. 
+
+Impaired loans at September 30, 2016 and December 31, 2015 are as
+follows: 
+
+18   
+
+Included in the total impaired loans above were non-accrual loans
+of $6.0 million and $8.0 million at September 30, 2016 and December 31, 2015, respectively. Interest income that would have been
+recorded if non-accrual loans had been current and in accordance with their original terms was $221 thousand for the first nine
+months of 2016. 
+
+Management routinely evaluates other real estate owned
+( OREO ) based upon periodic appraisals. There was an additional valuation allowance of $83 thousand relating to
+one property recorded for the nine months ended September 30, 2016, and for the same period in 2015 there was a valuation
+adjustment of $736 thousand on four properties, as the current appraised value, less estimated cost to sell, was less than
+the carrying amount. During the nine months ended September 30, 2016 there was one loan transferred from the loan portfolio
+to OREO. In the same period of 2015 the Company did no transfer any loans into OREO, but acquired one property in the
+Patapsco Bancorp acquisition. The Company did not sell any properties held as OREO in either nine month period. 
+
+Loans may have their terms restructured (e.g., interest rates, loan
+maturity date, payment and amortization period) in circumstances that provide payment relief to a borrower experiencing financial
+difficulty. Such restructured loans are considered troubled debt restructured loans ( TDRs ) that may either be impaired
+loans that may either be in accruing status or non-accruing status.  Non-accruing restructured loans may return to accruing
+status provided there is a sufficient period of payment performance in accordance with the restructure terms.  Loans
+may be removed from the restructured category in the year subsequent to the restructuring if: a) the restructuring agreement specifies
+an interest rate equal to or greater than the rate that the creditor was willing to accept at the time of restructuring for a new
+loan with comparable risk; and b) the loan is not impaired based on the terms specified by the restructuring agreement.   
+
+TDRs at September 30, 2016 and December 31, 2015 are as follows: 
+
+19   
+
+A summary of TDR modifications outstanding and performing under
+modified terms are as follows: 
+
+There were five loans totaling $854 thousand restructured in the
+first nine months of 2016. Two commercial loans totaling $273 thousand were modified from principal and interest payments to interest
+only payments for a six to nine month period. One construction and land loan for $413 thousand and one commercial real estate owner
+occupied loan for $441 thousand were restructured to interest only payments with a reduction in the interest rate. Finally, there
+was a restructuring of a $466 thousand land development loan that included a paydown from the guarantor, partial debt forgiveness
+by the Bank and a reduction of the interest rate on the remaining balance of the loan, which the Bank anticipates will be fully
+repaid. Performing TDRs were in compliance with their modified terms and there are no further commitments associated with these
+loans. 
+
+20   
+
+Note 6: Goodwill and Other Intangible Assets  
+
+The Bank has one unit, which is the core banking operation. The
+table below shows goodwill balances at September 30, 2016 and December 31, 2015. 
+
+The gross carrying amount and accumulated amortization of other
+intangible assets are as follows: 
+
+Estimated future amortization expense for amortizing intangibles
+for the years ending December 31, are as follows: 
+
+Note 7: Deposits  
+
+The following table details the composition of deposits and the
+related percentage mix of total deposits, respectively, at the dates indicated: 
+
+21   
+
+Note 8: Stock Options and Stock Awards   
+
+The Company s equity incentive plan provides for awards of
+nonqualified and incentive stock options as well as vested and non-vested Common Stock awards. Employee stock options can be granted
+with exercise prices at the fair market value (as defined within the plan) of the stock at the date of grant and with terms of
+up to ten years. Except as otherwise permitted in the plan, upon termination of employment for reasons other than retirement, permanent
+disability or death, the option exercise period is reduced or the options are canceled. 
+
+Stock awards may also be granted to non-employee members of the
+Board of Directors as compensation for attendance and participation at meetings of the Board of Directors and meetings of the various
+committees of the Board. For the nine months ended September 30, 2016 the Company s directors earned 5,362 shares of stock
+as compensation for their service. 
+
+The following table summarizes the Company s stock option
+activity and related information for the periods ended: 
+
+The intrinsic value of a stock option is the amount that the market
+value of the underlying stock exceeds the exercise price of the option. Based upon a fair market value of $13.21 at September 30,
+2016 the options outstanding had an aggregate intrinsic value of $160 thousand. At December 31, 2015, based upon fair market value
+of $13.24, the options outstanding had an aggregate intrinsic value of $185 thousand. 
+
+Restricted Stock   
+
+ In the second quarter of 2013, 50,000 shares of restricted stock
+were granted, with 30,000 of the shares subject to a three year vesting schedule with one-third of the shares vesting each year
+on the grant date anniversary. The remaining 20,000 awarded shares also were subject to a three year vesting schedule however,
+they only vested if certain annual performance measures were satisfactorily achieved. 
+
+The following table presents a summary of the activity in the Company s
+restricted stock for the periods ended: 
+
+At September 30, 2016, there were no restricted stock awards outstanding,
+and all of the pre-tax compensation expense related to restricted stock awards has been recognized.  
+
+22   
+
+Restricted Stock Units   
+
+  Restricted stock units ( RSUs )
+are similar to restricted stock, except the recipient does not receive the stock immediately, but instead receives it according
+to a vesting plan and distribution schedule after achieving required performance milestones or upon remaining with the employer
+for a particular length of time.  Each RSU  t hat vests entitles the recipient to receive one share of Common Stock
+on a specified issuance date. The recipient does not have any stockholder rights, including voting, dividend or liquidation rights,
+with respect to the shares underlying awarded RSUs until the recipient becomes the record holder of those shares. 
+
+The Company granted 27,000 RSUs in the first nine months of 2016,
+all of which are subject to a three year vesting schedule. During 2015, 73,500 RSUs were granted, with 43,500 of the RSUs subject
+to a three year vesting schedule with one-third of the RSUs vesting each year on the grant date anniversary. The remaining 30,000
+awarded RSUs also are subject to a three year vesting schedule; they only vest, however, if certain annual performance measures
+are satisfactorily achieved. 
+
+In 2014, 44,500 RSUs were granted, with 19,500 of the RSUs subject
+to a three year vesting schedule with one-third of the RSUs vesting each year on the grant date anniversary. The remaining 25,000
+awarded RSUs also are subject to a three year vesting schedule; they only vest, however, if certain annual performance measures
+are satisfactorily achieved. 
+
+The following table presents a summary of the activity in the Company s
+RSUs for the periods ended: 
+
+At September 30, 2016, based on RSU awards outstanding at that time,
+the total unrecognized pre-tax compensation expense related to unvested RSU awards was $736 thousand. This expense is expected
+to be recognized through 2019.  
+
+Stock-Based Compensation Expense:    Stock-based
+compensation is recognized as compensation cost in the Statement of Operations based on the fair values on the measurement date,
+which, for the Company, is the date of the grant. The Company recognized stock-based compensation expense related to the issuance
+of restricted stock and restricted stock units of $219 thousand as well as $68 thousand for director compensation paid in stock
+for the nine month period ended September 30, 2016. For the three months ended September 30, 2016 stock-based compensation expense
+related to the issuance of restricted stock and restricted stock units of $51 thousand as well as $21 thousand for director compensation
+paid in stock The Company recognized stock-based compensation expense related to the issuance of restricted stock and RSUs of $375
+thousand as well as $95 thousand for director compensation paid in stock for the year ended December 31, 2015. 
+
+Valuation of Stock-Based Compensation:    The fair
+value of the Company s stock options granted as compensation is estimated on the measurement date, which, for the Company,
+is the date of grant. The fair value of stock options was calculated using the Black-Scholes option-pricing model. There were not
+any stock options granted during the nine months ended September 30, 2016 or in 2015. 
+
+Note 9: Benefit Plans  
+
+Profit Sharing Plan   
+
+ The Company sponsors a defined contribution retirement plan through
+a Section 401(k) profit sharing plan. Employees may contribute up to 15% of their pretax compensation. Participants are eligible
+for matching Company contributions up to 4% of eligible compensation dependent on the level of voluntary contributions. Company
+matching contributions totaled $469 thousand and $391 thousand, respectively, for the nine months ended September 30, 2016 and
+2015. The Company s matching contributions vest immediately. 
+
+Supplemental Executive Retirement Plan (SERP)   
+
+ In 2014, the Bank created a SERP for the Chief Executive Officer.
+This plan was amended in 2015. Under the defined benefit SERP, Ms. Scully will receive $150,000 each year for 15 years after attainment
+of the Normal Retirement Age (as defined in the SERP). Ms. Scully will earn vesting on a graduated schedule in which she will become
+fully vested on August 25, 2019, which has been established for purposes of the SERP   as her retirement date. Expense related
+to this plan totaled $182 thousand and $68 thousand, respectively, for the nine month periods, and $61 thousand and $23 thousand,
+respectively, for the three month periods, ending September 30, 2016 and 2015. 
+
+23   
+
+Note 10: Income per Common Share   
+
+The table below shows the presentation of basic and diluted income
+per common share for the periods indicated: 
+
+Note 11: Risk-Based Capital  
+
+In July 2013, the Federal Deposit Insurance Corporation (the  FDIC )
+and the other federal bank regulatory agencies issued a final rule that revised their leverage and risk-based capital requirements
+and the method for calculating risk-weighted assets to make them consistent with agreements that were reached by the Basel Committee
+on Banking Supervision ( Basel III ) and certain provisions of the Dodd-Frank Act. The final rule, which became effective
+on January 1, 2015, applies to all depository institutions, top-tier bank holding companies with total consolidated assets of $1
+billion or more and top-tier savings and loan holding companies. The Company will become subject to the final rule as administered
+by the Board of Governors of the Federal Reserve if and when the Company reaches $1 billion in total consolidated assets. The final
+rule creates a new common equity Tier 1 ( CET1 ) minimum capital requirement (4.5% of risk-weighted assets), increases
+the minimum Tier 1 capital ratio (from 4% to 6% of risk-weighted assets), imposes a minimum leverage ratio of 4.0%, and changes
+the risk-weight of certain assets to better reflect credit risk and other risk exposures. These include, among other things, a
+150% risk weight for certain high volatility commercial real estate acquisition, development and construction loans and for non-residential
+mortgage loans that are 90 days past due or otherwise in non-accrual status, and a 20% credit conversion factor for the unused
+portion of a commitment with an original maturity of one year or less that is not unconditionally cancellable. The final rule also
+requires unrealized gains and losses on certain  available-for-sale  securities holdings to be included for purposes
+of calculating regulatory capital unless the Company elects to opt-out from this treatment. The Company has elected to permanently
+opt out of this treatment in the Company s capital calculations, as permitted by the final rule. 
+
+The final rule limits the Bank s capital distributions and
+certain discretionary bonus payments if the Bank does not hold a  capital conservation buffer  consisting of 2.5% of
+common equity Tier 1 capital to risk-weighted assets in addition to the amount necessary to meet its minimum risk-based capital
+requirements. The capital conservation buffer requirement is being phased in beginning January 1, 2016 and ending January 1, 2019,
+when the full capital conservation buffer requirement will be effective. 
+
+In addition, under revised prompt corrective action requirements,
+in order to be considered  well-capitalized,  the Bank must have a CET1 risk-based capital ratio of 6.5% or greater,
+a Tier 1 risk-based capital ratio of 8.0% or greater, a total risk-based capital ratio of 10.0% or greater and a leverage ratio
+of 5.0% or greater. 
+
+24   
+
+There are two main categories of capital under the regulatory capital
+guidelines. Tier 1 capital includes common shareholders  equity, qualifying preferred stock and trust preferred securities,
+less goodwill and certain other deductions (including the unrealized net gains and losses, after applicable income taxes, on securities
+available for sale carried at fair value). Tier 2 capital includes preferred stock not qualifying as Tier 1 capital, subordinated
+debt, the allowance for credit losses and net unrealized gains on marketable equity securities, subject to limitations by the guidelines.
+Tier 2 capital is limited to the amount of Tier 1 capital (i.e., at least half of total capital must be in the form of Tier 1 capital).
+Under the guidelines, capital is compared to the relative risk related to the balance sheet. To derive the risk included in the
+balance sheet, one of several risk weights is applied to the different balance sheet and off-balance sheet assets, primarily based
+on the relative credit risk of the counterparty. For example, claims guaranteed by the U.S. government or one of its agencies are
+risk-weighted at 0%. Off-balance sheet items, such as loan commitments, are also applied a risk weight after calculating balance
+sheet equivalent amounts. One of four credit conversion factors (0%, 20%, 50% and 100%) is assigned to loan commitments based on
+the likelihood of the off-balance sheet item becoming an asset. For example, certain loan commitments are converted at 50% and
+then risk-weighted at 100%. The capital amounts and classification are also subject to qualitative judgments by the regulators
+about components, risk weightings, and other factors. 
+
+Management believes that, as of September 30, 2016 and December
+31, 2015, Bancorp and the Bank met all capital adequacy requirements to which they are subject. 
+
+The decrease in Bancorp s risk-based capital ratios for September
+30, 2016 was directly impacted by the redemption of the preferred stock issued under the SBLF program. This redemption occurred
+on May 6, 2016. Further information on this redemption can be found in Note 12 below. 
+
+25   
+
+Note 12: Preferred Stock  
+
+On September 22, 2011, Bancorp entered into a Securities Purchase
+Agreement with the Secretary of the Treasury, pursuant to which Bancorp issued and sold to the Treasury 12,562 shares of Bancorp s
+Senior Non-Cumulative Perpetual Preferred Stock, Series AA, having a liquidation preference of $1,000 per share, for aggregate
+proceeds of $12,562,000. The issuance was pursuant to SBLF program, a $30 billion fund established under the Small Business Jobs
+Act of 2010, which encourages lending to small businesses by providing capital to qualified community banks with assets of less
+than $10 billion. The Series AA Preferred Stock holders were entitled to receive non-cumulative dividends payable quarterly on
+each January 1, April 1, July 1 and October 1, beginning October 1, 2011. The dividend rate for future dividend periods was set
+based upon the percentage change in qualified lending between each dividend period and the baseline QSBL level established at the
+time the Agreement was entered into. Such dividend rate could vary from 1% per annum to 5% per annum for the second through tenth
+dividend periods and from 1% per annum to 7% per annum for the eleventh through the eighteenth dividend periods and through March
+22, 2016 with respect to the nineteenth dividend period. If the Series AA Preferred Stock remained outstanding for more than four-and-one-half
+years, the dividend rate was fixed at 9%. As of March 22, 2016, the dividend rate was fixed at 9%. Such dividends were not cumulative,
+but Bancorp could only declare and pay dividends on the Common Stock (or any other equity securities junior to the Series AA Preferred
+Stock) if it had declared and paid dividends for the current dividend period on the Series AA Preferred Stock, and was subject
+to other restrictions on its ability to repurchase or redeem other securities. In addition, if Bancorp had not timely declared
+and paid dividends on the Series AA Preferred Stock for six dividend periods or more, whether or not consecutive, the Treasury
+(or any successor holder of Series AA Preferred Stock) could have designated a representative to attend all meetings of Bancorp s
+Board of Directors in a nonvoting observer capacity and Bancorp would have been required to give such representative copies of
+all notices, minutes, consents and other materials that Bancorp provided to its directors in connection with such meetings. 
+
+On May 6, 2016, after receiving all required regulatory approvals,
+Bancorp redeemed the 12,562 shares of Series AA Preferred Stock that it had previously issued to the Treasury under the SBLF program
+for $12,562,000 in accordance with its terms. Bancorp used the proceeds of a $12,562,000 term loan with Raymond James Bank, N.A.
+to fund the redemption of the Series AA Preferred Stock. This debt matures one year from commencement, with interest only payments
+based upon 30 day LIBOR plus 300 basis points. 
+
+Note 13: Fair Value  
+
+FASB ASC Topic 820  Fair Value Measurements  defines
+fair value as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal
+or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement
+date. FASB ASC Topic 820 also establishes a fair value hierarchy, which requires an entity to maximize the use of observable inputs
+and minimize the use of unobservable inputs when measuring fair value. 
+
+The Company utilizes fair value measurements to record fair value
+adjustments to certain assets and to determine fair value disclosures. Securities available for sale are recorded at fair value
+on a recurring basis. Additionally, from time to time, the Company may be required to record at fair value other assets on a nonrecurring
+basis, such as loans held for investment and certain other assets. These nonrecurring fair value adjustments typically involve
+application of lower of cost or market accounting or write-downs of individual assets. 
+
+Under FASB ASC Topic 820, the Company groups assets and liabilities
+at fair value in three levels, based on the markets in which the assets and liabilities are traded and the reliability of the assumptions
+used to determine the fair value. These hierarchy levels are: 
+
+Level 1: Valuations for assets and liabilities
+traded in active exchange markets. Valuations are obtained from readily available pricing sources for market transactions involving
+identical assets or liabilities. 
+
+Level 2: Valuations for assets and liabilities
+traded in less active dealer or broker markets. Valuations are obtained from third party pricing services for identical or comparable
+assets or liabilities which use observable inputs other than Level 1 prices, such as quoted prices for similar assets or liabilities;
+quoted prices in active markets that are not active; or other inputs that are observable or can be corroborated by observable market
+data for substantially the full term of the assets or liabilities. 
+
+Level 3: Unobservable inputs that are supported
+by little or no market activity and that are significant to the fair value of the assets or liabilities. 
+
+A financial instrument's level within the fair value hierarchy is
+based on the lowest level of input that is significant to the fair value measurement. 
+
+Recurring Fair Value Measurements  
+
+All classes of investment securities available for sale are recorded
+at fair value using reliable an unbiased evaluations by an industry wide valuation service and therefore fall into a Level 2 of
+the fair value hierarchy. The service uses evaluated pricing models that vary based on asset class and include available trade,
+bid and other market information. Various methodologies include broker quotes, propriety models, descriptive terms and conditions
+databases, and quality control programs. 
+
+26   
+
+Fair value of loans held for sale is based upon outstanding investor
+commitments or, in the absence of such commitments, based on current investor yield requirements or third party pricing models
+and are considered Level 2. Gains and losses on loan sales are determined using specific identification method. Changes in fair
+value are recognized in the Consolidated Statement of Operations as part of realized and unrealized gain on mortgage banking activities. 
+
+Interest rate lock commitments are recorded at fair value determined
+as the amount that would be required to settle each of these derivatives at the balance sheet date. In the normal course of business,
+the Company enters into contractual interest rate lock commitments to extend credit to borrowers with fixed expiration dates. The
+commitment becomes effective when the borrower locks in a specified interest rate within the time frames established by the mortgage
+division. All borrowers are evaluated for credit worthiness prior to the extension of the commitment. Market risk arises if interest
+rates move adversely between the time interest rate is locked by the borrower and the sale date of the loan to an investor. To
+mitigate this interest rate risk inherent in providing rate lock commitments to borrowers, the Company enters into best effort
+forward sales contracts to sell loans to investors. The forward sales contracts lock in an interest rate price for the sale of
+loans similar to the specific rate lock commitment. Rate lock commitments to the borrowers through to the date the loan closes
+are undesignated derivatives and accordingly, are marked to fair value in earnings. These valuations fall into a Level 2 of the
+fair value hierarchy. 
+
+For loans held for investment that were originally intended to be
+sold and previously included as loans held for sale, the fair value of these loans is determined by discounting estimated cash
+flows using current rates at which similar loans would be made to borrowers with similar credit ratings and for the same remaining
+maturities. 
+
+Non-recurring Fair Value Measurements  
+
+Level 3 is for positions that are not traded in active markets or
+are subject to transfer restrictions, valuations are adjusted to reflect illiquidity and/or non-transferability, and such adjustments
+are generally based on available market evidence. In the absence of such evidence, management's best estimate is used. 
+
+Impaired loans are evaluated and valued at the time the loan is
+identified as impaired, at the lower of cost or market value. Market value is measured based on the value of the collateral securing
+these loans and is classified at a Level 3 in the fair value hierarchy. Collateral may be real estate and/or business assets including
+equipment, inventory and/or accounts receivable. The value of real estate collateral is determined based on appraisal by qualified
+licensed appraisers hired by the Company. The value of business equipment, inventory and accounts receivable collateral is based
+on the net book value on the business' financial statements and, if necessary, discounted based on management's review and analysis.
+Appraised and reported values may be discounted based on management's historical knowledge, changes in market conditions from the
+time of valuation, and/or management's expertise and knowledge of the client and client's business. Impaired loans are reviewed
+and evaluated on at least a quarterly basis for additional impairment and adjusted accordingly, based on the same factors identified
+above. 
+
+Other real estate owned acquired through, or in lieu of, foreclosure
+are held for sale and are initially recorded at fair value, less selling costs. Any write-downs to fair value at the time of transfer
+to OREO are charged to the allowance for credit losses subsequent to foreclosure. Values are derived from appraisals of underlying
+collateral and discounted cash flow analysis. There was an $83 thousand valuation loss recognized during the nine months ended
+September 30, 2016 and valuation losses of $736 thousand recognized for the year ended December 31, 2015. OREO is classified within
+Level 3 of the hierarchy. 
+
+The following table sets forth the Company's financial assets and
+liabilities that were accounted for at fair value on a recurring basis at September 30, 2016 and December 31, 2015: 
+
+27   
+
+Assets under fair value option: 
+
+There was one loan for $214 thousand that was originally classified
+as held for sale that was downgraded to non-accrual status in the third quarter of 2016. There were no loans held for sale and
+held for investment 90 days or more past due and still accruing interest at either September 30, 2016 or December 31, 2015. Net
+gain from the changes included in earnings in fair value of loans held for sale and held for investment was $519 thousand and $69
+thousand during the nine months ended September 30, 2016 and the year ended December 31, 2015, respectively. 
+
+The following table sets forth the Company's financial assets and
+liabilities that were accounted for at fair value on a nonrecurring basis at September 30, 2016 and December 31, 2015. OREO is
+initially recorded at fair value less anticipated costs to sell. Impaired loans are measured using the fair value of collateral,
+if applicable. 
+
+28   
+
+At September 30, 2016 OREO consisted of initially recorded value
+of $5.4 million, less a valuation allowance of $2.9 million. At December 31, 2016 OREO initially recorded value was $5.2 million,
+less a valuation allowance of $2.9 million. The allowance for credit losses on impaired loans was $1.4 million and $1.3 million
+at September 30, 2016 and December 31, 2015 respectively. 
+
+Various techniques are used to valuate OREO and impaired loans. 
+All loans for which the underlying collateral is real estate, either construction, land, commercial, or residential, an independent
+appraisal is used to identify the value of the collateral.  The approaches within the appraisal report include sales comparison,
+income, and replacement cost analysis.  The resulting value will be adjusted by a selling cost of 9.5% and the residual value
+will be used to determine if there is an impairment. Commercial loans and leases and consumer loans utilize a liquidation approach
+to the impairment analysis 
+
+The following table presents required information in accordance
+with ASC Topic 825  Financial Instruments  at September 30, 2016 and December 31, 2015. The fair value of a financial
+instrument is the amount at which the instrument could be exchanged in a current transaction between willing parties, other than
+in a forced or liquidation sale. Fair value estimates are based on quoted market prices where available or calculated using present
+value techniques. Since quoted market prices are not available on many of the Bank s financial instruments, estimates may
+be based on the present value of estimated future cash flows and estimated discount rates. These financial assets and liabilities
+have not been recorded at fair value. 
+
+The following methods and assumptions were used to estimate the
+fair value of financial instruments where it is practical to estimate fair value: 
+
+Securities available-for-sale:  Based on quoted market prices.
+If a quoted market price is not available, fair value is estimated using quoted market prices for similar securities. 
+
+Nonmarketable equity securities:  Because these securities
+are not marketable, the carrying amount approximates the fair value. 
+
+Loans held for sale : Loans held for sale are carried at fair
+value. Based on outstanding investor commitments or, in the absence of such commitments, on current investor yield requirements
+on third party models. 
+
+29   
+
+Loans held for investment : Determined by discounting estimated
+cash flows using current rates at which similar loans would be made to borrowers with similar credit ratings and for the same remaining
+maturities 
+
+Rate lock commitments:  Based on estimate loan closing and
+investor delivery rate based on historical experience. 
+
+Loans:  For   variable rate loans the carrying amount
+approximates the fair value. For fixed rate loans the fair value is calculated by discounting estimated cash flows using current
+rates at which similar loans would be made to borrowers with similar credit ratings and for the same remaining maturities. The
+estimated cash flows do not anticipate prepayments. 
+
+Deposits:  The carrying amount of   non-maturity deposits
+such as   demand deposits, money market and saving deposits approximates the fair value. The fair value of deposits with predetermined
+maturity dates such as certificate of deposits is estimated by discounting the future cash flows using current rates of similar
+deposits with similar remaining maturities. 
+
+Short-term borrowing:  Variable rate repurchase agreements
+carrying amounts approximate the fair values at the reporting date. 
+
+Long-term borrowing:  Based on quoted market prices. If quoted
+market price is not available, discounted cash flow analyses, based on current incremental borrowing rates for similar types of
+instruments. 
+
+Management has made estimates of fair value discount rates that
+it believes to be reasonable. However, because there is no market for many of these financial instruments, management has no basis
+to determine whether the fair value presented for loans would be indicative of the value negotiated in an actual sale. 
+
+30   
+
+Item 2.  Management s Discussion and Analysis
+of Financial Condition and Results of Operations  
+
+This section is intended to help our stockholders and potential
+investors understand our financial performance through a discussion of the factors affecting our consolidated financial condition
+at September 30, 2016 and December 31, 2015 and our consolidated results of operations for the periods ended September 30, 2016
+and September 30, 2015. This section should be read in conjunction with the consolidated financial statements and notes to the
+consolidated financial statements. 
+
+Overview  
+
+Howard Bancorp, Inc. is the holding company for Howard Bank. Howard
+Bank is a trust company chartered under Subtitle 2 of Title 3 of the Financial Institutions Article of the Annotated Code of Maryland.
+The Bank was formed in March 2004 and commenced banking operations on August 9, 2004. Howard Bank does not exercise trust powers,
+and our regulatory structure is the same as a Maryland-chartered commercial bank. As such, our business has consisted primarily
+of originating both commercial and real estate loans secured by property in our market area. Typically, commercial real estate
+and business loans involve a higher degree of risk and carry a higher yield than one-to four-family residential loans. Although
+we plan to continue to focus on commercial customers, we intend to increase our originations of one- to four-family residential
+mortgage loans going forward, increasing our portfolio of mortgage lending and also selling select loans into the secondary markets. 
+
+We are headquartered in Ellicott City, Maryland and we consider
+our primary market area to be The Greater Baltimore Metropolitan Area. We engage in a general commercial banking business, making
+various types of loans and accepting deposits. We market our financial services to small to medium sized businesses and their owners,
+professionals and executives, and high-net-worth individuals. Our loans are primarily funded by core deposits of customers in our
+market. 
+
+Our core business strategy is to deliver superior customer service
+that is supported by an extremely high level of banking sophistication. Our specialized community banking focus on both local markets
+and small business related market segments is combined with a broad array of products, new technology and seasoned banking professionals
+which positions the Bank differently than most competitors. Our experienced executives establish a relationship with each client
+and bring value to all phases of a client s business and personal banking needs. 
+
+Our results of operations depend mainly on our net interest income,
+which is the difference between the interest income we earn on our loan and investment portfolios and the interest expense we pay
+on deposits and borrowings. Results of operations are also affected by provisions for credit losses, noninterest income and noninterest
+expense. Our noninterest expense consists primarily of compensation and employee benefits, as well as office occupancy, loan production
+expense, deposit insurance and general administrative and data processing expenses. Our operations are significantly affected by
+general economic and competitive conditions, particularly with respect to changes in interest rates, government policies and actions
+of regulatory authorities. Future changes in applicable laws, regulations or government policies may materially affect our financial
+condition and results of operations. 
+
+On August 28, 2015, Bancorp completed its acquisition of Patapsco
+Bancorp, Inc., the parent company of The Patapsco Bank, through the merger of Patapsco Bancorp with and into Bancorp. 
+
+Total assets increased by $68.0 million or
+7.2% when comparing September 30, 2016 assets of $1.0 billion to the $946.8 million at December 31, 2015. Total loans and leases
+outstanding of $816.6 million at the end of September 2016 showed an increase of $56.6 million or 7.5% compared to total loans
+and leases of $760.0 million on December 31, 2015. Total deposits grew $56.4 million or 7.5% when comparing September 30, 2016
+to December 31, 2015. 
+
+Net income for the first nine months of 2016 was $4.3 million, which
+represents an increase of $3.7 million or 563.8% over net income of $655 thousand for the first nine months of 2015. Net interest
+income for the nine months ended September 30, 2016 was $25.7 million versus $21.2 million for the first nine months of 2015, an
+increase of approximately $4.4 million or 20.8%. Total noninterest income was $11.8 million for the first nine months of 2016,
+compared to a total of $9.0 million for the same period in 2015. Total noninterest expenses increased to $29.4 million from $27.9
+million for the nine months ended September 30, 2016 and 2015, respectively. 
+
+Critical Accounting Policies  
+
+Our accounting and financial reporting policies conform to GAAP
+and general practice within the banking industry. Accordingly, preparation of the financial statements require management to exercise
+significant judgment or discretion or make significant assumptions and estimates based on the information available that have,
+or could have, a material impact on the carrying value of certain assets or on income. These estimates and assumptions affect the
+reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of income and expenses
+during the periods presented. In reviewing and understanding financial information for us, you are encouraged to read and understand
+the significant accounting policies used in preparing our financial statements. The accounting policies we view as critical are
+those relating to the allowance for credit losses, goodwill and other intangible assets, business combinations, income taxes and
+share based compensation. Significant accounting policies are discussed in detail in  Notes to Consolidated Financial Statements
+- Note 1: Summary of Significant Account Policies  in our Annual Report on Form 10-K for the year ended December 31, 2015.
+There have been no changes to the significant accounting policies as described in the Annual Report. Disclosures regarding the
+effects of new accounting pronouncements are included in Note 1 of this report. 
+
+31   
+
+Balance Sheet Analysis and Comparison of Financial Condition  
+
+A comparison between September 30, 2016 and December 31, 2015 balance
+sheets is presented below. 
+
+Balance Sheet  
+
+Total assets increased $68.0 million, or 7.2%, to $1.0 billion at
+September 30, 2016 compared to $946.8 million at December 31, 2015. This asset growth was primarily a result of an increase in
+loans and leases of $56.6 million. In addition, the Bank invested approximately $20.0 million in interest bearing certificates of deposit at other financial institutions.
+Partially offsetting the growth in these categories was a decline in investment securities of $11.9 million. Organic loan growth
+was funded from increases in customer deposits, which increased by $56.4 million or 7.5% during the first nine months of 2016.
+Supplementing the deposit growth was an increase in borrowings of $21.1 million as we increased the level of short-term Federal
+Home Loan Bank of Atlanta ( FHLB ) borrowings. As a result of the redemption of our Series AA Preferred Stock in May
+2016, as discussed in Notes 1 and 12 to our consolidated financial statements, preferred shareholders  equity decreased from
+$12.6 million on December 31, 2015 to $0 at September 30, 2016. As a result, total shareholders  equity declined $8.0 million
+despite the increase in retained earnings. 
+
+Securities Available for Sale  
+
+We currently hold U.S. agency and treasury securities, mortgage-backed
+securities, stock in another small financial institution and mutual fund investments in our securities portfolio, all of which
+are categorized as available for sale. The investment in a mutual fund is a supplement to our community reinvestment program activities.
+We use our securities portfolio to provide the required collateral for funding via commercial customer repurchase agreements as
+well as to provide sufficient liquidity to fund our loans and provide funds for withdrawals of deposited funds. At September 30,
+2016 and December 31, 2015 we held an investment in stock of the FHLB. of $4.7 million and $4.2 million, respectively. This investment,
+which is required for continued FHLB membership, is based partially upon the dollar amount of borrowings outstanding from the FHLB.
+These investments are carried at cost. 
+
+The following tables set forth the composition of our investment
+securities portfolio at the dates indicated. 
+
+We had securities available for sale of $37.7 million and $49.6
+million at September 30, 2016 and December 31, 2015, respectively, which were recorded at fair value. This represents a decrease
+of $11.9 million, or 23.9%, from year end 2015, all of which was a result of scheduled maturities as well as calls of the securities.
+Nearly $30.0 million of our securities portfolio matures in one year or less, giving us the capacity to fund future loan growth
+while maintaining an appropriate amount of securities available for use as collateral. We did not record any gains or losses on
+the sales or calls of securities for the first nine months of 2016. 
+
+With respect to our portfolio of securities available for sale,
+the portfolio contained three securities with unrealized losses of $12 thousand and 19 securities with unrealized losses of $51
+thousand at September 30, 2016 and December 31, 2015, respectively. Changes in the fair value of these securities resulted primarily
+from interest rate fluctuations. We do not intend to sell these securities nor is it more likely than not that we would be required
+to sell these securities before their anticipated recovery, and we believe the collection of the investment and related interest
+is probable. Based on this analysis, we do not consider any of the unrealized losses to be other than temporary impairment losses. 
+
+32   
+
+Loan and Lease Portfolio  
+
+Total loans and leases (which excludes loans held for sale) increased
+$56.6 million or 7.5%, to $816.6 million at September 30, 2016 from $760.0 million at December 31, 2015. At September 30, 2016,
+total loans and leases represented 80.5% of total assets, compared to 80.3% of total assets at December 31, 2015. This organic
+growth resulted from growth in total real estate loans during the first nine months of 2016, which increased $38.6 million or 6.5%
+from December 31, 2015 levels. Residential real estate loans grew $23.0 million and commercial real estate loans (including construction
+and land development) grew $30.4 million comparing September 30, 2016 levels to those at December 31, 2015. Commercial loans and
+leases remained relatively level increasing just $2.4 million during the first nine months of 2016. 
+
+The following table sets forth the composition of our loan portfolio
+at the dates indicated. In addition to the amounts below, we had loans held for sale of $46.3 million at September 30, 2016 and
+$49.7 million at December 31, 2015. 
+
+Deposits  
+
+Our deposits increased from $747.4 million at December 31, 2015
+to $803.8 million at September 30, 2016, an increase of $56.4 million or 7.5%. Money market accounts had the largest increase -
+$24.2 million or 10.5%, followed by: certificates of deposit with growth of $20.0 million or 8.5%; noninterest-bearing demand deposits
+with growth of $9.4 million or 5.4%; and interest-bearing demand deposits, which increased by $4.2 million or 7.7%. The only deposit
+category that declined was our savings accounts, which decreased $1.5 million or 2.9% during the nine months ended September 30,
+2016. 
+
+The following tables set forth the distribution of total deposits,
+by account type, at the dates indicated: 
+
+33   
+
+Borrowings  
+
+Customer deposits remain the primary source we utilize to meet funding
+needs, but we supplement this with short-term and long-term borrowings. Borrowings have historically consisted of overnight unsecured
+master notes, overnight securities sold under agreement to repurchase ( repurchase agreements ), FHLB advances, and
+a junior subordinated debenture assumed in the Patapsco Bancorp acquisition. In the second quarter of 2016  a
+variable rate short-term debt  with Raymond James Bank, N.A . was
+added to our borrowings to help fund  the redemption of $12.6 million in preferred stock 
+issued under the SBLF program.  
+
+Our borrowings totaled $119.9 million at September 30, 2016 and
+$98.8 million at December 31, 2015. Short-term borrowings totaled $93.3 million at September 30, 2016 and $69.1 million at December
+31, 2015. At September 30, 2016, we had six long-term FHLB advances outstanding totaling $23.0 million and junior subordinated
+debt totaling $3.6 million. 
+
+Shareholders  Equity  
+
+Total shareholders  equity decreased $8.0 million, or approximately
+8.6%, from $92.9 million at December 31, 2015 to $84.9 million at September 30, 2016. Changes in shareholders  equity were
+primarily the result of Howard Bancorp redeeming all $12.6 million of our Series AA Preferred Stock, partially offset by the retention
+of the earnings for the first nine months of 2016. Absent the redemption of the preferred stock, shareholders  equity would
+have increased $4.6 million or 5.7% at September 30, 2016 compared to December 31, 2015. 
+
+Total shareholders  equity at September 30, 2016 represents
+a capital to asset ratio of 8.4%, while total shareholders  equity at December 31, 2015 represented a capital to asset ratio
+of 9.8%. The decrease in the capital asset ratio is similarly the result of the redemption of our Series AA Preferred Stock in
+May 2016, partially offset by the retention of the earnings for the first nine months of 2016. 
+
+Average Balance and Yields  
+
+The following tables set forth average balance sheets, average yields
+and costs, and certain other information for the periods indicated. No tax-equivalent yield adjustments were made, as the effect
+thereof was not material. All average balances are daily average balances. Non-accrual loans were included in the computation of
+average balances, and have been reflected in the table as loans carrying a zero yield. The yields set forth below include the effect
+of deferred fees, discounts and premiums that are amortized or accreted to interest income or expense. 
+
+34   
+
+(1)    Loan fee income is included in the interest income calculation, and non-accrual loans are included in the average loan base
+upon which the interest rate earned on loans is calculated.    
+
+(2)    Includes Federal funds sold and interest-bearing deposits with banks    
+
+(3)    Available for sale securities are presented at amortized cost.    
+
+(4)    Net interest rate spread represents the difference between the yield on average interest-earning assets and the cost of
+average interest-bearing liabilities.    
+
+(5)    Net interest margin represents net interest income divided by average total interest-earning assets.    
+
+35   
+
+(1)    Loan fee income is included in the interest income calculation, and non-accrual loans are included in the average loan base
+upon which the interest rate earned on loans is calculated.    
+
+(2)    Includes Federal funds sold and interest-bearing deposits with banks    
+
+(3)    Available for sale securities are presented at amortized cost.    
+
+(4)    Net interest rate spread represents the difference between the yield on average interest-earning assets and the cost of
+average interest-bearing liabilities.    
+
+(5)    Net interest margin represents net interest income divided by average total interest-earning assets.    
+
+36   
+
+Rate/Volume Analysis  
+
+The following table presents the effects of changing rates and volumes
+on our net interest income for the periods indicated. The rate column shows the effects attributable to changes in rate (changes
+in rate multiplied by prior volume). The volume column shows the effects attributable to changes in volume (changes in volume multiplied
+by prior rate). The total of the changes set forth in the rate and volume columns are presented in the total column. 
+
+(1)    Change attributed to mix (rate and volume) are included in volume variance    
+
+Comparison of Results of Operations  
+
+A comparison between the nine months ended September 30, 2016
+and September 30, 2015 is presented below.  
+
+General   
+
+ Net income available to common shareholders increased $3.6 million,
+or 645.6%, to $4.2 million for the nine months ended September 30, 2016 compared to $561 thousand for the same period in 2015.
+The increase in net income available to common shareholders was primarily driven by a $6.9 million increase in revenues (net interest
+income plus noninterest income) partially offset by a $1.5 million increase in noninterest expense. Much of this revenue growth
+and the increased operating expenses are attributable the balance sheet growth resulting from our continued strategic and organic
+growth initiatives. 
+
+Interest Income   
+
+ Interest income increased $5.6 million, or 23.9%, to $29.0 million
+for the nine months ended September 30, 2016 compared to $23.4 million for the same period in 2015. The increase was almost entirely
+due to a $5.4 million, or 23.4%, increase in interest and fees on loans and leases (including loans held for sale). The increase
+in interest and fees on loans and leases, in turn, was due to a $184.8 million or 29.9% increase in the average balance of loans
+and leases, largely as a result of the Patapsco Bancorp acquisition, partially offset by a 23 basis point decrease in the yield
+on these assets. Increases in interest and dividends on securities and other interest income, as a result of increased average
+volumes and  average yield on these assets, also contributed to the increase in total interest
+income. 
+
+37   
+
+Interest Expense   
+
+ Interest expense increased $1.2 million, or 54.4%, to $3.3 million
+for the nine months ended September 30, 2016, compared to $2.2 million for the same period in 2015. Interest expense on deposits
+increased $692 thousand or 37.1% period over period as a direct result of the $151.0 million or 33.8% increase in average interest-bearing
+deposits we experienced, largely attributable to the deposits we acquired in the Patapsco Bancorp acquisition. Overall, the average
+rate paid on our interest-bearing deposits remained relatively unchanged when comparing the first nine months of 2016 to the same
+period in 2015. We were able to keep our cost of funds stable despite the 10 basis point increases in the average rates paid on
+time deposits by attracting and maintaining lower-cost money market accounts. Average money market balances grew 62.3% when comparing
+the nine months ended September 30, 2016 to the same period last year, while the average rate on these deposits decreased slightly
+over the same period in 2015. 
+
+Interest expense on borrowings increased $479 thousand or 167.5%
+period over period as a result of increases in both the average volume and average rate of our borrowings. There were two main
+reasons for these increases. The first was an increase in the average balance of and average rate on our long-term borrowings resulting
+from the $3.4 million of debt we assumed in the Patapsco Bancorp acquisition. The second was the increase in the average balance
+of and the average rate paid on our short-term borrowings resulting from the $12.6 million  variable
+rate debt  we incurred to fund the redemption of our outstanding preferred stock as discussed above. It is important to note
+that while our Series AA Preferred Stock was outstanding we were paying a dividend on the stock, which was not a component of interest
+expense, while the additional $12.6 million in borrowings used to redeem the preferred stock has associated interest payments,
+which is now a component of interest expense. 
+
+Net Interest Income   
+
+ Net interest income is our largest source of operating revenue.
+Net interest income is affected by various factors including changes in interest rates and the composition of interest-earning
+assets and interest-bearing liabilities and maturities. Net interest income is determined by the interest rate spread (i.e., the
+difference between the yields earned on interest-earning assets and the rates paid on interest-bearing liabilities) and the relative
+amounts of interest-earning assets and interest-bearing liabilities. Net interest income increased $4.4 million, or 20.8%, during
+the nine months ended September 30, 2016 compared to the nine months ended September 30, 2015. As would be expected, the impact
+of the additional interest expense on increased borrowing used to redeem our outstanding Series AA Preferred Stock as well as reduction
+in loan yields resulted in a decrease in our net interest margin from 4.05% for the first nine months of 2015 to 3.78% for the
+first nine months of 2016. 
+
+Provision for Credit Losses   
+
+ We establish a provision for credit losses, which is a charge to
+earnings, in order to maintain the allowance for credit losses at a level we consider adequate to absorb credit losses incurred
+in the loan portfolio that are both probable and reasonably estimable at the balance sheet date. In determining the level of the
+allowance for credit losses, management considers past and current loss experience, evaluations of real estate collateral, current
+economic conditions, volume and type of lending, adverse situations that may affect a borrower s ability to repay a loan
+and the levels of nonperforming loans. The amount of the allowance is based on estimates and actual losses may vary from such estimates
+as more information becomes available or economic conditions change. This evaluation is inherently subjective as it requires estimates
+that are susceptible to significant revision as circumstances change as more information becomes available. The allowance for credit
+losses is assessed on a quarterly basis and provisions are made for credit losses as required in order to maintain the allowance. 
+
+Based on management s evaluation of the above factors, we
+had a provision for credit losses of $1.3 million for the nine months ended September 30, 2016 compared to $1.0 million for the
+same period in 2015, an increase of $287 thousand or 28.3%. The provision for 2016 reflects additional general provisions that
+are required given the continued growth in the size of our loan portfolio, while maintaining specific provisions required on loans
+that are individually evaluated and deemed to be impaired. 
+
+Management analyzes the allowance for credit losses as described
+in the section entitled  Allowance for Credit Losses.  The provision that is recorded is sufficient, in management s
+judgment, to bring the allowance for credit losses to a level that reflects the losses inherent in our loan portfolio relative
+to loan mix, economic conditions and historical loss experience. Management believes, to the best of its knowledge, that all known
+losses as of the balance sheet dates have been recorded. However, although management uses the best information available to make
+determinations with respect to the provisions for credit losses, additional provisions for credit losses may be required to be
+established in the future should economic or other conditions change substantially. In addition, as an integral part of their examination
+process, the Commissioner and the FDIC will periodically review the allowance for credit losses. The Commissioner and the FDIC
+may require us to recognize additions to the allowance based on their analysis of information available to them at the time of
+their examination. 
+
+Noninterest Income   
+
+ Noninterest income was $11.8 million for the nine months ended September
+30, 2016 compared to $9.0 million for the nine months ended September 30, 2015, a $2.8 million or 30.5% increase. Noninterest income
+levels during 2016 continue to be driven by growth in our mortgage banking activities. Due to higher levels of mortgage loans sold
+into the secondary market, realized and unrealized gains on the sale of loans produced approximately $7.0 million in noninterest
+revenues for the first nine months of 2016 compared to $5.4 million for the same period of 2015. Noninterest income also benefited
+from a $652 thousand one-time gain on the sale of an acquired impaired loan during the second quarter of 2016 partially offset
+by a $40 thousand loss on a similar credit in the third quarter of 2016. In addition, earnings on bank owned life insurance ( BOLI )
+increased $183 thousand comparing the first nine months of 2016 to the first nine months of 2015 as a result of the Bank purchasing
+an additional $2.2 million in BOLI in January 2016, as well as the addition of the BOLI acquired in the Patapsco Bancorp acquisition.
+Loan fee income, which is associated with the origination of portfolio and held for sale loans, increased $491 thousand as a direct
+result of the increase in the number of loans originated period over period. 
+
+38   
+
+Noninterest Expenses   
+
+ Noninterest expenses increased $1.5 million, or 5.5%, to $29.4 million
+for the nine months ended September 30, 2016 from $27.8 million for the same period of 2015. The primary driver in noninterest
+expense variances was the impact of the Patapsco Bancorp acquisition. Incremental infrastructure and increased staffing to support
+growth continue to contribute to rising noninterest expenses, while the lack of merger and restructuring costs associated with
+the acquisition, which were $3.3 million during the nine months ended September 30, 2015, mitigated the impact of many of the increased
+non-interest expenses during the 2016 period. 
+
+Compensation and benefit expenses, which increased $1.9 million
+or 15.6% when comparing the nine months ended September 30, 2016 to the nine months ended September 30, 2015, continue to represent
+the largest percentage of noninterest expense. The increased compensation and benefit costs resulted from the effects of successfully
+attracting a sizable commercial loan origination team and the larger infrastructure (including acquired branches) resulting from
+the Patapsco Bancorp acquisition as well as continuing organic growth in both portfolio and mortgage loan originations. In this
+regard, the number of our full time equivalent (FTE) employees increased from 220 at September 30, 2015 to nearly 270 at September
+30, 2016. In addition, occupancy and equipment expense for the 2016 period increased $815 thousand compared to the nine months
+ended September 30, 2015 due to the increased number of locations we operated during the 2016 period compared to the nine months
+ended September 30, 2015. Additionally, we incurred approximately $500 thousand in occupancy cost to exit lease agreements on three
+branch locations that we closed in the second quarter of 2016. 
+
+Growth initiatives and the implementation of mobile banking and
+other electronic banking delivery channels continued to result in increases in many of our noninterest expenses during 2016. Cost
+increases related to this expansion when comparing the nine months ended September 30, 2016 to the same period last year include:
+marketing and business development - $382 thousand; professional fees - $612 thousand; data processing - $371 thousand; and FDIC
+assessment - $289 thousand. In addition, loan production expense, which includes costs related to originating, closing and securitizing
+loans, including both loans placed in our portfolio and loans held for sale, increased $761 thousand to $2.3 million during the
+nine months ended September 30, 2016 as a result of the increased number of loans originated during the 2016 period compared to
+the comparable period of 2015. 
+
+Net Income Available to Common Shareholders   
+
+ Net income available to common shareholders for the nine months
+ended September 30, 2016 increased $3.6 million to $4.2 million compared to net income available to common shareholders of $561
+thousand for the nine months ended September 30, 2015. This increase was due to the increases in net interest income and noninterest
+income partially offset by an increase in noninterest expenses, as discussed above. 
+
+Pretax income increased by $5.4 million from $1.4 million in the
+first nine months of 2015 to $6.8 million in the first nine months of 2016. 
+
+Basic earnings per common share (EPS) for the first nine months
+of 2016 were $0.60 compared to $0.09 for the same nine month period in 2015, representing an increase of $0.51. This significant
+EPS growth was achieved even with the 18% increase in the average shares outstanding for 2016 resulting from our common stock offering
+in  June 2015 and shares issued in the Patapsco Bancorp acquisition in the third quarter of 2015. 
+
+A comparison between the three months ended September 30, 2016
+and September 30, 2015 is presented below.  
+
+General   
+
+ Net income available to common shareholders increased $2.6 million,
+or over 100%, to $1.7 million for the three months ended September 30, 2016 compared to a loss of $817 thousand for the three months
+ended September 30, 2015. This resulted in basic earnings per common share of $0.25 for the third quarter 2016 compared to a loss
+of $0.13 for the same period of 2015. 
+
+Interest Income   
+
+ Interest income increased $1.3 million, or 15.7%, to $9.8 million
+for the three months ended September 30, 2016 compared to $8.5 million for the same period of 2015. The increase was almost entirely
+due to a $1.3 million, or 15.2%, increase in interest income and fees on loans and leases (including loans held for sale). This
+increase, in turn, resulted from a $136.2 million increase in average loan and lease balances, primarily as a result of the Patapsco
+Bancorp acquisition, partially offset by a 16 basis point decrease in the average yield on these assets when comparing the three
+months ended September 30, 2016 to the same period of 2015. In addition, the average balance of securities decreased slightly,
+by $616 thousand, while their average yield increased 34 basis points during the third quarter of 2016 compared to the same period
+in the prior year, resulting in increased interest and dividends on securities income of $38 thousand or 56.0% quarter over quarter. 
+
+39   
+
+Interest Expense   
+
+ Interest expense increased $368 thousand, or 45.5%, to $1.2 million
+for the three months ended September 30, 2016, compared to $808 thousand for the same period of 2015. Deposit interest expense
+increased $198 thousand and interest on borrowings increased $170 thousand quarter over quarter. These increases were the result
+of increases in both the average balance of and average rates paid on interest-bearing deposits and borrowings. Average interest
+bearing deposits grew $117.0 million or 24.0% quarter over quarter driven primarily by the deposits acquired in the Patapsco Bancorp
+acquisition, while the primary reason for the $7.7 million or 10.0% increase in borrowing levels was the $3.4 million of debt we
+assumed in the Patapsco Bancorp acquisition and the $12.6 million variable rate debt we incurred to fund the redemption of our
+Series AA Preferred Stock, as discussed above. The average rate paid on our interest-bearing liabilities increased to 0.68% during
+the three months ended September 30, 2016 from 0.57% during the same period of 2015; the rate paid on our deposits increased three
+basis points, while the average rate paid on our borrowings increased 74 basis points during the three months ended September 30,
+2016 compared to the same period of 2015 as a result of the acquired Patapsco Bancorp debt and the debt used to redeem the preferred
+stock. 
+
+Net Interest Income   
+
+ As a result of the changes in our interest income and interest expense
+discussed above, our net interest income increased $967 thousand, or 12.6%, during the three months ended September 30, 2016 compared
+to the three months ended September 30, 2015. As is to be expected given the 45.5% increase in interest expense, driven largely
+by the additional borrowings to fund the preferred stock redemption, while interest income grew only 15.7% during the third quarter
+of 2016 versus the same period in 2015, our net interest margin decreased from 3.94% for the third quarter of 2015 to 3.76% for
+the third quarter of 2016. 
+
+Provision for Credit Losses   
+
+ Based on management s evaluation of all of the relevant loan
+loss methodology factors, we had a provision for credit losses of $402 thousand for the three months ended September 30, 2016 compared
+to $230 thousand for the same period in 2015, an increase of $172 thousand or 74.8%. 
+
+Noninterest Income   
+
+ Noninterest income was $4.4 million for the three months ended September
+30, 2016 compared to $3.3 million for the three months ended September 30, 2015, a $1.1 million or 34.6% increase. This increase
+was primarily due to increases of $937 thousand in income generated from the mortgage banking activities, $149 thousand in loan
+fee income and $53 thousand in BOLI income, partially offset by a $40 thousand loss on the sale of an impaired loan during the
+2016 period, when comparing the third quarter of 2016 to the third quarter of 2015. 
+
+Noninterest Expenses   
+
+ Noninterest expenses decreased by $1.7 million, or 14.8%, during
+the three months ended September 30, 2016 compared to the three months ended September 30, 2015. The largest contributor to this
+decrease was the $2.2 million decrease in merger and restructuring costs as a result of incurring no such costs during the 2016
+period; such expenses incurred during the 2015 period were related to the NBRS Financial Bank (which we acquired in 2014) systems
+conversion and the Patapsco Bancorp acquisition. As discussed above with respect to the nine month period comparison, increased
+costs to support expanding infrastructure, growth initiatives and delivery strategies are the primary reason for the increases
+in many noninterest expense categories quarter over quarter. In this regard, increases quarter over quarter were compensation and
+employee benefits of $275 thousand, occupancy of $131 thousand, professional fees of $283 thousand, data processing cost of $176
+thousand, and loan production cost of $117 thousand. 
+
+Nonperforming and Problem Assets  
+
+Management performs reviews of all delinquent loans and our loan
+officers contact customers to attempt to resolve potential credit issues in a timely manner. When in the best interests of the
+Bank and the customer, we will do a troubled debt restructure with respect to a particular loan. When not possible, we are aggressively
+moving loans through the legal and foreclosure process within applicable legal constraints. 
+
+Loans are generally placed on non-accrual status when payment of
+principal or interest is 90 days or more past due and the value of the collateral securing the loan, if any, is less than the outstanding
+balance of the loan. Loans are also placed on non-accrual status if management has serious doubt about further collectability of
+principal or interest on the loan, even though the loan is currently performing. When loans are placed on non-accrual status, unpaid
+accrued interest is fully reversed, and further income is recognized only to the extent received. The loan may be returned to accrual
+status if the loan is brought current, has performed in accordance with the contractual terms for a reasonable period of time and
+ultimate collectability of the total contractual principal and interest is no longer in doubt. 
+
+40   
+
+The table below sets forth the amounts and categories of our nonperforming
+assets, which consist of non-accrual loans, troubled debt restructurings and OREO (which includes real estate acquired through,
+or in lieu of, foreclosure), at the dates indicated. 
+
+Included in non-accrual loans at September 30, 2016 are three troubled
+debt restructured loans totaling $810 thousand that were not performing in accordance with their modified terms, and the accrual
+of interest has ceased. Further, there were seven troubled debt restructured loans totaling $3.4 million performing subject to
+their modified terms at September 30, 2016. At September 30, 2016, loans 90 days or more past due and still accruing interest consisted
+of the following: 
+
+One construction and land loan in the amount of $2 thousand.   
+
+Two residential junior liens totaling $9 thousand.   
+
+Two consumer loans totaling $28 thousand.   
+
+Under GAAP, we are required to account for certain loan modifications
+or restructurings as  troubled debt restructurings.  In general, the modification or restructuring of a debt constitutes
+a troubled debt restructuring if the Bank, for economic or legal reasons related to the borrower s financial difficulties,
+grants a concession, such as a reduction in the effective interest rate, to the borrower that we would not otherwise consider.
+A debt restructuring or loan modification for a borrower, however, does not necessarily constitute a troubled debt restructuring. 
+
+Nonperforming assets amounted to $11.9 million, or 1.18% of total
+assets, at September 30, 2016 compared to $12.7 million, or 1.35% of total assets, at December 31, 2015. Total nonperforming assets
+decreased $813 thousand or 6.4% during the first nine months of 2016. There was an additional valuation allowance of $83 thousand
+recorded on one property during the first nine months of 2016 as the current appraised value, less estimated cost to sell, was
+not sufficient to cover the recorded OREO amount. 
+
+The composition of our nonperforming loans at September 30, 2016
+is further described below: 
+
+Non-Accrual Loans:  
+
+Two residential first lien loans totaling $462 thousand.   
+
+Two residential junior liens totaling $28 thousand.   
+
+Two commercial owner occupied loans totaling $519 thousand.   
+
+41   
+
+Six commercial non-owner occupied loans totaling $1.1 million, four of which represent one relationship.   
+
+28 commercial loans totaling $3.7 million, seven with a Small Business Administration ( SBA ) guarantee and eight
+that include a specific reserve totaling $1.3 million.   
+
+One consumer loan in the amount of $140 thousand with a specific reserve of $72 thousand.   
+
+Accruing Troubled Debt Restructured Loans:  
+
+Two construction and land loans totaling $413 thousand.   
+
+One residential first lien in the amount of $296 thousand.   
+
+One owner occupied commercial real estate loan in the amount of $441 thousand   
+
+One non-owner occupied commercial real estate loan in the amount of $2.1 million.   
+
+Two commercial loans totaling $198 thousand.   
+
+Allowance for Credit Losses  
+
+We provide for credit losses based upon the consistent application
+of our documented allowance for credit loss methodology. All credit losses are charged to the allowance for credit losses and all
+recoveries are credited to it. Additions to the allowance for credit losses are provided by charges to income based on various
+factors which, in our judgment, deserve current recognition in estimating probable losses. We regularly review the loan portfolio
+and make provisions for credit losses in order to maintain the allowance for credit losses in accordance with GAAP. The allowance
+for credit losses consists primarily of two components: 
+
+1)  Specific allowances are established for loans classified as Substandard or Doubtful. For loans classified as impaired, the
+allowance is established when the net realizable value (collateral value less costs to sell) of the impaired loan is lower than
+the carrying amount of the loan. The amount of impairment provided for as a specific allowance is represented by the deficiency,
+if any, between the underlying collateral value and the carrying value of the loan. Impaired loans for which the estimated fair
+value of the loan, or the loan s observable market price or the fair value of the underlying collateral, if the loan is collateral
+dependent, exceeds the carrying value of the loan are not considered in establishing specific allowances for credit losses; and   
+
+2)  General allowances established for credit losses on a portfolio basis for loans that do not meet the definition of impaired
+loans. The portfolio is grouped into similar risk characteristics, primarily loan type and regulatory classification. We apply
+an estimated loss rate to each loan group. The loss rates applied are based upon our loss experience adjusted, as appropriate,
+for the qualitative factors discussed below. This evaluation is inherently subjective, as it requires material estimates that may
+be susceptible to significant revisions based upon changes in economic and real estate market conditions.   
+
+The allowance for credit losses is maintained at a level to provide
+for losses that are probable and can be reasonably estimated. Management s periodic evaluation of the adequacy of the allowance
+is based on Howard Bank s past credit loss experience, known and inherent losses in the portfolio, adverse situations that
+may affect the borrower s ability to repay, the estimated value of any underlying collateral, composition of the loan portfolio,
+current economic conditions and other relevant factors. This evaluation is inherently subjective as it requires material estimates
+that may be susceptible to significant change, including the amounts and timing of future cash flows expected to be received on
+impaired loans. 
+
+A loan is considered past due or delinquent when a contractual payment
+is not paid on the day it is due. A loan is considered impaired when, based on current information and events, it is probable that
+Howard Bank will be unable to collect the scheduled payments of principal or interest when due according to the contractual terms
+of the loan agreement. Factors considered by management in determining impairment include payment status, collateral value and
+the probability of collecting scheduled principal and interest payments when due. Loans that experience insignificant payment delays
+and payment shortfalls generally are not classified as impaired. Management determines the significance of payment delays and payment
+shortfalls on a case-by-case basis, taking into consideration all of the circumstances surrounding the loan and the borrower, including
+the length of the delay, the reasons for the delay, the borrower s prior payment record and the amount of the shortfall in
+relation to the principal and interest owed. The impairment of a loan may be measured based on the present value of expected future
+cash flows discounted at the loan s effective interest rate, or the fair value of the collateral if repayment is expected
+to be provided by the collateral. Generally, Howard Bank s impairment on such loans is measured by reference to the fair
+value of the collateral. Interest income on impaired loans is recognized on the cash basis. 
+
+Our loan policies state that after all collection efforts have been
+exhausted, and the loan is deemed to be a loss, then the remaining loan balance will be charged to the established allowance for
+credit losses. All loans are evaluated for loss potential once it has been determined by the Watch Committee that the likelihood
+of repayment is in doubt. When a loan is past due for at least 90 days or a deterioration in debt service coverage ratio, guarantor
+liquidity, or loan-to-value ratio has occurred that would cause concern regarding the likelihood of the full repayment of principal
+and interest, and the loan is deemed not to be well secured, the loan should be moved to non-accrual status and a specific reserve
+is established if the net realizable value is less than the principal value of the loan balance(s). Once the actual loss value
+has been determined a charge-off against the allowance for credit losses for the amount of the loss is taken. Each loss is evaluated
+on its specific facts regarding the appropriate timing to recognize the loss. 
+
+42   
+
+The adjustments to historical loss experience are based on our evaluation
+of several qualitative factors, including: 
+
+changes in lending policies, procedures, practices or personnel;   
+
+changes in the level and composition of construction portfolio and related risks;   
+
+changes and migration of classified assets;   
+
+changes in exposure to subordinate collateral lien positions;   
+
+levels and composition of existing guarantees on loans by SBA or other agencies;   
+
+changes in national, state and local economic trends and business conditions;   
+
+changes and trends in levels of loan payment delinquencies; and   
+
+any other factors that managements considers relevant to the quality or performance of the loan portfolio.   
+
+We evaluate the allowance for credit losses based upon the combined
+total of the specific and general components. Generally when the loan portfolio increases, absent other factors, the allowance
+for credit loss methodology results in a higher dollar amount of estimated probable losses than would be the case without the increase.
+Generally when the loan portfolio decreases, absent other factors, the allowance for credit loss methodology results in a lower
+dollar amount of estimated probable losses than would be the case without the decrease. 
+
+Commercial and commercial real estate loans generally have greater
+credit risks compared to the one- to four-family residential mortgage loans we originate, as they typically involve larger loan
+balances concentrated with single borrowers or groups of related borrowers. In addition, the payment experience on loans secured
+by income-producing properties typically depends on the successful operation of the related business and thus may be subject to
+a greater extent to adverse conditions in the real estate market and in the general economy. Actual credit losses may be significantly
+more than the allowance for credit losses we have established, which could have a material negative effect on our financial results. 
+
+Generally, we underwrite commercial loans based on cash flow and
+business history and receive personal guarantees from the borrowers where appropriate. We generally underwrite commercial real
+estate loans and residential real estate loans at a loan-to-value ratio of 85% or less at origination. Accordingly, in the event
+that a loan becomes past due and, randomly with respect to performing loans, we will conduct visual inspections of collateral properties
+and/or review publicly available information, such as online databases, to ascertain property values. We will also obtain formal
+appraisals on a regular basis even if we are not considering liquidation of the property to repay a loan. It is our practice to
+obtain updated appraisals if there is a material change in market conditions or if we become aware of new or additional facts that
+indicate a potential material reduction in the value of any individual property collateral. 
+
+For impaired loans, we utilize the appraised value in determining
+the appropriate specific allowance for credit losses attributable to a loan. In addition, changes in the appraised value of multiple
+properties securing our loans may result in an increase or decrease in our general allowance for credit losses as an adjustment
+to our historical loss experience due to qualitative and environmental factors, as described above. 
+
+At September 30, 2016 and December 31, 2015, nonperforming loans
+were $9.4 million and $10.4 million, respectively. The amount of impaired loans requiring specific reserves totaled $1.4 million
+at September 30, 2016 and $1.3 million at December 31, 2015. The amount of impaired loans not in need of a specific valuation allowance
+totaled $7.8 million and $10.0 million, respectively, at such dates. 
+
+Nonperforming loans are evaluated and valued at the time the loan
+is identified as impaired on a case by case basis, at the lower of cost or market value. Market value is measured based on the
+value of the collateral securing the loan. The value of real estate collateral is determined based on an appraisal by qualified
+licensed appraisers hired by us. Appraised values may be discounted based on management s historical experience, changes
+in market conditions from the time of valuation, and/or management s expertise and knowledge of the client and client s
+business. The difference between the appraised value and the principal balance of the loan will determine the specific allowance
+valuation required for the loan, if any. Nonperforming loans are reviewed and evaluated on at least a quarterly basis for additional
+impairment and adjusted accordingly. 
+
+We evaluate the loan portfolio on at least a quarterly basis, more
+frequently if conditions warrant, and the allowance is adjusted accordingly. While we use the best information available to make
+evaluations, future adjustments to the allowance may be necessary if conditions differ substantially from the information used
+in making the evaluations. In addition, as an integral part of their examination process, the Commissioner and the FDIC will periodically
+review the allowance for credit losses. The Commissioner and the FDIC may require us to recognize additions to the allowance based
+on their analysis of information available to them at the time of their examination. 
+
+43   
+
+The following table sets forth activity in our allowance for credit
+losses for the periods indicated: 
+
+Allocation of Allowance for Credit Losses  
+
+The following tables set forth the allowance for credit losses allocated
+by loan category and the percent of loans in each category to total loans at the dates indicated. The allowance for credit losses
+allocated to each category is not necessarily indicative of future losses in any particular category and does not restrict the
+use of the allowance to absorb losses in other categories. 
+
+(1)  Represents the percent of loans in each category to total loans, not the composition of the allowance for credit losses.   
+
+44   
+
+Liquidity and Capital Resources  
+
+Liquidity is the ability to meet current and future financial obligations.
+Our primary sources of funds consist of deposit inflows, loan repayments, advances from the FHLB, principal repayments and the
+sale of securities available for sale. While maturities and scheduled amortization of loans and securities are predictable sources
+of funds, deposit flows and loan prepayments are greatly influenced by general interest rates, economic conditions and competition.
+Our Asset Liability Committee is responsible for establishing and monitoring our liquidity targets and strategies in order to ensure
+that sufficient liquidity exists for meeting the borrowing needs and deposit withdrawals of our customers as well as unanticipated
+contingencies. We believe that we have enough sources of liquidity to satisfy our short- and long-term liquidity needs as of September
+30, 2016 and December 31, 2015. We regularly monitor and adjust our investments in liquid assets based upon our assessment of: 
+
+1)  Expected loan demand;   
+
+2)  Expected deposit flows and borrowing maturities;   
+
+3)  Yields available on interest-earning deposits and securities; and   
+
+4)  The objectives of our asset/liability management program.   
+
+Excess liquid assets are invested generally in interest-earning
+deposits and short-term securities. 
+
+Our most liquid assets are cash and cash equivalents. The level
+of these assets is dependent on our operating, financing, lending and investing activities during any given period. At September
+30, 2016 and December 31, 2015, cash and cash equivalents totaled $43.9 million and $38.3 million, respectively. 
+
+Our cash flows are derived from operating activities, investing
+activities and financing activities as reported in our statements of cash flows included in our financial statements. 
+
+At September 30, 2016 and December 31, 2015, we had $130.8 million
+and $167.7 million, respectively, in loan commitments outstanding, including commitments issued to originate loans of $55.2 million
+and $95.0 million at September 30, 2016 and December 31, 2015, respectively, and $75.6 million and $72.7 million in unused lines
+of credit to borrowers at September 30, 2016 and December 31, 2015, respectively. In addition to commitments to originate loans
+and unused lines of credit we had $6.9 million and $7.8 million in letters of credit at September 30, 2016 and December 31, 2015,
+respectively. Certificates of deposit due within one year of September 30, 2016 totaled $164.7 million, or 20.5% of total deposits.
+If we do not retain these deposits, we may be required to seek other sources of funds, including loan and securities sales and
+FHLB advances. Depending on market conditions, we may be required to pay higher rates on our deposits or other borrowings than
+we currently pay on the certificates of deposit. We believe, however, based on historical experience and current market interest
+rates that we will retain upon maturity a large portion of our certificates of deposit with maturities of one year or less. 
+
+Our primary investing activity is originating loans.
+During the first nine months of 2016 cash was utilized to increase our portfolio of loans by $56.8 million. For the same
+period of 2015, cash used to fund our loan portfolio totaled $47.5 million. During the first nine months of 2016 we utilized
+cash to purchase additional securities totaling $65.6 million while receiving $77.5 million as a result of securities
+maturing. For the same period in 2015 we purchased additional securities totaling $13.9 million and we received $42.5 million
+in security maturities. During the first nine months of 2016, we invested $19.5 million in short term certificates of deposit
+at other financial institutions. 
+
+Financing activities consist primarily of activity in deposit accounts
+and FHLB advances. We experienced a net increase in deposits of $56.4 million during the nine months ended September 30, 2016.
+Deposit flows are affected by the overall level of interest rates, the interest rates and products offered by us and our local
+competitors, and by other factors. 
+
+Liquidity management is both a daily and long-term function of business
+management. If we require funds beyond our ability to generate them internally, borrowing agreements exist with the FHLB that provide
+an additional source of funds. FHLB advances were $91.5 million at September 30, 2016 compared to $78.5 million at December 31,
+2015. At September 30, 2016, we had the ability to borrow up to a total of $217.0 million based upon our credit availability at
+the FHLB, subject to collateral requirements. 
+
+The Bank is subject to various regulatory capital requirements,
+including a risk-based capital measure. The risk-based capital guidelines include both a definition of capital and a framework
+for calculating risk-weighted assets by assigning balance sheet assets and off-balance sheet items to broad risk categories. At
+September 30, 2016 and December 31, 2015, the Bank exceeded all regulatory capital requirements. The Bank is considered  well
+capitalized  under regulatory guidelines. 
+
+45   
+
+Commitments, Contingent Liabilities, and Off-Balance Sheet Arrangements  
+
+We are party to financial instruments with off-balance sheet risk
+in the normal course of business to meet the financial needs of our customers. These financial instruments are limited to commitments
+to originate loans and involve, to varying degrees, elements of credit, interest rate, and liquidity risk. These do not represent
+unusual risks, and management does not anticipate any losses which would have a material effect on us. 
+
+Outstanding loan commitments and lines of credit at September 30,
+2016 and December 31, 2015 are as follows: 
+
+Commitments to extend credit are agreements to lend to a customer
+as long as there is no violation of any condition established in the contract. We generally require collateral to support financial
+instruments with credit risk on the same basis as we do for balance sheet instruments. Management generally bases the collateral
+required on the credit evaluation of the counterparty. Commitments generally have interest rates at current market rates, expiration
+dates or other termination clauses and may require payment of a fee. Available credit lines represent the unused portion of lines
+of credit previously extended and available to the customer so long as there is no violation of any contractual condition. These
+lines generally have variable interest rates. Since we expect many of the commitments to expire without being drawn upon, and since
+it is unlikely that all customers will draw upon their lines of credit in full at any one time, the total commitment amount or
+line of credit amount does not necessarily represent future cash requirements. We evaluate each customer s credit-worthiness
+on a case-by-case basis. Because we conservatively underwrite these facilities at inception, we have not had to withdraw any commitments.
+We are not aware of any loss that we would incur by funding our commitments or lines of credit. 
+
+The credit risk involved in these financial instruments is essentially
+the same as that involved in extending loan facilities to customers. No amount has been recognized in the statement of financial
+condition at September 30, 2016 or December 31, 2015 as a liability for credit loss related to these commitments. 
+
+Impact of Inflation and Changing Prices  
+
+Our financial statements and related notes have been prepared in
+accordance with GAAP. GAAP generally requires the measurement of financial position and operating results in terms of historical
+dollars without consideration of changes in the relative purchasing power of money over time due to inflation. The impact of inflation
+is reflected in the increased cost of our operations. Unlike industrial companies, our assets and liabilities are primarily monetary
+in nature. As a result, changes in market interest rates have a greater impact on performance than the effects of inflation. 
+
+Item 3.  Quantitative and Qualitative Disclosures about
+Market Risk  
+
+Not applicable 
+
+Item 4.  Controls and Procedures  
+
+As of the end of the period covered by this quarterly report on
+Form 10-Q Bancorp s Chief Executive Officer and Chief Financial Officer evaluated the effectiveness of Bancorp s disclosure
+controls and procedures as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended (the  Exchange
+Act ). Based upon that evaluation, Bancorp s Chief Executive Officer and Chief Financial Officer concluded that Bancorp s
+disclosure controls and procedures are effective as of September 30, 2016. Disclosure controls and procedures are controls and
+other procedures that are designed to ensure that information required to be disclosed by Bancorp in the reports that it files
+or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC s
+rules and forms. 
+
+In addition, there were no changes in Bancorp s internal control
+over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act) during the quarter ended September 30, 2016, that
+have materially affected, or are reasonably likely to materially affect, Bancorp s internal control over financial reporting. 
+
+46   
+
+PART II - Other Information  
+
+Item 1.  Legal Proceedings  
+
+From time to time, we may be involved in litigation relating to
+claims arising out of our normal course of business. As of the date of this report, we are not aware of any material pending litigation
+matters. 
+
+Item 1A.  Risk
+Factors  
+
+There have been no material changes in the risk factors from those
+disclosed in our Annual Report on Form 10-K for the year ended December 31, 2015, as filed with the SEC on March 30, 2016. 
+
+Item 2.  Unregistered
+Sales of Equity Securities and Use of Proceeds  
+
+None 
+
+Item 3.  Defaults
+Upon Senior Securities  
+
+None 
+
+Item 4.  Mine
+Safety Disclosures  
+
+Not applicable 
+
+Item 5.  Other
+Information  
+
+None 
+
+Item 6.  Exhibits  
+
+31(a)          Certification
+of Chief Executive Officer pursuant to Rule 13a-14(a) or 15d-14(a) of the Exchange Act pursuant to Section 302 of the Sarbanes-Oxley
+Act of 2002 - filed herewith 
+
+31(b)          Certification
+of Chief Financial Officer pursuant to Rule 13a-14(a) or 15d-14(a) of the Exchange Act pursuant to Section 302 of the Sarbanes-Oxley
+Act of 2002 - filed herewith 
+
+32               Certifications
+pursuant to 18 U.S.C. Section 1350, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002   filed herewith 
+
+101             Extensible
+Business Reporting Language ( XBRL )   filed herewith 
+
+47   
+
+Signatures  
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+HOWARD BANCORP, INC.   
+
+(Registrant)   
+
+November 14,   2016 
+       
+      /s/ Mary Ann Scully   
+ 
+      Date  
+       
+      MARY ANN SCULLY   
+
+PRESIDENT AND CEO   
+
+November 14,   2016 
+       
+      /s/ George C. Coffman   
+ 
+      Date  
+       
+      GEORGE C. COFFMAN   
+
+EVP AND CFO   
+
+48   
+
+<EX-31.A>
+ 2
+ v452170_ex31a.htm
+ EXHIBIT 31(A)
+
+Exhibit 31(a): 
+
+CERTIFICATION  
+
+I, Mary Ann Scully, certify that: 
+
+1)  I have reviewed this quarterly report on Form 10-Q of Howard Bancorp, Inc.;   
+
+2)  Based on my knowledge, this report does not contain any untrue statement of a material fact or
+omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;   
+
+3)  Based on my knowledge, the financial statements, and other financial information included in this
+report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant
+as of, and for, the periods presented in this report;   
+
+4)  The registrant s other certifying officer and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:   
+
+a)  Designed such disclosure controls and procedures, or caused such disclosure controls and procedures
+to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being
+prepared;   
+
+b)  Designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;   
+
+c)  Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented
+in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and   
+
+d)  Disclosed in this report any change in the registrant s internal control over financial reporting
+that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case
+of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal
+control over financial reporting; and   
+
+5)  The registrant s other certifying officer and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s
+board of directors (or persons performing the equivalent functions):   
+
+a)  All significant deficiencies and material weaknesses in the design or operation of internal control
+over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize
+and report financial information; and   
+
+b)  Any fraud, whether or not material, that involves management or other employees who have a significant
+role in the registrant s internal control over financial reporting.   
+
+Date November 14, 2016 
+     By: 
+     /s/ Mary Ann Scully  
+
+Mary Ann Scully  
+
+President, Chairman and Chief Executive Officer  
+
+</EX-31.A>
+
+<EX-31.B>
+ 3
+ v452170_ex31b.htm
+ EXHIBIT 31(B)
+
+Exhibit 31(b): 
+
+CERTIFICATION  
+
+I, George C. Coffman, certify that: 
+
+1)  I have reviewed this quarterly report on Form 10-Q of Howard Bancorp, Inc.;   
+
+2)  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact
+necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with
+respect to the period covered by this report;   
+
+3)  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in
+all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+presented in this report;   
+
+4)  The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls
+and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined
+in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:   
+
+a)  Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our
+supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known
+to us by others within those entities, particularly during the period in which this report is being prepared;   
+
+b)  Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed
+under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with generally accepted accounting principles;   
+
+c)  Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on
+such evaluation; and   
+
+d)  Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during
+the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report)
+that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial
+reporting; and   
+
+5)  The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control
+over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors
+(or persons performing the equivalent functions):   
+
+a)  All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting
+which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial
+information; and   
+
+b)  Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting.   
+
+Date November 14, 2016 
+     By: 
+     /s/ George C. Coffman  
+
+George C. Coffman  
+
+Executive Vice President and Chief Financial Officer  
+
+</EX-31.B>
+
+<EX-32>
+ 4
+ v452170_ex32.htm
+ EXHIBIT 32
+
+Exhibit 32 
+
+Certification  
+
+  Pursuant to 18 U.S.C. Section 1350  
+
+  As adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002  
+
+Pursuant to 18 U.S.C. Section, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, the undersigned officers of Howard Bancorp, Inc., each hereby certify, to the best of his or
+her knowledge and belief, that: 
+
+2)  The information contained in such Form 10-Q fairly presents, in all material respects, the financial condition and results
+of operations of Howard Bancorp, Inc.   
+
+Date November 14, 2016 
+     By: 
+     /s/ Mary Ann Scully  
+
+Mary Ann Scully  
+
+President, Chairman and Chief Executive Officer  
+
+By: 
+     /s/ George C. Coffman  
+
+George C. Coffman  
+
+Executive Vice President and Chief Financial Officer  
+
+This certification is made solely for the purpose of 18 U.S.C. Section
+1350, and is not being filed as part of the Form 10-Q or as a separate disclosure document, and may not be disclosed, distributed
+or used by any person for any reason other than as specifically required by law. 
+
+</EX-32>
+
+<EX-101.INS>
+ 5
+ hbmd-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ hbmd-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ hbmd-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ hbmd-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ hbmd-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ hbmd-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

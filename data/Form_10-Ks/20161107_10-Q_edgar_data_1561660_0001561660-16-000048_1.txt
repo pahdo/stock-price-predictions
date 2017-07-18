@@ -1,0 +1,1062 @@
+<Header>
+<FileStats>
+    <FileName>20161107_10-Q_edgar_data_1561660_0001561660-16-000048_1.txt</FileName>
+    <GrossFileSize>10243434</GrossFileSize>
+    <NetFileSize>143986</NetFileSize>
+    <ASCII_Embedded_Chars>516661</ASCII_Embedded_Chars>
+    <HTML_Chars>3512425</HTML_Chars>
+    <XBRL_Chars>4395368</XBRL_Chars>
+    <XML_Chars>1464148</XML_Chars>
+    <N_Tables>60</N_Tables>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001561660-16-000048.hdr.sgml : 20161107
+<ACCEPTANCE-DATETIME>20161107062056
+ACCESSION NUMBER:		0001561660-16-000048
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		88
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161107
+DATE AS OF CHANGE:		20161107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Pattern Energy Group Inc.
+		CENTRAL INDEX KEY:			0001561660
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36087
+		FILM NUMBER:		161976493
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PIER 1
+		STREET 2:		BAY 3
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+		BUSINESS PHONE:		(415) 283-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		PIER 1
+		STREET 2:		BAY 3
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94111
+
+</SEC-Header>
+</Header>
+
+ 0001561660-16-000048.txt : 20161107
+
+10-Q
+ 1
+ pegi2016093010q.htm
+ 10-Q
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  WASHINGTON, D.C. 20549    
+
+FORM 10-Q 
+
+(Mark One) 
+
+For the quarterly period ended   September 30, 2016  . 
+  or 
+
+Commission File Number 001-36087 
+
+PATTERN ENERGY GROUP INC. 
+  (Exact name of Registrant as specified in its charter) 
+
+Delaware 
+      
+    90-0893251 
+      (State or other jurisdiction of 
+  incorporation or organization) 
+      
+    (I.R.S. Employer 
+  Identification No.) 
+
+Pier 1, Bay 3, San Francisco, CA 94111 
+  (Address of principal executive offices) (Zip Code) 
+  Registrant s telephone number, including area code: (415) 283-4000 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes          No      
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes           No      
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. 
+                     Large accelerated filer 
+      
+    Accelerated filer 
+      
+      Non-accelerated filer 
+      
+    Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act.)    Yes           No      
+  As of   November 2, 2016  , there were   87,469,506   shares of Class A common stock outstanding with par value of $0.01 per share. 
+
+PATTERN ENERGY GROUP INC. 
+  REPORT ON FORM 10-Q 
+  FOR THE QUARTERLY PERIOD ENDED   SEPTEMBER 30, 2016    
+  TABLE OF CONTENTS 
+
+2 
+
+CAUTIONARY NOTICE REGARDING FORWARD-LOOKING STATEMENTS 
+  Certain statements and information in this Quarterly Report on Form 10-Q (Form 10-Q) may constitute  forward-looking statements.  You can identify these statements by forward-looking words such as "anticipate," "believe," "could," "estimate," "expect," "intend," "may," "plan," "potential," "should," "will," "would," or similar words. You should read statements that contain these words carefully because they discuss our current plans, strategies, prospects, and expectations concerning our business, operating results, financial condition, and other similar matters. While we believe that these forward-looking statements are reasonable as and when made, there may be events in the future that we are not able to predict accurately or control, and there can be no assurance that future developments affecting our business will be those that we anticipate. Our forward-looking statements involve significant risks and uncertainties (some of which are beyond our control) and assumptions that could cause actual results to differ materially from our historical experience and our present expectations or projections. Important factors that could cause actual results to differ materially from those in the forward-looking statements include, but are not limited to, those summarized below: 
+             
+    our ability to complete the acquisition of power projects; 
+                
+    our ability to complete construction of our construction projects and transition them into financially successful operating projects; 
+                
+    fluctuations in supply, demand, prices and other conditions for electricity, other commodities and renewable energy credits (RECs); 
+                
+    our electricity generation, our projections thereof and factors affecting production, including wind and other conditions, other weather conditions, availability and curtailment; 
+                
+    changes in law, including applicable tax laws; 
+                
+    public response to and changes in the local, state, provincial and federal regulatory framework affecting renewable energy projects, including the U.S. federal production tax credit (PTC), investment tax credit (ITC) and potential reductions in Renewable Portfolio Standards (RPS) requirements; 
+                
+    the ability of our counterparties to satisfy their financial commitments or business obligations; 
+                
+    the availability of financing, including tax equity financing, for our power projects; 
+                
+    an increase in interest rates; 
+                
+    our substantial short-term and long-term indebtedness, including additional debt in the future; 
+                
+    competition from other power project developers; 
+                
+    development constraints, including the availability of interconnection and transmission; 
+                
+    potential environmental liabilities and the cost and conditions of compliance with applicable environmental laws and regulations; 
+                
+    our ability to operate our business efficiently, manage capital expenditures and costs effectively and generate cash flow; 
+                
+    our ability to retain and attract executive officers and key employees; 
+                
+    our ability to keep pace with and take advantage of new technologies; 
+                
+    the effects of litigation, including administrative and other proceedings or investigations, relating to our wind power projects under construction and those in operation; 
+                
+    conditions in energy markets as well as financial markets generally, which will be affected by interest rates, foreign currency exchange rate fluctuations and general economic conditions; 
+                
+    the effectiveness of our currency risk management program; 
+                
+    the effective life and cost of maintenance of our wind turbines and other equipment; 
+                
+    the increased costs of, and tariffs on, spare parts; 
+                
+    scarcity of necessary equipment; 
+                
+    negative public or community response to wind power projects; 
+                
+    the value of collateral in the event of liquidation; and 
+                
+    other factors discussed under  Risk Factors.  
+     
+   3 
+
+For additional information regarding known material factors that could cause our actual results to differ from our projected results, please see Part II, "Item 1A. Risk Factors" in this Form 10-Q and Part I, "Item 1A. Risk Factors" in our Annual Report on Form 10-K for the year ended December 31, 2015. 
+  Readers are cautioned not to place undue reliance on forward-looking statements, which speak only as of the date hereof. We undertake no obligation to publicly update or revise any forward-looking statements after the date they are made, whether as a result of new information, future events or otherwise. 
+
+4 
+
+PART I. FINANCIAL INFORMATION 
+   
+  ITEM 1. FINANCIAL STATEMENTS 
+
+See accompanying notes to consolidated financial statements.    
+  
+   5 
+
+See accompanying notes to consolidated financial statements. 
+  
+   6 
+
+See accompanying notes to consolidated financial statements.    
+  
+   7 
+
+8 
+
+See accompanying notes to consolidated financial statements.    
+  
+   9 
+
+10 
+
+See accompanying notes to consolidated financial statements.    
+  
+   11 
+
+Pattern Energy Group Inc. 
+  Notes to Consolidated Financial Statements 
+  (Unaudited) 
+   
+  1.        Organization    
+  Pattern Energy Group Inc. (Pattern Energy or the Company) was organized in the state of Delaware on October 2, 2012. Pattern Energy is an independent energy generation company focused on constructing, owning and operating energy projects with long-term energy sales contracts located in the United States, Canada and Chile. Pattern Development owns a   19%   interest in the Company. Pattern Development is a leading developer of renewable energy and transmission projects. 
+  The Company consists of the consolidated operations of certain entities and assets contributed by, or purchased principally from, Pattern Development, except for purchases of Lost Creek, Post Rock and certain additional interests in El Array n (each as defined below, which were purchased from third-parties). Each of the Company's wind projects are consolidated into the Company's subsidiaries which are organized by geographic location as follows: 
+             
+    Pattern US Operations Holdings LLC (which consists primarily of   100%   ownership of Hatchet Ridge Wind, LLC (Hatchet Ridge), Spring Valley Wind LLC (Spring Valley), Pattern Santa Isabel LLC (Santa Isabel), Ocotillo Express LLC (Ocotillo), Pattern Gulf Wind LLC (Gulf Wind) and Lost Creek Wind, LLC (Lost Creek), as well as the following consolidated controlling interest in Pattern Panhandle Wind LLC (Panhandle 1), Pattern Panhandle Wind 2 LLC (Panhandle 2), Post Rock Wind Power Project, LLC (Post Rock), Logan's Gap Wind LLC (Logan's Gap) and Fowler Ridge IV Wind Farm LLC (Amazon Wind Farm Fowler Ridge)); 
+                
+    Pattern Canada Operations Holdings ULC (which consists primarily of   100%   ownership of St. Joseph Windfarm Inc. (St. Joseph) and noncontrolling interests in South Kent Wind LP (South Kent), Grand Renewable Wind LP (Grand) and K2 Wind Ontario Limited Partnership (K2), which are accounted for as equity method investments); and  
+                
+    Pattern Chile Holdings LLC (which includes a controlling interest in Parque E lico El Array n SpA (El Array n)). 
+      
+  2.        Summary of Significant Accounting Policies    
+  Basis of Presentation and Principles of Consolidation 
+  The consolidated financial statements include the results of wholly-owned and partially-owned subsidiaries in which the Company has a controlling interest with all significant intercompany accounts and transactions eliminated in consolidation. 
+  Unaudited Interim Financial Information 
+  The accompanying unaudited consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles (U.S. GAAP) for interim financial information and Article 10 of Regulation S-X issued by the U.S. Securities and Exchange Commission (SEC). Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements. In the opinion of management, the interim financial information reflects all adjustments of a normal recurring nature, necessary for a fair presentation of the Company s financial position at   September 30, 2016  , the results of operations and comprehensive income (loss) for the   three and nine   months ended   September 30, 2016   and   2015  , respectively, and the cash flows for the   nine   months ended   September 30, 2016   and   2015  , respectively. The consolidated balance sheet at   December 31, 2015   has been derived from the audited financial statements at that date, but does not include all of the information and footnotes required by U.S. GAAP for complete financial statements. This Form 10-Q should be read in conjunction with the consolidated financial statements and accompanying notes contained in the Company s Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+  Use of Estimates 
+  The preparation of the financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, disclosures of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from these estimates, and such differences may be material to the financial statements. 
+  
+   12 
+
+Reclassification 
+  Certain prior period balances have been reclassified to conform to the current period presentation in the Company s consolidated financial statements and the accompanying notes. 
+  Funds Deposited by Counterparty 
+  As a result of a counterparty's credit rating downgrade, the Company received cash collateral related to an energy derivative agreement, as discussed in Note   10  ,   Derivative Instruments  . The Company does not have the right to pledge, invest, or use the cash collateral for general corporate purposes. As of   September 30, 2016  , the Company has recorded a current asset of   $46.6 million   to funds deposited by counterparty and a current liability of   $46.6 million   to counterparty deposit liability representing the cash collateral received and corresponding obligation to return the cash collateral, respectively. The cash was deposited into a separate custodial account for which the Company is not entitled to the interest earned on the cash collateral. 
+  Recently Issued Accounting Standards 
+  In addition to recently issued accounting standards disclosed in Note 2,   Summary of Significant Accounting Policies,   in the Notes to Consolidated Financial Statements, contained in the Company s Annual Report on Form 10-K for the year ended   December 31, 2015  , the Company is evaluating or has adopted the following recently issued accounting standards. 
+  In August 2016, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2016-15,   Statement of Cash Flows (Topic 230): Classification of Certain Cash Receipts and Cash Payments   (ASU 2016-15), which provides guidance on specific cash flow issues. ASU 2016-15 is effective for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years. Early adoption is permitted, including adoption in an interim period. The adoption of ASU 2016-15 during the third quarter of fiscal 2016 did not have a material impact on the Company s consolidated financial statements and related disclosures.  
+  In June 2016, the FASB issued ASU 2016-13,   Financial Instruments  Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments   (ASU 2016-13), which requires the measurement of all expected credit losses for financial assets including trade receivables held at the reporting date based on historical experience, current conditions, and reasonable and supportable forecasts. ASU 2016-13 is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2019. The Company is currently assessing the future impact of this update on its consolidated financial statements and related disclosures.  
+  In May 2014, the FASB issued ASU 2014-09, which creates FASB Accounting Standards Codification (ASC) Topic 606  , Revenue from Contracts with Customers   and supersedes ASC Topic 605,   Revenue Recognition   (ASU 2014-09). The guidance replaces industry-specific guidance and establishes a single five-step model to identify and recognize revenue. The core principle of the guidance is that an entity should recognize revenue upon transfer of control of promised goods or services to customers in an amount that reflects the consideration to which an entity expects to be entitled in exchange for those goods or services. Additionally, the guidance requires the entity to disclose further quantitative and qualitative information regarding the nature and amount of revenues arising from contracts with customers, as well as other information about the significant judgments and estimates used in recognizing revenues from contracts with customers. The effective date of ASU 2014-09 was deferred by the issuance of ASU 2015-14,   Revenue from Contracts with Customers: Deferral of the Effective Date  ,   (Topic 606)   by one year to make the guidance of ASU 2014-09 effective for annual reporting periods beginning after December 15, 2017, including interim periods therein. Early adoption is permitted, but not prior to the original effective date, which was for annual reporting periods beginning after December 15, 2016. In March 2016, the FASB issued ASU 2016-08,   Revenue from Contracts with Customers     (Topic 606) Principal versus Agent Considerations (Reporting Revenue Gross versus Net  ), which clarifies how to apply the implementation guidance on principal versus agent considerations related to the sale of goods or services to a customer as updated by ASU 2014-09. In April 2016, the FASB issued ASU 2016-10,   Revenue from Contracts with Customers   (  Topic 606  )   Identifying Performance Obligations and Licensing,   which clarifies two aspects of Topic 606: identifying performance obligations and the licensing implementation guidance, while retaining the related principles for those areas, as updated by ASU 2014-09.     In May 2016, the FASB issued ASU 2016-12,   Revenue from Contracts with Customers (Topic 606): Narrow-Scope Improvements and Practical Expedients   (ASU 2016-12), which makes narrow scope amendments to Topic 606 including implementation issues on collectability, non-cash consideration and completed contracts at transition.     The Company is currently assessing the future impact of this guidance on its consolidated financial statements and related disclosures and expects to adopt these updates beginning January 1, 2018. 
+  In March 2016, the FASB issued ASU 2016-09,   Compensation-Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting   (ASU 2016-09), which simplifies several aspects of the accounting for share-based payment  
+  
+   13 
+
+award transactions, including the income tax consequences, classification of awards as either equity or liabilities, and classification on the statement of cash flows. ASU 2016-09 is effective for annual periods beginning after December 15, 2016, and interim periods within those annual periods. Early adoption is permitted. The Company is currently assessing the future impact of this update on its consolidated financial statements and related disclosures. 
+  In March 2016, the FASB issued ASU 2016-05,   Derivatives and Hedging (Topic 815): Effect of Derivative Contract Novations on Existing Hedge Accounting Relationships   (ASU 2016-05), which clarifies that a change in the counterparty to a derivative instrument that has been designated as the hedging instrument does not, in and of itself, require dedesignation of that hedging relationship provided that all other hedge accounting criteria remain intact. ASU 2016-05 is effective for annual periods beginning after December 15, 2017, including interim reporting periods therein, with early adoption permitted. The adoption of ASU 2016-05 on January 1, 2016 had no impact on the Company's consolidated financial statements and related disclosures. 
+  In September 2015, the FASB issued ASU 2015-16,   Business Combinations: Simplifying the Accounting for Measurement-Period Adjustments   (ASU 2015-16), which requires an acquirer to recognize adjustments to provisional amounts that are identified during the measurement period in the reporting period in which the adjustment amounts are determined. The amendments under ASU 2015-16 require that the acquirer record, in the same period's financial statements, the effect on earnings of changes in depreciation, amortization, or other income effects, if any, as a result of the change to the provisional amounts, calculated as if the accounting had been completed at the acquisition date. ASU 2015-16 also requires an entity to present separately on the face of the income statement or disclose in the notes the portion of the amount recorded in current-period earnings by line item that would have been recorded in previous reporting periods, if the adjustment to the provisional amounts had been recognized as of the acquisition date. ASU 2015-16 is effective for annual reporting periods beginning after December 15, 2015 and interim periods within those fiscal years. The amendments in this update should be applied prospectively to adjustments to provisional amounts that occur after the effective date with earlier application permitted for financial statements that have not been issued. The adoption of ASU 2015-16 on January 1, 2016 did not have a material impact on the Company s consolidated financial statements and related disclosures. 
+  In February 2015, the FASB issued ASU 2015-02,   Consolidation: Amendments to the Consolidation Analysis   (ASU 2015-02), which modifies the analysis that companies must perform in order to determine whether a legal entity should be consolidated. ASU 2015-02 simplifies current guidance by reducing the number of consolidation models; eliminating the risk that a reporting entity may have to consolidate based on a fee arrangement with another legal entity; placing more weight on the risk of loss in order to identify the party that has a controlling financial interest; reducing the number of instances that related party guidance needs to be applied when determining the party that has a controlling financial interest; and changing rules for companies in certain industries that ordinarily employ limited partnership or variable interest entity (VIE) structures. ASU 2015-02 is effective for public companies for fiscal years beginning after December 15, 2015 and interim periods within those fiscal periods. The adoption of ASU 2015-02 in the quarter ended March 31, 2016 resulted in certain entities formerly consolidated under the voting interest consolidation model to be consolidated in accordance with the variable interest model as further described in Note 5,   Variable Interest Entities.   The adoption of ASU 2015-02 did not result in the deconsolidation of any previously consolidated entities or the consolidation of any previously unconsolidated entities and had no impact on the Company's results of operations, and cash flows. 
+  In June 2014, the FASB issued ASU 2014-12,   Compensation   Stock Compensation   (ASU 2014-12), which requires an entity to treat a performance target that affects vesting that could be achieved after an employee completes the requisite service period as a performance condition. The performance target should not be reflected in estimating the grant-date fair value of the award. Compensation cost should be recognized in the period in which it becomes probable that the performance target will be achieved and should represent the compensation cost attributable to the period(s) for which the requisite service has already been rendered. If the performance target becomes probable of being achieved before the end of the requisite service period, the remaining unrecognized compensation cost should be recognized prospectively over the remaining requisite service period. The total amount of compensation cost recognized during and after the requisite service period should reflect the number of awards that are expected to vest and should be adjusted to reflect those awards that ultimately vest. The requisite service period ends when the employee can cease rendering service and still be eligible to vest in the award if the performance target is achieved. ASU 2014-12 is effective for interim and annual periods beginning after December 15, 2015, with early adoption permitted either prospectively or retrospectively to all prior periods presented. The adoption of ASU 2014-12 on January 1, 2016 had no impact on the Company's consolidated financial statements and related disclosures. 
+   
+  3.        Acquisitions    
+  On May 15, 2015, pursuant to a Purchase and Sale Agreement, the Company acquired   100%   of the membership interests in Lost Creek Wind Finco, LLC (Lost Creek Finco) from Wind Capital Group LLC, an unrelated third party, and   100%   of the membership interests in Lincoln County Wind Project Holdco, LLC (Lincoln County Holdco) from Lincoln County Wind Project Finco, LLC, an unrelated third party. Lost Creek Finco owns   100%   of the Class B membership interests in Lost Creek Wind Holdco, LLC (Lost  
+  
+   14 
+
+Creek Wind Holdco), a company which owns a   100%   interest in the Lost Creek wind project. Lincoln County Holdco owns   100%   of the Class B membership interests in Post Rock Wind Power Project, LLC, a company which owns a   100%   interest in the Post Rock wind project. The acquisition of   100%   of the membership interests in Lost Creek Finco and Lincoln County Holdco was for an aggregate consideration of approximately   $242.0 million  , paid at closing. The Company also assumed certain project level indebtedness and ordinary course performance guarantees securing project obligations. Lost Creek is a   150   MW wind project in King City, Missouri, and Post Rock is a   201  MW wind project in Ellsworth and Lincoln Counties, Kansas. 
+  The Company acquired assets and operating contracts for Lost Creek and Post Rock, including assumed liabilities. The identifiable assets and liabilities assumed were recorded at their fair values, which corresponded to the sum of the cash purchase price and the fair value of the other investors  noncontrolling interests. The accounting for the Lost Creek and Post Rock acquisitions is final. 
+  Supplemental pro forma data  
+  The unaudited pro forma statement of operations data below gives effect to the Lost Creek and Post Rock acquisitions as if they had occurred on January 1, 2014. The pro forma net income (loss) for the three and nine month periods ended September 30, 2015 was adjusted to exclude nonrecurring transaction related credits of   $0.2 million   and expenses of   $1.7 million  , respectively. The unaudited pro forma data is presented for illustrative purposes only and is not intended to be indicative of actual results that would have been achieved had these acquisitions been consummated as of January 1, 2014. The unaudited pro forma data should not be considered representative of the Company s future financial condition or results of operations. 
+
+The following table presents the amounts included in the consolidated statements of operations for Lost Creek and Post Rock since their respective dates of acquisition:  
+
+15 
+
+4.        Property, Plant and Equipment    
+  The table below presents the categories within property, plant and equipment as follows (in thousands): 
+
+The Company recorded depreciation expense related to property, plant and equipment of   $43.0 million   and   $128.7 million   for the   three and nine   months ended   September 30, 2016  , respectively, and recorded   $38.1 million   and   $100.6 million   for the same periods in the prior year. 
+   
+  5.         Variable Interest Entities    
+  As of January 1, 2016, certain operating entities that were formerly consolidated under the voting interest consolidation model are now consolidated in accordance with the VIE consolidation model as a result of the adoption of ASU 2015-02 as further discussed in Note 2,   Summary of Significant Accounting Policies  .  
+  The operating entities determined to be VIEs by the Company are Logan's Gap, Panhandle 1, Panhandle 2, Post Rock and Amazon Wind Farm Fowler Ridge primarily because the tax equity interests lack substantive kick-out and participating rights. The Company determined that as the managing member it is the primary beneficiary of each VIE by reference to the power and benefits criterion under ASC 810,   Consolidation  . The Company considered responsibilities within the contractual agreements, which grant it the power to direct the activities of the VIE that most significantly impact the VIE's economic performance. Such activities include management of the wind farms' operations and maintenance, budgeting, policies and procedures. In addition, the Company has the obligation to absorb losses or the right to receive benefits that could potentially be significant to the VIEs on the basis of the income allocations and cash distributions. 
+  
+   16 
+
+The following presents the carrying amounts of the consolidated VIEs' assets and liabilities included in the consolidated balance sheet (in thousands). Assets presented below are restricted for settlement of the consolidated VIEs' obligations and all liabilities presented below can only be settled using the VIE resources.  
+
+6.        Unconsolidated Investments    
+  The following projects are accounted for under the equity method of accounting and are presented in the Company's consolidated balance sheets for the periods below (in thousands): 
+
+(1)   As of   September 30, 2016  , the equity method investment balances in South Kent and Grand were   $0  . In accordance with ASC 323,   Investments - Equity Method and Joint Ventures,   the Company has suspended recognition of South Kent's and Grand's equity method earnings or losses and accumulated other comprehensive income (loss), if applicable, until such time as South Kent's and Grand's subsequent cumulative equity method earnings and other comprehensive income exceed cumulative distributions received, cumulative equity method losses and, where applicable, cumulative other comprehensive income (loss) during the suspension period. During the periods when South Kent's and Grand's equity method earnings or losses are suspended, the Company will record cash distributions received as gains in earnings (losses) in unconsolidated investments, net on the Company's consolidated statements of operations.  
+  
+   17 
+
+The following table summarizes the components of suspension during the period which are included in earnings (loss) in unconsolidated investments, net on the Company's consolidated statements of operations and components of suspension included in other comprehensive income (loss) (in thousands): 
+
+The following table summarizes the aggregated operating results of the unconsolidated investments for the   three and nine   months ended   September 30, 2016   and   2015  , respectively (in thousands): 
+
+Significant Equity Method Investee 
+  The following table presents summarized statements of operations information for the   three and nine   months ended   September 30, 2016   and   2015  , in thousands, as required for the Company's significant equity method investee, South Kent, pursuant to Regulation S-X Rule 10-01 (b)(1):  
+  South Kent 
+
+18 
+
+7.        Accounts Payable and Other Accrued Liabilities    
+  The following table presents the components of accounts payable and other accrued liabilities (in thousands): 
+
+8.        Revolving Credit Facility    
+  As of   September 30, 2016  ,   $433.3 million   was available for borrowing under the   $500.0 million   Revolving Credit Facility. The Revolving Credit Facility is secured by pledges of the capital stock and ownership interests in certain of the Company s holding company subsidiaries. The Revolving Credit Facility contains a broad range of covenants that, subject to certain exceptions, restrict the Company s holding company subsidiaries' ability to incur debt, grant liens, sell or lease assets, transfer equity interests, dissolve, pay distributions and change its business. As of   September 30, 2016  , the Company's holding company subsidiaries were in compliance with covenants contained in the Revolving Credit Facility. 
+  As of   September 30, 2016   and   December 31, 2015  , outstanding loan balances under the Revolving Credit Facility were   $35.0 million   and   $355.0 million  , respectively. In addition, as of   September 30, 2016   and   December 31, 2015  , letters of credit of   $31.7 million   and   $27.2 million  , respectively, were issued under the Revolving Credit Facility. 
+  
+   19 
+
+9.        Long-term Debt    
+  The Company s long-term debt for the following periods is presented below (in thousands): 
+
+(1)   
+    The amortization for the Ocotillo commercial term loan and the St. Joseph term loan are through June 2030 and September 2036, respectively, which differs from the stated maturity date of such loans due to prepayment requirements. 
+               (2)   
+    Includes impact of interest rate derivatives. Refer to Note   10  ,   Derivative Instruments  , for discussion of interest rate derivatives. 
+               (3)   
+    Amount is related to the Lost Creek term loan. 
+      Interest and commitment fees incurred and interest expense for long-term debt, the Revolving Credit Facility, Convertible Senior Notes and other finance related interest expense consisted of the following (in thousands): 
+
+Convertible Senior Notes due 2020 
+  In July 2015, the Company issued   $225.0 million   aggregate principal amount of   4.00%   convertible senior notes due 2020 (Convertible Senior Notes or 2020 Notes). The 2020 Notes bear interest at a rate of   4.00%   per year, payable semiannually in arrears on January 15 and July 15 of each year, beginning on January 15, 2016. The 2020 Notes will mature on July 15, 2020. The 2020 Notes were sold in a private placement. 
+  
+   20 
+
+The following table presents a summary of the equity and liability components of the 2020 Notes (in thousands): 
+
+(1)   
+    Included in the consolidated balance sheets within additional paid-in capital, net of   $0.7 million   in equity issuance costs. 
+     During the   three and nine   months ended   September 30, 2016  , in relation to the 2020 Notes, the Company recorded contractual coupon interest of   $2.4 million   and   $6.9 million  , amortization of financing costs of   $0.3 million   and   $0.8 million   and amortization of debt discount of   $1.1 million   and   $3.3 million  , respectively, in interest expense in the consolidated statements of operations. 
+   
+  10.        Derivative Instruments    
+  The Company employs a variety of derivative instruments to manage its exposure to fluctuations in electricity prices, interest rates and foreign currency exchange rates. Energy prices are subject to wide swings as supply and demand are impacted by, among many other unpredictable items, weather, market liquidity, generating facility availability, customer usage, storage, and transmission and transportation constraints. Interest rate risk exists primarily on variable-rate debt for which the cash flows vary based upon movement in market prices. Additionally, the Company is exposed to foreign currency exchange rate risk primarily from its business operations in Canada and Chile. The Company s objectives for holding these derivative instruments include reducing, eliminating and efficiently managing the economic impact of these exposures as effectively as possible. The Company does not hedge all of its electricity price risk, interest rate risks, and foreign currency exchange rate risks, thereby exposing the unhedged portions to changes in market prices. 
+  As of   September 30, 2016  , the Company had other energy-related contracts that did not meet the definition of a derivative instrument or qualified for the normal purchase normal sale scope exception and were therefore exempt from fair value accounting treatment. 
+  
+   21 
+
+The following tables present the fair values of the Company's derivative instruments on a gross basis as reflected on the Company s consolidated balance sheets (in thousands): 
+
+The following table summarizes the notional amounts of the Company's outstanding derivative instruments (in thousands except for MWh): 
+
+22 
+
+Derivatives Designated as Hedging Instruments 
+  Cash Flow Hedges 
+  The Company has interest rate swap agreements to hedge variable rate project-level debt. Under these interest rate swaps, the projects make fixed-rate interest payments and the counterparties to the agreements make variable-rate interest payments. For interest swaps that are designated and qualify as cash flow hedges, the effective portion of the gain or loss on the derivative is reported as a component of accumulated other comprehensive income (loss) and reclassified into earnings in the period or periods during which a cash settlement occurs. The designated interest rate swaps have remaining maturities ranging from approximately   11.0 years   to   20.0 years  . 
+  The following table presents gains and losses on derivative contracts designated and qualifying as cash flow hedges recognized in accumulated other comprehensive income (loss), as well as amounts reclassified to earnings for the following periods (in thousands): 
+
+The Company estimates that   $7.9 million   in accumulated other comprehensive loss will be reclassified into earnings over the next twelve months. 
+     Gulf Wind 
+  On July 28, 2015, in connection with the early extinguishment of Gulf Wind's term loan, the Company terminated the related interest rate swaps which resulted in the reclassification of   $11.2 million   in accumulated other comprehensive loss to realized loss on designated derivatives, net in the consolidated statements of operations. 
+  
+   23 
+
+Derivatives Not Designated as Hedging Instruments 
+  The following table presents gains and losses on derivatives not designated as hedges (in thousands): 
+
+Interest Rate Swaps 
+  The Company has interest rate swap agreements to hedge variable rate project-level debt. Under these interest rate swaps, the projects make fixed-rate interest payments and the counterparties to the agreements make variable-rate interest payments. For interest rate swaps that are not designated and do not qualify as cash flow hedges, the changes in fair value are recorded in gain (loss) on undesignated derivatives, net in the consolidated statements of operations as these hedges are not accounted for under hedge accounting. The undesignated interest rate swaps have remaining maturities ranging from approximately   4.5 years   to   13.8 years  . 
+  Energy Derivative  
+  In 2010, Gulf Wind acquired an energy derivative instrument to manage its exposure to variable electricity prices over the life of the arrangement. The energy price swap fixes the price for a predetermined volume of production (the notional volume) over the life of the swap contract, through   April 2019  , by locking in a fixed price per MWh. The notional volume agreed to by the parties is approximately   504,220   MWh per year. The energy derivative instrument does not meet the criteria required to adopt hedge accounting. As a result, changes in fair value are recorded in electricity sales in the consolidated statements of operations.  
+  As a result of the counterparty's credit rating downgrade, the Company received cash collateral related to the energy derivative agreement. The Company does not have the right to pledge, invest, or use the cash collateral for general corporate purposes. As of   September 30, 2016  , the Company has recorded a current asset of   $46.6 million   to funds deposited by counterparty and a current liability of   $46.6 million   to counterparty deposit liability representing the cash collateral received and corresponding obligation to return the cash collateral, respectively. The cash was deposited into a separate custodial account for which the Company is not entitled to the interest earned on the cash collateral. 
+  
+   24 
+
+Foreign Currency Forward Contracts 
+  The Company has established a currency risk management program. The objective of the program is to mitigate the foreign exchange rate risk arising from transactions or cash flows that have a direct or underlying exposure in non-U.S. dollar denominated currencies in order to reduce volatility in the Company s cash flow, which may have an adverse impact to our short-term liquidity or financial condition. A majority of the Company s power sale agreements and operating expenditures are transacted in U.S. dollars, with a growing portion transacted in currencies other than the U.S. dollar, primarily the Canadian dollar. The Company enters into foreign currency forward contracts at various times to mitigate the currency exchange rate risk on Canadian dollar denominated cash flows. These instruments have remaining maturities ranging from   one   to   twenty-one   months. The foreign currency forward contracts are considered non-designated derivative instruments and are not used for trading or speculative purposes. As a result, changes in fair value and settlements are recorded in gain (loss) on undesignated derivatives, net in the consolidated statements of operations. 
+   
+  11.        Accumulated Other Comprehensive Loss    
+  The following tables summarize the changes in the accumulated other comprehensive loss balance, net of tax, by component as follows (in thousands): 
+
+Amounts reclassified from accumulated other comprehensive loss into net loss for the effective portion of change in fair value of derivatives is recorded to interest expense in the consolidated statements of operations. Amounts reclassified from accumulated other comprehensive loss into net loss for the Company s proportionate share of equity investee s other comprehensive loss is recorded to earnings (loss) in unconsolidated investments, net in the consolidated statements of operations.  
+   
+  12.        Fair Value Measurements    
+  The Company s fair value measurements incorporate various factors, including the credit standing and performance risk of the counterparties, the applicable exit market, and specific risks inherent in the instrument. Nonperformance and credit risk adjustments  
+  
+   25 
+
+on risk management instruments are based on current market inputs when available, such as credit default hedge spreads. When such information is not available, internal models may be used. 
+  Assets and liabilities recorded at fair value in the consolidated financial statements are categorized based upon the level of judgment associated with the inputs used to measure their fair value. Hierarchical levels directly related to the amount of subjectivity associated with the inputs to valuation of these assets or liabilities are set forth below. Transfers between levels are recognized at the end of each quarter. The Company did not recognize any transfers between levels during the periods presented. 
+  Level 1 Inputs are unadjusted, quoted prices in active markets for identical assets or liabilities at the measurement date. 
+  Level 2 Inputs (other than quoted prices included in Level 1) are either directly or indirectly observable for the asset or liability through correlation with market data at the measurement date and for the duration of the instrument s anticipated life. 
+  Level 3 Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities and which reflect management s best estimate of what market participants would use in pricing the asset or liability at the measurement date. Consideration is given to the risk inherent in the valuations technique and the risk inherent in the inputs to the model. 
+  Financial Instruments 
+  The carrying value of financial instruments classified as current assets and current liabilities approximates their fair value, based on the nature and short maturity of these instruments, and they are presented in the Company s financial statements at carrying cost. The fair values of cash and cash equivalents and restricted cash are classified as Level 1 in the fair value hierarchy. Certain other assets and liabilities were measured at fair value upon initial recognition and unless conditions give rise to an impairment, are not remeasured. 
+  Financial Instruments Measured at Fair Value on a Recurring Basis 
+  The Company s financial assets and liabilities which require fair value measurement on a recurring basis are classified within the fair value hierarchy as follows (in thousands): 
+
+26 
+
+Level 2 Inputs 
+  Derivative instruments subject to re-measurement are presented in the financial statements at fair value. The Company's interest rate swaps were valued by discounting the net cash flows using the forward LIBOR curve with the valuations adjusted by the Company s credit default hedge rate. The Company s foreign currency forward contracts were valued using the income approach based on the present value of the forward rates less the contract rates, multiplied by the notional amounts.  
+  Level 3 Inputs 
+  The fair value of the energy derivative instrument is determined based on a third-party valuation model. The methodology and inputs are evaluated by management for consistency and reasonableness by comparing inputs used by the third-party valuation provider to another third-party pricing service for identical or similar instruments and also agreeing inputs used in the third-party valuation model to the derivative contract for accuracy. Any significant changes are further evaluated for reasonableness by obtaining additional documentation from the third-party valuation provider. 
+  The energy derivative instrument is valued by discounting the projected net cash flows over the remaining life of the derivative instrument using forward electricity prices which are derived from observable prices, such as forward gas curves, adjusted by a non-observable heat rate for when the contract term extends beyond a period for which market data is available. The significant unobservable input in calculating the fair value of the energy derivative instrument is forward electricity prices. Significant increases or decreases in this unobservable input would result in a significantly lower or higher fair value measurement.  
+  The valuation techniques and significant unobservable inputs used in recurring Level 3 fair value measurements were as follows (in thousands, for fair value): 
+
+(1) 
+    Represents price per MWh 
+     The following table presents a reconciliation of the energy derivative contract measured at fair value on a recurring basis using significant unobservable inputs (in thousands): 
+
+During the   three and nine   months ended   September 30, 2016  , the Company recognized unrealized losses on the energy derivative of   $0.8 million   and   $15.0 million  , respectively, and unrealized gains of   $4.6 million   and   $1.6 million  , respectively, for the same periods in the prior year, which were all recorded to electricity sales on the consolidated statements of operations. 
+  
+   27 
+
+Financial Instruments Not Measured at Fair Value 
+  The following table presents the carrying amount and fair value and the fair value hierarchy of the Company s financial liabilities that are not measured at fair value in the consolidated balance sheets, but for which fair value is disclosed (in thousands):  
+
+Long-term debt and the convertible senior notes are presented on the consolidated balance sheets, net of financing costs, discounts and premiums. The fair value of variable interest rate long-term debt is approximated by its carrying cost. The fair value of fixed interest rate long-term debt is estimated based on observable market prices or parameters or derived from such prices or parameters. Where observable prices or inputs are not available, valuation models are applied, using the net present value of cash flow streams over the term using estimated market rates for similar instruments and remaining terms. 
+   
+  13.        Stockholders' Equity    
+  Common Stock 
+  On August 12, 2016, the Company completed an underwritten public offering of its Class A common stock. In total,   10,000,000   shares of the Company's Class A common stock were sold. In connection with the equity offering, the underwriters had a 30-day option to purchase up to an additional   1,500,000   shares of Class A common stock to cover over-allotments. On August 22, 2016, the underwriters partially exercised their over-allotment option and purchased an additional   1,300,000   shares of Class A common stock. Aggregate net proceeds of the equity offering, including the proceeds of the over-allotment option, were approximately   $258.6 million   after deduction of underwriting discounts, commissions, and transaction expenses. 
+  On May 9, 2016, the Company entered into an Equity Distribution Agreement with RBC Capital Markets, LLC, KeyBanc Capital Markets Inc. and Morgan Stanley   Co. LLC (collectively, the Agents). Pursuant to the terms of the Equity Distribution Agreement, the Company may offer and sell shares of the Company s Class A common stock, par value   $0.01   per share, from time to time through the Agents, as the Company s sales agents for the offer and sale of the shares, up to an aggregate sales price of   $200.0 million  . The Company intends to use the net proceeds from the sale of the shares for general corporate purposes, which may include the repayment of indebtedness and the funding of acquisitions and investments. For the   three and nine   months ended   September 30, 2016  , the Company sold   1,240,504   shares under the Equity Distribution Agreement and net proceeds under the issuances were   $27.6 million     and the aggregate compensation paid by the Company to the Agents with respect to such sales was   $0.3 million  . 
+  Dividends 
+  The following table presents cash dividends declared on Class A common stock for the periods presented: 
+
+28 
+
+Noncontrolling Interests 
+  The table below presents the balances for noncontrolling interests by project as follows (in thousands): 
+
+The table below presents the components of total noncontrolling interest as reported in stockholders  equity and the consolidated balance sheets as follows (in thousands): 
+
+14.        Loss Per Share    
+  Basic loss per share is computed by dividing net loss attributable to common stockholders by the weighted average number of common shares outstanding during the reportable period. Diluted loss per share is computed by adjusting basic loss per share for the effect of all potential common shares unless they are anti-dilutive. For purpose of this calculation, potentially dilutive securities are determined by applying the treasury stock method to the assumed exercise of in-the-money stock options and the assumed vesting of outstanding restricted stock awards (RSAs) and release of deferred restricted stock units (RSUs). Potentially dilutive securities related to convertible senior notes are determined using the if-converted method.  
+  The Company's vested deferred RSUs have non-forfeitable rights to dividends prior to release and are considered participating securities. Accordingly, they are included in the computation of basic and diluted loss per share, pursuant to the two-class method. Under the two-class method, distributed and undistributed earnings allocated to participating securities are excluded from net loss attributable to common stockholders for purposes of calculating basic and diluted loss per share. However, net losses are not allocated to participating securities since they are not contractually obligated to share in the losses of the Company. 
+  For the   three and nine   months ended   September 30, 2016  , the Company excluded   8,121,850   and   8,115,741  , respectively, and excluded   5,578,764   and   2,027,347   for the same periods in the prior year, of potentially dilutive securities from the diluted loss per share calculation as their effect is anti-dilutive. 
+  
+   29 
+
+The computations for Class A basic and diluted loss per share are as follows (in thousands except share data): 
+
+15.        Commitments and Contingencies    
+  Acquisition Commitment 
+  On September 21, 2016, the Company committed to acquire from Pattern Development a   50%   interest in Armow, a   179   MW wind project in Ontario, Canada for a purchase price of approximately   $133.0 million  . The acquisition was completed on October 17, 2016 and was funded from cash available and draws under the Company's Revolving Credit Facility. See Note 17,   Subsequent Events   of this Form 10-Q for additional information. 
+  On June 30, 2016, the Company committed to acquire from Pattern Development an   84%   interest in Broadview, a   324   MW wind project and a   99%   interest in the associated independent 35-mile   345   kV Western Interconnect transmission line for a purchase price of approximately   $269.0 million   (Broadview Acquisition), which will be funded at the commencement of commercial operations, currently estimated to occur in the first half of 2017.  
+  Letters of Credit 
+  Power Sale Agreements  
+  The Company owns and operates wind power projects, and has entered into various long-term PSAs that terminate from   2019   to   2039  . The terms of these agreements generally provide for the annual delivery of a minimum amount of electricity at fixed prices and in some cases include price escalation over the term of the agreement. Under the terms of these agreements, as of   September 30, 2016  , the Company issued irrevocable letters of credits to guarantee its performance for the duration of the agreements totaling   $107.0 million  .  
+  Project Finance and Lease Agreements 
+  The Company has various project finance and lease agreements which obligate the Company to provide certain reserves to enhance its credit worthiness and facilitate the availability of credit. As of   September 30, 2016  , the Company issued irrevocable letters of credit totaling   $108.8 million   to ensure performance under these various project finance and lease agreements, including the Revolving Credit Facility. 
+  
+   30 
+
+Contingencies 
+  Turbine Operating Warranties and Service Guarantees 
+  The Company has various turbine availability warranties and service guarantees from either its turbine manufacturers or service and maintenance providers. The service guarantees, primarily from one provider, are associated with long-term turbine service arrangements which commenced on various dates in 2014 and 2015 for certain wind projects. Pursuant to these warranties and service guarantees, if a turbine operates at less than minimum availability during the warranty period, the turbine manufacturer or service provider is obligated to pay, as liquidated damages, an amount for each percent that the turbine operates below the minimum availability threshold. In addition, if a turbine operates at more than a specified availability during the warranty period, the Company has an obligation to pay a bonus to the turbine manufacturer or service provider. As of   September 30, 2016  , the Company recorded liabilities of   $3.4 million   associated with bonuses payable to the turbine manufacturers and service providers. 
+  Legal Matters 
+  From time to time, the Company has become involved in claims and legal matters arising in the ordinary course of business. Management is not currently aware of any matters that will have a material adverse effect on the financial position, results of operations, or cash flows of the Company. 
+  Indemnity 
+  The Company provides a variety of indemnities in the ordinary course of business to contractual counterparties and to its lenders and other financial partners. The Company is party to certain indemnities for the benefit of project finance lenders and tax equity partners of certain projects. These consist principally of indemnities that protect the project finance lenders from, among other things, the potential effect of any recapture by the U.S. Department of the Treasury of any amount of the Cash Grants previously received by the projects and eligibility of production tax credits and certain legal matters, limited to the amount of certain related costs and expenses. 
+   
+  16.        Related Party Transactions    
+  Management Services Agreement and Shared Management 
+  The Company has entered into a bilateral Management Services Agreement with Pattern Development which provides for the Company and Pattern Development to benefit, primarily on a cost-reimbursement basis plus a   5%   fee on certain direct costs, including the parties  respective management and other professional, technical and administrative personnel, all of whom report to the Company s executive officers. Costs and expenses incurred at Pattern Development or its subsidiaries on the Company's behalf will be allocated to the Company. Conversely, costs and expenses incurred at the Company or its subsidiaries on the behalf of Pattern Development will be allocated to Pattern Development. 
+  Pursuant to the bilateral Management Services Agreement, certain of the Company s executive officers, including its Chief Executive Officer (shared PEG executives), also serve as executive officers of Pattern Development and devote their time to both the Company and Pattern Development as is prudent in carrying out their executive responsibilities and fiduciary duties. The shared PEG executives have responsibilities for both the Company and Pattern Development and, as a result, these individuals do not devote all of their time to the Company s business. Under the terms of the Management Services Agreement, Pattern Development is required to reimburse the Company for an allocation of the compensation paid to such shared PEG executives reflecting the percentage of time spent providing services to Pattern Development. 
+  
+   31 
+
+The following table presents net bilateral management service cost reimbursements included in the consolidated statements of operations (in thousands): 
+
+As of   September 30, 2016   and   December 31, 2015  , the net amounts payable to Pattern Development for bilateral management service cost reimbursements were   $2.0 million   and   $1.6 million  , respectively. In addition, the Company recorded a receivable of   $0.1 million   and   $0.1 million   as of   September 30, 2016   and   December 31, 2015  , respectively, related to expense reimbursements due from Pattern Development. 
+  Management Fees 
+  The Company provides management services and receives a fee for such services under agreements with its joint venture investees, South Kent, Grand and K2, in addition to various Pattern Development subsidiaries. The following table presents revenue for these agreements included in the consolidated statements of operations (in thousands): 
+
+A related party receivable of   $0.9 million   and   $0.6 million   was recorded in the consolidated balance sheets as of   September 30, 2016   and   December 31, 2015  , respectively. 
+   
+  17.        Subsequent Events 
+  On November 4, 2016, the Company declared an increased dividend for the fourth quarter, payable on   January 31, 2017  , to holders of record on   December 30, 2016  , in the amount of   $0.408   per Class A share, or $  1.632   on an annualized basis. This is   2.0%   increase from the third quarter of 2016. 
+  On October 17, 2016, the Company acquired from Pattern Development a   50%   limited partnership interest in SP Armow Wind Ontario LP (the Armow Project Company), as well as   100%   of the issued and outstanding shares in the capital of Pattern Armow GP Holdings Inc. for consideration of approximately   $133.0 million  , plus accrued estimated proportionate debt of approximately   $197.1 million   U.S. dollar equivalent. The Armow Project Company operates the approximately   179   MW wind farm located in the Municipality of Kincardine in Bruce County, Ontario, Canada which achieved commercial operation in December 2015. The purchase price was funded through a draw under the Revolving Credit Facility and available cash.  
+
+32 
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+  The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our audited consolidated financial statements and related notes thereto included as part of our Annual Report on Form 10-K for the year ended   December 31, 2015   and our unaudited consolidated financial statements for the   three and nine   months ended   September 30, 2016   and other disclosures (including the disclosures under  Part II. Item 1A. Risk Factors ) included in this Quarterly Report on Form 10-Q. Our consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles and are presented in U.S. dollars. Unless the context provides otherwise, references herein to  we,   our,   us,   our company  and  Pattern Energy  refer to Pattern Energy Group Inc., a Delaware corporation, together with its consolidated subsidiaries. 
+   
+  Overview  
+  We are an independent power company focused on owning and operating power projects with stable long-term cash flows in attractive markets with potential for continued growth of our business. We hold interests in 18 wind power projects, including the Armow project which we acquired on October 17, 2016, and the Broadview project which we have committed to acquire, located in the United States, Canada and Chile that use proven, best-in-class technology and have a total owned capacity of 2,644 MW. Each of our projects has contracted to sell all or a majority of its output pursuant to a long-term, fixed-price power sale agreement (PPA). Ninety-one percent of the electricity to be generated by our projects will be sold under our power sale agreements which have a weighted average remaining contract life of approximately 14 years. 
+  We intend to maximize long-term value for our stockholders in an environmentally responsible manner and with respect for the communities in which we operate. Our business is built around three core values of creative energy and spirit, pride of ownership and follow-through, and a team first attitude, which guide us in creating a safe, high-integrity work environment, applying rigorous analysis to all aspects of our business, and proactively working with our stakeholders to address environmental and community concerns. Our financial objectives, which we believe will maximize long-term value for our stockholders, are to produce stable and sustainable cash available for distribution, selectively grow our project portfolio and our dividend per Class A share and maintain a strong balance sheet and flexible capital structure. 
+  Our growth strategy is focused on the acquisition of operational and construction-ready power projects from Pattern Development and other third parties that we believe will contribute to the growth of our business and enable us to increase our dividend per Class A share over time. Pattern Development is a leading developer of renewable energy and transmission projects. We believe Pattern Development s ownership position in our company incentivizes Pattern Development to support the successful execution of our objectives and business strategy, including through the development of projects to the stage where they are at least construction-ready. Currently, Pattern Development has a 5,900 MW pipeline of development projects, all of which are subject to our right of first offer. We target achieving a total owned capacity of 5,000 MW by year end 2019 through a combination of acquisitions from Pattern Development and third parties capitalizing on the large fragmented global renewable energy market. In addition, we expect opportunities in Japan and Mexico will form part of our growth strategy. 
+  The discussion and analysis below has been organized as follows: 
+             
+    Recent Developments 
+                
+    Key Metrics 
+                
+    Results of Operations 
+                
+    Liquidity and Capital Resources 
+                
+    Sources of Liquidity 
+                
+    Uses of Liquidity 
+                
+    Critical Accounting Policies and Estimates 
+
+Recent Developments  
+  On October 17, 2016, we acquired from Pattern Development a 50% limited partnership interest in SP Armow Wind Ontario LP (the Armow Project Company), as well as 100% of the issued and outstanding shares in the capital of Pattern Armow GP Holdings Inc. for consideration of approximately $133.0 million, plus accrued estimated proportionate debt of approximately $197.1 million  
+  
+   33 
+
+U.S. dollar equivalent. The Armow Project Company operates the approximately 179 MW wind farm located in the Municipality of Kincardine in Bruce County, Ontario, Canada which achieved commercial operations in December 2015. The purchase price was funded through a draw under our Revolving Credit Facility and available cash. 
+  On August 12, 2016, we completed an underwritten public offering of our Class A common stock. In total, 10,000,000 shares of our Class A common stock were sold. In connection with the equity offering, the underwriters had a 30-day option to purchase up to an additional 1,500,000 shares of Class A common stock to cover over-allotments. On August 22, 2016, the underwriters partially exercised their over-allotment option and purchased an additional 1,300,000 shares of Class A common stock. Aggregate net proceeds of the equity offering, including the proceeds of the over-allotment option, were approximately   $258.6 million   after deduction of underwriting discounts, commissions, and transaction expenses. 
+  On June 30, 2016, we committed to acquire from Pattern Development an 84% interest in Broadview, a 324 MW wind project and a 99% interest in the associated independent 35-mile 345 kV Western Interconnect transmission line for a purchase price of approximately   $269.0 million   (Broadview Acquisition), which will be funded at the commencement of commercial operations, currently estimated to occur in the first half of 2017. We can meet the contemplated cash purchase consideration using part of our available liquidity and long-term project holding company debt financing commitments arranged at the time of the purchase commitment which total up to $160.0 million with various maturities from five to ten years. We believe that we do not need to raise equity in order to complete the Broadview Acquisition; however, we retain the flexibility to use retained cash flow or raise equity, corporate debt, project holding company debt or other financing arrangements prior to the closing of the Broadview Acquisition in lieu of using one or more of     project holding company debt financing commitments. 
+  On May 9, 2016, we entered into an Equity Distribution Agreement with RBC Capital Markets, LLC, KeyBanc Capital Markets Inc. and Morgan Stanley   Co. LLC (collectively, the Agents). Pursuant to the terms of the Equity Distribution Agreement, we may offer and sell shares of our Class A common stock, par value   $0.01   per share, from time to time through the Agents, as our sales agents for the offer and sale of the shares, up to an aggregate sales price of   $200.0 million  . We intend to use the net proceeds from the sale of the shares for general corporate purposes, which may include the repayment of indebtedness and the funding of acquisitions and investments. For the   three and nine   months ended   September 30, 2016  , we sold   1,240,504   shares under the Equity Distribution Agreement and net proceeds under the issuances were   $27.6 million  . 
+  Below is a summary of our Identified Right of First Offer Projects that we expect to acquire from Pattern Development in connection with our purchase right.  
+
+(1) 
+    Represents year of actual or anticipated commencement of construction. 
+              (2) 
+    Represents year of actual or anticipated commencement of commercial operations. 
+              (3) 
+    Rated capacity represents the maximum electricity generating capacity of a project in MW. As a result of wind and other conditions, a project or a turbine will not operate at its rated capacity at all times and the amount of electricity generated will be less than its rated capacity. The amount of electricity generated may vary based on a variety of factors.  
+              (4) 
+    Pattern Development-owned capacity represents the maximum, or rated, electricity generating capacity of the project in MW multiplied by Pattern Development s percentage ownership interest in the distributable cash flow of the project. 
+
+34 
+
+Key Metrics 
+  We regularly review a number of financial measurements and operating metrics to evaluate our performance, measure our growth and make strategic decisions. In addition to traditional U.S. GAAP performance and liquidity measures, such as total revenue, cost of revenue, net loss and net cash provided by operating activities, we also consider cash available for distribution as a supplemental liquidity measure and Adjusted EBITDA, MWh sold and average realized electricity price in evaluating our operating performance. We disclose cash available for distribution, which is a non-U.S. GAAP measure, because management recognizes that it will be used as a supplemental measure by investors and analysts to evaluate our liquidity. We disclose Adjusted EBITDA, which is a non-U.S. GAAP measure, because management believes this metric assists investors and analysts in comparing our operating performance across reporting periods on a consistent basis by excluding items that our management believes are not indicative of our core operating performance. Each of these key metrics is discussed below. 
+  Cash Available for Distribution 
+  We define cash available for distribution as net cash provided by operating activities as adjusted for certain other cash flow items that we associate with our operations. It is a non-U.S. GAAP measure of our ability to generate cash to service our dividends.  
+  Cash available for distribution represents cash provided by operating activities as adjusted to (i) add or subtract changes in operating assets and liabilities, (ii) subtract net deposits into restricted cash accounts, which are required pursuant to the cash reserve requirements of financing agreements, to the extent they are paid from operating cash flows during a period, (iii) subtract cash distributions paid to noncontrolling interests, (iv) subtract scheduled project-level debt repayments in accordance with the related loan amortization schedule, to the extent they are paid from operating cash flows during a period, (v) subtract non-expansionary capital expenditures, to the extent they are paid from operating cash flows during a period, (vi) add cash distributions received from unconsolidated investments, to the extent such distributions were derived from operating cash flows and (vii) add or subtract other items as necessary to present the cash flows we deem representative of our core business operations. 
+  The most directly comparable U.S. GAAP measure to cash available for distribution is net cash provided by operating activities. The following table is a reconciliation of our net cash provided by operating activities to cash available for distribution for the periods presented (unaudited and in thousands): 
+
+Cash available for distribution was   $20.2 million   for the three months ended   September 30, 2016   as compared to   $22.3 million   for the same period in the prior year. This   $2.1 million   decrease in cash available for distribution was primarily due to the partial refund of deposit associated with the Gulf Wind energy derivative of $5.4 million received in 2015 offset by a reduction in principal payments of $2.6 million. 
+  Cash available for distribution was   $96.7 million   for the nine months ended   September 30, 2016   as compared to   $59.6 million   for the same period in the prior year. This   $37.1 million   increase in cash available for distribution was due to additional revenues of   $51.4 million   (excluding unrealized loss on energy derivative and amortization of PPAs) primarily from projects which were acquired since May 2015 or which commenced commercial operations in September 2015. In addition, we received an increase  
+  
+   35 
+
+of   $16.6 million   in cash distributions from our unconsolidated investments when compared to the same period in the prior year due to a full period of operation at each of our unconsolidated investments in 2016. These increases were partially offset by increases in project expenses of   $14.9 million   and operating expenses of   $10.9 million  , primarily from projects which commenced commercial operations or were acquired during 2015, as well as, increased distributions to noncontrolling interests of   $7.4 million  . 
+  Adjusted EBITDA 
+  We define Adjusted EBITDA as net income (loss) before net interest expense, income taxes, and depreciation, amortization and accretion, including our proportionate share of net interest expense, income taxes, and depreciation, amortization and accretion of unconsolidated investments. Adjusted EBITDA also excludes the effect of certain mark-to-market adjustments and infrequent items not related to normal or ongoing operations, such as early payment of debt, realized derivative gain or loss from refinancing transactions, gain or loss related to acquisitions or divestitures, and adjustments from unconsolidated investments. In calculating Adjusted EBITDA, we exclude mark-to-market adjustments to the value of our derivatives because we believe that it is useful for investors to understand, as a supplement to net income (loss) and other traditional measures of operating results, the results of our operations without regard to periodic, and sometimes material, fluctuations in the market value of such assets or liabilities. 
+  During the   nine   months ended   September 30, 2016  , the equity method of accounting for our investments at South Kent and Grand has been suspended as the carrying values of our investments were reduced to zero. Our definition of Adjusted EBITDA has accordingly been modified within the current periods to include adjustments (gains on distributions and suspended equity losses) from unconsolidated investments. 
+  The most directly comparable U.S. GAAP measure to Adjusted EBITDA is net income (loss). The following table reconciles net income (loss) to Adjusted EBITDA for the periods presented (unaudited and in thousands): 
+
+(1)  
+    Amount is included in electricity sales on the consolidated statements of operations. 
+              (2) 
+    Amount consists of gains on distributions from unconsolidated investments and suspended equity losses of   $5.8 million   and   $2.7 million   for the   three   months ended   September 30, 2016  , respectively and   $15.0 million   and   $4.6 million   for the   nine   months ended   September 30, 2016  , respectively. 
+     Adjusted EBITDA for the   three   months ended   September 30, 2016   was   $62.3 million   compared to   $58.7 million   for the same period in the prior year, an increase of   $3.6 million  , or approximately   6.1%  . The increase in Adjusted EBITDA for the   three   months ended   September 30, 2016   as compared to the same period in the prior year was primarily attributable to projects which commenced commercial operations since September 2015.  
+  
+   36 
+
+Adjusted EBITDA for the   nine   months ended   September 30, 2016   was   $219.0 million   compared to   $172.3 million   for the same period in the prior year, an increase of   $46.7 million   or approximately   27.1%  . The increase in Adjusted EBITDA for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year was primarily attributable to projects which commenced commercial operations or were acquired since May 2015.  
+  MWh Sold and Average Realized Electricity Price  
+  The number of consolidated MWh, unconsolidated investments proportional MWh and proportional MWh sold, as well as consolidated average realized price per MWh and the proportional average realized price per MWh sold, are the operating metrics that help explain trends in our revenue, earnings from our unconsolidated investments and net income (loss) attributable to us. 
+             
+    Consolidated MWh sold for any period presented, represents 100% of MWh sold by wholly-owned and partially-owned subsidiaries in which we have a controlling interest and are consolidated in our consolidated financial statements; 
+                
+    Noncontrolling interest MWh represents that portion of partially-owned subsidiaries not attributable to us; 
+                
+    Controlling interest in consolidated MWh is the difference between the consolidated MWh sold and the noncontrolling interest MWh; 
+                
+    Unconsolidated investments proportional MWh is our proportion in MWh sold from our equity method investments;  
+                
+    Proportional MWh sold for any period presented, represents the sum of the controlling interest and our percentage interest in our unconsolidated investments; and 
+                
+    Average realized electricity price for each of consolidated MWh sold, unconsolidated investments proportional MWh sold and proportional MWh sold represents (i) total revenue from electricity sales for each of the respective MWh sold, discussed above, excluding unrealized gains and losses on our energy derivative and the amortization of finite-lived intangible assets and liabilities, divided by (ii) the respective MWh sold. 
+     The following table presents selected operating performance metrics for the periods presented (unaudited): 
+
+Our consolidated MWh sold for the   three   months ended   September 30, 2016   was   1,526,221   MWh, as compared to   1,341,917   MWh for the   three   months ended   September 30, 2015  , an increase of   184,304   MWh, or   13.7%  . The change in consolidated MWh sold was primarily attributable to an increase in volume of 160,976 MWh from projects which commenced commercial operations since September 2015 and a slight increase in volume of 23,328 MWh from projects owned or in operation prior to May 2015. 
+  
+   37 
+
+Our consolidated MWh sold for the   nine   months ended   September 30, 2016   was   5,055,723   MWh, as compared to   3,586,128   MWh for the   nine   months ended   September 30, 2015  , an increase of   1,469,595   MWh, or   41.0%  . The change in consolidated MWh sold was primarily attributable to: 
+     Our proportional MWh sold for the   three   months ended   September 30, 2016   was   1,472,300   MWh, as compared to   1,260,385   MWh for the   three   months ended   September 30, 2015  , an increase of   211,915   MWh, or   16.8%  . The change in proportional MWh sold was primarily attributable to: 
+             
+    an increase in volume of   200,289   MWh from controlling interest in consolidated MWh; and  
+                
+    an increase in volume of   11,626   MWh from unconsolidated investments. 
+     Our proportional MWh sold for the   nine   months ended   September 30, 2016   was   4,988,621   MWh, as compared to   3,421,791   MWh for the   nine   months ended   September 30, 2015  , an increase of   1,566,830   MWh, or   45.8%  . The change in proportional MWh sold was primarily attributable to: 
+             
+    an increase in volume of   1,408,407   MWh from controlling interest in consolidated MWh; and  
+      Our consolidated average realized electricity price was   $60   per MWh for the   three   months ended   September 30, 2016   as compared to   $63   per MWh for the   three   months ended   September 30, 2015  . The decrease of   $3   per MWh was primarily due to an increase in volume of lower priced PPAs and lower spot market pricing.  
+  Our consolidated average realized electricity price was   $56   per MWh for the   nine   months ended   September 30, 2016   as compared to   $65   per MWh for the   nine   months ended   September 30, 2015  . The decrease of   $9   per MWh was primarily due to an increase in volume of lower priced PPAs and lower spot market pricing. 
+  Our proportional average realized electricity price was   $68   per MWh for the   three   months ended   September 30, 2016   as compared to     $73   per MWh for the   three   months ended   September 30, 2015  . The   $5   per MWh decrease in the proportional average realized electricity price was primarily due to an increase in volume of lower priced PPAs and lower spot market pricing partially offset by higher average price in unconsolidated investments primarily due to an increase in volume at higher prices.  
+  Our proportional average realized electricity price was   $66   per MWh for the   nine   months ended   September 30, 2016   as compared to   $76   per MWh for the   nine   months ended   September 30, 2015  . The   $10   per MWh decrease in the proportional average realized electricity price was primarily due to an increase in volume of lower priced PPAs and lower spot market pricing partially offset by higher average price in unconsolidated investments primarily due to an increase in volume, in particular K2 which was acquired in June 2015, at higher prices.  
+  
+   38 
+
+Results of Operations  
+  The following table and discussion provide selected financial information for the three and nine month periods presented and are unaudited (in thousands, except percentages): 
+
+Total revenue 
+  Total revenue for the   three   months ended   September 30, 2016   was   $91.9 million   compared to   $89.7 million   for the   three   months ended   September 30, 2015  , an increase of   $2.2 million  , or approximately   2.5%  . The increase in total revenue for the   three   months ended   September 30, 2016   as compared to the same period in the prior year was primarily attributable to $6.7 million in additional electricity sales from projects which commenced commercial operations since September 2015 partially offset by $5.4 million in higher unrealized losses due to higher forward electricity price curves when compared to the prior period.  
+  Total revenue for the   nine   months ended   September 30, 2016   was   $273.0 million   compared to   $239.2 million   for the   nine   months ended   September 30, 2015  , an increase of   $33.8 million  , or approximately   14.1%  . The increase in total revenue for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year was primarily attributable to $23.0 million from projects acquired in May 2015 and $23.7 million in additional electricity sales from projects which commenced commercial operations since September 2015. These increases were partially offset by $16.6 million in higher unrealized losses due to higher forward electricity price curves when compared to the prior period. 
+  Cost of revenue  
+  Cost of revenue for the   three   months ended   September 30, 2016   was   $75.1 million   compared to   $67.4 million   for the   three   months ended   September 30, 2015  , an increase of   $7.6 million  , or approximately   11.3%  . The increase in cost of revenue for the   three   months ended   September 30, 2016   as compared to the same period in the prior year was primarily attributable to a $5.0 million increase in depreciation expense, a $2.6 million increase in turbine maintenance and $1.2 million in other project expenses primarily for new projects which became commercially operable since September 2015. The increases were partially offset by decreases in property taxes of $1.5 million.  
+  Cost of revenue for the   nine   months ended   September 30, 2016   was   $227.8 million   compared to   $184.1 million   for the   nine   months ended   September 30, 2015  , an increase of   $43.7 million  , or approximately   23.7%  . The increase in cost of revenue for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year was primarily attributable to a $28.7 million increase in depreciation expense and a $13.0 million increase in turbine operations and maintenance expense, and $1.6 million for land leases and royalties primarily for new projects which were acquired in May 2015 or became commercially operable since September 2015.  
+  
+   39 
+
+Operating expenses 
+  Operating expenses for the   three   months ended   September 30, 2016   were   $14.7 million   compared to   $9.1 million   for the   three   months ended   September 30, 2015  , an increase of   $5.6 million  , or approximately   61.9%  . The increase in operating expenses for the   three   months ended   September 30, 2016   as compared to the same period in the prior year was primarily attributable to $1.9 million increase in payroll and non-cash stock based compensation, a $2.4 million increase in professional fees and office leases and a $1.7 million increase in related party expenses.  
+  Operating expenses for the   nine   months ended   September 30, 2016   were   $38.5 million   compared to   $27.6 million   for the   nine   months ended   September 30, 2015  , an increase of   $10.9 million  , or approximately   39.4%  . The increase in operating expenses for the   nine   months ended   September 30, 2016   as compared to the same period in the prior year was primarily attributable to a $5.4 million increase in payroll and non-cash stock based compensation, a $3.5 million increase in professional fees and office leases and a $2.1 million increase in related party expenses.  
+  Other expense 
+  Other expense for the   three   months ended   September 30, 2016   was   $11.8 million   compared to   $50.7 million   for the   three   months ended   September 30, 2015  , a decrease of   $38.8 million  , or approximately   76.6%  . The change was primarily attributable to: 
+             
+    a $14.6 million increase in earnings in unconsolidated investments, net primarily due to increased recognition of gains on distributions from unconsolidated investments as a result of the 2016 suspension of equity method accounting for certain of our unconsolidated investments with decreased project income primarily due to unrealized losses on undesignated derivatives; 
+                
+    a $11.2 million realized loss on designated derivatives, net for the July 2015 termination of a designated interest rate swap;  
+                
+    a $7.9 million increase earnings from gain (loss) on undesignated derivatives, net primarily due to increases in the interest rate price curves compared to decreases in the interest rate price curves in the prior year; and  
+      Other expense for the   nine   months ended   September 30, 2016   was   $58.4 million   compared to   $78.6 million   for the   nine   months ended   September 30, 2015  , a decrease of   $20.2 million   or approximately   25.7%  . The change was primarily attributable to: 
+             
+    a $15.0 million increase in earnings in unconsolidated investments, net primarily due to increased recognition of gains on distributions from unconsolidated investments as a result of the 2016 suspension of equity method accounting for certain of our unconsolidated investments with decreased project income primarily due to unrealized losses on undesignated derivatives; 
+                
+    a $11.2 million realized loss on designated derivatives, net for the July 2015 termination of a designated interest rate swap;  
+                 
+    a $3.6 million increase in other income primarily from foreign currency transactions; and 
+                
+    a $2.3 million decrease in net losses on transactions.  
+     These decreases were partially offset by the following: 
+             
+    a $12.4 million increase in loss on undesignated derivatives, net primarily due to losses from lower interest rate price curves on interest rate derivatives as well as lower foreign currency rates on foreign currency derivatives compared to the prior year; and  
+                
+    a $5.3 million increase in interest expense primarily due to the issuance of convertible debt in July 2015, increased loan balances on the Revolving Credit Facility and an additional loan for an acquired project in 2015. 
+     
+   40 
+
+Tax provision 
+  The tax provision was   $1.3 million   for the   three   months ended   September 30, 2016   compared to a tax benefit of   $2.2 million   for the   three   months ended   September 30, 2015  . The expense provision for the three months ended September 30, 2016 was primarily the result of recording a deferred tax liability on the recognized equity income from operations in unconsolidated investments, tax expense in our Canadian and Puerto Rican operations (exclusive of our unconsolidated investments mentioned above) and the foreign withholding taxes on intercompany transactions in certain foreign jurisdictions offset by recognizing a deferred tax asset on the recognized losses in Chile. The tax benefit for the three months ended September 30, 2015 was primarily the result of reducing the deferred tax liability on the recognized earnings in unconsolidated investments related to unrealized losses on undesignated derivatives, recognizing a deferred tax asset on the recognized losses in Chile offset by the tax expense in our Canadian and Puerto Rican operations and the foreign withholding taxes on intercompany transactions in certain foreign jurisdictions. 
+  The tax provision was   $4.0 million   for the   nine   months ended   September 30, 2016   compared to a tax provision of   $0.7 million   for the   nine   months ended   September 30, 2015  . The expense provision for the nine months ended September 30, 2016 was primarily the result of recording a deferred tax liability on the recognized earnings in unconsolidated investments, tax expense in our Canadian and Puerto Rican operations and the foreign withholding taxes on intercompany transactions in certain foreign jurisdictions offset by recognizing a deferred tax asset on the recognized losses in Chile.  
+  Net loss  
+  Net loss for the three months ended   September 30, 2016  , was   $11.1 million   compared to   $35.3 million   for the same period in the prior year; a decrease of   $24.3 million   or   68.7%  . The decrease was primarily attributed to:  
+             
+    a $38.8 million decrease in other expense primarily related to an increase in earnings in unconsolidated investments, expenses in 2015 for the early extinguishment of debt and termination of designated interest rate derivatives; and 
+                
+    a $2.2 million increase in total revenues, as discussed above.  
+     These decreases were partially offset by: 
+             
+    a $7.6 million increase in cost of revenue associated with project related expenses and increased depreciation expense primarily for projects that became commercially operable since September 2015; and 
+                
+    a $5.6 million increase in operating expenses, as discussed above. 
+     Net loss for the nine months ended   September 30, 2016  , was   $55.7 million   compared to   $51.7 million   for the same period in the prior year; an increase of   $4.0 million   or   7.8%  . The increase was primarily attributed to:  
+             
+    a $43.7 million increase in cost of revenue associated with project related expenses and increased depreciation expense primarily due to projects acquired since May 2015 and projects that became commercially operable since September 2015;  
+                
+    a $10.9 million increase in operating expenses as discussed above; and 
+                
+    a   $3.5 million   increase in the tax provision.  
+     These increases were partially offset by:  
+             
+    a $33.8 million increase in total revenues associated with projects acquired since May 2015 and projects that became commercially operable since September 2015; and  
+                
+    a $20.2 million decrease in other expenses primarily associated with an increase in earnings from unconsolidated investments and expenses in 2015 for the early extinguishment of debt and termination of designated interest rate derivatives as discussed above. 
+     
+   41 
+
+Noncontrolling interest  
+  The net loss attributable to noncontrolling interest was   $7.0 million   for the   three   months ended   September 30, 2016   compared to a   $5.9 million   net loss attributable to noncontrolling interest for the   three   months ended   September 30, 2015  . The increased loss of   $1.1 million   was primarily attributable to allocations of losses for tax equity projects which commenced commercial operations since September 2015. 
+  The net loss attributable to noncontrolling interest was   $24.8 million   for the   nine   months ended   September 30, 2016   compared to a   $16.7 million   net loss attributable to noncontrolling interest for the   nine   months ended   September 30, 2015  . The increased loss of   $8.1 million   was primarily attributable to allocations of losses for tax equity projects which commenced commercial operations or were acquired since May 2015. 
+   
+  Liquidity and Capital Resources 
+  Our business requires substantial capital to fund (i) equity investments in our construction projects, (ii) current operational costs, (iii) debt service payments, (iv) dividends to our stockholders, (v) potential investments in new acquisitions, (vi) modifications to our projects, (vii) unforeseen events and (viii) other business expenses. As a part of our liquidity strategy, we plan to retain a portion of our cash flows in above-average wind years in order to have additional liquidity in below-average wind years.  
+  Sources of Liquidity 
+  Our sources of liquidity include cash generated by our operations, cash reserves, borrowings under our corporate and project-level credit agreements and further issuances of equity and debt securities. 
+  The principal indicators of our liquidity are our unrestricted and restricted cash balances and availability under our Revolving Credit Facility and project level facilities. Our available liquidity is as follows (in millions): 
+   
+ As of November 4, 2016, the amount available on the Revolving Credit Facility is   $278.3 million   including the draw made on October 17, 2016 to fund the Armow Project Company acquisition.  
+  On August 12, 2016, we completed an underwritten public offering of our Class A common stock. In total, 10,000,000 shares of our Class A common stock were sold. In connection with the equity offering, the underwriters had a 30-day option to purchase up to an additional 1,500,000 shares of Class A common stock to cover over-allotments. On August 22, 2016, the underwriters partially exercised their over-allotment option and purchased an additional 1,300,000 shares of Class A common stock. Aggregate net proceeds of the equity offering, including the proceeds of the over-allotment option, were approximately   $258.6 million   after deduction of underwriting discounts, commissions, and transaction expenses. 
+  On May 9, 2016, we entered into an Equity Distribution Agreement with RBC Capital Markets, LLC, KeyBanc Capital Markets Inc. and Morgan Stanley   Co. LLC (collectively, the  Agents ). Pursuant to the terms of the Equity Distribution Agreement, we may offer and sell shares of our Class A common stock, par value   $0.01   per share, from time to time through the Agents, as our sales agents for the offer and sale of the shares, up to an aggregate sales price of   $200 million  . We intend to use the net proceeds from the sale of the shares for general corporate purposes, which may include the repayment of indebtedness and the funding of acquisitions and investments. For the   three and nine   months ended   September 30, 2016  , we sold   1,240,504   shares under the Equity Distribution Agreement and net proceeds under the issuance were   $27.6 million  . 
+  We believe for the next twelve months, we will have sufficient liquid assets, cash flows from operations, and borrowings available under our Revolving Credit Facility to meet our financial commitments, including our commitment for the Broadview Acquisition, debt service obligations, contingencies and anticipated required capital expenditures. However, we are subject to business and  
+  
+   42 
+
+operational risks that could adversely affect our cash flow. A material decrease in our cash flows would likely produce a corresponding adverse effect on our borrowing capacity. 
+  In connection with our future capital expenditures and other investments, including any project acquisitions that we may make, we may, from time to time, issue debt or equity securities. Our ability to access the debt and equity markets is dependent on, among other factors, the overall state of the debt and equity markets and investor appetite for investment in clean energy projects in general and our Class A shares in particular. Volatility in the market price of our Class A shares may prevent or limit our ability to utilize our equity securities as a source of capital to help fund acquisitions. An inability to obtain debt or equity financing on commercially reasonable terms could significantly limit our timing and ability to consummate future acquisitions, and to effectuate our growth strategy. 
+  Cash Flows 
+  We use traditional measures of cash flow, including net cash provided by operating activities, net cash used in investing activities and net cash provided by financing activities, as well as cash available for distribution discussed earlier, to evaluate our periodic cash flow results. Below is a summary of our cash flows for each period (in millions): 
+
+Net cash provided by operating activities  
+  Net cash provided by operating activities was   $105.4 million   for the   nine   months ended   September 30, 2016   as compared to   $83.3 million   in the prior year, an increase of   $22.1 million  , or approximately   26.6%  . The increase in cash provided by operating activities was primarily due to higher revenues of   $51.4 million   (excluding unrealized loss on energy derivative and amortization of PPAs) from projects which were acquired since May 2015 or which commenced commercial operations since the September 2015. These increases were partially offset by increases of   $14.9 million   in project expenses and   $10.9 million   in operating expenses.  
+  Net cash provided by (used in) investing activities  
+  Net cash provided by investing activities was   $29.2 million   for the   nine   months ended   September 30, 2016  , which consisted primarily of a $23.3 million decrease in restricted cash,   $40.1 million   in distributions from unconsolidated investments, offset by   $31.6 million   for capital expenditures including $20.7 million related to payments for a project that became commercially operable in the fourth quarter of 2015. 
+  Net cash used in investing activities was   $686.2 million   for the   nine   months ended   September 30, 2015  , which consisted primarily of   $406.3 million   of acquisitions, net of cash acquired, which includes $238.5 million for projects operational in May 2015, $37.5 million for the Amazon Wind Farm Fowler Ridge construction project and $128.4 million for an unconsolidated investment in K2, in addition to   $316.0 million   for capital expenditures related to the construction at Logan s Gap and the Amazon Wind Farm Fowler Ridge. These increases were partially offset by   $23.5 million   of distributions from unconsolidated investments. 
+  
+   43 
+
+Net cash provided by (used in) financing activities  
+  Net cash used in financing activities for the   nine   months ended   September 30, 2016   was   $165.4 million  . Net cash used in financing activities consisted primarily of the following: 
+             
+    $340.0 million   in repayments of the Revolving Credit Facility; 
+                 
+    $39.3 million   in repayment of long-term debt; and 
+                
+       $11.8 million   in distributions to noncontrolling interests. 
+     Net cash used in financing activities were partially offset by: 
+             
+    $286.6 million   of net proceeds from equity issuances, net of expenses; and 
+                
+    $20.0 million   in proceeds from the Revolving Credit Facility. 
+     Net cash provided by financing activities for the   nine   months ended   September 30, 2015   was   $607.7 million  . Net cash provided by financing activities consisted primarily of the following: 
+              
+    $295.0 million   drawn from our Revolving Credit Facility; 
+                
+    $294.5 million   of proceeds from construction debt related to our construction projects; 
+                 
+    $193.1 million in capital contributions from noncontrolling interests. 
+     Net cash provided by financing activities were partially offset by:  
+              
+    $121.2 million of payments for the purchase of the noncontrolling interest at Gulf Wind and Lost Creek; 
+                
+    $100.0 million   in repayment of our Revolving Credit Facility; and 
+      
+   44 
+
+Uses of Liquidity 
+  Cash Dividends to Investors 
+  We intend to pay regular quarterly dividends in U.S. dollars to holders of our Class A common stock. On November 26, 2013, we announced the initiation of a quarterly dividend on our Class A common stock. On   November 4, 2016  , we increased our dividend to   $0.408   per share, or   $1.632   per share on an annualized basis, commencing with respect to dividends paid on   January 31, 2017   to holders of record on   December 30, 2016  . The following table sets forth the dividends declared on shares of Class A common stock for the periods indicated.  
+
+We established our initial quarterly dividend level based on a targeted cash available for distribution payout ratio of 80% after considering the annual cash available for distribution that we expect our projects will be able to generate following the commencement of commercial operations at all of our construction projects and with due regard to retaining a portion of the cash available for distribution to grow our business. We intend to grow our business primarily through the acquisition of operational and construction-ready power projects, which, we believe, will facilitate the growth of our cash available for distribution and enable us to increase our dividend per share of Class A common stock over time. We may in the future raise capital and make investments in new power projects upon or near the commencement of construction of such projects and therefore prior to the expected commencement of operations of the new projects, which could result in a passage of time of twelve or more months before we begin to receive any cash flow contributions from such projects to our cash available for distribution. In connection with these investments, we may increase our dividends prior to the receipt of such cash flow contributions, which would likely cause our payout ratio to temporarily exceed our targeted run-rate payout ratio. However, the determination of the amount of cash dividends to be paid to holders of our Class A common stock will be made by our Board of Directors and will depend upon our financial condition, results of operations, cash flow, long-term prospects and any other matters that our Board of Directors deem relevant. Refer to Item 1A  Risk Factors Risks Related to Ownership of our Class A Shares Risks Regarding our Cash Dividend Policy  in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+  We expect to pay a quarterly dividend on or about the 30th day following each fiscal quarter to holders of record of our Class A common stock on the last day of such quarter. 
+  Capital Expenditures and Investments 
+  We expect to make investments in additional projects. As discussed above, on October 17, 2016, we acquired from Pattern Development the Armow Project Company for consideration of approximately $133 million, plus accrued estimated proportionate debt of approximately $197.1 million U.S. dollar equivalent. The purchase price was funded through a draw under our Revolving Credit Facility and available cash. In addition, we have committed to acquire from Pattern Development the Broadview Acquisition for a purchase price of approximately of   $269.0 million  , which is currently estimated to occur in the first half of 2017. We can meet the contemplated cash purchase consideration using part of our available liquidity and long-term project holding company debt financing commitments arranged at the time of the purchase commitment which total up to $160 million with various maturities from five to ten years. We believe that we will not need to raise equity in order to complete the Broadview Acquisition; however, we retain the flexibility to use retained cash flow or raise equity, corporate debt, project holding company debt or other financing arrangements prior to the closing of the Broadview Acquisition in lieu of using one or more of     project holding company debt financing commitments. 
+  We also evaluate, from time to time, third-party acquisition opportunities. We believe that we will have sufficient cash and Revolving Credit Facility capacity to complete the funding of future construction commitments we may have, but this may be affected by any other acquisitions or investments that we make. To the extent that we make any such investments or acquisitions, we will evaluate capital markets and other corporate financing sources available to us at the time.  
+  
+   45 
+
+In addition, we will make investments from time to time at our operating projects. Operational capital expenditures are those capital expenditures required to maintain our long-term operating capacity. Capital expenditures for the projects are generally made at the project level using project cash flows and project reserves, although funding for major capital expenditures may be provided by additional project debt or equity. Therefore, the distributions that we receive from the projects may be made net of certain capital expenditures needed at the projects. 
+  For the year ending December 31,   2016  , we have budgeted $2.5 million for operational capital expenditures and $5.3 million for expansion capital expenditures. 
+  Contractual Obligations 
+  There have been no material changes in our contractual obligations from those disclosed in our Annual Report on Form 10-K for the year ended   December 31, 2015  , except for the commitment discussed in   Recent     Developments   for the Broadview Acquisition.  
+  Off-Balance Sheet Arrangements 
+  As of   September 30, 2016  , we are not a party to any off-balance sheet arrangements. 
+  Credit Agreements for Unconsolidated Investments 
+  Below is a summary of our proportion of debt in unconsolidated investments, as of   September 30, 2016   (in thousands): 
+
+1   As discussed above, in conjunction with the acquisition of the Armow Project Company, on October 17, 2016, we assumed our portion of unconsolidated project company debt of $197.1 million. 
+
+Critical Accounting Policies and Estimates 
+  There have been no material changes in our critical accounting policies from those disclosed in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+   
+  ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+  We have significant exposure to commodity prices, interest rates and foreign currency exchange rates, as described below. To mitigate these market risks, we have entered into multiple derivatives. We have not applied hedge accounting treatment to all of our derivatives, therefore we are required to mark some of our derivatives to market through earnings on a periodic basis, which will result in non-cash adjustments to our earnings and may result in volatility in our earnings, in addition to potential cash settlements for any losses. 
+  Commodity Price Risk  
+  We manage our commodity price risk for electricity sales primarily through the use of fixed price long-term power purchase agreements with creditworthy counterparties. Our financial results reflect approximately   650,784   MWh of electricity sales during the   nine   months ended   September 30, 2016   that were subject to spot market pricing. A hypothetical increase or decrease of 10% or   $1.54   per MWh in these spot market prices would have increased or decreased revenue by   $1.0 million   for the   nine   months ended   September 30, 2016  . 
+  
+   46 
+
+Interest Rate Risk  
+  As of   September 30, 2016  , our long-term debt includes both fixed and variable rate debt. As long-term debt is not carried at fair value on the consolidated balance sheets, changes in fair value would impact earnings and cash flows only if we were to reacquire all or a portion of these instruments prior to their maturity. As of   September 30, 2016  , the estimated fair value of our debt was $  1.2 billion   and the carrying value of our debt was   $1.2 billion  . The fair value of variable interest rate long-term debt is approximated by its carrying cost. A hypothetical increase or decrease in market interest rates by 1% would have resulted in a   $29.2 million   decrease or   $32.5 million   increase in the fair value of our fixed rate debt. 
+  We are exposed to fluctuations in interest rate risk as a result of our variable rate debt and outstanding amounts due under our revolving credit facility. A hypothetical increase or decrease in interest rates by 1% would have increased or decreased interest expense related to our Revolving Credit Facility by   $2.2 million   for the   nine   months ended   September 30, 2016  .  
+  We may use a variety of derivative instruments, with respect to our variable rate debt, to manage our exposure to fluctuations in interest rates, including interest rate swaps. As a result, our interest rate risk is limited to the unhedged portion of the variable rate debt. As of   September 30, 2016  , the unhedged portion of our variable rate debt was   $49.4 million  . A hypothetical increase or decrease in interest rates by 1% would not have a material impact to interest expense for the   nine   months ended   September 30, 2016  . 
+  Interest Rate Risk and Market Price Risk Involving Convertible Senior Notes 
+  The fair market value of our outstanding convertible senior notes, or "debentures," is subject to interest rate risk, market price risk and other factors due to the convertible feature of the debentures. The fair market value of the debentures will generally increase as interest rates fall and decrease as interest rates rise. In addition, the fair market value of the debentures will generally increase as the market price of our common stock increases and decrease as the market price of our common stock falls. The interest and market value changes affect the fair market value of the debentures, but do not impact our financial position, cash flows or results of operations due to the fixed nature of the debt obligations, except to the extent changes in the fair value of the debentures, or value of common stock, permit the holders of the debentures to convert into shares. See Note   9  ,   Long-term Debt  ,   in the notes to consolidated financial statements     for further discussion of the convertible debt. The estimated fair value of convertible debt was   $212.5 million   as of   September 30, 2016  . A hypothetical increase or decrease in interest rates by 1% would have resulted in a   $7.1 million   decrease or   $7.4 million   increase in the fair value. 
+  Foreign Currency Exchange Rate Risk 
+  Our wind power projects are located in the United States, Canada and Chile. As a result, our financial results could be significantly affected by factors such as changes in foreign currency exchange rates or weak economic conditions in the foreign markets in which we operate. When the U.S. dollar strengthens against foreign currencies, the relative value in revenue earned in the respective foreign currency decreases. When the U.S. dollar weakens against foreign currencies, the relative value in revenue earned in the respective foreign currency increases. A majority of our power sale agreements and operating expenditures are transacted in U.S. dollars, with a growing portion transacted in currencies other than the U.S. dollar, primarily the Canadian dollar. For the   nine   months ended   September 30, 2016  , our financial results included   C$23.0 million  , or   $16.9 million   calculated based on the monthly average exchange rate, in Canadian dollar denominated net income, from our Canadian operations. A hypothetical increase or decrease of 10% in exchange rates between the Canadian and U.S. dollar would have increased or decreased net earnings of our Canadian operations by   $1.7 million   for the   nine   months ended   September 30, 2016  . 
+  In January 2015, we established a currency risk management program. The objective of the program is to mitigate the foreign exchange rate risk arising from transactions or cash flows that have a direct or underlying exposure in non-U.S. dollar denominated currencies in order to reduce volatility in our cash flow, which may have an adverse impact to our short-term liquidity or financial condition. For the   nine   months ended   September 30, 2016  , we recognized an unrealized loss on foreign currency forward contracts of   $4.1 million   in loss on undesignated derivatives, net in the consolidated statements of operations. We also recognized a realized gain of   $0.8 million   in loss on undesignated derivatives, net in the consolidated statements of operations related to foreign currency forward contracts that matured during the   nine   months ended   September 30, 2016  . 
+  As of   September 30, 2016  , a 10% devaluation in the Canadian dollar to the United States dollar would result in our consolidated balance sheets being negatively impacted by a   $10.9 million   cumulative translation adjustment in accumulated other comprehensive loss.  
+  
+   47 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+  Evaluation of Disclosure Controls and Procedures    
+  An evaluation was performed under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer of the effectiveness of the design and operation of our disclosure controls and procedures, as defined in Rule 13a-15(e) of the Securities Exchange Act of 1934, as amended (the  Exchange Act ), as of   September 30, 2016  . Based on this evaluation, our Chief Executive Officer and Chief Financial Officer concluded that as of   September 30, 2016  , our disclosure controls and procedures were not effective at the reasonable assurance level as a result of the material weaknesses discussed below. However, after giving full consideration to these material weaknesses, and the additional analyses and other procedures that we performed to ensure that our consolidated financial statements included in this Quarterly Report on Form 10-Q were prepared in accordance with U.S. generally accepted accounting principles (GAAP), our management has concluded that our consolidated financial statements present fairly, in all material respects, our financial position, results of operations and cash flows for the periods disclosed in conformity with GAAP. 
+  A  material weakness  is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected on a timely basis.  
+  Based on our assessment as of   September 30, 2016  , our management believes that our internal control over financial reporting was not effective due to the aggregation of internal control deficiencies related to the implementation, design, maintenance and operating effectiveness of various transaction, process level, and monitoring controls. These deficiencies largely have arisen during fiscal 2016 because of growth of the Company, increases in employee headcount to support growth, and frequent changes in organizational structure were not adequately supported by elements of our internal control over financial reporting. The deficiencies can be grouped generally as follows: 
+             
+    Our training program was not effective at ensuring internal control responsibilities were properly communicated to and performed by new and existing personnel. Specifically, training was not timely communicated regarding the required documentation to demonstrate and ensure that controls consistently operated at a sufficient level of precision to prevent and detect potential errors. This led to inconsistent performance of controls throughout the control environment.  
+                
+    Our accounting policies and procedures were not effective in providing reasonable assurance that accounting transactions are consistently recorded as necessary to permit the preparation of financial statements in accordance with generally accepted accounting principles. This led to varied understanding of the risk of material misstatement to the financial statements and the related inconsistent performance of controls throughout the environment.  
+                
+    Our monitoring controls and management review controls were not effective at ensuring the timely detection and prevention of all potential material errors within our consolidated financial statements. In addition, we need to improve our review of the completeness and accuracy of information used to execute these controls, including key spreadsheets. This led to varying levels of review by management in the performance of monitoring and key spreadsheet related controls. 
+                
+    Our controls for the review of contracts were not effective to ensure the completeness of contracts reviewed or to ensure the appropriate identification and timely accounting for provisions within our contracts. This led to inconsistent performance of contract review controls. 
+                
+    Additionally, based on our assessment, our management believes that our procure-to-pay procedures were not effective as of September 30, 2016 because an aggregation of internal control deficiencies resulted in a material weakness relating to the operation and enforcement of such policy and the design, enforcement and effective communication of changes to our delegation of authority policy. 
+     Our management has developed a plan to remediate the material weaknesses in our internal control over financial reporting as follows: 
+             
+    Enhance accounting and internal control training programs;  
+                
+    Improve documentation of accounting and entity level policies and procedures to support our internal control infrastructure;  
+                
+    Re-design certain existing processes and controls to improve their operation and implement additional processes and controls;  
+     
+   48 
+
+Expand our key spreadsheet controls; and 
+                
+    Improve our contract review process. 
+     Our management expects the remediation plan to extend over multiple financial reporting periods; therefore, we expect to receive an adverse opinion on our internal control over financial reporting as of December 31, 2016. 
+  During the course of re-design of existing processes and controls, implementation of additional processes and controls and testing of the operating effectiveness of such re-designed controls and additional processes and controls, we may identify additional control deficiencies that could give rise to other material weaknesses, in addition to the material weaknesses described above. As we continue to evaluate and work to improve our internal control over financial reporting, we may determine to take additional measures to address material weaknesses or determine to modify certain of the remediation measures.  
+  Changes in Internal Controls over Financial Reporting 
+  Except for the matters discussed in this Item 4, there was no change in our internal control over financial reporting identified in connection with the evaluation required by Rule 13a-15(d) of the Exchange Act that occurred during the period covered by this report that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+49 
+
+PART II. OTHER INFORMATION 
+   
+  ITEM 1. LEGAL PROCEEDINGS 
+    
+  We are subject, from time to time, to routine legal proceedings and claims arising out of the normal course of business. There has been no material change in the nature of our legal proceedings from the description provided in our Annual Report on Form 10-K for the year ended December 31,   2015  , except as described below. 
+    
+  During the third quarter of 2015, rights to appeal prior decisions granting the Renewable Energy Approval ( REA ) under Ontario's   Environmental Protection Act   for our K2 Wind facility were exhausted without further appeal. As a result, a stay of a previously filed civil suit against the K2 Wind facility pending final determination of the REA was lifted, allowing such suit to move forward if the claimants so chose to continue such suit. Such civil suit had claimed, among other things, nuisance based on both the construction and operation of the facility. Since the third quarter of 2016, various motions have been filed by each of K2 Wind and the claimants in the civil suit. A date to hear such motions has been set in January 2017.  
+   
+  ITEM 1A. RISK FACTORS 
+  In addition to the other information set forth in this report, you should consider the risks described under the caption  Risk Factors  in the Annual Report on Form 10-K for the year ended December 31, 2015. There have been no material changes in our risk factors as described in such document except as follows: 
+  We have identified material weaknesses in our disclosure controls and procedures which, if not corrected, could affect the reliability of our consolidated financial statements and have other adverse consequences. 
+  Section 404 of the Sarbanes-Oxley Act and the related SEC rules requires management to assess the effectiveness of the design and operation of our disclosure controls and procedures and to include in this Quarterly Report on Form 10-Q a management report on that assessment. Under Section 404 and the SEC rules, a company cannot conclude that its disclosure controls and procedures are effective if there exist any material weaknesses in the design and operation of such controls. A material weakness is a deficiency, or combination of control deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected on a timely basis. 
+  An evaluation was performed under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures, and based on this evaluation, our Chief Executive Officer and Chief Financial Officer concluded that as of September 30, 2016, our disclosure controls and procedures were not effective at the reasonable assurance level as a result of material weaknesses identified. Our management believes that our internal control over financial reporting was not effective due to the aggregation of internal control deficiencies related to the implementation, design, maintenance and operating effectiveness of various transaction, process level, and monitoring controls. Additionally, our management believes that our procure-to-pay procedures were not effective as of September 30, 2016 because of a material weakness based on the aggregation of internal control deficiencies relating to the design, enforcement and effective communication of changes to our delegation of authority policy. See Item 4  Controls and Procedures  of this Quarterly Report on Form 10-Q. 
+  Our management has developed a plan to remediate the material weaknesses. We cannot, however, assure you that we will be able to implement the plan, or to correct these material weaknesses in a timely manner. Furthermore, during the course of re-design of existing processes and controls, implementation of additional processes and controls and testing of the operating effectiveness of such re-designed and additional processes and controls, we may identify additional control deficiencies that could give rise to other material weaknesses, in addition to the currently identified material weaknesses. We expect the remediation plan to extend over multiple financial reporting periods; therefore, we expect to receive an adverse opinion on our internal control over financial reporting as of December 31, 2016. Any failure in the effectiveness of internal control over financial reporting, particularly if it results in misstatements in our financial statements, could cause us to fail to meet our reporting obligations and could adversely affect investor perceptions of our company which could cause the market price of our shares to decline, and we could be subject to sanctions or investigations by the stock exchanges on which we list, the SEC, the Canadian Securities Administrators or other regulatory authorities, and could adversely affect our ability to access the capital markets. 
+  
+   50 
+
+Operation and maintenance problems at our renewable energy projects including natural events may cause our electricity generation to fall below our expectations. 
+  Our electricity generation levels depend upon our ability to maintain the working order of our wind turbines and balance of the plant. A natural disaster, severe weather, accident, failure of major equipment, shortage of or inability to acquire critical replacement or spare parts, failure in the operation of any future transmission facilities that we may acquire, including the failure of interconnection to available electricity transmission or distribution networks, could damage or require us to shut down our turbines or related equipment and facilities, impeding our ability to maintain and operate our facilities and decreasing electricity generation levels and our revenues. For example, our Ocotillo and Santa Isabel (Siemens) and Gulf Wind (MHI) projects had experienced certain blade failures in 2013 and 2014. We believe the Siemens blade failures have been fully addressed through the completion of an agreed inspection and repair program. With respect to MHI, we worked with MHI to complete a root cause analysis, testing of the blades at the Gulf Wind facility, and development of a protocol for determining whether a blade might pose a threat to long-term reliable operation. While we reached in November 2015 a long term arrangement with MHI to address potential deficiencies and, if applicable, mitigation for lost revenue resulting from blade downtime at the facility, no assurances can be given that potential deficiencies will not in fact continue to occur and result in blade failures, or that any such effects will not have a material adverse effect on our business, financial condition and results of operation. 
+  In addition, replacement and spare parts for wind turbines and key pieces of electrical equipment may be difficult or costly to acquire or may be unavailable. Sources for some significant spare parts and other equipment are often located outside of the jurisdictions in which our power projects operate. Additionally, our operating projects generally do not hold spare substation main transformers. These transformers are designed specifically for each wind power project, and order lead times can be lengthy. If one of our projects had to replace any of its substation main transformers, it would be unable to sell all of its power until a replacement is installed. To the extent we experience a prolonged interruption at one of our operating projects due to natural events or operational problems and such events are not fully covered by insurance, our electricity generation levels and revenues could materially decrease, which could have a material adverse effect on our business, financial condition and results of operation. 
+  In addition, climate change may have the long-term effect of changing wind patterns at our projects. Changing wind patterns could cause changes in expected electricity generation. These events could also degrade equipment or components and the interconnection and transmission facilities  lives or maintenance costs. Even though our projects typically enter into warranty agreements with the turbine manufacturer for two- to ten-year terms (and as warranty terms with the manufacturer expire we may and have entered into service agreements with other third party service providers), such agreements are typically subject to an aggregate maximum cap and there can be no assurance that the supplier or service provider will be able to fulfill its contractual obligations. In addition, such agreements can vary as to what equipment maintenance risks are fully assumed by the turbine manufacturer or service provider and what equipment failure risks will be repaired at the owner s cost. For example, we are considering revising long-term turbine manufacturer service arrangements at certain of our projects pursuant to which the turbine manufacturer will continue to provide routine and corrective maintenance service, but we would become responsible for a portion of the maintenance and repairs, including on major component parts. While the revised service arrangements would have reduced fixed contract costs, in the event of unexpectedly high turbine component failures for which we as owner have assumed responsibility, we may face decreased revenues of a project and increased project expense which could have a material adverse effect on our business, financial condition, results of operations and ability to make cash distributions to our investors. 
+
+51 
+
+ITEM 6. EXHIBITS 
+                   Exhibit 
+  No. 
+       
+    Description 
+
+2.1 
+      
+    Purchase and Sale Agreement, dated as of June 30, 2016, by and between Pattern Energy Group Inc., Pattern Renewables LP, and Pattern Energy Group LP (Incorporated by reference to Exhibit 2.1 to the Company's Current Report on Form 8-K filed July 1, 2016). 
+
+2.2 
+      
+    Purchase and Sale Agreement, dated September 21, 2016, by and between Pattern Canada Finance Company ULC, a Nova Scotia unlimited liability company, and Pattern Energy Group LP, a Delaware limited partnership (Incorporated by reference to Exhibit 2.1 to the Company's Current Report on Form 8-K filed September 23, 2016). 
+
+3.1 
+       
+    Amended and Restated Certificate of Incorporation of Pattern Energy Group Inc. (Incorporated by reference to Exhibit 3.1 to the Registrant s Registration Statement on Form S-1/A dated September 20, 2013 (Registration No. 333-190538)). 
+
+3.2 
+       
+    Amended and Restated Bylaws of Pattern Energy Group Inc. (Incorporated by reference to Exhibit 3.2 to the Registrant s Registration Statement on Form S-1/A dated September 3, 2013 (Registration No. 333-190538)). 
+
+4.1 
+       
+    Form of Class A Stock Certificate (Incorporated by reference to Exhibit 3.2 to the Registrant s Registration Statement on Form S-1/A dated September 3, 2013 (Registration No. 333-190538)). 
+
+4.2 
+       
+    Indenture, dated July 28, 2015, among Pattern Energy Group Inc., as issuer, Pattern US Finance Company LLC, as subsidiary guarantor, and Deutsche Bank Trust Company Americas, as trustee, related to 4.00% Convertible Senior Notes due 2020 (Incorporated by reference to Exhibit 4.1 to the Company s Current Report on Form 8-K filed July 28, 2015). 
+
+10.1 
+      
+    Assignment and Assumption of Lease and Consent of Landlord Agreement, effective as of January 1, 2016, by and between Pattern Energy Group LP, Pattern Energy Group Inc., and AMB Pier One, LLC (Incorporated by reference to Exhibit 10.1 to the Company's Current Report on Form 8-K dated January 25, 2016). 
+
+31.1 
+       
+    Certifications of the Chief Executive Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+31.2 
+       
+    Certifications of the Chief Financial Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+32* 
+       
+    Certifications of the Company s Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+99.1 
+      
+    Amendment No. 4 dated as of May 27, 2016 to the Amended and Restated Credit and Guaranty Agreement dated as of December 17, 2014, among Pattern US Finance Company LLC, Pattern Canada Finance Company ULC, Royal Bank of Canada (acting through its New York Branch), as Administrative Agent and the other parties party thereto (Incorporated by reference to Exhibit 99.1 to the Company's Quarterly Report on Form 10-Q filed on August 5, 2016). 
+
+101.INS 
+       
+    XBRL Instance Document 
+
+101.SCH 
+       
+    XBRL Taxonomy Extension Schema Document 
+
+101.CAL 
+       
+    XBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.DEF 
+       
+    XBRL Taxonomy Extension Definition Linkbase Document 
+
+101.LAB 
+       
+    XBRL Taxonomy Extension Label Linkbase Document 
+
+101.PRE 
+       
+    XBRL Taxonomy Extension Presentation Linkbase Document 
+
+* 
+    This certification accompanies this Report pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not be deemed  filed  by the Company for purposes of Section 18 of the Exchange Act. 
+
+52 
+
+SIGNATURE 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+Pattern Energy Group Inc. 
+
+Dated:  
+    November 7, 2016 
+    By: 
+    /s/ Michael J. Lyon 
+
+Michael J. Lyon 
+
+Chief Financial Officer 
+
+(On behalf of the Registrant and as Principal Financial Officer) 
+
+53 
+
+<EX-31.1>
+ 2
+ pegi2016093010qexhibit311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1  
+  Certification of Chief Executive Officer  
+  Pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a),  
+  As Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002  
+  I, Michael M. Garland, certify that:  
+  1. I have reviewed this Quarterly Report on Form 10-Q of Pattern Energy Group Inc. for the period ended   September 30, 2016  ;  
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;  
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;  
+  4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in the Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+  a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+  b) designed such internal control over financial reporting, or caused such internal control over financial control to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;  
+  c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;  
+  d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and  
+  5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent function):  
+  a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and  
+  b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.  
+                     Date: 
+    November 7, 2016 
+    By: 
+    /s/ Michael M. Garland 
+
+Michael M. Garland 
+
+Chief Executive Officer and Director 
+
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ pegi2016093010qexhibit312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2  
+  Certification of Chief Financial Officer  
+  Pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a),  
+  As Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002  
+  I, Michael J. Lyon, certify that:  
+  1. I have reviewed this Quarterly Report on Form 10-Q of Pattern Energy Group Inc. for the period ended   September 30, 2016  ;  
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;  
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;  
+  4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in the Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+  a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+  b) designed such internal control over financial reporting, or caused such internal control over financial control to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;  
+  c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;  
+  d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and  
+  5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent function):  
+  a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and  
+  b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.  
+
+Date: 
+    November 7, 2016 
+    By: 
+    /s/ Michael J. Lyon 
+
+Michael J. Lyon 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ pegi2016093010qexhibit32.htm
+ EXHIBIT 32
+
+Exhibit 
+
+Exhibit 32  
+  Certification of Chief Executive Officer  
+  Pursuant to 18 U.S.C. Section 1350, As Adopted  
+  Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002  
+  Pursuant to 18 U.S.C.   1350, as created by Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned officer of Pattern Energy Group Inc. (the    Company   ) hereby certifies, to such officer s knowledge, that:  
+  (i) the accompanying Quarterly Report on Form 10-Q of the Company for the period ended   September 30, 2016   (the    Report   ) fully complies with the requirements of Section 13(a) or Section 15(d), as applicable, of the Securities Exchange Act of 1934, as amended; and  
+  (ii) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.  
+    
+                       Date: 
+    November 7, 2016 
+    By: 
+    /s/ Michael M. Garland 
+
+Michael M. Garland 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Certification of Chief Financial Officer  
+  Pursuant to 18 U.S.C. Section 1350, As Adopted  
+  Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002  
+  Pursuant to 18 U.S.C.   1350, as created by Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned officer of Pattern Energy Group Inc. (the    Company   ) hereby certifies, to such officer s knowledge, that:  
+  (i) the accompanying Quarterly Report on Form 10-Q of the Company for the period ended   September 30, 2016   (the    Report   ) fully complies with the requirements of Section 13(a) or Section 15(d), as applicable, of the Securities Exchange Act of 1934, as amended; and  
+  (ii) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.  
+    
+                       Date:  
+    November 7, 2016 
+    By:  
+    /s/ Michael J. Lyon 
+
+Michael J. Lyon 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-32>
+
+<EX-101.INS>
+ 5
+ pegi-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ pegi-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ pegi-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ pegi-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ pegi-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ pegi-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

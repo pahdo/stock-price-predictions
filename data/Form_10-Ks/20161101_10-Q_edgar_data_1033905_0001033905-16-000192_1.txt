@@ -1,0 +1,1040 @@
+<Header>
+<FileStats>
+    <FileName>20161101_10-Q_edgar_data_1033905_0001033905-16-000192_1.txt</FileName>
+    <GrossFileSize>5253248</GrossFileSize>
+    <NetFileSize>113190</NetFileSize>
+    <ASCII_Embedded_Chars>284225</ASCII_Embedded_Chars>
+    <HTML_Chars>1757693</HTML_Chars>
+    <XBRL_Chars>2209695</XBRL_Chars>
+    <XML_Chars>790083</XML_Chars>
+    <N_Tables>33</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001033905-16-000192.hdr.sgml : 20161101
+<ACCEPTANCE-DATETIME>20161101113109
+ACCESSION NUMBER:		0001033905-16-000192
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		59
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161101
+DATE AS OF CHANGE:		20161101
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LUMINEX CORP
+		CENTRAL INDEX KEY:			0001033905
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		IRS NUMBER:				742747608
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-30109
+		FILM NUMBER:		161963739
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12212 TECHNOLOGY BLVD
+		STREET 2:		512-219-8020
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78727
+
+	MAIL ADDRESS:	
+		STREET 1:		12212 TECHNOLOGY BLVD
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78727
+
+</SEC-Header>
+</Header>
+
+ 0001033905-16-000192.txt : 20161101
+
+10-Q
+ 1
+ lmnx-09302016x10q.htm
+ FORM 10-Q
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  WASHINGTON, D.C. 20549 
+    
+  FORM 10-Q 
+
+or 
+                 o 
+    Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 for the transition period from __________ to __________. 
+
+Commission File Number: 000-30109 
+     
+  LUMINEX CORPORATION 
+  (Exact name of registrant as specified in its charter) 
+
+(512) 219-8020 
+  (Registrant s telephone number, including area code) 
+    
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes        No   o 
+    
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes        No   o 
+    
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. 
+                   Large accelerated filer     
+      
+    Accelerated filer   o 
+      Non-accelerated filer   o   (Do not check if smaller reporting company) 
+      
+    Smaller reporting company   o 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes   o     No     
+    
+  There were   43,584,558   shares of the Company s Common Stock, par value $0.001 per share, outstanding on   October 31, 2016  . 
+
+TABLE OF CONTENTS 
+                   
+    Page 
+
+PART I. FINANCIAL INFORMATION  
+
+Item 1. Financial Statements  
+
+Condensed Consolidated Balance Sheets as of September 30, 2016 and December 31, 2015  
+    1 
+
+Condensed Consolidated Statements of Comprehensive Income for the three and nine months ended September 30, 2016 and 2015  
+    2 
+
+Condensed Consolidated Statements of Cash Flows for the three and nine months ended September 30, 2016 and 2015  
+    3 
+
+Notes to Condensed Consolidated Financial Statements  
+    4 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    17 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk  
+    29 
+
+Item 4. Controls and Procedures  
+    29 
+
+PART II. OTHER INFORMATION  
+
+Item 1. Legal Proceedings  
+    30 
+
+Item 1A. Risk Factors  
+    30 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds  
+    30 
+
+Item 6. Exhibits  
+    31 
+
+SIGNATURES AND EXHIBITS  
+    32 
+
+Exhibit 31.1  
+      
+       Exhibit 31.2  
+      
+       Exhibit 32.1  
+      
+       Exhibit 32.2  
+      
+      EX-101 INSTANCE DOCUMENT 
+      
+      EX-101 SCHEMA DOCUMENT 
+      
+      EX-101 CALCULATION LINKBASE DOCUMENT 
+      
+      EX-101 DEFINITION LINKBASE DOCUMENT 
+      
+      EX-101 LABELS LINKBASE DOCUMENT 
+      
+      EX-101 PRESENTATION LINKBASE DOCUMENT 
+
+Table of Contents  
+
+PART I. FINANCIAL INFORMATION 
+
+ITEM 1. FINANCIAL STATEMENTS 
+
+1 
+
+Table of Contents  
+
+2 
+
+Table of Contents  
+
+3 
+
+Table of Contents  
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 1   BASIS OF PRESENTATION 
+    
+  The accompanying unaudited condensed consolidated financial statements have been prepared by Luminex Corporation (the Company or Luminex) in accordance with United States generally accepted accounting principles (U.S. GAAP) for interim financial information and the rules and regulations of the Securities and Exchange Commission (SEC). Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements. The condensed consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. All significant intercompany accounts and transactions have been eliminated in consolidation. In the opinion of management, all adjustments (consisting of normal recurring entries) considered necessary for a fair presentation have been included. Operating results for the   three   and   nine   months ended   September 30, 2016   are not necessarily indicative of the results that may be expected for the year ending   December 31, 2016  . These financial statements should be read in conjunction with the financial statements and notes thereto included in the Company s Annual Report on Form 10-K for the year ended December 31,   2015   (the   2015   10-K). 
+
+NOTE 2   BUSINESS COMBINATIONS 
+    
+  On June 30, 2016, the Company completed its acquisition (the Acquisition) of   100%   of the outstanding shares of Nanosphere, Inc. (Nanosphere), which was a publicly-held molecular diagnostic company that was founded in 1999 and based in Northbrook, Illinois. On May 15, 2016, the Company, Nanosphere and Commodore Acquisition, Inc., a Delaware corporation and wholly-owned subsidiary of the Company (Purchaser) entered into an Agreement and Plan of Merger (as amended, the Merger Agreement). In accordance with the terms of the Merger Agreement, on June 2, 2016, Purchaser commenced a cash tender offer (the Tender Offer) for all of the outstanding shares of Nanosphere s common stock, par value   $0.01   per share (the Shares), for   $1.70   per share, net to the seller in cash, without interest and less any required withholding taxes, upon the terms and conditions set forth in the Offer to Purchase dated June 2, 2016, as amended or supplemented from time to time, and in the related Letter of Transmittal. The Tender Offer expired at 12:00 midnight Eastern Daylight Time, at the end of June 29, 2016, and was not extended. Upon the completion of the Tender Offer, the Company, through Purchaser, paid   $1.70   for each Share validly tendered and not withdrawn. Following the consummation of the Tender Offer, the Company completed the Acquisition by consummating the merger of Purchaser with and into Nanosphere, pursuant to which, any Shares not purchased in the Tender Offer were automatically converted into the right to receive   $1.70   per Share.  The aggregate consideration paid to Nanosphere stockholders required to acquire all outstanding Shares pursuant to the Tender Offer and the merger was approximately   $88.5 million  , which was funded from cash on hand. Pursuant to the terms of the Merger Agreement, Nanosphere agreed to cancel all outstanding and exercisable Nanosphere stock options and replace each such stock option with the right to receive a cash payment equal to the number of shares subject to such option multiplied by the difference between   $1.70   and the applicable exercise price of the respective options. Nanosphere also agreed to cancel all of its outstanding restricted stock and convert such restricted stock into the right to receive a cash payment equal to the number of shares of restricted stock multiplied by   $1.70  .  The Company paid   $1.4 million   in aggregate consideration of the cancelled Nanosphere options and outstanding restricted stock. Additionally, for each Nanosphere warrant holder, the Company agreed to issue replacement warrants that are exercisable for an amount in cash equal to the product of the number of shares of stock represented by the replacement warrant and the difference between   $1.70   and the per share price of the replacement warrant. The Company purchased   1.5 million   Nanosphere warrants outstanding for an additional   $2.5 million   in consideration to the Nanosphere warrant holders.   
+    
+  The Acquisition was undertaken to expand the Company's access to the high-growth molecular microbiology market and to Nanosphere's portfolio of molecular testing solutions. Nanosphere delivers proprietary diagnostic tools that enable detection of respiratory, gastroenteric and bloodstream infections. Nanosphere shares ceased trading on the Nasdaq Capital Market as of the close of business on June 30, 2016. The results of operations for Nanosphere have been included in the Company s consolidated financial statements beginning July 1, 2016.   
+    
+  Immediately subsequent to the Acquisition, on June 30, 2016, the Company retired approximately   $25.4 million   of Nanosphere's debt, including approximately   $391,000   of accrued interest, by using the Company's existing cash reserves, including   $25.6 million   of cash acquired in the Acquisition.  As part of this debt retirement, we incurred   $1.5 million   of related fees which were expensed as part of the Company's second quarter 2016 results.  
+  
+   4 
+
+     Table of Contents  
+
+The Acquisition has been accounted for as a business combination in accordance with U.S. GAAP and, as such, the assets acquired and liabilities assumed have been recorded at their respective fair values.  The determination of fair value for the identifiable tangible and intangible assets acquired and liabilities assumed requires extensive use of estimates and judgments.  Significant estimates and assumptions include, but are not limited to, Level 3 measurements estimating future cash flows and determining the appropriate discount rate.  The following table summarizes the estimated fair values of Nanosphere s assets acquired and liabilities assumed at June 30, 2016 (in thousands): 
+
+The Company is in the process of finalizing third-party valuations of certain intangible assets and finalizing the calculations of the deferred tax liabilities related to Nanosphere; thus the provisional measurement of intangible assets, deferred tax liabilities and goodwill are subject to change.  If information that existed prior to June 30, 2016 becomes available which would indicate adjustments are required to the purchase price allocation, such adjustments will be included in the purchase price allocations  through revisions to the net tangible assets assumed, fair values of the intangible assets, deferred tax assets and liabilities and resulting goodwill recorded. 
+    
+  Acquired finished goods and work-in-process inventory was valued at its estimated selling price less the sum of the costs of sales efforts and a reasonable profit allowance for the Company's selling effort and, with respect to work-in-process inventory, estimated costs to complete.  This resulted in a fair value adjustment that increased finished goods inventory by approximately   $0.5 million  , which increased cost of goods sold in the quarter ending September 30, 2016 as these inventory items were sold. 
+    
+  The Acquisition contributed   $7.4 million   of revenue and net losses of   $6.2 million  , during the three months ended September 30, 2016. 
+    
+  Unaudited Pro forma Financial Information 
+  Nanosphere's results of operations have been included in the Company's financial statements for the   three   months ended   September 30, 2016  , following the Acquisition on June 30, 2016.  The unaudited pro forma financial information set forth below assumes that Nanosphere had been acquired at the beginning of January 1, 2015, and includes the effect of estimated amortization of acquired identifiable intangible assets, removal of interest expense on Nanosphere s debt extinguished at the date of the Acquisition, and removal of Acquisition costs and the impact of purchase accounting adjustments, tax and inventory valuation adjustments. This unaudited pro forma financial information is presented for informational purposes only and is not necessarily indicative of the results of operations that actually would have resulted had the Acquisition been in effect at the beginning of the periods presented. In addition, the unaudited pro forma financial information is not intended to be a projection of future results and does not reflect any operating efficiencies or cost savings that might be achievable. 
+
+5 
+
+     Table of Contents  
+
+NOTE 3   INVESTMENTS 
+    
+  Marketable Securities 
+    
+  The Company determines the appropriate classification of its investments in debt and equity securities at the time of purchase and re-evaluates such determinations at each balance sheet date. Marketable securities that are bought and held principally for the purpose of selling them in the near term are classified as trading securities and are reported at fair value, with unrealized gains and losses recognized in earnings. Debt securities are classified as held-to-maturity when the Company has the positive intent and ability to hold the securities to maturity. Held-to-maturity securities are stated at amortized cost, which approximates the fair value of these investments. Debt securities for which the Company does not have the intent or ability to hold to maturity are classified as available-for-sale. Debt and marketable equity securities not classified as held-to-maturity or as trading are classified as available-for-sale, and are carried at fair market value, with the unrealized gains and losses included in the determination of comprehensive income and reported in stockholders  equity. As of   September 30, 2016   and   December 31, 2015  , all of the Company s marketable securities were classified as available-for-sale. Marketable securities are recorded as either short-term or long-term on the balance sheet based on the contractual maturity date. The fair value of all securities is determined by quoted market prices, market interest rate inputs, or other than quoted prices that are observable either directly or indirectly (as of the end of the reporting period). Declines in fair value below the Company s carrying value deemed to be other than temporary are charged against net earnings. As of   September 30, 2016  , the Company had no short or long term investments, since those funds were used to pay for the Acquisition. 
+    
+  Available-for-sale securities consisted of the following as of   September 30, 2016   (in thousands): 
+                                               
+    Amortized Cost 
+      
+    Gains in Accumulated Other Comprehensive Income 
+      
+    Losses in Accumulated Other Comprehensive Income 
+      
+    Estimated Fair Value 
+      Current: 
+
+Cash equivalents 
+    $ 
+    701 
+
+$ 
+
+$ 
+    701 
+      
+      Government sponsored debt securities 
+
+Non-government sponsored debt securities 
+
+Total current securities 
+    701 
+
+701 
+      
+      Noncurrent: 
+
+Government sponsored debt securities 
+
+Non-government sponsored debt securities 
+
+Total noncurrent securities 
+
+Total available-for-sale securities 
+    $ 
+    701 
+
+$ 
+
+$ 
+
+$ 
+    701 
+
+6 
+
+     Table of Contents  
+
+Available-for-sale securities consisted of the following as of   December 31, 2015   (in thousands): 
+
+Proceeds from the sales of available-for-sale securities during the   three and nine   months ended   September 30, 2016   totaled   zero   and   $19.5 million  , respectively, and these proceeds were used to partially fund the Acquisition. There were no proceeds from the sales of available-for-sale securities for the   three and nine   ended   September 30, 2015  . Realized gains and losses on sales of investments are determined using the specific identification method. Realized gains and losses are included in Other income, net in the Consolidated Statements of Comprehensive Income.  All of the Company's available-for-sale securities with gross unrealized holding losses as of   September 30, 2016   and   December 31, 2015   had been in a loss position for less than 12 months. 
+    
+  The estimated fair value of available-for-sale debt securities as of   September 30, 2016   and   December 31, 2015  , by contractual maturity, was as follows (in thousands): 
+
+Expected maturities may differ from contractual maturities because the issuers of the securities may have the right to prepay obligations without prepayment penalties. 
+    
+  Non-Marketable Securities and Other-Than-Temporary Impairment  
+    
+  In the third quarter of 2016, the Company made a   $0.5 million   minority interest investment in a private company based in the U.S. that is focused on development of next generation technologies. This minority interest is included at cost in other long-term assets on the Company s Consolidated Balance Sheets as the Company does not have significant influence over the investee since the Company owns less than   20%   of the voting equity in the investee and the investee is not publicly traded.  Although we may invest further in this entity over the course of the next several quarters, we do not anticipate our ownership interest to exceed 20% in the short term. 
+    
+  The Company owns a minority interest in a private company based in the U.S. through its investment of   $1.0 million   in the third quarter of 2012.  This minority interest is included at cost in other long-term assets on the Company s Consolidated Balance Sheets as the Company does not have significant influence over the investee since the Company owns less than   20%   of the voting equity in the investee and the investee is not publicly traded.  
+    
+  The Company's other minority interest in a private company was acquired by a third party in July 2013. The Company realized a gain of   $5.4 million   on the sale of this minority interest investment in the third quarter of 2013 and an additional gain of   $0.9 million   in the first quarter of 2015 related to the settlement of escrowed funds. 
+
+7 
+
+     Table of Contents  
+
+The Company regularly evaluates the carrying value of its cost-method investment for impairment and whether any events or circumstances are identified that would significantly harm the fair value of the investment. The primary indicators the Company utilizes to identify these events and circumstances are the investee's ability to remain in business, such as the investee's liquidity and rate of cash use, and the investee s ability to secure additional funding and the value of that additional funding. In the event a decline in fair value is judged to be other-than-temporary, the Company will record an other-than-temporary impairment charge in Other income, net in the Consolidated Statements of Comprehensive Income. As the inputs utilized for the Company's periodic impairment assessment are not based on observable market data, the determination of fair value of this cost-method investment is classified within Level 3 of the fair value hierarchy. See Note 5 - Fair Value Measurement to our condensed consolidated financial statements for further discussion. To determine the fair value of this investment, the Company uses all available financial information related to the entities, including information based on recent or pending third-party equity investments in these entities. In certain instances, a cost-method investment's fair value is not estimated as there are no identified events or changes in the circumstances that may have a significant adverse effect on the fair value of the investment and to do so would be impractical.  
+
+NOTE 4   INVENTORIES, NET 
+    
+  Inventories are stated at the lower of cost or market, with cost determined according to the standard cost method, which approximates the first-in, first-out method. The Company routinely assesses its on-hand inventory for timely identification and measurement of obsolete, slow-moving or otherwise impaired inventory. Inventories consisted of the following (in thousands): 
+
+NOTE 5   FAIR VALUE MEASUREMENT 
+    
+  The Fair Value Measurements and Disclosures Topic of the Financial Accounting Standards Board (FASB) Accounting Standards Codification (ASC) defines fair value, establishes a framework for measuring fair value under U.S. GAAP and enhances disclosures about fair value measurements. Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. Valuation techniques used to measure fair value must maximize the use of observable inputs and minimize the use of unobservable inputs. The ASC describes a fair value hierarchy based on the following three levels of inputs that may be used to measure fair value, of which the first two are considered observable and the last unobservable: 
+    
+           Level 1   
+    Quoted prices in active markets for identical assets or liabilities. 
+       
+           Level 2   
+    Inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices for similar assets or liabilities; quoted prices in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities. 
+       
+           Level 3   
+    Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or liabilities. 
+       
+  The Company determines the fair value of its investment portfolio assets by obtaining non-binding market prices from its third-party portfolio managers on the last day of the quarter, whose sources may use quoted prices in active markets for identical assets (Level 1 inputs) or inputs other than quoted prices that are observable either directly or indirectly (Level 2 inputs) in determining fair value. There were no transfers between Level 1, Level 2, or Level 3 measurements for the   three   month period ended   September 30, 2016  . 
+
+8 
+
+     Table of Contents  
+
+The following table represents the Company s fair value hierarchy for its financial assets and liabilities measured at fair value on a recurring basis as of   September 30, 2016   and   December 31, 2015   (in thousands):   
+                                               
+    Fair Value Measurements as of September 30, 2016 Using 
+        
+    Level 1 
+      
+    Level 2 
+      
+    Level 3 
+      
+    Total 
+      Assets: 
+
+Money Market funds 
+    $ 
+    701 
+
+$ 
+
+$ 
+
+$ 
+    701 
+      
+      Government sponsored debt securities 
+
+Non-government sponsored debt securities 
+
+NOTE 6   GOODWILL AND OTHER INTANGIBLE ASSETS 
+    
+  On June 30, 2016, the Company completed the Acquisition. As a result of the Acquisition, the Company recorded approximately   $34.3 million   of goodwill and   $41.7 million   of other identifiable intangible assets. The goodwill is derived from expected synergies from combining operations of the Company and Nanosphere. The purchase price allocation is preliminary as the Company s determination of the fair values of the assets acquired and liabilities assumed is still in process.  
+    
+  Goodwill is reviewed for impairment at least annually at the beginning of the fourth quarter, or more frequently if impairment indicators arise. The Company's goodwill is not expected to be deductible for tax purposes. 
+    
+  The changes in the carrying amount of the Company s goodwill during the period are as follows (in thousands): 
+
+9 
+
+     Table of Contents  
+
+The Company s intangible assets are reflected in the table below (in thousands, except weighted average lives): 
+
+The estimated aggregate amortization expense for the next five fiscal years and thereafter is as follows (in thousands): 
+
+10 
+
+     Table of Contents  
+
+NOTE 7   OTHER COMPREHENSIVE INCOME (LOSS) 
+    
+  Other comprehensive income (loss) represents a measure of all changes in equity that result from recognized transactions and other economic events other than those resulting from investments by and distributions to shareholders. Other comprehensive income (loss) for the Company includes foreign currency translation adjustments and net unrealized holding gains and losses on available-for-sale investments. 
+    
+  The following table presents the changes in each component of accumulated other comprehensive income (loss), net of tax (in thousands): 
+
+The following table presents the tax (expense) benefit allocated to each component of other comprehensive income (loss) (in thousands): 
+
+11 
+
+Table of Contents  
+
+NOTE 8   EARNINGS PER SHARE 
+    
+  A reconciliation of the denominators used in computing per share net income, or EPS, is as follows (in thousands, except per share amounts): 
+
+Basic net income per share is computed by dividing the net income for the period by the weighted average number of common shares outstanding during the period. Diluted net income per share is computed by dividing the net income for the period by the weighted average number of common and common equivalent shares outstanding during the period. Stock options to acquire approximately   zero   and   0.6 million   shares for the   three   months ended   September 30, 2016   and   2015  , and   zero   and   0.6 million   shares for the   nine   months ended   September 30, 2016   and 2015, respectively, were excluded from the computations of diluted EPS because the effect of including those stock options would have been anti-dilutive. 
+
+NOTE 9   STOCK-BASED COMPENSATION 
+    
+  The Company s stock option activity for the   nine   months ended   September 30, 2016   was as follows: 
+
+The Company had   $11.7 million   of total unrecognized compensation costs related to stock options as of   September 30, 2016  , which costs are expected to be recognized over a weighted average period of   2.86 years   years. 
+
+12 
+
+     Table of Contents  
+
+The Company s restricted share activity for the   nine   months ended   September 30, 2016   was as follows: 
+
+As of   September 30, 2016  , there was   $15.0 million   and   $3.3 million   of total unrecognized compensation costs related to Restricted Stock Awards (RSAs) and Restricted Stock Units (RSUs), respectively. This cost is expected to be recognized over a weighted average period of   2.36 years   years for the RSAs and   1.95 years   years for the RSUs. The Company issues a small number of cash settled RSUs pursuant to the Company's equity incentive plan in certain foreign countries. These grants do not result in the issuance of common stock and are considered immaterial by the Company.   
+    
+  The following are the stock-based compensation costs recognized in the Company s condensed consolidated statements of comprehensive income (in thousands): 
+
+NOTE 10   ACCRUED LIABILITIES 
+    
+  Accrued liabilities consisted of the following (in thousands): 
+
+Sales of certain of the Company's systems are subject to a warranty. System warranties typically extend for a period of 12 months from the date of installation not to exceed 24 months from the date of shipment. The Company estimates the amount of warranty claims on sold products that may be incurred based on current and historical data. The actual warranty expense could differ from the estimates made by the Company based on product performance. Warranty expenses are evaluated and adjusted periodically. 
+
+13 
+
+     Table of Contents  
+
+The following table summarizes the changes in the warranty accrual (in thousands): 
+
+NOTE 11   INCOME TAXES 
+    
+  At the end of each interim reporting period, an estimate is made of the effective tax rate expected to be applicable for the full year. The estimated full year s effective tax rate is used to determine the income tax rate for each applicable interim reporting period. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in the results of operations in the period of the enactment date. The effective tax rate for the   nine   months ended   September 30, 2016   was   21.70%  , including amounts recorded for discrete events. This differs from the statutory rate of   35%   primarily because of the worldwide mix of consolidated earnings and losses before taxes and an assessment regarding the realizability of the Company s deferred tax assets. The Company s tax expense reflects the full federal, various state, and foreign blended statutory rates. The Company is utilizing its net operating losses and tax credits in the U.S., Canada and the Netherlands and currently expects a full year effective tax rate of less than   30%  . Therefore, cash taxes to be paid are expected to continue to be less than   15%   of book tax expense. 
+    
+  The Company or one of its subsidiaries files income tax returns in the U.S. federal jurisdiction, Australia, Canada, China, Hong Kong, Japan, the Netherlands, and various states. Due to net operating losses, the U.S., Canadian and Australian tax returns dating back to 2011 can still be reviewed by the taxing authorities. No material changes to this liability are expected within the next 12 months. For the   nine   months ended   September 30, 2016  , there were no material changes to the total amount of unrecognized tax benefits. The Company recognizes interest and penalties related to uncertain tax positions in the provision for income taxes. 
+
+NOTE 12 - COMMITMENTS AND CONTINGENCIES 
+    
+  On August 30, 2012, Abbott Laboratories, Inc. (Abbott) was named as a defendant in a complaint filed by ENZO Life Sciences, Inc. (ENZO) in U.S. District Court in Delaware for alleged infringement of U.S. Patent 7,064,197 as a result of Abbott's distribution of Luminex's xTAG Respiratory Viral Panel.  Luminex and Abbott entered into an agreement requiring Luminex to defend and indemnify Abbott for any alleged patent infringement resulting from its distribution of Luminex's xTAG Respiratory Viral Panel. The complaint sought unspecified monetary damages and injunctive relief.  Abbott filed an answer to the complaint on October 15, 2012.  On November 30, 2012, Luminex intervened in the lawsuit. On January 2, 2013, ENZO filed additional claims against Luminex, alleging infringement of U.S. Patent 7,064,197 resulting from Luminex's sale of its xTAG, FlexScript LDA, SelecTAG, and xMAP Salmonella Serotyping Assay products and alleging infringement of U.S. Patent 8,097,405 resulting from Luminex's sale of MultiCode        products. Luminex filed an answer to ENZO's additional claims on January 28, 2013.  On October 2, 2013, ENZO filed additional claims against Luminex, alleging infringement of U.S. Patent 6,992,180 resulting from Luminex s sale of MultiCode        products. Luminex filed an answer to ENZO s additional claims on October 21, 2013. 
+    
+  Effective July 2, 2015, Luminex agreed to pay ENZO   $7.1 million   to settle the litigation. This settlement resulted in the entry of orders dismissing (i) with prejudice all claims, counterclaims and causes of action asserted by ENZO against Luminex, (ii) without prejudice all claims, counterclaims and causes of action asserted by Luminex against ENZO, (iii) with prejudice all claims, counterclaims and causes of action solely under U.S. Patent 7,064,197 asserted in the litigation by ENZO against Abbott and (iv) without prejudice all claims, counterclaims and causes of action relating solely to U.S. Patent 7,064,197 asserted by Abbott against ENZO; and resulted in the grant to the Company and its affiliates of a fully paid, non-exclusive, worldwide license under the patents asserted in the complaint.  In addition, the Company and ENZO released each other from certain claims related to the above-referenced patents, including the claims and counterclaims asserted in the complaint.  ENZO further released Abbott from certain claims, including those asserted in the complaint, related solely to U.S. Patent 7,064,197.  The settlement was entered into solely by way of compromise and does not constitute an admission or concession by Luminex of any liability or wrongdoing. 
+  
+   14 
+
+     Table of Contents  
+
+Because Luminex (i) never paid any royalties to ENZO in the past, (ii) will not be required to pay any future or ongoing royalties to ENZO as a result of the settlement, (iii) has never recorded any revenue or expense related to ENZO in operating revenue or in operating expenses in the past, outside of legal fees, and (iv) believes that it does not infringe on any valid and enforceable claim with respect to the asserted patents, Luminex determined that this settlement of litigation expense was outside of operations.  Luminex accordingly recorded the settlement as a separate, non-operating line item in the second quarter of 2015.  Luminex made the   $7.1 million   payment to ENZO in July 2015. 
+    
+  When and if it appears probable in management's judgment, and based upon consultation with outside counsel, that we will incur monetary damages or other costs in connection with any claims or proceedings, and such costs can be reasonably estimated, we record the estimated liability in the financial statements.  If only a range of estimated losses can be estimated, we record an amount within the range that, in management's judgment, reflects the most likely outcome; if none of the estimates within that range is a better estimate than any other amount, we record the liability at the low end of the range of estimates. Any such accrual would be charged to expense in the appropriate period.   We disclose significant contingencies when the loss is not probable and/or the amount of the loss is not estimable, when we believe there is at least a reasonable possibility that a loss has been incurred.  We recognize costs associated with legal proceedings in the period in which the services were provided. 
+
+NOTE 13   RECENT ACCOUNTING PRONOUNCEMENTS 
+    
+  Recently adopted accounting guidance 
+    
+  In March 2016, the FASB issued guidance that simplifies some provisions in stock compensation accounting related to accounting for a stock payment s tax consequences.  The guidance also amends how excess tax benefits and a company's payments to cover the tax bills for the shares  recipients should be classified. The amendments allow companies to estimate the number of stock awards they expect to vest, and the amendments also revise the withholding requirements for classifying stock awards as equity. This guidance is effective for annual periods beginning after December 15, 2016. Early adoption is permitted.  
+    
+  This new standard requires that an entity recognize excess tax benefits and tax deficiencies as income tax expense or benefit in the income statement when the awards vest or are settled. Under the previous standard, excess tax benefits and tax deficiencies were recognized in additional paid-in capital. Cash flows related to excess tax benefits will no longer be separately classified as a financing activity apart from other income tax cash flows.  In addition, related cash payments made on an employee's behalf for shares withheld are presented as a financing activity on the statement of cash flows. 
+    
+  The Company early adopted this standard in the quarter ended June 30, 2016. The adoption of this standard resulted in the recognition of   $6.9 million   of previously unrecognized excess tax benefits in deferred income taxes, net and an increase to retained earnings on our Consolidated Balance Sheet and the recognition of   $211,000   of income tax expense in our income tax provision for the nine months ended   September 30, 2016  .  We have elected to continue to estimate forfeitures expected to occur to determine the amount of compensation cost to be recognized in each period.  
+    
+  In September 2015, the FASB issued additional guidance on business combinations.  This guidance requires that an acquirer recognize adjustments to provisional amounts that are identified during the measurement period with a corresponding adjustment to goodwill in the reporting period in which the adjustment amounts are determined. The effect on earnings from changes in depreciation, amortization or other income effects, if any, as a result of the change to the provisional amounts will be recorded in the same period's financial statements, calculated as if the accounting had been completed at the acquisition date. The Company adopted this standard during the quarter ended June 30, 2016, and its adoption did not have any impact on its consolidated financial statements. 
+    
+  Recent accounting guidance not yet adopted 
+    
+  In August 2016, the FASB issued specific guidance on eight cash flow classification issues that are not currently addressed by current U.S. GAAP and thereby reduce the current diversity in practice.  This guidance is effective for annual periods beginning after December 15, 2017.  Early adoption is permitted.  The Company does not anticipate that this guidance will have a material impact on its consolidated financial statements. 
+  
+   15 
+
+     Table of Contents  
+
+In February 2016, the FASB issued guidance requiring lessees to recognize a right-of-use asset and a lease liability on the balance sheet for all leases with the exception of short-term leases.  The effective date of the new guidance is for the Company's first quarter of fiscal 2019 and early adoption is permitted. The new standard must be adopted using a modified retrospective transition and requires application of the new guidance at the beginning of the earliest comparative period presented.  The Company is currently evaluating the impact of the adoption of this requirement on its consolidated financial statements, but does not anticipate that adoption of this guidance will have a material impact on its consolidated financial statements except for the addition of the right-of-use asset and a lease liability to the balance sheet.   
+    
+  In January 2016, the FASB issued guidance that changes how entities measure equity investments that do not result in consolidation and are not accounted for under the equity method. Entities will be required to measure these investments at fair value at the end of each reporting period and recognize changes in fair value in net income.  This guidance also changes certain disclosure requirements and other aspects of current U.S. GAAP. This guidance is effective for annual periods beginning after December 15, 2017.  Early adoption is permitted. The Company does not anticipate that adoption of this guidance will have a material impact on its consolidated financial statements as the only potential impact would be related to the Company's one cost-method investment discussed in Note 3 - Investments. 
+    
+  In July 2015, the FASB issued guidance regarding the measurement of inventory. The new guidance requires inventory to be measured at the lower of cost and net realizable value, which is defined as the estimated selling price in the ordinary course of business, less reasonably predictable costs of completion, disposal and transportation. This new guidance is effective for the Company's first quarter of fiscal 2018 and early adoption is permitted. The guidance must be applied prospectively. The Company is currently evaluating the impact of the adoption of this requirement on its consolidated financial statements, but does not anticipate that adoption of this guidance will have a material impact on its consolidated financial statements.  
+    
+  In May 2014, the FASB issued a new standard on revenue recognition which outlines a single comprehensive model to use in accounting for revenue arising from contracts with customers and supersedes most current revenue recognition guidance, including industry-specific guidance. The core principle of the revenue model is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. In doing so, companies will need to use their judgment and make estimates more extensively than under current U.S. GAAP. These judgments may include identifying performance obligations in the contract, estimating the amount of variable consideration to include in the transaction price and allocating the transaction price to each separate performance obligation. The standard is designed to create greater comparability for financial statement users across industries and jurisdictions and also requires enhanced disclosures. On July 9, 2015, the FASB voted in favor of delaying the effective date of the new standard by one year, with early adoption permitted as of the original effective date. The guidance is effective for fiscal years, and interim periods within those years, beginning after December 15, 2017. The Company is currently evaluating the impact of the adoption of this standard on its consolidated financial statements.  
+  
+   16 
+
+     Table of Contents  
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+    
+  The following information should be read in conjunction with the condensed consolidated financial statements and the accompanying notes included in Part I, Item 1 of this Report, and the  Risk Factors  included in Part I, Item 1A of the   2015     10-K. 
+    
+  SAFE HARBOR CAUTIONARY STATEMENT 
+    
+  This quarterly report on Form 10-Q contains statements that are forward-looking statements under the Private Securities Litigation Reform Act of 1995. Forward-looking statements provide our current expectations of forecasts of future events. All statements other than statements of current or historical fact contained in this quarterly report, including statements regarding our future financial position, business strategy, impact of the reimbursement landscape, the acquisition impact and integration of Nanosphere, new products including ARIES        and NxTAG       , assay sales, consumables sales patterns and bulk purchases, budgets, system sales, anticipated gross margins, liquidity, cash flows, projected costs and expenses, taxes, deferred tax assets, litigation costs, including the costs or impact of any litigation settlements or orders, regulatory approvals or the impact of any laws or regulations applicable to us, plans and objectives of management for future operations, and acquisition impact and integration and the expected benefit of our future acquisitions are forward-looking statements. The words  anticipate,   believe,   continue,   should,   estimate,   expect,   intend,   may,   plan,   project,   will  and similar expressions as they relate to us, are intended to identify forward-looking statements. These statements are based on our current plans and actual future activities, and our financial condition and results of operations may be materially different from those set forth in the forward-looking statements as a result of known or unknown risks and uncertainties, including, among other things:  
+
+risks and uncertainties associated with the integration of Nanosphere and implementing our acquisition strategy, our ability to identify suitable acquisition targets including our ability to obtain financing on acceptable terms, our ability to integrate acquired companies, or selected assets into our consolidated business operations, and the ability to fully realize the benefits of our acquisitions; 
+
+concentration of our revenue in a limited number of direct customers and strategic partners, some of which may experience decreased demand for their products utilizing or incorporating our technology, budget or finance constraints in the current economic environment, or periodic variability in their purchasing patterns or practices as a result of material resource planning challenges;  
+
+risks and uncertainties relating to market demand and acceptance of our products and technology, including ARIES       , MultiCode       , NxTAG       , xMAP        and Verigene       ; 
+
+our ability to successfully launch new products in a timely manner; 
+
+the uncertainty relating to increased focus on direct sales to the end user; 
+
+dependence on strategic partners for development, commercialization and distribution of products; 
+
+the timing of and process for regulatory approvals; 
+
+competition and competitive technologies utilized by our competitors; 
+
+fluctuations in quarterly results due to a lengthy and unpredictable sales cycle, fluctuations in bulk purchases of consumables, fluctuations in product mix, and the seasonal nature of some of our assay products; 
+
+our ability to obtain and enforce intellectual property protections on our products and technologies; 
+
+our ability to scale manufacturing operations and manage operating expenses, gross margins and inventory levels; 
+
+the impact of the ongoing uncertainty in global finance markets and changes in government and government agency funding, including its effects on the capital spending policies of our partners and end users and their ability to finance purchases of our products; 
+
+changes in principal members of our management staff; 
+     
+   17 
+
+     Table of Contents  
+
+potential shortages, or increases in costs, of components or other disruptions to our manufacturing operations; 
+
+our increasing dependency on information technology to enable us to improve the effectiveness of our operations and to monitor financial accuracy and efficiency; 
+
+the implementation, including any modification, of our strategic operating plans; 
+
+the uncertainty regarding the outcome or expense of any litigation brought against or initiated by us; and 
+
+risks relating to our foreign operations, including fluctuations in exchange rates, tariffs, customs and other barriers to importing/exporting materials and products in a cost effective and timely manner; difficulties in accounts receivable collections; the burden of monitoring and complying with foreign and international laws and treaties; and the burden of complying with and change in international taxation policies. 
+       
+  Many of these risks, uncertainties and other factors are beyond our control and are difficult to predict. Any or all of our forward-looking statements in this quarterly report may turn out to be inaccurate. We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends that we believe may affect our financial condition, results of operations, business strategy and financial needs. New factors could also emerge from time to time that could adversely affect our business. The forward-looking statements herein can be affected by inaccurate assumptions we might make or by known or unknown risks, uncertainties and assumptions, including the risks, uncertainties and assumptions outlined above and described in the   2015   10-K. In light of these risks, uncertainties and assumptions, the forward-looking events and circumstances discussed in this quarterly report may not occur and actual results could differ materially from those anticipated or implied in the forward-looking statements. When you consider these forward-looking statements, you should keep in mind these risk factors and other cautionary statements in this quarterly report, including in this "Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations  and in our other annual and periodic reports. 
+    
+  Our forward-looking statements speak only as of the date made. We undertake no obligation to publicly update or revise forward-looking statements whether as a result of new information, future events or otherwise. All subsequent written and oral forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by the cautionary statements contained in this quarterly report. 
+    
+  Unless the context requires otherwise, references in this Quarterly Report on Form 10-Q to  Luminex,  the  Company,   we,   us  and  our  refer to Luminex Corporation and its subsidiaries. 
+    
+  OVERVIEW  
+    
+  We develop, manufacture and sell proprietary biological testing technologies and products with applications throughout the diagnostics, pharmaceutical and life sciences industries. These industries depend on a broad range of tests, called assays, to perform diagnostic testing and conduct life science research. 
+    
+  We have established a position in several segments of the life sciences industry by developing and delivering products that meet a variety of customer needs in specific market segments, including multiplexing, accuracy, precision, sensitivity, specificity, reduction of labor and ability to test for proteins and nucleic acids. These needs are addressed by our proprietary technology, which allows the end user in a laboratory to perform biological testing in a multiplexed format. Multiplexing allows for many different laboratory results to be generated from one sample with a single assay. This is important because our end user customers, which include laboratory professionals performing research and clinical laboratories performing tests on patients as ordered by physicians and other laboratories, have a fundamental need to perform high quality testing as efficiently as possible. Until the availability of multiplexing technology such as our xMAP        (Multi-Analyte-Profiling) technology, the laboratory professional had to perform one assay at a time in a sequential manner, and if additional testing was required on a sample, a second assay would be performed to generate the second result, and so on until all the necessary tests were performed.   
+    
+  We have a full range of instruments using our xMAP technology:  our LUMINEX 100/200  systems offer 100-plex testing;  our FLEXMAP 3D        system is our high-throughput, 500-plex testing system; and our MAGPIX        system provides 50-plex testing at a lower cost using imaging rather than flow cytometry. By using our xMAP technology, the end users are able to be more efficient by generating multiple simultaneous results per sample. We believe that this technology may also offer advantages in other industries, such as in food safety/animal health and bio-defense/bio-threat markets. Using the products Luminex has available today, up to 500 simultaneous analyte results can be determined from a single sample. 
+
+18 
+
+     Table of Contents  
+
+We primarily serve the diagnostics, pharmaceutical and life sciences industries by marketing products, including our testing equipment and assays, to various types of testing laboratories. We have a large installed base of systems that has grown primarily from the following: 
+             
+    placements made by partners who either: 
+                
+    license our xMAP technology and develop products that incorporate our xMAP technology into products that they then sell to end users, or  
+                
+    purchase our proprietary xMAP laboratory instrumentation and our proprietary xMAP microspheres and sell xMAP-based assay products and/or xMAP-based testing services, which run on the xMAP instrumentation, and pay a royalty to us; and 
+                
+    our direct sales force that focuses on the sale of molecular diagnostic assays that run on our systems.   
+       
+  As of   September 30, 2016  , Luminex had   73   strategic partners, of which   52   have released commercialized reagent-based products utilizing our technology. Our remaining partners are in various stages of development and commercialization of products that incorporate our technology. 
+    
+  Our acquisition of Nanosphere on June 30, 2016 expands our offering in the molecular diagnostic market segment with Nanosphere's proprietary diagnostic tools that enable rapid and accurate detection of respiratory, gastrointestinal and bloodstream infections. Nanosphere is a leader in the high-growth bloodstream infection testing segment with its U.S. Food and Drug Administration (FDA) cleared Verigene Gram-Positive and Gram-Negative Blood Culture test panels, for the early detection of pathogens associated with bloodstream infections. In addition to detecting bacteria, these panels also detect yeast and identify antibiotic resistance markers. In contrast to traditional methodologies, which can take several days, these assays enable physicians to identify the pathogen, including associated resistance markers, and thus prescribe the most appropriate antibiotic regimen within 2.5 hours after positive blood culture. The ability for clinicians to make earlier, better informed therapeutic decisions results in improved patient outcomes and lower healthcare costs. In addition, Nanosphere has FDA-cleared products for the detection of gastrointestinal and respiratory infections. These include a targeted product for the detection of    C. difficile  , as well as highly multiplexed molecular enteric and respiratory pathogen panels which tests for a wide spectrum of microorganisms often associated with these types of infections.  With the addition of the Verigene platform, Luminex offers customers automated molecular platforms for both syndromic and targeted molecular diagnostic testing. 
+    
+  In addition to our menu of infectious disease tests, we are currently developing a next generation Verigene system that will deliver improved user experience. This system is designed to provide reduced time to result, improved user interface, including a room temperature cartridge all in a fully automated sample to result system with an optimized footprint.  
+    
+  A primary focus for our growth is the development and sale of molecular diagnostic assays utilizing our proprietary MultiCode        and Verigene technologies for use on our installed base of systems.  We utilize a direct sales model for sales of these products, which is intended to take advantage of our increasing installed base of instruments. Our assays are primarily focused on multiplexed applications for the human molecular clinical diagnostics market. Our assay products are currently focused on three segments of the molecular diagnostic testing market: human genetics, personalized medicine and infectious disease.  
+    
+  In addition to the sales to this installed base, in the fourth quarter of 2015 we received FDA clearance for our ARIES        system. The ARIES        system is a sample to answer clinical test system that automates and integrates extraction of nucleic acid from a clinical sample, performs real-time polymerase chain reaction, and detects multiple signals generated by target specific probes. The ARIES        system is used with specific assays to measure multiple analytes indicative of infectious disease.  The ARIES        system uses internal barcode scanning and other advanced features to minimize operator errors. Two independent modules each support from one to six cassettes, allowing both STAT and Batch testing. The ARIES        system can run both In Vitro Diagnostics (IVD) and MultiCode        Analyte Specific Reagents simultaneously with a common Universal Assay Protocol. The ARIES        system was commercially launched in the fourth quarter of 2015.  We also received FDA clearance for the ARIES        HSV (herpes simplex virus) 1 2 Assay in the fourth quarter of 2015; CE-IVD Mark in Europe for the ARIES        System and ARIES        HSV 1 2 Assay in the first quarter of 2016; CE-IVD Mark in Europe for the ARIES        Flu A/B   RSV Assay in the second quarter of 2016; and FDA Clearance and CE-IVD Mark for the ARIES        M1 System and FDA clearance for the ARIES  Flu A/B   RSV Assay in the third quarter of 2016. 
+  
+   19 
+
+     Table of Contents  
+
+Third Quarter 2016   Highlights     
+
+Received U.S. FDA clearance for the ARIES        Flu A/B   RSV Assay. 
+
+Received U.S. FDA clearance and CE-IVD Mark for the Company's ARIES M1 System. 
+
+Received FDA Emergency Use Authorization for Zika Virus Molecular Detection Assay. 
+
+Shipments of   294   multiplexing analyzers, which include Luminex        100/200   TM    systems, MAGPIX        systems and FLEXMAP 3D        systems. 
+       
+  Recent Acquisition of Nanosphere 
+    
+  As previously discussed in Note 2 - Business Combinations, on June 30, 2016, we completed our acquisition of Nanosphere, Inc. (Nanosphere), a publicly-held molecular diagnostic company based in Northbrook, Illinois.  The Acquisition was an all cash transaction that was undertaken to expand the Company's access to the high-growth molecular microbiology market and to Nanosphere's portfolio of molecular testing solutions. In connection with closing the Acquisition, we retired Nanosphere's   $25.4 million   of debt and paid transaction and debt prepayment expenses of approximately   $4.0 million  .  As a result of the Acquisition and the debt payoff, our cash, cash equivalents and investments were reduced by approximately   $93.1 million   during the   nine   months ended   September 30, 2016  , partially offset by operating cash flows of   $35.8 million  .  The results of operations for Nanosphere are included in the Company s consolidated financial statements beginning July 1, 2016.   
+    
+  As a result of the dilutive nature of the Acquisition, we believe both profitability and operating cash flows over the next eighteen months, approximately, will be lower than our recent historical results; however, we expect to maintain profitability and positive operating cash flows. We currently anticipate that the Acquisition and its related integration will be accretive to the Company's consolidated revenue, profitability, and cash flow by the end of 2017.  
+    
+  Growth in Inventory 
+    
+  Our inventory has increased from   $31.3 million   as of   December 31, 2015   to   $41.5 million   as of   September 30, 2016   primarily due to increases in systems inventory and the inclusion of the acquired Nanosphere inventory.  Based upon the increased demand for our systems that we have experienced over the past twelve months, we are building both our finished good system inventory and parts and supplies inventory related to our systems to be able to meet both expected and unanticipated demand.  
+  
+   20 
+
+     Table of Contents  
+
+Material Partner Activity 
+    
+  As previously disclosed, the cystic fibrosis (CF) assay revenue from the Company's largest customer, LabCorp, will wind down in 2017 while LabCorp transfers its CF business to an alternative technology.  Also, LabCorp recently informed us following a request for proposal process that they have elected to develop the next iteration of one of their women's health products with another party. The transition time is significant and, as a result, the parties have negotiated significant minimum women's health purchases for 2017 and the first half of 2018, pursuant to an amendment to the Party s existing supply agreement. LabCorp historically had the right to terminate the supply agreement with Luminex on 90 days  notice. Going forward, through June 30, 2018, LabCorp will acquire no less than   $63.1 million   in additional women's health products during 2017 and the first six months of 2018. This is in comparison to anticipated 2016 purchases of approximately   $36.0 million  . 
+    
+  Consumables Sales and Royalty Revenue Trends 
+    
+  We have experienced significant fluctuations in consumable revenue over the past three years. Overall, the fluctuations manifested themselves through periodic changes in volume from our largest purchasing customers. On a quarterly basis, our largest customers account for approximately   70%   of our total consumable sales volume. We expect these fluctuations to continue as the ordering patterns and inventory levels of our largest bulk purchasing partners remain variable. Additionally, even though we experience variability in consumable revenue, the key indicator of the success of our partners  commercialization efforts is the rising level of royalties and reported royalty bearing sales. 
+    
+  Future Operations 
+    
+  We expect our areas of focus over the next twelve months to be:  
+
+accelerating development and commercialization of the assays on our automated diagnostics systems; 
+
+increasing the growth of our partner business through enrichment of our existing partner relationships and the addition of new partners; 
+
+developing and commercializing the next generation system for Verigene; 
+
+placement of our ARIES        system, our sample to answer platform for our MultiCode       -RTx technology, including IVD assays; 
+
+realizing the anticipated synergies of the Nanosphere acquisition and associated integration, including the effective incorporation of our combined salesforce in the marketplace;  
+
+development and commercialization of a pipeline of assays for the ARIES        system; 
+
+market acceptance of our recently launched Respiratory Viral Panel line of IVD assays; 
+
+continued execution of our direct sales strategy, including developing the infrastructure necessary to support our sales force and decreasing reliance on our distributors; 
+
+commercialization, regulatory clearance and market adoption of products, including commercialization of MultiCode        assays outside of the United States; 
+
+maintenance and improvement of our existing products and the timely development, completion and successful commercial launch of our pipeline products; 
+
+adoption and use of our platforms and consumables by our customers for their testing services; 
+
+expansion and enhancement of our installed base of systems and our market position within our identified target market segments; 
+
+monitoring and mitigating the effect of the ongoing uncertainty in global finance markets and changes in government funding on planned purchases by end users; and 
+
+21 
+
+     Table of Contents  
+
+continued adoption and development of partner products incorporating Luminex technology through effective partner management. 
+       
+  We anticipate continued revenue concentration in our higher margin items (assays, consumables and royalties) contributing to favorable, but variable, gross margin percentages. Additionally, we believe that a sustained investment in research and development is necessary in order to meet the needs of our marketplace and provide a sustainable new product pipeline. We may experience volatility in research and development expenses as a percentage of revenue on a quarterly basis as a result of the timing of development expenses, clinical validation and clinical trials in advance of the commercial launch of our new products. 
+    
+  CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+    
+  The discussion and analysis of our financial condition and results of operations are based upon our condensed consolidated financial statements, which have been prepared in accordance with U.S. GAAP for interim financial statements. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Estimates and assumptions are reviewed periodically. Actual results may differ from these estimates under different assumptions or conditions. 
+    
+  Management believes there have been no significant changes during the quarter ended   September 30, 2016   to the items that we disclosed as our critical accounting policies and estimates in Management s Discussion and Analysis of Financial Condition and Results of Operations in the   2015   10-K. 
+    
+  RESULTS OF OPERATIONS 
+    
+  THREE MONTHS ENDED   SEPTEMBER 30  ,   2016   COMPARED TO THREE MONTHS ENDED   SEPTEMBER 30  ,   2015    
+    
+  Selected consolidated financial data for the three months ended   September 30  ,   2016   and   2015   is as follows (dollars in thousands): 
+
+Total revenue increased by   18%   to   $71.2 million   for the   three   months ended   September 30, 2016   from   $60.6 million   for the comparable period in   2015  , driven primarily by the Acquisition on June 30, 2016, which contributed approximately   13%   of the   18%   increase.  Nanosphere's most notable impact is expected to be in the assay revenue component of our business. 
+    
+  A breakdown of revenue for the   three   months ended   September 30, 2016   and   2015   is as follows (dollars in thousands): 
+
+22 
+
+     Table of Contents  
+
+We continue to experience revenue concentration in a limited number of customers. Five customers accounted for   47%     (  20%  ,   11%  ,   7%  ,   5%   and   4%  , respectively) of consolidated total revenue in the   third   quarter of   2016  . For comparative purposes, these top five customers accounted for   52%   (  23%  ,   13%  ,   9%  ,   5%   and   2%  , respectively) of total revenue in the   third   quarter of   2015  . No other customer accounted for more than 10% of consolidated total revenue during those periods. 
+    
+  Revenue from the sale of systems and peripheral components increased   9%   to   $10.5 million   for the   three   months ended   September 30, 2016   from   $9.6 million   for the   three   months ended   September 30, 2015  , resulting in part to the Acquisition, placement of additional ARIES        systems, as well as favorable mix in sales of multiplexing analyzers with lower sales of MAGPIX systems, partially offset by more sales of LX and FLEXMAP 3D systems. We sold   294   multiplexing analyzers in the   third   quarter of   2016  , as compared to   307   multiplexing analyzers sold for the corresponding prior year period. For the   three   months ended   September 30, 2016  , five of our partners accounted for   211   multiplexing analyzers, or   72%  , of total multiplexing analyzers sold, as compared to five of our partners accounting for   229   multiplexing analyzers, or   75%  , of total multiplexing analyzers sold for the   three   months ended   September 30, 2015  . 
+    
+  Consumable sales, comprised of microspheres and sheath fluid, increased   12%   to   $12.3 million   for the   three   months ended   September 30, 2016   from   $10.9 million   for the   three   months ended   September 30, 2015  . During the   three   months ended   September 30, 2016  , we had   22   bulk purchases of consumables totaling approximately   $9.6 million   (  78%   of total consumable revenue), ranging from   $0.1 million   to   $1.8 million  , as compared with   21   bulk purchases totaling approximately   $8.3 million   (  75%   of total consumable revenue), ranging from $0.1 million to $1.8 million, for the   three   months ended   September 30, 2015  . The increase in revenue from bulk purchases in the   third   quarter of   2016   is the primary driver to the increase in consumable revenue from the prior year quarter. We expect fluctuations in consumable sales on an ongoing basis.  Partners who reported royalty bearing sales accounted for   $9.0 million  , or   73%  , of consumable sales for the   three   months ended   September 30, 2016   compared to   $7.7 million  , or   70%  , of the total consumable sales for the   three   months ended   September 30, 2015  .  
+    
+  Royalty revenue, which results when our partners sell products or testing services incorporating our technology, increased by   8%   to   $11.1 million   for the   three   months ended   September 30, 2016   from   $10.2 million   for the   three   months ended   September 30, 2015  . This increase is the result of an increase in base royalties of   $0.5 million   and an increase in minimum royalty payments and royalty audit findings and other adjustments of approximately   $0.3 million  . We expect modest fluctuations in the royalties submitted quarter to quarter based upon the varying contractual terms, differing reporting and payment requirements, and the addition of new partners. Our partners  end user sales may reflect volatility from quarter to quarter and therefore, that same volatility is reflected in our reported royalty revenues on a quarterly basis.  
+  
+   23 
+
+     Table of Contents  
+
+Assay revenue increased   32%   to   $32.4 million   for the   three   months ended   September 30, 2016   from   $24.6 million   for the   three   months ended   September 30, 2015  , driven primarily by the Acquisition, which accounted for 26% of the 32% increase, in addition to increased sales of infectious disease testing assays. Revenue for our primary assay portfolios increased in infectious disease testing products by   53%   while our genetic testing assay products decreased by 13% for the   three   months ended   September 30, 2016   from the   third   quarter of   2015  .  This decrease was attributable to pricing and reimbursement challenges within the pharmacogenetic market segment, causing us to shift some focus away from these opportunities.  Additionally, infectious disease testing assay products and genetic testing assay products represented   78%   and   22%  , respectively, of total assay revenue in the   third   quarter of   2016  , compared to   68%   and   32%  , respectively, in the   third   quarter of   2015  . The acquired assay revenue for Nanosphere represents approximately 20% of total assay revenue for the   three   months ended   September 30, 2016  , and consisted primarily of infectious disease testing assay products. Our largest customer, by revenue, accounted for   41%   of total assay revenue for the   three   months ended   September 30, 2016   compared to   53%   for the   three   months ended   September 30, 2015  . No other customer accounted for more than 10% of total assay revenue during those periods. As disclosed previously, cystic fibrosis revenue from our largest assay customer is expected to transition to a competing technology and, although timing is uncertain, the loss of a significant portion of that revenue is expected by the first half of 2017.   As discussed in the Overview section above, the same assay customer has recently informed us that they plan on developing the next iteration of their women's health portfolio with another party, which could negatively impact assay revenue in 2018. 
+    
+  Service revenue, comprised of extended warranty contracts earned ratably over the term of a contract and time and materials for billable service work not under an extended warranty contract, increased   $0.5 million  , or   23%  , to   $2.9 million   for the   third   quarter of   2016   compared to the   third   quarter of   2015  . As of   September 30, 2016  , we had   1,981   Luminex systems covered under extended service agreements and   $4.8 million   in deferred revenue related to those contracts. As of   September 30, 2015  , we had   1,682   Luminex systems covered under extended service agreements and   $4.3 million   in deferred revenue related to those contracts. 
+    
+  Other revenue, which includes training revenue, shipping revenue, miscellaneous part sales, amortized license fees, 2015 milestone payments from our development agreement with Merck and revenue from agreements with U.S. government agencies, decreased   28%   to   $2.0 million   for the   three   months ended   September 30, 2016   compared to   $2.8 million   for the   three   months ended   September 30, 2015  , primarily driven by a reduction in government contract revenue.  We expect this trend to continue in the near term as our focus has shifted away from these government contract opportunities. 
+    
+  Gross Profit  . Gross profit increased to   $45.7 million   for the   three   months ended   September 30, 2016  , as compared to   $41.8 million   for the   three   months ended   September 30, 2015  . However, gross margin (gross profit as a percentage of total revenue) was   64%   for the   three   months ended   September 30, 2016  , lower than the prior year quarter of   69%  .  The decrease in gross margin percentage is attributable to the Acquisition. The acquired Nanosphere portfolio has meaningfully lower gross margins than the pre-existing Luminex business, including the impact of a $0.5 million incremental expense resulting from recording Nanosphere's inventory acquired at fair value on the date of the Acquisition. We expect the gross margins on the acquired portfolio to continue to negatively impact our consolidated gross margins in the near term; however, we expect synergies realized from the acquisition, increased sales volumes and the commercialization of the next generation Verigene system to increase these gross margins in the longer term. We anticipate continued fluctuation in gross margin and related gross profit primarily as a result of variability in consumable and system purchases and seasonality effects inherent in our assay revenue. 
+    
+  Research and Development Expense.   Research and development expense increased to   $12.8 million  , or   18%   of total revenue, for the   three   months ended   September 30, 2016   from   $10.1 million  , or   17%   of total revenue, for the   three   months ended   September 30, 2015  .  The increase in research and development expense was primarily a result of the addition of Nanosphere's expenses, as well as higher costs for clinical trials of ARIES assays. Research and development headcount as of   September 30, 2016   was   229  , including   33   Nanosphere employees, as compared to   199   as of   September 30, 2015  . The focus of our research and development activities is the development and commercialization of a pipeline of assays for the ARIES        system and the development of the next generation Verigene system and assays. 
+    
+  Selling, General and Administrative Expense  . Selling, general and administrative expenses, excluding the amortization of acquired intangible assets, increased to   $26.4 million   for the   three   months ended   September 30, 2016   from   $21.2 million   for the   three   months ended   September 30, 2015  .  The increase was primarily attributable to the addition of Nanosphere's expenses and transaction costs of $0.5 million incurred during the quarter. Selling, general and administrative headcount as of   September 30, 2016   was   371  , including   47   Nanosphere employees, as compared to   312   as of   September 30, 2015  . As a percentage of revenue, selling, general and administrative expense, excluding the amortization of acquired intangible assets, was   37%   in the   third   quarter of   2016  , up from   35%   in the   third   quarter of   2015  . 
+  
+   24 
+
+     Table of Contents  
+
+Amortization of Acquired Intangible Assets.   Amortization of acquired intangible assets increased to $2.5 million for the   three   months ended   September 30, 2016   from $0.8 million for the   three   months ended   September 30, 2015  .  The increase was primarily driven by the completion of the in-process research and development project related to our ARIES        System which began amortizing in November 2015, as well as due to acquired intangible assets from the Acquisition which began amortizing in July 2016. 
+    
+  Income taxes  . Our effective tax rate for the   three   months ended   September 30, 2016   was   32%  , reflecting a   $1.3 million   expense, as compared to   34%  , or a   $3.3 million   expense, for the   three   months ended   September 30, 2015   primarily resulting from the impact of projected income tax benefits related to Nanosphere in our provisional tax rates.  We expect our consolidated effective tax rate to be in the 25% to 35% range over the next several years, absent any other significant discrete items.  We continue to assess our business model and its impact in various tax jurisdictions. 
+    
+  NINE   MONTHS ENDED   SEPTEMBER 30  ,   2016   COMPARED TO   NINE   MONTHS ENDED   SEPTEMBER 30  ,   2015    
+    
+  Selected consolidated financial data for the   nine   months ended   September 30  ,   2016   and   2015   is as follows (dollars in thousands): 
+
+Total revenue increased by   12%   to   $198.4 million   for the   nine   months ended   September 30, 2016   from   $177.3 million   for the comparable period in   2015  .  The increase was primarily attributable to increases in assay, system, and consumable sales, driven in part by the Acquisition on June 30, 2016 which contributed approximately 4% of the 12% growth in total revenue. 
+    
+  A breakdown of revenue for the   nine   months ended   September 30, 2016   and   2015   is as follows (dollars in thousands): 
+
+We continue to experience revenue concentration in a limited number of customers. Five customers accounted for   50%   (  21%  ,   13%  ,   7%  , 6% and   3%  , respectively) of consolidated total revenue in the   nine   months ended   September 30, 2016  . For comparative purposes, these top five customers accounted for   53%   (  23%  ,   13%  ,   8%  , 6% and   3%  , respectively) of total revenue in the   nine   months ended   September 30, 2015  .  No other customer accounted for more than 10% of consolidated total revenue during those periods. 
+    
+  Revenue from the sale of systems and peripheral components increased   26%   to   $27.8 million   for the   nine   months ended   September 30, 2016   from   $22.1 million   for the   nine   months ended   September 30, 2015  , primarily due to the increase in the total multiplexing analyzer placements. We sold   826   multiplexing analyzers in the   nine   months ended   September 30, 2016  , as compared to   734   multiplexing analyzers sold for the corresponding prior year period.  For the   nine   months ended   September 30, 2016  , five of our partners accounted for   592  , or   72%  , of total multiplexing analyzers sold.  Five of our partners accounted for   559  , or   76%  , of total multiplexing analyzers sold for the   nine   months ended   September 30, 2015  . 
+
+25 
+
+     Table of Contents  
+
+Consumable sales increased   15%   to   $37.5 million   for the   nine   months ended   September 30, 2016   compared to   $32.7 million   for the   nine   months ended   September 30, 2015  .  We had   64   bulk purchases of consumables totaling approximately   $29.4 million   (  78%   of total consumable revenue), ranging from   $0.1 million   to   $3.4 million  , during the   nine   months ended   September 30, 2016  , as compared with   52   bulk purchases totaling approximately   $24.4 million   (  75%   of total consumable revenue), ranging from $0.1 million to $6.9 million, for the   nine   months ended   September 30, 2015  .  The increase in revenue from bulk purchases in the   nine   months ended   September 30, 2016   is the main driver to the increase in consumable revenue from the prior year period and is primarily due to overall growth across our partners. We anticipate a modest decline in our consumable sales in the fourth quarter of 2016 primarily attributable to the timing of purchases by our largest purchaser of consumables.  However, excluding purchases from our largest purchaser of consumables for the   nine   months ended   September 30, 2016   and   2015  , consumables from our remaining customers grew by   16%   for the   nine   months ended   September 30, 2016   as compared to the prior year period. We expect fluctuations in consumable sales on an ongoing basis.  Partners who reported royalty bearing sales accounted for   $25.0 million  , or   67%  , of consumable sales for the   nine   months ended   September 30, 2016   compared to   $22.4 million  , or   69%  , of the total consumable sales for the   nine   months ended   September 30, 2015  .  
+    
+  Royalty revenue increased   6%   to   $33.9 million   for the   nine   months ended   September 30, 2016   from   $32.0 million   for the   nine   months ended   September 30, 2015  .  This increase is primarily attributable to an increase in base royalties of approximately   $1.4 million   as a result of continued menu expansion and increased utilization of our partners  assays on our technology. We expect modest fluctuations in the royalties submitted quarter to quarter based upon the varying contractual terms, differing reporting and payment requirements, and the addition of new partners. Our partners  end user sales may reflect volatility from quarter to quarter and therefore, that same volatility is reflected in our reported royalty revenues on a quarterly basis. 
+    
+  Assay revenue increased   15%   to   $85.4 million   for the   nine   months ended   September 30, 2016   from   $74.3 million   for the   nine   months ended   September 30, 2015  , driven primarily by the Acquisition, which contributed 9% of the 15% increase.  The remaining 6% of growth is attributable to increased sales in infectious disease testing assays.  Our infectious disease testing assay portfolio increased   27%   from the first   nine   months of   2015   while our genetic testing assay portfolio decreased   9%   over the comparable time period.  Additionally, infectious disease testing and genetic testing assay products represented   73%   and   27%  , respectively, of total assay revenue in the   nine   months ended   September 30, 2016  , compared to   66%   and   34%  , respectively, in the   nine   months ended   September 30, 2015  . Our largest customer, by revenue, accounted for   45%   of total assay revenue for the   nine   months ended   September 30, 2016   compared to   51%   for the   nine   months ended   September 30, 2015  . No other customer accounted for more than 10% of total assay revenue during those periods.  As disclosed previously, cystic fibrosis revenue from our largest assay customer is expected to transition to a competing technology and, although timing is uncertain, the loss of a significant portion of that revenue is expected by the first half of 2017.  
+    
+  Service revenue, comprised of extended warranty contracts earned ratably over the term of a contract and time and materials for billable service work not under an extended warranty contract, increased   11%   to   $7.9 million   for the   nine   months ended   September 30, 2016   compared to   $7.1 million   for the   nine   months ended   September 30, 2015  . 
+    
+  Other revenue, which includes training revenue, shipping revenue, miscellaneous part sales, amortized license fees, 2015 milestone payments from our development agreement with Merck and revenue from agreements with U.S. government agencies, decreased to   $5.9 million   for the   nine   months ended   September 30, 2016   compared to   $9.0 million   for the   nine   months ended   September 30, 2015  , primarily driven by a decrease in revenue from U.S. government contracts, in addition to a Merck milestone payment in 2015, which did not recur in 2016. 
+    
+  Gross Profit  . Gross profit increased to   $135.4 million   for the   nine   months ended   September 30, 2016  , as compared to   $125.3 million   for the   nine   months ended   September 30, 2015  . Gross margin (gross profit as a percentage of total revenue) was   68%   for the   nine   months ended   September 30, 2016  , a decrease from   71%   for the   nine   months ended   September 30, 2015  , was attributable to the Acquisition. The acquired Nanosphere portfolio currently has meaningfully lower gross margins than the pre-existing Luminex business, including the impact of a $0.5 million incremental expense resulting from recording Nanosphere's inventory acquired at fair value on the date of the Acquisition. The acquired Nanosphere portfolio has significantly lower gross margins than the pre-existing Luminex business. We expect the gross margins on the acquired portfolio to continue to negatively impact our consolidated gross margins in the near term; however, we expect synergies realized from the acquisition, increased sales volumes  and the commercialization of the next generation Verigene system to increase these gross margins in the longer term.  We anticipate continued fluctuation in gross margin and related gross profit primarily as a result of variability in consumable and system purchases and seasonality effects inherent in our assay revenue. 
+  
+   26 
+
+     Table of Contents  
+
+Research and Development Expense.   Research and development expense increased to   $35.3 million  , or   18%   of total revenue, for the   nine   months ended   September 30, 2016   from   $31.7 million  , or   18%   of total revenue, for the   nine   months ended   September 30, 2015  .  The   $3.6 million   increase in research and development expense was primarily the result of the addition of Nanosphere's expenses and higher material and expenses driven by the expansion of assay research and clinical trials. Research and development headcount as of   September 30, 2016   was   229  , including   33   Nanosphere employees, as compared to   199   as of   September 30, 2015  .  The focus of our research and development activities has been the development and clinical validation of our next generation sample to answer platform for our ARIES        system. 
+    
+  Selling, General and Administrative Expense  . Selling, general and administrative expenses, excluding the amortization of acquired intangible assets, increased to   $70.9 million   for the   nine   months ended   September 30, 2016   from   $61.7 million   for the   nine   months ended   September 30, 2015  , primarily resulting from the addition of Nanosphere and the Acquisition transaction costs of $2.5 million, in addition to higher sales and marketing expenses driven by increased headcount and marketing activities. Selling, general and administrative headcount as of   September 30, 2016   was   371  , including   47   Nanosphere employees, as compared to   312   as of   September 30, 2015  .  As a percentage of revenue, selling, general and administrative expense, excluding the amortization of acquired intangible assets, was   36%   in the first   nine   months of   2016  , compared to   35%   in the first   nine   months of   2015  .  
+    
+  Amortization of Acquired Intangible Assets.   Amortization of acquired intangible assets increased to $5.8 million for the   nine   months ended   September 30, 2016   from $2.5 million for the   nine   months ended   September 30, 2015  .  The increase was primarily driven by the completion of the in-process research and development project related to our ARIES        System which began amortizing in November 2015, as well as due to acquired intangible assets from the acquisition of Nanosphere which began amortizing in July 2016. 
+    
+  Other Income, net.   Other income, net decreased to a loss of   $1.4 million   for the   nine   months ended   September 30, 2016   from income of   $1.0 million   for the   nine   months ended   September 30, 2015  .  The decrease was primarily the result of the $1.5 million debt retirement fees in connection with the payoff of Nanosphere's debt. 
+    
+  Settlement of litigation  . An expense of $7.1 million was recorded in the second quarter of 2015 related to the settlement of litigation with ENZO. The expense associated with the settlement was for partial consideration of a license, dismissal of litigation, releases, and covenants granted by ENZO.  See Note 12 - Commitments and Contingencies to our condensed consolidated financial statements for further discussion. 
+    
+  Income taxes  . Our effective tax rate for the   nine   months ended   September 30, 2016   was   22%  , reflecting a   $4.8 million   expense, as compared to   28%  , or a   $6.5 million   expense, for the   nine   months ended   September 30, 2015   primarily the result of the impact of the Acquisition and the inclusion of projected income tax benefits related to Nanosphere in our provisional tax rates in 2016.  We expect our consolidated effective tax rate to be in the 25% to 35% range over the next several years, absent any other significant discrete items. We continue to assess our business model and its impact in various tax jurisdictions. 
+  
+   27 
+
+     Table of Contents  
+
+LIQUIDITY AND CAPITAL RESOURCES 
+
+As of   September 30, 2016  , we held cash and cash equivalents, short-term investments and long-term investments of   $84.1 million   and had working capital of   $133.3 million  . At   December 31, 2015  , we held cash and cash equivalents, short-term investments and long-term investments of   $148.0 million   and had working capital of   $182.3 million  . The   $63.8 million   decrease in cash, cash equivalents and investments is primarily attributable to the cash payment of approximately   $92.4 million   in connection with the acquisition of Nanosphere, and the subsequent retirement of approximately   $25.4 million   of Nanosphere's debt. These payments were partially offset by the cash acquired from Nanosphere of   $24.3 million   and operating cash flows of the Company in the amount of   $35.8 million   for the   nine   months ended   September 30, 2016  .  Our capital expenditures were   $8.4 million   during the first   nine   months of 2016, which were partially funded by   $3.6 million   in proceeds from our employee stock purchase plan. 
+    
+  As a result of the dilutive nature of the Acquisition, we believe both profitability and operating cash flows over the next eighteen months, approximately, will be lower than our recent historical results; however, we expect to maintain profitability and positive operating cash flows.  We currently anticipate that the Acquisition and its related integration will be accretive to the Company's consolidated revenue, profitability, and cash flow by the end of 2017. 
+    
+  We have funded our operations to date primarily through the issuance of equity securities (in conjunction with an initial public offering in 2000, subsequent option exercises, and our secondary public offering in 2008) and cash generated from operations. Our cash reserves are typically held directly or indirectly in a variety of short-term, interest-bearing instruments, including non-government sponsored debt securities.  We do not have any investments in asset-backed commercial paper, auction rate securities, or mortgage backed or sub-prime style investments. 
+    
+  Our future capital requirements will depend on a number of factors, including our success in developing and expanding markets for our products, payments under possible future strategic arrangements, continued progress of our research and development of potential products, the timing and outcome of regulatory approvals, the need to acquire licenses to new technology, costs associated with strategic acquisitions including integration costs and assumed liabilities, the status of competitive products and potential cost associated with both protecting and defending our intellectual property. We believe that our existing cash and cash equivalents are sufficient to fund our operating expenses, capital equipment requirements and other expected liquidity requirements for the coming twelve months. Factors that could affect our capital requirements, in addition to those listed above, include, without limitation: (i) continued collections of accounts receivable consistent with our historical experience; (ii) our ability to manage our inventory levels consistent with past practices; (iii) volatility in our key partners' consumable purchasing patterns; (iv) execution of partnership agreements that include significant up front license fees;  (v) our stock repurchase programs from time to time and (vi) executing strategic investment or acquisition agreements requiring significant cash consideration. See also the "Safe Harbor Cautionary Statement" of this report and the risk factors in the   2015   10-K and our other filings with the SEC. 
+    
+  To the extent our capital resources are insufficient to meet future capital requirements we will have to raise additional funds to continue the development and deployment of our technologies, or to supplement our position through strategic acquisitions. There can be no assurance that debt or equity funds will be available on favorable terms, if at all. Any downgrade in our credit rating could adversely affect our ability to raise debt capital on favorable terms, or at all. To the extent that additional capital is raised through the sale of equity or convertible debt securities, the issuance of those securities could result in dilution to our stockholders. Moreover, incurring debt financing could result in a substantial portion of our operating cash flow being dedicated to the payment of principal and interest on such indebtedness, could render us more vulnerable to competitive pressures and economic downturns and could impose restrictions on our operations. If adequate funds are not available, we may be required to curtail operations significantly or to obtain funds through entering into agreements on unattractive terms. 
+
+28 
+
+Table of Contents  
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+    
+  Interest Rate Risk.   Our interest income is sensitive to changes in the general level of domestic interest rates, particularly since our investments are in short-term instruments available-for-sale. A 50 basis point fluctuation from average investment returns as of   September 30, 2016   would yield a less than   0.5%   variance in overall investment return, which would not have a material effect on our financial condition. 
+    
+  Foreign Currency Risk.   Our international business is subject to risks, including, but not limited to: foreign exchange rate volatility, differing tax structures, unique economic conditions, other regulations and restrictions, and changes in political climate. Accordingly, our future results could be materially adversely impacted by changes in these and other factors. 
+    
+  As of   September 30, 2016  , as a result of our foreign operations, we have costs, assets and liabilities that are denominated in foreign currencies, primarily Canadian dollars and to a lesser extent the Euro, Renminbi, Hong Kong dollar and Yen. For example, some fixed asset purchases and certain expenses in our Canadian subsidiary are denominated in Canadian dollars while sales of products are primarily denominated in U.S. dollars. Transactions in our Netherlands, Japanese and Hong Kong subsidiaries are primarily denominated in Euros, Yen and Hong Kong dollars, respectively. The majority of transactions, with the exception of our initial capital investment, in our Chinese subsidiary are denominated in Renminbi. As a consequence, movements in exchange rates could cause our foreign currency denominated expenses to fluctuate as a percentage of net revenue, affecting our profitability and cash flows. A significant majority of our revenues are denominated in U.S. dollars. The impact of foreign exchange rates on foreign denominated balances will vary in relation to changes between the U.S. dollar, Canadian dollar, Euro, Yen, Renminbi and Hong Kong dollar exchange rates. A 10% change in these exchange rates in relation to the U.S. dollar would result in an income statement impact of approximately   $0.9 million   on foreign currency denominated asset and liability balances as of   September 30, 2016  . As a result of our efforts to expand globally, in the future we will be exposed to additional foreign currency risk in multiple currencies; however, at this time, our exposure to foreign currency fluctuations is not material. We regularly assess the market to determine if additional strategies are appropriate to mitigate future risks. 
+    
+  In addition, the indirect effect of fluctuations in interest rates and foreign currency exchange rates could have a material adverse effect on our business financial condition and results of operations. For example, currency exchange rate fluctuations could affect international demand for our products. In addition, interest rate fluctuations could affect our customers  buying patterns. Furthermore, interest rate and currency exchange rate fluctuations may broadly influence the United States and foreign economies resulting in a material adverse effect on our business, financial condition and results of operations. As a result, we cannot give any assurance as to the effect that future changes in foreign currency rates will have on our consolidated financial position, results of operations or cash flows. Our aggregate foreign currency transaction loss of approximately   $55,000   was included in determining our consolidated results for the quarter ended   September 30, 2016  . 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+    
+  Evaluation of Disclosure Controls and Procedures 
+    
+  We maintain disclosure controls and procedures, as defined in Rule 13a-15(e) promulgated under the Securities Exchange Act of 1934, as amended (Exchange Act), which are designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. We carried out an evaluation, under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures, as of the end of the period covered by this quarterly report. Based on the evaluation and criteria of these disclosure controls and procedures, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective. 
+    
+  Changes in Internal Control over Financial Reporting 
+    
+  There were no changes in our internal control over financial reporting identified in connection with the evaluation required by Exchange Act Rule 13a-15(d) during the quarter ended   September 30, 2016   that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+29 
+
+Table of Contents  
+
+PART II. OTHER INFORMATION 
+
+ITEM 1. LEGAL PROCEEDINGS 
+    
+  When and if it appears probable in management's judgment, and based upon consultation with outside counsel, that we will incur monetary damages or other costs in connection with any claims or proceedings, and such costs can be reasonably estimated, we record the estimated liability in the financial statements.  If only a range of estimated losses can be estimated, we record an amount within the range that, in management's judgment, reflects the most likely outcome; if none of the estimates within that range is a better estimate than any other amount, we record the liability at the low end of the range of estimates. Any such accrual would be charged to expense in the appropriate period.   We disclose significant contingencies when the loss is not probable and/or the amount of the loss is not estimable, when we believe there is at least a reasonable possibility that a loss has been incurred.  We recognize costs associated with legal proceedings in the period in which the services were provided.  
+
+ITEM 1A. RISK FACTORS 
+    
+  Reference is made to the factors set forth under the caption  Safe Harbor Cautionary Statement  in Part I, Item 2 of this report and other risk factors described in Part I, Item 1A of the   2015   10-K, which are incorporated herein by reference. There have been no material changes from the risk factors previously disclosed in the   2015   10-K.  
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+    
+  The stock repurchase activity for the   third   quarter of   2016   was as follows: 
+
+30 
+
+Table of Contents  
+
+ITEM 6. EXHIBITS 
+    
+  The following exhibits are filed herewith: 
+                   Exhibit 
+  Number 
+
+Description of Documents 
+
+31.1 
+      
+    Certification by CEO pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+31.2 
+      
+    Certification by CFO pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32.1 
+      
+    Certification by CEO pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+32.2 
+      
+    Certification by CFO pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101 
+      
+    The following materials from Luminex Corporation's Quarterly Report on Form 10-Q for the three and nine months ended  September 30, 2016, formatted in XBRL: (i) Condensed Consolidated Balance Sheets; (ii) Condensed Consolidated Statements of Comprehensive Income; (iii) Condensed Consolidated Statement of Cash Flows; and (iv) Notes to Condensed Consolidated Financial Statements.  
+
+31 
+
+Table of Contents  
+
+SIGNATURES 
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+Date:   October 31, 2016    
+    
+  LUMINEX CORPORATION 
+    
+  By:   /s/ Harriss T. Currie    
+  Harriss T. Currie 
+  Chief Financial Officer, Senior Vice President of Finance 
+  (Principal Financial Officer) 
+
+Table of Contents  
+
+EXHIBIT INDEX 
+                   Exhibit 
+  Number 
+
+Description of Documents 
+
+31.1 
+      
+    Certification by CEO pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+31.2 
+      
+    Certification by CFO pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32.1 
+      
+    Certification by CEO pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+32.2 
+      
+    Certification by CFO pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101 
+      
+    The following materials from Luminex Corporation's Quarterly Report on Form 10-Q for the three and nine months ended  September 30, 2016, formatted in XBRL: (i) Condensed Consolidated Balance Sheets; (ii) Condensed Consolidated Statements of Comprehensive Income; (iii) Condensed Consolidated Statement of Cash Flows; and (iv) Notes to Condensed Consolidated Financial Statements.  
+
+<EX-31.1>
+ 2
+ lmnx-09302016xexhibit311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+    
+  CERTIFICATION 
+    
+  I, Nachum Shamir, certify that: 
+    
+  1. I have reviewed this quarterly report on Form 10-Q of Luminex Corporation; 
+    
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+    
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+    
+  4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+    
+  a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+    
+  b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+    
+  c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+    
+  d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+    
+  5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+    
+  a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+    
+  b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date:   October 31, 2016    
+    
+  By:     /s/ Nachum Shamir       
+  Nachum Shamir 
+  President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ lmnx-09302016xexhibit312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+    
+  CERTIFICATION 
+    
+  I, Harriss T. Currie, certify that: 
+    
+  1. I have reviewed this quarterly report on Form 10-Q of Luminex Corporation; 
+    
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+    
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+    
+  4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+    
+  a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+    
+  b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+    
+  c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+    
+  d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+    
+  5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+    
+  a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+    
+  b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date:   October 31, 2016    
+    
+  By:   /s/ Harriss T. Currie    
+  Harriss T. Currie 
+  Chief Financial Officer, Senior Vice President of Finance 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ lmnx-09302016xexhibit321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+    
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  In connection with the Quarterly Report of Luminex Corporation (the  Company ) on Form 10-Q for the period ended   September 30, 2016  , as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Nachum Shamir,  President and Chief Executive Officer of the Company, certify, pursuant to Title 18, Chapter 63, Section 1350 of the United States Code, as adopted pursuant to  906 of the Sarbanes-Oxley Act of 2002, that: 
+    
+  (1) The Report fully complies with the requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934; and 
+    
+  (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company at the dates and for the periods indicated. 
+    
+  /s/ Nachum Shamir    
+  Nachum Shamir 
+  President and Chief Executive Officer 
+  October 31, 2016    
+    
+  A SIGNED ORIGINAL OF THIS WRITTEN STATEMENT REQUIRED BY SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 HAS BEEN PROVIDED TO LUMINEX CORPORATION AND WILL BE RETAINED BY LUMINEX CORPORATION AND FURNISHED TO THE SECURITIES AND EXCHANGE COMMISSION OR ITS STAFF UPON REQUEST. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ lmnx-09302016xexhibit322.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+    
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  In connection with the Quarterly Report of Luminex Corporation (the  Company ) on Form 10-Q for the period ended   September 30, 2016  , as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Harriss T. Currie, Chief Financial Officer and Senior Vice President of Finance of the Company, certify, pursuant to Title 18, Chapter 63, Section 1350 of the United States Code, as adopted pursuant to  906 of the Sarbanes-Oxley Act of 2002, that: 
+    
+  (1) The Report fully complies with the requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934; and 
+    
+  (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company at the dates and for the periods indicated. 
+    
+  /s/ Harriss T. Currie    
+  Harriss T. Currie 
+  Chief Financial Officer, Senior Vice President of Finance 
+  October 31, 2016    
+
+A SIGNED ORIGINAL OF THIS WRITTEN STATEMENT REQUIRED BY SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 HAS BEEN PROVIDED TO LUMINEX CORPORATION AND WILL BE RETAINED BY LUMINEX CORPORATION AND FURNISHED TO THE SECURITIES AND EXCHANGE COMMISSION OR ITS STAFF UPON REQUEST. 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ lmnx-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ lmnx-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ lmnx-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ lmnx-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ lmnx-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ lmnx-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

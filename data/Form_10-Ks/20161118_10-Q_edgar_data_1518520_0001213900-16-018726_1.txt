@@ -1,0 +1,2613 @@
+<Header>
+<FileStats>
+    <FileName>20161118_10-Q_edgar_data_1518520_0001213900-16-018726_1.txt</FileName>
+    <GrossFileSize>5384797</GrossFileSize>
+    <NetFileSize>138220</NetFileSize>
+    <ASCII_Embedded_Chars>324563</ASCII_Embedded_Chars>
+    <HTML_Chars>1261666</HTML_Chars>
+    <XBRL_Chars>2232751</XBRL_Chars>
+    <XML_Chars>1331216</XML_Chars>
+    <N_Tables>57</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-16-018726.hdr.sgml : 20161118
+<ACCEPTANCE-DATETIME>20161118160656
+ACCESSION NUMBER:		0001213900-16-018726
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		97
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161118
+DATE AS OF CHANGE:		20161118
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Icagen, Inc.
+		CENTRAL INDEX KEY:			0001518520
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMMERCIAL PHYSICAL & BIOLOGICAL RESEARCH [8731]
+		IRS NUMBER:				200982060
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54748
+		FILM NUMBER:		162007879
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4222 EMPEROR BLVD., SUITE 350
+		STREET 2:		RESEARCH TRIANGLE PARK
+		CITY:			DURHAM
+		STATE:			NC
+		ZIP:			27703
+		BUSINESS PHONE:		919-941-5206
+
+	MAIL ADDRESS:	
+		STREET 1:		4222 EMPEROR BLVD., SUITE 350
+		STREET 2:		RESEARCH TRIANGLE PARK
+		CITY:			DURHAM
+		STATE:			NC
+		ZIP:			27703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	XRpro Sciences, Inc.
+		DATE OF NAME CHANGE:	20141204
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Caldera Pharmaceuticals Inc
+		DATE OF NAME CHANGE:	20110419
+
+</SEC-Header>
+</Header>
+
+ 0001213900-16-018726.txt : 20161118
+
+10-Q
+ 1
+ f10q0916_icageninc.htm
+ QUARTERLY REPORT
+
+UNITED
+STATES   
+
+   SECURITIES
+AND EXCHANGE COMMISSION   
+
+   Washington,
+D.C. 20549   
+
+FORM
+10-Q   
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934   
+
+For
+the quarterly period ended  September 30, 2016   
+
+or   
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934   
+
+For
+the transition period from _________ to ________  
+
+Commission
+File Number:  000-54748   
+
+ICAGEN,
+INC.    
+
+  (Exact
+name of registrant as specified in its charter)  
+
+Delaware   
+         
+       20-0982060    
+ 
+      (State
+    or other jurisdiction of  
+     incorporation or organization)  
+         
+      (I.R.S.
+    Employer  
+     Identification No.)   
+
+4222
+Emperor Blvd., Suite 350   
+
+    Research
+Triangle Park, Durham, NC, 27703    
+
+  (Address
+of principal executive offices) (Zip Code)  
+
+(919)
+433-3205     
+
+  (Registrant s
+telephone number, including area code)  
+
+(Former
+name, former address and former fiscal year, if changed since last report)  
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.   Yes     
+No    
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such
+shorter period that the registrant was required to submit and post such files).   Yes     
+No    
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller
+reporting company. See definitions of  large accelerated filer,   accelerated filer  and  smaller
+reporting company  in Rule 12b-2 of the Exchange Act.  
+
+Large
+    accelerated filer  
+         
+      Accelerated
+    filer  
+
+Non-accelerated
+    filer  
+         
+      Smaller
+    reporting company  
+
+(Do
+    not check if a smaller reporting company)   
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes     
+No    
+
+Number of shares of common stock outstanding
+as of November 15, 2016 was 6,481,857. 
+
+ICAGEN,
+INC   
+
+NOTE
+REGARDING FORWARD-LOOKING STATEMENTS   
+
+This
+Quarterly Report on Form 10-Q contains  forward-looking statements  within the meaning of Section 27A of
+the Securities Act of 1933, as amended (the  Securities Act ), and Section 21E of the Securities Exchange
+Act of 1934, as amended (the  Exchange Act ). In particular, statements contained in this Quarterly Report on
+Form 10-Q, including but not limited to, statements regarding the sufficiency of our cash, our ability to finance our
+operations and business initiatives and obtain funding for such activities; our future results of operations and financial
+position, business strategy and plan prospects, or costs and objectives of management for future acquisitions, are
+forward-looking statements. These forward-looking statements relate to our future plans, objectives, expectations and
+intentions and may be identified by words such as  may,   will,   should, 
+ expects,   plans,   anticipates,   intends,   targets, 
+ projects,   contemplates,   believes,   seeks, 
+ goals,   estimates,   predicts,   potential  and  continue  or
+similar words. Readers are cautioned that these forward-looking statements are based on our current beliefs, expectations and
+assumptions and are subject to risks, uncertainties, and assumptions that are difficult to predict, including those
+identified below, under Part II, Item 1A.  Risk Factors  and elsewhere in this Quarterly Report on Form
+10-Q, and those identified under Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2015 filed
+with the SEC on April 14, 2016. Therefore, actual results may differ materially and adversely from those expressed, projected
+or implied in any forward-looking statements. We undertake no obligation to revise or update any forward-looking statements
+for any reason.  
+
+NOTE
+REGARDING COMPANY REFERENCES   
+
+Throughout
+this Quarterly Report on Form 10-Q,  Icagen,  the  Company,   we,   us  and  our 
+refer to Icagen, Inc.  
+
+ICAGEN,
+INC.   
+
+FORM
+10-Q   
+
+TABLE
+OF CONTENTS   
+
+Page    
+
+PART
+    I FINANCIAL INFORMATION  
+
+Item
+    1.  
+      Financial
+    Statements  
+      F-1   
+
+Condensed
+    Consolidated Balance Sheets as of September 30, 2016 (Unaudited) and December 31, 2015  
+      F-1   
+
+Unaudited
+    Condensed Consolidated Statements of Operations for the three months and nine months ended September 30, 2016 and 2015, respectively  
+      F-2   
+
+Unaudited
+    Condensed Consolidated Statements of Cash Flows for the nine months ended September 30, 2016 and 2015, respectively  
+      F-3   
+
+Notes
+    to the Unaudited Condensed Consolidated Financial Statements  
+      F-4   
+ 
+      Item
+    2.  
+      Management s
+    Discussion and Analysis of Financial Information and Results of Operations  
+      1   
+ 
+      Item
+    3.  
+      Quantitative
+    and Qualitative Disclosures About Market Risks  
+      13   
+ 
+      Item
+    4.  
+      Controls
+    and Procedures  
+      13   
+
+PART
+    II OTHER INFORMATION  
+
+Item
+    1.  
+      Legal
+    Proceedings  
+      14   
+ 
+      Item
+    1A.  
+      Risk
+    Factors  
+      15   
+ 
+      Item
+    2.  
+      Unregistered
+    Sales of Equity Securities and Use of Proceeds  
+      18   
+ 
+      Item
+    3.  
+      Defaults
+    Upon Senior Securities  
+      18   
+ 
+      Item
+    4.  
+      Mine
+    Safety Disclosures  
+      18   
+ 
+      Item
+    5.  
+      Other
+    Information  
+      18   
+ 
+      Item
+    6.  
+      Exhibits  
+      18   
+ 
+      SIGNATURES  
+      19   
+
+PART
+I - FINANCIAL INFORMATION   
+
+Item
+1. Financial Statements.    
+
+ICAGEN
+INC.   
+
+   CONDENSED
+CONSOLIDATED BALANCE SHEETS   
+
+See
+notes to unaudited condensed consolidated financial statements  
+
+F- 1  
+
+ICAGEN,
+INC.   
+
+   UNAUDITED
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS   
+
+See
+notes to unaudited condensed consolidated financial statements  
+
+F- 2  
+
+ICAGEN,
+INC.    
+
+   UNAUDITED
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS   
+
+See
+notes to unaudited condensed consolidated financial statements  
+
+F- 3  
+
+ICAGEN,
+INC.    
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+1.     
+       GENERAL
+    INFORMATION    
+
+Icagen, Inc. (the  Company ,
+ we ,  us ,  our ) is a Delaware corporation. The Company s principal office is in Research
+Triangle Park, Durham, North Carolina. The Company was incorporated in November 2003. 
+
+On July 15, 2016, Icagen-T, Inc. ( Icagen-T ),
+a wholly owned subsidiary of the Company consummated the transactions with Sanofi US Services Inc. ( Sanofi ) contemplated
+by the Asset Purchase Agreement dated June 27, 2016 (the  Sanofi Asset Purchase Agreement ), pursuant to which Icagen-T
+acquired certain assets of Sanofi that include the (i) Tucson Research Center, a two story laboratory and office building with
+approximately 113,950 square feet of space located in the Town of Oro Valley, Pima County, Arizona (the  Tucson Facility ),
+and the land on which the Facility is built; and (ii) certain machinery and equipment located at the Tucson Facility. The cash
+purchase price under the Sanofi Asset Purchase Agreement was $1. Icagen-T assumed certain liabilities, agreed to continue the
+employment of up to 46 employees at the Tucson Facility for at least two years and maintain the Sanofi chemical libraries that
+remain at the Tucson Facility. 
+
+Upon the closing of the
+Sanofi Asset Purchase Agreement, on July 15, 2016, Icagen-T and Sanofi entered a Master Services Agreement (the
+ MSA ). The MSA contains terms requiring that Icagen-T perform certain contract research for Sanofi, including,
+but not limited to, compound testing services. Pursuant to the terms of the MSA, Sanofi will make payments (the
+ Subsidy Payments ) to Icagen-T in consideration of Icagen-T s provision of services (including maintenance
+of the chemical libraries) in the aggregate amount of $32 million over the next five years of which $14,000,000 was
+designated as deferred subsidy revenue to support the operations and $18,000,000 was designated to cover services that
+Icagen-T will provide to Sanofi, the proceeds are to be received as follows: (i) $16.5 million is expected to be paid in year
+1 with $11.9 million paid at closing; (ii) $9.5 million is expected to be paid in year 2; (iii) $3 million is expected to be
+paid in year 3; (iv) $2 million is expected to be paid in year 4; and (v) $1 million is expected to be paid in year 5. The
+Subsidy Payments are to be credited against all direct service costs for which Icagen-T performs services, and in the event
+the Subsidy Payments exceed the direct service costs, a maximum aggregate credit of $2 million will be carried forward to
+subsequent years during the term of the MSA. During the current period, the Company recognized $2,000,0000 of the $14,000,000
+designated as deferred  subsidy revenue to support operations, and a further $1,558,489 of the $18,000,000 designated to
+cover services, as revenue. 
+
+Upon the closing of the Sanofi Asset
+Purchase Agreement, on July 15, 2016, Icagen-T executed a Deed of Trust providing Sanofi with a five year, $5 million lien on the
+Tucson Facility, securing performance of Icagen-T s obligations under the MSA and the Sanofi Asset Purchase Agreement. The
+lien is subject to termination upon the payment by Icagen-T of $5 million to Sanofi. The parties have also agreed to a Special
+Warranty Deed with a Right of Reverter ( Deed of Sale ) that will revest in Sanofi all rights in the Tucson Facility
+in the event that Icagen-T sells the Tucson Facility at any time within the next five years and upon certain other events related
+to the leasing of space at the Tucson Facility. The reversion rights of Sanofi under the Deed of Sale will terminate after five
+years as well as upon payment of the $5 million to extinguish the lien created by the Deed of Trust. 
+
+The MSA contains certain affirmative and negative covenants that Icagen-T will be required to meet as well
+as certain maintenance covenants. The affirmative covenants include: (i) maintenance of separate books and records from its affiliates;
+(ii) maintenance of a separate board of directors from its affiliates; (iii) maintenance of its own bank accounts, invoices and
+checks; (iv) that it conduct business in its own name; (v) that it pay liabilities from its own bank account; (vi) segregation
+of its assets and liabilities from other entities; (vii) an allocation of any overhead expenses that are shared with affiliated
+entities through intercompany agreements; and (viii) observing corporate formalities. The negative covenants, include a prohibition
+on: (a) dividends other than up to a maximum of $2.0 million during the first two years of the term; (b) the guaranty of debts
+of its affiliates; (c) the pledge of any of its assets for the benefit of any affiliate; (d) liens or borrowings unless done in
+furtherance of the Tucson Facility; (e) acquisitions or sale of assets outside of the ordinary course of business; and (f) amendments
+to organizational documents. In accordance with the terms of the maintenance covenants Icagen-T will be required: (A) to maintain
+a daily average cash balance held in all of its accounts for the prior five days of at least $575,000; (B) to maintain minimum
+Current Ratio (as defined in the MSA) of 1.05; (C) to maintain a minimum net worth of $1.5 million and (D) not to run assays or
+perform other contract research services, in each case, that Icagen-T or its affiliates could reasonably provide at the Tucson
+Facility, at any site other than the Tucson Facility (the  Sanofi Exclusivity Provision ). Icagen-T will also be obligated
+to fulfill certain reporting requirements specified in the MSA. At any time after the second anniversary of the effective date
+of the MSA that Icagen-T provides an independent third party valuation certified by the National Association of Certified Evaluators
+and Analysts that concludes that (x) Icagen-T s assets are greater than its liabilities at fair value (or fair market value);
+(y) Icagen-T has sufficient capital to operate its business; and (z) Icagen-T has the ability to pay its debts as they mature,
+then (1) all affirmative covenants and negative covenants shall terminate; (2) all reporting obligations shall terminate; and
+(3) all future Subsidy Payments and the associated Payment credit mechanism will be converted into a take or pay arrangement. 
+
+F- 4  
+
+ICAGEN,
+INC.   
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+2.     
+       ACCOUNTING
+    POLICIES AND ESTIMATES    
+
+General   
+
+The following (a) consolidated balance
+sheets as of September 30, 2016, which have been derived from the unaudited condensed consolidated financial statements, and as
+of December 31, 2015, which have been derived from audited consolidated financial statements, and (b) the unaudited interim statements
+of operations and cash flows of the Company, have been prepared in accordance with accounting principles generally accepted in
+the United States ( GAAP ) for interim financial information and the instructions to Form 10-Q and Rule 8-03 of Regulation
+S-X. Accordingly, they do not include all of the information and footnotes required by GAAP for complete financial statements.
+In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation
+have been included. Operating results for the three months and nine months ended September 30, 2016 are not necessarily indicative
+of results that may be expected for the year ending December 31, 2016. These unaudited condensed consolidated financial statements
+should be read in conjunction with the audited consolidated financial statements and notes thereto included in the Company s
+Form 10-K for the year ended December 31, 2015, filed with the Securities and Exchange Commission ( SEC ) on April
+14, 2016. 
+
+Basis
+of Presentation   
+
+The
+accompanying unaudited condensed consolidated financial statements have been prepared in conformity with accounting principles
+generally accepted in the United States of America ( US GAAP ).  
+
+In
+the opinion of management, all adjustments necessary to fairly present the results for the interim periods presented have been
+made. All adjustments made are of a normal and recurring nature and no non-recurring adjustments have been made in the presentation
+of these interim financial statements.  
+
+All
+amounts referred to in the notes to the unaudited condensed consolidated financial statements are in United States Dollars ($)
+unless stated otherwise.  
+
+Consolidation   
+
+The
+unaudited condensed consolidated financial statements include the financial statements of the Company and its subsidiaries in
+which it has a majority voting interest. Investments in affiliates are accounted for under the cost method of accounting, where
+appropriate. All significant inter-company accounts and transactions have been eliminated in the condensed consolidated financial
+statements. The entities included in these condensed consolidated financial statements are as follows:  
+
+Icagen,
+Inc. - Parent Company  
+
+  Icagen
+Corp (formerly known as XRpro Corp.) - Wholly owned subsidiary  
+
+  Icagen-T
+Inc.   Wholly owned subsidiary (formed on June 16, 2016)  
+
+  Caldera
+Discovery, Inc. - Wholly owned subsidiary (formed on March 27, 2015)  
+
+  XRpro
+Sciences, Inc.   Wholly owned subsidiary (formed on December 10, 2015)  
+
+F- 5  
+
+ICAGEN,
+INC.   
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+2.     
+       ACCOUNTING
+    POLICIES AND ESTIMATES (continued)    
+
+Estimates   
+
+The
+preparation of these consolidated financial statements in accordance with US GAAP requires us to make estimates and judgments
+that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and
+liabilities. We continually evaluate our estimates, including those related to bad debts and recovery of long-lived assets. We
+base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances,
+the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily
+apparent from other sources. Any future changes to these estimates and assumptions could cause a material change to our reported
+amounts of revenues, expenses, assets and liabilities. Actual results may differ from these estimates under different assumptions
+or conditions. We believe the following critical accounting policies affect our more significant judgments and estimates used
+in the preparation of the financial statements. Significant estimates include the allowance for doubtful accounts, the useful
+life of plant and equipment and intangible assets, the valuation of certain assets and intangibles acquired from Icagen, and assumptions
+used in assessing impairment of long-term assets and the assumptions used in determining percentage of completion on our long-term
+contracts.  
+
+Concentrations
+of credit risk   
+
+The
+Company maintains cash with major financial institutions. The Federal Deposit Insurance Corporation ( FDIC ) provides
+insurance coverage for deposits of corporations, the current limit of coverage is $250,000. As a result of this coverage the Company
+has cash balances of $8,575,714 that are not covered by the FDIC as of September 30, 2016.  
+
+Concentration
+of major customers   
+
+The
+Company derives its revenues from commercial pharmaceutical and biotechnology companies as well as from Government research contracts
+and Government grants.  
+
+Total revenues are as follows: 
+
+Accounts
+receivable and other receivables   
+
+We
+have a policy of reserving for uncollectible accounts based on our best estimate of the amount of probable credit losses in our
+existing accounts receivable. As a basis for accurately estimating the likelihood of collection of our accounts receivable, we
+consider a number of factors when determining reserves for uncollectable accounts. We believe that we use a reasonably reliable
+methodology to estimate the collectability of our accounts receivable. We review our allowances for doubtful accounts on a regular
+basis. We also consider whether the historical economic conditions are comparable to current economic conditions. If the financial
+condition of our customers or other parties that we have business relations with were to deteriorate, resulting in an impairment
+of their ability to make payments, additional allowances may be required.  
+
+The balance of the receivables provision
+as at September 30, 2016 and December 31, 2015 was $0 and $19,084, respectively. The amount charged to bad debt provision for the
+three months and nine months ended September 30, 2016 was $0 and $19,084, respectively, and for the three months and nine months
+ended September 30, 2015 was $0. 
+
+F- 6  
+
+ICAGEN,
+INC.   
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+2.     
+       ACCOUNTING
+    POLICIES AND ESTIMATES (continued)    
+
+Revenue
+recognition   
+
+Revenue sources consist of commercial
+contracts, deferred subsidy revenue and government grants and contracts. 
+
+We enter into fixed fee commercial development
+contracts that are not associated with the delivery of feasible research on drug candidates and the development of drug candidates.
+Revenue under such contracts is generally recognized upon delivery or as the development is performed. 
+
+We received and will receive
+certain deferred subsidy revenue which is utilized to support our operations, maintain the facilities that we operate in and
+continue the employment of certain employees to provide, if needed, resources to certain of our customers. This deferred
+subsidy revenue is amortized over a straight-line basis to match the expected expenses to be incurred over the period
+July 15, 2016 to December 31, 2017. 
+
+We account for our long-term Firm Fixed
+Price Government contracts and grants associated with the delivery of research on drug candidates and the development of drug candidates
+using the percentage-of-completion accounting method. Under this method, revenue is recognized based on the extent of progress
+towards completion of the long-term contract. 
+
+We generally use the cost-to-cost measure
+of progress for all our long-term contracts, unless we believe another measure will produce a more reliable result. We believe
+that the cost-to-cost measure is the best and most reliable performance indicator of progress on our long-term contracts as all
+our contract estimates are based on costs that we expect to incur in performing our long-term contracts and we have not experienced
+any significant variations on estimated to actual costs to date. Under the cost-to-cost measure of progress, the extent of progress
+towards completion is based on the ratio of costs incurred-to-date to the total estimated costs at the completion of the long-term
+contract. Revenues, including estimated fees or profits are recorded as costs are incurred. 
+
+When estimates of total costs to be
+incurred on a contract exceed total estimates of revenue to be earned, a provision for the entire loss on the contract is recorded
+in the period the loss is determined. 
+
+Research
+and Development   
+
+The
+remuneration of the Company s research and development staff, materials used in internal research and development activities,
+and payments made to third parties in connection with collaborative research and development arrangements, are all expensed as
+incurred. Where the Company makes a payment to a third party to acquire the right to use a product formula which has received
+regulatory approval, the payment is accounted for as the acquisition of a license or patent and is capitalized as an intangible
+asset and amortized over the shorter of the license period or the patent life.  
+
+The amount expensed for unrecovered
+research costs, included in Selling, general and administrative expenses during the three months and nine months ended September
+30, 2016 was $505,571 and for the three months and nine months ended September 30, 2015 was $72,912 and $250,855, respectively. 
+
+Related
+parties   
+
+Parties
+are considered to be related to the Company if the parties that, directly or indirectly, through one or more intermediaries, control,
+are controlled by, or are under common control with the Company. Related parties also include principal owners of the Company,
+its management, members of the immediate families of principal owners of the Company and its management and other parties with
+which the Company may deal if one party controls or can significantly influence the management or operating policies of the other
+to an extent that one of the transacting parties might be prevented from fully pursuing its own separate interests. The Company
+discloses all related party transactions. All transactions are recorded at fair value of the goods or services exchanged. Property
+purchased from a related party is recorded at the cost to the related party and any payment to or on behalf of the related party
+in excess of the cost is reflected as a distribution to the related party.  
+
+Recent
+                                         accounting pronouncements   
+
+In June 2016, the FASB issued ASU 2016-13,  Measurement
+of Credit Losses on Financial Instruments.  ASU 2016-13 will replace the current incurred loss approach with an expected loss
+model for instruments measured at amortized cost and require entities to record allowances for available-for-sale debt securities
+rather than reduce the carrying amount under the current other-than-temporary impairment model. ASU 2016-13 is effective for fiscal
+years beginning after December 15, 2019, and interim periods within those fiscal years. Early adoption is permitted for all entities
+for annual periods beginning after December 15, 2018, and interim periods therein. We are currently evaluating the effect ASU 2016-13
+will have on our unaudited condensed consolidated financial statements.  
+
+In August 2016, FASB issued ASU 2016-15,  Classification
+of Certain Cash Receipts and Cash Payments.  ASU 2016-15 is intended to reduce diversity in practice in how certain transactions
+are classified in the statement of cash flows. ASU 2016-15 is effective for fiscal years beginning after December 15, 2017, and
+interim periods within those fiscal years, with early adoption permitted. We are currently evaluating the effect ASU 2016-15 will
+have on our unaudited condensed consolidated statements of cash flows.   
+
+F- 7  
+
+ICAGEN,
+INC.   
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS    
+
+2.     
+       ACCOUNTING
+    POLICIES AND ESTIMATES (continued)    
+
+In October 2016, Financial Accounting
+Standards Board ( FASB ) issued Accounting Standards Update No. ( ASU ) 2016-16,  Intra-Entity Transfers
+of Assets Other Than Inventory.  ASU 2016-16 requires immediate recognition of income tax consequences of intercompany asset
+transfers, other than inventory transfers.  Existing GAAP prohibits recognition of income tax consequences of intercompany
+asset transfers whereby the seller defers any net tax effect and the buyer is prohibited from recognizing a deferred tax asset
+on the difference between the newly created tax basis of the asset in its tax jurisdiction and its financial statement carrying
+amount as reported in the consolidated financial statements.  ASU 2016-16 specifically excludes from its scope intercompany
+inventory transfers whereby the recognition of tax consequences will take place when the inventory is sold to third parties. ASU
+2016-16 is effective for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years. Early
+adoption is permitted as of the beginning of an annual reporting period for which financial statements have not been issued or
+made available for issuance. We are currently evaluating the effect ASU 2016-16 will have on our unaudited condensed consolidated
+financial statements.  
+
+  Any
+new accounting standards, not disclosed above, that have been issued or proposed by FASB that do not require adoption until a
+future date are not expected to have a material impact on the financial statements upon adoption.   
+
+3.     
+       GOING
+    CONCERN    
+
+The accompanying unaudited condensed consolidated
+financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the satisfaction
+of liabilities in the normal course of business. As shown in the accompanying unaudited condensed consolidated financial statements,
+the Company incurred a net loss of $(4,373,009) for the nine months ended September 30, 2016 and $(8,676,037) for the year ended
+December 31, 2015. As of September 30, 2016, and December 31, 2015, the Company had accumulated deficits of $26,515,834 and $22,142,825,
+respectively. The Company s working capital decreased from $736,629 at December 31, 2015 to a deficit of $(4,280,086) as
+of September 30, 2016. The Company s working capital is insufficient to meet its short-term cash requirements and fund any
+future operating losses. These operating losses create an uncertainty about the Company s ability to continue as a going
+concern. The Company s plan, through the acquisition of the assets of Icagen and Icagen-T and the continued promotion of
+its services to existing and potential customers is to generate sufficient revenues to cover our anticipated expenses. The Company
+is currently exploring several options to meet its short-term cash requirements, including an equity raise or loan funding from
+third parties. Although no assurances can be given as to the Company s ability to deliver on its revenue plans, or that
+unforeseen expenses may arise, the management of the Company believes that the revenue to be generated from operations together
+with potential bridge note funding, additional issuances of equity or other potential financing will provide the necessary funding
+for the Company to continue as a going concern. The unaudited condensed consolidated financial statements do not include any adjustments
+that might be necessary if the Company is unable to continue as a going concern. The Company is economically dependent upon future
+capital contributions or financing to fund ongoing operations. 
+
+4.     
+       PREPAID
+    EXPENSES AND OTHER CURRENT ASSETS    
+
+*  
+     A surety bond of $310,000 was posted as security for the sanctions levied against the Company in the Litigation with the Estate
+of Sigmund Eisenschenk, at the request of the court and the Company has appealed these sanctions (refer note 22 below).   
+
+In
+terms of a Transitional Service Agreement entered into with Sanofi, the Company will be reimbursed for certain IT expenditure
+and insurance expenses.  
+
+F- 8  
+
+ICAGEN,
+INC.   
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+5.     
+       ACQUISITION
+    OF ASSETS OF TUCSON FACILITY    
+
+On July 15, 2016, Icagen-T, Inc.
+consummated the transactions with Sanofi (Sanofi Asset Purchase Agreement), pursuant to which Icagen-T acquired certain assets
+of Sanofi Tucson Facility, and the land on which the Tucson Facility is built; and (ii) certain machinery and equipment located
+at the Tucson Facility. The cash purchase price under the Sanofi Asset Purchase Agreement was $1. Icagen-T assumed certain liabilities,
+offered to continue the employment of up to 46 employees at the Facility for at least two years and maintain the Sanofi chemical
+libraries that will remain at the Tucson Facility.  
+
+Upon the closing of the Sanofi
+Asset Purchase Agreement, on July 15, 2016, Icagen-T executed a Deed of Trust providing Sanofi with a five year, $5 million lien
+on the Tucson Facility, securing performance of Icagen-T s obligations under the MSA and the Sanofi Asset Purchase Agreement.
+The lien is subject to termination upon the payment by Icagen-T of $5 million to Sanofi. The parties have also agreed to a Deed
+of Sale that will revest in Sanofi all rights in the Tucson Facility in the event that Icagen-T sells the Tucson Facility at any
+time within the next five years and upon certain other events related to the leasing of space at the Tucson Facility. The reversion
+rights of Sanofi under the Deed of Sale will terminate after five years as well as upon payment of the $5 million to extinguish
+the lien created by the Deed of Trust.  
+
+The purchase price allocated to the acquisition of the assets of the Tucson Facility of $1 was allocated to
+fixed assets. 
+
+6.     
+       INTANGIBLE
+    ASSETS    
+
+Intangible
+assets consist of the following:  
+
+The
+aggregate amortization expense charged to operations was $56,246 and $124,358 for the three months ended September 30, 2016 and
+2015, respectively, and $168,738 and $150,200 for the nine months ended September 30, 2016 and 2015, respectively.   
+
+  Amortization
+expense for future periods is summarized as follows:   
+
+F- 9  
+
+ICAGEN,
+INC.   
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+7.     
+       PLANT
+    AND EQUIPMENT    
+
+Plant
+and equipment consists of the following:  
+
+The
+aggregate depreciation charge to operations was $136,874 and $89,392 for the three months ended September 30, 2016 and 2015, respectively,
+and $350,755 and $154,441 for the nine months ended September 30, 2016 and 2015, respectively.  
+
+8.     
+       OTHER
+    PAYABLES AND ACCRUED EXPENSES    
+
+In
+terms of a Transitional Service Agreement entered into with Sanofi, Sanofi allowed the Company to use its Purchase order platform
+for the period July 15, 2016 to October 15, 2016. The Company purchases consisted primarily of laboratory supplies and consumables.  
+
+9.     
+       LEGAL
+    SETTLEMENT LIABILITIES    
+
+The
+legal settlement liability is disclosed as follows:  
+
+Pursuant to the terms of a settlement
+agreement reached with Bellows on September 28, 2015, the Company agreed to settle all legal matters with Bellows for a cash settlement
+of $1,650,000, with Bellows surrendering into escrow the 105,000 Series A preferred shares currently held by him and relinquishing
+his rights to any further dividend payments on those shares. This amount has been repaid in full and the escrow Series A preferred
+shares were released to the Company. See note 15 below. 
+
+In terms of a Mutual Release and Assignment
+Agreement entered into between American Milling LP and the Company, American Milling is a claimant in the Estate of Sigmund Eisenschenk
+matter. American Milling agreed to assign all its claims, both past and future against the Estate of Sigmund Eisenschenk to the
+Company for $800,000, to be paid by the Company in instalments of $300,000 on October 15, 2016 and the remaining balance of $500,000
+in quarterly installments of $83,333 commencing on December 31, 2016. 
+
+F- 10  
+
+ICAGEN, INC.  
+
+NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED
+FINANCIAL STATEMENTS  
+
+Deferred revenue represents payments received in advance
+from Sanofi in terms of the MSA agreement entered into with them on July 15, 2016. Revenue is recognized on a monthly basis upon
+agreed rates for the number of employees assigned to certain Sanofi projects and is offset against the payments received from Sanofi
+in terms of the agreed upon payment schedule, the remaining excess payments received is deferred revenue and is expected to be
+realized within a 12 month period. 
+
+11.     
+       DEFERRED
+SUBSIDY REVENUE    
+
+Deferred subsidy revenue
+represents a prepayment received from Sanofi to support our operations, maintain the facilities that we operate in and
+continue the employment of certain employees to provide, if needed, resources to Sanofi. This deferred subsidy revenue is
+amortized over a straight-line basis to match the expected expenses to be incurred over the period commencing on July 15,
+2016 and terminating on December 31, 2017. 
+
+12.     
+       DEFERRED PURCHASE CONSIDERATION    
+
+In terms of the Icagen asset purchase
+agreement entered into on July 1, 2015, the Company has the following deferred purchase price obligations: 
+
+$500,000 is due on July 1, 2017, provided that Pfizer has generated at least $4,000,000 in revenue, there are no indications that the targets will not be met;   
+
+commencing May 30, 2017, the Company is obligated to pay additional purchase price consideration calculated at the greater of  (i) 10% (ten percent) of gross revenues per quarter (exclusive of revenue paid by Sanofi to Icagen-T and revenue generated by Icagen-T)  and (ii) $250,000 per quarter up to an aggregate maximum of $10,000,000. These earn out payments are payable quarterly, 60 days after the completion of each calendar quarter. There are no indications that the Company will not meet the maximum earn out payment.   
+
+Deferred purchase consideration is disclosed
+as follows: 
+
+F- 11  
+
+ICAGEN,
+INC.   
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+Loans
+payable consist of the following:  
+
+The
+amortization of the principal outstanding on the loans payable is as follows:  
+
+Los
+Alamos County project participation loan   
+
+The
+Company owed $0 and $142,502 as of September 30, 2016 and December 31, 2015, respectively. Due to the closure of the Los Alamos
+site, the loan was repaid on June 30, 2016.  
+
+Asset
+leasing arrangement   
+
+The
+Company acquired laboratory equipment from Nanion Technologies on April 21, 2016 pursuant to the terms of a lease agreement. The lease consists
+of twelve equal monthly instalments of $28,751 each with a remaining balance due of $225,000 at the end of the twelve-month period.
+In terms of US GAAP, the total purchase consideration was discounted back to present value at the Company s estimated weighted
+average cost of capital of 6.7%, resulting in an estimated present value of future payments of $533,290. The discount of $36,722
+will be expensed as an additional interest expense over the estimated period in which the payments are expected to be made. The
+discount will be evaluated at each reporting period to determine if our assumptions are still valid. The Company owed $491,725
+as of September 30, 2016, including imputed interest of $15,936.  
+
+Asset
+funding arrangement   
+
+The
+Company entered into a short-term asset funding agreement for $26,062 to acquire certain software related to the Icagen acquisition.
+The term of the loan is for twelve months with 12 equal installments of $2,313. The interest rate on the loan is 11.8% per annum.
+The Company owed $2,223 and $26,062 as of September 30, 2016 and December 31, 2015, respectively.  
+
+On
+June 30 2016, the Company sold in a private placement offering to 11 investors (the  Offering ) pursuant to a
+securities purchase agreement entered into with each investor, 104.5 units at a per unit price of $10,000, each unit (the
+ Units ) consisting of a note in the principal amount of $10,000 (the  Notes ) and a five-year
+warrant (the  Warrants ) to acquire 1,500 shares of the Company s common stock, par value, $0.001 per
+share, at an exercise price of $3.50 per share for gross proceeds of $1,045,000. On July 7, 2016, the Company sold an
+additional 10 Units in the Offering to one investor for gross proceeds of $100,000. The aggregate cash proceeds to the
+Company from the sale of the 114.5 Units was $1,145,000.  
+
+The Notes bore interest at a rate of
+8% per annum and were to mature on June 30, 2017. Pursuant to a Security and Pledge Agreement the Notes are secured by a lien on
+all of the current assets of the Company (excluding the equity of and assets of the Company s wholly owned subsidiary, Icagen-T,
+Inc.). Amounts overdue bear interest at a rate of 1% per month. 
+
+The Warrants have an initial exercise price of $3.50 per share and are exercisable for a period of five years
+from the date of issuance. Each Warrant is exercisable for one share of Common Stock, which resulted in the issuance of Warrants
+exercisable to purchase an aggregate of 171,750 shares of Common Stock. The Warrants are subject to adjustment in the event of
+stock splits and other similar transactions. The Warrants were valued using a Black-Scholes valuation model and the proceeds received
+were allocated based on the percentage of the Warrants to the total value of the securities in this offering, resulting in a debt
+discount of $203,214 on the Warrants issued prior to June 30, 2016. A further debt discount of $14,183 was recorded for Units issued
+on July 7, 2016. An additional $27,066 was allocated to the value of the placement agent Warrants described below. 
+
+F- 12  
+
+ICAGEN, INC.  
+
+  NOTES TO THE
+UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+
+14.     
+       BRIDGE NOTES (continued)    
+
+The Company retained Taglich Brothers,
+Inc. as the exclusive placement agent for the Offering. In connection therewith, the Company agreed to pay the placement agent
+a six percent (6%) commission from the gross proceeds of the Offering ($1,145,000) and agreed to reimburse approximately $15,000
+in respect of out of pocket expenses incurred by the placement agent in connection with the Offering. The Company also issued the
+placement agent the same warrant that the investors received exercisable for an aggregate amount of 28,625 shares of Common Stock
+at an exercise price of $3.50 per share (2,500 shares of Common Stock for each $100,000 in principal amount of Notes sold) (the
+ Placement Agent Warrants ).  
+
+On August 8, 2016, the Notes amount
+to $1,145,000, together with interest thereon of $11,081 were redeemed in full. The remaining debt discount related to these Notes
+of $244,463 was expensed upon the redemption of the Notes. 
+
+Series A 8% Convertible, Redeemable Preferred Stock ( Series
+A Stock )  
+
+On September 28, 2015, the Company entered
+into a settlement agreement whereby Bellows surrendered into escrow his Series A shares to the Company. These shares were held
+in trust with the Company s legal counsel until such time as the final installment had been paid. The Company fulfilled all
+of its obligations under the settlement and the Series A shares were released from Escrow and subsequently cancelled. 
+
+As of September 30, 2016, and December
+31, 2015, there were 0 and 105,000 Series A Stock issued and outstanding, respectively. 
+
+On June 16, 2015, in terms of a restricted
+stock award, 19,000 restricted shares were issued to the Chairman of our audit committee who is also a board director, as a once
+off compensation expense for his services as chairman of the audit committee. As of September 30, 2016, all of these shares are
+vested. 
+
+The restricted stock outstanding and
+exercisable at September 30, 2016 is as follows: 
+
+The Company has recorded an expense
+of $19,950 and $26,600 for the nine months ended September 30, 2016 and 2015, respectively. 
+
+Warrants exercisable for 168,918 shares
+of common stock at an exercise price of $11.40, expired during the nine months ended September 30, 2016. 
+
+In terms of the Offering described in
+note 14 above, the Company sold in a private placement offering to 11 investors pursuant to a securities purchase agreement entered
+into with each investor, 104.5 Units at a per unit price of $10,000, each Unit consisting of a Note in the principal amount of
+$10,000 and a five-year Warrant to acquire 1,500 shares of the Company s common stock, par value, $0.001 per share, at an
+exercise price of $3.50 per share for gross proceeds of $1,045,000. On July 7, 2016, the Company sold an additional 10 Units in
+the Offering to one investor for gross proceeds of $100,000. The aggregate cash proceeds to the Company from the sale of the 114.5
+Units was $1,145,000. 
+
+The Warrants have an initial exercise
+price of $3.50 per share and are exercisable for a period of five years from the date of issuance. Each Warrant is exercisable
+for one share of Common Stock, which resulted in the issuance of Warrants exercisable to purchase an aggregate of 171,750 shares
+of Common Stock. The Warrants are subject to adjustment in the event of stock splits and other similar transactions. The Warrants
+were valued using a Black-Scholes valuation model and the proceeds received were allocated based on the percentage of the Warrants
+to the total value of the securities in this offering, resulting in a debt discount of $203,214 on the Warrants issued prior to
+June 30, 2016. A further debt discount of $14,183 was recorded for Units issued on July 7, 2016. An additional $27,066 was allocated
+to the value of the placement agent warrants described below. 
+
+F- 13  
+
+ICAGEN,
+INC.   
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+The
+fair value of Warrants issued were valued using the Black-Scholes pricing model and the following weighted average assumptions
+were used:  
+
+Nine months ended  September 30,  2016     
+
+Calculated stock price    
+     $  3.50     
+ 
+     Risk-free interest rate    
+        1.01  %  
+ 
+     Expected life of warrants (in years)    
+        5     
+ 
+     Expected volatility of the underlying stock    
+        53  %  
+ 
+     Expected dividend rate    
+        0  %  
+
+The
+volatility of the common stock is estimated using historical data of companies similar in size and in the same industry as the
+Company. The risk-free interest rate used in the Black-Scholes pricing model is determined by reference to historical U.S. Treasury
+constant maturity rates with maturities approximate to the life of the warrants granted. An expected dividend yield of zero is
+used in the valuation model, because the Company does not expect to pay any cash dividends in the foreseeable future. As of September
+30, 2016, the Company does not anticipate any awards will be forfeited in the valuation of the warrants.  
+
+A
+summary of all of the Company s warrant activity during the period January 1, 2016 to September 30, 2016 is as follows:  
+
+The
+following table summarizes warrants outstanding and exercisable as of September 30, 2016:  
+
+F- 14  
+
+ICAGEN,
+INC.   
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+18.
+       
+       STOCK
+    BASED COMPENSATION    
+
+Options
+exercisable for 137,000 and 72,282 shares of common stock for the nine months ended September 30, 2016 and the year ended December
+31, 2015, respectively that were held by employees and consultants under the 2005 Stock option plan were not exercised in terms
+of the option agreements entered into and have expired. The shares underlying such options were returned to and are no longer
+available for re-issuance under the 2005 Plan.  
+
+On
+May 19, 2016, the Company issued ten-year options exercisable for 240,000 shares of common stock at $3.50 per common share to
+certain employees as incentive stock options, 220,000 of the options issued vest over a period of 48 months whilst 20,000 options
+are performance related, linked to certain revenue targets.  
+
+On
+May 19, 2016, the Company issued ten-year options exercisable for 62,500 shares of common stock at $3.50 per common shares to
+certain of our directors as compensation for services rendered. These options vest equally over a period of 36 months.  
+
+Effective
+July 15, 2016, the Company issued ten-year options exercisable for 250,000 shares of common stock at $3.50 per common share to
+certain employees as incentive stock options, vesting over a period of 48 months.  
+
+On
+August 22, 2016, the Company issued ten-year options exercisable for 50,000 shares of common stock at $3.50 per common shares
+to an employee. These options vest as to 12,500 on August 22, 2017 and the remaining 37,500 monthly thereafter over a period of
+36 months.  
+
+The
+fair value of options issued were valued using the Black-Scholes pricing model and the following weighted average assumptions
+were used:  
+
+The
+volatility of the common stock is estimated using historical data of companies similar in size and in the same industry as the
+Company. The risk-free interest rate used in the Black-Scholes pricing model is determined by reference to historical U.S. Treasury
+constant maturity rates with maturities approximate to the life of the options granted. An expected dividend yield of zero is
+used in the valuation model, because the Company does not expect to pay any cash dividends in the foreseeable future. As of September
+30, 2016, the Company does not anticipate any awards will be forfeited in the valuation of the options.  
+
+A
+summary of all of our option activity during the period January 1, 2016 to September 30, 2016 is as follows:  
+
+F- 15  
+
+ICAGEN,
+INC.   
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+18.   
+       STOCK
+    BASED COMPENSATION (continued)    
+
+The
+following tables summarize information about stock options outstanding as of September 30, 2016:  
+
+The
+weighted-average grant-date fair values of options granted during the nine months ended September 30, 2016 was $1,389,483 ($2.31
+per option) and for the year ended December 31, 2015 was $844,577 ($3.31 per option). As of September 30, 2016, there were unvested
+options to purchase 702,096 shares of common stock. Total expected unrecognized compensation cost related to such unvested options
+is $1,708,653, which is expected to be recognized over a period of 47 months.  
+
+Stock
+option based compensation expense totaled $138,051 and $76,967 for the three months ended September 30, 2016 and $366,900 and
+$390,342 for the nine months ended September 30, 2016 and 2015, respectively.  
+
+Stock
+options outstanding as of September 30, 2016 as disclosed in the above table, have an intrinsic value of $202,750.  
+
+19.      
+       NET
+    LOSS PER COMMON SHARE    
+
+For
+the three months and nine months ended September 30, 2016 and 2015, respectively, the following options, warrants and convertible
+preferred stock were excluded from the computation of diluted net loss per shares as the result of the computation was anti-dilutive:  
+
+F- 16  
+
+ICAGEN,
+INC.   
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+20.
+       
+       RELATED
+    PARTY TRANSACTIONS    
+
+Timothy
+Tyson    
+
+  On
+May 19, 2016, the Company issued ten-year options exercisable for 12,500 shares of common stock at $3.50 per share to Mr. Tyson
+as compensation for services rendered. These options vest equally over a period of 36 months.  
+
+On July 6, 2016, the Company entered
+into a Securities Purchase Agreement and issued a secured 8% Bridge Note for $100,000 to Mr. Tyson in consideration of $100,000.
+The Note matures on June 30, 2017. The Note, together with interest thereon was repaid on August 8, 2016. 
+
+In connection with the Note above, on
+July 6, 2016, Mr. Tyson was issued five year Warrants to acquire 15,000 shares of common stock exercisable at $3.50 per share. 
+
+Michael Taglich   
+
+ On May 19, 2016, the Company issued
+ten-year options exercisable for 12,500 shares of common stock at $3.50 per share to Mr. Taglich as compensation for services rendered.
+These options vest equally over a period of 36 months. 
+
+On June 30, 2016, the Company entered
+into a Securities Purchase Agreement and issued a secured 8% Bridge Note for $250,000 to Mr. Taglich in consideration of $250,000.
+The Note matures on June 30, 2017. The Note, together with interest thereon was repaid on August 8, 2016. 
+
+In connection with the Note above,
+on June 30, 2016, Mr. Taglich was issued five year Warrants to acquire 37,500 shares of common stock exercisable at $3.50 per
+share. 
+
+The Company retained Taglich Brothers,
+Inc. as the exclusive placement agent for the Offering. In connection therewith, the Company agreed to pay the placement agent
+a six percent (6%) commission from the gross proceeds of the Offering ($1,145,000) and agreed to reimburse approximately $15,000
+in respect of out of pocket expenses incurred by the placement agent in connection with the Offering. The Company also issued the
+placement agent the same warrant that the investors received exercisable for an aggregate amount of 28,625 shares of Common Stock
+at an exercise price of $3.50 per share (2,500 shares of Common Stock for each $100,000 in principal amount of Notes sold) (the
+ Placement Agent Warrants ). 
+
+Vincent Palmieri   
+
+ On May 19, 2016, the Company issued
+ten-year options exercisable for 12,500 shares of common stock at $3.50 per share to Mr. Palmieri as compensation for services
+rendered. These options vest equally over a period of 36 months. 
+
+On June 30, 2016, the Company entered
+into a Securities Purchase Agreement and issued a secured 8% Bridge Note for $50,000 to Mr. Palmieri in consideration of $50,000.
+The Note matures on June 30, 2017. The Note, together with interest thereon was repaid on August 8, 2016. 
+
+In connection with the Note above, on
+June 30, 2016, Mr. Palmieri was issued five year Warrants to acquire 7,500 shares of common stock exercisable at $3.50 per share. 
+
+Clive Kabatznik   
+
+ On May 19, 2016, the Company issued
+ten-year options exercisable for 12,500 shares of common stock at $3.50 per share to Mr. Kabatznik as compensation for services
+rendered. These options vest equally over a period of 36 months. 
+
+On June 30, 2016, the Company entered
+into a Securities Purchase Agreement and issued a secured 8% Bridge Note for $50,000 to Mr. Kabatznik in consideration of $50,000
+in cash. The Note matures on June 30, 2017. The Note, together with interest thereon was repaid on August 8, 2016.  
+
+In connection with the Note above, on
+June 30, 2016, Mr. Kabatznik was issued five year Warrants to acquire 7,500 shares of common stock exercisable at $3.50 per share. 
+
+Edward Roffman   
+
+ On June 16, 2015, pursuant to the terms
+of a restricted stock award, 19,000 restricted shares were issued to the Chairman of our audit committee who is also a board director,
+as a once off compensation expense for his services as chairman of the audit committee. As of June 30, 2016, all of these shares
+are vested. 
+
+On May 19, 2016, the Company issued
+ten-year options exercisable for 12,500 shares of common stock at $3.50 per share to Mr. Roffman as compensation for services rendered.
+These options vest equally over a period of 36 months. 
+
+On June 30, 2016, the Company entered
+into a Securities Purchase Agreement and issued a secured 8% Bridge Note for $25,000 to Mr. Roffman in consideration of $25,000.
+The Note matures on June 30, 2017. The Note, together with interest thereon was repaid on August 8, 2016. 
+
+In connection with the Note above, on June 30, 2016, Mr. Roffman was issued five year Warrants to acquire
+3,750 shares of common stock exercisable at $3.50 per share.  
+
+F- 17  
+
+ICAGEN,
+INC.   
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+20.
+       
+       RELATED
+    PARTY TRANSACTIONS (continued)    
+
+Douglas
+Krafte    
+
+  On
+February 25, 2016, upon the resignation of Dr. Benjamin Warner, as our Chief Scientific Officer, Douglas Krafte, age 56, the Chief
+Scientific Officer of our subsidiary Icagen Corp., was appointed to the position of Chief Scientific Officer for Icagen Inc. and
+its subsidiaries.  
+
+The
+Company has not entered into an employment agreement with Dr. Krafte; however, in accordance with the terms of its acquisition
+of the assets of the subsidiary of Pfizer, Inc., the Company has agreed to continue to pay Dr. Krafte his current annual salary
+of $251,600, together with health insurance payments, 401K contributions and an annual incentive plan targets of 25% of his base
+salary until June 30, 2017 as well as severance payments in the event of his termination of employment.  
+
+On
+May 19, 2016, the Company issued ten-year options exercisable for 100,000 shares of common stock at $3.50 per common shares to
+Mr. Krafte as compensation for services rendered. These options vested as to 25,000 options on June 30, 2016 and the remaining
+75,000 equally over a period of 36 months, commencing on July 1, 2016.  
+
+Benjamin
+Warner    
+
+  As
+of September 30, 2016, and December 31, 2015, Dr. Benjamin Warner owned 23.1% of the issued and outstanding shares of common stock
+on an un-diluted basis.  
+
+Richard
+Cunningham    
+
+  Pursuant
+to the terms of an employment agreement entered into with Richard Cunningham, our Chief Executive Officer, stock options to purchase
+250,000 shares of Common Stock were awarded to Mr. Cunningham on January 7, 2015, which options vest as follows: (i) Fifty Thousand
+(50,000) shares vested on November 24, 2015; (ii) One Hundred and Fifty Thousand (150,000) shares vest monthly on a pro rata basis
+commencing on December 31, 2015 for a period of thirty six months; and (iii) Fifty Thousand (50,000) shares vest on the November
+24, 2018. The exercise price for the options is $3.50 per share. Upon a change of control, as defined in the Company s existing
+stock option plan, all unvested options issued to Mr. Cunningham shall become fully vested immediately upon the change of control.  
+
+First
+South Africa Management    
+
+  The
+Company incurred an expense of $135,000 for services provided by First South Africa Management for provision of CFO services by
+Mr. Korb and $31,500 for bookkeeping services for the nine months ended September 30, 2016.  
+
+The Company paid for an apartment leased by
+one of our officers in Cambridge, Massachusetts. The lease expired on June 30, 2016 and was not renewed. Rental expense until
+the date of lease termination amounted to $15,000. 
+
+The
+Company entered into an asset purchase agreement with Icagen, Inc., a subsidiary of Pfizer, Inc., whereby certain assets were
+acquired from Icagen, Inc., the agreement included the sub-letting of premises located at Research Triangle Park, Durham, North
+Carolina. The lease terminates on April 30, 2019. The rental expense for the nine months ended September 30, 2016 amounted to
+$127,984.  
+
+Future
+annual minimum payments required under operating lease obligations as of September 30, 2016, are as follows:  
+
+F- 18  
+
+ICAGEN,
+INC.   
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+Set forth below is a factual description of
+the status of Company's legal proceedings. It should not be misconstrued as the Company's acquiescence in any claimant's position
+with respect to such litigation. The Company continues to believe that the claims made against it do not have any merit whatsoever
+and intends to vigorously defend itself. 
+
+There have been no material litigation developments
+since the filing of our Annual Report on form 10-K for the year ended December 31, 2015 and our quarterly reports on forms 10-Q
+for the three months and nine months ended September 30, 2016, other than as follows:  
+
+Litigation with Estate of Sigmund Eisenschenk  
+
+On August 15, 2016, the Company filed its reply
+brief in the Illinois Appellate Court in connection with the appeal from the sanctions orders of March 16, 2015 and May 26, 2015.
+The appeal from the March 16, 2015 and May 26, 2015, orders is fully briefed and the parties are now awaiting a decision. 
+
+On August 22, 2016, the Court denied the Company s
+motion to stay American Milling and the Estate s motion for partial summary judgment as to Count VI of the Second Amended
+Petition for Citation to Recover. The court also denied the Company s motion to dismiss Count IV of the Second Amended Petition
+for Citation to Recover. 
+
+On September 20, 2016, the Company filed an
+interlocutory appeal from the order of August 22, 2016, denying the Company s motion to stay the Estate s motion for
+partial summary judgment as to Count VI of the Second Amended Petition for Citation to Recover. 
+
+On September 28, 2016, Icagen and American Milling
+entered into an Assignment and Mutual Release Agreement whereby Icagen agreed to pay American Milling the sum of eight hundred
+thousand dollars ($800,000.00) in exchange for an assignment by American Milling of all of American Millings first class claims,
+fifth class claims, sanctions awards, right title, claim and interest in any portion of the Appeal Bond filed by Icagen in the
+Illinois Appellate Court, all past, present and future sanctions awards, all past, present and future claims and all past, present
+and future claims for attorneys  fees, costs and expenses. 
+
+On October 7, 2016, the Court entered an order
+granting partial summary judgment as to Count VI of the Second Amended Petition for Citation to Recover in favor of the Estate
+and against the Company in the amount of $1,137,500. 
+
+On October 7, 2016, QTM Ventures filed an emergency
+motion to enforce an alleged settlement agreement between QTM Ventures and American Milling. In their emergency motion, QTM alleges,
+amongst other things, that QTM agreed to cease to pursue an appeal and a motion for reclassification of its claim in exchange for
+an agreement with American Milling to split the proceeds of the Estate. QTM further argues that, by virtue of its Settlement Agreement
+with American Milling, QTM is entitled to 50% of the payments made/to be made to American Milling by Icagen under the American-Milling
+Icagen Assignment and Release Agreement. 
+
+On October 11, 2016, the Company filed a notice
+of appeal in the Circuit Court from the Court order granting partial summary judgment as to Count VI of the Second Amended Petition
+for Citation to Recover. 
+
+On November 1, 2016, the Illinois Appellate
+Court scheduled oral arguments in the Company s appeal from the sanctions orders of March 16, 2015 and May 26, 2015. Oral
+arguments are scheduled for December 1, 2016. 
+
+F- 19  
+
+ICAGEN,
+INC.   
+
+NOTES
+TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+23.
+       
+       COMMITMENTS
+    AND CONTINGENCIES    
+
+In terms of the asset purchase agreement
+dated as of June 26, 2015, with Icagen, Inc., a wholly owned subsidiary of Pfizer, Inc., the Company is required to make an additional
+purchase price payment of $500,000 on July 1, 2017, assuming that Pfizer satisfies its requirements under the agreement. 
+
+In accordance with the terms of the
+amendment to the asset purchase agreement with Pfizer dated as of July 15, 2016, the Company is also obligated to make earn out
+payments equal to the greater of (i) 10% of total Gross revenues per quarter (as defined in the amendment to the asset purchase
+agreement with Pfizer) or (ii) $250,000 per quarter, up to a maximum of $10,000,000, commencing on revenues generated from January
+1, 2017, which payments are to be made 60 days after each quarter end. 
+
+The Company has evaluated subsequent
+events through the date the unaudited condensed consolidated financial statements were available to be issued, and has concluded
+that no such events or transactions took place that would require disclosure herein. 
+
+F- 20  
+
+Item
+2. Management s Discussion and Analysis of Financial Condition and Results of Operations.   
+
+The
+following discussion and analysis is intended as a review of significant factors affecting our financial condition and results
+of operations for the periods indicated. The discussion should be read in conjunction with our consolidated financial statements
+and the notes presented herein and the financial statements and the other information set forth in our Annual
+Report on Form 10-K for the year ended December 31, 2015 filed with the Securities and Exchange Commission on April 14, 2016.
+In addition to historical information, the following Management's Discussion and Analysis of Financial Condition and Results of
+Operations contains forward-looking statements that involve risks and uncertainties. Our actual results could differ significantly
+from those anticipated in these forward-looking statements as a result of certain factors discussed herein and any other periodic
+reports filed and to be filed with the Securities and Exchange Commission.   
+
+Overview
+and Financial Condition    
+
+We
+partner with pharmaceutical and biotechnology companies to offer industry-leading scientific expertise and comprehensive access
+to technologies for ion channel and transporter drug discovery and development. With over 20 years of leadership in the ion channel
+field, our team has an extensive track record of success in advancing molecules from drug discovery to clinical development across
+multiple therapeutic areas and ion channel classes. Through our recent asset acquisitions, we are now able to offer a full complement
+of screening services to the broader pharmaceutical sector, including the use of proprietary x-ray fluorescence technology marketed
+under the XRpro  trademark to deliver ion channel screening, ion channel kinetics and custom screening services to our customers.
+Our capabilities include molecular biology and the use of complex functional assays, electrophysiology, bioanalytics and pharmacology.
+We believe that this integrated set of capabilities enhances our ability to help our customers develop drug candidates and is
+a commercial opportunity that meets a significant unmet medical need.  
+
+We
+utilize a target class approach to drug discovery. Whereas traditional drug discovery starts with a disease and seeks to identify
+potential intervention points, or drug targets, our target class approach starts with all potential ion channel targets and seeks
+to identify applications to the treatment of various diseases. We believe that our understanding of the ion channel genome and
+ability to apply this knowledge in a target class approach to drug discovery facilitates our identification of small molecule
+drug candidates with novel mechanisms of action and enhanced selectivity and specificity profiles. Moreover, because our drug
+discovery and development process screens for potential side effects at an earlier stage than some alternative approaches, we
+believe that this process enables us to identify small molecule drug candidates that may have a reduced risk of clinical failure
+and may shorten clinical development timelines.  
+
+Through our acquisition of the assets
+of Pfizer, Inc. s subsidiary, Icagen, which was formed in 1992, we have an extensive platform of assay tools and technologies
+for the interrogation of ion channel and transporter function and pharmacological modulation in addition to our proprietary label
+free XRpro  technology. With our extensive experience in ion channels, screening, and drug development, which dates back to
+1992 when Icagen was first founded, we have built an extensive portfolio of over 1,000 cell lines, including cell lines stably
+expressing recombinant human ion channels and transporters, species orthologs and distinct disease-related or drug binding site
+mutants. These tools form the basis for compound screening, selectivity assays, detailed assessment of activity, and mechanism
+of action studies. 
+
+Through
+our recent acquisition of certain of the assets of Sanofi US Services Inc. ( Sanofi ), we now offer ultra high-throuput
+biology, screening and chemical capabilities.  
+
+We
+also offer a full complement of assay technologies including high throughput fluorescence, manual and automated electrophysiology,
+and radiotracer flux assays. Combined with our cell line and assay development expertise, these technologies enable us
+to rapidly provide quality screening for a broad set of ion channels and transporters.  
+
+Recent
+Developments    
+
+Financing   
+
+Since
+inception, we have financed our operations primarily through private sales of our securities, settlement of legal matters and
+prior to our acquisition of certain assets of Icagen from Pfizer and the assets we acquired from Sanofi, substantially all of
+our revenue was derived from government grants. Subsequent to our acquisition of certain assets of Icagen from Pfizer, a substantial
+portion of our revenue has been derived from commercial customers. We expect to continue to seek to obtain our required capital
+through the private sale of securities and revenue derived for the services we provide. Despite generating funds from commercial
+customers and government grants, we continue to experience losses. We believe that our existing cash and cash equivalents will
+not be sufficient to meet our anticipated cash needs for the next twelve months. We will need to generate additional revenue from
+operations and/or obtain additional financing to pursue our business strategy, to respond to new competitive pressures or to take
+advantage of opportunities that may arise. These factors raise substantial doubt about our ability to continue as a going concern.
+As a result, our independent registered public accounting firm included an explanatory paragraph in its report on our consolidated
+financial statements as of and for the year ended December 31, 2015 with respect to this uncertainty. To meet our financing needs,
+we are considering multiple alternatives, including, but not limited to, additional equity financings, debt financings and/or
+funding from partnerships or collaborations. There can be no assurance that we will be able to complete any such transactions
+on acceptable terms or otherwise.  
+
+As a result of the agreement that we
+entered into with the subsidiary of Pfizer, we agreed; (i) to continue to retain certain employees of the subsidiary until June
+30, 2017, which we estimate will require additional compensation of $2,015,433; (ii) to make additional payments in terms of the
+Asset Purchase and Collaboration Agreement that we entered into on June 26, 2015 with a subsidiary of Pfizer Inc., which was amended
+on July 15, 2016 (the  Pfizer APA ) which additional payments include (a) a cash payment of $500,000 on the second
+anniversary of the closing provided that prior to such date the service agreement we entered into has generated at least $4,000,000
+in revenue; and (b) beginning in May 2017, a quarterly earn out payment (the  Earn Out Payment ) of the greater of (i)
+$250,000 per quarter or (ii)10% of revenue earned during the quarter up to a maximum aggregate payment of $10,000,000, and (iii)
+to make minimum lease payments in terms of a sub-lease agreement entered into with Pfizer for the period April 1, 2016 to April
+30, 2019 with annual escalations of 3.5%, estimated to be $468,000. 
+
+As a result of the agreement we entered
+into with Sanofi, we agreed to (i) to continue to retain certain employees of the Tucson Research Center located in the Town of
+Oro Valley, Pima County, Arizona (the  Tucson Facility ) for two years, which we estimate will require additional compensation
+of $15,514,800; (ii) to maintain the Sanofi chemical library that remains at the Facility. 
+
+We have also entered into Master Services
+Agreements ( MSA ) with various pharmaceutical companies where we have agreed to perform certain services for them. 
+
+The total value of unbilled Purchase
+orders received from commercial customers as of September 30, 2016 amounted to approximately $1,264,000. 
+
+Discussions with respect to our operations included herein include the operations of our operating subsidiary,
+Icagen Corp. and Icagen-T, Inc. We formed Icagen-T, Inc. on June 16, 2016. We formed Icagen Corp. on July 9, 2010. We have another
+two subsidiary companies, Caldera Discovery Inc. and XRpro Sciences Inc., which have always been dormant. 
+
+Results
+of Operations for the three months ended September 30, 2016 and the three months ended September 30, 2015.   
+
+Revenues    
+
+We had revenues totaling $4,308,100 and
+$465,214 for the three months ended September 30, 2016 and 2015, respectively, an increase of $3,842,886 or 826.0%. Revenue
+includes commercial revenue of $2,181,329 (representing 50.6% of our revenue); deferred subsidy revenue of $2,000,000
+(representing 46.4% of our revenue) and Government revenue of $126,771 (representing 3.0% of our revenue). In the prior year,
+commercial revenues generated from our North Carolina site were $406,250 (representing 87.3% of our revenue) and Government
+revenue were $58,964 (representing 12.7% of our revenue). The increase in revenue over the prior is primarily attributable to
+the following; i) work performed for Sanofi under the MSA agreement that we entered into with them upon the acquisition of
+certain assets and personnel at the Tucson Facility, amounting to $1,558,489; ii) deferred subsidy revenue from Sanofi of
+$2,000,000 recognized during the current period to support our operations and maintain the facility and employees and iii)
+commercial revenue generated from our North Carolina site increased by $216,590 over the prior year, or by 53.3% as we
+increased our customer base over the prior period. Commercial revenue includes revenue from twenty three customers, including
+four large pharma customers. The Government contract revenue is derived from two government contracts which are ongoing. At
+September 30, 2016, we had an order backlog of approximately $1,264,000 on commercial contracts and $380,000 in the form of
+firm fixed price government contracts. We believe that these are firm orders as there are no indications that funding will
+not be available and we believe that we have made satisfactory progress on the government projects to date. The funds
+available under these grants are earned by us on a percentage-of-completion basis, based on the costs we incur as a measure
+of the progress made on the project. 
+
+We continue to market our services
+to several pharmaceutical and biotechnology companies. We believe that we now have a comprehensive product offering and substantial
+credibility to offer a full range of products including the advantages and value propositions of the XRpro  technology. While
+we are optimistic about our prospects, there can be no assurance about whether or when our products will generate sufficient revenues
+with adequate margins in order for us to be profitable. 
+
+Cost
+of goods sold    
+
+Cost of goods sold totaled $2,324,586
+and $734,759 for the three months ended September 30, 2016 and 2015, respectively, an increase of $1,589,827 or 216.4%. Cost of
+goods sold is primarily comprised of direct expenses related to providing our services to our customers. These expenses include
+scientific personnel expenses, recoverable expenses incurred on contracts, the cost of outside consultants, and direct materials
+used on our contracts. Our cost of goods sold includes the payroll cost of an additional 26 scientists located at our recently
+acquired Tucson Facility who are primarily engaged in providing services to Sanofi. The payroll expense included in cost of sales
+for the three months ended September 30, 2016 and 2015 respectively was $1,600,399 and $562,379, an increase of $1,038,020 or
+184.6%. This is primarily due to the number of scientists performing work for our commercial customers and government contracts
+increasing from a headcount of 17 to 43 after the acquisition of the Tucson Facility from Sanofi. For additional information regarding
+salary expense reference is made to the discussion of total salary expense in selling, general and administrative expenses below.
+Included in cost of sales for the three months ended September 30, 2016 and 2015, respectively was laboratory supplies and direct
+materials of $461,110 and $159,775, an increase of $301,335 or 188.6%, the increase is primarily due to the level of activity
+generated by our recent acquisition of certain of the assets of the Tucson Facility and the commercial revenue contracts that
+we have in place. During the three months ended September 30, 2016 and 2015, respectively, outside contractors  costs amounted
+to $261,598 and $3,620, the increase of $257,978 or 7,126.5% the increase is primarily due to, i) third party laboratory equipment
+maintenance contracts for the Tucson Facility and ii) costs of 5 outside laboratory personnel at the Tucson Facility and 1laboratory
+person in North Carolina who perform laboratory services for us on an ongoing basis. 
+
+Gross profit (loss)   
+
+Gross profit was $1,983,514
+and gross loss was $(269,545) for the three months ended September 30, 2016 and 2015, respectively, an increase in gross
+profit of $2,253,059 or 835.9%. The increase in gross profit is primarily due to the  commercial revenue and deferred
+subsidy revenue generated by the Tucson facility. 
+
+Selling,
+general and administrative expenses    
+
+Selling, general and administrative
+expenses totaled $2,862,719 and $1,625,579 for the three months ended September 30, 2016 and 2015, respectively, an increase of
+$1,237,140 or 76.1%.  
+
+The
+major expenses making up selling, general and administrative expenses included the following:  
+
+The
+decrease in marketing expenditure over the prior period is primarily due to costs incurred on improving and developing the website
+in the prior period, offset by increased marketing activity in the current year to improve our commercial presence.  
+
+Total
+payroll expenses are allocated to the various expense categories detailed below.  
+
+Total
+salary expenditure for the three months ended September 30, 2016 and 2015, respectively was included in the following expense
+categories:  
+
+The increase in total payroll expenditure
+for the three months ended September 30, 2016 of $1,858,270 is primarily due to the acquisition of the assets and employees of
+the Tucson Facility on July 15, 2016. An additional 46 employees were acquired in terms of the acquisition agreement, the employment
+of a VP of Business Development on March 1, 2016 and the employment of a chief business development officer, offset by the savings
+generated from 5 employees who were severed in the prior year upon the closure of the Los Alamos and Cambridge laboratories.   
+
+The total payroll expense included in
+cost of sales for the three months ended September 30, 2016 increased by $1,038,020, primarily due to the additional 26 laboratory
+employees at our Tucson facility included in cost of sales. 
+
+The payroll expense charged to Selling,
+general and administrative expenses for the three months ended September 30, 2016 increased by $387,591, This increase is primarily
+due to the acquisition of the additional 7 administrative employees with the Tucson Facility and the employment of a VP of business
+development on March 1, 2016 and a Chief Business Development Officer on August 22, 2016. 
+
+The payroll expense charged to research
+and development increased by $432,569 primarily due to an average of 13 employees working on internal research projects at our
+Tucson facility.  
+
+The stock option compensation charge
+increased by $41,134. The charge for each period is dependent upon the number of options issued, any new options issued, the value
+of the options and the vesting schedule of these options. During the current quarter, options were issued to certain key members
+of management in our recently acquired Tucson Facility, resulting in an increased stock option compensation for the quarter. 
+
+Legal fees increased by $71,157, over
+the prior period. The increase consists primarily of an increase in legal expenses primarily associated with the acquisition of
+the Sanofi assets, which was consummated in July, an increase in patent legal fees to improve our patent protection and ensure
+all matters are up-to-date, offset by decreases in expenditure on the Bellows matter, which has been settled, and, the Eisenschenk
+matter due to lower legal activity during the three months ended September 30, 2016. 
+
+The decrease in consulting fees of $43,366
+is primarily due to the termination of investor relations and patent consultants whose services have been outsourced to professional
+businesses at reduced costs. 
+
+The decrease in professional fees of
+$127,524 was primarily due to professional advisors utilized in assessing the acquisition of the Icagen assets, in the prior period.
+The assessment of the acquisition of the Sanofi assets in the current period was primarily performed by management. 
+
+Facilities maintenance expenditure related
+to buildings and building maintenance has been reclassified in the current period to facilities expense, which includes rental
+expenses, utilities expense and all other facility operating costs. The prior period amount included a monthly charge of approximately
+$12,000 per month incurred for general facilities maintenance for the three months ended September 2015. 
+
+Facilities expense increased by $379,772
+over the prior period, primarily due to the following movements; i) an increase in cleaning and janitorial expenses of $92,999
+incurred primarily at our newly acquired Tucson Facility; ii) an increase in facilities repairs and maintenance expenditure of
+$75,105, primarily due to repairs and maintenance contracts at our newly acquired Tucson Facility; iii) Security services expenditure
+at our Tucson Facility of $83,527; iv) an increase in utilities expenditure of $199,475 consisting primarily of electricity charges
+in Tucson to maintain the approximately113,000 square foot Tucson Facility; offset by a rental decrease of $78,040 over the prior
+year due to the closure of the Los Alamos and Cambridge sites and non-renewal of corporate apartment leases;. 
+
+Travel expenditure increased by $32,710
+due to increased travel incurred from the acquisition of the Tucson Facility, several conferences and seminars being attended by
+scientific personnel and the increased travel by our business development personnel to increase our presence and visibility in
+front of customers. 
+
+Depreciation and Amortization   
+
+We recognized depreciation expenses
+of $136,874 and $89,392 for the three months ended September 30, 2016 and 2015 respectively, an increase of $47,502 or 53.2%, the
+increase is due to the amortization of annual software licenses acquired at the Tucson Facility, additional software acquired for
+the North Carolina site and the acquisition of laboratory equipment in the prior quarter. The depreciation expense is primarily
+made up of depreciation of our laboratory equipment, which makes up the vast majority of our capital equipment. 
+
+Amortization expense was $56,246 and
+$124,358 for the three months ended September 30, 2016 and 2015. The decrease in amortization expense is directly related to the
+acquisition of the Icagen assets and the value placed on the Discovery platform and the Assembled Workforce acquired, the value
+of these assets were adjusted during the quarter ended December 31, 2015 and the amortization charge was re-estimated in that quarter. 
+
+Other Expense   
+
+Other expense totaled $601,500 and $1,465,025
+for the three months ended September 30, 2016 and 2015, respectively, a decrease of $863,525 or 58.9%. Other expense in the current
+period of $601,500 represents additional legal settlement accruals which we anticipate we will pay to settle the Estate of Sigmund
+Eisenschenk matter. In the prior period, other expense represented the additional expense required to settle the Bellows matter
+and a severance accrual on the closure of the Los Alamos and Cambridge sites. 
+
+Interest expense   
+
+Interest expense totaled $407,354 and
+$2,409 for the three months ended September 30, 2016 and 2015, respectively. The interest expense in the current period included
+a Note discount of $244,463 relating to the issuance of Warrants with the Offering and the amortization of interest incurred on
+the Pfizer loan and certain asset acquisitions of $153,085. Interest of $9,634 was also incurred on the Notes. 
+
+Net loss   
+
+Net loss totaled $2,082,046 and $3,593,747
+for the three months ended September 30, 2016 and 2015, respectively. The decrease in net loss is primarily due the acquisition
+of the Tucson facility. 
+
+Results
+of Operations for the nine months ended September 30, 2016 and the nine months ended September 30, 2015.   
+
+Revenues    
+
+We
+had revenues totaling $6,366,424 and $591,025 for the nine months ended September 30, 2016 and 2015, respectively, an
+increase of $5,775,399 or 977.2%. Current period revenue includes commercial revenue of $3,973,385 (representing 62.4% of our
+revenue); deferred subsidy revenue of $2,000,000 (representing 31.4% of our revenue) and Government revenue of $393,039
+(representing 6.2% of our revenue) In the prior year, commercial revenues generated from our North Carolina site were
+$406,250 (representing 68.7% of our revenue) and Government revenue were $184,775 (representing 31.3% of our revenue). The
+increase in revenue over the prior is primarily attributable to the following; i) work performed for Sanofi under the MSA
+agreement that we entered into with them upon the acquisition of certain assets and personnel at the Tucson Facility,
+amounting to $1,558,489; ii) deferred subsidy revenue from Sanofi of $2,000,000 recognized during the current period
+to support our operations and maintain the facility and employees and iii) commercial revenue generated from our North
+Carolina site increased by $216,590 over the prior year, or by 53.3% as we increased our customer base over the prior
+period. Commercial revenue includes revenue from twenty three customers, including four large pharma customers. The
+Government contract revenue is derived from two government contracts which are ongoing. At September 30, 2016, we had an
+order backlog of approximately $1,264,000 on commercial contracts and $380,000 in the form of firm fixed price government
+contracts. We believe that these are firm orders as there are no indications that funding will not be available and we
+believe that we have made satisfactory progress on the government projects to date. The funds available under these grants
+are earned by us on a percentage-of-completion basis, based on the costs we incur as a measure of the progress made on the
+project.  
+
+We continue to market our services to several pharmaceutical and
+biotechnology companies. We believe that we now have a comprehensive product offering and substantial credibility to offer a full
+range of products including the advantages and value propositions of the XRpro  technology. While we are optimistic about
+our prospects, there can be no assurance about whether or when our products will generate sufficient revenues with adequate margins
+in order for us to be profitable. 
+
+Cost
+of goods sold    
+
+Cost of goods sold totaled $3,860,431 and $1,026,626
+for the nine months ended September 30, 2016 and 2015, respectively, an increase of $2,833,805 or 276.0%. Cost of goods sold is
+primarily comprised of direct expenses related to providing our services to our customers. These expenses include scientific personnel
+expenses, recoverable expenses incurred on contracts, the cost of outside consultants, and direct materials used on our contracts.
+The salary expense included in cost of sales for the nine months ended September 30, 2016 and 2015 respectively was $2,787,094
+and $653,797, an increase of $2,133,297 or 326.3%. This is primarily due to the number of scientists performing work for our commercial
+customers and government contracts increasing from a headcount of 15 to 41. For additional information regarding salary expense
+reference is made to the discussion of total salary expense in selling, general and administrative expenses below. Included in
+cost of sales for the nine months ended September 30, 2016 and 2015, respectively was laboratory supplies and direct materials
+of $762,731 and $304,547, an increase of $458,184 or 150.4%, the increase is primarily due to the level of activity generated by
+our recent acquisition of certain of the assets of the Tucson Facility and the commercial revenue contracts that we have in place.
+During the nine months ended September 30, 2016 and 2015, respectively, outside contractors  costs amounted to $320,372 and
+$56,960, the increase of $263,412 or 462.5% is due to, i) third party laboratory equipment maintenance contracts for the Tucson
+Facility and ii) costs of 5 outside laboratory personnel at the Tucson Facility and 1laboratory person in North Carolina who perform
+laboratory services for us on an ongoing basis. 
+
+Gross
+profit (loss)    
+
+Gross profit was $2,505,993
+and gross loss was $(435,601) for the nine months ended September 30, 2016 and 2015, respectively, an increase in
+profitability of $2,941,594 or 675.3%. The increase in gross profit is primarily due to the  commercial revenue and deferred
+subsidy revenue generated by the Tucson facility. 
+
+Selling,
+general and administrative expenses    
+
+Selling, general and administrative expenses
+totaled $5,052,957 and $4,036,924 for the nine months ended September 30, 2016 and 2015, respectively, an increase of $1,016,033
+or 25.2%. 
+
+The
+major expenses making up selling, general and administrative expenses included the following:  
+
+The
+decrease in marketing expenditure over the prior period is primarily due to costs incurred on improving and developing the website
+in the previous period, this was a once off expenditure, marketing expenditure is expected to increase as we intensify our efforts
+to commercialize our services.  
+
+Total
+salary expenses are allocated to the various expense categories detailed below depending on the level of activity of our employees
+on commercial and government contracts, internal research and development expenses and administrative activities. An increase
+in activity on projects will result in an increase in salary expense charged to cost of sales with a corresponding decrease in
+salary expense charged to selling, general and administrative expenses. A comparison of salary expenses is presented below.  
+
+Total
+payroll expenses are allocated to the various expense categories detailed below.  
+
+Total salary expenditure for the nine months
+ended September 30, 2016 and 2015, respectively was included in the following expense categories: 
+
+The increase in total salary expenditure
+for the nine months ended September 30, 2016 of $2,987,950 is primarily due to the acquisition of the assets and employees of
+the Tucson Facility on July 15, 2016. An additional 46 employees and the inclusion of an additional 19 employees from the acquisition
+of the Icagen site in July 2015, in terms of the acquisition agreements related to these sites, the employment of a VP of Business
+Development on March 1, 2016 and the employment of a chief business development officer, offset by the savings generated from
+5 employees who were severed in the prior year upon the closure of the Los Alamos and Cambridge laboratories. 
+
+The total payroll expense included in cost of
+sales for the nine months ended September 30, 2016 increased by $2,133,297, primarily due to the additional 26 laboratory employees
+at our Tucson facility included in cost of sales. 
+
+The payroll expense charged to Selling, general
+and administrative expenses for the nine months ended September 30, 2016 increased by $599,937. This increase is primarily due
+to the acquisition of the additional 7 administrative employees with the Tucson Facility and an additional 3 employees at the North
+Carolina site in July 2015, the employment of a VP of business development on March 1, 2016 and a Chief Business Development Officer
+on August 22, 2016. 
+
+The payroll expense charged to research and
+development increased by $254,716 primarily due to an average of 13 employees working on internal research projects at our Tucson
+facility. 
+
+The stock option compensation charge decreased
+by $23,442. The charge for each period is dependent upon the number of options issued, any new options issued, the value of the
+options and the vesting schedule of these options, during the current quarter, options were issued to certain key members of management
+in our recently acquired Tucson Facility. Several options became fully vested in the prior period which resulted in a lower stock
+option compensation charge for the current period. 
+
+Legal fees increased by $1,078 over the prior
+period. The slight increase is made up of a net reduction in litigation related legal expenditure of $160,051, offset by an increase
+in general corporate expenditure primarily related to the acquisition of the Tucson Facility of $91,691 and additional legal fees
+spent on patents amounting to $51,881. 
+
+The decrease in consulting fees of $252,109
+is primarily due to the termination of investor relations and patent consultants whose services have been outsourced to professional
+businesses at reduced costs. 
+
+The decrease in professional fees of
+$131,831 was primarily due to professional advisors utilized in assessing the acquisition of the Icagen assets, in the prior period.
+The assessment of the acquisition of the Sanofi assets in the current period was primarily performed by management. 
+
+Facilities maintenance expenditure related to
+buildings and building maintenance has been reclassified in the current period to facilities expense, which includes rental expenses,
+utilities expense and all other Facility operating costs. The prior period amount included a monthly charge of approximately $12,000
+per month incurred for general facilities maintenance for the three months ended September 2015. 
+
+Facilities expense increased by $428,418 over
+the prior period, primarily due to the following movements; i) an increase in cleaning and janitorial expenses of $92,999 incurred
+primarily at our newly acquired Tucson Facility; ii) an increase in facilities repairs and maintenance expenditure of $182,083,
+primarily due to repairs and maintenance contracts at our newly acquired Tucson Facility; iii) Security services expenditure at
+our Tucson Facility of $83,527; iv) an increase in utilities expenditure of $211,218 consisting primarily of electricity charges
+in Tucson to maintain the approximately113,000 square foot Facility, offset by a decrease in rental expense of $148,115 over the
+prior period due to the closure of the Los Alamos and Cambridge sites and cancellation of corporate apartment leases; 
+
+Travel expenditure increased by $61,669 due
+to increased travel incurred on the acquisition of the Tucson Facility, several conferences and seminars being attended by scientific
+personnel and the increased travel by our business development personnel to increase our presence and visibility in front of customers. 
+
+Depreciation
+and Amortization    
+
+We recognized depreciation expenses of $350,755
+and $154,441 for the nine months ended September 30, 2016 and 2015 respectively, an increase of $196,314 or 127.1%, the increase
+is due to the amortization of annual software licenses acquired at the Tucson Facility, additional software acquired for the North
+Carolina site and the acquisition of laboratory equipment in the prior period for the North Carolina site. The depreciation expense
+is primarily made up of depreciation of our laboratory equipment, which makes up the vast majority of our capital equipment. 
+
+Amortization
+expense was $168,738 and $150,200 for the nine months ended September 30, 2016 and 2015. The increase in amortization expense
+is directly related to the acquisition of the Icagen assets and the value placed on the Discovery platform and the Assembled Workforce
+acquired, the value of these assets were adjusted during the quarter ended December 31, 2015 and the amortization charge was re-estimated
+in that quarter.  
+
+Other
+Expense    
+
+Other expense totaled $601,500 and $1,550,025
+for the nine months ended September 30, 2016 and 2015, respectively, a decrease of $948,025 or 61.2%. Other expense in the current
+period of $601,500 represents additional legal settlement accruals which we anticipate we will pay to settle the Estate of Sigmund
+Eisenschenk matter. In the prior period, other expense represented the additional expense required to settle the Bellows matter
+and a severance accrual on the closure of the Los Alamos and Cambridge sites. 
+
+Interest
+expense    
+
+Interest expense totaled $704,520 and $6,615
+for the nine months ended September 30, 2016 and 2015, respectively. The interest expense in the current period included a Note
+discount of $244,463 relating to the issuance of Warrants with the Offering and the amortization of interest incurred on the Pfizer
+loan and certain asset acquisitions of $448,071 Interest of $11,081 was also incurred on the Notes. 
+
+Net
+loss    
+
+Net loss totaled $4,373,009 and $6,347,829 for
+the nine months ended September 30, 2016 and 2015, respectively. The decrease in net loss is primarily due the acquisition of the
+Tucson facility. 
+
+Liquidity
+and Capital Resources   
+
+We have a history of annual losses from operations
+since inception and we have primarily funded our operations through sales of our unregistered equity securities and cash flows
+generated from government contracts and grants and more recently from commercial customers and the settlement of a lawsuit. We
+are generating funds from commercial customers and government grants, however, we continue to experience losses and will need to
+raise additional funds to meet our working capital requirements, despite the outcome of settlement discussions we are having in
+our lawsuits could have a significant impact on our financial position. We believe that our existing cash and cash equivalents
+will not be sufficient to meet our anticipated cash needs for the next twelve months. Despite the $32 million we expect to derive
+from Icagen-T for services provided to and operating expense contributions paid by Sanofi over the next five years and the revenue
+we expect to receive from Pfizer, we anticipate that our expenses will exceed such revenue. We will need to generate additional
+revenue from operations and/or obtain additional financing to pursue our business strategy, to respond to new competitive pressures
+or to take advantage of opportunities that may arise. These factors raise substantial doubt about our ability to continue as a
+going concern. As a result, our independent registered public accounting firm included an explanatory paragraph in its report on
+our consolidated financial statements as of and for the year ended December 31, 2015 with respect to this uncertainty. To
+meet our financing needs, we are considering multiple alternatives, including, but not limited to, additional equity financings,
+debt financings and/or funding from partnerships or collaborations. There can be no assurance that we will be able to complete
+any such transactions on acceptable terms or otherwise. 
+
+In June and July 2016, we raised gross proceeds
+of $1,145,000 from the sale of Notes in the Offering. These Notes were repaid in August 2016. 
+
+On July 15, 2016, we consummated the acquisition
+of certain of the assets from Sanofi, including the Tucson Facility. This resulted in a cash infusion of $11.9 million, which funds
+will primarily be used to fund the Tucson Facility operations. 
+
+As
+of September 30, 2016, we had cash totaling $9,079,941, other current assets totaling $1,640,228 and total assets of
+$20,509,079. We had total current liabilities of $15,000,275 and a net working capital deficit of $4,280,086. Total
+liabilities were $22,745,080, including deferred purchase consideration of $8,745,625, Prepaid revenue of $1,191,512 and
+deferred subsidy revenue of $8,000,000, all of which were received from Sanofi. The deferred purchase consideration
+includes a net present value discount of $1,898,420 (made up of a gross present value discount of $2,468,700 less imputed
+interest expense of $714,325), the gross amount still due in terms of the acquisition agreement is $10,500,000 of which
+$500,000 is dependent on the achievement of a revenue target with Pfizer and $10,000,000 is due based on a potential earn out
+charge of the greater of (i)10% of gross revenues commencing in January 2017 per quarter and (ii) $250,000 per quarter, up to
+a maximum of $10,000,000. Our stockholders  deficit amounted to $2,236,802. 
+
+Should we not achieve our forecasted operating
+results or should strategic opportunities present themselves such that additional financial resources would present attractive
+investing opportunities for us, we may decide in the future to issue debt or sell our equity securities in order to raise additional
+cash. We cannot provide any assurances as to whether we will be able to secure any additional financing, or the terms of any such
+financing transaction if one were to occur. 
+
+The
+Los Alamos county loan was repaid on June 30, 2016.  
+
+An
+analysis of our cash flows from operating, investing and financing activities for the nine months ended September 30, 2016 and
+2015 is provided below:  
+
+Net cash provided by (used in) operating activities
+was $7,589,868 and $(3,909,243) for the nine months ended September 30, 2016 and 2015, respectively. The increase in cash provided
+by (used in) operating activities was primarily due to the following: 
+
+The
+decrease in net loss is discussed under net loss in the results of operations for the nine months ended September 30, 2016 and
+2015, respectively.  
+
+The change in adjustments for non-cash items
+amounting to $(122,716) is primarily due to; i) the decrease in the legal settlement accrual of $(843,048); offset by ii) the
+$448,071 imputed interest charge on the Sanofi deferred purchase price payment; and iii) the amortization of the debt discount
+on the Notes amounting to $244,463. 
+
+The change in operating assets and
+liabilities of $9,647,007 consisted of i) the cash infusion by Sanofi of $10,000,000 of which $2,0000,000 of the deferred
+subsidy revenue was amortized during the current period, to cover operating expenditure for a period of 18 months from July 2016;
+ii) the deferred revenue payment made by Sanofi, totaling $2,750,001 offset by the revenue recognized to date of $1,558,489;
+iii) the movement in accounts receivable of $482,910 and the movement in accounts payable of $356,402, primarily due to the
+acquisition of Sanofi during the current period. 
+
+Net cash used in investing activities
+was $1,090,346 and $562,274, the current period amount included; deferred purchase price payments to Pfizer of $125,000 and the
+acquisition of a critical piece of equipment under a lease for $533,290 and software purchases related to our scientific platforms,
+we also funded utility deposits amounting to $123,787 related to the acquisition of the Tucson Facility. The prior period consisted
+of deferred purchase price payments to Pfizer of $250,000 and primarily software purchases relating to our scientific platforms. 
+
+Net cash provided by financing activities
+was $313,631 and $3,474,037 for the nine months ended September 30, 2016 and 2015, respectively. The cash provided by financing
+activities during the current period was primarily due to the proceeds received and repayment of the notes of $1,145,000, netting
+to $0; the repayment of the Los Alamos county loan amounting to $142,502, and the lease funding on the equipment acquired of $533,290,
+of which $57,502 was repaid during the current period. The cash provided by financing activities in the prior year is primarily
+due to the net proceeds raised on the second closing of the recently concluded private placement of $3,521,592, after deducting
+share issue expenses of $314,541; and the payment of a dividend of $48,300 to the Series A stockholder. 
+
+Capital Expenditures  
+
+Our current plan is to purchase equipment and
+software to ensure that our recent acquisition of the Tucson Facility and Icagen functions efficiently and that we are able to
+support the commercialization efforts of the Company. We anticipate that we would need to spend an additional $1,300,000 on software
+licensing over the next six months. 
+
+Commitments  
+
+In terms of the asset purchase agreement entered
+into on July 1, 2015, with Icagen, Inc., a wholly owned subsidiary of Pfizer Inc. we are required to make additional purchase price
+payments of $500,000 on July 1, 2017, provided certain milestones are met by Pfizer. 
+
+We are also obligated to make earn out payments
+equals to the greater of 10% of total Group revenues per quarter and $250,000 per quarter, up to a maximum of $10,000,000, commencing
+on revenues generated from January 1, 2017, which payments are to be made 6o days after each quarter end. 
+
+We are required to make monthly lease payments
+of $28,751 with a balloon payment of $225,000 at the end of the lease term on equipment leased for the laboratory. 
+
+We sub-let premises from Pfizer located at Research
+Triangle Park, Durham, North Carolina. The lease terminates on April 30, 2019. 
+
+Future annual minimum payments required under
+operating lease obligations as of September 30, 2016, are as follows: 
+
+Critical
+Accounting Policies and Estimates   
+
+Our
+discussion and analysis of our financial condition and results of operations are based on our unaudited condensed consolidated
+financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States
+of America. The preparation of these financial statements requires us to make estimates and judgments that affect the reported
+amounts of assets, liabilities and expenses. We evaluate our estimates and judgments on an ongoing basis. We base our estimates
+on historical experience and on assumptions that we believe to be reasonable under the circumstances, the results of which form
+the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources.
+Actual results may differ from these estimates.  
+
+Please
+refer Note 2 Significant Accounting Policies in the notes to unaudited condensed consolidated financial statements.  
+
+Recently
+Issued Accounting Pronouncements   
+
+The
+recent Accounting Pronouncements are fully disclosed in note 2 to our unaudited condensed consolidated financial statements.  
+
+Management
+does not believe that any other recently issued but not yet effective accounting pronouncements, if adopted, would have an effect
+on the accompanying unaudited condensed consolidated financial statements.  
+
+Off-Balance
+Sheet Arrangements   
+
+We
+do not maintain off-balance sheet arrangements nor do we participate in non-exchange traded contracts requiring fair value accounting
+treatment.  
+
+Inflation   
+
+The
+effect of inflation on our revenue and operating results was not significant.  
+
+Climate
+Change   
+
+We
+believe that neither climate change, nor governmental regulations related to climate change, have had, or are expected to have,
+any material effect on our operations.  
+
+Item
+3. Quantitative and Qualitative Disclosures about Market Risk.   
+
+Not
+applicable.  
+
+Item
+4. Controls and Procedures.   
+
+Disclosure
+Controls and Procedures   
+
+The
+Company has adopted and maintains disclosure controls and procedures that are designed to provide reasonable assurance that information
+required to be disclosed in the reports filed under the Exchange Act, such as this Quarterly Report on Form 10-Q, is collected,
+recorded, processed, summarized and reported within the time periods specified in the rules of the Securities and Exchange Commission.
+The Company s disclosure controls and procedures are also designed to ensure that such information is accumulated and communicated
+to management to allow timely decisions regarding required disclosure. As required under Exchange Act Rule 13a-15, the Company s
+management, including the Principal Executive Officer and the Principal Financial Officer, has conducted an evaluation of the
+effectiveness of disclosure controls and procedures as of the end of the period covered by this report. Based upon that evaluation,
+the Company s CEO and CFO concluded that due to a lack of segregation of duties the Company s disclosure controls
+and procedures are not effective to ensure that information required to be disclosed by the Company in the reports that the Company
+files or submits under the Exchange Act, is recorded, processed, summarized and reported, within the time periods specified in
+the SEC s rules and forms, and that such information is accumulated and communicated to the Company s management,
+including the Company s CEO and CFO, as appropriate, to allow timely decisions regarding required disclosure. Subject to
+receipt of additional financing or revenue generated from operations, the Company intends to retain additional individuals to
+remedy the ineffective controls.  
+
+Changes
+in Internal Control   
+
+There
+has been no change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) of the Exchange
+Act) that occurred during our fiscal quarter ended September 30, 2016 that has materially affected, or is reasonably likely to
+materially affect, our internal control over financial reporting.  
+
+PART
+II   OTHER INFORMATION   
+
+Item
+1. Legal Proceedings.   
+
+Set
+forth below is a factual description of the status of Company's legal proceedings. It should not be misconstrued as the Company's
+acquiescence in any claimant's position with respect to such litigation. The Company continues to believe that the claims made
+against it do not have any merit whatsoever and intends to vigorously defend itself.  
+
+There have been no material litigation
+developments since the filing of our Annual Report on form 10-K for the year ended December 31, 2015 and our quarterly reports
+on forms 10-Q for the three months and  nine months ended September 30, 2016, other than as follows: 
+
+Litigation with Estate of Sigmund
+Eisenschenk  
+
+On August 15, 2016, the Company filed
+its reply brief in the Illinois Appellate Court in connection with the appeal from the sanctions orders of March 16, 2015 and May
+26, 2015. The appeal from the March 16, 2015 and May 26, 2015, orders is fully briefed and the parties are now awaiting a decision. 
+
+On August 22, 2016, the Court denied
+the Company s motion to stay American Milling and the Estate s motion for partial summary judgment as to Count VI of
+the Second Amended Petition for Citation to Recover. The court also denied the Company s motion to dismiss Count IV of the
+Second Amended Petition for Citation to Recover. 
+
+On September 20, 2016, the Company
+filed an interlocutory appeal from the order of August 22, 2016, denying the Company s motion to stay the Estate s
+motion for partial summary judgment as to Count VI of the Second Amended Petition for Citation to Recover. 
+
+On September 28, 2016, Icagen and American
+Milling entered into an Assignment and Mutual Release Agreement whereby Icagen agreed to pay American Milling the sum of eight
+hundred thousand dollars ($800,000.00) in exchange for an assignment by American Milling of all of American Millings first class
+claims, fifth class claims, sanctions awards, right title, claim and interest in any portion of the Appeal Bond filed by Icagen
+in the Illinois Appellate Court, all past, present and future sanctions awards, all past, present and future claims and all past,
+present and future claims for attorneys  fees, costs and expenses. 
+
+On October 7, 2016, the Court entered
+an order granting partial summary judgment as to Count VI of the Second Amended Petition for Citation to Recover in favor of the
+Estate and against the Company in the amount of $1,137,500. 
+
+On October 7, 2016, QTM Ventures filed
+an emergency motion to enforce an alleged settlement agreement between QTM Ventures and American Milling. In their emergency motion,
+QTM alleges, amongst other things, that QTM agreed to cease to pursue an appeal and a motion for reclassification of its claim
+in exchange for an agreement with American Milling to split the proceeds of the Estate. QTM further argues that, by virtue of its
+Settlement Agreement with American Milling, QTM is entitled to 50% of the payments made/to be made to American Milling by Icagen
+under the American-Milling Icagen Assignment and Release Agreement. 
+
+On October 11, 2016, the Company filed a notice
+of appeal in the Circuit Court from the Court order granting partial summary judgment as to Count VI of the Second Amended Petition
+for Citation to Recover. 
+
+On November 1, 2016, the Illinois Appellate
+Court scheduled oral arguments in the Company s appeal from the sanctions orders of March 16, 2015 and May 26, 2015. Oral
+arguments are scheduled for December 1, 2016. 
+
+Item
+1A. Risk Factors.   
+
+The
+following information updates, and should be read in conjunction with, the information disclosed in Part 1, Item 1A,
+ Risk Factors,  contained in our Annual Report on Form 10-K for the year ended December 31, 2015, which
+was filed with the SEC on April 14, 2016. Except as disclosed below, there have been no material changes from the risk factors
+disclosed in our Annual Report on Form 10-K for the year ended December 31, 2015.  
+
+Risks
+Related to the Company   
+
+We
+have a history of losses and there can be no assurance that we will generate or sustain positive earnings.    
+
+For the nine months ended September 30, 2016,
+we had a net loss of $(4,373,009), for the year ended December 31, 2015 we had a net loss of $(8,676,037), and for the year ended
+December 31, 2014, we had an income of $49,517, primarily due to the favorable settlement of the LANS matter in the prior year.
+We cannot be certain that our business strategy will ever be successful and do not have enough information regarding our new business
+model which now concentrates on commercial customers to assess its success. Future revenues and profits, if any, will depend upon
+various factors, including the success, if any, of our expansion plans for the lease of our instruments and services to biotechnical
+and pharmaceutical customers, marketability of our instruments and services, our ability to maintain favorable relations with manufacturers
+and customers, and general economic conditions. There is no assurance that we can operate profitably or that we will successfully
+implement our plans. There can be no assurance that we will ever generate positive earnings.  
+
+A significant portion of our net revenue
+has been generated from services provided to two customers.    
+
+The termination of our relationship with Pfizer
+and Sanofi would adversely affect our business. For the nine months ended September 30, 2016 we derived 93.8% of our revenue from
+commercial contracts (of which 16.5% of our revenue was for services provided to Pfizer and 59.6% was for services provided to
+Sanofi), the remaining 6.2% was derived from Government contracts; and for the year ended December 31, 2015, we derived 84% of our
+revenues from commercial contracts of which 75.8% of our revenue were for services provided to Pfizer, the remaining 16.3% was
+derived from Government contracts. Prior to the acquisition of certain of the assets of Icagen we derived substantially all of
+our revenue from services we performed for two governmental agencies. For the year ended December 31, 2014, 84% of our revenue
+has been generated from government contracts and the remaining 16% generated from commercial contracts. Our business model which
+now concentrates on commercial customers is relatively new and there can be no assurance that we will be able to increase the revenue
+derived from commercial customers to a significant amount. As of the date hereof we have three existing contracts with the National
+Institutes of Health ( NIH ) pursuant to which we are continuing to perform services. Our Sanofi MSA provides that
+Sanofi will make payments to Icagen-T of $32 million over the next five years in consideration of Icagen-T providing services to
+Sanofi, so long as Icagen-T complies with the covenants set forth in the Sanofi MSA. Our MSA with Pfizer which terminates in July
+2017 guarantees $1,000,000 of revenue to us per each twelve-month period until June 30, 2017. There can be no assurance that we
+will attract a sufficient number of other pharmaceutical companies to provide our services to or that our Pfizer will increase
+the scope of the services required. We do not have enough information regarding our new business model to assess its success. 
+
+It is anticipated that a significant portion
+of our net revenue will be generated from services to be provided to Sanofi.   
+
+The termination of our relationship with Sanofi
+would adversely affect our business. Our Sanofi MSA provides that Sanofi will make payments to Icagen-T of $32 million over the
+next five in consideration of Icagen-T providing services to Sanofi, so long as Icagen-T complies with the covenants set forth
+in the Sanofi MSA. Inasmuch as prior to the acquisition of the Tucson Facility, the Tucson Facility was used solely to service
+Sanofi and had no third party customers, we anticipate that initially, Sanofi will be Icagen-T s only customer at the Tucson
+Facility. We cannot guarantee when, or if ever, our dependence upon Sanofi as a major customer at the Tucson Facility will end.
+There can be no assurance that we will attract a sufficient number of other pharmaceutical companies to provide our services to
+or that Sanofi will increase the scope of the services required. We do not have enough information regarding our new business model
+to assess its success. 
+
+Our business is dependent upon our ability
+to attract new commercial customers.    
+
+Our future success is dependent upon us attracting
+new commercial customers and increasing the services that we provide to existing customers, including Sanofi and Pfizer. The $1,000,000
+guaranteed payment that we are to receive from Pfizer under the Pfizer MSA terminates on June 30, 2017. The payments that we are
+to receive from Sanofi under the terms of the Sanofi MSA are subject to termination in the event that we do not comply with certain
+covenants contained in the Sanofi MSA that are unrelated to our performance of services under the Sanofi MSA. In addition, the
+guaranteed payments from Sanofi in years three through five of the Sanofi MSA are significantly less than those to be paid in years
+one and two and will not be sufficient to cover the costs of the operations at the Tucson Facility. We do not have enough information
+regarding our new business model which concentrates on commercial customers to assess its success. Our future success is dependent
+upon us attracting new customers and increasing the services that we provide to existing customers, including Sanofi and Pfizer.
+There can be no assurance that we will be able to attract new commercial customers or increase the services that we provide to
+existing customers, including Pfizer and Sanofi. 
+
+If
+we cannot establish profitable operations, we will need to raise additional capital to fully implement our business plan, which
+may not be available on commercially reasonable terms, or at all, and which may dilute your investment.    
+
+We incurred a net loss of $(4,373,009) for the
+nine months ended September 30, 2016 and a net loss of $(8,676,037) for the year ended December 31, 2015 and generated a net income
+of $49,517 for the year ended December 31, 2014 primarily due to the favorable settlement of the LANS matter in the prior year.
+Achieving and sustaining profitability will require us to increase our revenues and manage our product, operating and administrative
+expenses. We cannot guarantee that we will be successful in achieving profitability. Pursuant to the terms of the Pfizer APA, as
+amended July 15, 2016, we are required to pay Pfizer an additional $500,000 on July 1, 2017 and commencing May 2017, minimum quarterly
+payments of $250,000 each quarter up to a maximum of $10,000,000. In addition, we agreed to retain eighteen employees of Icagen,
+Inc. at an estimated remaining cost of $2,325,000. Pursuant to the terms of the Sanofi APA, Icagen-T agreed to retain 46 employees
+at an estimated cost to Icagen-T of $8,400,000 per annum for at least two years and to maintain and pay the maintenance costs of
+the Sanofi chemical libraries that remain at the Tucson Facility. If we are unable to generate sufficient revenues to pay our expenses
+and our existing sources of cash and cash flows are otherwise insufficient to fund our activities, we will need to raise additional
+funds to continue our operations at their current level and in order to fully implement our business plan. We do not have any commitments
+in place for additional funds. If needed, additional funds may not be available on favorable terms, or at all. As of the date hereof,
+we expect that our current cash and revenues generated from services, our private placement financings and the settlement of the
+LANS litigation will provide us with enough funds to continue our operations at our current level for at least 10 months. Unless
+we raise additional funds or increase revenues we will be forced to curtail our operations and limit our marketing expenditures.
+Furthermore, if we issue equity or debt securities to raise additional funds, our existing stockholders may experience dilution,
+and the new equity or debt securities may have rights, preferences and privileges senior to those of our existing stockholders.
+If we are unsuccessful in achieving profitability and we cannot obtain additional funds on commercially reasonable terms or at
+all, we may be required to curtail significantly or cease our operations significantly, it could result in the loss of all of your
+investment in our stock.  
+
+We
+may be unable to generate sufficient revenues to meet the minimum payments required under our agreements and will need to raise
+additional capital to meet our working capital needs,    
+
+In accordance with the terms of the Pfizer APA
+that we entered into on June 26, 2015 with a subsidiary of Pfizer Inc. and which was amended on July 15, 2016, beginning in May
+2017, we agreed to pay a quarterly earn out payment (the  Earn Out Payment ) equal to the greater of (i) 10% of revenue
+earned during the quarter or (ii) $250,000 up to a maximum aggregate payment of $10,000,000. We also agreed to continue the employment
+of several prior individuals of the subsidiary for at least two years, which we estimate will require an additional $2,325,000
+in future compensation. Additionally, in accordance with the terms of the Sanofi MSA we agreed to continue the employment of 46
+prior individuals Sanofi for at least two years, which we estimate will require an additional $8,400,000 in future compensation
+and we agreed to maintain and pay for the maintenance of the Sanofi chemical libraries that remain at the Tucson Facility. To date,
+we have not generated sufficient revenue to pay all of these commitments. If we do not increase our revenue, we may be required
+to raise additional capital to meet our obligations which could result in dilution to stockholders. 
+
+We
+have claims and lawsuits against us that may result in material adverse outcomes.    
+
+On
+April 22, 2014, Dentons  US LLP (Dentons) filed a complaint against us seeking to confess a judgment in the amount of $3,050,000.00
+based upon a settlement agreement we entered into with Dentons, dated July 5, 2013.   We recently were informed that
+on May 7, 2014, Dentons confessed a judgment against us in an ex-parte proceeding for $3,050,000.00 and the costs of the suit,
+which amount bears interest until paid at nine percent (9%) per annum. If the confession of judgment were to be enforced against
+us by Dentons it could result, among other things, in our cash balances being depleted and/or extinguished, or the seizure of
+assets, which would have material adverse effect on us and our ability to continue to operate our business. In addition, on March
+16, 2015, the Circuit Court in Cook County, Illinois (the  Court ) ruled that the Estate of Sigmund Eisenschenk owns
+no less than 177,500 shares of our stock, effectively nullifying the original recall by the Company on December 23, 2011 (88,750
+shares post reverse split which took place on March 25, 2015). The Court further awarded sanctions against us for $172,250. The
+Court has yet to rule on certain other claims made by the Estate, which relate to a further 472,500 shares (236,250 shares, post
+reverse split which took place on March 25, 2015) of our stock, which were originally recalled by the Company on September 19,
+2010 (the 472,500 shares effected by the reverse split will amount to 236,250 shares post reverse split which took place on March
+25, 2015. We are also subject to various other claims and lawsuits in which adverse outcomes could result in significant monetary
+damages.  
+
+We
+depend significantly on our relationship with our two third party collaborators.    
+
+A termination or expiration of our current collaboration
+with Pfizer, Sanofi or any potential future collaborations would adversely affect us financially and could harm our business reputation.
+The Pfizer MSA provides that we will perform ion channel screening and other contract research for Pfizer Inc. Pfizer Inc. guaranteed
+revenue of $1,000,000 for each of the first two years of the agreement, which has and continues to represent a substantial portion
+of our revenue. The Sanofi MSA provides that Icagen-T will perform services for Sanofi at our Tucson Facility for the next five
+years for payments from Sanofi to Icagen-T of $32 million over the next five, so long as Icagen-T complies with the covenants set
+forth in the Sanofi MSA. Our collaboration with Pfizer and/ or Sanofi or future collaborations we may enter into may not be scientifically
+or commercially successful. 
+
+Collaborations
+with pharmaceutical companies and other third parties often are terminated or allowed to expire by the other party. A termination
+or expiration of our current collaboration with Pfizer, Sanofi or any potential future collaborations would adversely affect us
+financially and could harm our business reputation.  
+
+If
+we do not comply with certain of the covenants under the Sanofi MSA, Sanofi has the right to terminate the Sanofi MSA and foreclose
+on its lien on the Tucson Facility.     
+
+The Sanofi MSA has several affirmative and negative
+covenants as well as certain maintenance covenants that Icagen-T must comply. Under the Sanofi MSA, the failure to comply with
+the maintenance covenants and certain responsibilities with respect to maintenance of the chemical libraries results in the automatic
+termination of the Sanofi MSA which would result in termination of the subsidy payments to us as well as the right of Sanofi to
+exercise its rights under the Deed of Trust and foreclose on its $5,000,000 lien on the Tucson Facility. 
+
+Our
+business is difficult to evaluate because we have recently changed our business model to offering a full complement of screening
+services to the broader pharmaceutical sector. There can be no guarantee that we will be able to effectively integrate the Icagen
+and Sanofi business    
+
+Since
+our acquisition of the Icagen assets, we have shifted our business model from offering only our XRpro screening services to governmental
+agencies as we did in the past to now offer a full complement of screening services to the broader pharmaceutical sector. With
+the addition of the assets acquired from Sanofi, we now offer ultra high-throuput biology, screening and chemical capabilities.
+There is a risk that we will be unable to successfully conduct our business or be able to successfully integrate the assets acquired
+with our management and structure. Our estimates of capital, personnel and equipment required for our expanded business model
+are based on the experience of management and businesses they are familiar with.   We are subject to the risks such as our
+ability to implement our business plan, market acceptance of our services, under-capitalization, cash shortages, limitations with
+respect to personnel, financing and other resources, competition from better funded and experienced companies, and uncertainty
+of our ability to generate revenues. There is no assurance that our activities will be successful or will result in any revenues
+or profit, and the likelihood of our success must be considered in light of the stage of our development. Even if we generate
+revenue, there can be no assurance that we will be profitable. In addition, no assurance can be given that we will be able to
+consummate our business strategy and plans, as described herein, or that financial, technological, market, or other limitations
+may force us to modify, alter, significantly delay, or significantly impede the implementation of such plans. We have insufficient
+results for investors to use to identify historical trends or even to make quarter to quarter comparisons of our operating results.
+You should consider our prospects in light of the risk, expenses and difficulties we will encounter as an early stage company.
+Our revenue and income potential is unproven and our business model is continually evolving. We are subject to the risks inherent
+to the operation of a new business enterprise, and cannot assure you that we will be able to successfully address these risks.  
+
+Item
+2. Unregistered Sales of Equity Securities and Use of Proceeds.   
+
+None.  
+
+Item
+3. Defaults Upon Senior Securities.   
+
+None.  
+
+Item
+4. Mine Safety Disclosures.   
+
+Not
+applicable.  
+
+Item
+5. Other Information.   
+
+None.  
+
+Item
+6. Exhibits.   
+
+SIGNATURES   
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned thereunto duly authorized.  
+
+ICAGEN,
+    INC.    
+
+Date:
+    November 18, 2016  
+      By:
+      
+      /s/
+    Richard Cunningham   
+
+Richard
+    Cunningham   
+
+President
+                                         and Chief Executive Officer  
+          (Principal
+        Executive Officer)    
+
+Date:
+    November 18, 2016  
+      By:  
+      /s/
+    Mark Korb   
+
+Chief
+    Financial Officer   
+
+(Principal
+    Financial Officer)   
+
+19  
+
+<EX-31.1>
+ 2
+ f10q0916ex31i_icageninc.htm
+ CERTIFICATION
+
+Exhibit
+31.1   
+
+CERTIFICATION
+OF PRINCIPAL EXECUTIVE OFFICER   
+
+   PURSUANT
+TO 18 U.S.C. SECTION 1350,   
+
+   AS
+ADOPTED PURSUANT TO SECTION 302 OF   
+
+   THE
+SARBANES-OXLEY ACT OF 2002   
+
+I,
+Richard Cunningham, certify that:  
+
+1.  
+      I
+    have reviewed this quarterly report on Form 10-Q of Icagen, Inc.;   
+
+2.  
+      Based
+    on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+    to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+    to the period covered by this report;   
+
+3.  
+      Based
+    on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+    material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+    presented in this report;   
+
+4.  
+      The
+    registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls
+    and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as
+    defined in Exchange Act Rules 13-a-15(f) and 15d-15(f)) for the registrant and have:   
+
+a)  
+      Designed
+    such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+    to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to
+    us by others within those entities, particularly during the period in which this report is being prepared;   
+
+b)  
+      Designed
+    such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+    our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+    statements for external purposes in accordance with generally accepted accounting principles;   
+
+c)  
+      Evaluated
+    the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+    about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based
+    on such evaluation; and   
+
+d)  
+      Disclosed
+    in this report any change in the registrant s internal control over financing reporting that occurred during the registrant s
+    most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially
+    affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting;
+    and   
+
+5.  
+      The
+    registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control
+    over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors
+    (or persons performing the equivalent functions):   
+
+a)  
+      All
+    significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+    are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial
+    information; and   
+
+b)  
+      Any
+    fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+    internal control over financial reporting.   
+
+Date:
+    November 18, 2016  
+      By:  
+      /s/
+    Richard Cunningham   
+
+Richard
+    Cunningham   
+
+President
+        and Chief Executive Officer  
+          (Principal
+        Executive Officer)    
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ f10q0916ex31ii_icageninc.htm
+ CERTIFICATION
+
+Exhibit
+31.2   
+
+CERTIFICATION
+OF PRINCIPAL FINANCIAL OFFICER   
+
+   PURSUANT
+TO 18 U.S.C. SECTION 1350,   
+
+   AS
+ADOPTED PURSUANT TO SECTION 302 OF   
+
+   THE
+SARBANES-OXLEY ACT OF 2002   
+
+I,
+Mark Korb, certify that:  
+
+1.  
+      I
+    have reviewed this quarterly report on Form 10-Q of Icagen, Inc.;   
+
+2.  
+      Based
+    on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+    to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+    to the period covered by this report;   
+
+3.  
+      Based
+    on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+    material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+    presented in this report;   
+
+4.  
+      The
+    registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls
+    and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as
+    defined in Exchange Act Rules 13-a-15(f) and 15d-15(f)) for the registrant and have:   
+
+a)  
+      Designed
+    such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+    to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to
+    us by others within those entities, particularly during the period in which this report is being prepared;   
+
+b)  
+      Designed
+    such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+    our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+    statements for external purposes in accordance with generally accepted accounting principles;   
+
+c)  
+      Evaluated
+    the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+    about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based
+    on such evaluation; and   
+
+d)  
+      Disclosed
+    in this report any change in the registrant s internal control over financing reporting that occurred during the registrant s
+    most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially
+    affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting;
+    and   
+
+5.  
+      The
+    registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control
+    over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors
+    (or persons performing the equivalent functions):   
+
+a)  
+      All
+    significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+    are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial
+    information; and   
+
+b)  
+      Any
+    fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+    internal control over financial reporting.   
+
+Date:
+    November 18, 2016  
+      By:  
+      /s/
+    Mark Korb   
+
+Chief
+    Financial Officer   
+
+(Principal
+    Financial Officer)   
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ f10q0916ex32i_icageninc.htm
+ CERTIFICATION
+
+Exhibit
+32.1   
+
+CERTIFICATION
+PURSUANT TO   
+
+   18
+U.S.C. SECTION 1350,   
+
+   AS
+ADOPTED PURSUANT TO   
+
+   SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+In
+connection with the Quarterly Report of Icagen, Inc. (the  Registrant ) on Form 10-Q for the period ending September
+30, 2016 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Richard Cunningham,
+certify, pursuant to 18 U.S.C. ss. 1350, as adopted pursuant to Section. 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge:  
+
+(1)
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+
+(2)
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+of the Registrant.  
+
+Date:
+    November 18, 2016  
+      By:  
+      /s/
+    Richard Cunningham   
+
+Richard
+    Cunningham   
+
+President
+        and Chief Executive Officer  
+          (Principal
+        Executive Officer)    
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ f10q0916ex32ii_icageninc.htm
+ CERTIFICATION
+
+Exhibit
+32.2   
+
+CERTIFICATION
+PURSUANT TO   
+
+   18
+U.S.C. SECTION 1350,   
+
+   AS
+ADOPTED PURSUANT TO   
+
+   SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+In
+connection with the Quarterly Report of Icagen, Inc. (the  Registrant ) on Form 10-Q for the period ending September
+30, 2016 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Mark Korb, certify,
+pursuant to 18 U.S.C. ss. 1350, as adopted pursuant to Section. 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge:  
+
+(1)
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+
+(2)
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+of the Registrant.  
+
+Date:
+    November 18, 2016  
+      By:  
+      /s/
+    Mark Korb   
+
+Chief
+    Financial Officer   
+
+(Principal
+    Financial Officer)   
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ icfn-20160930.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ icfn-20160930.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ icfn-20160930_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ icfn-20160930_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ icfn-20160930_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ icfn-20160930_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

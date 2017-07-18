@@ -1,0 +1,2308 @@
+<Header>
+<FileStats>
+    <FileName>20161103_10-Q_edgar_data_1338065_0001338065-16-000131_1.txt</FileName>
+    <GrossFileSize>17716976</GrossFileSize>
+    <NetFileSize>175876</NetFileSize>
+    <ASCII_Embedded_Chars>767041</ASCII_Embedded_Chars>
+    <HTML_Chars>6659264</HTML_Chars>
+    <XBRL_Chars>7881242</XBRL_Chars>
+    <XML_Chars>1904046</XML_Chars>
+    <N_Tables>57</N_Tables>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001338065-16-000131.hdr.sgml : 20161103
+<ACCEPTANCE-DATETIME>20161103160653
+ACCESSION NUMBER:		0001338065-16-000131
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		108
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161103
+DATE AS OF CHANGE:		20161103
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DCP Midstream Partners, LP
+		CENTRAL INDEX KEY:			0001338065
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS TRANSMISSION [4922]
+		IRS NUMBER:				030567133
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32678
+		FILM NUMBER:		161971606
+
+	BUSINESS ADDRESS:	
+		STREET 1:		370 17TH STREET
+		STREET 2:		SUITE 2500
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+		BUSINESS PHONE:		303-595-3331
+
+	MAIL ADDRESS:	
+		STREET 1:		370 17TH STREET
+		STREET 2:		SUITE 2500
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+
+</SEC-Header>
+</Header>
+
+ 0001338065-16-000131.txt : 20161103
+
+10-Q
+ 1
+ dpm-20160930x10q.htm
+ 10-Q
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549    
+
+FORM 10-Q 
+
+(Mark One) 
+
+For the quarterly period ended   September 30, 2016    
+  or    
+
+For the transition period from                     to                      
+  Commission File Number: 001-32678    
+
+DCP MIDSTREAM PARTNERS, LP 
+  (Exact name of registrant as specified in its charter)    
+
+Registrant s telephone number, including area code: (303) 595-3331 
+    
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes           No    
+    
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). 
+  Yes        No     
+    
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. 
+                       Large accelerated filer 
+
+Accelerated filer 
+      
+      Non-accelerated filer 
+      
+    (Do not check if a smaller reporting company) 
+    Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes           No      
+    
+  As of   October 28, 2016  , there were outstanding   114,749,848   common units representing limited partner interests. 
+
+DCP MIDSTREAM PARTNERS, LP 
+  FORM 10-Q FOR THE QUARTER ENDED   SEPTEMBER 30, 2016    
+  TABLE OF CONTENTS 
+
+Item 
+      
+    Page 
+        
+    PART I. FINANCIAL INFORMATION 
+      
+      1. 
+    Financial Statements (unaudited): 
+
+Condensed Consolidated Balance Sheets as of September 30, 2016 and December 31, 2015 
+    1 
+        
+    Condensed Consolidated Statements of Operations for the Three and Nine Months Ended September 30, 2016 and 2015 
+    2 
+        
+    Condensed Consolidated Statements of Comprehensive Income for the Three and Nine Months Ended September 30, 2016 and 2015 
+    3 
+        
+    Condensed Consolidated Statements of Cash Flows for the Nine Months Ended September 30, 2016 and 2015 
+    4 
+        
+    Condensed Consolidated Statement of Changes in Equity for the Nine Months Ended September 30, 2016 
+    5 
+        
+    Condensed Consolidated Statement of Changes in Equity for the Nine Months Ended September 30, 2015 
+    6 
+        
+    Notes to the Condensed Consolidated Financial Statements 
+    7 
+      2. 
+    Management's Discussion and Analysis of Financial Condition and Results of Operations 
+    39 
+      3. 
+    Quantitative and Qualitative Disclosures about Market Risk 
+    59 
+      4. 
+    Controls and Procedures 
+    62 
+        
+    PART II. OTHER INFORMATION 
+      
+      1. 
+    Legal Proceedings 
+    63 
+      1A. 
+    Risk Factors 
+    63 
+      6. 
+    Exhibits 
+    63 
+        
+    Signatures 
+    64 
+        
+    Exhibit Index 
+    65 
+
+i 
+
+GLOSSARY OF TERMS 
+  The following is a list of certain industry terms used throughout this report: 
+
+Bbl 
+       
+    barrel 
+      Bbls/d 
+       
+    barrels per day 
+      Bcf 
+      
+    billion cubic feet 
+      Bcf/d 
+      
+    billion cubic feet per day 
+      Btu 
+       
+    British thermal unit, a measurement of energy 
+      Fractionation 
+       
+    the process by which natural gas liquids are separated 
+      into individual components 
+      MBbls 
+      
+    thousand barrels 
+      MBbls/d 
+      
+    thousand barrels per day 
+      MMBtu 
+       
+    million Btus 
+      MMBtu/d 
+       
+    million Btus per day 
+      MMcf 
+      
+    million cubic feet 
+      MMcf/d 
+       
+    million cubic feet per day 
+      NGLs 
+       
+    natural gas liquids 
+      Throughput 
+       
+    the volume of product transported or passing through a 
+      pipeline or other facility 
+
+ii 
+
+CAUTIONARY STATEMENT ABOUT FORWARD-LOOKING STATEMENTS 
+  Our reports, filings and other public announcements may from time to time contain statements that do not directly or exclusively relate to historical facts. Such statements are  forward-looking statements  within the meaning of the Private Securities Litigation Reform Act of 1995. You can typically identify forward-looking statements by the use of forward-looking words, such as  may,   could,   should,   intend,   assume,   project,   believe,   anticipate,   expect,   estimate,   potential,   plan,   forecast  and other similar words. 
+  All statements that are not statements of historical facts, including, but not limited to, statements regarding our future financial position, business strategy, budgets, projected costs and plans and objectives of management for future operations, are forward-looking statements. 
+  These forward-looking statements reflect our intentions, plans, expectations, assumptions and beliefs about future events and are subject to risks, uncertainties and other factors, many of which are outside our control. Important factors that could cause actual results to differ materially from the expectations expressed or implied in the forward-looking statements include known and unknown risks. Known risks and uncertainties include, but are not limited to, the risks set forth in Item 1A. "Risk Factors  in this Quarterly Report on Form 10-Q and in our Annual Report on Form 10-K for the year ended December 31, 2015, including the following risks and uncertainties: 
+             
+    the extent of changes in commodity prices and the demand for our products and services, our ability to effectively limit a portion of the adverse impact of potential changes in commodity prices through derivative financial instruments, and the potential impact of price, and of producers  access to capital on natural gas drilling, demand for our services, and the volume of NGLs and condensate extracted; 
+                
+    the demand for crude oil, residue gas and NGL products; 
+                
+    the level and success of drilling and quality of production volumes around our assets and our ability to connect supplies to our gathering and processing systems, as well as our residue gas and NGL infrastructure; 
+                
+    volatility in the price of our common units; 
+                
+    our ability to hire, train, and retain qualified personnel and key management to execute our business strategy; 
+                
+    general economic, market and business conditions; 
+                
+    our ability to continue the safe and reliable operation of our assets; 
+                
+    our ability to access the debt and equity markets and the resulting cost of capital, which will depend on general market conditions, our financial and operating results, inflation rates, interest rates, our ability to comply with the covenants in our loan agreements and the indentures governing our debt securities, as well as our ability to maintain our credit ratings; 
+                
+    new, additions to, and changes in, laws and regulations, particularly with regard to taxes, safety and protection of the environment, including, but not limited to, climate change legislation, regulation of over-the-counter derivatives market and entities, and hydraulic fracturing regulations, or the increased regulation of our industry, and their impact on producers and customers served by our systems; 
+                
+    the creditworthiness of our customers and the counterparties to our transactions; 
+                
+    the amount of collateral we may be required to post from time to time in our transactions; 
+                
+    industry changes, including the impact of bankruptcies, consolidations, alternative energy sources, technological advances and changes in competition. 
+                
+    our ability to grow through organic growth projects, contributions from affiliates, or acquisitions, and the successful integration and future performance of such assets; 
+                
+    our ability to construct and start up facilities on budget and in a timely fashion, which is partially dependent on obtaining required construction, environmental and other permits issued by federal, state and municipal governments, or agencies thereof, the availability of specialized contractors and laborers, and the price of and demand for materials; 
+                
+    weather, weather-related conditions and other natural phenomena, including, but not limited to, their potential impact on demand for the commodities we sell and the operation of company-owned and third party-owned infrastructure; 
+                
+    security threats such as military campaigns, terrorist attacks, and cybersecurity breaches, against, or otherwise impacting, our facilities and systems; 
+                
+    our ability to purchase propane from our suppliers and make associated profitable sales transactions for our wholesale propane logistics business; 
+                
+    our ability to obtain insurance on commercially reasonable terms, if at all, as well as the adequacy of insurance to cover our losses; and 
+                
+    the amount of gas we gather, compress, treat, process, transport, store and sell, or the NGLs we produce, fractionate, transport, store and sell, may be reduced if the pipelines and storage and fractionation facilities to which we deliver the natural gas or NGLs are capacity constrained and cannot, or will not, accept the gas or NGLs. 
+     In light of these risks, uncertainties and assumptions, the events described in the forward-looking statements might not occur or might occur to a different extent or at a different time than we have described. The forward-looking statements in this report speak as of the filing date of this report. We undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. 
+  
+   iii 
+
+PART I. FINANCIAL INFORMATION 
+  Item 1.     Financial Statements 
+
+DCP MIDSTREAM PARTNERS, LP 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+  (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+  
+   1 
+
+DCP MIDSTREAM PARTNERS, LP 
+  CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+  (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+
+2 
+
+DCP MIDSTREAM PARTNERS, LP 
+  CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+  (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+
+3 
+
+DCP MIDSTREAM PARTNERS, LP 
+  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+  
+   4 
+
+DCP MIDSTREAM PARTNERS, LP 
+  CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY 
+  (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+
+5 
+
+DCP MIDSTREAM PARTNERS, LP 
+  CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY 
+  (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+
+6 
+
+DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 
+  (Unaudited) 
+
+1. Description of Business and Basis of Presentation 
+  DCP Midstream Partners, LP, with its consolidated subsidiaries, or us, we, our or the Partnership, is engaged in the business of gathering, compressing, treating, processing, transporting, storing and selling natural gas; producing, fractionating, transporting, storing and selling NGLs and recovering and selling condensate; and transporting, storing and selling propane in wholesale markets. 
+  We are a Delaware limited partnership that was formed in August 2005. Our partnership includes our Natural Gas Services, NGL Logistics and Wholesale Propane Logistics segments. For additional information regarding these segments, see Note   15   - Business Segments. 
+  Our operations and activities are managed by our general partner, DCP Midstream GP, LP, which in turn is managed by its general partner, DCP Midstream GP, LLC, which we refer to as the General Partner, and is   100%   owned by DCP Midstream, LLC. DCP Midstream, LLC and its subsidiaries and affiliates, collectively referred to as DCP Midstream, LLC, is owned   50%   by Phillips 66 and   50%   by Spectra Energy Corp and its affiliates, or Spectra Energy. During the third quarter of 2016, Spectra Energy entered into an Agreement and Plan of Merger (the "Merger Agreement") with Enbridge Inc., or Enbridge, a Canadian corporation, and anticipates completing the proposed merger during the first quarter of 2017. The Merger Agreement provides that, upon closing of the proposed merger, Spectra Energy will continue its separate corporate existence as a wholly owned subsidiary of Enbridge. DCP Midstream, LLC directs our business operations through its ownership and control of the General Partner. DCP Midstream, LLC s employees provide administrative support to us and operate most of our assets. DCP Midstream, LLC owns approximately   21.4%   of us, including limited partner and general partner interests. 
+  The condensed consolidated financial statements include the accounts of the Partnership and all majority-owned subsidiaries where we have the ability to exercise control. Investments in greater than   20%   owned affiliates that are not variable interest entities and where we do not have the ability to exercise control, and investments in less than   20%   owned affiliates where we have the ability to exercise significant influence, are accounted for using the equity method. 
+  The condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America, or GAAP. Conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported in the condensed consolidated financial statements and notes. Although these estimates are based on management s best available knowledge of current and expected future events, actual results could differ from those estimates. All intercompany balances and transactions have been eliminated in consolidation. Transactions between us and other DCP Midstream, LLC operations have been included in the condensed consolidated financial statements as transactions between affiliates. 
+  The accompanying unaudited condensed consolidated financial statements in this Quarterly Report on Form 10-Q have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission, or the SEC. Accordingly, these condensed consolidated financial statements reflect all adjustments, consisting of normal recurring adjustments, that are, in the opinion of management, necessary to present fairly the financial position and results of operations for the respective interim periods. Certain information and note disclosures normally included in our annual financial statements prepared in accordance with GAAP have been condensed or omitted from these interim financial statements pursuant to such rules and regulations, although we believe that the disclosures made are adequate to make the information presented not misleading. Results of operations for the three and   nine months ended September 30, 2016   are not necessarily indicative of the results that may be expected for the year ending   December 31, 2016  . These unaudited condensed consolidated financial statements and other information included in this Quarterly Report on Form 10-Q should be read in conjunction with the   2015   audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the year ended   December 31, 2015  .  
+
+2. New Accounting Pronouncements  
+    
+  Financial Accounting Standards Board, or FASB, Accounting Standards Update, or ASU, 2016-15  Statement of Cash Flows (Topic 230): Classification of Certain Cash Receipts and Cash Payments,  or ASU 2016-15   - In August 2016, the FASB issued ASU 2016-15, which amends certain cash flow statement classification guidance. This ASU is effective for interim and annual reporting periods beginning after December 15, 2017, with the option to early adopt for financial statements  
+  
+   7 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+that have not been issued. We are currently evaluating the potential impact this standard will have on our condensed consolidated statement of cash flows. 
+    
+  FASB ASU, 2016-02  Leases (Topic 842),  or ASU 2016-02   - In February 2016, the FASB issued ASU 2016-02, which requires lessees to recognize a lease liability on a discounted basis and the right of use of a specified asset at the commencement date for all leases. This ASU is effective for interim and annual reporting periods beginning after December 15, 2018, with the option to early adopt for financial statements that have not been issued. We are currently evaluating the potential impact this standard will have on our condensed consolidated financial statements and related disclosures. 
+    
+  FASB ASU, 2015-16  Business Combinations (Topic 805),  or ASU 2015-16   - In September 2015, the FASB issued ASU 2015-16, which requires that an acquirer recognize adjustments to provisional amounts that are identified during the measurement period in the reporting period in which the adjustment amounts are determined. This ASU is effective for interim and annual reporting periods beginning after December 15, 2016, with the option to early adopt for financial statements that have not been issued. The impact of this ASU will be evaluated upon the occurrence of future business combinations. 
+    
+  FASB ASU 2015-02  Consolidation (Topic 810): Amendments to the Consolidation Analysis,    or ASU 2015-02   - In February 2015, the FASB issued ASU 2015-02, which changes the analysis that a reporting entity must perform to determine whether it should consolidate certain types of legal entities. This ASU is effective for annual reporting periods beginning after December 15, 2015. The adoption of this ASU has been implemented and did not have any impact on our condensed consolidated results of operations, cash flows and financial position. 
+    
+  FASB ASU   2014-09  Revenue from Contracts with Customers (Topic 606),  or   ASU 2014-09 and related interpretations and amendments   - In May 2014, the FASB issued ASU 2014-09, which supersedes the revenue recognition requirements of Accounting Standards Codification Topic 605  Revenue Recognition.  This ASU is effective for annual reporting periods beginning after December 15, 2017, with the option to adopt as early as December 15, 2016. We are currently assessing the impact of adoption of this ASU on our condensed consolidated results of operations, cash flows and financial position. 
+
+3. Dispositions 
+  In May 2016, we entered into a purchase and sale agreement with a third party to sell our 100% interest in our Northern Louisiana system, which primarily consisted of certain gas processing plants and gathering systems, within our Natural Gas Services segment, for approximately   $160 million  , subject to customary purchase price adjustments. This transaction closed on July 1, 2016 and we recorded a gain of   $47 million   in the third quarter of 2016. 
+
+4  . Agreements and Transactions with Affiliates 
+  DCP Midstream, LLC 
+  Services Agreement and Other General and Administrative Charges 
+  We have entered into a services agreement, as amended, or the Services Agreement, with DCP Midstream, LLC. Under the Services Agreement, we are required to reimburse DCP Midstream, LLC for salaries of operating personnel and employee benefits, as well as capital expenditures, maintenance and repair costs, taxes and other direct costs incurred by DCP Midstream, LLC on our behalf. We also pay DCP Midstream, LLC an annual fee under the Services Agreement for centralized corporate functions performed by DCP Midstream, LLC on our behalf, including legal, accounting, cash management, insurance administration and claims processing, risk management, health, safety and environmental, information technology, human resources, credit, payroll, taxes and engineering. Except with respect to the annual fee, there is no limit on the reimbursements we make to DCP Midstream, LLC under the Services Agreement for other expenses and expenditures incurred or payments made on our behalf. In the event we acquire assets or our business otherwise expands, the annual fee under the Services Agreement is subject to adjustment based on the nature and extent of general and administrative services performed by DCP Midstream, LLC, as well as an annual adjustment based on changes to the Consumer Price Index.   Effective January 1, 2015, the annual fee payable under the Services Agreement is   $71 million  .  
+
+8 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+The following is a summary of the fees we incurred under the Services Agreement, as well as other fees paid to DCP Midstream, LLC: 
+
+In addition to the fees paid pursuant to the Services Agreement, we incurred allocated expenses, including executive compensation, insurance and internal audit fees with DCP Midstream, LLC of   $1 million   for each of the three months ended   September 30, 2016   and 2015, respectively, and   $2 million   for each of the   nine months ended     September 30, 2016  , and   2015  , respectively.  
+    
+  Commodity Transactions   - We sell a portion of our residue gas and NGLs to, purchase natural gas and other NGL products from, and provide gathering, transportation and other services to, DCP Midstream, LLC. Management anticipates continuing to purchase and sell commodities and provide services to DCP Midstream, LLC in the ordinary course of business. In addition, DCP Midstream, LLC conducts derivative activities on our behalf. 
+    
+  Spectra Energy 
+    
+  Commodity Transactions   - We purchase natural gas and other NGL products from Spectra Energy. Management anticipates continuing to purchase and sell commodities and provide services to Spectra Energy in the ordinary course of business. 
+  Summary of Transactions with Affiliates 
+  The following table summarizes our transactions with affiliates: 
+
+9 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+We had balances with affiliates as follows: 
+
+5. Inventories 
+  Inventories were as follows:    
+
+We recognize the lower of cost or market adjustments when the carrying value of our inventories exceeds their estimated market value. These non-cash charges are a component of purchases of natural gas, propane and NGLs in the condensed consolidated statements of operations. We recognized no lower of cost or market adjustments during the   three months ended September 30, 2016   and   $1 million   during the   three months ended September 30, 2015  . We recognized   $3 million   and   $6 million   in lower of cost or market adjustments during the   nine months ended     September 30, 2016  , and   2015   respectively.  
+
+6. Property, Plant and Equipment 
+  A summary of property, plant and equipment by classification is as follows: 
+
+Interest capitalized on construction projects was less than   $1 million   and   $1 million   for the   three months ended September 30, 2016   and   2015  , respectively, and less than   $1 million   and   $6 million   for the   nine months ended     September 30, 2016  , and   2015  , respectively. 
+  Depreciation expense was   $27 million   and   $28 million   for the   three months ended September 30, 2016   and   2015  , respectively,   $84 million   and   $81 million   for the   nine months ended     September 30, 2016   and   2015  , respectively. 
+
+10 
+
+DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+7. Goodwill 
+  The carrying value of goodwill as of both September 30, 2016 and December 31, 2015 was   $72 million  , consisting of   $35 million   for our NGL Logistics segment, and   $37 million   for our Wholesale Propane Logistics segment. 
+    
+  We performed our annual goodwill assessment during the quarter ended September 30, 2016 at the reporting unit level, which is identified by assessing whether the components of our operating segments constitute businesses for which discrete financial information is available, whether segment management regularly reviews the operating results of those components and whether the economic and regulatory characteristics are similar. As a result of our assessment, we concluded that the fair value of goodwill substantially exceeded its carrying value and that the entire amount of goodwill disclosed on the condensed consolidated balance sheet as of September 30, 2016 is recoverable. We primarily used a discounted cash flow analysis, supplemented by a market approach analysis, to perform the assessment. Key assumptions in the analysis include the use of an appropriate discount rate, terminal year multiples, and estimated future cash flows, including an estimate of operating and general and administrative costs. In estimating cash flows, we incorporate current market information (including forecasted volumes and commodity prices), as well as historical and other factors. If actual results are not consistent with our assumptions and estimates, or our assumptions and estimates change due to new information, we may be exposed to goodwill impairment charges, which would be recognized in the period in which the carrying value exceeds fair value. 
+
+8. Investments in Unconsolidated Affiliates 
+  The following table summarizes our investments in unconsolidated affiliates: 
+
+Earnings from investments in unconsolidated affiliates were as follows: 
+
+11 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+The following tables summarize the combined financial information of our investments in unconsolidated affiliates: 
+
+(a) In accordance with the Panola joint venture agreement, earnings began to accrue on February 1, 2016. As a result, activity related to Panola is included in the tables above as of and for the three and nine months ended September 30, 2016. 
+
+9. Fair Value Measurement 
+  Determination of Fair Value 
+  Below is a general description of our valuation methodologies for derivative financial assets and liabilities which are measured at fair value. Fair values are generally based upon quoted market prices or prices obtained through external sources, where available. If listed market prices or quotes are not available, we determine fair value based upon a market quote, adjusted by other market-based or independently sourced market data such as historical commodity volatilities, crude oil future yield curves, and/or counterparty specific considerations. These adjustments result in a fair value for each asset or liability under an  exit price  methodology, in line with how we believe a marketplace participant would value that asset or liability. Fair values are adjusted to reflect the credit risk inherent in the transaction as well as the potential impact of liquidating open positions in an orderly manner over a reasonable time period under current conditions. These adjustments may include amounts to reflect counterparty credit quality, the effect of our own creditworthiness, the time value of money and/or the liquidity of the market. 
+             
+    Counterparty credit valuation adjustments are necessary when the market price of an instrument is not indicative of the fair value as a result of the credit quality of the counterparty. Generally, market quotes assume that all counterparties have near zero, or low, default rates and have equal credit quality. Therefore, an adjustment may be necessary to reflect the credit quality of a specific counterparty to determine the fair value of the instrument. We record counterparty credit valuation adjustments on all derivatives that are in a net asset position as of the measurement date in accordance with our established counterparty credit policy, which takes into account any collateral margin that a counterparty may have posted with us as well as any letters of credit that they have provided. 
+                
+    Entity valuation adjustments are necessary to reflect the effect of our own credit quality on the fair value of our net liability positions with each counterparty. This adjustment takes into account any credit enhancements, such as collateral margin we may have posted with a counterparty, as well as any letters of credit that we have provided. The methodology to determine this adjustment is consistent with how we evaluate counterparty credit risk, taking into account our own credit rating, current credit spreads, as well as any change in such spreads since the last measurement date. 
+     
+   12 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+Liquidity valuation adjustments are necessary when we are not able to observe a recent market price for financial instruments that trade in less active markets for the fair value to reflect the cost of exiting the position. Exchange traded contracts are valued at market value without making any additional valuation adjustments and, therefore, no liquidity reserve is applied. For contracts other than exchange traded instruments, we mark our positions to the midpoint of the bid/ask spread, and record a liquidity reserve based upon our total net position. We believe that such practice results in the most reliable fair value measurement as viewed by a market participant. 
+     We manage our derivative instruments on a portfolio basis and the valuation adjustments described above are calculated on this basis. We believe that the portfolio level approach represents the highest and best use for these assets as there are benefits inherent in naturally offsetting positions within the portfolio at any given time, and this approach is consistent with how a market participant would view and value the assets and liabilities. Although we take a portfolio approach to managing these assets/liabilities, in order to reflect the fair value of any one individual contract within the portfolio, we allocate all valuation adjustments down to the contract level, to the extent deemed necessary, based upon either the notional contract volume, or the contract value, whichever is more applicable. 
+    
+  The methods described above may produce a fair value calculation that may not be indicative of net realizable value or reflective of future fair values. While we believe that our valuation methods are appropriate and consistent with other market participants, we recognize that the use of different methodologies or assumptions to determine the fair value of certain financial instruments could result in a different estimate of fair value at the reporting date. We review our fair value policies on a regular basis taking into consideration changes in the marketplace and, if necessary, will adjust our policies accordingly. See Note   11   - Risk Management and Hedging Activities. 
+  Valuation Hierarchy 
+  Our fair value measurements are grouped into a three-level valuation hierarchy and are categorized in their entirety in the same level of the fair value hierarchy as the lowest level input that is significant to the entire measurement. The valuation hierarchy is based upon the transparency of inputs to the valuation of an asset or liability as of the measurement date. The three levels are defined as follows. 
+             
+    Level 1   inputs are unadjusted quoted prices for   identical   assets or liabilities in active markets. 
+                
+    Level 2   inputs include quoted prices for   similar   assets and liabilities in active markets, and inputs that are observable for the asset or liability, either directly or indirectly, for substantially the full term of the financial instrument. 
+                
+    Level 3   inputs are unobservable and considered significant to the fair value measurement. 
+     A financial instrument s categorization within the hierarchy is based upon the level of judgment involved in the most significant input in the determination of the instrument s fair value. Following is a description of the valuation methodologies used as well as the general classification of such instruments pursuant to the hierarchy. 
+  Commodity Derivative Assets and Liabilities 
+  We enter into a variety of derivative financial instruments, which may include over-the-counter, or OTC, instruments, such as natural gas, crude oil or NGL contracts. 
+  Within our Natural Gas Services segment, we typically use OTC derivative contracts in order to mitigate a portion of our exposure to natural gas, NGL and condensate price changes. We also may enter into natural gas derivatives to lock in margin around our storage and transportation assets. These instruments are generally classified within Level 2. Depending upon market conditions and our strategy, we may enter into OTC derivative positions with a significant time horizon to maturity, and market prices for these OTC derivatives may only be readily observable for a portion of the duration of the instrument. In order to calculate the fair value of these instruments, readily observable market information is utilized to the extent that it is available; however, in the event that readily observable market data is not available, we may interpolate or extrapolate based upon observable data. In instances where we utilize an interpolated or extrapolated value, and it is considered significant to the valuation of the contract as a whole, we would classify the instrument within Level 3. 
+  
+   13 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+Within our Wholesale Propane Logistics segment, we may enter into a variety of financial instruments to either secure sales or purchase prices, or capture a variety of market opportunities. Since financial instruments for NGLs tend to be counterparty and location specific, we primarily use the OTC derivative instrument markets, which are not as active and liquid as exchange traded instruments. Market quotes for such contracts may only be available for short dated positions (up to six months), and an active market itself may not exist beyond such time horizon. Contracts entered into with a relatively short time horizon for which prices are readily observable in the OTC market are generally classified within Level 2. Contracts with a longer time horizon, for which we internally generate a forward curve to value such instruments, are generally classified within Level 3. The internally generated curve may utilize a variety of assumptions including, but not limited to, data obtained from third party pricing services, historical and future expected relationship of NGL prices to crude oil prices, the knowledge of expected supply sources coming on line, expected weather trends within certain regions of the United States, and the future expected demand for NGLs. 
+  Each instrument is assigned to a level within the hierarchy at the end of each financial quarter depending upon the extent to which the valuation inputs are observable. Generally, an instrument will move toward a level within the hierarchy that requires a lower degree of judgment as the time to maturity approaches, and as the markets in which the asset trades will likely become more liquid and prices more readily available in the market, thus reducing the need to rely upon our internally developed assumptions. However, the level of a given instrument may change, in either direction, depending upon market conditions and the availability of market observable data. 
+    
+  Interest Rate Derivative Assets and Liabilities 
+  We may use interest rate swap agreements as part of our overall capital strategy. These instruments would effectively exchange a portion of our existing floating rate debt for fixed-rate debt. Historically, our swaps have been generally priced based upon a London Interbank Offered Rate, or LIBOR, instrument with similar duration, adjusted by the credit spread between our company and the LIBOR instrument. Given that a portion of the swap value is derived from the credit spread, which may be observed by comparing similar assets in the market, these instruments are classified within Level 2. Default risk on either side of the swap transaction is also considered in the valuation. We record counterparty credit and entity valuation adjustments in the valuation of our interest rate swaps; however, these reserves are not considered to be a significant input to the overall valuation. 
+  Nonfinancial Assets and Liabilities 
+  We utilize fair value to perform impairment tests as required on our property, plant and equipment, goodwill, and other long-lived intangible assets. Assets and liabilities acquired in third party business combinations are recorded at their fair value as of the date of acquisition. The inputs used to determine such fair value are primarily based upon internally developed cash flow models and would generally be classified within Level 3 in the event that we were required to measure and record such assets at fair value within our condensed consolidated financial statements. Additionally, we use fair value to determine the inception value of our asset retirement obligations. The inputs used to determine such fair value are primarily based upon costs incurred historically for similar work, as well as estimates from independent third parties for costs that would be incurred to restore leased property to the contractually stipulated condition, and would generally be classified within Level 3. 
+
+14 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+The following table presents the financial instruments carried at fair value as of   September 30, 2016   and   December 31, 2015  , by condensed consolidated balance sheet caption and by valuation hierarchy, as described above: 
+
+(a) 
+    Included in current unrealized gains on derivative instruments in our condensed consolidated balance sheets. 
+              (b) 
+    Includes short-term money market securities included in cash and cash equivalents in our condensed consolidated balance sheets. 
+              (c) 
+    Included in long-term unrealized gains on derivative instruments in our condensed consolidated balance sheets. 
+              (d) 
+    Included in current unrealized losses on derivative instruments in our condensed consolidated balance sheets. 
+              (e) 
+    Included in long-term unrealized losses on derivative instruments in our condensed consolidated balance sheets. 
+       
+  Changes in Levels 1 and 2 Fair Value Measurements 
+  The determination to classify a financial instrument within Level 1 or Level 2 is based upon the availability of quoted prices for identical or similar assets and liabilities in active markets. Depending upon the information readily observable in the market, and/or the use of identical or similar quoted prices, which are significant to the overall valuation, the classification of any individual financial instrument may differ from one measurement date to the next. To qualify as a transfer, the asset or liability must have existed in the previous reporting period and moved into a different level during the current period. In the event that there is a movement between the classification of an instrument as Level 1 or 2, the transfer would be reflected in a table as Transfers into or out of Level 1 and Level 2. During the three and   nine months ended     September 30, 2016   and   2015  , there were no transfers into or out of Level 1 and Level 2 of the fair value hierarchy. 
+  Changes in Level 3 Fair Value Measurements 
+  The tables below illustrate a rollforward of the amounts included in our condensed consolidated balance sheets for derivative financial instruments that we have classified within Level 3. Since financial instruments classified as Level 3 typically include a combination of observable components (that is, components that are actively quoted and can be validated to external sources) and unobservable components, the gains and losses in the table below may include changes in fair value due in part to observable market factors, or changes to our assumptions on the unobservable components. Depending upon the information readily observable in the market, and/or the use of unobservable inputs, which are significant to the overall valuation, the classification of any individual financial instrument may differ from one measurement date to the next. The significant unobservable inputs used in determining fair value include adjustments by other market-based or independently sourced market data such as historical commodity volatilities, crude oil future yield curves, and/or counterparty specific considerations. In the event that there is a movement to/from the classification of an instrument as Level 3, we would reflect such items in the table below within the  Transfers into/out of Level 3  captions. 
+  We manage our overall risk at the portfolio level and in the execution of our strategy, we may use a combination of financial instruments, which may be classified within any level. Since Level 1 and Level 2 risk management instruments are not included in the rollforward below, the gains or losses in the table do not reflect the effect of our total risk management activities. 
+  
+   15 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+Commodity Derivative Instruments 
+        
+    Current Assets 
+      
+    Long- Term Assets 
+      
+    Current Liabilities 
+      
+    Long- Term Liabilities 
+        
+    (Millions) 
+      Three months ended September 30, 2016 (a): 
+
+Beginning balance 
+    $ 
+
+$ 
+
+$ 
+
+$ 
+
+Settlements 
+
+Ending balance 
+    $ 
+
+$ 
+
+$ 
+
+$ 
+
+Net unrealized losses on derivatives still held included in earnings (b) 
+    $ 
+
+$ 
+
+$ 
+
+$ 
+
+Three months ended September 30, 2015 (a): 
+
+Beginning balance 
+    $ 
+    83 
+
+$ 
+
+$ 
+
+$ 
+
+Net unrealized losses included in earnings (b) 
+    7 
+
+Settlements 
+    (36 
+    ) 
+
+Ending balance 
+    $ 
+    54 
+
+$ 
+
+$ 
+
+$ 
+
+Net unrealized losses on derivatives still held included in earnings (b) 
+    $ 
+    4 
+
+$ 
+
+$ 
+
+$ 
+
+Commodity Derivative Instruments 
+        
+    Current 
+  Assets 
+      
+    Long- 
+  Term 
+  Assets 
+      
+    Current 
+  Liabilities 
+      
+    Long- 
+  Term 
+  Liabilities 
+        
+    (Millions) 
+      Nine months ended September 30, 2016 (a): 
+
+Beginning balance 
+    $ 
+    22 
+
+$ 
+
+$ 
+
+$ 
+
+Settlements 
+    (22 
+    ) 
+
+Ending balance 
+    $ 
+
+$ 
+
+$ 
+
+$ 
+
+Nine months ended September 30, 2015 (a): 
+
+Beginning balance 
+    $ 
+    138 
+
+$ 
+    18 
+
+$ 
+
+$ 
+
+Net unrealized gains (losses) included in earnings (b) 
+    26 
+
+(18 
+    ) 
+
+Settlements 
+    (110 
+    ) 
+
+Ending balance 
+    $ 
+    54 
+
+$ 
+
+$ 
+
+$ 
+
+Net unrealized gains (losses) on derivatives still held included in earnings (b) 
+    $ 
+    22 
+
+$ 
+    (18 
+    ) 
+      
+    $ 
+
+$ 
+
+(a) 
+    There were no purchases, issuances or sales of derivatives or transfers into/out of Level 3 for the three and   nine months ended     September 30, 2016   and   2015  .  
+              (b) 
+    Represents the amount of total gains or losses for the period, included in gains or losses from commodity derivative activity, net. 
+
+Estimated Fair Value of Financial Instruments 
+  Valuation of a contract s fair value is validated by an internal group independent of the marketing group. While common industry practices are used to develop valuation techniques, changes in pricing methodologies or the underlying assumptions could result in significantly different fair values and income recognition. When available, quoted market prices or prices obtained through external sources are used to determine a contract s fair value. For contracts with a delivery location or duration for which quoted market prices are not available, fair value is determined based on pricing models developed primarily from historical and expected relationship with quoted market prices. 
+  
+   16 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+Values are adjusted to reflect the credit risk inherent in the transaction as well as the potential impact of liquidating open positions in an orderly manner over a reasonable time period under current conditions. Changes in market prices and management estimates directly affect the estimated fair value of these contracts. Accordingly, it is reasonably possible that such estimates may change in the near term. 
+  The fair value of our interest rate swaps, if any, and commodity non-trading derivatives is based on prices supported by quoted market prices and other external sources and prices based on models and other valuation methods. The  prices supported by quoted market prices and other external sources  category includes our interest rate swaps, if any, our NGL and crude oil swaps and our NYMEX positions in natural gas. In addition, this category includes our forward positions in natural gas for which our forward price curves are obtained from a third party pricing service and then validated through an internal process which includes the use of independent broker quotes. This category also includes our forward positions in NGLs at points for which OTC broker quotes for similar assets or liabilities are available for the full term of the instrument. This category also includes  strip  transactions whose pricing inputs are directly or indirectly observable from external sources and then modeled to daily or monthly prices as appropriate. The  prices based on models and other valuation methods  category includes the value of transactions for which inputs to the fair value of the instrument are unobservable in the marketplace and are considered significant to the overall fair value of the instrument. The fair value of these instruments may be based upon an internally developed price curve, which was constructed as a result of the long dated nature of the transaction or the illiquidity of the specific market point. 
+  We have determined fair value amounts using available market information and appropriate valuation methodologies. However, considerable judgment is required in interpreting market data to develop the estimates of fair value. Accordingly, the estimates presented herein are not necessarily indicative of the amounts that we could realize in a current market exchange. The use of different market assumptions and/or estimation methods may have a material effect on the estimated fair value amounts. 
+  The fair value of accounts receivable, accounts payable and short-term borrowings are not materially different from their carrying amounts because of the short-term nature of these instruments or the stated rates approximating market rates. Derivative instruments are carried at fair value.  
+   We determine the fair value of our fixed-rate Senior Notes based on quotes obtained from bond dealers. We determine the fair value of borrowings under our Amended and Restated Credit Agreement based upon the discounted present value of expected future cash flows, taking into account the difference between the contractual borrowing spread and the spread for similar credit facilities available in the marketplace. We classify the fair values of our outstanding debt balances within Level 2 of the valuation hierarchy. As of   September 30, 2016   and   December 31, 2015  , the carrying value and fair value of our long-term fixed-rate Senior Notes, including current maturities, and our Amended and Restated Credit Agreement were as follows: 
+
+(a) Excludes unamortized issuance costs. 
+  
+   17 
+
+DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+10. Debt 
+
+Amended and Restated Credit Agreement 
+  On May 1, 2014, we entered into a   $1.25 billion   amended and restated senior unsecured revolving credit agreement that matures on   May 1, 2019  , or the Amended and Restated Credit Agreement. The Amended and Restated Credit Agreement is used for working capital requirements and other general partnership purposes including acquisitions. 
+   Our cost of borrowing under the Amended and Restated Credit Agreement is determined by a ratings-based pricing grid. Indebtedness under the Amended and Restated Credit Agreement bears interest at either: (1) LIBOR, plus an applicable margin of   1.275%   based on our current credit rating; or (2) (a) the base rate which shall be the higher of Wells Fargo Bank N.A. s prime rate, the Federal Funds rate, plus   0.50%   or the LIBOR Market Index rate, plus   1%  , plus (b) an applicable margin of   0.275%   based on our current credit rating. The Amended and Restated Credit Agreement incurs an annual facility fee of   0.225%   based on our current credit rating. This fee is paid on drawn and undrawn portions of the   $1.25 billion   Amended and Restated Credit Agreement. 
+  As of   September 30, 2016  , we had unused borrowing capacity of   $1,070 million  , net of letters of credit, under the Amended and Restated Credit Agreement, all of which was available for working capital and other general partnership purposes. Our borrowing capacity may be limited by financial covenants set forth in the Amended and Restated Credit Agreement. Except in the case of a default, amounts borrowed under our Amended and Restated Credit Agreement will not become due prior to the   May 1, 2019   maturity date. 
+    
+  The Amended and Restated Credit Agreement requires us to maintain a leverage ratio (the ratio of our consolidated indebtedness to our consolidated EBITDA, in each case as is defined by the Amended and Restated Credit Agreement) of not more than   5.0   to   1.0  , and following the consummation of qualifying acquisitions, not more than   5.5   to   1.0  , on a temporary basis for three consecutive quarters, including the quarter in which such acquisition is consummated. 
+
+18 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+The future maturities of long-term debt in the year indicated are as follows: 
+
+11  . Risk Management and Hedging Activities 
+  Our day-to-day operations expose us to a variety of risks including but not limited to changes in the prices of commodities that we buy or sell, changes in interest rates, and the creditworthiness of each of our counterparties. We manage certain of these exposures with either physical or financial transactions. We have established a comprehensive risk management policy and a risk management committee, or the Risk Management Committee, to monitor and manage market risks associated with commodity prices and counterparty credit. The Risk Management Committee is composed of senior executives who receive regular briefings on positions and exposures, credit exposures and overall risk management in the context of market activities. The Risk Management Committee is responsible for the overall management of credit risk and commodity price risk, including monitoring exposure limits. The following describes each of the risks that we manage. 
+  Commodity Price Risk 
+  Cash Flow Protection Activities     We are exposed to the impact of market fluctuations in the prices of natural gas, NGLs and condensate as a result of our gathering, processing, sales and storage activities. For gathering, processing and storage services, we may receive cash or commodities as payment for these services, depending on the contract type. We enter into derivative financial instruments to mitigate a portion of the risk of weakening natural gas, NGL and condensate prices associated with our gathering, processing and sales activities, thereby stabilizing our cash flows. We have mitigated a portion of our expected commodity price risk associated with our gathering, processing and sales activities through 2017 with commodity derivative instruments. Our commodity derivative instruments used for our hedging program are a combination of direct NGL product, crude oil, and natural gas hedges. Due to the limited liquidity and tenor of the NGL derivative market, we have used crude oil swaps to mitigate a portion of our commodity price exposure to NGLs. Historically, prices of NGLs have generally been related to crude oil prices; however, there are periods of time when NGL pricing may be at a greater discount to crude oil, resulting in additional exposure to NGL commodity prices. The relationship of NGLs to crude oil continues to be lower than historical relationships. When our crude oil swaps become short-term in nature, we have periodically converted certain crude oil derivatives to NGL derivatives by entering into offsetting crude oil swaps while adding NGL swaps. Our crude oil and NGL transactions are primarily accomplished through the use of forward contracts that effectively exchange our floating price risk for a fixed price. The type of instrument that we use to mitigate a portion of our risk may vary depending upon our risk management objective. These transactions are not designated as hedging instruments for accounting purposes and the change in fair value is reflected within our condensed consolidated statements of operations as a gain or a loss on commodity derivative activity. 
+    
+  Our Wholesale Propane Logistics segment is generally designed with the intent to establish stable margins by entering into supply arrangements that specify prices based on established floating price indices and by entering into sales agreements that provide for floating prices that are tied to our variable supply costs plus a margin. To the extent possible, we match the pricing of our supply portfolio to our sales portfolio in order to lock in value and reduce our overall commodity price risk. However, to the extent that we carry propane inventories or our sales and supply arrangements are not aligned, we are exposed to market variables and commodity price risk. We manage the commodity price risk of our supply portfolio and sales portfolio with both physical and financial transactions, including fixed price sales. While the majority of our sales and purchases in this  
+  
+   19 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+segment are index-based, occasionally, we may enter into fixed price sales agreements in the event that a propane distributor desires to purchase propane from us on a fixed price basis. In such cases, we may manage this risk with derivatives that allow us to swap our fixed price risk to market index prices that are matched to our market index supply costs. In addition, we may use financial derivatives to manage the value of our propane inventories. These transactions are not designated as hedging instruments for accounting purposes and any change in fair value is reflected in the current period within our condensed consolidated statements of operations as a gain or loss on commodity derivative activity. 
+  Our portfolio of commodity derivative activity is primarily accounted for using the mark-to-market method of accounting, whereby changes in fair value are recorded directly to the condensed consolidated statements of operations; however, depending upon our risk profile and objectives, in certain limited cases, we may execute transactions that qualify for the hedge method of accounting. 
+  Natural Gas Storage and Pipeline Asset Based Commodity Derivative Program     Our natural gas storage and pipeline assets are exposed to certain risks including changes in commodity prices. We manage commodity price risk related to our natural gas storage and pipeline assets through our commodity derivative program. The commercial activities related to our natural gas storage and pipeline assets primarily consist of the purchase and sale of gas and associated time spreads and basis spreads. 
+  A time spread transaction is executed by establishing a long gas position at one point in time and establishing an equal short gas position at a different point in time. Time spread transactions allow us to lock in a margin supported by the injection, withdrawal, and storage capacity of our natural gas storage assets. We may execute basis spread transactions to mitigate the risk of sale and purchase price differentials across our system. A basis spread transaction allows us to lock in a margin on our physical purchases and sales of gas, including injections and withdrawals from storage. We typically use swaps to execute these transactions, which are not designated as hedging instruments and are recorded at fair value with changes in fair value recorded in the current period condensed consolidated statements of operations. While gas held in our storage locations is recorded at the lower of average cost or market, the derivative instruments that are used to manage our storage facilities are recorded at fair value and any changes in fair value are currently recorded in our condensed consolidated statements of operations. Even though we may have economically hedged our exposure and locked in a future margin, the use of lower-of-cost-or-market accounting for our physical inventory and the use of mark-to-market accounting for our derivative instruments may subject our earnings to market volatility. 
+  Commodity Cash Flow Hedges     In order for storage facilities to remain operational, a minimum level of base gas must be maintained in each storage cavern, which is capitalized on our condensed consolidated balance sheets as a component of property, plant and equipment, net. During construction or expansion of our storage caverns, we may execute a series of derivative financial instruments to mitigate a portion of the risk associated with the forecasted purchase of natural gas when we bring the storage caverns to operation. These derivative financial instruments may be designated as cash flow hedges. While the cash paid upon settlement of these hedges economically fixes the cash required to purchase the base gas, the deferred losses or gains would remain in accumulated other comprehensive income, or AOCI, until the cavern is emptied and the base gas is sold. The balance in AOCI of our previously settled base gas cash flow hedges was in a loss position of   $6 million   as of   September 30, 2016  . 
+    
+  Interest Rate Risk 
+  We enter into debt arrangements that have either fixed or floating rates, therefore we are exposed to market risks related to changes in interest rates. We periodically use interest rate swaps to convert our floating rate debt to fixed-rate debt or to convert our fixed-rate debt to floating rate debt. Our primary goals include: (1) maintaining an appropriate ratio of fixed-rate debt to floating-rate debt; (2) reducing volatility of earnings resulting from interest rate fluctuations; and (3) locking in attractive interest rates. 
+  The balance in AOCI of our previously settled interest rate swap cash flow hedges was in a loss position of   $3 million   as of   September 30, 2016  . 
+  Contingent Credit Features 
+  Each of the above risks is managed through the execution of individual contracts with a variety of counterparties. Certain of our derivative contracts may contain credit-risk related contingent provisions that may require us to take certain actions in certain circumstances. 
+  
+   20 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+We have International Swaps and Derivatives Association, or ISDA, contracts which are standardized master legal arrangements that establish key terms and conditions which govern certain derivative transactions. These ISDA contracts contain standard credit-risk related contingent provisions. Some of the provisions we are subject to are outlined below. 
+             
+    If we were to have an effective event of default under our Amended and Restated Credit Agreement that occurs and is continuing, our ISDA counterparties may have the right to request early termination and net settlement of any outstanding derivative liability positions. 
+                
+    Our ISDA counterparties generally have collateral thresholds of zero, requiring us to fully collateralize any commodity contracts in a net liability position, when our credit rating is below investment grade. 
+                
+    Additionally, in some cases, our ISDA contracts contain cross-default provisions that could constitute a credit-risk related contingent feature. These provisions apply if we default in making timely payments under other credit arrangements and the amount of the default is above certain predefined thresholds, which are significantly high and are generally consistent with the terms of our Amended and Restated Credit Agreement. As of   September 30, 2016  , we were not a party to any agreements that would trigger the cross-default provisions. 
+     Our commodity derivative contracts that are not governed by ISDA contracts do not have any credit-risk related contingent features. 
+  Depending upon the movement of commodity prices and interest rates, each of our individual contracts with counterparties to our commodity derivative instruments or to our interest rate swap instruments are in either a net asset or net liability position. As of   September 30, 2016  , all of our individual commodity derivative contracts that contain credit-risk related contingent features were in a net asset position. If we were required to net settle our position with an individual counterparty, due to a credit-risk related event, our ISDA contracts may permit us to net all outstanding contracts with that counterparty, whether in a net asset or net liability position, as well as any cash collateral already posted. As of   September 30, 2016  , we were not required to post additional collateral or offset net liability contracts with contracts in a net asset position because all of our commodity derivative contracts that contain credit-risk related contingent features were in a net asset position.  
+  Offsetting 
+  Certain of our derivative instruments are subject to a master netting or similar arrangement, whereby we may elect to settle multiple positions with an individual counterparty through a single net payment. Each of our individual derivative instruments are presented on a gross basis on the condensed consolidated balance sheets, regardless of our ability to net settle our positions. Instruments that are governed by agreements that include net settle provisions allow final settlement, when presented with a termination event, of outstanding amounts by extinguishing the mutual debts owed between the parties in exchange for a net amount due. We have trade receivables and payables associated with derivative instruments, subject to master netting or similar agreements, which are not included in the table below. The following summarizes the gross and net amounts of our derivative instruments: 
+
+September 30, 2016 
+      
+    December 31, 2015 
+        
+    Gross Amounts 
+  of Assets and 
+  (Liabilities) 
+  Presented in the 
+  Balance Sheet 
+      
+    Amounts Not 
+  Offset in the 
+  Balance Sheet - 
+  Financial 
+  Instruments (a) 
+      
+    Net 
+  Amount 
+      
+    Gross Amounts 
+  of Assets and 
+  (Liabilities) 
+  Presented in the 
+  Balance Sheet 
+      
+    Amounts Not 
+  Offset in the 
+  Balance Sheet - 
+  Financial 
+  Instruments (a) 
+      
+    Net 
+  Amount 
+        
+    (Millions) 
+      Assets: 
+
+Commodity derivatives 
+    $ 
+    23 
+
+$ 
+    (10 
+    ) 
+      
+    $ 
+    13 
+
+$ 
+    114 
+
+$ 
+    (19 
+    ) 
+      
+    $ 
+    95 
+      
+      Liabilities: 
+
+Commodity derivatives 
+    $ 
+    (11 
+    ) 
+      
+    $ 
+    10 
+
+$ 
+    (1 
+    ) 
+      
+    $ 
+    (19 
+    ) 
+      
+    $ 
+    19 
+
+$ 
+
+(a) 
+    There is no cash collateral pledged or received against these positions. 
+
+21 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+Summarized Derivative Information 
+  The fair value of our derivative instruments that are marked-to-market each period, as well as the location of each within our condensed consolidated balance sheets, by major category, is summarized below. We have no derivative instruments that are designated as hedging instruments for accounting purposes as of   September 30, 2016   and   December 31, 2015  . 
+    
+                                                 Balance Sheet Line Item 
+    September 30,   2016 
+      
+    December 31,   2015 
+      
+    Balance Sheet Line Item 
+      
+    September 30,   2016 
+      
+    December 31,   2015 
+        
+    (Millions) 
+
+(Millions) 
+      Derivative Assets Not Designated as Hedging Instruments: 
+      
+    Derivative Liabilities Not Designated as Hedging Instruments: 
+      Commodity derivatives: 
+
+Commodity derivatives: 
+
+Unrealized gains on derivative instruments   current 
+    $ 
+    20 
+
+$ 
+    105 
+
+Unrealized losses on derivative instruments   current 
+      
+    $ 
+    (11 
+    ) 
+      
+    $ 
+    (18 
+    ) 
+      Unrealized gains on derivative instruments   long-term 
+    3 
+
+9 
+
+Unrealized losses on derivative instruments   long-term 
+
+(1 
+    ) 
+      Total 
+    $ 
+    23 
+
+$ 
+    114 
+
+Total 
+      
+    $ 
+    (11 
+    ) 
+      
+    $ 
+    (19 
+    ) 
+
+The following summarizes the balance and activity within AOCI relative to our interest rate, commodity and foreign currency cash flow hedges as of and for the three months ended   September 30, 2016  : 
+
+Interest Rate Cash Flow Hedges 
+
+Commodity Cash Flow Hedges 
+      
+    Foreign Currency Cash Flow Hedges (a) 
+      
+    Total 
+        
+    (Millions) 
+      Net deferred (losses) gains in AOCI (beginning balance) 
+    $ 
+    (3 
+    ) 
+
+$ 
+    (6 
+    ) 
+      
+    $ 
+    1 
+
+$ 
+    (8 
+    ) 
+      Net deferred (losses) gains in AOCI (ending balance) 
+    $ 
+    (3 
+    ) 
+
+$ 
+    (6 
+    ) 
+      
+    $ 
+    1 
+
+$ 
+    (8 
+    ) 
+      Deferred losses in AOCI expected to be reclassified into earnings over the next 12 months 
+    $ 
+    (1 
+    ) 
+
+$ 
+
+$ 
+
+$ 
+    (1 
+    ) 
+
+The following summarizes the balance and activity within AOCI relative to our interest rate, commodity and foreign currency cash flow hedges as of and for the   nine months ended     September 30, 2016  : 
+                                                   
+    Interest Rate Cash Flow Hedges 
+
+Commodity Cash Flow Hedges 
+      
+    Foreign Currency Cash Flow Hedges (a) 
+      
+    Total 
+        
+    (Millions) 
+      Net deferred (losses) gains in AOCI (beginning balance) 
+    $ 
+    (3 
+    ) 
+
+$ 
+    (6 
+    ) 
+      
+    $ 
+    1 
+
+$ 
+    (8 
+    ) 
+      Net deferred (losses) gains in AOCI (ending balance) 
+    $ 
+    (3 
+    ) 
+
+$ 
+    (6 
+    ) 
+      
+    $ 
+    1 
+
+$ 
+    (8 
+    ) 
+
+(a) 
+    Relates to Discovery, an unconsolidated affiliate. 
+       
+  For the three and   nine months ended     September 30, 2016  , no derivative losses attributable to the ineffective portion or to amounts excluded from effectiveness testing were recognized in gains or losses from commodity derivative activity, net or interest expense in our condensed consolidated statements of operations. For the three and   nine months ended     September 30, 2016  , no derivative losses were reclassified from AOCI to gains or losses from commodity derivative activity, net or interest expense as a result of the discontinuance of cash flow hedges related to certain forecasted transactions that are not probable of occurring. 
+  
+   22 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+The following summarizes the balance and activity within AOCI relative to our interest rate, commodity and foreign currency cash flow hedges as of and for the three months ended   September 30, 2015  : 
+
+Interest Rate Cash Flow Hedges 
+
+Commodity Cash Flow Hedges 
+      
+    Foreign Currency Cash Flow Hedges (a) 
+      
+    Total 
+        
+    (Millions) 
+      Net deferred (losses) gains in AOCI (beginning balance) 
+    $ 
+    (3 
+    ) 
+
+$ 
+    (6 
+    ) 
+      
+    $ 
+    1 
+
+$ 
+    (8 
+    ) 
+      Net deferred (losses) gains in AOCI (ending balance) 
+    $ 
+    (3 
+    ) 
+
+$ 
+    (6 
+    ) 
+      
+    $ 
+    1 
+
+$ 
+    (8 
+    ) 
+
+(a) 
+    Relates to Discovery, an unconsolidated affiliate. 
+       
+  The following summarizes the balance and activity within AOCI relative to our interest rate, commodity and foreign currency cash flow hedges as of and for the   nine months ended     September 30, 2015  : 
+                                                   
+    Interest Rate Cash Flow Hedges 
+
+Commodity Cash Flow Hedges 
+      
+    Foreign Currency Cash Flow Hedges (a) 
+      
+    Total 
+        
+    (Millions) 
+      Net deferred (losses) gains in AOCI (beginning balance) 
+    $ 
+    (4 
+    ) 
+
+$ 
+    (6 
+    ) 
+      
+    $ 
+    1 
+
+$ 
+    (9 
+    ) 
+      Losses reclassified from AOCI to earnings   effective portion 
+    1 
+
+(b) 
+
+1 
+      
+      Net deferred (losses) gains in AOCI (ending balance) 
+    $ 
+    (3 
+    ) 
+
+$ 
+    (6 
+    ) 
+      
+    $ 
+    1 
+
+$ 
+    (8 
+    ) 
+
+(a) 
+    Relates to Discovery, an unconsolidated affiliate. 
+              (b) 
+    Included in interest expense in our condensed consolidated statements of operations. 
+     For the three and   nine months ended     September 30, 2015  , no derivative losses attributable to the ineffective portion or to amounts excluded from effectiveness testing were recognized in gains or losses from commodity derivative activity, net or interest expense in our condensed consolidated statements of operations. For the three and   nine months ended     September 30, 2015  , no derivative losses were reclassified from AOCI to gains or losses from commodity derivative activity, net or interest expense as a result of the discontinuance of cash flow hedges related to certain forecasted transactions that are not probable of occurring. 
+  
+   23 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+Changes in value of derivative instruments, for which the hedge method of accounting has not been elected from one period to the next, are recorded in the condensed consolidated statements of operations. The following summarizes these amounts and the location within the condensed consolidated statements of operations that such amounts are reflected: 
+
+We do not have any derivative financial instruments that qualify as a hedge of a net investment. 
+  The following tables represent, by commodity type, our net long or short positions that are expected to partially or entirely settle in each respective year. To the extent that we have long dated derivative positions that span multiple calendar years, the contract will appear in more than one line item in the tables below.    
+
+12  . Partnership Equity and Distributions 
+  During the   nine months ended     September 30, 2016  , we issued no common units pursuant to our 2014 equity distribution agreement. As of   September 30, 2016  , approximately   $349 million   of common units remained available for sale pursuant to our 2014 equity distribution agreement. 
+  During the   nine months ended     September 30, 2015  , we issued   788,033   common units pursuant to our 2014 equity distribution agreement and received proceeds of   $31 million  , net of commissions and offering costs of less than   $1 million  .  
+  
+   24 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+The following table presents our cash distributions paid in   2016   and   2015  : 
+
+13. Net Income or Loss per Limited Partner Unit 
+  Basic and diluted net income or loss per limited partner unit, or LPU, is calculated by dividing net income or loss allocable to limited partners, by the weighted-average number of outstanding LPUs during the period. Diluted net income or loss per LPU is computed based on the weighted average number of units plus the effect of dilutive potential units outstanding during the period using the two-class method. Dilutive potential units include outstanding awards under our Long-Term Incentive Plan. The dilutive effect of unit-based awards was   940   and   4,461   equivalent units during the   three months ended September 30, 2016   and   2015  , respectively, and   1,161   and   8,770   equivalent units during the   nine months ended     September 30, 2016  , and   2015   respectively. 
+   
+  14  . Commitments and Contingent Liabilities  
+  Litigation     We are not a party to any significant legal proceedings, but are a party to various administrative and regulatory proceedings and commercial disputes that have arisen in the ordinary course of our business. Management currently believes that the ultimate resolution of the foregoing matters, taken as a whole, and after consideration of amounts accrued, insurance coverage or other indemnification arrangements, will not have a material adverse effect on our condensed consolidated results of operations, financial position, or cash flow. 
+  Insurance     We have renewed or extended our insurance policies for the 2016-2017 insurance year. We contract with third party insurers for: (1) automobile liability insurance for all owned, non-owned and hired vehicles; (2) general liability insurance; (3) excess liability insurance above the established primary limits for general liability and automobile liability insurance; (4) property insurance, which covers replacement value of real and personal property and includes business interruption/extra expense; and (5) directors and officers insurance for acts related to our business activities. We are jointly insured with DCP Midstream, LLC for a portion of the insurance placed.  These renewals or extensions have not resulted in any material change to the premiums we are contracted to pay. All coverage is subject to certain limits and deductibles, the terms and conditions of which management believes are common for companies that are of similar size to us and with similar types of operations. 
+  The insurance on Discovery, as placed by Williams Field Service Group LLC, for the 2016-2017 insurance year includes general and excess liability, onshore property damage, including named windstorm and business interruption, and offshore non-wind property and business interruption insurance. We believe offshore named windstorm property and business interruption insurance that is available comes at uneconomic premium levels, high deductibles and low coverage limits. As such, Discovery continues to elect not to purchase offshore named windstorm property and business interruption insurance coverage for the 2016-2017 insurance year. 
+  Environmental       The operation of pipelines, plants and other facilities for gathering, transporting, processing, treating, or storing natural gas, NGLs and other products is subject to stringent and complex laws and regulations pertaining to health, safety and the environment. As an owner or operator of these facilities, we must comply with laws and regulations at the federal, state and in some cases local levels that relate to worker safety, air and water quality, solid and hazardous waste management and disposal, and other environmental matters. The cost of planning, designing, constructing and operating pipelines, plants, and other facilities incorporates compliance with environmental laws and regulations and safety standards. In addition, there is increasing focus (i) from city, state and federal regulatory officials and through litigation, on hydraulic fracturing and the real or perceived environmental impacts of this technique, which indirectly presents some risk to our available supply of natural gas and the resulting supply of NGLs, (ii) from federal regulatory agencies regarding pipeline  
+  
+   25 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+system safety which could impose additional regulatory burdens and increase the cost of our operations, and (iii) from state and federal regulatory officials regarding the emission of greenhouse gases which could impose regulatory burdens and increase the cost of our operations. Failure to comply with these various health, safety and environmental laws and regulations may trigger a variety of administrative, civil and potentially criminal enforcement measures, including citizen suits, which can include the assessment of monetary penalties, the imposition of remedial requirements, and the issuance of injunctions or restrictions on operation. Management believes that, based on currently known information, compliance with these existing laws and regulations will not have a material adverse effect on our condensed consolidated results of operations, financial position or cash flows.    
+
+15  . Business Segments 
+  Our operations are located in the United States and are organized into   three   reporting segments: Natural Gas Services; NGL Logistics; and Wholesale Propane Logistics. Our chief operating decision maker regularly reviews financial information about our operating segments, which are aggregated into the reporting units presented, in deciding how to allocate resources and evaluate performance. 
+  Natural Gas Services     Our Natural Gas Services segment provides services that include gathering, compressing, treating, processing, transporting and storing natural gas, and fractionating NGLs. The segment consists of our Eagle Ford system, East Texas system, Southeast Texas system, Michigan system, Northern Louisiana system, Southern Oklahoma system, Wyoming system, DJ Basin system,   75%   interest in the Piceance system and   40%   interest in Discovery. 
+  NGL Logistics     Our NGL Logistics segment provides services that include transportation, storage and fractionation of NGLs. The segment consists of our storage facility in Michigan, the DJ Basin fractionators,   12.5%   interest in the Mont Belvieu Enterprise fractionator,   20%   interest in the Mont Belvieu 1 fractionator,   10%   interest in the Texas Express intrastate pipeline,   15%   interest in the Panola intrastate pipeline,   33.33%   interests in the Southern Hills, Sand Hills and Front Range pipelines, the Black Lake and Wattenberg interstate pipelines and the Seabreeze and Wilbreeze intrastate pipelines. 
+  Wholesale Propane Logistics     Our Wholesale Propane Logistics segment provides services that include the receipt of propane and other liquefied petroleum gases by pipeline, rail or ship to our terminals that store and deliver the product to distributors. The segment consists of six rail terminals, one marine terminal, one pipeline terminal and access to several open-access pipeline terminals. 
+  These segments are monitored separately by management for performance against our internal forecast and are consistent with internal financial reporting. These segments have been identified based on the differing products and services, regulatory environment and the expertise required for these operations. Gross margin is a performance measure utilized by management to monitor the operations of each segment. 
+
+26 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+The following tables set forth our segment information:    
+    
+  Three Months Ended September 30, 2016   
+
+Three Months Ended September 30, 2015   
+
+27 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+Nine Months Ended September 30, 2016  :    
+
+28 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+Nine Months Ended September 30, 2015  : 
+
+(a) 
+    Gross margin consists of total operating revenues, including commodity derivative activity, less purchases of natural gas, propane and NGLs. Gross margin is viewed as a non-GAAP measure under the rules of the SEC, but is included as a supplemental disclosure because it is a primary performance measure used by management as it represents the results of product sales versus product purchases. As an indicator of our operating performance, gross margin should not be considered an alternative to, or more meaningful than, net income or cash flow as determined in accordance with GAAP. Our gross margin may not be comparable to a similarly titled measure of another company because other entities may not calculate gross margin in the same manner. 
+              (b) 
+    Non-cash commodity derivative mark-to-market is included in gross margin, along with cash settlements for our commodity derivative contracts. 
+              (c) 
+    Other long-term assets not allocable to segments consist of unrealized gains on derivative instruments, corporate leasehold improvements and other long-term assets. 
+
+29 
+
+DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+16. Supplemental Cash Flow Information 
+
+Nine Months Ended September 30, 
+        
+    2016 
+      
+    2015 
+        
+    (Millions) 
+      Cash paid for interest: 
+
+Cash paid for interest, net of amounts capitalized 
+    $ 
+    53 
+
+$ 
+    51 
+      
+      Cash paid for income taxes, net of income tax refunds 
+    $ 
+    2 
+
+$ 
+    3 
+      
+      Non-cash investing and financing activities: 
+
+Property, plant and equipment acquired with accounts payable 
+    $ 
+    1 
+
+$ 
+    18 
+      
+      Other non-cash changes in property, plant and equipment 
+    $ 
+    (8 
+    ) 
+      
+    $ 
+    (1 
+    ) 
+
+17. Supplementary Information   Condensed Consolidating Financial Information 
+  The following condensed consolidating financial information presents the results of operations, financial position and cash flows of DCP Midstream Partners, LP, or parent guarantor, DCP Midstream Operating LP, or subsidiary issuer, which is a   100%   owned subsidiary, and non-guarantor subsidiaries, as well as the consolidating adjustments necessary to present DCP Midstream Partners, LP s results on a consolidated basis. The parent guarantor has agreed to fully and unconditionally guarantee debt securities of the subsidiary issuer. For the purpose of the following financial information, investments in subsidiaries are reflected in accordance with the equity method of accounting. The financial information may not necessarily be indicative of results of operations, cash flows, or financial position had the subsidiaries operated as independent entities. 
+
+30 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+31 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+32 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+Condensed Consolidating Statement of Comprehensive Income 
+        
+    Three Months Ended September 30, 2016 
+        
+    Parent 
+  Guarantor 
+      
+    Subsidiary 
+  Issuer 
+      
+    Non-Guarantor 
+  Subsidiaries 
+      
+    Consolidating 
+  Adjustments 
+      
+    Consolidated 
+        
+    (Millions) 
+      Net income 
+    $ 
+    120 
+
+$ 
+    120 
+
+$ 
+    143 
+
+$ 
+    (263 
+    ) 
+      
+    $ 
+    120 
+      
+      Other comprehensive income: 
+
+Reclassification of cash flow hedge losses into earnings 
+
+Other comprehensive income from consolidated subsidiaries 
+
+Total other comprehensive income 
+
+Total comprehensive income 
+    120 
+
+120 
+
+143 
+
+(263 
+    ) 
+      
+    120 
+      
+      Total comprehensive income attributable to noncontrolling interests 
+
+Total comprehensive income attributable to partners 
+    $ 
+    120 
+
+$ 
+    120 
+
+$ 
+    143 
+
+$ 
+    (263 
+    ) 
+      
+    $ 
+    120 
+
+33 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+Condensed Consolidating Statement of Comprehensive Income 
+        
+    Three Months Ended September 30, 2015 
+        
+    Parent 
+  Guarantor 
+      
+    Subsidiary 
+  Issuer 
+      
+    Non-Guarantor 
+  Subsidiaries 
+      
+    Consolidating 
+  Adjustments 
+      
+    Consolidated 
+        
+    (Millions) 
+      Net income 
+    $ 
+    71 
+
+$ 
+    71 
+
+$ 
+    97 
+
+$ 
+    (167 
+    ) 
+      
+    $ 
+    72 
+      
+      Other comprehensive income: 
+
+Reclassification of cash flow hedge losses into earnings 
+
+Other comprehensive income from consolidated subsidiaries 
+
+Total other comprehensive income 
+
+Total comprehensive income 
+    71 
+
+71 
+
+97 
+
+(167 
+    ) 
+      
+    72 
+      
+      Total comprehensive income attributable to noncontrolling interests 
+
+(1 
+    ) 
+
+(1 
+    ) 
+      Total comprehensive income attributable to partners 
+    $ 
+    71 
+
+$ 
+    71 
+
+$ 
+    96 
+
+$ 
+    (167 
+    ) 
+      
+    $ 
+    71 
+
+34 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+35 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+36 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+37 
+
+    DCP MIDSTREAM PARTNERS, LP 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  Three and Nine Months Ended September 30, 2016 and 2015 - (Continued) 
+  (Unaudited) 
+
+18. Subsequent Events 
+  On   October 27, 2016  , we announced that the board of directors of the General Partner declared a quarterly distribution of   $0.78   per unit. The distribution is payable on   November 14, 2016   to unitholders of record on   November 8, 2016  . 
+  
+   38 
+
+Item 2.     Management s Discussion and Analysis of Financial Condition and Results of Operations 
+    
+  The following discussion analyzes our financial condition and results of operations. You should read the following discussion of our financial condition and results of operations in conjunction with our condensed consolidated financial statements and notes included elsewhere in this Quarterly Report on Form 10-Q and the consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+
+Overview 
+  We are a Delaware limited partnership formed by DCP Midstream, LLC to own, operate, acquire and develop a diversified portfolio of complementary midstream energy assets. Our operations are organized into three business segments: Natural Gas Services, NGL Logistics and Wholesale Propane Logistics. 
+  Our business is impacted by commodity prices and volumes. We mitigate a portion of commodity price risk on an overall Partnership basis by growing our fee based assets and through a hedging program on volumes of throughput and sales of natural gas, NGLs and condensate. Various factors impact both commodity prices and volumes, and as indicated in Item 3. "Quantitative and Qualitative Disclosures about Market Risk," we have sensitivities to certain cash and non-cash changes in commodity prices.   If commodity prices remain weak for a sustained period, our natural gas throughput and NGL volumes may be impacted, particularly as producers are curtailing or redirecting drilling. Drilling activity levels vary by geographic area, but in general, we have observed widespread decreases in drilling activity with lower commodity prices.   The number of active oil and gas drilling rigs in the United States has significantly decreased, from   698   on December 31, 2015 to   521   on September 30, 2016 (Source: Baker Hughes). We will continue to target our strategy in geographic areas where we expect producer activity. 
+  A sustained declined in commodity prices has resulted in a decrease in exploration and development activities in certain fields served by our gas gathering and residue gas and NGL pipeline transportation systems, and our natural gas processing and treating plants, which could lead to reduced utilization of these assets.  Our assets in our Eagle Ford and East Texas systems have been impacted by commodity prices resulting in reduced utilization of these assets. Although we have seen a number of recent bankruptcies by producers, we believe our contract structure with our producers protects us from a credit perspective since we generally hold the product, sell it and withhold our fees prior to remittance of payments to the producer. Currently our top 20 producers account for a majority of the total natural gas that we gather and process and of these top 20 producers, seven are investment grade and the remainder are not investment grade. Despite current weakness, our long-term view is that commodity prices will be at levels that we believe will support growth in natural gas, condensate and NGL production. We believe that future commodity prices will be influenced by North American supply deliverability, the severity of winter and summer weather, the level of North American production and drilling activity by exploration and production companies and the balance of trade between imports and exports of liquid natural gas, NGLs and crude oil. 
+  NGL prices are impacted by the demand from petrochemical and refining industries and export facilities. The petrochemical industry has been making significant investment in building and expanding facilities to convert chemical plants from a heavier oil-based feedstock to lighter NGL-based feedstocks, including ethane. This increased demand in future years should provide support for the increasing supply of ethane. Prior to those facilities commencing operations, ethane prices could remain weak with supply in excess of demand. In addition, export facilities are being expanded and built, which provide support for the increasing supply of NGLs. Although there can be, and has been, volatility in NGL prices, longer term we believe there will be sufficient demand in NGLs to support increasing supply.  
+  In addition to the U.S. financial markets, many businesses and investors continue to monitor global economic conditions. Uncertainty abroad may contribute to volatility in domestic financial and commodity markets. In addition, we are experiencing a period of sustained lower commodity prices. 
+  We believe we are positioned to withstand current and future commodity price volatility as a result of the following: 
+             
+    Our growing fee-based business represents a significant portion of our estimated margins. 
+                
+    We have positive operating cash flow from our well-positioned and diversified assets. 
+                
+    We have a well defined and targeted hedging program. 
+                
+    We prudently manage our capital expenditures and focus on fee-based growth projects. 
+                
+    We believe we have a strong capital structure and balance sheet. 
+                
+    We believe we have access to sufficient capital. 
+     
+   39 
+
+Increased activity levels in liquids rich gas basins combined with access to capital markets at relatively low costs have historically enabled us to execute our growth strategy. Our targeted strategy may take numerous forms such as organic build opportunities within our footprint, dropdown opportunities from DCP Midstream, LLC, joint venture opportunities, and third-party acquisitions. Growth opportunities will be evaluated in cooperation with producers based on the expected level of drilling activity in these geographic regions and the impacts of higher costs of capital. 
+    
+  Some of our growth projects include the following: 
+             
+    The Sand Hills pipeline mainline capacity expansion was placed into service during the second quarter of 2016. 
+                
+    On February 1, 2016, we began to participate in earnings for our 15% interest in the Panola intrastate NGL pipeline which completed an expansion in the third quarter of 2016. 
+                
+    In the first quarter of 2016, we completed construction on our Grand Parkway gathering system in the DJ Basin. 
+     As part of our ongoing effort to create efficiencies, reduce costs and transform our business, DCP Midstream, LLC, the operator of our assets, announced an approximate 10 percent headcount reduction in April 2016, which involved the elimination of certain operational and corporate positions. This will not impact the operation of our assets. 
+  On April 28, 2016, the unitholders of the Partnership approved the DCP Midstream Partners, LP 2016 Long-Term Incentive Plan (the  2016 plan ), which replaced the 2005 long-term incentive plan that expired pursuant to its terms at the end of 2015 (the  2005 plan ).  Any outstanding awards under the 2005 plan will remain outstanding and settle according to the terms of such grant.  The 2016 plan authorizes up to 900,000 common units to be available for issuance under awards to employees, officers, and non-employee directors of the General Partner and its affiliates.  Awards under the 2016 plan may include unit options, phantom units, restricted units, distribution equivalent rights, unit bonuses, common unit awards, and performance awards.  The 2016 plan will expire on the earlier of the date it is terminated by the board of directors of the General Partner or the date that all common units available under the plan have been paid or issued.  We believe the 2016 plan is an important tool to attract and retain qualified individuals who are essential to the future success of the Partnership.   
+  We announced a quarterly distribution of   $0.78   per unit for the   third quarter   of   2016  . This distribution remains unchanged from the previous quarter and the   third quarter   of   2015  . 
+
+General Trends and Outlook 
+  During 2016, our strategic objectives will continue to focus on maintaining stable distributable cash flows from our existing assets and executing on opportunities to sustain our long-term distributable cash flows. We believe the key elements to stable distributable cash flows are the diversity of our asset portfolio, our fee-based business which represents a significant portion of our estimated margins, plus our hedged commodity position, the objective of which is to protect against downside risk in our distributable cash flows. 
+  We incur capital expenditures for our consolidated entities and our unconsolidated affiliates. Our 2016 plan includes maintenance capital expenditures of between $10 million and $15 million, and approved expansion capital expenditures between   $75 million   and   $150 million  , for the year ending December 31, 2016. For the nine months ended September 30, 2016 our actual maintenance and expansion capital expenditures were   $6 million   and $45 million, respectively, which were lower than our 2016 plan on an annualized basis.   Expansion capital expenditures include the expansion of the Sand Hills pipeline, expansion of the Panola pipeline, which are shown as an investment in unconsolidated affiliates in our condensed consolidated statements of cash flows and the completion of the construction of the Grand Parkway gathering project.    
+  For an in-depth discussion of factors that may significantly affect our results, see Item 7.  Management s Discussion and Analysis of Financial Condition and Results of Operations   Factors That May Significantly Affect Our Results  included in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+
+40 
+
+Critical Accounting Policies and Estimates 
+        Our critical accounting policies and estimates are described in Critical Accounting Policies and Estimates within Item 7. "Management's Discussion and Analysis of Financial Condition and Results of Operations" and Note 2 of the Notes to Consolidated Financial Statements in Item 8.  Financial Statements and Supplementary Data  in our Annual Report on Form 10-K for the year ended   December 31, 2015  . The accounting policies and estimates used in preparing our interim condensed consolidated financial statements for the three and   nine months ended     September 30, 2016   are the same as those described in our Annual Report on Form 10-K for the year ended   December 31, 2015  . Certain information and note disclosures normally included in our annual financial statements prepared in accordance with GAAP have been condensed or omitted from the interim financial statements included in this Quarterly Report on Form 10-Q pursuant to the rules and regulations of the SEC, although we believe that the disclosures made are adequate to make the information not misleading. The unaudited condensed consolidated financial statements and other information included in this Quarterly Report on Form 10-Q should be read in conjunction with the audited consolidated financial statements and notes thereto in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+
+41 
+
+Results of Operations 
+  Consolidated Overview 
+  The following table and discussion is a summary of our condensed consolidated results of operations for the three and   nine months ended     September 30, 2016  , and   2015  . The results of operations by segment are discussed in further detail following this consolidated overview discussion. 
+
+_________________         
+  * Percentage change is not meaningful. 
+    
+           (a) 
+    Operating revenues include the impact of commodity derivative activity. 
+     
+   42 
+
+(b) 
+    Earnings for Discovery, Sand Hills, Southern Hills, Front Range, Mont Belvieu 1 and Texas Express include the amortization of the net difference between the carrying amount of the investments and the underlying equity of the entities. 
+              (c) 
+    Gross margin consists of total operating revenues, including commodity derivative activity, less purchases of natural gas, propane and NGLs. Segment gross margin for each segment consists of total operating revenues for that segment, including commodity derivative activity, less commodity purchases for that segment. Please read  Reconciliation of Non-GAAP Measures . 
+              (d) 
+    For entities not wholly-owned by us, includes our share, based on our ownership percentage, of the throughput volumes and NGL production.  
+       
+  Three months ended September 30, 2016   vs.   Three months ended September 30, 2015    
+    
+  Total Operating Revenues     Total operating revenues   decreased     $93 million   in   2016   compared to   2015   primarily as a result of the following: 
+             
+    $90 million     decrease   for our Natural Gas Services segment primarily due to unfavorable commodity derivative activity, lower gas and NGL sales volumes primarily related to our Eagle Ford and East Texas systems which impact both sales and purchases, the disposition of our Northern Louisiana system, and lower volumes at our natural gas storage and pipeline assets, partially offset by growth in our DJ Basin system; and 
+                
+    $3 million     decrease   for our Wholesale Propane Logistics segment   primarily as a result of decreased volumes and commodity derivative activity, partially offset by higher propane prices which impact both sales and purchases  . 
+     Total Purchases     Total purchases decreased   $51 million   in   2016   compared to   2015   primarily as a result of the following:  
+             
+    Purchases of natural gas and NGLs   decreased     $52 million   in   2016   compared to   2015   as a result of lower gas and NGL sales volumes, primarily related to our Eagle Ford and East Texas systems, which impact both sales and purchases; and  
+                
+    Purchases of propane   increased   in   2016   compared to   2015   primarily due to higher propane prices which impact both sales and purchases. 
+     Operating and Maintenance Expense     Operating and maintenance expense decreased in   2016   compared to   2015   primarily as a result of improved operating efficiencies, other cost savings initiatives, the disposition of our Northern Louisiana system and timing of expenditures. 
+  Goodwill impairment    Goodwill impairment expense in 2015 represents impairment of our Collbran reporting unit. 
+  Earnings from Unconsolidated Affiliates     Earnings from unconsolidated affiliates   increased   in   2016   compared to   2015   primarily as a result of higher pipeline throughput volumes on Southern Hills and Sand Hills due to growth in NGL production from new plants placed into service in 2015 and higher earnings on Panola pipeline beginning in February 2016.  
+  Gain on Sale of Assets     A gain on the sale of our Northern Louisiana system was recognized in the third quarter of 2016.    
+  Net Income Attributable to Partners     Net income attributable to partners   increased   in   2016   compared to   2015   for the reasons discussed above. 
+  Gross Margin     Gross margin   decreased     $42 million   in   2016   compared to   2015   primarily due to a   $38 million     decrease   for our Natural Gas Services segment primarily related to unfavorable commodity derivative activity, lower gas and NGL volumes on our Eagle Ford and East Texas systems, and the disposition of our Northern Louisiana system, partially offset by growth in our DJ Basin system related to Lucerne 2 being placed into service mid-2015. 
+
+Nine months ended September 30, 2016   vs.   Nine months ended September 30, 2015    
+    
+  Total Operating Revenues     Total operating revenues   decreased   $  364 million   in   2016   compared to   2015   primarily as a result of the following: 
+  
+   43 
+
+$303 million     decrease   for our Natural Gas Services segment primarily due to decreased commodity prices, lower gas and NGL sales volumes primarily related to our Eagle Ford and East Texas systems which impact both sales and purchases, lower prices and volumes at our natural gas storage and pipeline assets, unfavorable commodity derivative activity and the disposition of our Northern Louisiana system, partially offset by growth in our DJ Basin system; and 
+                
+    $64 million     decrease   for our Wholesale Propane Logistics segment primarily due to lower propane volumes and prices. 
+     Total Purchases     Total purchases decreased   $297 million   in   2016   compared to   2015   primarily as a result of the following:  
+             
+    Purchases of natural gas and NGLs   decreased     $251 million   in   2016   compared to   2015   as a result of decreased commodity prices and lower gas and NGL sales volumes, primarily related to our Eagle Ford and East Texas systems, and decreased volumes at our natural gas storage and pipeline assets, which impact both sales and purchases; and  
+                
+    Purchases of propane   decreased   in   2016   compared to   2015   primarily due to decreased volumes as discussed below under the heading "Propane Sales Volumes" and lower propane prices which impact both sales and purchases. 
+     Operating and Maintenance Expense     Operating and maintenance expense decreased in   2016   compared to   2015   primarily as a result of improved operating efficiencies, other cost savings initiatives, the disposition of our Northern Louisiana system and timing of expenditures. 
+  Goodwill impairment    Goodwill impairment expense in 2015 represents impairment of our Collbran, Michigan and Southeast Texas reporting units. 
+  Earnings from Unconsolidated Affiliates     Earnings from unconsolidated affiliates   increased   in   2016   compared to   2015   primarily as a result of the completion of the Keathley Canyon project at Discovery in February 2015 in our Gas Services segment and increased volumes on our Sand Hills, Southern Hills and Front Range pipelines in our NGL Logistics segment. 
+  Gain on Sale of Assets     A gain on the sale of our Northern Louisiana system was recognized in the third quarter of 2016.    
+  Net Income Attributable to Partners     Net income attributable to partners   increased   in   2016   compared to   2015   for the reasons discussed above. 
+  Gross Margin     Gross margin   decreased     $67 million   in   2016   compared to   2015   primarily as a result of the following: 
+  
+   44 
+
+$52 million     decrease   for our Natural Gas Services segment primarily related to unfavorable commodity derivative activity, lower commodity prices, and lower gas and NGL volumes on our Eagle Ford and East Texas systems and the disposition of our Northern Louisiana system, partially offset by growth in our DJ Basin system related to Lucerne 2 being placed into service mid-2015; and 
+                
+    $18 million     decrease   for our Wholesale Propane Logistics segment primarily due to lower volumes as discussed below under the heading "Propane Sales Volumes" and a partial recovery of lower of cost or market inventory adjustments during the first quarter of 2015. 
+     Results of Operations   Natural Gas Services Segment 
+
+(a) 
+    For entities not wholly-owned by us, includes our share, based on our ownership percentage, of the throughput volumes and NGL production. 
+              (b) 
+    Represents an asset operated by a third party. 
+
+45 
+
+The results of operations for our Natural Gas Services segment are as follows:   
+
+  _________________         
+  * Percentage change is not meaningful. 
+    
+           (a) 
+    For entities not wholly-owned by us, includes our share, based on our ownership percentage, of the earnings of all unconsolidated affiliates which include our 40% ownership of Discovery. Earnings for Discovery include the amortization of the net difference between the carrying amount of our investment and the underlying equity of the entity. 
+              (b) 
+    Segment gross margin consists of total operating revenues, including commodity derivative activity, less purchases of natural gas and NGLs. Please read  Reconciliation of Non-GAAP Measures . 
+              (c) 
+    For entities not wholly-owned by us, includes our share, based on our ownership percentage, of the throughput volumes and NGL production.  
+
+46 
+
+Three Months Ended September 30, 2016   vs.   Three Months Ended September 30, 2015    
+    
+  Total Operating Revenues     Total operating revenues   decreased   $  90 million   in   2016   compared to   2015  , primarily as a result of the following:  
+             
+    $54 million     decrease   attributable to lower gas and NGL sales volumes, primarily related to production declines in our Eagle Ford and East Texas systems and the disposal of our Northern Louisiana system, which impact both sales and purchases; 
+                
+    $37 million     decrease   as a result of commodity derivative activity attributable to a $44 million decrease in realized cash settlement gains in 2016, partially offset by a decrease in unrealized commodity derivative losses of $7 million due to movements in forward prices of commodities. Both cash settlements gains and unrealized commodity derivative losses were significantly impacted by the expiration of a substantial portion of our direct commodity hedges at the end of the first quarter of 2016;  
+                
+    $3 million decrease attributable to decreased volumes partially offset by increased prices related to our natural gas storage and pipeline assets at our Southeast Texas system.  
+     These decreases were partially offset by: 
+             
+    $4 million     increase   in Transportation, processing and other, comprised of a $14 million increase in our DJ Basin system related to Lucerne 2 being placed into service in mid-2015 and Grand Parkway placed into service in January 2016, partially offset by a $10 million decrease related to lower volumes on our Eagle Ford and East Texas systems and the disposal of our Northern Louisiana system. 
+     Purchases of Natural Gas and NGLs     Purchases of natural gas and NGLs   decreased     $52 million   in   2016   compared to   2015   as a result of lower gas and NGL sales volumes, primarily related to our Eagle Ford and East Texas systems, which impact both sales and purchases, partially offset by increased commodity prices. 
+  Operating and Maintenance Expense     Operating and maintenance expense decreased in   2016   compared to   2015   primarily as a result of improved operating efficiencies, other cost savings initiatives, the disposition of our Northern Louisiana system and timing of expenditures. 
+  Goodwill impairment    Goodwill impairment expense in 2015 represents impairment of our Collbran reporting unit. 
+  Other expense    Other expense consists primarily of a write off of construction work in progress for discontinued projects. 
+  Gain on Sale of Assets     A gain on the sale of our Northern Louisiana system was recognized in the third quarter of 2016.    
+  Net Income Attributable to Partners     Net income attributable to partners   increased   in   2016   compared to   2015   for the reasons discussed above. 
+  Segment Gross Margin     Segment gross margin   decreased     $38 million   in   2016   compared to   2015  , primarily as a result of the following: 
+             
+    $37 million     decrease   as a result of commodity derivative activity as discussed above;  
+                
+    $11 million decrease as a result of production declines in our Eagle Ford, East Texas and Southeast Texas systems; and 
+                
+    $7 million decrease as a result of the disposition of our Northern Louisiana system. 
+     These decreases were partially offset by: 
+             
+    $14 million   increase   primarily as a result of higher fee revenue in our DJ Basin system related to Lucerne 2 being placed into service in mid-2015, and Grand Parkway placed into service in January 2016; and  
+                
+    $3 million increase primarily related to commercial activities at our Southeast Texas natural gas storage asset. 
+
+47 
+
+Natural Gas Throughput     Natural gas throughput   decreased   in   2016   compared to   2015   primarily as a result of (i) the disposition of our Northern Louisiana system (ii) lower volumes at our Eagle Ford and East Texas systems, and (iii) producer downtime at Discovery, partially offset by the completion and ramp-up of the Lucerne 2 plant in our DJ Basin system which commenced operations in mid-2015. 
+  NGL Gross Production     NGL production   decreased   in   2016   compared to   2015   primarily as a result of  lower volumes at our Eagle Ford and East Texas systems, partially offset by the completion and ramp-up of the Lucerne 2 plant in our DJ Basin system which commenced operations in June 2015. 
+    
+  Nine Months Ended September 30, 2016   vs.   Nine Months Ended September 30, 2015    
+  Total Operating Revenues     Total operating revenues   decreased     $303 million   in   2016   compared to   2015  , primarily as a result of the following:  
+             
+    $120 million     decrease   attributable to lower gas and NGL sales volumes, primarily related to production declines in our Eagle Ford and East Texas systems, which impact both sales and purchases; 
+                
+    $115 million     decrease   attributable to decreased commodity prices, which impact both sales and purchases, before the impact of commodity derivative activity; 
+                
+    $60 million     decrease   as a result of commodity derivative activity attributable to an $86 million decrease in realized cash settlement gains in 2016, partially offset by a decrease in unrealized commodity derivative losses of $26 million due to movements in forward prices of commodities. Both cash settlements gains and unrealized commodity derivative losses were significantly impacted by the expiration of a substantial portion of our direct commodity hedges at the end of the first quarter of 2016;  
+                
+    $24 million     decrease   attributable to decreased prices related to our natural gas storage and pipeline assets at our Southeast Texas system and Northern Louisiana system prior to the disposition on July 1, 2016;  
+                
+    $16 million decrease related to the disposition of our Northern Louisiana system; and  
+                
+    $12 million decrease attributable to decreased volumes related to our natural gas storage and pipeline assets at our Southeast Texas system, partially offset by increased volumes at our Northern Louisiana system prior to the disposition on July 1, 2016, which impacts both purchases and sales. 
+     These decreases were partially offset by: 
+             
+    $44 million     increase   in Transportation, processing and other, comprised of a $52 million increase primarily in our DJ Basin system related to Lucerne 2 being placed into service in mid-2015 and Grand Parkway placed into service in January 2016, partially offset by a $8 million decrease primarily related to lower volumes on our Eagle Ford and East Texas systems and the disposal of our Northern Louisiana system. 
+     Purchases of Natural Gas and NGLs     Purchases of natural gas and NGLs   decreased     $251 million   in   2016   compared to   2015   as a result of decreased commodity prices and lower gas and NGL sales volumes, primarily related to our Eagle Ford and East Texas systems, decreased volumes at our natural gas storage and pipeline assets and the disposition of our Northern Louisiana system which impact both sales and purchases. 
+  Operating and Maintenance Expense     Operating and maintenance expense decreased in   2016   compared to   2015   primarily attributable to improved operating efficiencies, other cost savings initiatives, the disposition of our Northern Louisiana system, and timing of expenditures. 
+  Goodwill impairment    Goodwill impairment expense in 2015 represents impairment of our Collbran, Michigan and Southeast Texas reporting units. 
+  Earnings from Unconsolidated Affiliates     Earnings from unconsolidated affiliates   increased   in   2016   compared to   2015   primarily as a result of the completion of the Keathley Canyon project at Discovery in February 2015. 
+  Gain on Sale of Assets     A gain on the sale of our Northern Louisiana system was recognized in the third quarter of 2016.    
+  Net Income Attributable to Partners     Net income attributable to partners   increased   in   2016   compared to   2015   for the reasons discussed above. 
+  
+   48 
+
+Segment Gross Margin     Segment gross margin   decreased     $52 million   in   2016   compared to   2015  , primarily as a result of the following: 
+             
+    $60 million     decrease   as a result of commodity derivative activity as discussed above; 
+                
+    $23 million     decrease   as a result of lower commodity prices; 
+                
+    $20 million   decrease   as a result of lower gas and NGL volumes primarily related to our Eagle Ford, East Texas and Southeast Texas systems; and 
+                
+    $7 million decrease as a result of the disposition of our Northern Louisiana system. 
+     These decreases were partially offset by: 
+             
+    $52 million   increase   primarily as a result of higher fee revenue in our DJ Basin system related to Lucerne 2 being placed into service in mid-2015, and Grand Parkway placed into service in January 2016; and 
+                
+    $6 million increase primarily related to commercial activities at our Southeast Texas natural gas storage asset. 
+     Natural Gas Throughput     Natural gas throughput decreased in 2016 compared to 2015 reflecting lower volumes primarily from (i) our Eagle Ford and East Texas systems and (ii) the disposition of our Northern Louisiana system, which were partially offset by the completion and ramp-up of the Lucerne 2 plant in our DJ Basin system which commenced operations in June 2015.  
+  NGL Gross Production     NGL production remained relatively flat in   2016   compared to   2015   primarily as a result of the completion and ramp-up of the Lucerne 2 plant in our DJ Basin system which commenced operations in mid-2015, offset by lower volumes at our Eagle Ford and East Texas systems. 
+  Results of Operations   NGL Logistics Segment 
+
+(a) 
+    For entities not wholly-owned by us, includes our share, based on our ownership percentage, of the throughput volumes and NGL production. 
+              (b) 
+    Represents an asset operated by a third party. 
+              (c) 
+    Includes our 15% interest in Panola and our 100% interest in Seabreeze, and Wilbreeze NGL pipelines. 
+
+49 
+
+The results of operations for our NGL Logistics segment are as follows: 
+
+(a) 
+    For entities not wholly-owned by us, includes our share, based on our ownership percentage, of the earnings of all unconsolidated affiliates which include our  33.33% ownership in each of the Sand Hills and Southern Hills pipelines, 33.33% ownership of the Front Range pipeline, 20% ownership of the Mont Belvieu 1 fractionator, 15% interest in the Panola intrastate pipeline, 12.5% ownership of the Mont Belvieu Enterprise fractionator and 10% ownership of the Texas Express pipeline. Earnings for Sand Hills, Southern Hills, Front Range, Mont Belvieu 1 and Texas Express include the amortization of the net difference between the carrying amount of our investments and the underlying equity of the entities. 
+              (b) 
+    For entities not wholly-owned by us, includes our share, based on our ownership percentage, of the throughput volumes of unconsolidated affiliates. 
+       
+  Three Months Ended September 30, 2016   vs.   Three Months Ended September 30, 2015    
+    
+  Operating and Maintenance Expense    Operating and maintenance expense   increased   in   2016   compared to   2015   primarily as a result of maintenance at our NGL storage facility and timing of expenditures. 
+    
+  Earnings from Unconsolidated Affiliates     Earnings from unconsolidated affiliates   increased   in   2016   compared to   2015   primarily as a result of higher pipeline throughput volumes on Southern Hills and Sand Hills due to growth in NGL production from new plants placed into service in 2015 and higher earnings on Panola pipeline beginning in February 2016.  
+    
+  NGL Pipelines Throughput     NGL pipelines throughput   increased   in   2016   compared to   2015   primarily as a result of higher pipeline throughput volumes on Sand Hills, Southern Hills, and Front Range, due to growth in NGL production from new plants placed into service in 2015 and higher throughput volumes on Panola commencing February 2016, partially offset by decreased Black Lake short haul volumes. 
+
+Nine Months Ended September 30, 2016   vs.   Nine Months Ended September 30, 2015    
+    
+  Transportation, Processing and Other     Revenues from transportation processing and other   increased   in   2016   compared to   2015   as a result of new connections on certain of our NGL pipelines. 
+    
+  Operating and Maintenance Expense    Operating and maintenance expense   increased   in   2016   compared to   2015   primarily as a result of maintenance at our NGL storage facility and timing of expenditures. 
+  
+   50 
+
+Earnings from Unconsolidated Affiliates     Earnings from unconsolidated affiliates   increased   in   2016   compared to   2015   primarily as a result of higher pipeline throughput volumes on Southern Hills and Sand Hills, due to growth in NGL production from new plants placed into service in 2015, higher earnings on Panola pipeline beginning in February 2016 and higher fractionated volumes at both of our Mont Belvieu fractionators. 
+    
+  NGL Pipelines Throughput     NGL pipelines throughput   increased   in   2016   compared to   2015   primarily as a result of higher throughput volumes on Sand Hills, Southern Hills, Front Range, and Texas Express due to growth in NGL production from new plants placed into service in 2015 and higher throughput volumes on Panola commencing February 2016, partially offset by decreased Black Lake short haul volumes. 
+    
+  NGL Fractionators Throughput     NGL fractionators throughput   increased   in   2016   compared to   2015   as a result of higher volumes due to maintenance at our Mont Belvieu fractionators in the first quarter of 2015. 
+    
+  Results of Operations   Wholesale Propane Logistics Segment 
+    
+    The results of operations for our Wholesale Propane Logistics segment are as follows: 
+
+_________________         
+  * Percentage change is not meaningful. 
+    
+           (a) 
+    Segment gross margin consists of total operating revenues, including commodity derivative activity, less purchases of propane. Please read  Reconciliation of Non-GAAP Measures . 
+     Three Months Ended September 30, 2016   vs.   Three Months Ended September 30, 2015    
+  Total Operating Revenues     Total operating revenues   decreased   by   $3 million   in   2016   compared to   2015  ,   primarily as a result of decreased volumes and commodity derivative activity, partially offset by higher propane prices which impact both sales and purchases  . 
+  Net Income Attributable to Partners     Net income attributable to partners decreased in   2016   compared to   2015   for the reasons discussed above. 
+  Segment Gross Margin     Segment gross margin decreased in   2016   compared to   2015   primarily as a result of decreased unit margins, volumes and commodity derivative activity. 
+  
+   51 
+
+Nine Months Ended September 30, 2016   vs.   Nine Months Ended September 30, 2015    
+  Total Operating Revenues     Total operating revenues   decreased   by   $64 million   in   2016   compared to   2015  , primarily as a result of the following: 
+             
+    $37 million     decrease   attributable to decreased volumes as discussed below under the heading "Propane Sales Volumes"; 
+                
+    $25 million     decrease   attributable to lower propane prices which impact both sales and purchases; and 
+                
+    $2 million decrease as a result of commodity derivative activity attributable to a decrease in unrealized commodity derivative gains of $4 million due to movements in forward prices of commodities, partially offset by a $2 million decrease in realized cash settlement losses in 2016. 
+     Purchases of Propane     Purchases of propane   decreased   in   2016   compared to   2015   primarily due to decreased volumes as discussed below under the heading "Propane Sales Volumes" and lower propane prices which impact both sales and purchases. 
+  Net Income Attributable to Partners     Net income attributable to partners   decreased   in   2016   compared to   2015   for the reasons discussed above. 
+  Segment Gross Margin     Segment gross margin   decreased   in   2016   compared to   2015   primarily due to higher 2015 volumes as discussed below under the heading "Propane Sales Volumes" and a partial recovery of lower of cost or market inventory adjustments during the first quarter of 2015. 
+  Propane Sales Volumes     Propane sales volumes   decreased   in   2016   compared to   2015   primarily due to lower demand associated with warmer weather in 2016. 
+
+Liquidity and Capital Resources 
+  We expect our sources of liquidity to include: 
+             
+    cash generated from operations; 
+                
+    cash distributions from our unconsolidated affiliates; 
+                
+    borrowings under our Amended and Restated Credit Agreement; 
+                
+    debt offerings; 
+                
+    issuance of additional common units, including issuances we may make to DCP Midstream, LLC; 
+                
+    borrowings under term loans; and 
+                
+    letters of credit. 
+     We anticipate our more significant uses of resources to include: 
+             
+    quarterly distributions to our unitholders and general partner; 
+                
+    growth capital expenditures; 
+                
+    payments to service our debt; 
+                
+    contributions to our unconsolidated affiliates to finance our share of their capital expenditures; 
+                
+    business and asset acquisitions, including transactions with DCP Midstream, LLC; and 
+                
+    collateral with counterparties to our swap contracts to secure potential exposure under these contracts, which may, at times, be significant depending on commodity price movements, and letters of credit we have posted. 
+     We believe that cash generated from these sources will be sufficient to meet our short-term working capital requirements, long-term capital expenditure and acquisition requirements, and quarterly cash distributions for the next twelve months. 
+  We routinely evaluate opportunities for strategic investments or acquisitions. Future material investments or acquisitions may require that we obtain additional capital, assume third party debt or incur other long-term obligations. We have the option to utilize both equity and debt instruments as vehicles for the long-term financing of our investment activities and acquisitions. 
+  
+   52 
+
+Based on current and anticipated levels of operations, we believe we have adequate committed financial resources to conduct our ongoing business, although deterioration in our operating environment could limit our borrowing capacity, further impact our credit ratings, raise our financing costs, as well as impact our compliance with our financial covenant requirements under the Amended and Restated Credit Agreement and the indentures governing our notes. 
+  In May 2014, we entered into the Amended and Restated Credit Agreement, a $1.25 billion amended and restated senior unsecured revolving credit agreement that matures on May 1, 2019. Our borrowing capacity may be limited by the Amended and Restated Credit Agreement s financial covenant requirements. Except in the case of a default, which would make the borrowings under the Amended and Restated Credit Agreement fully callable, amounts borrowed under the Amended and Restated Credit Agreement will not mature prior to the May 1, 2019 maturity date. Further, our cost of borrowing under the Amended and Restated Credit Agreement is determined by a ratings-based pricing grid. In the first quarter of 2015, our credit rating was lowered below investment grade. As a result of this ratings action, interest rates under the Amended and Restated Credit Agreement increased. As of   September 30, 2016  , there was   $179 million   outstanding on the revolving credit facility under the Amended and Restated Credit Agreement. We had unused revolver capacity of   $1,070 million  , net of letters of credit, under the Amended and Restated Credit Agreement, all of which was available for general working capital purposes. As of   October 28, 2016  , we had   $151 million   of outstanding borrowings on the revolving credit facility and had approximately   $1,099 million  , net of letters of credit, of unused borrowing capacity under the Amended and Restated Credit Agreement.  
+  In April 2015, we filed a new shelf registration statement with the SEC, that became effective upon filing, in order to replace an existing shelf registration statement that was set to expire. As with the prior shelf registration statement, the new shelf registration statement also allows us to issue an unlimited amount of common units and debt securities. We have issued no common units or debt securities under this registration statement. 
+  During the   nine months ended     September 30, 2016  , we issued no common units pursuant to our 2014 equity distribution agreement. As of   September 30, 2016  , approximately   $349 million   of common units remained available for sale pursuant to our 2014 equity distribution agreement. 
+  Changes in natural gas, NGL and condensate prices and the terms of our processing arrangements have a direct impact on our generation and use of cash from operations due to their impact on net income, along with the resulting changes in working capital. We have mitigated a portion of our anticipated commodity price risk associated with the equity volumes from our gathering and processing activities through 2017 with fixed price commodity swaps. For additional information regarding our derivative activities, please read Item 3. "Quantitative and Qualitative Disclosures about Market Risk" contained herein. 
+  The counterparties to the majority of our commodity swap contracts are investment-grade rated financial institutions. Under these contracts, we may be required to provide collateral to the counterparties in the event that our potential payment exposure exceeds a predetermined collateral threshold. Collateral thresholds are set by us and each counterparty, as applicable, in the master contract that governs our financial transactions based on our and the counterparty s assessment of creditworthiness. The assessment of our position with respect to the collateral thresholds are determined on a counterparty by counterparty basis, and are impacted by the representative forward price curves and notional quantities under our swap contracts. Due to the interrelation between the representative crude oil and natural gas forward price curves, it is not practical to determine a pricing point at which our swap contracts will meet the collateral thresholds as we may transact multiple commodities with the same counterparty. Depending on daily commodity prices, the amount of collateral posted can go up or down on a daily basis. 
+  Working Capital     Working capital is the amount by which current assets exceed current liabilities. Current assets are reduced by our quarterly distributions, which are required under the terms of our partnership agreement based on Available Cash, as defined in the partnership agreement. In general, our working capital is impacted by changes in the prices of commodities that we buy and sell, inventory levels, and other business factors that affect our net income and cash flows. Our working capital is also impacted by the timing of operating cash receipts and disbursements, borrowings of and payments on debt, capital expenditures, and increases or decreases in other long-term assets. 
+  We had a working capital excess of   $3 million   and   $106 million   as of   September 30, 2016   and   December 31, 2015  , respectively. The change in working capital is primarily attributable to the factors described above. We had net derivative working capital of   $9 million   as of   September 30, 2016   as compared to   $87 million   as of   December 31, 2015  . We expect that our future working capital requirements will be impacted by these same recurring factors. 
+  As of   September 30, 2016  , we had   $2 million   in cash and cash equivalents. Of this balance,   $1 million   was held by consolidated subsidiaries we do not wholly own. Other than the cash balance held by these subsidiaries, this cash balance was available for general partnership purposes. 
+
+53 
+
+Cash Flow         Operating, investing and financing activities were as follows: 
+
+Nine Months Ended September 30, 2016   vs.   Nine Months Ended September 30, 2015 
+  Operating Activities     Net cash provided by operating activities   decreased     $38 million   in 2016 compared to 2015 primarily as a result of the following: 
+     $79 million     decrease   in cash attributable to higher net income in 2016, after adjusting our net income for the gain on the sale of our Northern Louisiana system in 2016 and other non-cash items; 
+     $12 million     decrease   in cash attributable to the timing of cash receipts and disbursements related to operations; and  
+     $53 million     increase   in cash distributions from unconsolidated affiliates primarily due to increased earnings. For additional information regarding fluctuations in our earnings from unconsolidated affiliates, please read "Results of Operations". 
+  Investing Activities     Net cash provided by investing activities   increase  d   $407 million   in 2016 compared to 2015 primarily as a result of the following: 
+     $217 million   decrease in capital expenditures attributable to the Lucerne 2 plant which started construction in April 2014 and was placed into service at the end of the second quarter of 2015, and the Grand Parkway gathering project which began construction in the first quarter of 2015 and was completed in the first quarter of 2016; 
+     $158 million   increase in proceeds received from the sale of our Northern Louisiana system assets; and 
+     $32 million     decrease   in cash contributions to our unconsolidated affiliates. In the nine months ended September 30, 2015, we primarily made contributions to the Keathley Canyon project at Discovery and to the expansion projects at our Sand Hills pipeline. In the nine months ended September 30, 2016, we primarily made contributions to the expansion projects at our Sand Hills pipeline and the construction of our Panola pipeline. 
+    
+  Financing Activities     Net cash used in financing activities   increased     $345 million   in 2016 compared to 2015 primarily as a result of the following: 
+    
+     $312 million     decrease   in net debt borrowings; 
+    
+     $31 million     decrease   in proceeds from the issuance of common units to the public. We issued no common units to the public during the   nine months ended     September 30, 2016   as compared to approximately 1 million common units that were issued during the   nine months ended     September 30, 2015  ; and 
+    
+     $1 million   increase in net distributions to noncontrolling interests primarily due to Collbran. 
+    
+  Capital Requirements     The midstream energy business can be capital intensive, requiring significant investment to maintain and upgrade existing operations. Our capital requirements have consisted primarily of, and we anticipate will continue to consist of the following: 
+             
+    maintenance capital expenditures, which are cash expenditures to maintain our cash flows, operating or earnings capacity. These expenditures add on to or improve capital assets owned, including certain system integrity, compliance and safety improvements. Maintenance capital expenditures also include certain well connects, and may include the acquisition or construction of new capital assets; and 
+                
+    expansion capital expenditures, which are cash expenditures to increase our cash flows, operating or earnings capacity. Expansion capital expenditures include acquisitions or capital improvements (where we add on to or improve the capital assets owned, or acquire or construct new gathering lines and well connects, treating facilities,  
+     
+   54 
+
+processing plants, fractionation facilities, pipelines, terminals, docks, truck racks, tankage and other storage, distribution or transportation facilities and related or similar midstream assets). 
+  We incur capital expenditures for our consolidated entities and our unconsolidated affiliates. We anticipate maintenance capital expenditures of between   $10 million   and $15 million, and approved expansion capital expenditures of between   $75 million   and   $150 million  , for the year ending December 31, 2016.   Expansion capital expenditures include the expansion of the Sand Hills pipeline, expansion of the Panola pipeline, which are shown as an investment in unconsolidated affiliates in our condensed consolidated statements of cash flows and the completion of the construction of the Grand Parkway gathering project.    
+  The following table summarizes our maintenance and expansion capital expenditures for our consolidated entities: 
+
+(a) 
+    Represents the noncontrolling interest and reimbursable portion of our capital expenditures. We have entered into agreements with third parties whereby we will be reimbursed for certain expenditures. Depending on the timing of these payments, we may be reimbursed prior to incurring the capital expenditure. 
+     In addition, we invested cash in unconsolidated affiliates of   $22 million   and   $54 million   during the   nine months ended     September 30, 2016   and   2015  , respectively, to fund our share of capital expansion projects. 
+  We intend to make cash distributions to our unitholders and our general partner. Due to our cash distribution policy, we expect that we will distribute to our unitholders most of the cash generated by our operations. As a result, we expect that we will rely upon internal and external financing sources, to fund our acquisition and capital expenditures. 
+  We expect to fund future capital expenditures with funds generated from our operations, borrowings under our Amended and Restated Credit Agreement, the issuance of additional partnership units and the issuance of long-term debt. 
+  Cash Distributions to Unitholders     Our partnership agreement requires that, within 45 days after the end of each quarter, we distribute all Available Cash, as defined in the partnership agreement. We made cash distributions to our unitholders and general partner of   $362 million   during each of the   nine months ended     September 30, 2016   and   2015  . We intend to continue making quarterly distribution payments to our unitholders and general partner to the extent we have sufficient cash from operations after the establishment of reserves.  
+  We expect to continue to use cash provided by operating activities for the payment of distributions to our unitholders and general partner. See Note   12  . "Partnership Equity and Distributions" in the Notes to Consolidated Financial Statements in Item 1.  Financial Statements.  
+  Total Contractual Cash Obligations and Off-Balance Sheet Obligations 
+  A summary of our total contractual cash obligations as of   September 30, 2016  , is as follows: 
+
+55 
+
+(a) 
+    Includes interest payments on debt securities that have been issued. These interest payments are $  80 million  , $  142 million  , $  118 million  , and $  562 million   for less than one year, one to three years, three to five years, and thereafter, respectively. 
+       
+           (b) 
+    Our operating lease obligations are contractual obligations and include railcar leases, which provide supply and storage infrastructure for our Wholesale Propane Logistics business and a firm transportation commitment within our Natural Gas Services business.  
+       
+           (c) 
+    Our purchase obligations are contractual obligations and include purchase orders and non-cancelable construction agreements for capital expenditures, various non-cancelable commitments to purchase physical quantities of propane supply for our Wholesale Propane Logistics business and other items. For contracts where the price paid is based on an index or other market-based rates, the amount is based on the forward market prices or current market rates as of   September 30, 2016  . Purchase obligations exclude accounts payable, accrued interest payable and other current liabilities recognized in the condensed consolidated balance sheets. Purchase obligations also exclude current and long-term unrealized losses on derivative instruments included in the condensed consolidated balance sheet, which represent the current fair value of various derivative contracts and do not represent future cash purchase obligations. These contracts may be settled financially at the difference between the future market price and the contractual price and may result in cash payments or cash receipts in the future, but generally do not require delivery of physical quantities of the underlying commodity. In addition, many of our gas purchase contracts include short and long-term commitments to purchase produced gas at market prices. These contracts, which have no minimum quantities, are excluded from the table. 
+       
+           (d) 
+    Other long-term liabilities include   $27 million   of asset retirement obligations of which an insignificant amount may be settled within the next five years,   $5 million   of gas purchase liability,   $3 million   of right of way liability and   $1 million   of environmental reserves recognized in the   September 30, 2016   condensed consolidated balance sheet. In addition,   $8 million   of deferred state income taxes were excluded from the table above as the amount and timing of any payments are not subject to reasonable estimation. 
+     As of   September 30, 2016  , we have no items that were classified as off-balance sheet obligations. 
+
+Reconciliation of Non-GAAP Measures 
+  Gross Margin and Segment Gross Margin     We view our gross margin as an important performance measure of the core profitability of our operations. We review our gross margin monthly for consistency and trend analysis. 
+  We define gross margin as total operating revenues, including commodity derivative activity, less purchases of natural gas, propane and NGLs, and we define segment gross margin for each segment as total operating revenues, including commodity derivative activity, for that segment less commodity purchases for that segment. Our gross margin equals the sum of our segment gross margins. Gross margin and segment gross margin are primary performance measures used by management, as these measures represent the results of product sales and purchases, a key component of our operations. As an indicator of our operating performance, gross margin and segment gross margin should not be considered an alternative to, or more meaningful than, operating revenues, net income or loss, net income or loss attributable to partners, operating income, cash flows from operating activities or any other measure of financial performance presented in accordance with accounting principles generally accepted in the United States of America, or GAAP. 
+  Adjusted EBITDA     We define adjusted EBITDA as net income or loss attributable to partners less interest income, noncontrolling interest in depreciation and income tax expense and non-cash commodity derivative gains, plus interest expense, income tax expense, depreciation and amortization expense, non-cash commodity derivative losses and certain other items. Our adjusted EBITDA may not be comparable to a similarly titled measure of another company because other entities may not calculate this measure in the same manner. 
+  Adjusted EBITDA should not be considered an alternative to, or more meaningful than, net income or loss, net income or loss attributable to partners, operating income, cash flows from operating activities or any other measure of financial performance presented in accordance with GAAP as measures of operating performance, liquidity or ability to service debt obligations. 
+  Adjusted EBITDA is used as a supplemental liquidity and performance measure and adjusted segment EBITDA is used as a supplemental performance measure by our management and by external users of our financial statements, such as investors, commercial banks, research analysts and others to assess: 
+             
+    financial performance of our assets without regard to financing methods, capital structure or historical cost basis; 
+     
+   56 
+
+our operating performance and return on capital as compared to those of other companies in the midstream energy industry, without regard to financing methods or capital structure; 
+                
+    viability and performance of acquisitions and capital expenditure projects and the overall rates of return on investment opportunities; and 
+                
+    in the case of Adjusted EBITDA, the ability of our assets to generate cash sufficient to pay interest costs, support our indebtedness, make cash distributions to our unitholders and general partner, and finance maintenance capital expenditures. 
+     Adjusted Segment EBITDA     We define adjusted segment EBITDA for each segment as segment net income or loss attributable to partners plus or minus adjustments for non-cash mark-to-market of commodity derivative instruments for that segment, plus depreciation and amortization expense and certain other items for that segment, adjusted for any noncontrolling interest portion of depreciation, amortization and income tax expense for that segment. Our adjusted segment EBITDA may not be comparable to similarly titled measures of other companies because they may not calculate adjusted segment EBITDA in the same manner. 
+  Adjusted segment EBITDA should not be considered in isolation or as an alternative to our financial measures presented in accordance with GAAP, including operating revenues, net income or loss attributable to partners, or any other measure of performance presented in accordance with GAAP. 
+  Our gross margin, segment gross margin, adjusted EBITDA and adjusted segment EBITDA may not be comparable to a similarly titled measure of another company because other entities may not calculate these measures in the same manner. The accompanying schedules provide reconciliations of gross margin, segment gross margin and adjusted segment EBITDA to its most directly comparable GAAP financial measure. 
+    
+  Distributable Cash Flow     We define Distributable Cash Flow as net cash provided by or used in operating activities, less maintenance capital expenditures, net of reimbursable projects, plus or minus adjustments for non-cash mark-to-market of derivative instruments, net income attributable to noncontrolling interest net of depreciation and income tax, net changes in operating assets and liabilities, other adjustments to reconcile net cash provided by or used in operating activities, and certain other items. Maintenance capital expenditures are cash expenditures made to maintain our cash flows, operating or earnings capacity. These expenditures add on to or improve capital assets owned, including certain system integrity, compliance and safety improvements. Maintenance capital expenditures also include certain well connects, and may include the acquisition or construction of new capital assets. Non-cash mark-to-market of derivative instruments is considered to be non-cash for the purpose of computing Distributable Cash Flow because settlement will not occur until future periods, and will be impacted by future changes in commodity prices and interest rates. We compare the distributable cash flow we generate to the cash distributions we expect to pay our partners. Using this metric, we compute our distribution coverage ratio. Distributable Cash Flow is used as a supplemental liquidity and performance measure by our management and by external users of our financial statements, such as investors, commercial banks, research analysts and others, to assess our ability to make cash distributions to our unitholders and our general partner. 
+    
+  Our Distributable Cash Flow may not be comparable to a similarly titled measure of another company because other entities may not calculate Distributable Cash Flow in the same manner.  
+
+57 
+
+The following table sets forth our reconciliation of certain non-GAAP measures: 
+
+58 
+
+(a) 
+    Non-cash commodity derivative mark-to-market is included in gross margin and segment gross margin, along with cash settlements for our commodity derivative contracts. 
+
+(a) 
+    There were no lower of cost or market adjustments for the three months ended September 30, 2016, and   $3 million   for the nine months ended September 30, 2016. Includes   $1 million   and   $4 million   in the lower of cost or market adjustments for the three and   nine months ended     September 30, 2015  .  
+              (b) 
+    Includes no lower of cost or market adjustments for the three and   nine months ended     September 30, 2016  , respectively, and   $2 million   for the   nine months ended     September 30, 2015  . There were no lower of cost or market adjustments for the three months ended September 30, 2015. 
+
+Item 3.     Quantitative and Qualitative Disclosures about Market Risk 
+  
+   59 
+
+For an in-depth discussion of our market risks, see "Item 7A. Quantitative and Qualitative Disclosures about Market Risk" in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+  The following tables set forth additional information about our fixed price swaps used to mitigate a portion of our natural gas and NGL price risk associated with our percent-of-proceeds arrangements and our condensate price risk associated with our gathering operations. Our positions as of   October 28, 2016   were as follows: 
+  Commodity Swaps 
+
+(a) 
+    Monthly average of the daily close prices for the prompt month NYMEX light, sweet crude oil futures contract. 
+              (b) 
+    NYMEX final settlement price for natural gas futures contracts. 
+              (c) 
+    The average monthly OPIS price for Mt. Belvieu Non-TET. 
+              (d) 
+    Affiliate volumes. 
+              (e) 
+    Third party volumes. 
+     Our sensitivities for   2016   as shown in the table below are estimated based on our average estimated commodity price exposure and commodity cash flow protection activities for the calendar year   2016  , and exclude the impact from non-cash mark-to-market on our commodity derivatives. We utilize direct product crude oil, natural gas and NGL derivatives to mitigate a portion of our condensate, natural gas and NGL commodity price exposure. These sensitivities are associated with our unhedged condensate, natural gas and NGL volumes.  
+  Commodity Sensitivities Excluding Non-Cash Mark-To-Market                                       
+    Per Unit Decrease 
+      
+    Unit of 
+  Measurement 
+      
+    Estimated 
+  Decrease in 
+  Annual Net 
+  Income 
+  Attributable to 
+  Partners 
+
+(Millions) 
+      Natural gas prices 
+    $ 
+    0.10 
+
+MMBtu 
+      
+    $ 
+    1 
+      
+      Crude oil prices 
+    $ 
+    1.00 
+
+Barrel 
+      
+    $ 
+
+NGL prices 
+    $ 
+    0.01 
+
+Gallon 
+      
+    $ 
+    1 
+
+In addition to the linear relationships in our commodity sensitivities above, additional factors cause us to be less sensitive to commodity price declines. A portion of our net income is derived from fee-based contracts and a portion from percentage of liquids processing arrangements that contain minimum fee clauses in which our processing margins convert to fee-based arrangements as NGL prices decline.  
+  The above sensitivities exclude the impact from arrangements where producers on a monthly basis may elect to not process their natural gas in which case we retain a portion of the customers  natural gas in lieu of NGLs as a fee. The above sensitivities also exclude certain related processing arrangements where we control the processing or by-pass of the production based upon individual economic processing conditions. Under each of these types of arrangements, our processing of the natural gas would yield favorable processing margins. Less than 10% of our gas throughput is associated with these arrangements. 
+  We estimate the following non-cash sensitivities for   2016   related to the mark-to-market on our commodity derivatives associated with our commodity cash flow protection activities: 
+  
+   60 
+
+Non-Cash Mark-To-Market Commodity Sensitivities 
+                                   
+    Per Unit 
+  Increase 
+      
+    Unit of 
+  Measurement 
+      
+    Estimated 
+  Mark-to- 
+  Market Impact 
+  (Decrease in 
+  Net Income 
+  Attributable to 
+  Partners) 
+
+(Millions) 
+      Natural gas prices 
+    $ 
+    0.10 
+
+MMBtu 
+      
+    $ 
+    1 
+      
+      Crude oil prices 
+    $ 
+    1.00 
+
+Barrel 
+      
+    $ 
+
+NGL prices 
+    $ 
+    0.01 
+
+Gallon 
+      
+    $ 
+
+While the above commodity price sensitivities are indicative of the impact that changes in commodity prices may have on our annualized net income, changes during certain periods of extreme price volatility and market conditions or changes in the relationship of the price of NGLs and crude oil may cause our commodity price sensitivities to vary significantly from these estimates. 
+    
+  The midstream natural gas industry is cyclical, with the operating results of companies in the industry significantly affected by the prevailing price of NGLs, which in turn has been generally related to the price of crude oil. Although the prevailing price of residue natural gas has less short-term significance to our operating results than the price of NGLs, in the long-term the growth and sustainability of our business depends on natural gas prices being at levels sufficient to provide incentives and capital for producers to increase natural gas exploration and production. To minimize potential future commodity-based pricing and cash flow volatility, we have entered into a series of derivative financial instruments. As a result of these transactions, we have mitigated a portion of our expected commodity price risk relating to the equity volumes associated with our gathering and processing activities through 2017. 
+  Based on historical trends, we generally expect NGL prices to directionally follow changes in crude oil prices over the long-term. However, the pricing relationship between NGLs and crude oil may vary, as we believe crude oil prices will in large part be determined by the level of production from major crude oil exporting countries and the demand generated by growth in the world economy, whereas NGL prices are more correlated to supply and U.S. petrochemical demand. However, the level of NGL exports has increased in recent years. We believe that future natural gas prices will be influenced by North American supply deliverability, the severity of winter and summer weather, the level of North American production and drilling activity of exploration and production companies and the balance of trade between imports and exports of liquid natural gas and NGLs. Drilling activity can be adversely affected as natural gas prices decrease. Energy market uncertainty could also reduce North American drilling activity. Limited access to capital could also decrease drilling. Lower drilling levels over a sustained period would reduce natural gas volumes gathered and processed, but could increase commodity prices, if supply were to fall relative to demand levels. 
+  Natural Gas Storage and Pipeline Asset Based Commodity Derivative Program     Our natural gas storage and pipeline assets are exposed to certain risks including changes in commodity prices. We manage commodity price risk related to our natural gas storage and pipeline assets through our commodity derivative program. The commercial activities related to our natural gas storage and pipeline assets primarily consist of the purchase and sale of gas and associated time spreads and basis spreads. 
+  A time spread transaction is executed by establishing a long gas position at one point in time and establishing an equal short gas position at a different point in time. Time spread transactions allow us to lock in a margin supported by the injection, withdrawal, and storage capacity of our natural gas storage assets. We may execute basis spread transactions to mitigate the risk of sale and purchase price differentials across our system. A basis spread transaction allows us to lock in a margin on our physical purchases and sales of gas, including injections and withdrawals from storage. We typically use swaps to execute these transactions, which are not designated as hedging instruments and are recorded at fair value with changes in fair value recorded in the current period condensed consolidated statements of operations. While gas held in our storage locations is recorded at the lower of average cost or market, the derivative instruments that are used to manage our storage facilities are recorded at fair value and any changes in fair value are currently recorded in our condensed consolidated statements of operations. Even though we may have economically hedged our exposure and locked in a future margin, the use of lower-of-cost-or-market accounting for our physical inventory and the use of mark-to-market accounting for our derivative instruments may subject our earnings to market volatility. 
+    
+  The following tables set forth additional information about our derivative instruments used to mitigate a portion of our natural gas price risk associated with our Southeast Texas storage operations as of   September 30, 2016  : 
+  
+   61 
+
+Inventory 
+
+Commodity Swaps    
+
+Item 4.     Controls and Procedures 
+    
+  Evaluation of Disclosure Controls and Procedures 
+  We maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed by us in the reports that we file or submit to the SEC under the Securities Exchange Act of 1934, as amended, or the Exchange Act, is recorded, processed, summarized and reported within the time periods specified by the SEC s rules and forms, and that information is accumulated and communicated to the management of our general partner, including our general partner s principal executive and principal financial officers (whom we refer to as the "Certifying Officers"), as appropriate to allow timely decisions regarding required disclosure. The management of our general partner evaluated, with the participation of the Certifying Officers, the effectiveness of our disclosure controls and procedures as of   September 30, 2016  , pursuant to Rule 13a-15(b) under the Exchange Act. Based upon that evaluation, the Certifying Officers concluded that, as of   September 30, 2016  , our disclosure controls and procedures were effective at a reasonable assurance level. 
+  Changes in Internal Control Over Financial Reporting 
+  There were no changes in internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act) that occurred during the quarter ended   September 30, 2016   that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+62 
+
+PART II. OTHER INFORMATION 
+  Item 1.     Legal Proceedings 
+    
+  The information required for this item is provided in  Commitments and Contingent Liabilities,  included in Note 17 in Item 8 of our Annual Report on Form 10-K for the year ended   December 31, 2015   and Note 14 in Item 1 of this Quarterly Report on Form 10-Q. 
+
+Item 1A.   Risk Factors 
+    
+  In addition to the other information set forth in this report, careful consideration should be given to the risk factors discussed in Part I,  Item 1A. Risk Factors  in our Annual Report on Form 10-K for the year ended   December 31, 2015  . An investment in our securities involves various risks. When considering an investment in us, you should consider carefully all of the risk factors described below and in our Annual Report on Form 10-K for the year ended   December 31, 2015  . 
+
+Item 6. Exhibits 
+
+*    Such exhibit has heretofore been filed with the SEC as part of the filing indicated and is incorporated herein by reference. 
+  
+   63 
+
+SIGNATURES 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+                         
+    DCP Midstream Partners, LP 
+
+By: 
+    DCP Midstream GP, LP 
+  its General Partner 
+
+By: 
+    DCP Midstream GP, LLC 
+  its General Partner 
+
+Dated: November 3, 2016 
+    By: 
+    /s/ Wouter T. van Kempen 
+
+Name: 
+    Wouter T. van Kempen 
+
+Title: 
+    Chief Executive Officer and President 
+
+(Principal Executive Officer) 
+
+Dated: November 3, 2016 
+    By: 
+    /s/ Sean P. O'Brien 
+
+Name: 
+    Sean P. O'Brien 
+
+Title: 
+    Group Vice President and Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+64 
+
+EXHIBIT INDEX 
+
+*    Such exhibit has heretofore been filed with the SEC as part of the filing indicated and is incorporated herein by reference. 
+
+65 
+
+<EX-12.1>
+ 2
+ dpm-20160930xexhibit121.htm
+ EXHIBIT 12.1
+
+Exhibit 
+
+Exhibit 12.1 
+
+RATIO OF EARNINGS TO FIXED CHARGES 
+    
+  The table below sets forth the calculation of Ratios of Earnings to Fixed Charges: 
+
+(a) 
+    The financial information for the the years ended December 31, 2014, 2013, and 2012 includes the results of our Lucerne 1 plant, a transfer of net assets between entities under common control that was accounted for as if the transfer occurred at the beginning of the period, and prior years are retrospectively adjusted to furnish comparative information similar to the pooling method. 
+       
+  For purposes of determining the ratio of earnings to fixed charges, earnings are defined as pretax income or loss from continuing operations before earnings from unconsolidated affiliates, plus fixed charges, plus distributed earnings from unconsolidated affiliates, less capitalized interest. Fixed charges consist of interest expense, capitalized interest, amortization of deferred loan costs, and an estimate of the interest within rental expense. 
+
+</EX-12.1>
+
+<EX-31.1>
+ 3
+ dpm-20160930xexhibit311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  Certification Pursuant to 
+  Section 302 of the Sarbanes-Oxley Act of 2002 
+  I, Wouter T. van Kempen, certify that: 
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of DCP Midstream Partners, LP for the three and   nine months ended     September 30, 2016  ; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+     Date:   November 3, 2016 
+    
+               /s/ Wouter T. van Kempen 
+      Wouter T. van Kempen 
+      Chief Executive Officer and President 
+      (Principal Executive Officer) 
+      DCP Midstream GP, LLC, general partner of 
+  DCP Midstream GP, LP, general partner of 
+  DCP Midstream Partners, LP 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ dpm-20160930xexhibit312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  Certification Pursuant to 
+  Section 302 of the Sarbanes-Oxley Act of 2002 
+  I, Sean P. O'Brien, certify that: 
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of DCP Midstream Partners, LP for the three and   nine months ended     September 30, 2016  ; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+     Date:   November 3, 2016 
+    
+               /s/ Sean P. O'Brien 
+      Sean P. O'Brien 
+      Group Vice President and Chief Financial Officer 
+      (Principal Financial Officer) 
+      DCP Midstream GP, LLC, general partner of 
+  DCP Midstream GP, LP, general partner of 
+  DCP Midstream Partners, LP 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ dpm-20160930xexhibit321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+  Certification of Chief Executive Officer and President 
+  Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 
+  of the Sarbanes-Oxley Act of 2002 (18 U.S.C. Section 1350) 
+  The undersigned, the Chief Executive Officer and President of DCP Midstream GP, LLC, general partner of DCP Midstream GP, LP, general partner of DCP Midstream Partners, LP (the  Partnership ), hereby certifies that, to his knowledge on the date hereof: 
+           (a) 
+    the quarterly report on Form 10-Q of the Partnership for the three and   nine months ended     September 30, 2016  , filed on the date hereof with the Securities and Exchange Commission (the  Report ) fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              (b) 
+    the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Partnership. 
+       
+               /s/ Wouter T. van Kempen 
+      Wouter T. van Kempen 
+      Chief Executive Officer and President 
+      (Principal Executive Officer) 
+      November 3, 2016 
+
+A signed original of this written statement required by Section 906, or other document authenticating, acknowledging or otherwise adopting the signature that appears in typed form within the electronic version of this written statement required by Section 906, has been provided to the Partnership and will be retained by the Partnership and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ dpm-20160930xexhibit322.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+  Certification of Group Vice President and Chief Financial Officer 
+  Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 
+  of the Sarbanes-Oxley Act of 2002 (18 U.S.C. Section 1350) 
+  The undersigned, the Group Vice President and Chief Financial Officer of DCP Midstream GP, LLC, general partner of DCP Midstream GP, LP, general partner of DCP Midstream Partners, LP (the  Partnership ), hereby certifies that, to his knowledge on the date hereof: 
+           (a) 
+    the quarterly report on Form 10-Q of the Partnership for the three and   nine months ended     September 30, 2016  , filed on the date hereof with the Securities and Exchange Commission (the  Report ) fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+              (b) 
+    the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Partnership. 
+       
+               /s/ Sean P. O'Brien 
+      Sean P. O'Brien 
+      Group Vice President and Chief Financial Officer 
+      (Principal Financial Officer) 
+      November 3, 2016 
+
+A signed original of this written statement required by Section 906, or other document authenticating, acknowledging or otherwise adopting the signature that appears in typed form within the electronic version of this written statement required by Section 906, has been provided to the Partnership and will be retained by the Partnership and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 7
+ dpm-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ dpm-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ dpm-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ dpm-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ dpm-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ dpm-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,1060 @@
+<Header>
+<FileStats>
+    <FileName>20161109_10-Q_edgar_data_1390478_0001390478-16-000164_1.txt</FileName>
+    <GrossFileSize>6109696</GrossFileSize>
+    <NetFileSize>131201</NetFileSize>
+    <ASCII_Embedded_Chars>468620</ASCII_Embedded_Chars>
+    <HTML_Chars>1817898</HTML_Chars>
+    <XBRL_Chars>2632162</XBRL_Chars>
+    <XML_Chars>952458</XML_Chars>
+    <N_Tables>35</N_Tables>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001390478-16-000164.hdr.sgml : 20161109
+<ACCEPTANCE-DATETIME>20161109170014
+ACCESSION NUMBER:		0001390478-16-000164
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		70
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161109
+DATE AS OF CHANGE:		20161109
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Galena Biopharma, Inc.
+		CENTRAL INDEX KEY:			0001390478
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33958
+		FILM NUMBER:		161984995
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4640 SW MACADAM AVENUE
+		STREET 2:		SUITE 270
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97239
+		BUSINESS PHONE:		855 855 GALE
+
+	MAIL ADDRESS:	
+		STREET 1:		4640 SW MACADAM AVENUE
+		STREET 2:		SUITE 270
+		CITY:			PORTLAND
+		STATE:			OR
+		ZIP:			97239
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RXi Pharmaceuticals Corp
+		DATE OF NAME CHANGE:	20110926
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GALENA BIOPHARMA, INC.
+		DATE OF NAME CHANGE:	20110922
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RXI PHARMACEUTICALS CORP
+		DATE OF NAME CHANGE:	20110921
+
+</SEC-Header>
+</Header>
+
+ 0001390478-16-000164.txt : 20161109
+
+10-Q
+ 1
+ gale-20160930x10q.htm
+ 10-Q
+
+Document 
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  WASHINGTON, D.C. 20549 
+     ________________________________ 
+  FORM 10-Q 
+     ________________________________ 
+
+For the quarterly period ended   September 30, 2016    
+  OR 
+
+Commission File Number: 001-33958 
+  Galena Biopharma, Inc. 
+  (Exact name of registrant as specified in its charter) 
+        ________________________________ 
+
+2000 Crow Canyon Place, Suite 380, San Ramon, CA 94583 
+  (855) 855-4253 
+  (Address, including zip code, and telephone number, including  
+  area code, of registrant's principal executive offices) 
+      ________________________________ 
+  Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes           No         
+    
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter time that the registrant was required to submit and post such files).   Yes           No         
+    
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer,  and  smaller reporting company  in Rule 12b-2 of the Exchange Act (Check one): 
+                           Large accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated filer 
+
+(Do not check if a smaller reporting company) 
+    Smaller reporting company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act):           Yes           No 
+    
+  As of   October 31, 2016  , Galena Biopharma, Inc. had outstanding   217,019,065   shares of common stock, $0.0001 par value per share, exclusive of treasury shares. 
+
+GALENA BIOPHARMA, INC. 
+  FORM 10-Q - Quarterly Report 
+  For the Quarter Ended September 30, 2016 
+    
+  TABLE OF CONTENTS 
+
+1 
+
+PART I FINANCIAL INFORMATION 
+   
+  ITEM  1. FINANCIAL STATEMENTS 
+
+GALENA BIOPHARMA, INC. 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+  (Amounts in thousands, except share and per share data) 
+
+See accompanying notes to condensed consolidated financial statements. 
+  
+   2 
+
+Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+  (Amounts in thousands, except share and per share data) 
+  (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+  
+   3 
+
+Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  CONDENSED CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY 
+  (Amounts in thousands, except share amounts) 
+  (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+  
+   4 
+
+Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  (Amounts in thousands) 
+  (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+  
+   5 
+
+Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Unaudited) 
+
+1.  Business and Basis of Presentation 
+    
+  Overview 
+    
+  Galena Biopharma, Inc. ( we,   us,   our,   Galena  or the  Company ) is a biopharmaceutical company committed to the development and commercialization of hematology and oncology therapeutics that address unmet medical needs. The Company s pipeline consists of multiple mid- to late-stage clinical assets, including our hematology asset, GALE-401, our novel cancer immunotherapy programs including NeuVax  (nelipepimut-S), GALE-301 and GALE-302. GALE-401 is a controlled release version of the approved drug anagrelide for the treatment of elevated platelets in patients with myeloproliferative neoplasms. GALE- 401 has completed a Phase 2 clinical trial and we are advancing the asset into a pivotal trial in patients with essential thrombocythemia (ET). NeuVax is currently in multiple Phase 2 clinical trials. GALE-301 is in a Phase 2a clinical trial in ovarian and endometrial cancers and in a Phase 1b clinical trial given sequentially with GALE-302. 
+    
+  We are seeking to build value for shareholders through pursuit of the following objectives: 
+
+Develop hematology and oncology assets through clinical development with a focus in areas of unmet medical need. Our hematology asset is targeting the treatment of patients with ET to reduce elevated platelet counts. Our immunotherapy programs are currently targeting two key areas: secondary prevention intended to significantly decrease the risk of disease recurrence in breast, gastric, and ovarian cancers; and primary prevention intended to cease or delay ductal carcinoma in situ (DCIS) from becoming invasive breast cancer. 
+
+Expand our development pipeline by enhancing the clinical and geographic footprint of our technologies. We intend to accomplish this through the initiation of new clinical trials and potentially through the acquisition of additional development programs. 
+
+Leverage partnerships and collaborations, as well as investigator-sponsored trial arrangements, to maximize the scope of potential clinical opportunities in a cost effective and efficient manner. 
+
+6 
+
+     Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+  (Unaudited) 
+
+Basis of Presentation and Significant Accounting Policies 
+    
+  The accompanying consolidated financial statements included herein have been prepared by Galena pursuant to the generally accepted accounting principles (GAAP). Unless the context otherwise indicates, references in these notes to the  Company,   we,   us  or  our  refer (i) to Galena, our wholly owned subsidiaries, Apthera, Inc., or  Apthera,  and our wholly owned subsidiary, Mills Pharmaceuticals, LLC or "Mills." 
+    
+  These condensed consolidated financial statements and accompanying notes should be read in conjunction with the Company's annual consolidated financial statements and the notes hereto included in its Annual Reports on Form 10-K and Form 10-K/A for the year ended December 31, 2015, which was filed on March 10, 2016, and amended on March 11, 2016, April 15, 2016 and April 29, 2016, respectively. 
+    
+  At   September 30, 2016  , the Company s capital resources consisted of cash and cash equivalents of   $24.5 million   which excludes   $18.9 million   of restricted cash. The Company continues to incur significant expenses to advance our development portfolio and we will need to raise additional capital to finance such activities. The current unrestricted cash and cash equivalents as of the date of this filing will fund the Company's operations for at least nine months. 
+    
+  Additional funding sources that are, or in certain circumstances may be, available to the Company, include 1) approximately   $18.5 million   of restricted cash associated with our   $25.5 million   sale of Debenture to the extent we repay the Debenture through issuance of common stock, as detailed further in Note 4; 2) a Purchase Agreement with Lincoln Park Capital, LLC; and 3) At The Market Issuance Sales Agreements (ATM) with FBR   Co. (formerly MLV   Co. LLC) and Maxim Group LLC. The Company cannot provide assurances that its plans for sources and uses of cash will not change or that changed circumstances will not result in the depletion of its capital resources more rapidly than it currently anticipates. The Company is seeking and will need to raise additional capital, whether through a sale of equity or debt securities, a strategic business transaction, the establishment of other funding facilities, licensing arrangements, asset sales or other means, in order to continue the development of the Company's product candidates and to support its other ongoing activities. However, the Company cannot be certain that it will be able to raise additional capital on favorable terms, or at all, which raises substantial doubt about the Company s ability to continue as a going concern. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+    
+  Goodwill and Intangible Assets     Goodwill and indefinite-lived intangible assets are not amortized but are tested annually for impairment at the reporting unit level, or more frequently if events and circumstances indicate impairment may have occurred. Factors the Company considers important that could trigger an interim review for impairment include, but are not limited to, the following: 
+             
+    Significant changes in the manner of its use of acquired assets or the strategy for its overall business; 
+        Significant negative industry or economic trends; 
+     Significant decline in stock price for a sustained period; and 
+     Significant decline in market capitalization relative to net book value. 
+    
+  Goodwill and other intangible assets with indefinite lives are evaluated for impairment first by a qualitative assessment to determine the likelihood of impairment. If it is determined that impairment is more likely than not, the Company will then proceed to the two step impairment test. The first step is to compare the fair value of the reporting unit to the carrying amount of the reporting unit. If the carrying amount exceeds the fair value, a second step must be followed to calculate impairment. Otherwise, if the fair value of the reporting unit exceeds the carrying amount, the goodwill is not considered to be impaired as of the measurement date. In its review of the carrying value of the goodwill for its single reporting unit and its indefinite-lived intangible assets, the Company determines fair values of its goodwill using the market approach, and its indefinite-lived intangible assets using the income approach. 
+
+7 
+
+     Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+  (Unaudited) 
+
+Intangible assets not considered indefinite-lived are reviewed for impairment when facts or circumstances suggest that the carrying value of these assets may not be recoverable. The Company s policy is to identify and record impairment losses, if necessary, on intangible assets when events and circumstances indicate that the assets might be impaired and the undiscounted cash flows estimated to be generated by those assets are less than the carrying amounts. 
+    
+  In connection with the interim analysis of the PRESENT Phase 3 clinical trial and subsequent closing of the trial, the Company performed an impairment analysis of the intangible asset and goodwill. The fair value was determined to exceed to the carrying amount based on the other ongoing and planned trials with NeuVax. As a result, no impairment was deemed necessary to these assets as of September 30, 2016. 
+
+2.  Fair Value Measurements 
+    
+  The following tables present information about our assets and liabilities measured at fair value on a recurring basis in the condensed consolidated balance sheets (in thousands): 
+
+8 
+
+     Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+  (Unaudited) 
+
+The Company did not transfer any financial instruments into or out of Level 3 classification during the nine months ended   September 30, 2016   and 2015. A reconciliation of the beginning and ending Level 3 liabilities for the nine months ended   September 30, 2016   is as follows (in thousands): 
+
+The fair value of the contingent purchase price consideration is measured at the end of each reporting period using Level 3 inputs in a probability-weighted, discounted cash-outflow model. The significant unobservable assumptions include the probability of achieving each milestone, the date we expect to reach the milestone, and a determination of present value factors used to discount future expected cash outflows.  The decrease in the estimated fair value of the contingent purchase price consideration during the period reflects a lowering of the probability and lengthening of the timeline for the potential approval of NeuVax, as these assumptions are now based principally on our Phase 2 combination trial with trastuzumab whereas previously, the valuation was based on our Phase 3 PRESENT trial, which was stopped in June 2016 and subsequently closed in the third quarter due to futility as recommended by the Independent Data Monitoring Committee ("IDMC"). 
+    
+  See Note 7 for discussion of the Level 2 liabilities relating to warrants accounted for as liabilities.  
+
+3.  Accrued Expenses and Other Current Liabilities 
+    
+  Accrued expenses and other current liabilities consist of the following (in thousands): 
+
+9 
+
+Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+  (Unaudited) 
+
+4.  Long-Term Debt 
+    
+  On May 8, 2013, we entered into a loan and security agreement with Oxford Finance LLC, as collateral agent, and related lenders under which we borrowed the first tranche of   $10 million   ("Loan"). The Loan payment terms include   12   months of interest-only payments at the fixed coupon rate of   8.45%  , followed by   30   months of amortization of principal and interest until maturity in November 2016. In connection with the Loan, we paid the lender a   1%   cash facility fee and a   5.5%   cash final payment and granted to the lender   seven  -year warrants to purchase up to   182,186   shares of our common stock at an exercise price of   $2.47  , which equaled a   20  -day average market price of our common stock prior to the date of the grant. On May 10, 2016, the Company prepaid the outstanding principal amount and cash final payment. 
+    
+  On May 10, 2016, the Company entered into a Securities Purchase Agreement ("Purchase Agreement"), with certain purchasers pursuant to which the Company sold, at a   6.375%   original issue discount, a total of   $25,530,000   Senior Secured Debenture ( Debenture ) and warrants to purchase up to   2.0 million   shares of the Company's common stock. Net proceeds to the Company from sale of the Debenture, after payment of commissions and legal fees, were approximately   $23,400,000  . The Debenture matures November 10, 2018, accrues interest at   9%   per year, and did not contain any conversion features into shares of our common stock. On August 22, 2016, the Company, the purchasers and certain other parties entered into an amendment agreement, which provides for the amendment and restatement of the Debenture, an amendment to the terms of the Series A Common Stock Purchase Warrant issued by the Company to the purchasers pursuant to the terms of the Purchase Agreement, and certain other terms and conditions, as summarized below. 
+    
+  The Debenture carries an interest only period of six months, following which interest is due monthly and payable in cash or stock at the election of the Company. Interest deferred during the interest only period is added to and considered principal. Following the interest only period, the Company has the right under the Debenture, commencing November 10, 2016, to pay the monthly redemption amount of the outstanding balance in cash, shares of the Company's common stock or a combination thereof, if certain conditions are met, which maximum monthly redemption amount was increased from   $1,100,000   to   $1,500,000   under the amended Debenture; provided, that if the trading price of the Company s common stock is at least   $0.40   per share (as adjusted for stock splits, combinations or similar events) during such calendar month, then such maximum monthly redemption amount may be increased to   $2,200,000   at the holder's election and if the Company has already elected to satisfy such monthly redemptions in shares of common stock. In addition, notwithstanding the foregoing limitations on the monthly redemption amount, the holder may elect up to   three   times in any   12  -month period to increase the maximum monthly redemption to   $2,500,000  .  
+    
+  If the Company elects to pay the redemption amount in shares of its common stock, then the shares will be delivered at the lesser of A)   7.5%   discount to the average of the   3   lowest volume weighted average prices over the prior   20   trading days or B) a   7.5%   discount to the prior trading day s volume weighted average price. The Company may only opt for payment in shares of common stock if certain equity conditions are met. The Company, at its option, may also force the holder to redeem up to double the monthly redemption principal amount of the Debenture but not less than the monthly payment. 
+    
+  The holder received   1 million   warrants upon the closing on the sale of the Debenture at an exercise price of   $1.51  , maturing   5   years from issuance, and in accordance with the terms of the amendment agreement, the exercise price of the warrant was reduced to   $0.43   per share. Additionally, the holder received   1 million   warrants upon the Company's public company announcement of the interim analysis on June 29, 2016 at an exercise price of   $0.43  . 
+    
+  The amendment agreement provides that, following November 10, 2016, the holder may elect to convert any portion of the outstanding balance into shares of common stock at a fixed price of   $0.60   per share (as adjusted for stock splits, combinations or similar events).  
+    
+  The Company s obligations under the Debenture can be accelerated in the event the Company undergoes a change in control and other customary events of default. In the event of default and acceleration of the Company s obligations, the Company would be required to pay all amounts of principal and interest then outstanding under the Debenture in cash. The Company s obligations under the Debenture are secured under a security  
+  
+   10 
+
+     Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+  (Unaudited) 
+
+agreement by a senior lien on all of the Company s assets, including all of the Company s interests in its consolidated subsidiaries. The Company must also maintain as a compensating cash balance, the lesser of a minimum of   $18.5 million   in cash or the outstanding principal and accrued and unpaid interest, which such amount is included in restricted cash as of September 30, 2016. The holder of the Debenture has the right, at any time and from time to time, to require the Company to prepay the lesser of   $18.5 million   plus accrued and unpaid interest or the outstanding principal and accrued and unpaid interest. Therefore, as of September 30, 2016 the Debenture, net of unamortized discounts of $2,198,811, is presented as a current liability on the condensed consolidated balance sheet. 
+    
+  Armentum Partners, LLC ( Placement Agent ) acted as the placement agent in the offering of the Debenture and the Company paid the Placement Agent a fee equal to   2%   of the funds received from the sale of the Debenture. The Company paid half of the placement fee upon funding and paid the other half during the third quarter of 2016  . 
+
+5. Legal Proceedings, Commitments and Contingencies 
+  Legal Proceedings 
+    
+  On June 24, 2016, the U.S. District Court for the District of Oregon entered a final order and judgment in   In re Galena Biopharma, Inc. Derivative Litigation  , granting final approval to the settlement awarding attorney s fees of   $4.5 million   plus costs, which was paid by our insurance carriers. The settlement included a payment of   $15 million   in cash by our insurance carriers, which we used to fund a portion of the class action settlement, and cancellation of   1,200,000   outstanding director stock options. The settlement also required that we adopt and implement certain corporate governance measures. The settlement did not include any admission of wrongdoing or liability on the part of us or the individual defendants and included a full release of us and the current and former officers and directors in connection with the allegations made in the consolidated federal derivative actions and state court derivative actions. 
+    
+  On June 24, 2016, the U.S. District Court for the District of Oregon entered a final order and partial judgment in   In re Galena Biopharma, Inc. Securities Litigation  , granting final approval of the settlement awarding attorney s fees of   $4.5 million   plus costs, which was paid out of the settlement funds. The settlement agreement provided for a payment of   $20 million   to the class and the dismissal of all claims against us and our current and former officers and directors in connection with the consolidated federal securities class actions. Of the   $20 million   settlement payment to the class,   $16.7 million   was paid by our insurance carriers and   $2.3 million   in cash was paid by us on July 1, 2016, along with   $1 million   in shares of our common stock (  480,053   shares) issued by us on July 6, 2016. We are responsible for defense costs and any settlements or judgments incurred for any related opt-out lawsuits.  
+    
+  In July 2016, we resolved claims brought by shareholders that relate to the securities litigation mentioned above in one case for   $150,000   plus   $150,000   in shares (  291,262   shares) of our common stock, and in another case for   $1.5 million   in shares of our common stock (  3,366,750   shares). The shares issued in connection with such settlements are included in the secondary offering filed on July 25, 2016. The settlements did not include any admission of wrongdoing or liability on the part of us or any of the current or former directors and officers and included a full release of us and the current and former directors and officers in connection with the allegations made. We are not aware of any other claims made by shareholders who have opted out of the securities litigation. 
+    
+  On October 13, 2016, we filed a complaint in the Circuit Court for the County of Multnomah for the State of Oregon against Aon Risk Insurance Services West, Inc., where we are seeking attorney's fees, costs and expenses incurred by us related to our coverage dispute with a certain insurer and for amounts we were required to contribute to the settlements of   In Re Galena Biopharma, Inc. Derivative Litigation   and   In Re Galena Biopharma, Inc. Securities Litigation   as a direct result of certain insurer's failure to pay its full policy limits of liability and other relief. 
+
+11 
+
+     Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+  (Unaudited) 
+
+The litigation settlements are summarized as follow as of September 30, 2016 (in thousands) 
+
+We are aware that the SEC is investigating certain matters relating to the use of certain outside investor-relations professionals by us and other public companies. We have been in contact with the SEC staff through our counsel and are cooperating with the investigation and in discussions with the SEC staff to resolve the investigation. 
+    
+  A federal investigation of two of the high-prescribing physicians for Abstral has resulted in the criminal prosecution of the two physicians for alleged violations of the federal False Claims Act and other federal statutes. The criminal trial is set for January 2017. We have received a trial subpoena for documents in connection with that investigation and we have been in contact with the U.S. Attorney s Office for the Southern District of Alabama, which is handling the criminal trial, and are cooperating in the production of documents. On April 28, 2016, a second superseding indictment was filed in the criminal case, which added additional information about the defendant physicians and provided information regarding the facts and circumstances involving a rebate agreement between the Company and the defendant physicians  pharmacy as well as their ownership of our stock. Certain former employees have received trial subpoenas to appear at the trial and provide oral testimony. We have agreed to reimburse those former employees  attorney s fees. To our knowledge, we are not a target or subject of that investigation. 
+    
+  There also have been federal and state investigations of a company that has a product that competes with Abstral in the same therapeutic class, and we have learned that the FDA and other governmental agencies are investigating our Abstral promotion practices. On December 16, 2015, we received a subpoena issued by the U.S. Attorney s Office for the District of New Jersey requesting the production of a broad range of documents pertaining to our marketing and promotional practices for Abstral. We have been in contact with the U.S. Attorney s Office for the District of New Jersey and are cooperating in the production of the requested documents. We are unable to predict whether we could become subject to legal or administrative actions as a result of these matters, or the impact of such matters. If we are found to be in violation of the False Claims Act, Anti-Kickback Statute, Patient Protection and Affordable Care Act, or any other applicable state or any federal fraud and abuse laws, we may be subject to penalties, such as civil and criminal penalties, damages, fines, or an administrative action of exclusion from government health care reimbursement programs. We can make no assurances as to the time or resources that will need to be devoted to these matters or their outcome, or the impact, if any, that these matters or any resulting legal or administrative proceedings may have on our business or financial condition. 
+
+12 
+
+Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+  (Unaudited) 
+
+6.  Stockholders  Equity 
+    
+  Preferred Stock     The Company has authorized up to   5,000,000   shares of preferred stock,   $0.0001   par value per share, for issuance. The preferred stock will have such rights, preferences, privileges and restrictions, including voting rights, dividend rights, conversion rights, redemption privileges and liquidation preferences, as shall be determined by the Company s Board of Directors upon its issuance. To date, the Company has not issued any preferred shares. 
+    
+  Common Stock     The Company has authorized up to   350,000,000   shares of common stock,   $0.0001   par value per share, for issuance.  
+    
+  November 2014 Purchase Agreement with Lincoln Park Capital, LLC -   On November 18, 2014, the Company entered into a purchase agreement with Lincoln Park Capital, LLC ("LPC"), pursuant to which the Company has the right to sell to LPC up to   $50 million   in shares of the Company's common stock, subject to certain limitations and conditions over the   36  -month term of the purchase agreement. Pursuant to the purchase agreement, LPC initially purchased   2.5 million   shares of the Company's common stock at   $2.00   per share and the Company issued   631,221   shares of common stock to LPC as a commitment fee, which was recorded as a cost of capital. As a result of this initial issuance, the Company received initial net proceeds of   $4.9 million  , after deducting commissions and other offering expenses. There were   no   sales of our common stock under the LPC purchase agreement during the nine months ended September 30, 2016. Subsequent to September 30, 2016 the Company issued   2.0 million   shares of common stock to LPC for   $0.6 million   in net proceeds. 
+    
+  At The Market Issuance Sales Agreements   - On May 24, 2013 the Company entered into At The Market Issuance Sales Agreements ("ATM") with FBR   Co. (formerly MLV   Co. LLC) and Maxim Group LLC  ("Agents"). From time to time during the term of the ATM, we may issue and sell through the Agents, shares of our common stock, and the Agents collect a fee equal to   3%   of the gross proceeds from the sale of shares, up to a total of   $20 million   in gross proceeds. There were   no   sales of our common stock under the ATM during the nine months ended September 30, 2016. Subsequent to September 30, 2016 the Company issued   0.5 million   shares of common stock under the ATM agreements for   $0.2 million   in net proceeds. 
+    
+  January 2016 Underwritten Public Offering   - On January 12, 2016 the Company closed an underwritten public offering of   19,772,727   units at a price to the public of   $1.10   per unit for gross proceeds of   $21.8 million   ("January 2016 Offering"). Each unit consists of   one   share of common stock, and a warrant to purchase   0.60   of a share of common stock at an exercise price of   $1.42   per share. The January 2016 Offering included an over-allotment option for the underwriters to purchase an additional   2,965,909   shares of common stock and/or warrants to purchase up to   1,779,545   shares of common stock. On January 12, 2016, the underwriters exercised their over-allotment option to purchase warrants to purchase an aggregate of   1,779,545   shares of common stock. The underwriters did not exercise their over-allotment option to purchase   2,965,909   shares of our common stock. The total net proceeds of the January 2016 Offering, including the exercise of the over-allotment option to purchase the warrants, were   $20.2 million  , after deducting underwriting discounts and commissions and offering expense paid by the Company. 
+    
+  July 2016 Registered Direct Offering   - On July 13, 2016, we closed the sale to certain institutional investors of   28,000,000   shares of common stock at a purchase price per share of   $0.45   in a registered direct offering, and warrants to purchase up to   14,000,000   shares of common stock with an exercise price of   $0.65   per share in a concurrent private placement. The warrants are initially exercisable   six   months and   one   day following issuance and have a term of   five years   from the date of issuance. The net proceeds to Galena after deducting placement agent fees and estimated offering expenses were approximately   $11.7 million  . The Company intends to use the net proceeds from this offering to fund its clinical trials of its product candidates, to augment its working capital, and for general corporate purposes. 
+
+13 
+
+     Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+  (Unaudited) 
+
+Shares of common stock for future issuance are reserved for as follows (in thousands): 
+
+7.  Warrants 
+    
+  The following is a summary of warrant activity for the nine months ended   September 30, 2016   (in thousands): 
+
+Warrants consist of warrants potentially settleable in cash, which are liability-classified warrants, and equity-classified warrants. 
+    
+  Warrants classified as liabilities 
+    
+  Liability-classified warrants consist of warrants to purchase common stock issued in connection with equity financings in July 2016, January 2016, March 2015, September 2013, December 2012, April 2011, March 2011, and March 2010. These warrants are potentially settleable in cash and were determined not to be indexed to our common stock. 
+    
+  The estimated fair value of outstanding warrants accounted for as liabilities is determined at each balance sheet date. Any decrease or increase in the estimated fair value of the warrant liability since the most recent balance sheet date is recorded in the condensed consolidated statement of operations as other income (expense). The fair value of the warrants is estimated using an appropriate pricing model with the following inputs: 
+
+14 
+
+     Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+  (Unaudited) 
+
+*The March 2011 warrants expired in March 2016. The March 2010 warrants expired in September 2016. 
+    
+  The expected volatility assumptions are based on the Company's implied volatility in combination with the implied volatilities of similar publicly traded entities. The expected life assumption is based on the remaining contractual terms of the warrants. The risk-free rate is based on the zero coupon rates in effect at the time of valuation. The dividend yield used in the pricing model is   zero  , because the Company has   no   present intention to pay cash dividends. 
+    
+  The changes in fair value of the warrant liability for the nine months ended   September 30, 2016   were as follows (in thousands): 
+
+Warrants classified as equity 
+    
+  Equity-classified warrants consist of warrants issued in connection with consulting services provided to us and warrants issued in connection with debt financings. On May 10, 2016 upon closing on the sale of Debenture, we granted the holder warrants to purchase up to   1,000,000   shares of common stock at an exercise price of   $1.51  , and in accordance with the terms of the amendment agreement, the exercise price of the warrant was reduced to   $0.43   per share. The warrants were valued using an appropriate pricing model. The fair value assumptions for the grant included a volatility of   110.77%  , expected term of   5.5   years, risk-free rate of   1.18%  , and a dividend rate of   0.00%  . The fair value of the warrants granted was   $0.32   per share. These warrants are recorded in equity at fair value upon issuance. Additionally, on June   29, 2016   upon the public announcement of the interim analysis of the PRESENT trial, we granted the holder warrants to purchase up to   1,000,000   shares of common stock at an exercise price of   $0.43  .The warrants were valued using an appropriate pricing model. The fair value assumptions for the grant included a volatility of   106.63%  , expected term of   5.5   years, risk-free rate of   1.35%  , and a dividend rate of   0.00%  . The fair value of the warrants granted was   $0.27   per share. These warrants are recorded in equity at fair value upon issuance. 
+
+15 
+
+Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+  (Unaudited) 
+
+8.  Stock-Based Compensation 
+    
+  Options to Purchase Shares of Common Stock     The Company follows the provisions ASC 718, which requires the measurement and recognition of compensation expense for all share-based payment awards made to employees, non-employee directors, including employee stock options. Stock compensation expense based on the grant date fair value estimated in accordance with the provisions of ASC 718 is recognized as an expense over the requisite service period. 
+    
+  For stock options and warrants granted in consideration for services rendered by non-employees, the Company recognizes compensation expense in accordance with the requirements of ASC Topic 505-50. Non-employee option and warrant grants that do not vest immediately upon grant are recorded as an expense over the vesting period. At the end of each financial reporting period prior to vesting, the value of these options and warrants, as calculated using the Black-Scholes option-pricing model, is re-measured using the fair value of the Company s common stock and the non-cash compensation recognized during the period is adjusted accordingly. Since the fair market value of options and warrants granted to non-employees is subject to change in the future, the amount of the future compensation expense will include fair value re-measurements until the stock options and warrants are fully vested. 
+    
+  The following table summarizes the components of stock-based compensation expense in the condensed consolidated statements of comprehensive loss for the three and nine months ended   September 30, 2016   and 2015, respectively (in thousands): 
+
+The Company uses the Black-Scholes option-pricing model and the following weighted-average assumptions to determine the fair value of all its stock options granted: 
+
+*There were no stock options granted during the three months ended September 30, 2015. 
+    
+  The weighted-average fair value of options granted during the three and nine months ended   September 30, 2016   were   $0.45   per share and   $0.51   per share, respectively.  
+
+16 
+
+     Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+  (Unaudited) 
+
+The Company s expected common stock price volatility assumption is based upon the Company's own implied volatility in combination with the implied volatility of a basket of comparable companies. The expected life assumptions for employee grants were based upon the simplified method provided for under ASC 718-10, which averages the contractual term of the Company s options of   ten years   with the average vesting term of   four years   for an average of   six years  . The expected life assumptions for non-employees were based upon the contractual term of the option. The dividend yield assumption is zero, because the Company has never paid cash dividends and presently has no intention to do so. The risk-free interest rate used for each grant was also based upon prevailing short-term interest rates. The Company has estimated an annualized forfeiture rate of   15%   for options granted to its employees,   8%   for options granted to senior management and zero for non-employee directors. The Company will record additional expense if the actual forfeitures are lower than estimated and will record a recovery of prior expense if the actual forfeiture rates are higher than estimated. 
+    
+  As of   September 30, 2016  , there was   $2,722,000   of unrecognized compensation cost related to outstanding stock options that is expected to be recognized as a component of the Company s operating expenses over a weighted-average period of   2.34   years. 
+    
+  As of   September 30, 2016  , an aggregate of   26,500,000   shares of common stock were reserved for issuance under the Company s 2016 Incentive Plan, including   10,369,000   shares subject to outstanding common stock options granted under the plan. There are   10,863,000   shares available for future grants based on adjustments in the 2016 Incentive Plan. The administrator of the plan determines the terms when a stock option may become exercisable. Vesting periods of stock options granted to date have not exceeded   four years  . The stock options will expire, unless previously exercised, no later than   ten years   from the grant date.  
+    
+  The following table summarizes stock option activity of the Company for the nine months ended September 30, 2016: 
+
+The aggregate intrinsic values of outstanding and exercisable stock options at   September 30, 2016   were calculated based on the closing price of the Company s common stock as reported on The NASDAQ Capital Market on   September 30, 2016   of   $0.35   per share. The aggregate intrinsic value equals the positive difference between the closing fair market value of the Company s common stock and the exercise price of the underlying stock options. 
+
+17 
+
+Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+  (Unaudited) 
+
+9.  Net Loss Per Share 
+    
+  The following table sets forth the potentially dilutive common shares excluded from the calculation of net loss per common share because their inclusion would be anti-dilutive (in thousands): 
+
+10.  Discontinued Operations, Assets Held for Sale 
+    
+  During the fourth quarter of 2015, The Company sold its rights to its commercial products Abstral        (fentanyl) Sublingual Tablets and Zuplenz        (ondansetron) Oral Soluble Film.  
+    
+  The following table presents amounts related to the discontinued operations in the balance sheets (in thousands): 
+
+The following table represents the components attributable to the commercial operations that are presented in the condensed consolidated statements of operations as discontinued operations (in thousands): 
+
+Additional channel obligations included in discontinued operations in the first nine months of 2016 is comprised of larger than anticipated rebates of Abstral sales for which we are responsible through the end of the first quarter of 2016. The increase in rebates was driven by larger than expected volumes through these rebate channels and additional price protection provisions over which the Company has no control. The increase in rebates was partially offset by lower than expected patient assistance program reimbursement. 
+  
+   18 
+
+     Table of Contents  
+  GALENA BIOPHARMA, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS - Continued 
+  (Unaudited) 
+
+Selling, general and administrative expense     included in discontinued operations consists of all other expenses of our commercial operations that were required in order to market and sell our marketed products prior to our sales of the rights to these commercial products. These expenses include all personnel related costs, marketing, data, consulting, legal, and other outside services necessary to support the commercial operations. During the three and nine months ended September 30,2016 we incurred   $2.1 million   and   $6.7 million   respectively, in selling, general, and administrative expense in discontinued operations, of which   $2.0 million   and   $6.4 million  , for the three and nine months ended September 30, 2016, respectively, related to legal fees from external counsel associated with document production for the subpoenas related to the sales and marketing practices of Abstral. These legal proceedings are further disclosed in Part II, Item 1. 
+    
+  The following table presents significant operating non-cash items and capital expenditures related to discontinued operations (in thousands): 
+
+11.  Subsequent Events 
+    
+  The Company evaluated all events or transactions that occurred after   September 30, 2016   up through the date these financial statements were issued. Other than as disclosed elsewhere in the notes to the condensed consolidated financial statements and below, the Company did not have any material recognizable or unrecognizable subsequent events. 
+    
+  On October 21, 2016, our stockholders authorized the Board of Directors to set the ratio and timing for any reverse stock split the Board of Directors deemed necessary. On October 31, 2016, th Company issued a press release to announce that its Board of Directors, on October 26, 2016, set the ratio of the reverse stock split of the Company s outstanding shares of common stock, par value   $.0001   per share, at one-for-twenty (1:20).  
+  The reverse stock split will become effective on November 11, 2016 and the Company s common stock will commence trading on a split-adjusted basis when the market opens on November 14, 2016. The Company s common stock will continue to trade on the NASDAQ Capital Market under the symbol  GALE  but will trade under the new CUSIP number 363256504.           
+  No fractional shares will be issued as a result of the reverse split and stockholders who otherwise would be entitled to a fractional share will receive, in lieu thereof, a cash payment which shall represent a pro-rata portion of the value per share based upon the closing market price for the five days preceding the effective date of the reverse split. Stockholders who hold their shares in brokerage accounts or in "street name" will not be required to take any action to effect the exchange of their shares. Stockholders of record as of November 11, 2016 who hold share certificates will receive instructions from the Company's transfer agent, Computershare, which is acting as exchange agent for the reverse stock split. Computershare will provide instructions to stockholders of record regarding the process for exchanging shares. 
+
+19 
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+    
+  In this   section  , "Galena,"  we,   our,   ours  and  us  refer to Galena Biopharma, Inc. and its consolidated subsidiaries, Apthera, Inc., or  Apthera,  and Mills Pharmaceuticals, LLC, or "Mills." 
+    
+  This management s discussion and analysis of financial condition as of September 30, 2016 and results of operations for the three and nine months ended September 30, 2016 and 2015, respectively, should be read in conjunction with management s discussion and analysis of financial condition and results of operations included in our Amended Annual Report on Form 10-K for the year ended December 31, 2015 which was filed with the SEC on March 11, 2016. 
+    
+  The discussion and analysis below includes certain forward-looking statements related to the development of our products in the U.S., our future financial condition and results of operations and potential for profitability, the sufficiency of our cash resources, our ability to obtain additional equity or debt financing, possible partnering or other strategic opportunities for the development of our products, as well as other statements related to the progress and timing of our product commercialization and development activities, present or future licensing, collaborative or financing arrangements or that otherwise relate to future periods, which are all forward-looking statements as defined by the Private Securities Litigation Reform Act of 1995. These statements represent, among other things, the expectations, beliefs, plans and objectives of management and/or assumptions underlying or judgments concerning the future financial performance and other matters discussed in this document. The words  may,   will,   should,   plan,   believe,   estimate,   intend,   anticipate,   project,  and  expect  and similar expressions are intended to connote forward-looking statements. All forward-looking statements involve certain risks, including the uncertainties and other factors described in our Amended Annual Report on Form 10-K for the year ended December 31, 2015 that could cause our actual development activities, financial condition and results of operations, and business prospects and opportunities to differ materially from these expressed in, or implied by, those forward-looking statements. We caution investors not to place significant reliance on the forward-looking statements contained in this report. These statements, like all statements in this report, speak only as of the date of this report (unless another date is indicated) and we undertake no obligation to update or revise forward-looking statements. 
+
+20 
+
+Overview 
+    
+  Galena Biopharma, Inc. ( we,   us,   our,   Galena  or the  Company ) is a biopharmaceutical company committed to the development and commercialization of hematology and oncology therapeutics that address unmet medical needs. The Company s pipeline consists of multiple mid- to late-stage clinical assets, including our hematology asset, GALE-401, our novel cancer immunotherapy programs including NeuVax  (nelipepimut-S), GALE-301 and GALE-302. GALE-401 is a controlled release version of the approved drug anagrelide for the treatment of elevated platelets in patients with myeloproliferative neoplasms. GALE- 401 has completed a Phase 2 clinical trial and we are advancing the asset into a pivotal trial in patients with essential thrombocythemia (ET). NeuVax is currently in multiple Phase 2 clinical trials. GALE-301 is in a Phase 2a clinical trial in ovarian and endometrial cancers and in a Phase 1b clinical trial given sequentially with GALE-302. 
+    
+  We are seeking to build value for shareholders through pursuit of the following objectives: 
+
+Develop hematology and oncology assets through clinical development with a focus in areas of unmet medical need. Our hematology asset is targeting the treatment of patients with ET to reduce elevated platelet counts. Our immunotherapy programs are currently targeting two key areas: secondary prevention intended to significantly decrease the risk of disease recurrence in breast, gastric, and ovarian cancers; and primary prevention intended to cease or delay ductal carcinoma in situ (DCIS) from becoming invasive breast cancer. 
+
+Expand our development pipeline by enhancing the clinical and geographic footprint of our technologies. We intend to accomplish this through the initiation of new clinical trials and potentially through the acquisition of additional development programs. 
+
+Leverage partnerships and collaborations, as well as investigator-sponsored trial arrangements, to maximize the scope of potential clinical opportunities in a cost effective and efficient manner. 
+       
+  The chart below summarizes the current status of our clinical development pipeline  : 
+
+21 
+
+Hematology  
+    
+  GALE-401 (anagrelide controlled release (CR))  
+    
+  GALE-401 contains the active ingredient anagrelide, an FDA-approved product, for the treatment of patients with myeloproliferative neoplasms ("MPNs") to lower abnormally elevated platelet levels. The currently available immediate release ("IR") version of anagrelide causes adverse events that are believed to be dose and plasma concentration dependent. These adverse events may limit the use of the IR version of the drug. Therefore, reducing the maximum concentration ("C   max"   ) is hypothesized to reduce the side effects, but preserve efficacy, potentially allowing a broader use of the drug. 
+    
+  Multiple Phase 1 studies in 98 healthy subjects have shown GALE-401 reduces the C   max    of anagrelide following oral administration, appears to be well tolerated at the doses administered, and to be capable of reducing platelet levels. The Phase 1 program provided the desired PK/PD (pharmacokinetic/pharmacodynamic) profile to enable the initiation of the ongoing Phase 2 proof-of-concept trial. The Phase 2, open label, single arm, proof-of-concept trial enrolled 18 patients in the United States for the treatment of thrombocytosis, or elevated platelet counts, in patients with MPNs. Final safety and efficacy data from this pilot Phase 2 trial were presented in December 2015 and demonstrated a prolonged clinical benefit with a potentially improved safety profile. 
+    
+  We have analyzed our data and the treatment landscape for MPNs, with a current focus on Essential Thrombocythemia ("ET"). We are advancing GALE-401 into a pivotal trial and we plan to meet with the FDA by the end of the year to discuss our Phase 3 clinical trial design, development opportunities in ET patients, and confirmation of the 505(b)2 regulatory pathway for approval. 
+    
+  Thrombocythemia is a myeloproliferative blood disorder. It is characterized by the over production of platelets in the bone marrow. Elevated platelets make normal clotting of blood difficult. It can be either reactive or primary (also termed essential and caused by a myeloproliferative disease). Although often symptomless (particularly when it is a secondary reaction), it can predispose some patients to thrombosis. Primary Thrombocytosis (essential thrombocythemia or "ET") is due to a failure to regulate the production of platelets (autonomous production) and is a feature of a number of myeloproliferative disorders. About a third of patients are asymptomatic at the time of diagnosis. 
+    
+  Novel Cancer Immunotherapies  
+    
+  Our targeted cancer immunotherapy approach is currently based upon two key areas: preventing secondary recurrence of cancer, which is becoming increasingly important as the number of cancer survivors continues to grow; and, primary prevention intended to treat breast cancer earlier in the treatment spectrum. Once a patient s tumor becomes metastatic, the outcome is often fatal, making the prevention of recurrence a potentially critical component of overall patient care. Our programs primarily target patients in the adjuvant (after-surgery) setting who have relatively healthy immune systems, but may still have residual disease. Minimal residual disease, or single cancer cells (occult cancer cells) or micrometastasis, that are undetectable by current radiographic scanning technologies, can result in disease recurrence. 
+    
+  Our therapies utilize an immunodominant peptide combined with the immune adjuvant, recombinant human granulocyte macrophage-colony stimulating factor (rhGM-CSF), and work by harnessing the patient s own immune system to seek out and attack any residual cancer cells. Using peptide immunogens has many potential clinical advantages, including a favorable safety profile, since these drugs may lack the toxicities typical of most cancer therapies. They also have the potential to evoke long-lasting protection through activation of the immune system and a convenient, intradermal mode of delivery. We are currently engaged in multiple clinical trials with NeuVax  (nelipepimut-S), GALE-301, and GALE-302, targeting the prevention of recurrence in breast, gastric, ovarian and endometrial cancers. 
+
+22 
+
+NeuVax  (nelipepimut-S)  
+    
+  NeuVax  (nelipepimut-S) is a cancer immunotherapy targeting human epidermal growth factor receptor (HER2) expressing cancers. NeuVax is the immunodominant nonapeptide derived from the extracellular domain of the HER2 protein, a well-established and validated target for therapeutic intervention in breast and gastric carcinomas. The NeuVax vaccine is combined with GM-CSF for injection under the skin, or intradermal administration. Data has shown that an increased presence of circulating tumor cells (CTCs) may predict Disease Free Survival (DFS) and Overall Survival (OS) suggesting a presence of isolated micrometastases, not detectable clinically, but, over time, can lead to recurrence, most often in distant sites. After binding to the specific HLA molecules on antigen presenting cells, the nelipepimut-S sequence stimulates specific cytotoxic T lymphocytes, or CTLs, causing significant clonal expansion. These activated CTLs recognize, neutralize and destroy, through cell lysis, HER2 expressing cancer cells, including occult cancer cells and micrometastatic foci. The nelipepimut immune response can also generate CTLs to other immunogenic peptides through inter- and intra-antigenic epitope spreading.  
+    
+  Breast Cancer  : According to the National Cancer Institute (NCI), over 230,000 women in the U.S. are diagnosed with breast cancer annually. While improved diagnostics and targeted therapies have decreased breast cancer mortality in the U.S., metastatic breast cancer remains incurable. Approximately 75% to 80% of breast cancer patients have tissue test positive for some increased amount of the HER2 receptor, which is associated with disease progression and decreased survival. Only approximately 20% to 30% of all breast cancer patients-those with HER2 immunohistochemistry (IHC) 3+ disease, or IHC 2+ and fluorescence in situ hybridization (FISH) amplified-have a HER2 directed, approved treatment option available after their initial standard of care. This leaves the majority of breast cancer patients with low-to-intermediate HER2 expression (IHC 1+/2+) ineligible for therapy and without an effective targeted treatment option to prevent cancer recurrence. 
+    
+  We currently have two investigator-sponsored trials ongoing with NeuVax in combination with trastuzumab (Herceptin       ; Genentech/Roche).    The combination of trastuzumab and NeuVax has been shown pre-clinically and in a pilot study to be synergistic. Our Phase 2b clinical trial is a randomized, multicenter, investigator-sponsored, 300 patient study enrolling HER2 1+ and 2+, HLA A2+, A3+, A24 and/or A26, node positive, and high-risk node negative patients. Eligible patients will be randomized to receive NeuVax + GM-CSF + trastuzumab or trastuzumab + GM-CSF alone. The primary endpoint of the study is disease-free survival.  Genentech/Roche is providing the trastuzumab and partial funding for this trial. Data presented in October 2016 demonstrated that this novel combination of trastuzumab and NeuVax with HER2 low-expressing patients is well-toleratted and the cardiac effects of trastuzumab are not impacted by the addition of NeuVax. 
+    
+   Our second combination trial is a Phase 2 in HER2 3+ breast cancer patients who have completed neoadjuvant therapy with an approved regimen that includes trastuzumab and fail to achieve a pathological complete response, meaning they have microscopic evidence of residual disease and are therefore at an increased risk of disease recurrence. This multi-center, prospective, randomized, single-blinded Phase 2 trial is enrolling approximately 100 patients with a diagnosis of HER2 3+ breast cancer who are HLA A2+ or HLA A3+ and are determined to be at high-risk for recurrence. High-risk is defined as having received neoadjuvant therapy with an approved regimen that includes trastuzumab but not obtaining a pathological complete response at surgery, or those who undergo surgery as a first intervention and are found to be pathologically node-positive. These high-risk patients are known to have higher recurrence rates than other HER2 3+ breast cancer patients. Eligible patients will be randomized to receive NeuVax + GM-CSF + trastuzumab or trastuzumab + GM-CSF alone. The primary endpoint of the study is disease-free survival.  Funding for this trial was awarded through the Congressionally Directed Medical Research Program (CDMRP), funded through the Department of Defense (DoD), via annual Congressional legislation known as the Defense Appropriations Act. The grant was a Breast Cancer Research Program (BCRP) Breakthrough Award. 
+
+23 
+
+We have also announced our intent to initiate a Phase 2 trial with NeuVax as a single agent in patients with ductal carcinoma in situ, or DCIS, in collaboration with the NCI, potentially positioning NeuVax as a treatment for earlier stage disease. The trial will have an immunological endpoint evaluating NeuVax peptide-specific cytotoxic T lymphocyte (CTL; CD8+ T-cell) response in vaccinated patients.  DCIS is defined by the NCI as a noninvasive condition in which abnormal cells are found in the lining of a breast duct, and is the most common type of breast cancer. The abnormal cells have not spread outside the duct to other tissues in the breast. In some cases, DCIS may become invasive cancer and spread to other tissues, and at this time, there is no way to know which lesions could become invasive. Current treatment options for DCIS include breast-conserving surgery and radiation therapy with or without tamoxifen, breast-conserving surgery without radiation therapy, or total mastectomy with or without tamoxifen. According to the American Cancer Society, in 2015 there were over 60,000 diagnoses of DCIS. The trial is currently suspended and is expected to initiate by the end of 2016. 
+    
+  On June 24, 2016, the assembled Independent Data Monitoring Committee, or IDMC, met to conduct a pre-planned safety and futility analysis of the Phase 3 PRESENT (  P  revention of   R  ecurrence in   E  arly-  S  tage, Node- Positive Breast Cancer with Low to Intermediate HER2   E  xpression with   NeuVax T  reatment) clinical trial. On June 27, 2016, the IDMC recommended that the Phase 3 trial  be stopped for futility unless it is determined that there has been a systematic reversal in the study drug treatments in the two arms, in which case the IDMC should reevaluate the clinical evidence.  We immediately stopped the PRESENT trial, and initiated an investigation into the causes of the recommendation. Our analysis of the data shows that there was a separation of the curves, albeit not statistically significant, with the control arm performing better than expected and the NeuVax arm performing consistent with our protocol assumptions for the control group. Because the study is deemed futile, we closed the PRESENT trial, and we expect to present the data at a future medical conference. 
+    
+  Gastric Cancer  : According to the NCI, gastric (stomach) cancer is a disease in which malignant (cancer) cells form in the lining of the stomach. Almost all gastric cancers are adenocarcinomas (cancers that begin in cells that make and release mucus and other fluids). Other types of gastric cancer are gastrointestinal carcinoid tumors, gastrointestinal stromal tumors, and lymphomas. Infection with bacteria called Helicobacter pylori (H. pylori) is a common cause of gastric cancer and age, diet, and stomach disease can affect the risk of developing gastric cancer. Gastric cancer is often diagnosed at an advanced stage because there are no early signs or symptoms. Gastric, or stomach cancer, is the second-most common cancer among males and third-most common among females in Asia and worldwide with over 63,000 new cases a year in India, where an initial clinical trial of NeuVax will be run. Overexpression of the HER2 receptor occurs in approximately 20% of gastric and gastro-esophageal junction adenocarcinomas, predominantly those of the intestinal type. Overall, without regard to the stage of cancer, only approximately 28% of patients with stomach cancer live at least five years following diagnosis and new adjuvant treatments are needed to prevent disease recurrence. 
+    
+  We currently have an agreement with Dr. Reddy s Laboratories to conduct a Phase 2 investigational study in gastric cancer in India.  
+    
+  GALE-301 and GALE-302  
+    
+  Our second immunotherapy franchise targets folate binding protein (FBP) receptor-alpha. FBP is a well-validated therapeutic target that is highly over-expressed in ovarian, endometrial and breast cancers, and is the source of immunogenic peptides that can stimulate cytotoxic T lymphocytes (CTLs) to recognize and destroy FBP-expressing cancer cells. Current treatments after surgery for these diseases are principally with platinum based chemotherapeutic agents. These patients suffer a high recurrence rate and most relapse with an extremely poor prognosis. GALE-301 and GALE-302 are immunogenic peptides that consist of a peptide derived from FBP combined with GM-CSF for the prevention of cancer recurrence in the adjuvant setting. GALE-301 is the E39 peptide, while GALE-302 is an attenuated version of this peptide, known as E39 . Two trials are ongoing with our FBP peptides: the GALE-301 Phase 2a portion of the Phase 1/2a clinical trial is ongoing in ovarian and endometrial adenocarcinomas, and the GALE- 301 plus GALE-302 Phase 1b clinical trial is ongoing in breast and ovarian cancers. 
+
+24 
+
+Ovarian Cancer  : According to the NCI Surveillance, Epidemiology, and End Results (SEER) Program, new cases of ovarian cancer occur at an annual rate of 11.9 per 100,000 women in the U.S., with an estimated 22,280 new cases and 14,240 deaths in 2016. Approximately 46.2% of ovarian cancer patients are expected to survive five years after diagnosis. Approximately 1.3% of women will be diagnosed with ovarian cancer at some point during their lifetime (2011 - 2013 data).  The prevalence data from 2013 showed an estimated 195,767 women living with ovarian cancer in the United States. Due to the lack of specific symptoms, the majority of ovarian cancer patients are diagnosed at later stages of the disease, with an estimated 80% of women presenting with advanced-stage (III or IV) disease. These patients have their tumors routinely surgically debulked to minimal residual disease, and then are treated with platinum- and/or taxane-based chemotherapy. While many patients respond to this treatment regimen and become clinically free-of-disease, the majority of these patients will relapse. Depending upon their level of residual disease, the risk for recurrence after completion of primary therapy is approximately 70%. Unfortunately for these women, once the disease recurs, treatment options are limited and the disease is most likely incurable. 
+    
+  According to the NCI SEER Program, new cases of endometrial cancer occur at an annual rate of 25.4 per 100,000 women in the U.S., with an estimated 60,050 new cases and 10,470 deaths in 2016. Approximately 81.7% of endometrial cancer patients are expected to survive five years after diagnosis. Approximately 2.8% of women will be diagnosed with endometrial cancer at some point during their lifetime (2011 - 2013 data).  The prevalence data from 2013 showed an estimated 635,437 women living with endometrial cancer in the United States. 
+
+Intellectual Property  
+    
+  Patents and other intellectual property rights are crucial to our success. It is our policy to protect our intellectual property rights through available means, including filing and prosecuting patent applications in the U.S. and other countries, protecting trade secrets, and utilizing regulatory protections such as data exclusivity. We also include restrictions regarding use and disclosure of our proprietary information in our contracts with third parties, and utilize customary confidentiality agreements with our employees, consultants, clinical investigators and scientific advisors to protect our confidential information and know-how. Together with our licensors, we also rely on trade secrets to protect our combined technology especially where we do not believe patent protection is appropriate or obtainable. It is our policy to operate without infringing on, or misappropriating, the proprietary rights of others. The following chart summarizes our intellectual property rights:  
+    
+                     Drug Candidate 
+    
+    Indication 
+    
+    Scope  
+    
+    Estimated 
+  Exclusivity 
+  Period  
+    
+      GALE-401 (Anagrelide Controlled Release) 
+    Platelet Lowering 
+    Pending and/or issued 
+    2029 
+      NeuVax  (nelipepimut-S) 
+    Breast cancer recurrence 
+    Pending and/or issued 
+    2028 
+      NeuVax  (nelipepimut-S) 
+    Gastric 
+    Pending and/or issued 
+    2028 
+      NeuVax  (nelipepimut-S) 
+    DCIS 
+    Pending and/or issued 
+    2028 
+      NeuVax  in combination with trastuzumab 
+    Breast cancer 
+    Pending and/or issued 
+    2026 
+      NeuVax  in combination with other compounds 
+    Breast cancer 
+    Pending and/or issued 
+    2037 
+      GALE-301   GALE-302 
+    Breast, ovarian and endometrial cancer 
+    Pending and/or issued 
+    2036 
+
+25 
+
+Recent Operational Developments 
+    
+  Appointment of Chief Financial Officer 
+    
+  On November 3, 2016, we announced that Stephen F. Ghiglieri joined the Company as Executive Vice President and Chief Financial Officer, effective November 1, 2016. Mr. Ghiglieri, age 55, has served as the Chief Financial Officer since 2013 and Chief Operating Officer since 2015 at MedData, Inc. From 2003 until 2013, he served as Executive Vice President, Chief Operating Officer and Chief Financial Officer of Neurogesx, Inc. Prior to that, he was Chief Financial Officer and Corporate Secretary at Hansen Medical, Inc. from 2002 to 2003; Executive Vice President, Chief Financial Officer and Corporate Secretary at Avolent, Inc. from 2000 to 2002; Chief Financial Officer, Vice President Finance and Corporate Secretary at Andromedia, Inc. from 1999-2000; Vice President Finance and Administration, Chief Financial Officer and Corporate Secretary at Oacis Healthcre Systems, Inc. from 1994 to 1999 and Controller at Oclassen Pharmaceuticals from 1992 to 1994. From 1984 to 1992, Mr. Ghiglieri was an Audit Manager at PricewaterhouseCoopers. 
+  Announced a Reverse Stock Split 
+    
+  On October 31, 2016, we announced a reverse stock split of our shares of common stock at a ratio of 1-for-20 as approved by the Board of Directors on October 26, 2016.  The reverse stock split was authorized by the Company s stockholders at the Special Meeting of Stockholders held on October 21, 2016. The reverse stock split will become effective on November 11, 2016 and the Company s common stock will commence trading on a split-adjusted basis when the market opens on Wednesday, November 14, 2016.  The Company's common stock will continue to trade on the NASDAQ Capital Market under the symbol "GALE" but will trade under the new CUSIP number 363256504. 
+    
+  Presented GALE-301/GALE-302 Phase 1b Data 
+    
+    On October 20, 2016, Dr. Doreen Jackson delivered a podium presentation on Galena s GALE-301 and GALE-302 clinical program at the American College of Surgeons Clinical Congress 2016. The Phase 1b is a single-center, randomized, single-blinded, three-arm study in patients with breast or ovarian cancer diagnosis who were treated with standard of care and were without evidence of disease. This trial augments the Phase 1/2a trial with single-agent GALE-301 in ovarian and endometrial cancers.  The presentation was entitled,  A Phase Ib Trial Comparing Different Doses/Schedules of a Folate Binding Protein (FBP)-derived Peptide Vaccine, E39, and its Attenuated Version, E39 , to Induce Long-term FBP-specific Immunity in Disease-free Cancer Patients.  In this trial, which enrolled mostly breast cancer patients, who have lower FBP exposure than ovarian patients, the 500mcg dose appears to provide a more optimal immunological response. This differs from the results in ovarian cancer patients, who have much higher FBP expression, with potential secondary immune tolerance, where 1000mcg was the optimal dose. However, E39  (GALE-302) given after E39 (GALE-301) was able to induce long-term immunity in both dosing cohorts, underscoring the potential importance of attenuated peptides in relatively antigen-na ve patients. 
+    
+  Presented NeuVax plus Trastuzumab Interim Safety Data 
+    
+    On October 10, 2016, we presented interim safety data from the NeuVax = Phase 2b combination study with trastuzumab at the European Society for Medical Oncology (ESMO) 2016. The clinical trial is a randomized, multicenter, investigator-sponsored, 300 patient Phase 2b study enrolling HER2 1+ and 2+ node positive, and high-risk node negative patients. The poster, entitled  ,      Interim safety analysis of a phase II trial combining trastuzumab and NeuVax, a HER2-targeted peptide vaccine, to prevent breast cancer recurrence in HER2 low expression,    demonstrated that this novel combination of trastuzumab and NeuVax in HER2 low-expressing (LE) patients is well-tolerated and the cardiac effects of trastuzumab are not impacted by the addition of NeuVax.  
+    
+  Presented GALE-301 FBP Expression Data 
+    
+    On September 27, 2016, we presented data on the association between clinical outcomes and folate binding protein (FBP) expression from our GALE-301 Phase 1/2a clinical trial at the CRI-CIMT-EATI-AACR International  
+  
+   26 
+
+Cancer Immunotherapy Conference. The poster, entitled,    Improved disease-free survival in endometrial and ovarian cancer patients with low folate binding protein expression after treatment with the E39 peptide vaccine in a phase I/IIa trial,    reported clinical outcomes based on FBP expression level. The data revealed a disease free survival (DFS) benefit in patients with low FBP expression (FBPlo), but not in patients with high FBP expression (FBPhi). 
+    
+  Presented Preclinical NeuVax data in Ovarian and Pancreatic Cancer 
+    
+  On September 13, 2016, preclinical NeuVax data was presented at the Progress in Vaccination Against Cancer (PIVAC) Conference.  NeuVax contains the immunodominant peptide derived from the extracellular region of the HER2 protein, which is expressed in ovarian and pancreatic cancers as well as in breast cancer.  The poster, entitled,    Preclinical study on the efficacy of NeuVax peptide vaccine against human Her2+/ HLA-A2.1+ ovarian and pancreatic cancer,    demonstrated the results of HLA-A2 transgenic mice that were immunized with NeuVax (E75) mixed with recombinant mouse GM-CSF (NeuVax mice). Administration of the NeuVax vaccination resulted in a specific, delayed-type hypersensitivity (DTH) reaction and in the induction of E75 specific CD8+ T cells that express PD-1 (programmed T-cell death protein). Both ovarian and pancreatic tumor growth rate was significantly reduced in NSG mice that received the CD8+ T cells from NeuVax-immunized mice compared to those receiving CD8+ T cells from control mice. Additionally, the expression of PD-1 on activated CD8+ T cells suggests an opportunity to investigate the efficacy of NeuVax in combination with PD-1 inhibitors.  
+    
+  Expanded GALE-401 Intellectual Property Protection with Patent Issuance in Japan 
+    
+  On September 12, 2016, GALE-401 was issued a second Japanese Patent (JP Patent #5985719) containing composition and method of use claims for GALE-401, anagrelide controlled release.  The patent covers the treatment of patients suffering from myeloproliferative diseases, including myeloproliferative neoplasms (MPNs) such as essential thrombocythemia (ET) and polycythemia vera.  The patent provides GALE-401 exclusivity until 2029, not including any patent term extensions. 
+    
+  Completed Financings  
+    
+  On July 13, 2016, we closed the previously announced underwritten registered direct offering of common stock and warrants. The net proceeds to us were approximately $11.7 million. 
+
+27 
+
+Results of Operations for the Three and Nine Months Ended   September 30, 2016   and 2015 
+    
+  For the three months ended   September 30, 2016  , our net loss was   $6.9 million   compared with a net loss of   $18.0 million   for the three months ended   September 30, 2015  ,   with the   $11.1 million   decrease in net loss being primarily attributable to a   $9.1 million   decrease in loss from discontinued operations. The loss from discontinued operations during the three months ended September 30, 2015 includes an $8.1 million impairment charge from classification of our commercial asset group as held for sale. In addition to the decrease in loss from discontinued operations, we decreased our operating loss   $2.2 million   and the non-operating income was comparable between the two periods as a result of a reduction in research and development expenses with the closing of the PRESENT clinical trial during the third quarter of 2016. 
+
+For the nine months ended   September 30, 2016  , our net loss was   $18.0 million   compared with a net loss of   $44.2 million   for the nine months ended   September 30, 2015  . Loss from continuing operations for the nine months ended   September 30, 2016   was   $9.2 million   compared with a loss from continuing operations of   $28.2 million   for the nine months ended   September 30, 2015  , which was primarily driven by a non-cash net change in our warrant liability of   $15.2 million   from a   $1.0 million   loss in the first nine months of 2015 to a   $14.2 million   gain in the nine months ended September 30, 2016. In addition, to the non-cash gain on our warrant liability, the revaluation of our contingent purchase price consideration as of   September 30, 2016   resulted in an additional   $5.2 million   non-cash gain for the nine months then ended   September 30, 2016   compared to a   $0.1 million   non-cash gain for the nine months ended   September 30, 2015  .  
+
+Further analysis of the changes and trends in our operating results are discussed below. 
+
+28 
+
+Research and Development Expense 
+    
+  Research and development expense consists primarily of clinical trial expenses, compensation-related costs for our employees dedicated to research and development activities, and licensing fees and patent prosecution costs. Research and development expense for the three and nine months ended   September 30, 2016   and   2015  , respectively, was as follows (dollar amounts in thousands): 
+
+The majority of our research and development expenses to date relate to our Phase 3 PRESENT clinical trial using NeuVax as a HER2 directed cancer immunotherapy under evaluation to prevent breast cancer recurrence after standard of care treatment. The trial costs were more significant during the recruitment and enrollment phase. We established more than 140 sites in 13 counties and screened over 3,300 patients in order to enroll qualifying patients who currently have no available treatment options to maintain their disease-free status after their standard of care. Once the patient is enrolled, they received vaccination and were to be monitored for a minimum of three years for recurrence of breast cancer, development of other cancers, or death. On April 14, 2015 we announced the completion of over-enrollment in the PRESENT trial of 758 patients, which was 7.7% higher than called for under our FDA-approved Special Protocol Assessment. 
+    
+  The decrease in research and development expense of 37% for the three months ended   September 30, 2016   compared to the three months ended   September 30, 2015   in research and development expense was primarily due to the closing of the Phase 3 PRESENT clinical trial, partially offset by additional consulting expenses incurred in connection with the investigation of the PRESENT trial stop for futility and subsequent termination of the trial. The decrease of 19% for the nine months ended   September 30, 2016   compared to the nine months ended   September 30, 2015   in research and development expense was primarily due to the decrease in enrollment efforts surrounding our Phase 3 PRESENT clinical trial, partially offset by additional consulting expenses incurred from the investigation of the PRESENT trial following the IDMC recommendation to stop for futility. 
+    
+  The completion of over-enrollment in April 2015 reduced expenses related to the trial as we entered the monitoring phase and continued toward our interim analysis on June 24, 2016, which resulted in the stop and eventual closing of the Phase 3 PRESENT trial in the third quarter of 2016. The decrease in recruitment and enrollment expenses related to the Phase 3 PRESENT clinical trial were partially offset by recruitment, enrollment, and monitoring expenses in our other ongoing or planned clinical trials. We expect the remainder of 2016 research and development expenses to decrease as we closed down the Phase 3 PRESENT trial upon the recommendation of the IDMC, and will focus on our other ongoing and planned clinical trials including GALE-401 that is expected to initiate a Phase 3 trial in 2017. We expect our research and development expense to decrease in the fourth quarter of 2016 and into 2017 to be between $4-$6 million per quarter based on currently ongoing or planned clinical trials as of September 30, 2016. 
+
+29 
+
+General and Administrative Expense 
+    
+  General and administrative expense includes compensation-related costs for our employees dedicated to general and administrative activities, legal fees, audit and tax fees, consultants and professional services, and general corporate expenses. General and administrative expense for the three and nine months ended   September 30, 2016   and   2015  , respectively, was as follows (dollars in thousands): 
+
+The 2% decrease in selling, general, and administrative expense for the three months ended September 30, 2016 compared to the three months ended September 30, 2015 was driven by a $0.2 decrease in legal expenses incurred with final approval of the settlement of our class action and derivative litigation on June 24, 2016 and the ongoing SEC investigation and other governmental investigations, as well as a $0.2 million decrease in stock based compensation. The 21% increase in general, and administrative expense for the nine months ended September 30, 2016 compared to the nine months ended September 30, 2015 was driven by an increase of $0.5 million non-cash stock-based compensation, an increase of $0.5 million for outside services for recruitment fees for two new directors and replacing our chief financial officer and proxy solicitation services, and additional legal expenses incurred with final approval of the settlement of our class action and derivative litigation on June 24, 2016 and the ongoing SEC investigation. 
+    
+  Non-Operating Income (Expense) 
+    
+  Non-operating income (expense) for the three and nine months ended   September 30, 2016   and   2015  , respectively, was as follows (dollars in thousands): 
+
+The decrease in our net non-operating income (expense) during the three months ended   September 30, 2016   compared to the three months ended   September 30, 2015   was primarily due to a significant increase in interest expense. The increase in interest expense included $0.8 million of non-cash interest expense because of amortization of debt issuances costs and August and September 2016 interest being added to the outstanding principal related to the Debenture, which will begin amortizing in November 2016. The increase in interest expense was partially offset by an increase in the gain on our warrant liability from $2.1 million during the three months ended   September 30, 2015   to a $3.7 million gain during the three months ended   September 30, 2016  .  
+
+30 
+
+The increase in our net non-operating income (expense) during the nine months ended   September 30, 2016   compared to the nine months ended   September 30, 2015   was primarily due to a significant decrease in the fair value of warrants accounted for as liabilities. This decrease in the estimated fair value of our warrant liabilities was primarily due to the decrease in our common stock price, which is one of the most impactful inputs into the pricing model we use to estimate the fair value of our warrant liabilities. In addition to the decrease in the fair value of warrants, our contingent purchase price consideration related to the approval of NeuVax also decreased. The interim analysis of the PRESENT Phase 3 clinical trial and subsequent close down of the trial triggered an intangible asset and goodwill impairment analysis of the carrying amount and the fair value was determined to exceed the carrying amount based on the other ongoing and planned trials with NeuVax. The contingent purchase price consideration is fair valued at each reporting period and the lower probability and extended time line for approval were updated to align with the valuation performed of NeuVax and significantly decreased the fair value which are the two largest variables impacting the liability. 
+    
+  The change in fair value of warrants and the change in contingent purchase price consideration are both non-cash. Management believes these adjustments may not always accurately reflect the operating, economic activities, or obligations undertaken by the Company. 
+    
+  Income Taxes 
+    
+  For the three and nine months ended   September 30, 2016   and 2015, there was no income tax benefit or expense recognized. 
+
+31 
+
+Discontinued Operations 
+    
+  During the quarter ended September 30, 2015, we completed a strategic review of our commercial business and operations, and as a result of that review we sold the assets of our commercial business during the fourth quarter of 2015.  We believe this disposition allows us to focus our resources on our clinical development programs and maximize the value of these assets to our shareholders.  
+    
+  The following table represents the components attributable to the commercial operations that are presented in the condensed consolidated statements of operations as discontinued operations (in thousands): 
+
+Discontinued operations are comprised of net revenue, cost of revenue, and expenses attributable to our commercial operations, which were sold in the fourth quarter of 2015. 
+     Net Revenue   included in discontinued operations comprises revenue from the sale of Abstral, which was provided by our commercial operations.  
+     Additional Channel Obligations   included in discontinued operations in the first quarter of 2016 is comprised of larger than anticipated rebates of Abstral sales that we are responsible for through the end of the first quarter of 2016. The increase in rebates was driven by larger than expected volumes through these rebate channels and additional price protection provisions. The increase in rebates was partially offset by lower than expect patient assistance program reimbursement. The additional channel obligations for the nine months ended September 30, 2016 relate to adjusted Medicaid billings from previous quarters since the first quarter of 2014. 
+     Cost of revenue   included in discontinued operations consists of direct products costs and related overhead, Abstral royalties based on net revenue, inventory obsolescence, and other direct costs.  
+     Research and development expense   included in discontinued operations consists of expenses related to our Abstral RELIEF trial and other product stability costs. 
+     Selling, general and administrative expense   included in discontinued operations consists of all other expenses of our commercial operations that are required in order to market and sell our marketed products. These expenses include all personnel related costs, marketing, data, consulting, legal, consulting, and other outside services necessary to support the commercial operations. During the three and nine months ended September 30, 2016 we incurred $2.0 million and $6.7 million respectively, in selling, general, and administrative expense in discontinued operations, of which $2.0 million and $6.4 million for the three and nine months ended September 30, 2016, respectively, related to legal expenses from external counsel associated with document production for the subpoenas related to the sales and marketing practices of Abstral. We expect the expenses to wind down in the fourth quarter of 2016. These legal proceedings are further disclosed in Part II, Item 1.  
+  
+   32 
+
+Liquidity and Capital Resources 
+    
+  We had cash and cash equivalents of approximately   $24.5 million   as of   September 30, 2016  , compared with   $29.7 million   as of December 31, 2015.  
+    
+  The decrease of approximately   $5.2 million   in our cash and cash equivalents from December 31, 2015 to   September 30, 2016   was attributable primarily to $36.9 million used in operating activities, $1.1 million in selling expenses related to the sale of our commercial products in the fourth quarter of 2015, and $4.8 million in payments on long-term debt. The decrease was partially offset by $32.0 million in net proceeds from issuance of common stock and warrants to purchase common stock. 
+    
+  On May 10, 2016, we entered into a Securities Purchase Agreement, with certain purchasers pursuant to which the Company sold, at a 6.375% original issue discount, a total of $25.5 million Senior Secured Debentures ( Debenture ) and warrants to purchase up to 2.0 million shares of the our common stock. Net proceeds to the Company from sale of the Debenture, after payment of commissions and legal fees, were approximately $23.4 million. The Debenture matures November 10, 2018, and accrue interest at 9% per year and contain no conversion features to shares of our common stock. The Debenture carries an interest only period of six months following which the holder shall have the right under the Debenture, commencing November 10, 2016, to require the Company to redeem the outstanding balance in cash, shares of the Company s common stock or a combination thereof, except that the maximum monthly amount of such redemptions was increased from $1,100,000 to $1,500,000 under the amended Debenture; provided, that if the trading price of the Company s common stock is at least $0.40 per share (as adjusted appropriately for stock splits, combinations or similar events) during such calendar month, then such monthly maximum redemption amount may be increased to $2,200,000 at the holder s election and if the Company has already elected to satisfy such redemptions in shares of common stock. In addition, notwithstanding the foregoing limitations on the monthly redemption amount, the holder may elect up to three times in any 12-month period to increase the monthly maximum to $2,500,000. 
+    
+  The amended Debenture provides that, following November 10, 2016, the holder may elect to convert any portion of the outstanding balance into shares of common stock at a fixed price of $0.60 per share (as adjusted appropriately for stock splits, combinations or similar events). Therefore as of September 30, 2016 the Debenture, net of unamortized discounts, are presented as current liabilities on the condensed consolidated balance sheet.  
+    
+  The Company s obligations under the Debenture can be accelerated in the event the Company undergoes a change in control and other customary events of default. In the event of default and acceleration of the Company s obligations, the Company would be required to pay all amounts of principal and interest then outstanding under the Debenture in cash. The Company s obligations under the Debenture are secured under a security agreement by a senior lien on all of the Company s assets, including all of the Company s interests in its consolidated subsidiaries. Until the holder exercises its right to require the Company to prepay some or all of the loan, the Company must also maintain the lesser of a minimum of $18.5 million in cash or the outstanding balance, which is included in restricted cash as of September 30, 2016.  
+    
+  The Company will need to continue to incur significant expenses to advance our development portfolio and will need to raise additional capital to finance such activities. The Company cannot be certain that it will be able to raise additional capital on favorable terms, or at all, which raises substantial doubt about the Company s ability to continue as a going concern. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. The current unrestricted cash and cash equivalents as of the date of this filing will fund the Company's operations for at least nine months. 
+    
+  In addition to the sale of Debentures and July 2016 registered direct equity offering, the Company has a Purchase Agreement with Lincoln Park Capital, LLC and At Market Issuance Sales Agreements ("ATM") with FBR   Co. (formerly MLV   Co. LLC) and Maxim Group LLC. The Purchase Agreement and ATM are currently available to the Company with $41.6 million and $19.8 million, respectively available with each facility. The Company cannot provide assurances that its plans will not change or that changed circumstances will not result in the depletion of its capital resources more rapidly than it currently anticipates. The Company is seeking and will need to raise additional capital, whether through a sale of equity or debt securities, a strategic business collaboration with a pharmaceutical company, the establishment of other funding facilities, licensing arrangements, asset sales or other means, in order  
+  
+   33 
+
+to continue the development of the Company's product candidates and to support its other ongoing activities. However, the Company cannot provide assurances that such additional capital will be available on acceptable terms or at all. 
+    
+  Cash Flows 
+    
+  The following table summarizes our cash flows from operating, investing, and financing activities for the nine months ended   September 30, 2016   and 2015 (amounts in thousands): 
+
+Net Cash Flow from Operating Activities 
+    
+  Net cash used in operating activities increased   $4.0 million   for the nine months ended   September 30, 2016  , compared to the nine months ended   September 30, 2015  . The increase in cash used in operating activities was driven by an increase of   $4.1 million   cash used in our discontinued operating activities. The increase in total net cash used in continuing operating activities was due to payments made for severance and exit costs related to our sales and marketing team, payments on channel liabilities for Abstral and Zuplenz, and defense costs related to the ongoing government investigations. 
+    
+  Net Cash Flow from Investing Activities 
+    
+  Net cash used in investing activities was   $1.1 million   for the nine months ended   September 30, 2016  , compared with   $0.8 million   for the nine months ended   September 30, 2015  . The increase was due to $1.1 million of payments for selling costs paid in the first quarter of 2016 that were incurred from the sale of commercial assets in the fourth quarter of 2015 compared to the $0.5 million milestone payment for U.S. rights to Zuplenz during the first quarter of 2015.  
+
+34 
+
+Net Cash Flow from Financing Activities 
+    
+  Net cash provided by financing activities was   $32.8 million   for the nine months ended   September 30, 2016  , compared with   $44.9 million   for the nine months ended   September 30, 2015  . The decrease was primarily attributable to $47.4 million in net proceeds from the issuance of common stock and warrants to purchase common stock during the nine months ended   September 30, 2015   compared to $32.0 million in net proceeds from the issuance of common stock and warrants to purchase common stock during the nine months ended   September 30, 2016  . The cash flows provided by financing activities were partially offset by principal payments on long-term debt of $4.8 million and $2.9 million for the nine month periods ended   September 30, 2016   and 2015, respectively. 
+
+35 
+
+Off-Balance Sheet Arrangements 
+    
+  We have not entered into any off-balance sheet financing arrangements other than operating leases. 
+    
+  Critical Accounting Policies and Estimates 
+    
+  In our Annual Report on Form 10-K for the year ended December 31, 2015, we disclosed our critical accounting policies and estimates upon which our financial statements are derived. There have been no changes to these policies since December 31, 2015 that are not included in Note 1 of the accompanying condensed consolidated financial statements for the three and nine months ended September 30, 2016. Readers are encouraged to read our Annual Report on Form 10-K in conjunction with this report. 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+    
+  The primary objective of our investment activities is to preserve capital. We do not utilize hedging contracts or similar instruments. 
+    
+  We are exposed to certain market risks relating primarily to interest rate risk on our cash and cash equivalents and risks relating to the financial viability of the institutions which hold our capital and through which we have invested our funds. We manage the latter risks by investing primarily in money market mutual funds. 
+  In addition, we are exposed to foreign currency exchange rate fluctuations relating to payments we make to certain vendors and suppliers and license partners using foreign currencies. We do not hedge against foreign currency risks. Consequently, changes in exchange rates could adversely affect our operating results and stock price. Such losses have not been significant to date. 
+
+36 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+    
+  Disclosure Controls and Procedures 
+    
+  As of the end of the period covered by this quarterly report on Form 10-Q, our principal executive officer and our principal financial officer (the  Certifying Officers ), evaluated the effectiveness of our disclosure controls and procedures. Disclosure controls and procedures are controls and procedures designed to reasonably assure that information required to be disclosed in our reports filed under the Securities Exchange Act of 1934 (the  Exchange Act ), such as this quarterly report on Form 10-Q, is recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms. Disclosure controls and procedures are also designed to reasonably assure that such information is accumulated and communicated to our management, including the Certifying Officers, as appropriate to allow timely decisions regarding required disclosure. Based on these evaluations, the Certifying Officers have concluded, that, as of the end of the period covered by this quarterly report on Form 10-Q: 
+    
+           (a) 
+    our disclosure controls and procedures were effective to provide reasonable assurance that information required to be disclosed by us in the reports we file or submit under the Exchange Act was recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms; and 
+       
+           (b) 
+    our disclosure controls and procedures were effective to provide reasonable assurance that material information required to be disclosed by us in the reports we file or submit under the Exchange Act was accumulated and communicated to our management, including the Certifying Officers, as appropriate to allow timely decisions regarding required disclosure. 
+       
+  Changes in Internal Control over Financial Reporting 
+    
+  There has been no change in our internal control over financial reporting that occurred during the three and nine months ended   September 30, 2016   that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+37 
+
+PART II - OTHER INFORMATION 
+   
+  Legal Proceedings 
+  On June 24, 2016, the U.S. District Court for the District of Oregon entered a final order and judgment in   In re Galena Biopharma, Inc. Derivative Litigation  , granting final approval to the settlement awarding attorney s fees of $4.5 million plus costs, which was paid by our insurance carriers. The settlement included a payment of $15 million in cash by our insurance carriers, which we used to fund a portion of the class action settlement, and cancellation of 1,200,000 outstanding director stock options. The settlement also required that we adopt and implement certain corporate governance measures. The settlement did not include any admission of wrongdoing or liability on the part of us or the individual defendants and included a full release of us and the current and former officers and directors in connection with the allegations made in the consolidated federal derivative actions and state court derivative actions. 
+    
+  On June 24, 2016, the U.S. District Court for the District of Oregon entered a final order and partial judgment in   In re Galena Biopharma, Inc. Securities Litigation  , granting final approval of the settlement awarding attorney s fees of $4.5 million plus costs, which was paid out of the settlement funds. The settlement agreement provided for a payment of $20 million to the class and the dismissal of all claims against us and our current and former officers and directors in connection with the consolidated federal securities class actions. Of the $20 million settlement payment to the class, $16.7 million was paid by our insurance carriers and $2.3 million in cash was paid by us on July 1, 2016, along with $1 million in shares of our common stock (480,053 shares) issued by us on July 6, 2016. We are responsible for defense costs and any settlements or judgments incurred for any related opt-out lawsuits.  
+    
+  In July 2016, we resolved claims brought by shareholders that relate to the securities litigation mentioned above in one case for $150,000 plus $150,000 in shares (291,262 shares) of our common stock, and in another case for $1.5 million in shares of our common stock (3,366,750 shares). The shares issued in connection with such settlements are included in the secondary offering filed on July 25, 2016. The settlements did not include any admission of wrongdoing or liability on the part of us or any of the current or former directors and officers and included a full release of us and the current and former directors and officers in connection with the allegations made. We are not aware of any other claims made by shareholders who have opted out of the securities litigation. 
+    
+  On October 13, 2016, we filed a complaint in the Circuit Court for the County of Multnomah for the State of Oregon against Aon Risk Insurance Services West, Inc. where we are seeking attorney's fees, costs and expenses incurred by us related to our coverage dispute with a certain insurer and for amounts we were required to contribute to the settlements of   In Re Galena Biopharma, Inc. Derivative Litigation   and   In Re Galena Biopharma, inc. Securities Litigation   as a direct result of certain insurer's failure to pay its full policy limits of liability and other relief. 
+    
+  We are aware that the SEC is investigating certain matters relating to the use of certain outside investor-relations professionals by us and other public companies. We have been in contact with the SEC staff through our counsel and are cooperating with the investigation and in discussions with the SEC staff to resolve the investigation. 
+    
+  A federal investigation of two of the high-prescribing physicians for Abstral has resulted in the criminal prosecution of the two physicians for alleged violations of the federal False Claims Act and other federal statutes. The criminal trial is set for January 2017. We have received a trial subpoena for documents in connection with that investigation and we have been in contact with the U.S. Attorney s Office for the Southern District of Alabama, which is handling the criminal trial, and are cooperating in the production of documents. On April 28, 2016, a second superseding indictment was filed in the criminal case, which added additional information about the defendant physicians and provided information regarding the facts and circumstances involving a rebate agreement between the Company and the defendant physicians  pharmacy as well as their ownership of our stock. Certain former employees have received trial subpoenas to appear at the trial and provide oral testimony. We have agreed to reimburse those former employees  attorney s fees. To our knowledge, we are not a target or subject of that investigation. 
+
+38 
+
+There also have been federal and state investigations of a company that has a product that competes with Abstral in the same therapeutic class, and we have learned that the FDA and other governmental agencies are investigating our Abstral promotion practices. On December 16, 2015, we received a subpoena issued by the U.S. Attorney s Office for the District of New Jersey requesting the production of a broad range of documents pertaining to our marketing and promotional practices for Abstral. We have been in contact with the U.S. Attorney s Office for the District of New Jersey and are cooperating in the production of the requested documents. We are unable to predict whether we could become subject to legal or administrative actions as a result of these matters, or the impact of such matters. If we are found to be in violation of the False Claims Act, Anti-Kickback Statute, Patient Protection and Affordable Care Act, or any other applicable state or any federal fraud and abuse laws, we may be subject to penalties, such as civil and criminal penalties, damages, fines, or an administrative action of exclusion from government health care reimbursement programs. We can make no assurances as to the time or resources that will need to be devoted to these matters or their outcome, or the impact, if any, that these matters or any resulting legal or administrative proceedings may have on our business or financial condition. 
+
+39 
+
+ITEM 1A. RISK FACTORS 
+    
+  In addition the risk factors included in our Annual Report on Form 10-K for the year ended December 31, 2015 filed and our most recent Quarterly Reports on Form 10-Q for quarters ended March 31, 2016 and June 30, 2016 with the SEC, you should consider the following new or updated risk factors: 
+    
+  Our common stock is currently trading at prices less than $1.00, which is the minimum bid price requirement under NASDAQ s continued listing standards. If our common stock continues to trade at such prices, our common stock may be subject to delisting from the NASDAQ Capital Market. 
+    
+  The continued listing requirements of the NASDAQ Capital Market require that the closing bid price of our common stock not be less than $1.00. Following our announcement on June 29, 2016, that we had stopped our PRESENT trial, the closing bid price of our common stock has been less than $1.00. We received a letter from NASDAQ advising us that we are not in compliance with its continued listing requirements under NASDAQ Listing Rule 5502(a)(2). In accordance with Nasdaq Listing Rule 5810(c)(3)(A), we have 180 calendar days to regain compliance with the $1.00 minimum bid price requirement. We can regain compliance with the $1.00 minimum bid listing requirement if the closing bid price is at least $1.00 per share for a minimum of ten consecutive trading days during this initial 180-day compliance period. If compliance is not achieved within the 180-day period, NASDAQ would provide written notification to us that our common stock is subject to delisting. 
+    
+  In the event that we fail to regain compliance with NASDAQ continued listing standards by the expiration of the applicable cure period or any extension period, NASDAQ will commence suspension and delisting procedures with respect to our common stock, which could impair the value of your investment. If our common stock is delisted from NASDAQ Capital Market in the future, such securities may be traded over-the-counter on the  pink sheets.  Such alternative market, however, is generally considered to be less efficient than, and not as broad as, NASDAQ. Accordingly, delisting of our common stock from NASDAQ could have a significant negative effect on the trading volume, liquidity and market price of our common stock. In addition, the delisting of our common stock could adversely affect our ability to raise capital on terms acceptable to us or at all and could reduce the number of investors willing to hold or acquire our common stock. 
+    
+  We are, and in the future may be, subject to legal or administrative actions that could adversely affect our financial condition and our business. 
+    
+  We are aware that the SEC is investigating certain matters relating to the use of certain outside investor-relations professionals by us and other public companies. We have been in contact with the SEC staff through our counsel and are cooperating with the investigation and in discussions with the SEC staff to resolve the investigation  . 
+    
+  Litigation is inherently uncertain. We have incurred and may continue to incur substantial unreimbursed legal fees and other expenses in connection with these or other legal and regulatory proceedings that may not qualify for coverage under, or may exceed the limits of, our applicable directors and officers liability insurance policies and could have a material adverse effect on our financial condition, liquidity, and results of operations. These matters also may distract the time and attention of our officers and directors or divert our other resources away from our ongoing development programs. An unfavorable outcome in any of these matters could damage our business and reputation or result in additional claims or proceedings against us. 
+    
+  The terms of our outstanding indebtedness may inhibit potential acquirers. 
+    
+  We are prohibited by the terms of our outstanding indebtedness from disposing of any of our business or property, except with the consent of our lenders or if we were to prepay the outstanding indebtedness and related fees in accordance with the loan security agreement. Our outstanding indebtedness may inhibit potential acquirers or other interested parties from seeking to acquire all or a part of our business or assets, and there is no assurance that our lenders would consent to any proposed future transaction that might be beneficial to our stockholders. 
+
+40 
+
+Risks Relating to Our Financial Position and Capital Requirements 
+    
+  We may not be able to obtain sufficient financing, and may not be able to develop our product candidates. 
+    
+  We had cash and cash equivalents of approximately $24.5 million as of September 30, 2016. In addition, under the terms of an amended debenture, we have approximately $18.5 million of restricted cash that is reserved for a lender who had the option to redeem all, or part, of such amount within 30 trading days of our public announcement on June 29, 2016, of the discontinuation of the Phase 3 PRESENT Trial upon the IDMC s recommendation on June 27, 2016. We negotiated an amendment with the lender in part, that reduce the restricted cash amount to the lesser of $18.5 million our the outstanding balance of the amended debenture under certain conditions.  
+    
+  We had no revenue for the quarter ending September 30, 2016, and our cash burn from operations for the quarter ending September 30, 2016 was approximately $12.4 million. We believe that our existing cash and cash equivalents should be sufficient to fund our operations for at least nine months. This projection is based on our current planned operations, wind down costs of the PRESENT Trial and further analysis of the data and causes of the failure of such clinical trial, anticipated payments for defense costs for the cooperation and discussions with the staff in the SEC investigation and other governmental investigations, resolution of the SEC investigation and is subject to changes in our plans and uncertainties inherent in our business. We will need to seek to replenish our existing cash and cash equivalents prior over the next nine months. We also have funding available under our amended purchase agreement with Lincoln Park Capital Fund, LLC and sales agreements with FBR and Maxim Group LLC described in the previously filed prospectuses, but there is no guarantee that such funding will be available to us on favorable terms or will be sufficient to meet all of our future funding needs. Additionally, in connection with the July Financing, we have agreed not to issue any shares of our common stock (including under our purchase agreement with Lincoln Park Capital Fund, LLC and under our sales agreements with FBR and Maxim Group LLC) for a period of 75 days from the date of the closing of the July Financing. 
+    
+  At our annual meeting of stockholders adjourned on July 15, 2016, our stockholders approved an increase in our authorized common stock from 275,000,000 to 350,000,000. In addition, our shareholders authorized the Board to approve a reverse stock split within twelve months of October 21, 2016 at a ratio within 1:2 and 1:20.  There was no reduction in the amount of authorized shares. The Board approved a reverse stock split at a ratio of 1:20 to be effective November 11, 2016, we are not able to predict whether volume of shares post reverse stock split will be sufficient based upon the reverse stock split price to meet the Company s ongoing financing requirements to maintain the Company s operations. If we fail to obtain additional future funding when needed, we could be forced to scale back or terminate our operations, or to seek to merge with or to be acquired by another company. We may not be able to meet our obligations as they come due, raising substantial doubts as to our ability to continue as a going concern. Any such inability to continue as a going concern may result in our common stock holders losing their entire investment. There is no guaranty that we will become profitable or secure additional financing. 
+    
+  Risks Relating to Our Development Programs 
+    
+  We are dependent upon contract manufacturers for clinical supplies of our product candidates. 
+    
+  We do not have the facilities or expertise to manufacture supplies of any of our product candidates for clinical trials. Accordingly, we are dependent upon contract manufacturers for these supplies. There can be no assurance that we will be able to secure needed supply arrangements on reasonable terms, or at all. Our failure to secure these arrangements as needed could have a materially adverse effect on our ability to complete the development of our product candidates or, if we obtain regulatory approval for our product candidates, to commercialize them. 
+    
+  Our current plans call for the manufacture of our compounds by contract manufacturers offering research grade, Good Laboratory Practices grade and Good Manufacturing Practices grade materials for preclinical studies (e.g., toxicology studies) and for clinical use. Certain of our product candidates are complex molecules requiring many synthesis steps, which may lead to challenges with purification and scale-up. These challenges could result in increased costs and delays in manufacturing. 
+    
+  For GALE-401, we will change contract manufacturers for the supply of the clinical study drug and the commercial product, which may lead to delays in the initiation and completion of the Phase 3 trial and filing for regulatory approval. 
+
+41 
+
+We are subject to competition and may not be able to compete successfully. 
+    
+  The biotechnology industry, including the cancer immunotherapy market, is intensely competitive and involves a high degree of risk. We compete with other companies that have far greater experience and financial, research and technical resources than us. Potential competitors in the U.S. and worldwide are numerous and include pharmaceutical and biotechnology companies, educational institutions and research foundations, many of which have substantially greater capital resources, marketing experience, research and development staffs and facilities than us. Some of our competitors may develop and commercialize products that compete directly with those incorporating our technology, introduce products to market earlier than our products or on a more cost effective basis. In addition, our technology may be subject to competition from other technology or methods developed using techniques other than those developed by traditional biotechnology methods. Our competitors compete with us in recruiting and retaining qualified scientific and management personnel as well as in acquiring technologies complementary to our technology. We and our collaborators may face competition with respect to product efficacy and safety, ease of use and adaptability to various modes of administration, acceptance by physicians, the timing and scope of regulatory approvals, availability of resources, reimbursement coverage, price and patent position, including the potentially dominant patent positions of others. An inability to successfully complete our product development could lead to us having limited prospects for establishing market share or generating revenue from our technology. 
+    
+  GALE-401 contains the active ingredient, anagrelide, a FDA-approved product, for the treatment of patients with 
+  myeloproliferative neoplasms (MPNs) to lower abnormally elevated platelet levels. The currently available immediate release (IR) version of anagrelide causes adverse events that are believed to be dose and plasma concentration dependent. These adverse events may limit the use of the IR version of the drug. Therefore, reducing the maximum concentration (Cmax) is hypothesized to reduce the side effects, but preserve efficacy, potentially allowing a broader use of the drug. We have analyzed our data and the treatment landscape for MPNs, with a current focus on Essential Thrombocythemia (ET) where we see an unmet medical need in patients who are intolerant to the current standard of care. We are advancing GALE-401into a pivotal trial. The risks include regulatory (agreement with regulatory agency on the development plan), operational (rate of enrollment), and statistical confirmation of the expected therapeutic efficacy. In addition, there are other potential competitors whose clinical trials may be successful and obtain regulatory approval prior to our regulatory approval, if our pivotal trial is successful. 
+
+42 
+
+ITEM 6. EXHIBITS 
+
+* 
+    Filed herewith.  
+
+43 
+
+SIGNATURES 
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+GALENA BIOPHARMA, INC. 
+
+By: 
+      
+    /s/   Mark W. Schwartz 
+
+Mark W. Schwartz, Ph.D. 
+
+President and Chief Executive Officer 
+
+Date: November 9, 2016 
+
+By: 
+      
+    /s/   John T. Burns 
+
+John T. Burns 
+
+Vice President, Finance and Corporate Controller (Principal Accounting Officer) 
+
+Date: November 9, 2016 
+
+44 
+
+<EX-10.2>
+ 2
+ gale20160930ex102.htm
+ EXHIBIT 10.2
+
+Exhibit 
+
+Exhibit 10.2 
+
+Galena Biopharma, Inc. 
+  2000 Crow Canyon Place Suite 380  
+  San Ramon, California 94583 
+    
+  August 8, 2016 
+    
+  Lincoln Park Capital Fund, LLC 
+  440 North Wells, Suite 410 
+  Chicago, Illinois 60654 
+    
+  Dear Ladies   Gentleman: 
+    
+  Reference is made to that certain Purchase Agreement, dated as of November 18, 2014 (the  Purchase Agreement ), by and between GALENA BIOPHARMA, INC., a Delaware corporation (the  Company ), and LINCOLN PARK CAPITAL FUND, LLC, an Illinois limited liability company (the  Investor ).  Capitalized terms used but not otherwise defined shall have the meanings set forth in the Purchase Agreement. 
+    
+  The Company and the Investor agree that effective as of the date hereof, the Purchase Agreement is amended as follows: 
+    
+           1. 
+    The second sentence of Section 2(a)  Commencement of Regular Sales of Common Stock  of the Purchase Agreement is amended and replaced in its entirety with the following: 
+       
+   Beginning one (1) Business Day following the Commencement Date, the Company shall have the right, but not the obligation, to direct the Investor, by its delivery to the Investor of a Regular Purchase Notice from time to time, to purchase up to Five Hundred Thousand  (500,000) Purchase Shares (each such purchase a  Regular Purchase ), at the Purchase Price on the Purchase Date, provided, however, that (i) the Regular Purchase may be increased to up to Seven Hundred Fifty Thousand (750,000) Purchase Shares, provided that the Closing Sale Price of the Common Stock is not below $0.40 on the Purchase Date, and (ii) the Regular Purchase may be increased to up to One Million (1,000,000) Purchase Shares, provided that the Closing Sale Price of the Common Stock is not below $0.75 on the Purchase Date (all of which share amounts shall be appropriately adjusted for any reorganization, recapitalization, non-cash dividend, stock split or other similar transaction); provided,  however, that the Investor s committed obligation under any single Regular Purchase shall not exceed Two Million Dollars ($2,000,000) (which amount shall be appropriately adjusted for any reorganization, recapitalization, non-cash dividend, stock split or other similar transaction), unless the parties mutually agree to increase the dollar amount of any Regular Purchase on any Purchase Date at the applicable Purchase Price. 
+
+Exhibit 10.2 
+
+2. 
+    The second sentence of Section 2(b)  Accelerated Purchases  of the Purchase Agreement is amended and replaced in its entirety with the following: 
+       
+   The Company may deliver an Accelerated Purchase Notice to the Investor only on a Purchase Date on which the Closing Sale Price is not below $0.50 (to be appropriately adjusted for any reorganization, recapitalization, non-cash dividend, stock split or other similar transaction).  
+    
+           3. 
+    Section 2(d)  Purchase Price Floor  is deleted in its entirety. 
+       
+           4. 
+    The first sentence of Section 2(f)  Beneficial Ownership Limitation  of the Purchase Agreement is amended and replaced in its entirety with the following: 
+       
+   Notwithstanding anything to the contrary contained in this Agreement, the Company shall not issue or sell, and the Investor shall not purchase or acquire, any shares of Common Stock under this Agreement which, when aggregated with all other shares of Common Stock then beneficially owned by the Investor and its affiliates (as calculated pursuant to Section 13(d) of the Exchange Act and Rule 13d-3 promulgated thereunder) would result in the beneficial ownership by the Investor and its affiliates of more than 4.99% of the then issued and outstanding shares of Common Stock (the  Beneficial Ownership Limitation ). 
+    
+           5. 
+    The last sentence of Section 10  Events of Default  of the Purchase Agreement is amended and replaced in its entirety with the following: 
+       
+   In addition to any other rights and remedies under applicable law and this Agreement, so long as an Event of Default has occurred and is continuing, or if any event which, after notice and/or lapse of time, would become an Event of Default, has occurred and is continuing, the Company shall not deliver to the Investor any Regular Purchase Notice or Accelerated Purchase Notice, and the Investor shall not purchase any shares of Common Stock under this Agreement.  
+    
+  Except as expressly set forth above, all other terms and conditions of the Purchase Agreement shall remain in full force and effect, without amendment thereto. 
+    
+  This amendment may be executed in counterparts, all of which taken together shall constitute one and the same original and binding instrument and shall become effective when all counterparts have been signed by each party and delivered to the other parties hereto, it being understood that all parties hereto need not sign the same counterpart. 
+
+Exhibit 10.2 
+
+Very truly yours, 
+    
+  GALENA BIOPHARMA, INC  . 
+
+By:   _/s/ Mark W. Schwartz         
+  Name: Mark W. Schwartz 
+  Title: President and CEO 
+
+Acknowledged and agreed: 
+    
+  LINCOLN PARK CAPITAL FUND, LLC 
+  By: LINCOLN PARK CAPITAL, LLC 
+  By: ROCKLEDGE CAPITAL CORPORATION 
+
+By:     /s/ Josh Scheinfeld               
+  Name:     Josh Scheinfeld 
+  Title: President 
+
+</EX-10.2>
+
+<EX-31.1>
+ 3
+ gale20160930ex311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+  PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+  I, Mark W. Schwartz, certify that: 
+  1. I have reviewed this Quarterly Report on Form 10-Q of Galena Biopharma, Inc.; 
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+  4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+  a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+  b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+  c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+  d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+  5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+  a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+  b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+  Dated:   November 9, 2016    
+
+/s/ Mark W. Schwartz 
+        
+    Mark W. Schwartz 
+        
+    President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ gale20160930ex312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  CERTIFICATION OF PRINCIPAL FINANCIAL AND ACCOUNTING OFFICER 
+  PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+  I, John T. Burns, certify that: 
+  1. I have reviewed this Quarterly Report on Form 10-Q of Galena Biopharma, Inc.; 
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+  4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+  a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+  b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+  c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+  d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+  5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+  a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+  b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+  Dated:   November 9, 2016    
+
+/s/ John T. Burns 
+        
+    John T. Burns 
+        
+    Vice President, Finance and Corporate Controller (Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ gale20160930ex321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+  In connection with the accompanying Quarterly Report of Galena Biopharma, Inc., (the  Company ) on Form 10-Q for the period ended September 30, 2016 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), the undersigned officers of the Company certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that to their knowledge: 
+  1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+  2. The information contained in the Report fairly presents, in all material respects, the Company s financial condition and result of operations. 
+    
+                   /s/ Mark W. Schwartz 
+      
+    /s/ John T. Burns 
+      Mark W. Schwartz 
+      
+    John T. Burns 
+      President and Chief Executive Officer 
+      
+    Vice President, Finance and Corporate Controller (Principal Accounting Officer) 
+
+November 9, 2016 
+      
+    November 9, 2016 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 6
+ gale-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ gale-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ gale-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ gale-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ gale-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ gale-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,1313 @@
+<Header>
+<FileStats>
+    <FileName>20161107_10-Q_edgar_data_1077183_0001564590-16-027730_1.txt</FileName>
+    <GrossFileSize>6378828</GrossFileSize>
+    <NetFileSize>182412</NetFileSize>
+    <ASCII_Embedded_Chars>216931</ASCII_Embedded_Chars>
+    <HTML_Chars>1605764</HTML_Chars>
+    <XBRL_Chars>1994614</XBRL_Chars>
+    <XML_Chars>1285609</XML_Chars>
+    <N_Tables>36</N_Tables>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001564590-16-027730.hdr.sgml : 20161107
+<ACCEPTANCE-DATETIME>20161104180552
+ACCESSION NUMBER:		0001564590-16-027730
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		60
+CONFORMED PERIOD OF REPORT:	20160930
+FILED AS OF DATE:		20161107
+DATE AS OF CHANGE:		20161104
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEOGENOMICS INC
+		CENTRAL INDEX KEY:			0001077183
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-TESTING LABORATORIES [8734]
+		IRS NUMBER:				742897368
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35756
+		FILM NUMBER:		161976172
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12701 COMMONWEALTH DRIVE
+		STREET 2:		SUITE 9
+		CITY:			FORT MYERS
+		STATE:			FL
+		ZIP:			33913
+		BUSINESS PHONE:		9419231949
+
+	MAIL ADDRESS:	
+		STREET 1:		12701 COMMONWEALTH DRIVE
+		STREET 2:		SUITE 9
+		CITY:			FORT MYERS
+		STATE:			FL
+		ZIP:			33913
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICAN COMMUNICATIONS ENTERPRISES INC
+		DATE OF NAME CHANGE:	19990120
+
+</SEC-Header>
+</Header>
+
+ 0001564590-16-027730.txt : 20161107
+
+10-Q
+ 1
+ neo-10q_20160930.htm
+ FORM 10-Q
+
+neo-10q_20160930.htm
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+
+FORM 10-Q 
+   
+ (Mark One) 
+
+For the quarterly period ended September 30, 2016. 
+ or 
+
+For the transition period from              to                       
+ Commission File Number: 001-35756 
+   
+  NEOGENOMICS, INC.  
+ (Exact name of registrant as specified in its charter) 
+
+(239) 768-0600 
+ (Registrant s telephone number, including area code) 
+   
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.   Yes          No        
+ Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes          No        
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act: 
+
+Large accelerated filer  
+
+Accelerated filer  
+
+Non-accelerated filer  
+
+(Do not check if a smaller reporting company)  
+ 
+ Smaller reporting company  
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).   Yes          No        
+ As of November 2, 2016, the registrant had 78,512,921 shares of Common Stock, par value $0.001 per share outstanding. 
+
+1 
+
+TABLE OF CONTENTS  
+
+PART I FINANCIAL INFORMATION      
+
+Item 1. Financial Statements (unaudited)      
+
+4  
+
+Item 2. Management s Discussion and Analysis of  Financial Condition and Results of Operations      
+
+17  
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk      
+
+33  
+
+Item 4. Controls and Procedures      
+
+33  
+
+PART II OTHER INFORMATION      
+
+Item 1. Legal Proceedings      
+
+34  
+
+Item 1A. Risk Factors      
+
+34  
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds      
+
+34  
+
+Item 3. Defaults Upon Senior Securities      
+
+34  
+
+Item 4. Mine Safety Disclosures      
+
+34  
+
+Item 5. Other Information      
+
+34  
+
+Item 6. Exhibits      
+
+35  
+
+SIGNATURES      
+
+36  
+
+2 
+
+FORWARD-LOOKING STATEMENTS  
+   The information in this Quarterly Report on Form 10-Q contains  forward-looking statements  and information within the meaning of Section 27A of the Securities Act of 1933, as amended (the  Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended (the  Exchange Act ) relating to NeoGenomics, Inc., a Nevada corporation and its subsidiaries, NeoGenomics Laboratories, Inc., a Florida corporation ( NEO ,  NeoGenomics Laboratories ), NeoGenomics Bioinformatics Inc., a Florida corporation, Path Labs LLC, a Delaware limited liability company ( PathLogic ) and Clarient, Inc., a Delaware corporation and its wholly owned subsidiary, Clarient Diagnostic Services, Inc. (together  Clarient ) (collectively referred to as  we ,  us ,  our ,  NeoGenomics , or the  Company ), which are subject to the  safe harbor  created by those sections.  These forward-looking statements include, but are not limited to, statements concerning our strategy, future operations, future financial position, future revenues, projected costs, prospects and plans and objectives of management. The words  anticipates,   believes,   estimates,   expects,   intends,   may,   plans,   projects,   will,   would  and similar expressions are intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements and you should not place undue reliance on our forward-looking statements. These forward-looking statements involve known and unknown risks and uncertainties that could cause our actual results, performance or achievements to differ materially from those expressed or implied by the forward-looking statements, including, without limitation, the risks set forth under  Risk Factors  and in Part I, Item 1A,  Risk Factors  contained in our Quarterly Report on Form 10-Q for the period ended June 30, 2016; as filed with the SEC on Au  gust 5, 2016.   
+   
+ Forward looking statements include, but are not limited to, statements about: 
+
+Our ability to implement our business strategy;    
+
+Our ability to integrate acquired businesses, including our acquisition of Clarient, Inc. and costs related to such acquisitions;    
+
+Our ability to expand our operations and increase our market share;    
+
+Our ability to expand our service offerings by adding new testing capabilities;    
+
+The impact of internalization of testing by customers;    
+
+Our ability to compete with other diagnostic laboratories;    
+
+O  ur ability to successfully scale our business, including expanding our facilities, our backup systems and infrastructure;     
+
+Our ability to hire and retain sufficient managerial, sales, clinical and other personnel to meet our needs;    
+
+O  ur ability to meet our future capital requirements;    
+
+U.S. Food and Drug Administration proposed regulation of Laboratory Developed Tests;    
+
+Our ability to generate sufficient cash flow from our license agreement with Health Discovery Corporation to support its fair value;    
+
+Regulatory developments in the United States including increasing downward pressure on health care reimbursement;    
+
+The expected reimbursement levels from governmental payers and private insurers and proposed changes to those levels, including the application of the Protecting Access to Medicare Act;    
+
+The application, to our business and the services we provide, of existing laws, rules and regulations, including without limitation, Medicare laws, anti-kickback laws, Health Insurance Portability and Accountability Act of 1996 regulations, state medical privacy laws, federal and state false claims laws and corporate practice of medicine laws;    
+
+Our ability to maintain our license under the Clinical Laboratory Improvement Amendments of 1988; and    
+
+Failure to timely or accurately bill for our services.    
+
+ Any forward-looking statement speaks only as of the date on which such statement is made, and the Company undertakes no obligation to update any forward-looking statement or statements to reflect events or circumstances after the date on which such statement is made or to reflect the occurrence of unanticipated events. New factors emerge from time to time and it is not possible for management to predict all of such factors, nor can it assess the impact of each such factor on the business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements. 
+   
+ 3 
+
+PART I   FINANCI  AL INFORMATION  
+
+ITEM   1. FINANCIAL STATEMENTS 
+ NEOGENOMICS, INC. 
+ CONSOLIDATED BALANCE SHEETS 
+ (in thousands, except share and per share amounts) 
+ (unaudited) 
+
+See notes to unaudited consolidated financial statements 
+ 4 
+
+NEOGENOMICS, INC.  
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (in thousands, except per share amounts) 
+ (unaudited) 
+
+See notes to unaudited consolidated financial statements. 
+
+5 
+
+NEOGENOMICS, INC.  
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (in thousands) 
+ (unaudited) 
+
+See notes to unaudited consolidated financial statements. 
+
+6 
+
+NEOGENOMICS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ Unaudited 
+   
+    Note A   Nature of   Business and Basis of Presentation  
+   
+ NeoGenomics, Inc., a Nevada corporation (the  Parent ), and its subsidiaries, NeoGenomics Laboratories, Inc., a Florida corporation ( NEO  or,  NeoGenomics Laboratories ), NeoGenomics Bioinformatics Inc., a Florida corporation, Path Labs LLC., a Delaware limited liability company ( PathLogic ) and Clarient Inc., a Delaware corporation, and its wholly owned subsidiary Clarient Diagnostic Services, Inc. (together,  Clarient ), (collectively referred to as  we ,  us ,  our ,  NeoGenomics , or the  Company ), operates as a certified  high complexity  clinical laboratory in accordance with the federal government s Clinical Laboratory Improvement Act, as amended ( CLIA ), and is dedicated to the delivery of clinical diagnostic services to pathologists, oncologists, urologists, hospitals, and other laboratories throughout the United States. 
+ The accompanying interim consolidated financial statements are unaudited and have been prepared in accordance with accounting principles generally accepted in the United States of America ( GAAP ) for interim financial information. These accompanying interim consolidated financial statements include the accounts of the Parent and its subsidiaries. All intercompany transactions and balances have been eliminated in the accompanying interim consolidated financial statements. 
+ Certain information and footnote disclosures normally included in the Company s annual audited consolidated financial statements and accompanying notes have been condensed or omitted in these accompanying interim consolidated financial statements. Accordingly, the accompanying interim consolidated financial statements included herein should be read in conjunction with the audited consolidated financial statements and accompanying notes included in the Company s annual report on Form 10-K for the year ended December 31, 2015, filed with the SEC on March 15, 2016 and as amended and filed with the SEC on April 18, 2016.  Certain amounts in previously issued financial statements were reclassified to conform to the current presentation (see Note B). 
+ The results of operations presented in this quarterly report on Form 10-Q are not necessarily indicative of the results of operations that may be expected for any future periods. In the opinion of management, these unaudited consolidated financial statements include all adjustments and accruals, consisting only of normal recurring adjustments that are necessary for a fair statement of the results of all interim periods reported herein. 
+   
+ We have one reportable operating segment that delivers testing services to hospitals, pathologists, oncologists, other clinicians, pharmaceutical companies and researchers, which represents 100% of the Company s consolidated assets, net revenues and net loss for the three and nine months ended September 30, 2016 and 2015.  We have evaluated our segments based on how the Chief Operating Decision Maker ( CODM ), our Chief Executive Officer, reviews performance and makes decisions in managing the Company.  At September 30, 2016, all of our services were provided within the United States and all of our assets were located in the United States.  
+   
+ We have two primary types of customers, clinical and pharma.  Our clinical customers include community based pathology practices, oncology groups, hospitals and academic centers.  Our pharma customers include pharmaceutical companies to whom we provide testing and other services to support their studies and clinical trials.  We continue to assess the information available to the CODM since the close of the Clarient acquisition.  Currently, discrete financial information is not available to the CODM about the separate financial performance of our clinical and our pharma customers.  As we continue to integrate the two companies and focus separately on the two customer types we will routinely assess the information available and reviewed by the CODM and determine if we meet the criteria for having separate segments. 
+   
+ Note B   Recently Adopted and Issued Accounting Guidance 
+   
+  Adopted  
+   
+ Effective January 2016, the Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update ( ASU ) 2015-17,  Income Taxes . The standard update was issued to simplify the presentation of deferred income taxes and required deferred tax liabilities and assets be classified as noncurrent in a classified statement of financial position. ASU 2015-17 is effective for fiscal years and interim periods within those fiscal years, beginning after December 31, 2016.  Earlier application is permitted as of the beginning of an interim or annual period.  The Company has early adopted this ASU and applied the amendments retrospectively to all deferred tax liabilities and assets presented.  The effect of the adoption on the Consolidated Balance Sheets for September 30, 2016 and December 31, 2015, was the offset of long term deferred tax liabilities by current deferred tax assets of $8,500,000 and $16,668,000, respectively. 
+ 7 
+
+NEOGENOMICS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ Unaudited 
+
+Effective September 2015, the FASB issued ASU 2015-16,  Business Combinations . The standard update was issued to simplify the accounting for measurement period adjustments.  The update requires that adjustments to provisional amounts identified during the measurement period be recognized in the period determined.  The effect of these adjustments on current earnings that would have been related to previously reported earnings is required to be disclosed.  ASU 2015-16 is effective for fiscal years and interim periods within those fiscal years, beginning after December 31, 2015.  The update should be applied prospectively to adjustments that occur after the effective date of this update.  The Company has adopted this ASU 2015-16 and it did not have a material effect on Company s earnings for the period ended September 30, 2016. The Company has not finalized all valuations of the assets acquired and liabilities assumed in the Clarient acquisition at September 30, 2016. 
+   
+  Issued  
+   
+ In May 2014, the FASB issued ASU 2014-09,  Revenues from Contracts with Customers . This standard update calls for a number of revisions in the revenue recognition rules. In August 2015, the FASB deferred the effective date of this ASU to the first quarter of 2018, with early adoption permitted beginning in the first quarter of 2017.  The ASU can be applied using a full retrospective method or a modified retrospective method of adoption.  The Company is currently evaluating this update and has not yet determined the method it will use to implement the new standard or the effect this may have on its consolidated financial statements. 
+   
+ In February 2016, the FASB issued ASU  No. 2016-02,   Leases.   The update     requires  organizations to recognize lease assets and lease liabilities on the balance sheet for those leases classified as operating leases under previous GAAP. ASU 2016-02 requires that a lessee should recognize a liability to make lease payments (the lease liability) and a right-of-use asset representing its right to use the underlying asset for the lease term on the balance sheet.  ASU 2016-02 is effective for periods beginning after December 15, 2018 and interim periods within those periods.    The Company is currently evaluating the impact the adoption of this update will have on its consolidated financial statements.    
+   
+ In March 2016, the FASB issued ASU  No. 2016-09,   Improvements to Employee Share-Based Payment Accounting.   The update requires excess tax benefits and tax deficiencies to be recorded directly through earnings as a component of income tax expense. Under current GAAP, these differences are generally recorded in additional paid-in capital and thus have no impact on net income. The change will also impact the computation of diluted earnings per share, and the cash flows associated with those items will be classified as operating activities on the condensed statements of consolidated cash flows. Entities will be permitted to make an accounting policy election for the impact of forfeitures on the recognition of expense for share-based payment awards. Forfeitures can be estimated, as required under current GAAP, or recognized when they occur.  ASU 2016-09 is effective for periods beginning after December 15, 2016 and interim periods within those periods.    The Company is currently evaluating the impact the adoption of this standard will have on its consolidated financial statements.    
+   
+ Note C   Acquisitions 
+  Clarient  
+ On December 30, 2015 (the  Acquisition Date ), the Company acquired from GE Medical Holding AB ( GE Medical ), a subsidiary of General Electric Company ( GE ), all of the issued and outstanding shares of common stock of Clarient, Inc., a wholly owned subsidiary of GE Medical, for a purchase price consisting of (i) cash consideration of approximately $73.8 million, which includes an approximately $6.7 million estimated working capital adjustment and adjustments for estimated cash on hand and estimated indebtedness of Clarient on the Closing Date, (ii) 15,000,000 shares of NeoGenomics  common stock, and (iii) 14,666,667 shares of NeoGenomics  Series A Redeemable Convertible Preferred Stock ( Series A Preferred Stock ) pursuant to the Stock Purchase Agreement. 
+  The cash consideration paid as part of the purchase price was funded through the following: 
+
+The Company paid approximately $10.7 million using cash on hand     
+
+Approximately $9.5 million, net of transaction costs was funded using a revolving credit facility      
+
+Approximately $53.6 million, net of transaction costs was funded using a term loan     
+
+   On December 21, 2015 shareholders approved and on December 28, 2015, NeoGenomics filed with the Secretary of State of the State of Nevada amendments to its Articles of Incorporation to increase the authorized number of shares of common stock from  
+ 8 
+
+NEOGENOMICS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ Unaudited 
+   
+  100.0 million shares to 250.0 million shares and to increase the authorized number of shares of preferred stock from 10.0 million shares to 50.0 million shares in order to fund the commo  n and preferred stock portion of the purchase price  , among other things  .    
+ The Company issued 15,000,000 shares of common stock as partial consideration for the acquisition of Clarient.  The common stock includes restrictions imposed on the holder in the  I nvestor Board Rights, Lockup and Standstill Agreement.  We estimated the fair value of the common stock consideration using inputs not observable in the market and thus represents a Level 3 measurement as defined in ASC 820. The key assumption in the fair value determination was a 15 percent discount due to lack of marketability of the common stock as a result of the restrictions imposed on the holder.  The Acquisition Date fair value of common stock transferred is calculated below ($ in thousands, except share and per share amounts):   
+ The Acquisition Date fair value of common stock transferred is calculated below ($ in thousands, except share and per share amounts): 
+
+The Company issued 14,666,667 shares of Series A Preferred Stock as consideration for the acquisition of Clarient.  The rights of the Series A Preferred Stock are described in Note F. We estimated the fair value of the Series A Preferred Stock consideration using significant inputs not observable in the market and thus represents a Level 3 measurement as defined in ASC 820. The fair value of the Series A Preferred Stock at the Acquisition Date was $73.2 million or $4.99 per share.  This fair value was further reduced by the intrinsic value assigned to the beneficial conversion feature to arrive at a carrying amount of $28.6 million.   
+ On a fully diluted basis, assuming full conversion of the Series A Preferred Stock, GE Medical would own approximately 32% of NeoGenomics.  In addition, p ursuant to the I nvestor Board Rights, Lockup and Standstill Agreement, NeoGenomics has appointed a director designated by GE Medical to its Board of Directors.  
+   
+ The following table summarizes the estimated fair values of the assets acquired and liabilities assumed at the Acquisition Date.  The Company is in the process of obtaining information to measure the assets acquired and liabilities assumed; thus, the provisional measurements of current assets, property and equipment, intangible assets, goodwill, current liabilities, net deferred tax liabilities and long-term liabilities are subject to change.   
+ The preliminary acquisition fair values below are presented as of December 30, 2015 (in thousands): 
+
+Of the $84.0 million of acquired intangible assets, $81.0 million was provisionally assigned to customer relationships which are being amortized over fifteen years and $3.0 million was provisionally assigned to trade names which are being amortized over two years.   
+ 9 
+
+NEOGENOMICS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ Unaudited 
+   
+  For the three and   nine   months ending   September   30, 2016, we recorded approximately $  1  .  7   million and $  5.  2   million of amortization expense respectively.    
+ Goodwill arising from the acquisition of Clarient includes revenue synergies as a result of our existing customers and Clarient s customers having access to each other s testing menus and capabilities and also from the new product lines which Clarient adds to the Company s product portfolio.  None of the goodwill is expected to be deductible for income tax purposes.   
+ The provisional fair value of accounts receivable acquired was approximately $27.6 million as of the Acquisition Date. 
+ The Company recognized acquisition related transaction costs of approximately $4.7 million during the year ended December 31, 2015.  These costs include due diligence, legal, consulting and other transaction related expenses associated with the acquisition of Clarient. These expenses were included in general and administrative expenses in our consolidated statements of operations for the year ended December 31, 2015.  The Company also incurred debt issuance costs of $3.3 million which are recorded as reductions in the carrying amount of the related liabilities and are being amortized over the term of the loans. 
+   
+ The following unaudited pro forma information (in thousands), has been provided for illustrative purposes and is not necessarily indicative of results that would have occurred had the acquisition of Clarient been in effect since January 1, 2014, nor is it necessarily indicative of future results. 
+
+The unaudited pro forma consolidated results for the three and nine months ended September 30, 2014 have been prepared by adjusting our historical results to include the acquisition of Clarient as if it occurred on January 1, 2014. These unaudited pro forma consolidated historical results were then adjusted for the following: 
+
+Adjustments to reflect amortization and depreciation expense associated with the acquired assets, partially offset by the elimination of the amortization and depreciation expense associated with Clarient s historical assets.     
+
+Removal of costs associated with MultiOmyx TM , assets not acquired in the transaction, and to record royalty fees due to GE for continued use of the MultiOmyx TM  product through a licensing agreement.     
+
+Removal of general and administrative expenses related to a Lab Services Agreement with the Saudi Arabian National Guard Health Affairs, as GE Medical has retained this agreement.     
+
+Record interest expense under the Credit Facilities and amortization of financing costs classified as interest expense.     
+
+Removal of royalty costs associated with the use of the GE brand as NeoGenomics will discontinue the use of the GE brand.     
+
+Accrue for dividends on the Series A Preferred stock and to amortize a portion of the beneficial conversion feature.     
+
+ As noted above, the unaudited pro forma results of operations do not purport to be indicative of the actual results that would have been achieved by the combined Company for the periods presented or that may be achieved by the combined Company in the future. 
+   
+ 10 
+
+NEOGENOMICS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ Unaudited 
+   
+    Note D   Goodwill and Intangible Assets  
+ The Company has recorded goodwill of $146.2 million as of September 30, 2016.  The changes in the carrying amount of goodwill for the nine month period ended September 30, 2016 and for the year ended December 31, 2015 are as follows (in thousands): 
+
+Intangible assets as of September 30, 2016 and December 31, 2015 consisted of the following (in thousands): 
+
+We recorded approximately $1.8 million and $93,000 in straight-line amortization expense of intangible assets for the three months ended September 30, 2016 and 2015, respectively.  We recorded approximately $5.5 million and $283,000 in straight-line amortization expense of intangibles for the nine months ended September 30, 2016 and 2015, respectively.  The Company recorded amortization expense from customer relationships and trade names as a general and administrative expense.  We will continue to record the amortization of the Support Vector Machine (SVM) technology, the LDT technology and the Flow Cytometry and Cytogenetics technology intangible assets as a research and development expense until such time that we have products, services or cost savings directly attributable to these intangible assets that would require them to be recorded in cost of goods sold. 
+ The estimated amortization expense related to amortizable intangible assets for each of the five succeeding fiscal years and thereafter as of September 30, 2016 is as follows (in thousands): 
+
+11 
+
+NEOGENOMICS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ Unaudited 
+
+Note E   Debt  
+   
+  Term Loan  
+ On December 30, 2015, the Company entered into a Term Loan and Guaranty Agreement (the  Term Loan ) for which AB Private Credit Investors LLC acts as the administrative agent and collateral agent.  The Term Loan provides for $55.0 million of borrowings.  On September 30, 2016, the Company had current outstanding borrowings of $550,000 and long-term outstanding borrowings of $52.1 million, net of unamortized debt issuance costs of $2.0 million.  
+ The fair value of the Term Loan is estimated based on a valuation performed by an external consultant.  The inputs used in the fair value measurement include the present value of the term loan, current yield data using comparable companies and recently issued bonds with similar terms.  Consideration was also given to the potential for adjustments in the interest rate, mandatory and voluntary repayments and the events of default using a Monte Carlo simulation.  These measurements are categorized as Level 3 inputs.   
+   
+ The following table presents the carrying values and fair values of the Company s Term Loan (in thousands): 
+
+(1) The Company entered in to the Term Loan on December 30, 2015, due to the short period of time the loan was outstanding carrying value approximates fair value at December 31, 2015. 
+ The interest rate for borrowings under the Term Loan will be, at the Company s election, (i) (A) a base rate equal to the greatest of 4%, the prime rate, the federal funds rate plus 0.5% and the one month LIBOR rate plus 1%, plus (B) an initial applicable margin of 6% , or (ii) the (A) LIBOR rate for interest periods from one to twelve months, plus (B) an initial applicable margin of 7%, with a minimum LIBOR of 1.00%. Interest on borrowings under the facility will be reduced to Base Rate plus 5.5% or LIBOR plus 6.50% upon the later of (i) NeoGenomics  achieving maximum total leverage of less than 2.0 to 1.0 and (ii) January 1, 2017.  
+ The Company and all of its present and future subsidiaries (other than NeoGenomics Laboratories) are guarantors under the Term Loan. The Term Loan contains the following financial covenants: (i) maintenance of a maximum total leverage ratio of 4.0 to 1.0 (stepping down over time to 3.25 to 1.0), and (ii) maintenance of a minimum consolidated fixed charge coverage ratio of 1.10 to 1.0 (stepping up over time to 1.25 to 1.0).   These covenants were effective beginning with the quarter ended March 31, 2016.  The Company was in compliance with all such financial covenants as of September 30, 2016. 
+ The Term Loan also contains various affirmative and negative covenants, such as the delivery of financial statements, tax authority compliance, maintenance of property, limitations on additional debt, restriction of dividends and other standard clauses.  
+ The Term Loan has a maturity of five years. In addition, the Term Loan provides for annual amortization payments in an amount equal to 1.0% of the original principal amount of the term loan, paid in quarterly installments, and mandatory prepayments with (i) proceeds of certain assets sales and recovery events, (ii) proceeds of certain debt issuances, (iii) proceeds of certain extraordinary receipts, as defined, (iv) a portion of certain tax refunds and insurance proceeds, and (v) a portion of excess cash flow as defined. 
+ 12 
+
+NEOGENOMICS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ Unaudited 
+   
+    Auto Loans  
+ The Company has auto loans with various financial institutions.  The auto loan terms range from 36-60 months and carry interest rates from 0.0% to 5.2%.  
+  Maturities of Long-Term Debt  
+ Maturities of long-term debt at September 30, 2016 are summarized as follows (in thousands): 
+
+Short-Term Debt - Revolving Credit Facility   
+ On December 30, 2015, the Company entered into a Credit Agreement (the  Revolving Credit Facility ) for which Wells Fargo Bank, N.A., acts as the administrative agent.  The Revolving Credit Facility provides for up to $25.0 million of revolving loans and a letter of credit subfacility for $1.0 million. Borrowings under the revolver and the letter of credit subfacility are limited to a borrowing base comprised of 85% of the expected net value of certain billed and unbilled accounts receivable less reserve amounts established by Wells Fargo Bank, N.A. 
+ The carrying amount of the Revolving Credit Facility approximates fair value due to the short maturity and the variable market rates of interest that change with current prime and no change in counterparty credit risk and were classified as Level 2 of the fair value hierarchy. 
+ The interest rate for borrowings under the Revolving Credit Facility is, at the Company s election, (i) (A) a base rate equal to the greatest of the prime rate, the federal funds rate plus 0.5% and the three month LIBOR rate plus 1%, plus (B) an applicable margin ranging from 2.0% to 2.5%, or (ii) the (A) LIBOR rate plus (B) an applicable margin ranging from 3.0% to 3.5%. NeoGenomics will also pay 0.25% per year on any unused portion of the revolver. 
+ NeoGenomics is a guarantor under the Revolving Credit Facility.  All of NeoGenomics  present and future subsidiaries (including NeoGenomics Laboratories) are borrowers under the Revolving Credit Facility. The Revolving Credit Facility contains the following financial covenants: (i) maintenance of a maximum total leverage ratio (funded indebtedness (including the outstanding amounts under the Credit Facilities), plus capitalized lease obligations, divided by EBITDA) of not more than 4.0 to 1.0 (stepping down over time to 3.25 to 1.0), (ii) maintenance of a minimum consolidated fixed charge coverage ratio (EBITDA less capital expenditures not financed with debt or certain equity), divided by the sum of cash interest expense, scheduled payments and mandatory prepayments of principal on indebtedness, taxes and restricted payments) of at least 1.1 to 1.0 (stepping up over time to 1.25 to 1.0) and (iii) maintenance of a minimum cash velocity equal to or greater than 80%.  These covenants were effective beginning with the quarter ended March 31, 2016.  The Company was in compliance with all such financial covenants as of September 30, 2016. 
+ The Revolving Credit Facility also contains various affirmative and negative covenants, such as the delivery of financial statements, tax authority compliance, maintenance of property, limitations on additional debt, restriction of dividends and other standard clauses.  The Company was in compliance with all such financial covenants as of September 30, 2016. 
+ 13 
+
+NEOGENOMICS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ Unaudited 
+   
+    The Revolving Credit Facility has a maturity of five years, maturing on December 30, 2020. In addition, the Revolving Credit Facility provides for mandatory   prepayment in the event that the borrowing base is less than the aggregate amount of the advances outstanding under the revolver and any letters of credit, which prepayment will be equal to the amount necessary to remedy the over-advance  .  
+ At September 30, 2016, the Company had no outstanding borrowings under the Revolving Credit Facility, nor under the letter of credit subfacility.  The related debt issuance costs of approximately $1.1 million have been reclassified into other current assets at September 30, 2016.  We will continue to show debt issuance costs as a reduction in the related liability to the extent that there is an outstanding balance on the Revolving Credit Facility in the future.  As of September 30, 2016, there is approximately $25 million in available credit under the Revolving Credit Facility to be drawn upon as needed.   
+
+Note F   Class A Redeemable Convertible Preferred Stock 
+   
+ On December 30, 2015, NeoGenomics issued 14,666,667 shares of its Series A Preferred stock as part of the consideration for the acquisition of Clarient, see Note C.  The Series A Preferred Stock has a face value of $7.50 per share for a total liquidation value of $110 million.  During the first year, the Series A Preferred Stock has a liquidation value of $100 million if the shares are redeemed prior to December 29, 2016.  The carrying amount of the Series A Preferred Stock at September 30, 2016 was $45.3 million as compared to the carrying amount at December 31, 2015 of $28.6 million.  The increase in the carrying amount is from the accrual of deemed dividends of approximately $5.5 million and the accretion of the beneficial conversion feature of approximately $11.2 million during the nine months ending September 30, 2016, of which both amounts are recorded as distributions to the holders of the Series A Preferred Stock on the income statement with the corresponding entry recorded as an increase to the carrying value of the Series A Preferred Stock. 
+   
+  Issue Discount  
+   
+ The Company recorded the Series A Preferred Stock at a fair value of approximately $73.2 million or $4.99 per share on the date of issuance.  The difference between the fair value of $73.2 million and the liquidation value of $110 million represents a discount of $36.8 million from the initial face value as a result of assessing the impact the rights and features (listed below) of the instrument and their effect on the value to the Company. 
+   
+  Beneficial Conversion Feature   
+   
+ The fair value of the common stock into which the Series A Preferred Stock was convertible at the date of issuance exceeded the allocated purchase price fair value of the Series A Preferred Stock by approximately $44.7 million on the date of issuance, resulting in a beneficial conversion feature. The Company will recognize the beneficial conversion feature as non-cash, deemed dividend to the holder of Series A Preferred Stock over the first three years the Series A Preferred Stock is outstanding, as the date the stock first becomes convertible is three years from the issue date.  The amounts recognized for the three and nine months ended September 30, 2016 was approximately $3.7 million and $11.2 million respectively.  
+   
+  Classification    
+   
+ The Company classified the Series A Preferred Stock as temporary equity on the consolidated balance sheets due to certain change in control events that are outside the Company s control, including deemed liquidation events described in the Series A Certificate of Designation. 
+   
+ Note G   Revenue Recognition and Contractual Adjustments  
+ The Company recognizes revenues when (a) the price is fixed or determinable, (b) persuasive evidence of an arrangement exists, (c) the service is performed and (d) collectability of the resulting receivable is reasonably assured.  
+ 14 
+
+NEOGENOMICS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ Unaudited 
+   
+    The Company s specialized   diagnostic services are performed based on a written test requisition form or electronic equivalent, and revenues are recognized once the diagnostic services have been performed, and the results have been delivered to the ordering physician.  These diagno  stic services are billed to various payers, including Medicare, commercial insurance companies, other directly billed healthcare institutions such as hospitals and clinics, and individuals.  The Company reports revenues from contracted payers, including Me  dicare, certain insurance companies and certain healthcare institutions, based on the contractual rate, or in the case of Medicare, published fee schedules.  The Company reports revenues from non-contracted payers, including certain insurance companies and   individuals, based on the amount expected to be collected.  The difference between the amount billed and the amount estimated to be collected from non-contracted payers is recorded as an allowance to arrive at the reported net revenues.  The expected reve  nues from non-contracted payers are based on the historical collection experience of each payer or payer group, as appropriate.  The Company records revenues from patient pay tests net of a large discount and as a result recognizes minimal revenue on those   tests.  The Company regularly reviews its historical collection experience for non-contracted payers and adjusts its expected revenues for current and subsequent periods accordingly.  
+ The table below shows the adjustments made to gross service revenues to arrive at net revenues (in thousands), the amount reported on our statements of operations. 
+
+Note H   Equity 
+ A summary of the stock option activity under the Company s plans for the nine months ended September 30, 2016 is as follows: 
+
+Of the 5,215,862 outstanding options at September 30, 2016, 1,005,000 were variable accounted stock options issued to non-employees of the Company of which 117,500 options were vested and 887,500 options were unvested as of September 30, 2016. 
+ The fair value of each stock option award granted during the nine months ended September 30, 2016 was estimated as of the grant date using a trinomial lattice model with the following weighted average assumptions: 
+
+As of September 30, 2016, there was approximately $8.2 million of unrecognized share based compensation expense related to stock options that will be recognized over a weighted-average period of approximately 1.5 years.  This includes $2.2 million in unrecognized expense related to the 887,500 shares of unvested variable accounted for stock options subject to fair value adjustment at the end of each reporting period based on changes in the Company s stock price. 
+ 15 
+
+NEOGENOMICS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ Unaudited 
+   
+    Stock based compensation expense recognized for stock options and restricted stock and included in   the consolidated statements of operations was allocated as follows (in thousands):   
+
+Stock based compensation recorded in research and development relates to unvested options and warrants granted to a non-employee.    
+   
+  Common Stock Warrants  
+ A summary of the warrant activity for the nine months ended September 30, 2016 is as follows: 
+
+During the three months ended September 30, 2016 and 2015, we recorded $0 and $58,000 of warrant compensation expense, respectively.  During the nine months ended September 30, 2016, we recorded warrant compensation gain of $10,075 and during the nine months ended September 30, 2015, we recorded $173,000 of warrant compensation expense, respectively.  Warrant expense for the periods presented is recorded in research and development as the expense related to unvested performance based warrants granted to a non-employee. As of September 30, 2016 all warrants are fully vested. 
+   
+ Note I   Commitments  
+ During the three and nine months ended September 30, 2016, the Company entered into leases for approximately $2.4 million and $4.8 million respectively in laboratory and computer equipment. These leases have 36 month terms, a $1.00 buyout option at the end of the terms and interest rates of 1.4% and 13.7%.  The Company accounted for these lease agreements as capital leases. 
+   
+ Note J   Other Related Party Transaction  
+ During each of the three month periods ended September 30, 2016 and 2015, Steven C. Jones, an officer, director and shareholder of the Company, earned approximately $66,000 for consulting work performed in connection with his duties as Executive Vice President of Finance.  During each of the nine months periods ended September 30, 2016 and 2015, Mr. Jones, earned approximately $197,000 for consulting work performed in connection with his duties as Executive Vice President of Finance.  Mr. Jones also received approximately $79,000 and $78,000 during the nine months ended September 30, 2016 and 2015, respectively as payment of his annual bonus compensation for the previous fiscal years.   
+ On April 20, 2016, the Company granted Mr. Jones 100,000 non-qualified stock options.  The options were granted at a price of $7.15 per share and had a weighted average fair market value of $3.06 per option.  The options vest ratably over the next three years.  We use variable accounting for these options and accordingly they are subject to fair value adjustment at the end of each reporting period based on changes in the Company s stock price.   
+   
+ END OF FINANCIAL STATEMENTS 
+   
+ 16 
+
+NEOGENOMICS, INC. 
+     ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+        NeoGe  nomics, Inc., a Nevada corporation (referred to individually as the  Parent Company  or collectively with its subsidiaries as  NeoGenomics ,  we   ,  us ,  our  or the  Company  in this Form 10-K) is the registrant for SEC reporting purposes. Our common stock is listed on the NASDAQ Capital Market under the symbol  NEO .  
+ Introduction 
+ The following discussion and analysis should be read in conjunction with the unaudited consolidated financial statements, and the notes thereto included herein. The information contained below includes statements of the Company s or management s beliefs, expectations, hopes, goals and plans that, if not historical, are forward-looking statements subject to certain risks and uncertainties that could cause actual results to differ materially from those anticipated in the forward-looking statements. For a discussion on forward-looking statements, see the information set forth in the introductory note to this quarterly report on Form 10-Q under the caption  Forward-Looking Statements , which information is incorporated herein by reference. 
+ Overview  
+ We operate a network of cancer-focused genetic testing laboratories in the United States.  Our mission is to improve patient care through exceptional genetic and molecular testing services. Our vision is to become the World s leading cancer testing and information company by delivering uncompromising quality, exceptional service and innovative solutions.  
+ On December 30, 2015, we acquired Clarient, and its wholly owned subsidiary Clarient Diagnostic Services, Inc. from GE Medical, a subsidiary of General Electric Company, for approximately $249.5 million, consisting of (i) cash consideration of approximately $74.0 million, which included an approximately $6.7 million estimated working capital adjustment and adjustments for estimated cash on hand and estimated indebtedness of Clarient on the closing date, (ii) 15,000,000 shares of our common stock, and (iii) 14,666,667 shares of our Series A Preferred Stock (the  Acquisition ).  For additional information and risks associated with the acquisition, see "Risk Factors," contained in our Quarterly Report on Form 10-Q for the period ended June 30, 2016; as filed with the SEC on August 5, 2016.   
+ We believe the acquisition will allow us to broaden our offering of innovative cancer diagnostic tests to hospitals and physicians across the United States and to accelerate growth in the worldwide market for pharmaceutical clinical trials and research. The following discussion of our business includes the effects of the acquisition of Clarient. 
+ As of September 30, 2016, the Company has laboratory locations in Ft. Myers and Tampa, Florida; Aliso Viejo, Fresno, Irvine, and West Sacramento, California; Houston, Texas and Nashville, Tennessee, and currently offers the following types of genetic and molecular testing services:  
+
+a)   
+ 
+ Cytogenetics - the study of normal and abnormal chromosomes and their relationship to disease. It involves looking at the chromosome structure to identify changes from patterns seen in normal chromosomes. Cytogenetic studies are often utilized to answer diagnostic, prognostic and predictive questions in the treatment of hematological malignancies.    
+
+b)   
+ 
+ Fluorescence In-Situ Hybridization ( FISH ) - a branch of cancer genetics that focuses on detecting and locating the presence or absence of specific DNA sequences and genes on chromosomes. FISH helps bridge abnormality detection between the chromosomal and DNA sequence levels. The technique uses fluorescent probes that bind to only those parts of the chromosome with which they show a high degree of sequence similarity. Fluorescence microscopy is used to visualize the fluorescent probes bound to the chromosomes. FISH can be used to help identify a number of gene alternations, such as amplification, deletions, and translocations.    
+
+c)   
+ 
+ Flow cytometry - a rapid way to measure the characteristics of cell populations. Cells from peripheral blood, bone marrow aspirate, lymph nodes, and other areas are labeled with selective fluorescent antibodies and analyzed as they flow in a fluid stream through a beam of light. The properties measured in these antibodies include the relative size, relative granularity or internal complexity, and relative fluorescence intensity. These fluorescent antibodies bind to specific cell surface antigens and are used to identify malignant cell populations. Flow cytometry is typically performed in diagnosing a wide variety of leukemia and lymphoma neoplasms. Flow cytometry is also used to monitor patients through therapy to determine whether the disease burden is increasing or decreasing, otherwise known as minimal residual disease monitoring.    
+
+d)   
+ 
+ Immunohistochemistry ( IHC ) and Digital Imaging   Refers to the process of localizing proteins in cells of a tissue section and relies on the principle of antibodies binding specifically to antigens in biological tissues. IHC is widely used    
+
+ 17 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   
+    i  n the diagnosis of abnormal cells such as those found in cancerous tumors. Specific surface cytoplasm  ic or nuclear markers are characteristic of cellular events such as proliferation or cell death (apoptosis). IHC is also widely used to understand the distribution and localization of differentially expressed proteins.  Digital imaging allows clients to se  e and utilize scanned slides and perform quantitative analysis for certain stains.  Scanned slides are received online in real time and can be previewed often a full day before the glass slides can be shipped back to clients.  
+
+e)   
+ 
+ Molecular testing - a rapidly growing cancer testing methodology that focuses on the analysis of DNA and RNA, as well as the structure and function of genes at the molecular level. Molecular testing employs multiple technologies including DNA fragment length analysis, real-time polymerase chain reaction ( RT-PCR ) RNA analysis, bi-directional Sanger sequencing analysis, and Next-Generation Sequencing ( NGS ).    
+
+f)   
+ 
+ Pathology consultation - services provided to clients whereby our pathologists review surgical samples on a consultative basis. NeoGenomics is one of a few laboratories in the country with an electron microscopy lab which enables us to analyze complex renal cases.    
+
+g)   
+ 
+ Pharma Services and Clinical Trials   services supporting pharmaceutical firms in their drug development programs by supporting various clinical trials and other research initiatives.  This growing portion of our business often involves working with the pharmaceutical firms (sponsors) on study design as well as performing the required testing.  Our medical team often advises the investigators and works closely with the researchers as specimens are received from the enrolled sites.  We have also worked on developing tests that will be used as part of a companion diagnostic to determine patients  response to a particular drug.  When studies are completed, our clinical trials team will report the data and often provide key analysis and insights back to the sponsors.    
+
+ Our Pharma Services and Clinical Trials group provides comprehensive testing services in support of our pharmaceutical clients  oncology programs from discovery to commercialization.  In biomarker discovery, our aim is to help our customers discover the right content.  We help our customers develop a biomarker hypothesis by recommending an optimal platform for molecular screening and backing our discovery tools with the informatics to capture meaningful data.  In other pre and non-clinical work, we can use our research and testing platforms to characterize markers of interest.   Moving from discovery to development, we help our customers refine their biomarker strategy and, if applicable, develop a companion diagnostic pathway using the optimal technology for large-scale clinical trial testing.  
+ After assay design and validation, we provide laboratory services for large scale clinical trial testing. Whether serving as the single contract research organization ( CRO ) or partnering one, our Pharma Services and Clinical Trials team provides significant technical expertise and works closely with our customers to support each stage of clinical trial development.  Each trial we support comes with rapid turnaround time, dedicated project management and Quality Assurance oversight. We have experience in supporting FDA submissions for companion diagnostics and our Pharma services activities are backed by our specialty clinical laboratories in Aliso Viejo, CA and Houston, TX.  Our Pharma Services and Clinical Trials business is supported by full-time sales associates.  Our goal remains focused on helping bring more effective oncology treatments to market through providing world class laboratory services in oncology. 
+ MultiOmyx TM  - is a hyperplexed immunofluorescence assay technology that has similar staining characteristics as standard immunohistochemical stains, and has the significant advantage that up to 60 multiple proteins can be interrogated from a single FFPE section. Direct comparison of multiple biomarkers is made on the same cell, enabling routine co-expression analysis and identification of cells requiring multiple biomarkers staining. In addition to protein analysis, MultiOmyx TM  is able to integrate genomic data utilizing FISH and NGS on the same sample to generate multiomic phenotypes.   Currently, we are only offering Multiomyx TM    services to our Pharma and research clients.      
+ The clinical cancer testing services we offer to community-based pathologists are designed to be a natural extension of, and complementary to, the services that they perform within their own practices. We believe our relationship as a non-competitive partner to community-based pathology practices, hospital pathology labs and academic centers empowers them to expand their breadth of testing and provides a menu of services that we believe matches or exceeds the level of service found in any center of excellence around the world. Community-based pathology practices and hospital pathology labs may order certain testing services on a technical component only ( TC  or  tech-only ) basis, which allows them to participate in the diagnostic process by performing the professional component ( PC ) interpretation services without having to hire laboratory technologists or purchase the sophisticated equipment needed to perform the technical component of the tests. We also support our pathology clients with interpretation and consultative services using our own specialized pathologists for difficult or complex cases and provide overflow interpretation services when requested by clients. 
+ 18 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   
+    In areas where we do not provide services to community-based pathology practices and/or hospital pathology labs, we may directly serve oncology, dermatology, urology and other clinician practices that prefer to have a direct   relationship with a laboratory for cancer-related genetic and molecular testing services. We typically service these types of clients with a comprehensive service offering where we perform both the technical and professional components of the tests ordered  . However, in certain instances larger clinician practices have begun to internalize pathology interpretation services, and our  tech-only  service offering allows these larger clinician practices to also participate in the diagnostic process by performing   the PC interpretation services on TC testing performed by NeoGenomics.  
+ 2016 Focus Areas: Drive a  One Company Culture, Integrate, Grow and Innovate 
+ In the past several years, NeoGenomics has experienced rapid growth, substantially all of which has been organic. In December 2015, NeoGenomics completed its acquisition of Clarient from GE Medical.  As a result, we expect to more than double in revenue in 2016, and we have focused on several initiatives to continue to build our company to be the World s leading cancer testing and information company. 
+  Create a  One Company  Culture  
+ With our acquisition of Clarient at the end of 2015, we have had a unique opportunity to create a unified corporate culture that supports our vision, values, and strategic objectives.  We believe that by engaging our people, we will be able to retain them and motivate them to meet and exceed the expectations of our clients.  Excellent teamwork is required as we implement best practices across our expanded testing disciplines and consolidate operations and facilities.   
+ To create a climate of strong teamwork, we constantly communicate company values as well as developments in our business.  We invest substantially in training our employees and are working to become a  Best Place to Work  company.  We conduct surveys and take action based on feedback from employees designed to make our Company a better place for people to work.  We also work to develop and implement performance-based incentive plans for every employee at the company as a tool to reinforce our desired behaviors and organizational culture.  Creating a single organizational culture based on values and high performance is a critical initiative and key part of our 2016 plan.   
+  Integrate for Success  
+ Combining the best of NeoGenomics  and Clarient s testing menus and services is one of our main objectives for 2016.  There was overlap in many of our test offerings, and differences between operating processes and procedures.  As a result, we developed a single test menu, a single Laboratory Information System ( LIS ), a single billing process, a single brand, and a unified service offering.  By the end of 2016, all clients will be served with one unified service offering.  
+ Our medical and operating teams are working to develop and implement plans to ensure that we are offering the best tests for our clients.  Our information technology teams have worked to combine the best features from each LIS.  Numerous laboratory functional teams have reviewed and revised processes and procedures to select the highest quality and lowest-cost testing platforms.  Our sales teams have been combined to form one national team so that each account has one point of contact.  In billing, we are combining our separate operations using common policies and procedures in each billing location, and are integrating all operations using a common billing information system.  While we expect significant synergies from the combination of our two laboratories, we are also focused on retaining all our clients, and our goal is to ensure that we maintain the highest quality service throughout the integration process.   
+ We believe successfully integrating Clarient s and NeoGenomics  operations will also allow us to become more efficient and to reduce our cost per test. Our best practice teams are working with our information technology teams to make improvements in efficiencies to our lab processes, including a wide-scale adoption of on-line ordering, bar coding, specimen tracking, and other tools to create a streamlined, seamless, and efficient lab.    
+ In addition, we are working to implement plans to consolidate our Irvine Lab facility into our Aliso Viejo Lab facility, and to further streamline the design and operation of this consolidated laboratory.  Historically, improvements in our processes and procedures have had a dramatic impact on our cost structure and have allowed us to absorb reductions in average revenue per test with minimal impact to gross margin.   For example, during the years ended December 31, 2015 and 2014, we reduced our average cost of goods sold per test in our legacy NeoGenomics business, which we define to exclude the PathLogic and Clarient businesses by 8.6% and 4.7%, respectively, versus the comparable periods in 2014 and 2013, and we have identified several other areas in the laboratory where we believe we can drive further automation and efficiencies. 
+ 19 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   
+    Drive Profitable Growth  
+ Our plans for the remainder of 2016 include initiatives to continue our strong organic growth performance.  We will continue to pursue market share gains by providing high complexity, cancer-related laboratory testing services to hospitals, community-based pathology practices, and clinicians throughout the United States.  We currently perform comprehensive analyses for hematopoietic cancers such as leukemia and lymphoma (blood and lymphoid tumors) as well as solid tumors such as breast, lung, colon, and bladder cancers.  For hematopoietic cancers, we typically analyze bone marrow aspirate and peripheral blood specimens.  For solid tumors cancers, we typically analyze tissue samples or urine. 
+ Our growth over the past several years has been significantly influenced by our sales team performance.  Our highly trained sales team has been successful in competing against other laboratories because we have one of the broadest and most comprehensive test menus in our industry.  Our sales team is experienced with the scientific complexity and medical necessity of our testing services, and understands the needs of our client pathologists and oncologists. Our sales representatives often become trusted advisors to our clients who rely on them and NeoGenomics, to keep up with the latest developments in the rapidly changing field of molecular genetics.  We have also been successful in expanding to new geographies where we did not previously have sales representation and this has helped us bring our service offerings to new clients.  We believe the strength of our sales team, comprehensive test menu, and our reputation for high quality services, positions us to further drive growth throughout 2016. 
+ Our growth has also been aided by strong client retention.  We believe our high rates of client retention are due to strong service levels, our  tech-only  service offerings, and a culture of customer focus in which our engaged employees seek to deliver the highest customer satisfaction possible.  Our  tech-only  testing option allows local pathologists to participate with us in the testing process by interpreting results and performing the professional component of certain tests.  Our strong service levels are reinforced by a disciplined management process with a system of detailed measures and metrics to ensure committed turnaround times and customer service.  By retaining our existing customer base and bringing in a steady stream of new customers, we have been able to organically grow our business significantly faster than the growth rate of the overall market and we plan to continue these activities throughout 2016. 
+ We will also look to grow our business through mergers or acquisitions if the right opportunities become available.  We are focused on strategic opportunities that would be complementary to our menu of services and would be accretive to our earnings and cash flow in the short to medium timeframe.  In 2014 we acquired Path Labs, LLC, doing business as ( PathLogic ), a provider of specialized anatomic pathology services to hospitals and physicians primarily in Northern California.  PathLogic provides high-quality Anatomic Pathology services with significant expertise in the sub-specialties of renal pathology, dermatopathology, women s health and gastrointestinal and genitourinary pathology.   
+ On December 30, 2015 we completed the acquisition of Clarient.  Clarient specializes in advanced genetic and molecular oncology diagnostic services and will enable NeoGenomics to broaden its offering of innovative cancer diagnostic tests to hospitals and physicians across the country, and to accelerate its growth in the fast-growing worldwide market for pharmaceutical clinical trials and research.  Complementary product offerings and expanded geographical reach of the combined Company are expected to provide customers with substantial benefits and create a significantly larger and more diversified provider of precision oncology diagnostics.  The Clarient transaction is a good example of the type of acquisition opportunity we will consider in the future. 
+  Continuously Innovate  
+ We are keenly focused on innovation, and believe this has been a key factor in our growth.  Over the past several years, we have developed over 125 new or improved molecular oncology tests and disease-specific panels, and we are continuing to add new tests to our menu in 2016.  We believe we now have one of the most comprehensive oncology test menus of any laboratory in the world.  By launching new medically significant and necessary tests at a steady rate, we are able to provide cutting-edge developments in molecular genetics for clients and their patients, and we are developing our reputation as a leader in the field of molecular oncology.   
+ Our broad and innovative testing menu allows us to serve community-based pathologists and clinicians as well as pharmaceutical customers and nationally recognized academic centers. In addition, our comprehensive test offering allows us to be a one-stop shop for all of the oncology testing needs of our clients.  Pharmaceutical firms are also attracted to our laboratory based on our knowledgeable research and development team and our ability to offer tests at the forefront of medical developments.  Tests that we perform for Pharmaceutical clients as they develop new therapeutics also are ordered in clinical practice once therapies are commercialized.   In many cases, customers who begin using us because of our new innovative test offerings also begin to refer portions of their other testing.  Therefore, innovation helps in many ways to sustain our growth.   
+   
+ 20 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   
+    We are committed to being an innovative leader in oncology testing. Our goal is to develop new   assays to help physician clients better manage their patients and to enable them to practice evidence-based medicine tailored specifically for each of their patients. For example, during the year ended December 31, 2015, we introduced approximately 70 new   or enhanced molecular and FISH based tests and cancer profiles.  In 2014, we launched our multimodality solid tumor  Discovery Profile  which analyzes 315 genes for mutation using NGS and includes 9 FISH tests to analyze translocations, amplifications and   deletions that might be missed by NGS.  Our multimodality testing is somewhat unique in the industry and provides the gold standard FISH testing for detecting therapy-related abnormalities, many of which are required to be confirmed by FISH prior to initi  ating expensive therapy.  
+ We are also focused on opportunities to offer  liquid biopsy  testing.  We recently launched twelve NeoLAB TM  liquid biopsy tests for hematological disease using next generation sequencing and other advanced molecular technologies.  These twelve new tests use cell-free circulating DNA and RNA found in blood plasma to identify molecular abnormalities in the bone marrow without the need for a bone marrow biopsy.  The technology is based on the concept that hematologic cells release their DNA, RNA, and proteins into circulation as the cells are immersed in blood.  The cell-free circulating DNA, RNA and proteins are referred to as exosomes, microvesicles, apoptotic bodies or simply DNA- or RNA-protein complexes.  Our new tests use proprietary methods to extract these circulating nucleic acids and analyze them using next generation sequencing and other advanced methods in order to evaluate molecular abnormalities present in hematological cancers.  We estimate that more than 600,000 bone marrow biopsies are performed annually in the United States to diagnose and monitor patients with various hematologic cancers.  However, bone marrow biopsies are a painful and uncomfortable procedure for patients, and can be associated with complications.  These new tests are designed to help patients by reducing the need for bone marrow biopsies, and to assist clinicians in their treatment of cancer patients.  Physicians can utilize the new liquid biopsy tests to: 1) screen patients to determine if a bone marrow biopsy is necessary, especially when myelodysplastic syndrome or acute leukemia is suspected; 2) monitor disease status, response to therapy and predict early relapse without having to perform repeated bone marrow biopsies at set intervals; and 3) complete testing when a bone marrow sample is inadequate or is technically difficult to obtain. 
+ We also continue to develop new testing approaches by combining the capabilities of a variety of testing technologies.  We introduced a number of NeoTYPE TM  profiles that combine multiple molecular tests into multi-gene tests targeting specific types of cancer to help pathologists and oncologists determine cancer subtypes on difficult cases.  Managed care payers have expressed interest in the more targeted panels as a more cost effective alternative to ordering large panels that include genes that have never been tied to a particular type of cancer.  We use NGS and bi-directional Sanger sequencing analysis which we believe is superior to many of the molecular tests being offered by our competitors because we are able to detect mutations that other methods would not detect.  We also add other testing modalities to NGS such as FISH, IHC and flow cytometry which allow for a more comprehensive analysis of each case. 
+ We are working to develop a proprietary NeoLAB TM  (Liquid Biopsy) Prostate cancer test that is performed on blood plasma and urine rather than on prostate tissue biopsies.  There are two goals for this test: 1) to diagnose the presence of cancer in patients and 2) to distinguish high-grade from low-grade cancer in patients with prostate cancer.  We completed a preliminary patient study in June 2013, and the results were published in March 2014 in the Genetic Testing and Molecular Biomarkers journal.  In addition, in February 2014, we completed a follow up study with additional patient samples which confirmed the published preliminary data from the first trial.  The results of this second study were presented at the American Society of Clinical Oncology ( ASCO ) meeting in 2014 and were published in the Journal of Cancer in February of 2016.  We are also conducting a prospective validation study with over 2,500 patients enrolled thus far to further validate the efficacy of our NeoLAB  Prostate Test.  Recruitment for this prospective study was concluded by the end of 2015.  Patients are being followed to collect outcome data and perform statistical analysis, and a paper has been submitted for publication.  We are currently offering the NeoLAB TM  Prostate Test and are beginning commercial activities in the fourth quarter of 2016. 
+ We also expect to continue to make investments in research and development that will allow us to commercialize a number of new and innovative genetic tests as scientific and medical technological advances are made. 
+ Turnaround Times 
+   We strive to provide industry leading turnaround times for test results to our clients nationwide.  By providing information to our clients in a rapid manner, physicians can begin treating their patients as soon as possible.  We believe our average 4-5 day turnaround time for our cytogenetics testing services, our average 3-4 day turnaround time for FISH testing services, our 5-7 day turnaround time for molecular testing and our average 1 day turnaround time for flow cytometry and pathology testing services are industry-leading benchmarks for national laboratories.  Our consistent timeliness of results is a competitive strength and a driver of additional testing requests by our referring physicians.  Rapid turnaround times allow for the performance of other adjunctive tests within an acceptable  
+ 21 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   
+  diagnosis window in order to augment or confirm results and more fully inform treatment options.  We believe that our fast turnaround     times are a key differentiator versus other national laboratories, and our clients o  ften cite them as a key factor in their relationship with us.  
+ Medical and Scientific Team 
+ Our team of medical professionals and PhDs are specialists in the field of genetics, oncology and pathology. As of September 30, 2016, NeoGenomics medical and scientific team included approximately 35 full and part time Pathologists and PhDs.  The team is responsible for the quality of the Company s testing, and for the development and validation of the new assays.  The addition of Clarient s pathology team has added increased depth to our medical team, and has enhanced our ability to service a wider range of specialties. 
+ Extensive Tech-Only Service Offerings 
+ We believe, we have the most extensive menu of  tech-only  FISH services in the country. We also offer  tech-only  flow cytometry and IHC testing services.  These types of testing services allow the professional interpretation component of a test to be performed and billed separately by our physician clients.  Our FISH, flow cytometry and other tech-only service offerings allow properly trained and credentialed community-based pathologists to extend their own practices by performing professional interpretations services, which allows them to better service the needs of their local clientele without a direct investment in costly lab equipment and personnel required to perform the technical component of genetic and molecular testing. 
+ Our tech-only services are designed to give pathologists the option to choose, on a case by case basis, whether they want to order just the technical information and images relating to a specific test so they can perform the professional interpretation, or order  global  services and receive a comprehensive test report which includes a NeoGenomics Pathologist s interpretation of the test results.  Our clients appreciate the flexibility to access NeoGenomics  medical staff for difficult or complex cases or when they are otherwise unavailable to perform professional interpretations.  We believe this innovative approach to serving the needs of pathology clients  results in longer term, more committed and strategic client relationships. Our extensive  tech-only  service offerings have differentiated us and allowed us to compete more effectively against larger, more entrenched competitors in our niche of the industry. 
+ Global Service Offerings 
+ We also offer a comprehensive suite of technical and interpretation services, to meet the needs of those clients who are not credentialed and trained in interpreting genetic tests and who are looking for specialists to interpret the testing results for them. In our global service offerings, our lab performs the technical component of the tests and our M.D.s and Ph.Ds. provide the service of interpreting the results of those tests. Our professional staff is also available for post-test consultative services. Clients using our global service offering rely on the expertise of our medical team to give them the answers they need in a timely manner to help inform their diagnoses and treatment decisions. Many of our tech-only clients also rely on our medical team for difficult or challenging cases by ordering our global testing services on a case-by-case basis or our medical team can serve as a backup to support our clients who need help to satisfy the continued and demanding requirements of their practice. Our reporting capabilities allow for all relevant case data from our global services to be captured in one summary report. When providing global services, NeoGenomics bills for both the technical and professional component of the test, which results in a higher reimbursement level. 
+ Superior Testing Technologies and Instrumentation 
+ We use some of the most advanced testing technologies and instrumentation in the laboratory industry. The use of next generation sequencing in our molecular testing allows us to detect multiple mutations and our proprietary techniques allow us to achieve high sensitivity in our next generation sequencing testing.  In addition, we use high sensitivity Sanger sequencing, RNA and DNA quantification, SNP/Cytogenetic arrays, Fragment Length analysis, and other molecular testing technologies.  Our automated FISH and Cytogenetics tools allow us to deliver the highest quality testing to our clients and our flow cytometry laboratory uses 10-color flow cytometry analysis technology on a technical-only basis. We are one of only a few laboratories with an electron microscopy department for diagnosis in complex renal case analysis.  Our MultiOmyx TM  platform is a unique immunofluorecence array technology that allows up to sixty immunohistochemistry stains to be analyzed on a single slide.  We are continually testing new laboratory equipment in order to remain at the forefront of new developments in the testing field. 
+ 22 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   
+    Laboratory Information System   
+ We believe we have a state-of-the-art LIS that interconnects our locations and provides flexible reporting solutions to clients.  This system allows us to standardize testing and deliver uniform test results and images throughout our network, regardless of the location that any specific portion of a test is performed within our network.  This allows us to move specimens and image analysis work between locations to better balance our workload.  Our LIS also allows us to offer highly specialized and customizable reporting solutions to our tech-only clients.  For instance, our  tech-only  FISH and flow cytometry applications allow our community-based pathologist clients to tailor individual reports to their specifications and incorporate only the images they select and then issue and sign-out such reports using our system.  Our customized reporting solution also allows our clients to incorporate test results performed on ancillary tests not performed at NeoGenomics into summary report templates.  This FlexREPORT feature has been well-received by clients. 
+ National Direct Sales Force  
+ Our direct sales force has been trained extensively in cancer genetic testing and consultative selling skills to service the needs of clients.  Our sales team for our core clinical genetic testing business is organized into five regions (Northeast, Southeast, North Central, South Central and West), we also have separate sales teams for our Pharma Services and PathLogic businesses.   These sales representatives all utilize our custom Customer Relationship Management System ( CRM ) to manage their territories, and we have integrated all of the important customer care functionality within our LIS into the CRM so that our sales representatives can stay informed of emerging issues and opportunities within their regions.  Our in-house customer care team is aligned with our field sales team to serve the needs of our clients by utilizing the same LIS and CRM.  Our field teams can see in real-time when a client calls the laboratory, the reason for the call, the resolution, and if face-to-face interaction is needed for follow-up. 
+ Geographic Locations 
+ Many high complexity laboratories within the cancer testing niche have frequently operated a core facility on either the West Coast or the East Coast of the United States to service the needs of their customers around the country. We believe our clients and prospects desire to do business with a laboratory with national breadth and a local presence. We have eight facilities and five large laboratory locations in Fort Myers, Florida, West Sacramento, California, Aliso Viejo, California, Irvine, California and Houston Texas and three smaller laboratory locations in Fresno, California, Nashville, Tennessee and Tampa, Florida. Our objective is to  operate one lab with multiple locations  in order to deliver standardized, high quality, test results. We intend to continue to develop and open new laboratories and/or expand our current facilities as market situations dictate and business opportunities arise. 
+ Scientific Advances 
+ In the past few years our field has experienced a rapid increase in tests that are tied to specific  genomic pathways . These predictive tests are typically individualized for a small sub-set of patients with a specific subtype of cancer. The therapeutic target in the genomic pathway is typically a small molecule found at the level of the cell surface, within the cytoplasm and/or within the nucleus. These genomic pathways, known as the  Hallmarks of Cancer , contain a target-rich environment for small-molecule  anti-therapies . These anti-therapies target specific mutations in the major cancer pathways such as the Proliferation Pathway, the Apoptotic Pathway, the Angiogenic Pathway, the Metastasis Pathway, and the Signaling Pathways and Anti-Signaling Pathways. 
+ Seasonality 
+ The majority of our testing volume is dependent on patients being treated by hematology/oncology professionals and other healthcare providers. Volume of testing generally declines during the vacation seasons, year-end holiday periods and other major holidays, particularly when those holidays fall during the middle of the week. In addition, the volume of testing tends to decline due to adverse weather conditions, such as heavy snow, excessively hot or cold spells or hurricanes, tornados in certain regions, consequently reducing revenues and cash flows in any affected period. Therefore, comparison of the results of successive periods may not accurately reflect trends for future periods. 
+   
+ Please see the section captioned Part II, Item 7,  Management s Discussion and Analysis of Financial Condition and Results of Operations  in our Annual Report on Form 10-K for the year ended December 31, 2015;  as filed with the SEC on March 15, 2016, and amended on April 18, 2016,  for a detailed description of our business.  
+ 23 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   
+    Results of Operations for the Three and   Nine   Months Ended   September   30, 2016 as Compared to the Three and   Nine   Months Ended   September   30, 2015  
+ On December 30, 2015, we completed the acquisition of Clarient and its wholly owned subsidiary Clarient Diagnostic Services, Inc., from GE Medical.  Our year-over-year comparisons are significantly impacted as the results of Clarient are included in the full three and nine month periods ended September 30, 2016 while the results of Clarient are not included in the three and nine month periods ended September 30, 2015 as the acquisition had not yet been completed (see Note C to the consolidated financial statements for additional information).   
+ The following table presents the consolidated statements of operations as a percentage of revenue: 
+
+The following table presents consolidated revenue by type for the periods indicated ($ in thousands): 
+
+Revenue  
+ The increase in our clinical testing revenue for the three and the nine month periods ended September 30, 2016 as compared to the same periods in 2015 was primarily due to the acquisition of Clarient, which accounted for 78% and 79% of the dollar increases, respectively.  The remainder of the growth in clinical testing revenue was organic.  We had strong growth in our clinical genetic testing business, where we continue to gain new clients and larger client accounts and experienced increased testing volumes from our existing accounts as a result of new test offerings, such as PD1 and PDL1, which have been well received by our client base.    
+ The increase in our Pharma services and research revenue for the three and the nine months ended September 30, 2016 as compared to the same periods in 2015 was also largely due to the acquisition of Clarient which accounted for 93% of the dollar increase for both the three and nine month periods.  We expect to see continued growth in our Pharma Services division primarily from an expanded sales force, international expansion and from increasing use by pharmaceutical customers of MultiOmyx TM , an emerging multiplex technology for which we have exclusive US rights.  MultiOmyx TM  allows multiple IHC and/or FISH assays to be run on the same sample and has been found to be very useful to pharmaceutical scientists working with limited samples or tissue.    
+ 24 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   
+    The   following table shows clinical   genetic testing revenue  , cost of revenue, requisitions received and tests performed for the   three and nine   months ended   September   30, 2016 and 2015.  This data   excludes tests performed for   Pharma customers and tests performed by Path  Logic (testing revenue and cost of revenue in   thousands):  
+
+Our year-over-year growth in clinical genetic testing revenue, as shown above, was primarily driven by the inclusion of Clarient, as previously mentioned.  We also achieved organic (legacy NeoGenomics business) growth of approximately 29% and 33% in clinical genetic testing revenue for the three and nine months ended September 30, 2016, excluding the impact of Clarient.  We believe that the increase in revenues are the direct result of our efforts to innovate by developing one of the most comprehensive molecular testing menus in the industry.  This broad test menu allows for existing clients to order more testing and also has also attracted many new clients and has helped us to gain market share from competitors.  New tests such as PD1 and PDL1 have shown solid growth and continue to establish us at the leading edge as new tests and assays come onto the market. 
+   
+ The decrease in our average revenue per test of 5.4% for both the three and nine month periods ended September 30, 2016 compared to the same periods in 2015 is primarily attributable to the change in test mix, with the inclusion of Clarient s lower average reimbursement rate per test. Cost per test fell by approximately 6.2% and 7.6% for the three and nine month periods ended September 30, 2016, respectively, compared to the same periods in 2015 as we continue to see the benefits of scale from the added testing volumes of the combined companies. 
+ We have been successful at reducing cost by internalizing many tests that Clarient previously sent to outside reference laboratories.  In the first quarter of 2016, we began performing these tests in house, at a lesser cost.  We have also implemented numerous best practices in our laboratories and have incentivized our laboratory teams to reduce the cost of testing.  We continue to make enhancements to our laboratory information system (LIS) to improve the productivity of our laboratory teams.  We expect to continue to realize cost synergies and reduce our cost of testing as we consolidate our two largest testing facilities in southern California.  We expect to substantially complete the move and closure of our Irvine facility into the Aliso Viejo facility by the end of the first quarter next year.  We don t anticipate any significant exit costs as a result of closing the Irvine facility as the current lease is set to expire in April 2017. 
+  Cost of Revenue and Gross Profit  
+ Cost of revenue includes payroll and payroll related costs for performing tests, maintenance and depreciation of laboratory equipment, rent for laboratory facilities, laboratory reagents, probes and supplies, and delivery and courier costs relating to the transportation of specimens to be tested. 
+ The consolidated cost of revenue and gross profit metrics are as follows ($ in thousands): 
+
+25 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   
+    The dollar increase in consolidated cost   of revenue for the three and nine   month  s   ended   September   30, 2016 when compared   to the same periods in 2015 was   primarily     the   result of the Clarient acquisition, and also increases in our testing volumes.  Cost of revenue as a percentage of revenue decreased   slightly   year-over-year due to the cost savings initiatives  , internalized tests that were previously sent out by Clari  ent   and aforementioned synergies of the combined larger   enterprise.    Cost per test on the clinical side has fallen by 6.2% as compared to the third quarter of 2015 as we continue to have success in driving down our costs in the laboratory.  
+  General and Administrative Expenses  
+ General and administrative expenses consist of employee related costs (such as salaries, fringe benefits, and stock based compensation expense) for our billing, finance, human resources, information technology and other administrative personnel. We also allocate professional services, facilities expense, bad debt expense, depreciation, amortization and administrative-related costs to general and administrative expenses. 
+ Consolidated general and administrative expenses for the periods presented are as follows: 
+
+The increase in our general and administrative expenses for the three and nine months ended September 30, 2016 compared to the same periods in 2015 was largely due to the inclusion of Clarient and the additional resources necessary to manage the growth of the Company and the increased volume of testing.  These changes were the result of increased expenses in the following areas:  payroll, stock based compensation, depreciation and amortization, travel, technology and equipment, facility, bad debt, and professional fees.  We also had an increase of $1.8 million and $5.3 million for the three and nine months ended September 30, 2016 over the same periods in 2015 associated with amortization of customer lists and trade names as a result of the Clarient acquisition.  Excluding these non-cash related expenses, general and administrative expenses as a percentage of revenue would have been 28.4%, versus 29.6% for the three month period and 27.5%, versus 29.0% for the nine month period ending September 30, 2016 as compared to the same periods in 2015.   
+ Bad debt expense for the three months ended September 30, 2016 increased by approximately $2.2 million to $2.8 million when compared to the same period in 2015.  Bad debt as a percentage of revenue was 4.5%, which was higher than last year s rate of 2.2%.  Bad debt expense for the nine month period ended September 30, 2016 increased by approximately $6.3 million to $8.2 million when compared to the same period in 2015.  Bad debt as a percentage of revenue was 4.5%, which was higher than last year s rate of 2.6%.  These increases as a percentage of sales are primarily related to the addition of Clarient s results.  Clarient has historically had a higher bad debt rate than NeoGenomics.  We expect our bad debt rate as a percentage of sales to decline over time as we implement NeoGenomics  billing system and billing policies and practices into Clarient. 
+ We expect our general and administrative expenses to increase as we add personnel and equity related compensation expenses, increase our billing and collections activities; incur additional expenses associated with the expansion of our facilities and backup systems; incur additional bad debt expense as sales increase and as we continue to expand our physical infrastructure to support our anticipated growth.  A significant portion of our stock based compensation is for non-employee options which are subject to variable accounting, and our expenses will fluctuate based on the performance of our common stock.  A rise in the price of our stock will increase our stock compensation expense, and a decline in our stock price will reduce this expense.  However, we anticipate that general and administrative expenses as a percentage of consolidated revenue will drop over the coming years if we continue to grow.    
+  Research and Development Expenses  
+ Research and development ( R D ) expenses relate to cost of developing new proprietary and non-proprietary genetic tests, including payroll and payroll related costs, maintenance and depreciation of laboratory equipment, laboratory reagents,  probes and supplies, as well as costs related to our licensing agreement with Health Discovery Corporation, including the amortization of the licensed technology.   
+
+26 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   
+    Consolidated research and development expenses for the periods presented are as follows:  
+
+Excluding stock based compensation expense of $187,000 and $219,000 for the three months ended September 30, 2016 and 2015, research and development expense was approximately $780,000 and $652,000, respectively.  Excluding stock based compensation expense of $550,000 and $512,000 for the nine months ended September 30, 2016 and 2015, research and development expense was approximately $3.2 million and $1.8 million respectively.  The stock based compensation increases reflect the increase in the price of our common stock and the fact that the related options and warrants for a non-employee contractor is accounted for at fair value each reporting period.  Excluding stock based compensation, the increase in our R D expense was related to the development of several new tests including our NeoLAB TM  Prostate test, which was made available for ordering during the first quarter of 2016.  We expect our research and development expenses to fluctuate in future quarters because of increases or decreases in our stock price and the corresponding stock based compensation expense for non-employee stock options. Increases in our stock price result in additional expense and decreases in our stock price can result in recovery of previously recorded expense.  We anticipate research and development expenditures will increase over time as we continue to invest in innovation and bringing new tests to market. 
+  Sales and Marketing Expenses  
+ Sales and marketing expenses are primarily attributable to employee related costs including sales management, sales representatives, sales and marketing consultants and marketing and customer service personnel. 
+ Consolidated sales and marketing expenses for the periods presented are as follows: 
+
+Sales and marketing expenses increased year-over-year, largely attributable to the inclusion of Clarient, as well as the additional sales and marketing personnel and our expansion into new territories and new geographies.  We have also added representatives to our Pharma Services business as we try to drive additional growth in that area.  We expect our sales and marketing expenses over the long term to increase as our test volumes increase, but to remain stable as a percentage of our overall sales.   
+  Interest Expense, net  
+ Interest expense, net is comprised of interest incurred on our term debt, revolving credit facility and our capital lease obligations offset by the interest income we earn on cash deposits.  Interest expense, net increased by $1.2 million for the three month period ending September 30, 2016 compared to the same period in 2015.  This increase is due to the debt obligations associated with financing the Clarient acquisition.  Interest expense, net increased by $3.9 million for the nine month period ending September 30, 2016 compared to the same period in 2015 which was also due to the debt obligations associated with financing the Clarient acquisition. 
+   
+ 27 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   
+    Net Income  
+ The following table provides consolidated net loss available to common stockholders for each period along with the computation of basic and diluted net loss per share for the three and nine months ended September 30, 2016 and 2015: 
+
+Non-GAAP Measures  
+   
+ Use of non-GAAP Financial Measures 
+   
+ The Company s financial results are provided in accordance with accounting principles generally accepted in the United States of America (GAAP) and using certain non-GAAP financial measures.  Management believes that presentation of operating results using non-GAAP financial measures provides useful supplemental information to investors and facilitates the analysis of the Company s operating results and comparison of operating results across reporting periods and between entities. Management also uses non-GAAP financial measures for financial and operational decision making, planning and forecasting purposes and to manage the Company s business. Management believes that Adjusted EBITDA is a key metric for our business because it is used by our lenders in the calculation of our debt covenants.  Management also believes that these non-GAAP financial measures enable investors to evaluate our operating results and future prospects in the same manner as management.  The non-GAAP financial measures do not replace the presentation of GAAP financial results and should only be used as a supplement to and not as a substitute for the Company s financial results presented in accordance with GAAP.  There are limitations inherent in non-GAAP financial measures because they exclude charges and credits that are required to be included in a GAAP presentation, and do not therefore present the full measure of the Company s recorded costs against its net revenue.  In addition, the Company s definition of the non-GAAP financial measures below may differ from non-GAAP measures used by other companies.   
+   
+ Definitions of non-GAAP measures 
+   
+ Non   GAAP EBITDA 
+   
+ We define  EBITDA  as net income from continuing operations before: (i) interest expense, (ii) tax expense, (iii) depreciation and amortization expense. 
+   
+ Non   GAAP Adjusted EBITDA 
+   
+ We define  Adjusted EBITDA  as net income from continuing operations before: (i) interest expense, (ii) tax expense, (iii) depreciation and amortization expense, (iv) non-cash, stock-based compensation expense, and if applicable in a reporting period (v) acquisition related transaction expenses and other significant non-recurring or non-operating (income) or expenses. 
+   
+ Basis for Non-GAAP Adjustments 
+   
+ Our basis for excluding certain expenses from GAAP financial measures, are outlined below: 
+
+Interest expense     The capital structure of companies significantly affects the amount of interest expense incurred.  This expense can vary significantly between periods and between companies.  In order to compare performance between periods and companies that have different capital structures and thus different levels of interest obligations, NeoGenomics excludes this expense.      
+
+ 28 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Income tax expense   (benefit)           The tax positions of companies can vary because of their differing abilities to take advantage of tax benefits and because of the tax policies of the jurisdictions in which they operate. As a result, effective tax rates and   the   provision for income taxes c  an vary considerably among companies  .    In order to compare performance between companies, NeoGenomics excludes this expense   (benefit)  .      
+
+Depreciation expense     C  ompanies utilize assets with different useful lives and use different methods of both acquiring and depreciating these assets. These differences can result in considerable variability in the costs of productive assets and the depreciation and amortization expense among companies.   In order to compare performance between companies, NeoGenomics excludes this expense.      
+
+Amortization expense     The intangible assets that give rise to this amortization expense relate to acquisitions, and the amounts allocated to such intangible assets and the terms of amortization vary by acquisition and type of asset.  NeoGenomics excludes these items to provide a consistent basis for comparing operating results across reporting periods, pre and post-acquisition.       
+
+Stock-based compensation expenses     Although stock-based compensation is an important aspect of the compensation paid to NeoGenomics employees and consultants, the related expense is substantially driven by changes in the Company s stock price in any given quarter, which can fluctuate significantly from quarter to quarter and result in large positive or negative impacts to total operating expenses.  The variable accounting treatment causing expense to be driven by changes in quarterly stock price is required because many of the Company s full-time Physicians reside in California and are classified as consultants rather than employees due to State regulations.  GAAP provides that variable stock based compensation treatment be applied for consultants but not for employees. Without adjusting for these non-cash expenses, the Company believes it would be difficult to compare financial results from operations across reporting periods on a consistent basis.       
+
+ We believe that EBITDA and Adjusted EBITDA provide more consistent measures of operating performance between entities and across reporting periods by excluding cash and non-cash items of expense that can vary significantly between companies.  In addition, adjusted EBITDA is a metric that is used by our lenders in the calculation of our debt covenants.  Adjusted EBITDA also assists investors in performing analyses that are consistent with financial models developed by independent research analysts. 
+   
+ EBITDA and Adjusted EBITDA (as defined by us) are not measurements under GAAP and may differ from non-GAAP measures used by other companies.  We believe there are limitations inherent in non-GAAP financial measures such as EBITDA and Adjusted EBITDA because they exclude a variety of charges and credits that are required to be included in a GAAP presentation, and do not therefore present the full measure of NeoGenomics recorded costs against its net revenue.  Accordingly, we encourage investors to consider both non-GAAP results together with GAAP results in analyzing our financial performance. 
+   
+ The following is a reconciliation of GAAP net income (loss) to Non-GAAP EBITDA and Adjusted EBITDA for the three and nine months ended September 30, 2016 and 2015: 
+
+29 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   
+    Trade Accounts Receivable and Allowance for Doubtful Accounts  
+ Accounts receivable are reported, net of an allowance for doubtful accounts, which is estimated based on the aging of accounts receivable with each payer category and the historical data on bad debts in these aging categories.  In addition, the allowance is adjusted periodically for other relevant factors, including regularly assessing the state of our billing operations in order to identify issues which may impact the collectability of receivables or allowance estimates.  Revisions to the allowance are recorded as an adjustment to bad debt expense within general and administrative expenses.  After appropriate collection efforts have been exhausted, specific receivables deemed to be uncollectible are charged against the allowance in the period they are deemed uncollectible.  Recoveries of receivables previously written-off are recorded as credits to the allowance. 
+ The following tables present the Company s gross outstanding accounts receivable ($ in thousands) by payer group at September 30, 2016 and December 31, 2015: 
+ NEOGENOMICS AGING OF RECEIVABLES BY PAYER GROUP 
+ September 30, 2016 
+
+NEOGENOMICS AGING OF RECEIVABLES BY PAYER GROUP 
+ December 31, 2015 
+
+The following table represents the balance in allowance for doubtful accounts (in thousands) and that allowance as a percentage of gross accounts receivable at September 30, 2016 and December 31, 2015:     
+
+The increase in the allowance for doubtful accounts for the period ended September 30, 2016 as compared to the period ended December 31, 2015 is attributed to the acquisition of Clarient and the historically higher rate of bad debt expense that Clarient has experienced.   
+ 30 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   
+    Liquidity and Capital Resources  
+ To date, we have financed our operations primarily through public and private sales of equity securities, borrowings against our accounts receivables balances, private debt used for the Clarient acquisition, and cash generated from operations.   
+ The following table presents a summary of our consolidated cash flows for operating, investing and financing activities (in thousands) for the nine months ended September 30, 2016 and 2015 as well as the period ended cash and cash equivalents and working capital. 
+
+(1) Defined as current assets minus current liabilities. 
+  Cash Provided by Operating Activities  
+ During the nine months ended September 30, 2016, cash provided by operating activities increased by approximately $17.4 million compared with the same period in 2015.  The increase was primarily related to the acquisition of Clarient and the related increases in our cash receipts, in addition to our net income for the period ending September 30, 2016 compared to our net loss for the period ended September 30, 2015. 
+  Cash Used in Investing Activities  
+ During the nine months ended September 30, 2016, cash used by investing activities increased by approximately $3.6 million compared with the same period in 2015.  This increase was primarily due to equipment purchases which were necessary to support our continued growth and efficiency.  We have made significant investments in IT infrastructure during 2016 including increased storage infrastructure and a new telecom system.  In addition, we have begun to incur costs related to the remodel of our laboratory facility in Aliso Viejo, CA as well as the expansion of our billing department in Fort Myers, FL.  As we continue to make investments in these areas, we expect to continue to incur expenditures through the remainder of 2016.   
+  Cash Used in Financing Activities  
+ During the nine months ended September 30, 2016, cash used by financing activities increased by approximately $8.6 million compared with the same period in 2015.  This increase was primarily due to the $10 million repayment made on our revolving credit facility in the first quarter of 2016 which was originally used to finance the acquisition of Clarient.  Cash used for financing activities was also comprised of repayments on our Term Loan and our capital lease obligations.  These repayments were partially offset by cash received for the issuance of our common stock for the exercise of stock options and Employee Stock Purchase Plan shares. 
+  Liquidity Outlook  
+ We had approximately $28.9 million in cash and cash equivalents as of September 30, 2016.  In addition, we have a revolving credit facility which provides for up to $25.0 million in borrowing capacity.  As of September 30, 2016, the entire $25 million line was undrawn and was available.  We believe that the cash on hand, available credit lines and positive cash flows generated from operations will provide adequate resources to meet our operating commitments and interest payments for at least the next 12 months.  Our Series A Preferred Stock has certain restrictions that will result in the Company having to dedicate fifty percent of the net proceeds from any future equity raise, to redeeming shares of the Series A Preferred Stock until such time as all of the shares of Series A Preferred Stock have been redeemed.  
+ 31 
+
+NEOGENOMICS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+   
+    Capital Expenditures  
+ We currently forecast capital expenditures in order to execute on our business plan and keep up with the growth in our testing volumes, although the actual amount and timing of such capital expenditures will ultimately be determined by the volume of our business.  We currently anticipate that our capital expenditures for the year ended December 31, 2016 will be in the range of $12.5 million to $14.5 million.  During the three and nine months ended September 30, 2016, we purchased approximately $4.2 million and $10.2 million respectively of capital equipment, software and leasehold improvements of which $2.4 million and $4.8 million respectively was acquired through capital lease obligations.  We have in the past and plan to continue funding these capital expenditures with capital lease financing arrangements, cash, and through bank loan facilities if necessary. 
+  Critical Accounting Policies  
+ The preparation of financial statements in conformity with accounting principles generally accepted in the United States requires us to make estimates and assumptions and select accounting policies that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements, as well as the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+ While many operational aspects of our business are subject to complex federal, state and local regulations, the accounting for our business is generally straightforward with net revenues primarily recognized upon completion of the testing process. Our revenues are primarily comprised of laboratory tests, and approximately one-half of total operating costs and expenses consist of employee compensation and benefits. Due to the nature of our business, several of our accounting policies involve significant estimates and judgments. These accounting policies have been described in our Annual Report on Form 10-K for the year ended December 31, 2015 as amended 
+  Related Party Transactions  
+  Consulting Agreements  
+ During each of the three month periods ended September 30, 2016 and 2015, Steven C. Jones, an officer, director and shareholder of the Company, earned approximately $66,000, for consulting work performed in connection with his duties as Executive Vice President of Finance.  During each of the nine month periods ended September 30, 2016 and 2015, Mr. Jones,  earned approximately $197,000 for consulting work performed in connection with his duties as Executive Vice President of Finance.  Mr. Jones also received approximately $79,000 and $78,000 during the nine months ended September 30, 2016 and 2015, respectively as payment of his annual bonus compensation for the previous fiscal years.   
+ On April 20, 2016, the Company granted Mr. Jones 100,000 stock options.  The options were granted at a price of $7.15 per share and had a weighted average fair market value of $3.06 per option.  The options vest ratably over the next three years.  We use variable accounting for these options and accordingly they are subject to fair value adjustment at the end of each reporting period based on changes in the Company s stock price.   
+  Off-balance Sheet Arrangements  
+   
+ We do not use special purpose entities or other off-balance sheet financing techniques that we believe have, or are reasonably likely to have, a current or future material effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity or capital resources .  
+   
+ 32 
+
+NEOGENOMICS, INC. 
+   
+        ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+ We do not invest in or trade instruments which are sensitive to market risk. We also do not have any material foreign operations or foreign sales so we have no exposure to foreign currency exchange rate risk. 
+
+ITEM 4. CONTROLS AND PROCEDURES  
+  Disclosure Controls and Procedures  
+ We maintain disclosure controls and procedures designed to ensure that information required to be disclosed in reports filed under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized, and reported within the time periods specified in the SEC rules and forms, and that such information is accumulated and communicated to our management, including our principal executive officer and principal  financial officer, as appropriate, to allow timely decisions regarding required disclosure. In designing and evaluating our disclosure controls and procedures, management recognized that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. 
+ As required by SEC Rule 15d-15, our management carried out an evaluation, under the supervision and with the participation of our principal executive officer and principal financial officer, of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this Quarterly Report on Form 10-Q. Based on that evaluation, our principal executive officer and principal financial officer concluded that our disclosure controls and procedures were effective at a reasonable assurance level as of the end of the period covered by this report. 
+  Changes in Internal Control over Financial Reporting  
+ There were no changes in our internal control over financial reporting that occurred during the three months ended September 30, 2016 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+   
+ 33 
+
+NEOGENOMICS, INC. 
+
+PART II   OTHER INFORMATION 
+   
+     ITEM 1. LEGAL PROCEEDINGS 
+ From time to time the Company is engaged in legal proceedings in the ordinary course of business.  We do not believe any current legal proceedings are material to our business. No material proceedings were terminated during the quarter ended September 30, 2016. 
+
+ITEM 1A. RISK FACTORS 
+ There have been no material changes in our risk factors from those set forth in Part I, Item 1A,  Risk Factors  contained in our Quarterly Report on Form 10-Q for the period ended June 30, 2016; as filed with the SEC on August 5, 2016.    
+   
+   I  TEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+ None 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES 
+ Not applicable 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+ Not applicable 
+
+ITEM 5. OTHER INFORMATION 
+ None 
+   
+ 34 
+
+NEOGENOMICS, INC. 
+   
+      ITEM 6  .       EXHIBITS  
+
+EXHIBIT 
+ NO.  
+
+DESCRIPTION  
+
+10.51  
+
+Amended and Restated Consulting Agreement dated November 4, 2016 between NeoGenomics, Inc. and Steven C. Jones  
+
+10.52  
+
+Form of Indemnification Agreement between NeoGenomics, Inc. and each of its executive officers and directors.  
+
+31.1  
+
+Certification by Principal Executive Officer pursuant to Rule 13a-14(a)/ 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002  
+
+31.2  
+
+Certification by Principal Financial Officer pursuant to Rule 13a-14(a)/ 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002  
+
+32.1  
+
+Certification by Principal Executive Officer and Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002  
+
+101  
+
+The following materials from the Company s Quarterly Report on Form 10-Q for the quarter ended September 30, 2016 formatted in Extensible Business Reporting Language (XBRL): (i) the  Consolidated Balance Sheets, (ii) the Consolidated Statements of Operations, (iii) the  Consolidated Statements of Cash Flows and (iv) related notes  
+
+35 
+
+NEOGENOMICS, INC. 
+   
+        SIGNAT  URES  
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Date: November 4, 2016  
+
+NEOGENOMICS, INC.  
+
+By:  
+
+/s/ Douglas M. VanOort  
+
+Name:  
+
+Douglas M. VanOort  
+
+Title:  
+
+Chairman and Chief Executive Officer  
+
+By:  
+
+/s/ George Cardoza  
+
+Name:  
+
+George Cardoza  
+
+Title:  
+
+Chief Financial Officer  
+
+36 
+
+<EX-10.51>
+ 2
+ neo-ex1051_265.htm
+ EX-10.51
+
+neo-ex1051_265.htm
+
+EXHIBIT 10.51 
+   
+ Amended   Restated Consulting Agreement: Steven C. Jones 
+   
+ This Amended and Restated Consulting Agreement (the  Agreement ) is entered into on this 4 th  day of November, 2016 (the  Effective Date ) by and between Steven Jones an individual whose legal address is indicated in the signature section of this Agreement ( Mr. Jones  or the  Executive ) and NeoGenomics, Inc., a Nevada Company with its principal office located at 12701 Commonwealth Drive, Suite 5, Fort Myers, FL  33913, together with its wholly-owned subsidiary, NeoGenomics Laboratories, Inc., a Florida company (collectively  NeoGenomics  or the  Company ).  This Agreement supersedes and replaces the original consulting agreement between the parties, dated May 3, 2010, and subsequently amended on February 11, 2011, April 1, 2012, January 1, 2013, and May 1, 2014 (as amended, the  Original Agreement ).  
+   
+ RECITALS: 
+   
+ WHEREAS, Mr. Jones served as the Company s Chief Financial Officer from 2003 - 2009 and has been serving as the Company s Executive Vice President   Finance since Dec 2009 and Chief Compliance Officer since February 2013, and has served as a member of the NeoGenomics Board of Directors since 2003; and 
+   
+ WHEREAS, the parties desire to amend the Original Agreement to begin to transition some of Mr. Jones  day to day responsibilities to other members of the NeoGenomics management team and allow for Mr. Jones to reduce his time commitment to NeoGenomics; and  
+   
+ WHEREAS, Mr. Jones desires to continue to provide consulting services to NeoGenomics on the terms outlined herein; 
+   
+ NOW, THEREFORE, in consideration of the mutual promises herein contained, the parties agree as follows: 
+   
+ 1.   Term of Engagement .  This Agreement shall be effective from the Effective Date until April 30, 2020 (the  Initial Term ).  After the Initial Term, this Agreement shall automatically renew for consecutive one year periods ( Renewal Term ), unless a written notice of a party s intention to terminate this Agreement at the expiration of the Initial Term (or any Renewal Term) is delivered by either party at least three (3) months prior to the expiration of the Initial Term or any Renewal Term, as applicable.  For purposes of this Agreement, the period from the Effective Date until the termination of this Agreement, including during any Renewal Term, for any reason shall hereinafter be referred to as the  Term.   Notwithstanding the foregoing, the Company and/or Executive shall have the right to terminate this Agreement pursuant to paragraph 7 hereof at any time.   
+
+2.    Services.    During the Term,   Executive   will   continue to   provide consulting services to the Company     in the capacity of the Company s Executive Vice President,   subject to the direction of the Company s   Chief Executive Officer  .  Without limiting the generality of the foregoing, it is presently contemplated that the   Executive   shall   provide   the following   services ( Services ) and have the   duties   indicated  :  
+
+a)   
+ 
+ Provide advice and guidance to the Company with respect to the overall operations of the Company, major growth initiatives, and/or potential mergers or acquisitions;    
+
+b)   
+ 
+ Serve as the Company s Chief Compliance Officer until such time as a successor is named and trained;    
+
+c)   
+ 
+ Provide leadership, guidance and assistance on compliance and regulatory affairs;    
+
+d)   
+ 
+ Serve as the Company s Director of Investor Relations and act as liaison to the investment community until such time as a successor is named and trained;    
+
+e)   
+ 
+ Provide leadership, guidance and assistance in drafting and issuing press releases on behalf of the Company;    
+
+f)   
+ 
+ Provide leadership, guidance and assistance to the Company in raising debt or equity capital, when requested to do so;    
+
+g)   
+ 
+ Provide advice and assistance in drafting and reviewing SEC filings;    
+
+h)   
+ 
+ On an as requested basis, provide advice and assistance on i) contracts with employees, vendors, clients, and strategic partners, ii) litigation matters in which Executive has knowledge or expertise, iii) developing forecast models, iv) other business topics related to the operations or growth of the Company;     
+
+i)   
+ 
+ Participate in meetings of the Company s Corporate Management Team and such other business meetings germane to the Services provided by Executive hereunder;     
+
+j)   
+ 
+ Travel at the request of the Company to assist with any of the above duties.    
+
+k)   
+ 
+ Such other duties as may be assigned from time-to-time by the Chief Executive Officer of the Company.  The spirit of this section is to try and account for other activities or issues that have not been addressed or identified in (a) through (h) above.    
+
+3.   Agreements of NeoGenomics .  Pursuant to this Agreement, NeoGenomics agrees to provide such support as Executive may reasonably request in order to perform the duties outlined in paragraph 2, including, but not limited to providing an office for Executive to use while he is working on site at NeoGenomics headquarters  location in Ft. Myers, FL and providing access to such information as Executive may reasonably require in order to provide the Services contemplated by this Agreement.  The Company also agrees that it will use commercially reasonable efforts to re-assign Consultant s current duties with respect to having primary responsibility for reviewing and signing contracts by February 28, 2017, or such other time as may be mutually agreed upon.  Notwithstanding the foregoing, Executive agrees to train his successor(s) in such duties, and continue to serve as a resource to such successor(s) on an as requested basis.  
+   
+   4.   Time Commitment; Place of Service .   In order to provide a seamless transition of Executive s duties to other members of the Company s management team and allow for the training  
+ 2 
+
+of such personnel,   Executive   agrees that he will target the   below listed percentages of   working   time and attention t  o the Company in the periods indicated  , or such other amounts as may be mutually agreed upon with Company  .  Company understands and acknowledges that the following   target   service levels are intended to be averages   for   the service periods   indicated   and that some months may have more service time and   other   months less services time.   Company agrees that Executive shall be free to provide   the S  ervices from any location, including locations that are not   C  ompany facilities.  Notwithstanding the forgoing, Executive agree to provide   S  ervices at one or more of the Company s facilities from time to time in order to support business meetings and training activities.     
+
+5.   Compensation and Expenses .  In consideration for the services rendered by the Executive to the Company throughout the Term, the Company shall compensate Executive as follows: 
+   
+ a)   Monthly Retainer .  The Company agrees to pay Executive a fixed monthly cash consulting fee (the  Base Retainer ) in the amounts specified below for the service periods indicated:   
+
+Such payments will be made monthly within ten (10) business days of the end of the month for which services were provided via ACH transfer to Executive s designated bank account.   
+    
+ b)   Participation in the Company s Management Incentive Plan.    The Company agrees that Executive shall participate in the Company s Management Incentive Plan ( MIP ) as it may be structured in any given fiscal year for senior officers of the Company.  The Company agrees that it will target a payout of thirty-five percent (35%) of the Base Retainer (the  Target Payout ) for any given fiscal year for meeting certain performance objectives laid out by the Company, and that the Executive will have the ability to earn up to one hundred fifty percent (150%) of the Target Payout if such performance objectives are exceeded by the amount specified in any such year s MIP.  The Executive agrees that the Company, at its option, may specify that up to eighty percent (80%) of any year s Target Payout be tied to meeting companywide financial performance thresholds.  The Executive further agrees that the specifics of any given year s MIP plan will be governed by whatever is approved by the Company s Board of Directors for such fiscal year. 
+   
+   c)   Extraordinary Projects .  The Company agrees that in the event it requests the Executive s assistance on any extraordinary or overly time consuming projects, it will  
+ 3 
+
+compensate Executive at the rate of $300 per hour, subject to a $3,000/day cap, for any time spent on such projects in excess of 11  5  % of the target service levels outlined above   for any given month  , or such other amount as may be mutually agreed upon by Executive and Company.    
+   
+ d)   Expenses .    In addition to any compensation payable hereunder, the Company shall also reimburse Executive for all expenses reasonably incurred by Executive in connection with the services performed on behalf of NeoGenomics under this Agreement including, but not limited to, airfare, hotel, food, and a standard mileage allowance pursuant to IRS guidelines for travel on Company business using a personally owned vehicle (collectively  Business Expenses ), upon providing the original receipts and an expense report for such expenses in accordance with the Company s expense reimbursement policy then in effect.  Company also agrees to reimburse Executive $250/month on a non-accountable basis for cell phone and Internet fees.  Executive agrees to seek prior written authorization before incurring aggregate Business Expenses in excess of $5,000 in any given calendar month.  
+   
+ 6.   Board Membership; Board Compensation .  As partial consideration for entering into this Agreement, the Company agrees that during the Term of this Agreement, it will nominate Executive to serve on the Company s Board of Directors at each meeting of shareholders for the purpose of electing directors, and the Company also agrees that, beginning April 1, 2017,  the Executive will be entitled to receive compensation as an outside director for serving on the Company s Board of Directors in amounts consistent with the Board compensation practices in effect at any given time.  The Company also agrees that it will nominate Executive to serve on the Compliance Committee and at least one other Committee of the Board of Directors for which Executive is eligible or appoint Executive as a non-member observer on at least one other committee of the Board of Directors.  
+   
+ 7.   Termination .     During the Initial Term,  the Company shall have the right to terminate this Agreement at any time by giving written notice to the Executive twelve (12) months prior to the effective date of termination ( Termination  or  Termination Date ).  For any Renewal Term, the Company shall have the right to terminate this Agreement at any time by giving written notice to the Executive three (3) months prior to the effective Termination Date.  The Executive shall have the right to terminate this Agreement at any time by giving written notice to the Company three (3) months prior to the proposed Termination Date, provided, however, the Executive agrees that if such termination is during the Initial Term hereof, he will agree to an additional three (3) months of transition services to the Company upon reasonable request by the Company.   The obligation of the Company to pay for consulting services hereunder shall continue during the time from either party s written notification of a Termination until the actual Termination Date.  All unpaid compensation owed to Executive hereunder as of any Termination Date, including reimbursement of business and  business-related travel expenses, shall be paid to Executive within fifteen (15) days of such Termination Date.  The Company further agrees that it will prorate any MIP payments that may be due to the Executive for a partial year in which a Termination occurs based on the number of days served up to the Termination Date in such year.      
+   
+   Upon Termination, Executive agrees to cease all representation on behalf of the Company, including, but not limited to representations to the Company s investors, partners, vendors, clients or employees that Executive is acting on behalf of the Company in any capacity;  
+ 4 
+
+provided, however the   Executive   agrees to answer any reasonable follow-up inquiries from the Company regarding any pending matters at the Termination Date.    
+   
+ 8.   Miscellaneous . 
+
+a)   
+ 
+ This Agreement supersedes all prior agreements and understandings between the parties and may not be modified or terminated orally.  The Executive hereby waives any claims that it might have under any previous oral or other contract.  No modification or attempted waiver of this Agreement will be valid unless in writing and signed by the party against whom the same is sought to be enforced.    
+
+b)   
+ 
+ The provisions of this Agreement are separate and severable, and if any of them is declared invalid and/or unenforceable by a court of competent jurisdiction or an arbitrator, the remaining provisions shall not be affected.    
+
+c)   
+ 
+ This Agreement is the joint product of the Company and the Executive and each provision hereof has been subject to the mutual consultation, negotiation and agreement of the Company and the Executive and shall not be construed for or against either party hereto.    
+
+d  )   
+ 
+ This Agreement will be governed by, and construed in accordance with the provisions of the law of the State of Florida, without reference to provisions that refer a matter to the law of any other jurisdiction.  Each party hereto hereby irrevocably submits itself to the exclusive personal jurisdiction of the federal and state courts sitting in Lee County, Florida; accordingly, any matters involving the Company and the Executive with respect to this Agreement may be adjudicated only in a federal or state court sitting in Lee County, Florida.      
+
+e  )   
+ 
+ All notices and other communications required or permitted under this Agreement shall be in writing, and shall be deemed properly given if delivered personally, mailed by registered or certified mail in the United States mail, postage prepaid, return receipt requested, sent by facsimile, or sent by Express Mail, Federal Express or nationally recognized express delivery service, as follows:    
+
+ (i) If to the Company, at the address listed at the preamble to this Agreement or its then primary executive offices to the attention of the  CEO;  (ii) If to the Consultant, at the address listed as the Consultant s primary legal residence which is listed at the signature block of this agreement  or such other address as the Company may have on file for the Consultant.   
+ Notice given by hand, certified or registered mail, or by Express Mail, Federal Express or other such express delivery service, shall be effective upon actual receipt.  Notice given by facsimile transmission shall be effective upon telephonic confirmation of receipt by the party to whom it is addressed.  All notices by facsimile transmission shall be followed up promptly after transmission by delivering an original copy by hand, certified or registered mail, or by Express Mail, Federal Express or other such delivery service.  Any party may change any address to which notice is to be given to it by giving notice as provided above of such change of address. 
+ 5 
+
+f  )   
+ 
+          Executive   understands and acknowledges that if this Agreement is deemed to be a material agreement of the Company, it may need to be filed with the Securities and Exchange Commission or provided to a regulatory body in conjunction with any audits or investigations of the Company s activities and expressly gives permission to provide this Agreement as needed in such instances.     
+
+g  )   
+ 
+ The parties agree that the Executive is acting as an independent contractor under current Internal Revenue Service guidelines in the provision of services under this Agreement and that the Executive shall be solely responsible for paying all taxes due on any Compensation hereunder.  The Executive understands and acknowledges that all Compensation hereunder is taxable to the Executive and the Company may have an affirmative obligation to report such amounts of Compensation on Form 1099 to the Internal Revenue Service each year.  Notwithstanding the forgoing, the Company agrees that the Executive may assign any compensation payable hereunder to any corporation controlled by the Executive upon written notice to the Company.  The Executive agrees to provide his social security or an appropriate tax identification number upon request.      
+
+h)   
+ 
+ Executive acknowledges and agrees that the Confidentiality, Title to Work Product, Non-Competition, and Non-Solicitation Agreement, dated May 3, 2010, between the parties shall continue to be in full force and effect during the Term of this Agreement and for a period of two years after any termination of this Agreement.      
+
+i)   
+ 
+ The Company agrees to enter into a mutually satisfactory form of Indemnity Agreement with Executive within sixty (60) days of the Effective Date of this Agreement.    
+
+j  )   
+ 
+ This Agreement may be signed in counterparts, and by fax or Adobe PDF, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument.    
+
+ IN WITNESS WHEREOF, the parties have executed this Agreement on the day and year first set forth above. 
+
+NEOGENOMICS, INC.:  
+
+EXECUTIVE:  
+
+By:  
+ 
+ /s/ Douglas M. VanOort  
+
+/s/Steven C. Jones  
+
+Name:  
+ 
+ Douglas VanOort  
+
+Mr. Steven C. Jones  
+
+Title:  
+ 
+ Chairman and CEO  
+
+Legal Residence:  
+
+1740 Persimmon Drive   
+
+Naples, FL 34109   
+
+6 
+
+</EX-10.51>
+
+<EX-10.52>
+ 3
+ neo-ex1052_264.htm
+ EX-10.52
+
+neo-ex1052_264.htm
+
+EXHIBIT 10.52 
+ NEOGENOMICS, INC. 
+   
+  INDEMNIFICATION AGREEMENT  
+   
+ This Indemnification Agreement (this   Agreement  ) is made and entered into as of the _____ day of ______________________, 20__ by and between NeoGenomics, Inc., a Nevada corporation (the   Corporation  ), and ___________________________ (  Indemnitee  ).   
+ WITNESSETH: 
+   
+ WHEREAS,  highly competent persons have become more reluctant to serve corporations as directors, officers or in other capacities unless they are provided with adequate indemnification against inordinate risks of claims and actions against them arising out of their service to and activities on behalf of the corporation;  
+ WHEREAS,  the uncertainties relating to indemnification have increased the difficulty of attracting and retaining such persons;  
+ WHEREAS,  the Board of Directors of the Corporation has determined that the increased difficulty in attracting and retaining such persons is detrimental to the best interests of the Corporation's stockholders and that the Corporation should act to assure such persons that there will be increased certainty of such protection in the future;  
+ WHEREAS,  it is reasonable, prudent and necessary for the Corporation contractually to obligate itself to indemnify, and to advance expenses on behalf of, such persons to the fullest extent permitted by applicable law so that they will serve or continue to serve the Corporation free from undue concern that they will not be so indemnified; and  
+ WHEREAS,  the Indemnitee does not regard the protection available under the Corporation's Articles of Incorporation, Bylaws and insurance as adequate in the present circumstances, and may not be willing to serve the Corporation without adequate protection, and the Corporation desires the Indemnitee to continue to serve the Corporation.  
+ NOW, THEREFORE,  in consideration of Indemnitee s agreement to provide services to the Corporation and/or certain of its affiliates as contemplated hereby, the mutual agreements contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto stipulate and agree as follows:  
+ ARTICLE I    Definitions  
+ Section 1.1.   As used herein, the following words and terms shall have the following respective meanings (whether singular or plural):  
+   Articles of Incorporation   means the Articles of Incorporation of the Corporation (as they may be amended or restated from time to time). 
+   Board of Directors   means the board of directors of the Corporation. 
+
+Bylaws    means the bylaws of the Corporation (as they may be amended or restated from time to time).    
+   Change of Control   means: 
+ (i)   The acquisition by any individual, entity or group (within the meaning of Section 13(d)(5) of the Securities Exchange Act of 1934, as amended (the    Exchange Act   )) (a    Person   ) of beneficial ownership (within the meaning of Rule 13d-3 promulgated under the Exchange Act) of forty percent (40%) or more of either (1) the then outstanding shares of common stock of the Corporation (the    Outstanding Corporation Common Stock   ) or (2) the combined voting power of the then outstanding voting securities of the Corporation entitled to vote generally in the election of directors (the    Outstanding Corporation Voting Securities      provided, however  , that for purposes of this subsection (i), the following acquisitions shall not constitute a Change of Control:  (A) any acquisition directly from the Corporation, (B) any acquisition by the Corporation, (C) any acquisition by any employee benefit plan (or related trust) sponsored or maintained by the Corporation or any entity controlled by the Corporation or (D) any acquisition by any entity pursuant to a transaction which complies with clauses (1) and (2) of subsection (iii) of this definition;   
+ (ii)   Individuals who, as of the date hereof, constitute the Board of Directors (the    Incumbent Board   ) cease for any reason to constitute at least a majority of the Board of Directors;   provided, however  , that any individual becoming a director subsequent to the date hereof whose election, or nomination for election by the Corporation s stockholders, was approved by a vote of at least a majority of the directors then comprising the Incumbent Board shall be considered as though such individual were a member of the Incumbent Board, but excluding, for this purpose, any such individual whose initial assumption of office occurs as a result of an actual or threatened election contest with respect to the election or removal of directors or other actual or threatened solicitation of proxies or consents by or on behalf of a Person other than the Board of Directors; or  
+   (iii)   Consummation of a reorganization, merger or consolidation or sale or other disposition of all or substantially all of the assets of the Corporation (a    Business Combination   ), in each case, unless, following such Business Combination, (1) all or substantially all of the individuals and entities who were the beneficial owners, respectively, of the Outstanding Corporation Common Stock and Outstanding Corporation Voting Securities immediately prior to such Business Combination beneficially own, directly or indirectly, more than forty percent (40%) of, respectively, the then outstanding shares of common stock and the combined voting power of the then outstanding voting securities entitled to vote generally in the election of directors, as the case may be, of the entity resulting from such Business Combination (including, without limitation, an entity that as a result of such transaction owns the Corporation or all or substantially all of the Corporation s assets either directly or through one or more subsidiaries) in substantially the same proportions as their ownership, immediately prior to such Business Combination, of the Outstanding Corporation Common Stock and Outstanding Corporation Voting Securities, as the case may be, and (2) at least a majority   
+ 2 
+
+of the members of the board of directors of the corporation, or the similar managing body of a non-corporate entity, resulting from such Business Combination were members of the Incumbent Board at the time of the execution of the initial agreement, or of the action of the Board of Directors, providing for such Business Combination.  
+    Covered Capacity   means, with respect to any person, that such person (or a person for whom he is serving as a legal representative) is or was a director, officer, employee or agent of the Corporation, or is or was serving at the request of the Corporation as director, manager, officer, trustee, general partner, member, fiduciary, employee or agent of (i) a subsidiary of the Corporation or (ii) any other enterprise. 
+   Expenses   include all direct and indirect costs, fees and expenses of any type or nature, including, without limitation, all attorneys  fees and costs, retainers, court costs, transcript costs, fees of experts, witness fees, travel expenses, fees of private investigators and professional advisors, duplicating costs, printing and binding costs, telephone charges, postage, delivery service fees, fax transmission charges, secretarial services and all other disbursements or expenses in connection with prosecuting, defending, preparing to prosecute or defend, investigating, being or preparing to be a witness in, settlement or appeal of or otherwise participating in a Proceeding, including reasonable compensation for time spent by Indemnitee for which he is not otherwise compensated by the Corporation or any third party.   Expenses  also include expenses incurred in connection with any appeal resulting from any Proceeding, including the premium for, security for, and other costs relating to, any cost bond, supersedeas bond or other appeal bond or its equivalent.   Expenses  do not include amounts paid in settlement by Indemnitee or the amount of judgments or fines against Indemnitee. 
+   Independent Counsel   means a law firm, or a member of a law firm, that is experienced in matters of corporation law and neither presently is, nor in the five years previous to his selection or appointment has been, retained to represent: (i) the Corporation or Indemnitee in any matter material to either such party or (ii) any other party to the Proceeding giving rise to a claim for indemnification hereunder.  The term  Independent Counsel  does not include any person who, under the applicable standards of professional conduct then prevailing, would have a conflict of interest in representing either the Corporation or Indemnitee in an action to determine Indemnitee s rights under this Agreement, the Bylaws of the Corporation or under any agreement between Indemnitee and the Corporation. 
+   NRS   means the Nevada Revised Statutes. 
+    Proceeding   includes a threatened, pending or completed action, suit, arbitration, alternate dispute resolution, investigation, inquiry, administrative hearing, appeal or any other actual, threatened or completed proceedings with or brought in the right of the Corporation or otherwise and whether civil, criminal, administrative or investigative in nature. 
+ ARTICLE II    Services by Indemnitee  
+   Section 2.1.   Indemnitee agrees to serve or continue to serve in his current capacity or capacities as a director, officer, employee, agent or fiduciary of the Corporation.  Indemnitee   
+ 3 
+
+may also serve, as the Corporation may reasonably request from time to time, as a director, officer, employee, agent or fiduciary of any other corporation, partnership, limited liability company, association, joint venture, trust, employee benefit plan or other enterprise in which the Corporation has an interest.  Indemnitee and the Corporation each acknowledge that they have entered into this Agreement as a means of inducing Indemnitee to serve the Corporation in such capacities.  Indemnitee may at any time and for any reason resign from such position or positions (subject to any other contractual obligation or any obligation imposed by operation of law).  The Corporation shall have no obligation under this Agreement to continue Indemnitee in any such position for any period of time and shall not be precluded by the provisions of this Agreement from removing Indemnitee from any such position at any time.  
+ ARTICLE III    Third Party Proceedings  
+ Section 3.1.   The Corporation shall indemnify Indemnitee if he was or is a party or is threatened to be made a party to any Proceeding, except an action by or in the right of the Corporation, by reason of the fact that he is or was serving or acting in a Covered Capacity, against Expenses, judgments, fines and amounts paid in settlement actually and reasonably incurred by Indemnitee in accordance with   Article VIII   in connection with the Proceeding if he:  (a) is not liable pursuant to NRS 78.138 or (b) acted in good faith and in a manner which Indemnitee reasonably believed to be in or not opposed to the best interests of the Corporation, and, with respect to any criminal action or Proceeding, had no reasonable cause to believe his or her conduct was unlawful.  The termination of any Proceeding by judgment, order, settlement, conviction or upon a plea of nolo contendere or its equivalent, does not, of itself, create a presumption that Indemnitee is liable pursuant to NRS 78.138 or did not act in good faith and in a manner which Indemnitee reasonably believed to be in or not opposed to the best interests of the Corporation or that, with respect to any criminal action or proceeding, he had reasonable cause to believe that his or her conduct was unlawful.  
+ ARTICLE IV    Derivative Actions  
+ Section 4.1.   The Corporation shall indemnify Indemnitee if he was or is a party or is threatened to be made a party to any threatened, pending or completed action or suit by or in the right of the Corporation to procure a judgment in its favor, by reason of the fact that Indemnitee is or was serving or acting in a Covered Capacity, against Expenses actually and reasonably incurred by Indemnitee in accordance with   Article VIII   and amounts paid in settlement thereof if Indemnitee:  (a) is not liable pursuant to NRS 78.138, or (b) acted in good faith and in a manner which he reasonably believed to be in or not opposed to the best interests of the Corporation.  Indemnification may not be made for any claim, issue or matter as to which Indemnitee has been adjudged by a court of competent jurisdiction, after exhaustion of all appeals therefrom, to be liable to the Corporation or for amounts paid in settlement to the Corporation, unless and only to the extent that the court in which the action or suit was brought or other court of competent jurisdiction determines upon application that in view of all the circumstances of the case, the person is fairly and reasonably entitled to indemnity for such Expenses as the court deems proper.  
+ 4 
+
+ARTICLE V     Party Who is Wholly or Partially Successful  
+ Section 5.1.   Notwithstanding any other provisions of this Agreement, to the extent that Indemnitee is a party to or a participant in and is successful on the merits or otherwise in any Proceeding or in defense of any claim, issue or matter in any Proceeding, in whole or in part, to which Indemnitee was or is a party or is otherwise involved by reason of the fact that he is or was serving or acting in a Covered Capacity, the Corporation shall indemnify and hold harmless Indemnitee against all Expenses actually and reasonably incurred by Indemnitee in accordance with   Article VIII   in connection with any Proceeding or defense.  If Indemnitee is not wholly successful in the Proceeding, the Corporation shall indemnify and hold harmless Indemnitee against all Expenses actually and reasonably incurred by him or on his behalf in connection with each claim, issue or matter on which Indemnitee was successful.  The termination of any claim, issue or matter in the Proceeding by dismissal, with or without prejudice, by reason of settlement, judgment, order or otherwise, shall be deemed to be a successful result as to such Proceeding, claim, issue or matter, so long as there has been no finding that Indemnitee (i) is liable pursuant to NRS 78.138 or (ii) did not act in good faith and in a manner which Indemnitee reasonably believed to be in or not opposed to the best interests of the Corporation, and, with respect to any criminal proceeding or action, had no reasonable cause to believe his or her conduct was unlawful.  
+ ARTICLE VI    Expenses as Witness  
+ Section 6.1.   To the extent Indemnitee is, by reason of his or her serving or acting in a Covered Capacity, a witness in any Proceeding to which Indemnitee is not a party, Indemnitee shall be indemnified and held harmless against all Expenses actually and reasonably incurred by him or on his behalf in accordance with   Article VIII   in connection with the Proceeding and his or her acting as a witness in it.  
+ ARTICLE VII    Exclusions  
+ Section 7.1.   Notwithstanding the foregoing, indemnification, unless ordered by a court pursuant to NRS 78.7502 or for the advancement of Expenses made pursuant to   Section 8.1  , shall not be made to or on behalf of the Indemnitee if he or she is adjudged by a court of competent jurisdiction, after exhaustion of all appeals therefrom, to be liable for intentional misconduct, fraud or a knowing violation of law.   
+ Section 7.2.   Notwithstanding any provision in this Agreement, the Corporation is not obligated under this Agreement to make any indemnification payments in connection with any claim made against Indemnitee:  
+ (a)   For which payment has actually been received by or on behalf of Indemnitee under any insurance policy or other indemnity provision, except with respect to any excess beyond the amount actually received under any insurance policy, contract, agreement or other indemnity provision or otherwise;  
+ 5 
+
+(b)    For an accounting of profits made from the purchase and sale, or sale and purchase, by Indemnitee of securities of the Corporation within the meaning of Section 16(b) of the Exchange Act; or  
+ (c)   Except as provided for in   Sections 8.1   of this Agreement, in connection with any Proceeding or any part of any Proceeding, initiated by Indemnitee, including those initiated against the Corporation or its officers, directors or employees, unless (i) the Board of Directors authorizes the Proceeding or part thereof before its initiation, (ii) the Proceeding was commenced following a Change of Control or (iii) the Corporation provides the indemnification in its sole discretion, pursuant to the powers vested in the Corporation under applicable law.  
+ ARTICLE VIII    Advancement of Expenses  
+ Section 8.1.   Notwithstanding any other provision of this Agreement and to the fullest permitted by applicable law, the Corporation shall advance the Expenses incurred by Indemnitee in connection with any Proceeding to which Indemnitee was or is a party or is otherwise involved by reason of the fact that he is or was serving or acting in a Covered Capacity, as soon as practicable but in any event not more than ten (10) days after receipt by the Corporation of a statement requesting the advances, whether the statement is submitted before or after final disposition of any Proceeding.  Unless otherwise required by law, the Corporation shall not require that Indemnitee provide any form of security for repayment of or charge any interest on any amounts advanced pursuant to this   Section 8.1  .  The advances shall be made without regard to Indemnitee s ability to repay the Expenses and without regard to any belief or determination as to Indemnitee s ultimate entitlement to be indemnified.  Advances shall include any and all reasonable Expenses incurred in pursuing a Proceeding to enforce the right of advancement, including Expenses incurred in preparing statements to the Corporation to support the advances claimed.  Indemnitee qualifies for advances, to the fullest extent permitted by applicable law, solely upon the execution and delivery to the Corporation of an undertaking providing that Indemnitee undertakes to repay the advance to the extent it is ultimately determined that Indemnitee is not entitled to be indemnified by the Corporation under the provisions of this Agreement, the Articles of Incorporation or an agreement between the Corporation and Indemnitee.  This section does not apply to any claim made by Indemnitee for any indemnification payment that is excluded pursuant to   Section 7.2   of this Agreement.  
+ ARTICLE IX    Notices  
+   Section 9.1.   Indemnitee agrees to notify the Corporation in writing promptly after being served with any summons, citation, subpoena, complaint, indictment, inquiry, information request or other document relating to any Proceeding or matter which may be subject to indemnification, hold harmless or exoneration rights or the advancement of expenses;   provided, however  , that the failure of Indemnitee to so notify the Corporation shall not relieve the Corporation of any obligation it may have to Indemnitee under this Agreement or otherwise.  Indemnitee may deliver to the Corporation a written application to indemnify and hold harmless Indemnitee in accordance with this Agreement.  The application may be delivered from time to   
+ 6 
+
+time and may be amended and supplemented and at such times as Indemnitee deems appropriate in his or her sole discretion.  After a written application for indemnification is delivered by Indemnitee, Indemnitee s entitlement to indemnification shall be determined pursuant to   Articles X  ,   XI   and   XII   of this Agreement.  
+ ARTICLE X    Procedures  
+ Section 10.1.   To the fullest extent permitted by law, the indemnification provided for in this Agreement shall be deemed mandatory.  To the extent that, under applicable law, any indemnification provided for in this Agreement is treated as discretionary, any indemnification determination, unless ordered by a court or advanced pursuant to   Section 8.1   of this Agreement, may be made by the Corporation only as authorized in the specific case upon a determination that the indemnification of Indemnitee is proper in the circumstances.  Such determination must be made:  
+ (i)   by the stockholders of the Corporation;  
+ (ii)   by the Board of Directors by a majority vote of a quorum consisting of directors who are not parties to the Proceeding;  
+ (iii)   if a majority vote of a quorum of directors not parties to the Proceeding so orders, by Independent Counsel in a written opinion; or  
+ (iv)   if a quorum consisting of directors who are not parties to the Proceeding cannot be obtained, by Independent Counsel in a written opinion.  
+ Notwithstanding the foregoing, if at any time during the two (2) year period prior to the date of any written application for indemnification submitted by Indemnitee in connection with a particular Proceeding there shall have occurred a Change of Control, the Board of Directors shall direct (unless Indemnitee otherwise agrees in writing) that the indemnification determination shall be made by Independent Counsel in a written opinion. 
+   Section 10.2.   If the determination of Indemnitee s entitlement to indemnification is to be made by Independent Counsel, the Independent Counsel must be selected as provided in this   Section 10.2  .  The Independent Counsel shall be selected by Indemnitee and Indemnitee must give written notice to the Corporation advising it of the Independent Counsel s identity so selected, unless Indemnitee requests in writing that the Independent Counsel be selected by the Board of Directors.  If the Independent Counsel is selected by the Board of Directors, the Corporation must given written notice to Indemnitee setting forth the identity of the Independent Counsel.  In either event, Indemnitee or the Corporation, as the case may be, may, within ten (10) days after the written notice of selection is received, deliver to the other party a written objection to the selection.  These objections may be asserted only on the grounds that the Independent Counsel selected does not meet the requirements of an  Independent Counsel  as defined in   Article I   of this Agreement, and the objection must set forth with particularity the factual basis of the assertion.  Absent a proper and timely objection, the person so selected shall act as Independent Counsel.  If within twenty (20) days after submission by Indemnitee of a request for indemnification, no Independent Counsel has been selected, either the Corporation or   
+ 7 
+
+Indemnitee may petition a court with jurisdiction over the parties for resolution of the objection and/or the appointment of a person to be Independent Counsel selected by the court.  
+ Section 10.3.   The Corporation agrees to pay the reasonable fees and Expenses of Independent Counsel in accordance with   Article VIII   and to fully indemnify and hold the Independent Counsel harmless against any and all Expenses, claims, liabilities and damages arising out of or relating to this Agreement or the Independent Counsel s engagement.  
+ Section 10.4.   The Corporation must promptly advise Indemnitee in writing if a determination is made that Indemnitee is not entitled to indemnification and must include a description of the reasons or basis for denial.  If it is determined Indemnitee is entitled to indemnification, the payment to Indemnitee must be made as soon as practicable but in no event more than ten (10) days after the determination.  Indemnitee must reasonably cooperate with the persons making the determination and, upon request, must provide such persons with documents and information (which are not privileged or otherwise protected) reasonably available to Indemnitee and reasonably necessary to the determination.  All Expenses incurred by Indemnitee in cooperating with the persons making the determination shall be paid by the Corporation (irrespective of the determination as to indemnification) and the Corporation hereby indemnifies and agrees to hold Indemnitee harmless from those Expenses.  
+ ARTICLE XI    Presumptions  
+ Section 11.1.   In determining whether Indemnitee is entitled to indemnification under this Agreement, the person or persons making the determination must presume that Indemnitee is entitled to indemnification under this Agreement and the Corporation has the burden of proof to overcome that presumption.  Moreover, if at any time during the two (2) year period prior to the date of any written application for indemnification submitted by Indemnitee in connection with a particular Proceeding or other matter there shall have occurred a Change of Control, the foregoing presumption may only be overcome by clear and convincing evidence.  Neither of the following is a defense to an action seeking a determination granting indemnity to Indemnitee or creates a presumption that Indemnitee has not met the applicable standard of conduct:  (i) the failure of the Corporation (including its directors or Independent Counsel) to have made a determination before the beginning of an action seeking a ruling that indemnification is proper nor (ii) an actual determination by the Corporation (including its directors or Independent Counsel) that Indemnitee has not met the applicable standard of conduct.  
+   Section 11.2.   If the persons or entity selected under   Article X   of this Agreement to determine whether Indemnitee is entitled to indemnification has not made a determination within thirty (30) days after receipt by the Corporation of the request for it, the requisite determination of entitlement to indemnification shall be deemed to have been made and Indemnitee is entitled to such indemnification, absent (i) a misstatement by Indemnitee of a material fact or an omission of material fact necessary to make his or her statements not materially misleading made in connection with the request for indemnification (which misstatement or omission is shown by the Corporation to be of sufficient importance that it would likely alter the applicable determination) or (ii) a final judicial determination that indemnification is expressly prohibited under applicable law.  The thirty (30) day period may be extended for a reasonable time, not to   
+ 8 
+
+exceed fifteen (15) additional days, if the persons or entity making the determination requires the additional time for obtaining or evaluating documents or information.  
+ Section 11.3.   The termination of any Proceeding or any claim therein, by judgment, order, settlement or conviction, or upon a plea of nolo contendere does not (except as expressly provided elsewhere in this Agreement) of itself adversely affect the right of Indemnitee to indemnification or create a presumption that Indemnitee did not meet any particular standard of conduct, did not act in good faith and in a manner which Indemnitee reasonably believed to be in or not opposed to the best interests of the Corporation or, with respect to any criminal Proceeding, that Indemnitee had reasonable cause to believe his or her conduct was unlawful.  
+ Section 11.4.   In determining good faith, Indemnitee must be deemed to have acted in good faith and in a manner which he reasonably believed to be in or not opposed to the best interests of the Corporation if Indemnitee s action is based on the records or books of account of the Corporation, including financial statements, or on information, opinions, reports or statements supplied to Indemnitee by the directors or officers of the Corporation or other enterprise in the course of their duties, or on the advice of legal counsel for the Corporation or the enterprise or on information or records given or reports made by an independent certified public accountant or by an appraiser or other expert.  
+ Section 11.5.   The knowledge and actions or failures to act of any other director, officer, trustee, partner, member, fiduciary, agent or employee of the Corporation or other enterprise shall not be imputed to Indemnitee for the purposes of determining his or her right to indemnification.  
+ ARTICLE XII    Remedies of Indemnitee  
+ Section 12.1.   If a determination is made that Indemnitee is not entitled to indemnification under this Agreement, any judicial Proceeding or arbitration begun pursuant to this Agreement must be conducted in all respects as a de novo trial or arbitration, on the merits, and Indemnitee shall not be prejudiced by reason of the adverse determination.  In such a Proceeding or arbitration, Indemnitee is presumed to be entitled to indemnification and the Corporation has the burden of proving Indemnitee is not entitled to be indemnified.  Moreover, if at any time during the two (2) year period prior to the date of any written application for indemnification submitted by Indemnitee in connection with a particular Proceeding or other matter there shall have occurred a Change of Control, the Corporation will be deemed to have satisfied such burden only if it meets the standard of proof by clear and convincing evidence.  The Corporation may not refer to or introduce into evidence any determination made pursuant to   Section 11.1   of this Agreement adverse to Indemnitee for any purpose.  If Indemnitee begins a judicial Proceeding or arbitration seeking indemnification, Indemnitee is not required to reimburse the Corporation for any advances pursuant to   Section 8.1   of this Agreement until a final determination is made with respect to Indemnitee s right to indemnification, after all rights of appeal have been exhausted or lapsed.  
+   Section 12.2.   If it has been determined that Indemnitee is entitled to indemnification, the Corporation is bound by that determination in any judicial Proceeding or arbitration commenced   
+ 9 
+
+by Indemnitee seeking to compel the indemnification, absent (i) a misstatement by Indemnitee of a material fact or an omission of a material fact necessary to make Indemnitee s statement not materially misleading connected with the request for indemnification (which misstatement or omission is shown by the Corporation to be of sufficient importance that it would likely alter the applicable determination) or (ii) a prohibition of the indemnification under applicable law.  In any Proceeding or arbitration commenced by Indemnitee seeking indemnification, the Corporation is precluded from asserting that the procedures and presumptions of this Agreement are not valid, binding and enforceable and must stipulate that the Corporation is bound by all the provisions of this Agreement.  
+ ARTICLE XIII    Contribution; Joint Liability  
+ Section 13.1.   To the fullest extent permissible under applicable law, if the indemnification rights provided for in this Agreement are unavailable to Indemnitee in whole or in part for any reason whatsoever (other than by reason of the language of any express exclusion contained in this Agreement), the Corporation, instead of indemnifying and holding harmless Indemnitee, must contribute to the payment thereof, in the first instance, by paying the entire amount incurred by Indemnitee, whether for judgments, liabilities, fines, penalties, amounts paid or to be paid in settlement and/or for Expenses, in connection with any Proceeding without requiring Indemnitee to contribute to the payment, and the Corporation hereby waives and relinquishes any right of contribution it may have at any time against Indemnitee.  The Corporation shall not enter into any settlement of any Proceeding in which the Corporation is jointly liable with Indemnitee, or would be joined in the Proceeding, unless the settlement provides for a full and final release of all claims asserted against Indemnitee.  The Corporation hereby agrees to fully indemnify and hold harmless Indemnitee from any claims for contribution which may be brought by officers, directors or employees of the Corporation other than Indemnitee who may be jointly liable with Indemnitee.  
+ ARTICLE XIV    Subrogation  
+ Section 14.1.   If any payment is made under this Agreement, the Corporation is subrogated to the extent of such payment to all the rights of recovery of Indemnitee, who must within a reasonable period of time after payment execute all papers required and take all action necessary to secure those rights, including the execution of such documents as are necessary to enable the Corporation to bring suit to enforce those rights.  
+ ARTICLE XV    Severability  
+   Section 15.1.   If any provision or provisions of this Agreement shall be held to be invalid, illegal or unenforceable for any reason whatsoever: (a) the validity, legality and enforceability of the remaining provisions of this Agreement (including, but not limited to, each portion of any paragraph containing any such provision held to be invalid, illegal or unenforceable, that is not itself held to be invalid, illegal or unenforceable) shall not in any way be affected or impaired thereby; and (b) to the fullest extent possible, the provisions of this   
+ 10 
+
+Agreement (including, but not limited to, each such portion of any paragraph containing any such provision held to be invalid, illegal or unenforceable) shall be construed so as to give effect to the intent manifested by the provision held invalid, illegal or unenforceable.  
+ ARTICLE XVI    Miscellaneous  
+ Section 16.1.   Non-Exclusivity of Rights  .  The rights of Indemnitee under this Agreement are not exclusive of any other rights to which Indemnitee may at any time be entitled under the law, the Articles of Incorporation, the Bylaws or any agreement.  The indemnification and advancement of Expenses for Indemnitee who has ceased to be a director, officer, employee or agent shall continue in full force and effect and shall inure to the benefit of the heirs, executors and administrators of Indemnitee.  The rights of Indemnitee under this Agreement shall be contract rights.  No amendment, alteration or repeal of this Agreement can limit or restrict any right of Indemnitee under this Agreement with respect to any action taken before the amendment, alteration or repeal.  If a change in applicable law permits greater indemnification than that which would be afforded under this Agreement, it is the intent of the Corporation that Indemnitee shall enjoy by this   Section 16.1   the greater benefits so afforded.  Except as provided in this   Section 16.1   with respect to changes in applicable law which broaden the right of Indemnitee to be indemnified by the Corporation, no supplement, modification or amendment of this Agreement shall be binding unless executed in writing by each of the parties hereto.  
+ Section 16.2.   Acknowledgment of Certain Matters  .  Both the Corporation and Indemnitee acknowledge that in certain instances, applicable law or public policy may prohibit indemnification of Indemnitee by the Corporation under this Agreement or otherwise.  Indemnitee understands and acknowledges that the Corporation has undertaken or may be required in the future to undertake, by the Securities and Exchange Commission, to submit the question of indemnification to a court in certain circumstances for a determination of the Corporation s right under public policy to indemnify Indemnitee.  
+ Section 16.3.   Waivers  .  The observance of any term of this Agreement may be waived (either generally or in a particular instance and either retroactively or prospectively) by the party entitled to enforce such term only by a writing signed by the party against which such waiver is to be asserted.  Unless otherwise expressly provided herein, no delay on the part of any party hereto in exercising any right, power or privilege hereunder shall operate as a waiver thereof, nor shall any waiver on the part of any party hereto of any right, power or privilege hereunder operate as a waiver of any other right, power or privilege hereunder nor shall any single or partial exercise of any right, power or privilege hereunder preclude any other or further exercise thereof or the exercise of any other right, power or privilege hereunder.  
+ Section 16.4.   Enforcemen  t.  The Corporation expressly confirms and agrees that it has entered into this Agreement in order to induce the Indemnitee to continue to serve as an officer or director of the Corporation, and acknowledges that the Indemnitee is relying upon this Agreement in continuing in such capacity.  
+   Section 16.5.   Entire Agreement  .  This Agreement and the documents referred to herein constitute the entire agreement between the parties hereto with respect to the matters covered   
+ 11 
+
+hereby, and any other prior or contemporaneous oral or written understandings or agreements with respect to the matters covered hereby are superseded by this Agreement.  
+ Section 16.6.   Certain Rights  .  The right to be indemnified or to the advancement or reimbursement of Expenses (i) is intended to be retroactive and shall be available as to events occurring prior to the date of this Agreement and (ii) shall continue after any rescission or restrictive modification of such provisions as to events occurring prior thereto.  Nothing in this Agreement, expressed or implied, is intended to confer any rights or remedies under or by reason of this Agreement on any person other than the parties to this Agreement and their respective heirs, personal representatives, successors and assigns.  
+ Section 16.7.   Governing Law; Venue  .  This Agreement shall be construed in accordance with and governed by the laws of the State of Nevada without regard to any principles of conflict of laws that, if applied, might permit or require the application of the laws of a different jurisdiction.  The parties hereby agree that any dispute that may arise between them arising out of or in connection with this Agreement shall be adjudicated before a court located in Lee County, Florida  and they hereby submit to the exclusive jurisdiction of the courts of the State of Florida located in Fort Myers, Florida, and of the federal courts having jurisdiction in such district with respect to any action or legal proceeding commenced by either party, and irrevocably waive any objection they now or hereafter may have respecting the venue of any such action or proceeding brought in such a court or respecting the fact that such court is an inconvenient forum, relating to or arising out of this Agreement.  
+ Section 16.8.   Headings  .  The Article and Section headings in and referred to in this Agreement are for convenience of reference only, and shall not be deemed to alter or affect the meaning or interpretation of any provisions hereof.  
+ Section 16.9.   Counterparts  .  This Agreement may be executed in counterparts, each of which shall be deemed to be an original and all of which together shall be deemed to be one and the same instrument.  
+ Section 16.10.   Use of Certain Terms  .  As used in this Agreement, the words  herein,   hereof,  and  hereunder  and other words of similar import refer to this Agreement as a whole and not to any particular paragraph, subparagraph, section, subsection, or other subdivision.  Whenever the context may require, any pronoun used in this Agreement shall include the corresponding masculine, feminine or neuter forms, and the singular form of nouns, pronouns and verbs shall include the plural and vice versa.  
+ [signatures appear on following page] 
+   
+ 12 
+
+IN WITNESS WHEREOF, this Agreement has been duly executed and delivered to be effective as of the date first above written.  
+
+NEOGENOMICS, INC.  
+
+By:  
+
+Name:  
+
+Title:  
+
+INDEMNITEE  
+
+Name:  
+
+13  
+
+</EX-10.52>
+
+<EX-31.1>
+ 4
+ neo-ex311_8.htm
+ EX-31.1
+
+neo-ex311_8.htm
+
+EXHIBIT 31.1 
+ CERTIFICATIONS 
+ I, Douglas M. VanOort, certify that: 
+ 1. I have reviewed this Quarterly Report on Form 10-Q for the nine months ended September 30, 2016 of NeoGenomics, Inc.; 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)), and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+November 4, 2016  
+
+/s/ Douglas M. VanOort  
+
+Douglas M. VanOort  
+
+Chairman and Chief Executive  
+
+Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ neo-ex312_6.htm
+ EX-31.2
+
+neo-ex312_6.htm
+
+EXHIBIT 31.2 
+ CERTIFICATIONS 
+ I, George Cardoza, certify that: 
+ 1. I have reviewed this Quarterly Report on Form 10-Q for the nine months ended September 30, 2016 of NeoGenomics, Inc.; 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)), and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+November 4, 2016  
+
+/s/ George Cardoza  
+
+George Cardoza  
+
+Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ neo-ex321_7.htm
+ EX-32.1
+
+neo-ex321_7.htm
+
+EXHIBIT 32.1 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of NeoGenomics, Inc. (the  Company ) on Form 10-Q for the nine months ended September 30, 2016 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), each of the undersigned, in the capacities and on the dates indicated below, hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to his knowledge: 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: November 4, 2016  
+
+/s/  Douglas M. VanOort   
+
+Douglas M. VanOort  
+
+Chairman and Chief Executive  
+
+Officer  
+
+Date: November 4, 2016  
+
+/s/  George Cardoza   
+
+George Cardoza  
+
+Chief Financial Officer  
+
+The foregoing certification is being furnished solely to accompany the Report pursuant to 18 U.S.C.   1350, and is not being filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and is not to be incorporated by reference into any filing of the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing. A signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement required by Section 906, has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 7
+ neo-20160930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ neo-20160930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ neo-20160930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ neo-20160930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ neo-20160930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ neo-20160930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+
