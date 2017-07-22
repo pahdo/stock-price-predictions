@@ -11,6 +11,8 @@
 `.import Stocks_Plus_Alphas.csv stocks`
 `.save stocks.db`
 4. Now, to load your database, you can type the following command in the terminal:
-`sqlite3 < stocks.db`
+`sqlite3`
+`.mode insert`
+`.open stocks.db`
 5. When your database is loaded in memory, you can verify that it's working correctly with the following query:
 `SELECT * FROM stocks WHERE symbol='AAPL' and theDate > strftime('2017-06-01');`
