@@ -1,3 +1,1 @@
-SELECT date, symbol, return, alpha
-FROM stocks
-WHERE date = '2016-05-22'
+SELECT * FROM stocks WHERE symbol='AAPL' and theDate > strftime('2017-06-01');
