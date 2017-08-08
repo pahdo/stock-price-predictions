@@ -34,13 +34,14 @@ def prepData():
         print("{} aggregated".format(os.path.join(dirname, output)))
         with smart_open.smart_open(os.path.join(dirname, output), "wb") as f:
             for idx, line in enumerate(temp.split('\n')):
-                num_line = u"_*{0} {1}\n".format(idx, line)
+                #num_line = u"_*{0} {1}\n".format(idx, line)
+                num_line = u"{0}\n".format(line)
                 f.write(num_line.encode("UTF-8"))
         alldata += temp
     with smart_open.smart_open(os.path.join(dirname, 'alldata-id.txt'), 'wb') as f:
         for idx, line in enumerate(alldata.split('\n')):
             #num_line = u"_*{0} {1}\n".format(idx, line)
-            num_line = line
+            num_line = u"{0}\n".format(line)
             f.write(num_line.encode("UTF-8")) 
     print("alldata-id.txt aggregated")
     return alldata
