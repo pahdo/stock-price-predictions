@@ -122,18 +122,16 @@ def error_rate_for_model(test_model, train_set, test_set):
     logistic.fit(train_regressors, train_targets)
     #train_targets, train_regressors = None, None # Uncommenting these breaks the code
 
-    test_regressors_sentiment = [(test_model.docvecs[doc.tags[0]], doc.sentiment) for doc in test_set]    
-    test_regressors = [doc[0] for doc in test_regressors_sentiment]
-    answers = [doc[1] for doc in test_regressors_sentiment]
-    answers, test_regressors = shuffle(answers, test_regressors)
-    print("Length of answers is {}".format(len(answers)))
+    test_targets, test_regressors = zip(*[(doc.sentiment, test_model.docvecs[doc.tags[0]]) for doc in test_set])    
+    test_targets, test_regressors = shuffle(test_targets, test_regressors)    
+    print("Length of answers is {}".format(len(test_targets)))
     
     # Predict & evaluate
-    test_predictions = logistic.predict(train_regressors)
+    test_predictions = logistic.predict(test_regressors)
     len_predictions = len(test_predictions)
     print("Length of test predictions is {}".format(len_predictions))
     #test_regressors = None # Uncommenting these breaks the code
-    corrects = sum(np.rint(test_predictions) == answers)
+    corrects = sum(np.rint(test_predictions) == test_targets)
     #test_predictions = None # Uncommenting these breaks the code
     errors = len_predictions - corrects
     error_rate = float(errors) / len_predictions
@@ -142,7 +140,7 @@ def error_rate_for_model(test_model, train_set, test_set):
 # Cell
 best_error = defaultdict(lambda: 1.0)  # To selectively print only best errors achieved
 
-alpha, min_alpha, passes = (0.025, 0.001, 5)
+alpha, min_alpha, passes = (0.025, 0.001, 20)
 alpha_delta = (alpha - min_alpha) / passes
 
 print("START %s" % datetime.datetime.now())
