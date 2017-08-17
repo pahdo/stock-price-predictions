@@ -126,12 +126,12 @@ def error_rate_for_model(test_model, train_set, test_set):
     test_regressors = [doc[0] for doc in test_regressors_sentiment]
     answers = [doc[1] for doc in test_regressors_sentiment]
     answers, test_regressors = shuffle(answers, test_regressors)
-    print(answers)
+    print("Length of answers is {}".format(len(answers)))
     
     # Predict & evaluate
     test_predictions = logistic.predict(train_regressors)
-    print(test_predictions)
     len_predictions = len(test_predictions)
+    print("Length of test predictions is {}".format(len_predictions))
     #test_regressors = None # Uncommenting these breaks the code
     corrects = sum(np.rint(test_predictions) == answers)
     #test_predictions = None # Uncommenting these breaks the code
@@ -172,9 +172,6 @@ for epoch in range(passes):
             best_error[name] = err
             best_indicator = '*'
         print("%s%f : %i passes : %s %ss %ss" % (best_indicator, err, epoch + 1, name, duration, eval_duration))
-
-        #if (epoch == passes-1):
-        #    train_model.save()
             
     print('Completed pass %i at alpha %f' % (epoch + 1, alpha))
     alpha -= alpha_delta
