@@ -1,0 +1,18 @@
+Using TensorFlow backend.
+Num lines alldata 295034
+8 cores
+Building a vocabulary...
+Vocabulary built for the first time in 2082.4241700172424
+Doc2Vec(dm/c,d100,n5,w5,mc2,s0.001,t8)
+Doc2Vec(dm/c,d100,n5,w5,mc2,s0.001,t8)
+Doc2Vec(dbow,d100,n5,mc2,s0.001,t8)
+Doc2Vec(dm/m,d100,n5,w10,mc2,s0.001,t8)
+dbow+dmm
+dbow+dmc
+START 2017-08-15 21:21:14.002334
+Traceback (most recent call last):
+  File "doc2vec.py", line 166, in <module>
+    err, err_count, test_count, predictor = error_rate_for_model(train_model, train_docs, test_docs)
+  File "doc2vec.py", line 134, in error_rate_for_model
+    corrects = sum(np.rint(test_predictions) == answers)
+TypeError: 'bool' object is not iterable
