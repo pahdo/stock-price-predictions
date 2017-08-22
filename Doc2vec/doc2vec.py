@@ -37,8 +37,8 @@ def file_len(fname):
     return i + 1
 
 num_lines_alldata =  file_len(os.path.join(dirname, 'alldata-id.txt'))
-num_lines_train =  file_len(os.path.join(dirname, 'alldata-id.txt'))
-num_lines_test =  file_len(os.path.join(dirname, 'alldata-id.txt'))
+#num_lines_train =  file_len(os.path.join(dirname, 'train-all.txt'))
+#num_lines_test =  file_len(os.path.join(dirname, 'test-all.txt'))
 print("Num lines alldata {}".format(num_lines_alldata))
 
 def read_corpus(fname):
@@ -124,12 +124,12 @@ def error_rate_for_model(test_model, train_set, test_set):
 
     test_targets, test_regressors = zip(*[(doc.sentiment, test_model.docvecs[doc.tags[0]]) for doc in test_set])    
     test_targets, test_regressors = shuffle(test_targets, test_regressors)    
-    print("Length of answers is {}".format(len(test_targets)))
+    #print("Length of answers is {}".format(len(test_targets)))
     
     # Predict & evaluate
     test_predictions = logistic.predict(test_regressors)
     len_predictions = len(test_predictions)
-    print("Length of test predictions is {}".format(len_predictions))
+    #print("Length of test predictions is {}".format(len_predictions))
     #test_regressors = None # Uncommenting these breaks the code
     corrects = sum(np.rint(test_predictions) == test_targets)
     #test_predictions = None # Uncommenting these breaks the code

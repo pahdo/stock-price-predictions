@@ -28,4 +28,9 @@
   - `.open stocks.db`
   - `SELECT * FROM stocks WHERE symbol='AAPL' and theDate > strftime('2017-06-01');`
   - Press Ctrl+C twice to exit SQLite
-- Run Doc2vec/Alpha-by-NLP_Group_Docs_by_Sentiment to organize documents for training
+
+## Doc2Vec Model
+- Run Doc2vec/group_docs_by_sentiment.py to organize documents for training
+- Run Doc2vec/prep_data.py to clean and aggregate docs into files
+- Run Doc2vec/doc2vec.py to train and save 3 Doc2Vec models
+- Run Doc2vec/load_model.py to evaluate trained document vectors
