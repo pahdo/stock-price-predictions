@@ -1,0 +1,26 @@
+{'C': 100000, 'cache_size': 2000, 'kernel': 'rbf'}
+
+Grid scores on development set:
+
+0.453 (+/-0.079) for {'C': 0.0001, 'cache_size': 2000, 'kernel': 'linear'}
+0.453 (+/-0.079) for {'C': 0.001, 'cache_size': 2000, 'kernel': 'linear'}
+0.453 (+/-0.079) for {'C': 0.01, 'cache_size': 2000, 'kernel': 'linear'}
+0.453 (+/-0.079) for {'C': 0.1, 'cache_size': 2000, 'kernel': 'linear'}
+0.438 (+/-0.100) for {'C': 1, 'cache_size': 2000, 'kernel': 'linear'}
+0.455 (+/-0.026) for {'C': 10, 'cache_size': 2000, 'kernel': 'linear'}
+0.460 (+/-0.075) for {'C': 100, 'cache_size': 2000, 'kernel': 'linear'}
+0.460 (+/-0.056) for {'C': 1000, 'cache_size': 2000, 'kernel': 'linear'}
+0.475 (+/-0.079) for {'C': 10000, 'cache_size': 2000, 'kernel': 'linear'}
+0.483 (+/-0.070) for {'C': 100000, 'cache_size': 2000, 'kernel': 'linear'}
+0.470 (+/-0.072) for {'C': 1000000, 'cache_size': 2000, 'kernel': 'linear'}
+0.450 (+/-0.070) for {'C': 0.0001, 'cache_size': 2000, 'kernel': 'rbf'}
+0.450 (+/-0.070) for {'C': 0.001, 'cache_size': 2000, 'kernel': 'rbf'}
+0.450 (+/-0.070) for {'C': 0.01, 'cache_size': 2000, 'kernel': 'rbf'}
+0.450 (+/-0.070) for {'C': 0.1, 'cache_size': 2000, 'kernel': 'rbf'}
+0.450 (+/-0.070) for {'C': 1, 'cache_size': 2000, 'kernel': 'rbf'}
+0.450 (+/-0.059) for {'C': 10, 'cache_size': 2000, 'kernel': 'rbf'}
+0.430 (+/-0.113) for {'C': 100, 'cache_size': 2000, 'kernel': 'rbf'}
+0.470 (+/-0.081) for {'C': 1000, 'cache_size': 2000, 'kernel': 'rbf'}
+0.582 (+/-0.109) for {'C': 10000, 'cache_size': 2000, 'kernel': 'rbf'}
+0.614 (+/-0.068) for {'C': 100000, 'cache_size': 2000, 'kernel': 'rbf'}
+0.609 (+/-0.126) for {'C': 1000000, 'cache_size': 2000, 'kernel': 'rbf'}
