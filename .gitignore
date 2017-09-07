@@ -3,3 +3,7 @@ data
 data_small
 Database/Stocks_Plus_Alphas.csv
 Database/stocks.db
+Doc2Vec/data
+Doc2Vec/data_small
+Doc2Vec/data_by_returns
+Doc2Vec/data_by_returns_small

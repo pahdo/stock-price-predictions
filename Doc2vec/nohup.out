@@ -1,6 +1,0 @@
-Using TensorFlow backend.
-Doc2Vec(dm/c,d100,n5,w5,mc2,s0.001,t8)
-Traceback (most recent call last):
-  File "parameter_search_svc.py", line 97, in <module>
-    print("# Tuning hyper-parameters for %s" % score)
-NameError: name 'score' is not defined

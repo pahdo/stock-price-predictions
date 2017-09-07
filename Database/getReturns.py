@@ -1,5 +1,6 @@
 #import sqlite3
 #import time
+import numpy as np
 
 def getRets(conn, symbol, date, horizon=1):
     # conn = sqlite3.connect('../Database/stocks.db')
@@ -19,3 +20,10 @@ def getRets(conn, symbol, date, horizon=1):
     #end = time.clock()
     #print("Query execution processor time: {0}".format(end-start))
     return results
+
+def getTotalRet(conn, symbol, date, horizon=1, subtract=False):
+    rets = getRets(conn, symbol, date, horizon)
+    the_rets = []
+    for ret in rets:
+        the_rets.append(ret[2])
+    return np.product([1 + float(the_ret) for the_ret in the_rets])-1

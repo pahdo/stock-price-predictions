@@ -29,14 +29,12 @@ from sklearn import ensemble
 from sklearn import svm
 from sklearn.utils import resample
 
-dirname = 'data'
+dirname = 'data_small'
 
 models = [Doc2Vec.load('saved_doc2vec_models/Doc2Vec(dmc,d100,n5,w5,mc2,s0.001,t8)')]
 
 for model in models:
     print(model)
-
-classifiers = [linear_model.LogisticRegression(C=1e5), ensemble.RandomForestClassifier(), svm.SVC()]
 
 inferreds = [True, False]
 
@@ -79,8 +77,8 @@ from sklearn import svm
 from sklearn.svm import SVC
 
 param_grid = [
-  {'cache_size': [2000], 'C': [0.0001, 0.001, 0.01, 0.1, 1, 10, 100, 1000], 'kernel': ['linear']},
-  {'cache_size': [2000], 'C': [0.0001, 0.001, 0.01, 0.1, 1, 10, 100, 1000], 'gamma': [0.1, 0.01, 0.001, 0.0001, 0.00001, 0.000001], 'kernel': ['rbf']},
+  {'cache_size': [2000], 'C': [0.0001, 0.001, 0.01, 0.1, 1, 10, 100, 1000, 10000, 100000, 1000000], 'kernel': ['linear']},
+  {'cache_size': [2000], 'C': [0.0001, 0.001, 0.01, 0.1, 1, 10, 100, 1000, 10000, 100000, 1000000], 'kernel': ['rbf']},
  ]
 
 # class sklearn.model_selection.GridSearchCV(estimator, param_grid, scoring=None, fit_params=None, n_jobs=1, iid=True, refit=True, cv=None, verbose=0, pre_dispatch=‘2*n_jobs’, error_score=’raise’, return_train_score=True)[source]
@@ -94,8 +92,6 @@ test_set = read_labeled_corpus(os.path.join(dirname, 'test-pos.txt'), os.path.jo
 test_targets, test_regressors = zip(*[(doc.sentiment, test_model.docvecs[doc.tags[0]]) for doc in test_set])    
 test_targets, test_regressors = shuffle(test_targets, test_regressors)  
 
-print()
-
 clf = GridSearchCV(SVC(), param_grid, cv=5)
 clf.fit(train_regressors, train_targets)
 
@@ -108,15 +104,4 @@ print()
 means = clf.cv_results_['mean_test_score']
 stds = clf.cv_results_['std_test_score']
 for mean, std, params in zip(means, stds, clf.cv_results_['params']):
-    print("%0.3f (+/-%0.03f) for %r"
-          % (mean, std * 2, params))
-    print()
-
-    print("Detailed classification report:")
-    print()
-    print("The model is trained on the full development set.")
-    print("The scores are computed on the full evaluation set.")
-    print()
-    y_true, y_pred = test_targets, clf.predict(test_regressors)
-    print(classification_report(y_true, y_pred))
-    print()
+    print("%0.3f (+/-%0.03f) for %r" % (mean, std * 2, params))
