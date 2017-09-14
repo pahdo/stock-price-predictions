@@ -6,7 +6,7 @@ import time
 import glob
 
 nlp = spacy.load('en')
-dirname = 'data_small'
+dirname = 'data_by_returns_small'
 
 print("Process started...")
 start = time.time()
