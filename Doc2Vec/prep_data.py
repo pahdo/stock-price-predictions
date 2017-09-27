@@ -18,7 +18,7 @@ def processOne(txt):
         removed_stop_words = list(map(lambda x: x.lower_, filter(lambda token: token.is_alpha and not token.is_stop and not token.is_oov, doc)))[500:]
         return " ".join(removed_stop_words)
 def prepData():
-    folders = ['train/pos', 'train/neg', 'test/pos', 'test/neg'] 
+    folders = ['train/pos', 'train/neg', 'test/pos', 'test/neg', 'valid/pos', 'valid/neg'] 
     print("Preparing dataset...")
     pool = Pool()
     num_processed = 0
@@ -68,6 +68,8 @@ aggregate_data('aggregated-train-pos*.txt', 'train-pos.txt')
 aggregate_data('aggregated-train-neg*.txt', 'train-neg.txt')
 aggregate_data('aggregated-test-pos*.txt', 'test-pos.txt')
 aggregate_data('aggregated-test-neg*.txt', 'test-neg.txt')
+aggregate_data('aggregated-valid-pos*.txt', 'valid-pos.txt')
+aggregate_data('aggregated-valid-neg*.txt', 'valid-neg.txt')
 
 print("Processed completed")
 end = time.time()
