@@ -1,7 +1,19 @@
-# Configuration
+"""
+group_docs_by_sentiment.py groups documents by sentiment but no longer splits them into test/train/validation
+"""
+
+###### CONFIGURATION ######
 cikTickerPath = '../../GROUP_SHARED/data/10K/10-X_C/cikTicker.txt'
 form10KPath = '../../GROUP_SHARED/data/10K/10-X_C/'
 
+"""
+alpha = True:  Label documents by one day alphas on the date of SEC Form release
+alpha = False: Label documents by thirty day cumulative returns from SEC Form release
+"""
+alpha = False
+###########################
+
+# Prepares cikdict, which is a map of cik values to stock tickers
 with open(cikTickerPath) as cikfile:
     cikTicker = cikfile.read()  
 cikTicker = cikTicker.replace('\n', '')
@@ -19,10 +31,7 @@ import re
 import time
 import sqlite3
 
-start = time.clock()
 conn = sqlite3.connect('../Database/stocks.db')
-end = time.clock()
-print("Connection open processor time: {0}".format(end-start))
 results = getReturns.getRets(conn, 'AAPL', '2016-07-27')
 print("AAPL Return on 2016-07-27: {0}".format(results[0][3]))
 
@@ -49,12 +58,12 @@ def isPos(txt, cikdict):
     #print("Title parsing processor time: {0}".format(end-start))
     #start = time.clock()
     if cik in cikdict:
-        ret = getReturns.getRets(conn, cikdict[cik], date, 4)
+        ret = getReturns.getRets(conn, cikdict[cik], date, 4) # ret = getReturns.getTotalRet(conn, cikdict[cik], date, 30)
     else:
         raise Exception('Not in cikDict')
     #end = time.clock()
     #print("Query processor time: {0}".format(end-start))
-    if (len(ret) != 0):
+    if (len(ret) != 0): # return(np.sign(ret)==1.0)
         return(np.sign(ret[0][3])==1.0)
     else:
         raise Exception('Query failed')
@@ -66,26 +75,33 @@ print("isPos processor time: {0}".format(end-start))
 
 import shutil
 
-folders = ['data/train/pos', 'data/train/neg', 'data/test/pos', 'data/test/neg', 'data/train/unsup']
+"""
+# Old behavior: this script would copy and split documents into train-pos/train-neg/test-pos/test-neg
+if (alpha):
+    folders = ['data/train/pos', 'data/train/neg', 'data/test/pos', 'data/test/neg', 'data/train/unsup']
+else: # 30 day returns
+    folders = ['data_by_returns/train/pos', 'data_by_returns/train/neg', 'data_by_returns/test/pos', 'data_by_returns/test/neg', 'data_by_returns/train/unsup']
+"""
+# New behavior: this script copies and groups documents by sentiment only so they can be easily labeled later
+if (alpha):
+    folders = ['data/pos', 'data/neg']
+else:
+    folders = ['data_by_returns/pos', 'data_by_returns/neg']
+
 for fol in folders:
     if not os.path.exists(fol):
         os.makedirs(fol)
     else:
-        #shutil.rmtree(fol) # Clear old text files
-        #os.makedirs(fol)
-        print("Folders already made.")
+        print("Folder {} already created".format(fol))
         
 import glob
 import random
 
-import sys
-
+# Redirect output to group_docs_by_sentiment.out
 orig_stdout = sys.stdout
-f = open('out_group_docs_by_sentiment.txt', 'w')
+f = open('group_docs_by_sentiment.out', 'w')
 sys.stdout = f
 
-#prefix = '/Users/daniel/Downloads/Versioned/text-analytics-for-accountancy/data/Form_10-Ks/'
-#prefix = '../data/Form_10-Ks/'
 quarters = ['2013/QTR2', '2013/QTR3', '2013/QTR4', 
             '2012/QTR1', '2012/QTR2', '2012/QTR3', '2012/QTR4', 
             '2011/QTR1', '2011/QTR2', '2011/QTR3', '2011/QTR4', 
@@ -105,26 +121,28 @@ quarters = ['2013/QTR2', '2013/QTR3', '2013/QTR4',
             '1997/QTR1', '1997/QTR2', '1997/QTR3', '1997/QTR4', 
             '1996/QTR1', '1996/QTR2', '1996/QTR3', '1996/QTR4', 
             '1995/QTR1', '1995/QTR2', '1995/QTR3', '1995/QTR4',
-            '1994/QTR1', '1994/QTR2', '1994/QTR3', '1994/QTR4'
-           ]
-start_all = time.clock()
-start_time_all = time.time()
+            '1994/QTR1', '1994/QTR2', '1994/QTR3', '1994/QTR4']
+
+start_clock_total = time.clock()     # Processor time
+start_time_total = time.time()       # Time in seconds
+
 for quarter in quarters:
-    start = time.clock()
+    start_clock = time.clock()
     start_time = time.time()
     print("Starting quarter {0}".format(quarter))
     dirname = os.path.join(form10KPath, quarter)
     txt_files = glob.glob(os.path.join(dirname, '*.txt'))
     for txt in txt_files:
+        """
+        # Old behavior: this script would copy and split documents into train-pos/train-neg/test-pos/test-neg
         rand = random.random()
-        #start = time.clock()
+        """
         try:
             pos = isPos(txt, cikdict)
         except Exception:
             continue
-        #end = time.clock()
-        #print("Query processor time: {0}".format(end-start))
-        #start = time.clock()
+        """
+        # Old behavior: this script would copy and split documents into train-pos/train-neg/test-pos/test-neg
         if (pos and rand <= 0.8):
             shutil.copy(txt, os.path.join(folders[0], os.path.basename(txt)))
         elif (pos and rand > 0.8): 
@@ -133,16 +151,21 @@ for quarter in quarters:
             shutil.copy(txt, os.path.join(folders[1], os.path.basename(txt)))
         else: # not pos and rand > 0.8
             shutil.copy(txt, os.path.join(folders[3], os.path.basename(txt)))
-        #end = time.clock()
-        #print("Copy processor time: {0}".format(end-start))
-    end = time.clock()
+        """
+        # New behavior: this script copies and groups documents by sentiment only so they can be easily labeled later
+        if pos:
+            shutil.copy(txt, os.path.join(folders[0]))
+        else:
+            shutil.copy(txt, os.path.join(folders[1]))
+    end_clock = time.clock()
     end_time = time.time()
-    print("Processor time {0}".format(end-start))
+    print("Processor time {0}".format(end_clock-start_clock))
     print("Running time {0}".format(end_time-start_time))
-end_all = time.clock()
-end_time_all = time.time()
-print("Total processor time {0}".format(end_all-start_all))
-print("Total running time {0}".format(end_time_all-start_time_all))
+
+end_clock_total = time.clock()
+end_time_total = time.time()
+print("Total processor time {0}".format(end_clock_total-start_clock_total))
+print("Total running time {0}".format(end_time_total-start_time_total))
 
 sys.stdout = orig_stdout
 f.close()

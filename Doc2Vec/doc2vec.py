@@ -4,10 +4,6 @@ import os.path
 import spacy
 import time
 import glob
-
-nlp = spacy.load('en')
-dirname = 'data'
-
 from gensim.test.test_doc2vec import ConcatenatedDoc2Vec
 from contextlib import contextmanager
 from collections import defaultdict
@@ -30,6 +26,9 @@ from sklearn import linear_model
 import fileinput
 from sklearn.utils import shuffle
 
+nlp = spacy.load('en')
+dirname = 'data'
+
 def file_len(fname):
     with open(fname) as f:
         for i, l in enumerate(f):
@@ -51,6 +50,7 @@ def read_corpus(fname):
         tags = [tokens[0]]
         yield gensim.models.doc2vec.TaggedDocument(' '.join(words), tags)
 SentimentDocument = namedtuple('SentimentDocument', 'words tags split sentiment')
+
 def read_labeled_corpus(fpos, fneg, split):
     f_list = [fpos, fneg]
     i = 0

@@ -1,24 +1,51 @@
+"""
+New behavior: prep_data.py cleans SEC Forms, creates files of the form aggregated-pos.txt and aggregated-neg.txt
+    from data/pos and data/neg, where each line is formatted as [doc_id] [sentiment] [words ...]
+    This makes it easier to shuffle the data set for cross-validation. In this new behavior, we can read in strings
+    of format [doc_id] [sentiment] [words ...] to create tuples of format (sentiment, model[doc_id])
+Old behavior: prep_data.py cleans SEC Forms, creates files of the form aggregated-train-pos*.txt, etc., and aggregates
+    them into files train-pos.txt, etc.
+"""
+
+###### CONFIGURATION ######
+dirname = 'data_by_returns_small'
+
+###########################
+
 from multiprocessing import Pool
 import smart_open
 import os.path
 import spacy
 import time
 import glob
-
 nlp = spacy.load('en')
-dirname = 'data_by_returns_small'
 
 print("Process started...")
 start = time.time()
 
 def processOne(txt):
     with smart_open.smart_open(txt, "rb") as t:
+        # New behavior: slower proprocessing with lemmatization - may take 114000 seconds (100 days)
+        process_one_start = time.time()
+        doc = nlp(t.read().decode("utf-8"))
+        process_one_end = time.time()
+        print("Process one time: {0}".format(process_one_end-process_one_start))
+        removed_stop_words = list(map(lambda x: x.lemma_, filter(lambda token: token.is_alpha and not not token.is_stop and not token.is_oov, doc)))[500:]
+        """
+        # Old behavior: Faster preprocessing without lemmatization
         doc = nlp.make_doc(t.read().decode("utf-8"))
         # Approximately top 500 words in a SEC Form are header
         removed_stop_words = list(map(lambda x: x.lower_, filter(lambda token: token.is_alpha and not token.is_stop and not token.is_oov, doc)))[500:]
+        """
         return " ".join(removed_stop_words)
+
 def prepData():
-    folders = ['train/pos', 'train/neg', 'test/pos', 'test/neg', 'valid/pos', 'valid/neg'] 
+    """
+    # Old behavior: prep_data.py cleans SEC Forms, creates files of the form aggregated-train-pos*.txt, etc., and aggregates
+    # them into files train-pos.txt, etc.
+    folders = ['train/pos', 'train/neg', 'test/pos', 'test/neg', 'valid/pos', 'valid/neg']
+    """
+    folders = ['pos', 'neg']
     print("Preparing dataset...")
     pool = Pool()
     num_processed = 0
@@ -60,7 +87,10 @@ def aggregate_data(name, out):
             for line in open(txt, 'r'):
                 f.write('{}\n'.format(line).encode('UTF-8'))
     print("{0} aggregated".format(out))
-    
+
+"""    
+# Old behavior: prep_data.py cleans SEC Forms, creates files of the form aggregated-train-pos*.txt, etc., and aggregates
+# them into files train-pos.txt, etc.
 aggregate_data('aggregated-*.txt', 'alldata-id.txt')
 aggregate_data('aggregated-train*.txt', 'train-all.txt')
 aggregate_data('aggregated-test*.txt', 'test-all.txt')
@@ -70,6 +100,11 @@ aggregate_data('aggregated-test-pos*.txt', 'test-pos.txt')
 aggregate_data('aggregated-test-neg*.txt', 'test-neg.txt')
 aggregate_data('aggregated-valid-pos*.txt', 'valid-pos.txt')
 aggregate_data('aggregated-valid-neg*.txt', 'valid-neg.txt')
+"""
+
+aggregate_data('aggregated-*.txt', 'alldata-id.txt')
+aggregate_data('aggregated-pos.txt', 'train-all.txt')
+aggregate_data('aggregated-neg.txt', 'test-all.txt')
 
 print("Processed completed")
 end = time.time()

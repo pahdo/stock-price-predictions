@@ -1,5 +1,4 @@
 ## Prepare stocks .csv
-
 - Create directory: text-analytics-for-accountancy/data/Stock_Returns/Original
 - Upload stocks.csv to directory
 - Open NLP-by-Alpha_Augment_Stock_Data.ipynb
