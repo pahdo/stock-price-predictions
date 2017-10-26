@@ -8,7 +8,7 @@ Old behavior: prep_data.py cleans SEC Forms, creates files of the form aggregate
 """
 
 ###### CONFIGURATION ######
-dirname = 'data_by_returns_small'
+dirname = 'data_by_returns'
 
 ###########################
 
@@ -25,18 +25,26 @@ start = time.time()
 
 def processOne(txt):
     with smart_open.smart_open(txt, "rb") as t:
+        """
         # New behavior: slower proprocessing with lemmatization - may take 114000 seconds (100 days)
         process_one_start = time.time()
         doc = nlp(t.read().decode("utf-8"))
         process_one_end = time.time()
         print("Process one time: {0}".format(process_one_end-process_one_start))
-        removed_stop_words = list(map(lambda x: x.lemma_, filter(lambda token: token.is_alpha and not not token.is_stop and not token.is_oov, doc)))[500:]
+        removed_stop_words = list(map(lambda x: x.lemma_, filter(lambda token: token.is_alpha and not token.is_stop and not token.is_oov, doc)))[500:]
         """
-        # Old behavior: Faster preprocessing without lemmatization
+        """
+        # Sike this still replaces everything with blanks or "because"
+        #process_one_start = time.time()
+        doc = nlp.make_doc(t.read().decode("utf-8"))
+        #process_one_end = time.time()
+        #print("Process one time: {0}".format(process_one_end-process_one_start))
+        removed_stop_words = list(map(lambda x: x.lemma_, filter(lambda token: token.is_alpha and not token.is_stop and not token.is_oov, doc)))[500:]
+        """
+        # New old behavior: Faster preprocessing without lemmatization
         doc = nlp.make_doc(t.read().decode("utf-8"))
         # Approximately top 500 words in a SEC Form are header
         removed_stop_words = list(map(lambda x: x.lower_, filter(lambda token: token.is_alpha and not token.is_stop and not token.is_oov, doc)))[500:]
-        """
         return " ".join(removed_stop_words)
 
 def prepData():
@@ -69,7 +77,7 @@ def prepData():
                 last_idx = 0
                 with smart_open.smart_open(os.path.join(dirname, output), "wb") as f:
                     for idx, line in enumerate(temp.split('\n')):
-                        num_line = u"{0} {1}\n".format(num_processed+idx, line)
+                        num_line = u"{0} {1} {2}\n".format(num_processed+idx, '1' if fol=='pos' else '0', line)
                         f.write(num_line.encode('UTF-8'))
                         last_idx = idx
                 num_processed += last_idx
@@ -85,7 +93,7 @@ def aggregate_data(name, out):
     with open(os.path.join(dirname, out), 'ab') as f:
         for txt in txt_files:
             for line in open(txt, 'r'):
-                f.write('{}\n'.format(line).encode('UTF-8'))
+                f.write('{}'.format(line).encode('UTF-8'))
     print("{0} aggregated".format(out))
 
 """    
@@ -103,8 +111,8 @@ aggregate_data('aggregated-valid-neg*.txt', 'valid-neg.txt')
 """
 
 aggregate_data('aggregated-*.txt', 'alldata-id.txt')
-aggregate_data('aggregated-pos.txt', 'train-all.txt')
-aggregate_data('aggregated-neg.txt', 'test-all.txt')
+aggregate_data('aggregated-pos-*.txt', 'pos-all.txt')
+aggregate_data('aggregated-neg-*.txt', 'neg-all.txt')
 
 print("Processed completed")
 end = time.time()

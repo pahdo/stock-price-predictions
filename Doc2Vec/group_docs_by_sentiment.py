@@ -51,25 +51,25 @@ def parseTxtName(txt):
 test_txt = '20160727_10-Q_edgar_data_320193_0001628280-16-017809_1.txt' # AAPL
 print("Parsed title: {0}".format(parseTxtName(test_txt)))
 
-def isPos(txt, cikdict): 
-    #start = time.clock()
+def isPos(txt, cikdict, alpha): 
     cik, date = parseTxtName(txt)
-    #end = time.clock()
-    #print("Title parsing processor time: {0}".format(end-start))
-    #start = time.clock()
     if cik in cikdict:
-        ret = getReturns.getRets(conn, cikdict[cik], date, 4) # ret = getReturns.getTotalRet(conn, cikdict[cik], date, 30)
+        if (alpha):
+            ret = getReturns.getRets(conn, cikdict[cik], date, 4) 
+        else: # 30 day cumulative returns
+            ret = getReturns.getTotalRet(conn, cikdict[cik], date, 30)
     else:
         raise Exception('Not in cikDict')
-    #end = time.clock()
-    #print("Query processor time: {0}".format(end-start))
-    if (len(ret) != 0): # return(np.sign(ret)==1.0)
-        return(np.sign(ret[0][3])==1.0)
-    else:
-        raise Exception('Query failed')
+    if (alpha):
+        if (len(ret) != 0): 
+            return(np.sign(ret[0][3])==1.0)
+        else:
+            raise Exception('Query failed')
+    else: # 30 day cumulative returns
+        return(np.sign(ret)==1.0)
     
 start = time.clock()
-print("isPos = {0}".format(isPos(test_txt, cikdict)))
+print("isPos = {0}".format(isPos(test_txt, cikdict, alpha)))
 end = time.clock()
 print("isPos processor time: {0}".format(end-start))
 
@@ -138,7 +138,7 @@ for quarter in quarters:
         rand = random.random()
         """
         try:
-            pos = isPos(txt, cikdict)
+            pos = isPos(txt, cikdict, alpha)
         except Exception:
             continue
         """
@@ -161,6 +161,7 @@ for quarter in quarters:
     end_time = time.time()
     print("Processor time {0}".format(end_clock-start_clock))
     print("Running time {0}".format(end_time-start_time))
+    sys.stdout.flush()
 
 end_clock_total = time.clock()
 end_time_total = time.time()
