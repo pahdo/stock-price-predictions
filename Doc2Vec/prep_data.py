@@ -8,7 +8,7 @@ Old behavior: prep_data.py cleans SEC Forms, creates files of the form aggregate
 """
 
 ###### CONFIGURATION ######
-dirname = 'data_by_returns'
+dirname = 'data_by_returns_small'
 
 ###########################
 

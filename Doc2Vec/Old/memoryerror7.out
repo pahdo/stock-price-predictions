@@ -1,0 +1,35 @@
+Starting...
+Reading through corpus and building word embeddings...
+read line 0
+read line 25000
+read line 50000
+read line 75000
+read line 100000
+read line 125000
+read line 150000
+read line 175000
+read line 200000
+read line 225000
+read line 250000
+read line 275000
+read line 300000
+read line 325000
+read line 350000
+read line 375000
+read line 400000
+read line 425000
+read line 450000
+read line 475000
+Using TensorFlow backend.
+Traceback (most recent call last):
+  File "tf-idf-30-day-returns.py", line 50, in <module>
+    embedded = vectorizer.fit_transform(corpus)
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/feature_extraction/text.py", line 1381, in fit_transform
+    X = super(TfidfVectorizer, self).fit_transform(raw_documents)
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/feature_extraction/text.py", line 869, in fit_transform
+    self.fixed_vocabulary_)
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/feature_extraction/text.py", line 790, in _count_vocab
+    for doc in raw_documents:
+  File "tf-idf-30-day-returns.py", line 11, in read_corpus
+    for line_no, line in enumerate(file):
+OSError: [Errno 12] Cannot allocate memory

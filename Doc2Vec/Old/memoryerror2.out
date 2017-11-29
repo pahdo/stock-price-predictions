@@ -1,0 +1,16 @@
+Using TensorFlow backend.
+Starting...
+544085 lines, 47395 are pos, 496690 are neg
+Reading through corpus and building word embeddings...
+Traceback (most recent call last):
+  File "tf-idf-30-day-returns.py", line 43, in <module>
+    embedded = vectorizer.fit_transform(corpus)
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/feature_extraction/text.py", line 1381, in fit_transform
+    X = super(TfidfVectorizer, self).fit_transform(raw_documents)
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/feature_extraction/text.py", line 869, in fit_transform
+    self.fixed_vocabulary_)
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/feature_extraction/text.py", line 790, in _count_vocab
+    for doc in raw_documents:
+  File "tf-idf-30-day-returns.py", line 9, in read_corpus
+    for line in file:
+OSError: [Errno 12] Cannot allocate memory

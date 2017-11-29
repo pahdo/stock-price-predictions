@@ -1,5 +1,5 @@
 """
-group_docs_by_sentiment.py groups documents by sentiment but no longer splits them into test/train/validation
+group_docs_by_sentiment labels documents by sentiment
 """
 
 ###### CONFIGURATION ######
@@ -75,14 +75,7 @@ print("isPos processor time: {0}".format(end-start))
 
 import shutil
 
-"""
-# Old behavior: this script would copy and split documents into train-pos/train-neg/test-pos/test-neg
-if (alpha):
-    folders = ['data/train/pos', 'data/train/neg', 'data/test/pos', 'data/test/neg', 'data/train/unsup']
-else: # 30 day returns
-    folders = ['data_by_returns/train/pos', 'data_by_returns/train/neg', 'data_by_returns/test/pos', 'data_by_returns/test/neg', 'data_by_returns/train/unsup']
-"""
-# New behavior: this script copies and groups documents by sentiment only so they can be easily labeled later
+""" This script copies and groups documents by sentiment only so they can be easily labeled later """
 if (alpha):
     folders = ['data/pos', 'data/neg']
 else:

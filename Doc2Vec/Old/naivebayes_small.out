@@ -1,0 +1,114 @@
+Using TensorFlow backend.
+Starting...
+Performing logistic regression with 5-fold cross-validation
+/home/jovyan/.local/lib/python3.6/site-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that theinterface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+MultinomialNB(alpha=1.0, class_prior=None, fit_prior=True)
+read line 0
+read line 200
+read line 400
+read line 600
+read line 800
+read line 1000
+read line 1200
+read line 1400
+read line 1600
+read line 1800
+read line 2000
+read line 2200
+read line 2400
+read line 2600
+read line 2800
+read line 3000
+read line 3200
+read line 3400
+read line 3600
+read line 3800
+read line 4000
+read line 4200
+read line 4400
+read line 4600
+read line 4800
+read line 5000
+read line 5200
+read line 5400
+read line 5600
+read line 5800
+read line 6000
+read line 6200
+read line 6400
+read line 6600
+read line 6800
+read line 7000
+read line 7200
+read line 7400
+read line 7600
+read line 7800
+read line 8000
+read sentiment 0
+read sentiment 200
+read sentiment 400
+read sentiment 600
+read sentiment 800
+read sentiment 1000
+read sentiment 1200
+read sentiment 1400
+read sentiment 1600
+read sentiment 1800
+read sentiment 2000
+read sentiment 2200
+read sentiment 2400
+read sentiment 2600
+read sentiment 2800
+read sentiment 3000
+read sentiment 3200
+read sentiment 3400
+read sentiment 3600
+read sentiment 3800
+read sentiment 4000
+read sentiment 4200
+read sentiment 4400
+read sentiment 4600
+read sentiment 4800
+read sentiment 5000
+read sentiment 5200
+read sentiment 5400
+read sentiment 5600
+read sentiment 5800
+read sentiment 6000
+read sentiment 6200
+read sentiment 6400
+read sentiment 6600
+read sentiment 6800
+read sentiment 7000
+read sentiment 7200
+read sentiment 7400
+read sentiment 7600
+read sentiment 7800
+read sentiment 8000
+Traceback (most recent call last):
+  File "doc2vec2.py", line 54, in <module>
+    scores = cross_validate(clf, [model.infer_vector(doc) for doc in docs], [label for label in labels], scoring=scoring, cv=5, return_train_score=False)
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/model_selection/_validation.py", line 206, in cross_validate
+    for train, test in cv.split(X, y, groups))
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/externals/joblib/parallel.py", line 779, in __call__
+    while self.dispatch_one_batch(iterator):
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/externals/joblib/parallel.py", line 625, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/externals/joblib/parallel.py", line 588, in _dispatch
+    job = self._backend.apply_async(batch, callback=cb)
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/externals/joblib/_parallel_backends.py", line 111, in apply_async
+    result = ImmediateResult(func)
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/externals/joblib/_parallel_backends.py", line 332, in __init__
+    self.results = batch()
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/externals/joblib/parallel.py", line 131, in __call__
+    return [func(*args, **kwargs) for func, args, kwargs in self.items]
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/externals/joblib/parallel.py", line 131, in <listcomp>
+    return [func(*args, **kwargs) for func, args, kwargs in self.items]
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/model_selection/_validation.py", line 458, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/naive_bayes.py", line 604, in fit
+    self._count(X, Y)
+  File "/home/jovyan/.local/lib/python3.6/site-packages/sklearn/naive_bayes.py", line 708, in _count
+    raise ValueError("Input X must be non-negative")
+ValueError: Input X must be non-negative
