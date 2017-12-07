@@ -1,5 +1,5 @@
 """
-group_docs_by_sentiment labels documents by sentiment
+1_label_data.py labels documents by sentiment
 """
 
 ###### CONFIGURATION ######
@@ -7,13 +7,17 @@ cikTickerPath = '../../GROUP_SHARED/data/10K/10-X_C/cikTicker.txt'
 form10KPath = '../../GROUP_SHARED/data/10K/10-X_C/'
 
 """
-alpha = True:  Label documents by one day alphas on the date of SEC Form release
-alpha = False: Label documents by thirty day cumulative returns from SEC Form release
+mode:
+    mode = 0 Label documents by one-day alphas on the SEC Form release date
+    mode = 1 Label documents by thirty-day cumulative returns from SEC Form release date
+    mode = 2 Label documents by cumulative alpha in an 9-day window around the SEC Form release date
 """
-alpha = False
+mode = 2
 ###########################
 
-# Prepares cikdict, which is a map of cik values to stock tickers
+"""
+Builds cikdict: map of cik values to stock tickers
+"""
 with open(cikTickerPath) as cikfile:
     cikTicker = cikfile.read()  
 cikTicker = cikTicker.replace('\n', '')
@@ -30,10 +34,15 @@ import os
 import re
 import time
 import sqlite3
+import datetime
 
 conn = sqlite3.connect('../Database/stocks.db')
 results = getReturns.getRets(conn, 'AAPL', '2016-07-27')
 print("AAPL Return on 2016-07-27: {0}".format(results[0][3]))
+
+def dateSubtract(date_str, delta):
+    date = datetime.datetime.strptime(date_str, '%y%m%d') - datetime.timedelta(days=delta)
+    return date.strftime('%y%m%d')
 
 def parseTxtName(txt):
     txt = os.path.basename(txt)
@@ -51,35 +60,47 @@ def parseTxtName(txt):
 test_txt = '20160727_10-Q_edgar_data_320193_0001628280-16-017809_1.txt' # AAPL
 print("Parsed title: {0}".format(parseTxtName(test_txt)))
 
-def isPos(txt, cikdict, alpha): 
+def isPos(txt, cikdict, mode): 
     cik, date = parseTxtName(txt)
     if cik in cikdict:
-        if (alpha):
+        if (mode == 0):
             ret = getReturns.getRets(conn, cikdict[cik], date, 4) 
-        else: # 30 day cumulative returns
+        elif (mode == 1):
             ret = getReturns.getTotalRet(conn, cikdict[cik], date, 30)
+        elif (mode == 2):
+            stock_ret = getReturns.getTotalRet(conn, cikdict[cik], dateSubtract(date, 4), 9)
+            spy_ret = getReturns.getTotalRet(conn, 'SPY', dateSubtract(date, 4), 9)
+            alpha = getReturns.getRets(conn, cikdict[cik], date)[0][3]
+            ret = stock_ret - spy_ret * alpha
+            print("stock_ret = {}".format(stock_ret))
+            print("spy_ret = {}".format(spy_ret))
+            print("ret/cum. alpha = {}".format(ret))
     else:
         raise Exception('Not in cikDict')
-    if (alpha):
+    if (mode == 0):
         if (len(ret) != 0): 
             return(np.sign(ret[0][3])==1.0)
         else:
             raise Exception('Query failed')
-    else: # 30 day cumulative returns
+    elif (mode == 1):
+        return(np.sign(ret)==1.0)
+    elif (mode == 2):
         return(np.sign(ret)==1.0)
     
 start = time.clock()
-print("isPos = {0}".format(isPos(test_txt, cikdict, alpha)))
+print("isPos = {0}".format(isPos(test_txt, cikdict, mode)))
 end = time.clock()
 print("isPos processor time: {0}".format(end-start))
 
 import shutil
 
 """ This script copies and groups documents by sentiment only so they can be easily labeled later """
-if (alpha):
+if (mode == 0):
     folders = ['data/pos', 'data/neg']
-else:
+elif (mode == 1):
     folders = ['data_by_returns/pos', 'data_by_returns/neg']
+elif (mode == 2):
+    pass
 
 for fol in folders:
     if not os.path.exists(fol):
@@ -131,7 +152,7 @@ for quarter in quarters:
         rand = random.random()
         """
         try:
-            pos = isPos(txt, cikdict, alpha)
+            pos = isPos(txt, cikdict, mode)
         except Exception:
             continue
         """
