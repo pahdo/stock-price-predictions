@@ -1,0 +1,1 @@
+BBY Sample Calculation demonstrates the getRets() and getTotalRet() functions, which return the stock returns and alpha values for a stock compared to SPY over a time frame. This sample demo works for only Blackberry (BBY).

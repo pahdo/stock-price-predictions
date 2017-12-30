@@ -1,0 +1,671 @@
+AAPL Return on 2016-07-27: 0.0660938202179
+Parsed title: ('320193', '2016-07-27')
+isPos = True
+isPos processor time: 0.010526999999999953
+Process started...
+Preparing dataset...
+Processing 47385 files, 200 at a time in pos
+Finished processing 0 files in memory, aggregated 0 total files so far
+Finished processing 1000 files in memory, aggregated 0 total files so far
+Finished processing 2000 files in memory, aggregated 0 total files so far
+Finished processing 3000 files in memory, aggregated 0 total files so far
+Finished processing 4000 files in memory, aggregated 0 total files so far
+data_by_returns/aggregated-pos-0.txt aggregated
+Finished processing 5000 files in memory, aggregated 5000 total files so far
+Finished processing 6000 files in memory, aggregated 5000 total files so far
+Finished processing 7000 files in memory, aggregated 5000 total files so far
+Finished processing 8000 files in memory, aggregated 5000 total files so far
+Finished processing 9000 files in memory, aggregated 5000 total files so far
+data_by_returns/aggregated-pos-5000.txt aggregated
+Finished processing 10000 files in memory, aggregated 10000 total files so far
+Finished processing 11000 files in memory, aggregated 10000 total files so far
+Finished processing 12000 files in memory, aggregated 10000 total files so far
+Finished processing 13000 files in memory, aggregated 10000 total files so far
+Finished processing 14000 files in memory, aggregated 10000 total files so far
+data_by_returns/aggregated-pos-10000.txt aggregated
+Finished processing 15000 files in memory, aggregated 15000 total files so far
+Finished processing 16000 files in memory, aggregated 15000 total files so far
+Finished processing 17000 files in memory, aggregated 15000 total files so far
+Finished processing 18000 files in memory, aggregated 15000 total files so far
+Finished processing 19000 files in memory, aggregated 15000 total files so far
+data_by_returns/aggregated-pos-15000.txt aggregated
+Finished processing 20000 files in memory, aggregated 20000 total files so far
+Finished processing 21000 files in memory, aggregated 20000 total files so far
+Finished processing 22000 files in memory, aggregated 20000 total files so far
+Finished processing 23000 files in memory, aggregated 20000 total files so far
+Finished processing 24000 files in memory, aggregated 20000 total files so far
+data_by_returns/aggregated-pos-20000.txt aggregated
+Finished processing 25000 files in memory, aggregated 25000 total files so far
+Finished processing 26000 files in memory, aggregated 25000 total files so far
+Finished processing 27000 files in memory, aggregated 25000 total files so far
+Finished processing 28000 files in memory, aggregated 25000 total files so far
+Finished processing 29000 files in memory, aggregated 25000 total files so far
+data_by_returns/aggregated-pos-25000.txt aggregated
+Finished processing 30000 files in memory, aggregated 30000 total files so far
+Finished processing 31000 files in memory, aggregated 30000 total files so far
+Finished processing 32000 files in memory, aggregated 30000 total files so far
+Finished processing 33000 files in memory, aggregated 30000 total files so far
+Finished processing 34000 files in memory, aggregated 30000 total files so far
+data_by_returns/aggregated-pos-30000.txt aggregated
+Finished processing 35000 files in memory, aggregated 35000 total files so far
+Finished processing 36000 files in memory, aggregated 35000 total files so far
+Finished processing 37000 files in memory, aggregated 35000 total files so far
+Finished processing 38000 files in memory, aggregated 35000 total files so far
+Finished processing 39000 files in memory, aggregated 35000 total files so far
+data_by_returns/aggregated-pos-35000.txt aggregated
+Finished processing 40000 files in memory, aggregated 40000 total files so far
+Finished processing 41000 files in memory, aggregated 40000 total files so far
+Finished processing 42000 files in memory, aggregated 40000 total files so far
+Finished processing 43000 files in memory, aggregated 40000 total files so far
+Finished processing 44000 files in memory, aggregated 40000 total files so far
+data_by_returns/aggregated-pos-40000.txt aggregated
+Finished processing 45000 files in memory, aggregated 45000 total files so far
+Finished processing 46000 files in memory, aggregated 45000 total files so far
+Finished processing 47000 files in memory, aggregated 45000 total files so far
+data_by_returns/aggregated-pos-45000.txt aggregated
+Processing 496590 files, 200 at a time in neg
+Finished processing 0 files in memory, aggregated 47385 total files so far
+Finished processing 1000 files in memory, aggregated 47385 total files so far
+Finished processing 2000 files in memory, aggregated 47385 total files so far
+Finished processing 3000 files in memory, aggregated 47385 total files so far
+Finished processing 4000 files in memory, aggregated 47385 total files so far
+data_by_returns/aggregated-neg-47385.txt aggregated
+Finished processing 5000 files in memory, aggregated 52385 total files so far
+Finished processing 6000 files in memory, aggregated 52385 total files so far
+Finished processing 7000 files in memory, aggregated 52385 total files so far
+Finished processing 8000 files in memory, aggregated 52385 total files so far
+Finished processing 9000 files in memory, aggregated 52385 total files so far
+data_by_returns/aggregated-neg-52385.txt aggregated
+Finished processing 10000 files in memory, aggregated 57385 total files so far
+Finished processing 11000 files in memory, aggregated 57385 total files so far
+Finished processing 12000 files in memory, aggregated 57385 total files so far
+Finished processing 13000 files in memory, aggregated 57385 total files so far
+Finished processing 14000 files in memory, aggregated 57385 total files so far
+data_by_returns/aggregated-neg-57385.txt aggregated
+Finished processing 15000 files in memory, aggregated 62385 total files so far
+Finished processing 16000 files in memory, aggregated 62385 total files so far
+Finished processing 17000 files in memory, aggregated 62385 total files so far
+Finished processing 18000 files in memory, aggregated 62385 total files so far
+Finished processing 19000 files in memory, aggregated 62385 total files so far
+data_by_returns/aggregated-neg-62385.txt aggregated
+Finished processing 20000 files in memory, aggregated 67385 total files so far
+Finished processing 21000 files in memory, aggregated 67385 total files so far
+Finished processing 22000 files in memory, aggregated 67385 total files so far
+Finished processing 23000 files in memory, aggregated 67385 total files so far
+Finished processing 24000 files in memory, aggregated 67385 total files so far
+data_by_returns/aggregated-neg-67385.txt aggregated
+Finished processing 25000 files in memory, aggregated 72385 total files so far
+Finished processing 26000 files in memory, aggregated 72385 total files so far
+Finished processing 27000 files in memory, aggregated 72385 total files so far
+Finished processing 28000 files in memory, aggregated 72385 total files so far
+Finished processing 29000 files in memory, aggregated 72385 total files so far
+data_by_returns/aggregated-neg-72385.txt aggregated
+Finished processing 30000 files in memory, aggregated 77385 total files so far
+Finished processing 31000 files in memory, aggregated 77385 total files so far
+Finished processing 32000 files in memory, aggregated 77385 total files so far
+Finished processing 33000 files in memory, aggregated 77385 total files so far
+Finished processing 34000 files in memory, aggregated 77385 total files so far
+data_by_returns/aggregated-neg-77385.txt aggregated
+Finished processing 35000 files in memory, aggregated 82385 total files so far
+Finished processing 36000 files in memory, aggregated 82385 total files so far
+Finished processing 37000 files in memory, aggregated 82385 total files so far
+Finished processing 38000 files in memory, aggregated 82385 total files so far
+Finished processing 39000 files in memory, aggregated 82385 total files so far
+data_by_returns/aggregated-neg-82385.txt aggregated
+Finished processing 40000 files in memory, aggregated 87385 total files so far
+Finished processing 41000 files in memory, aggregated 87385 total files so far
+Finished processing 42000 files in memory, aggregated 87385 total files so far
+Finished processing 43000 files in memory, aggregated 87385 total files so far
+Finished processing 44000 files in memory, aggregated 87385 total files so far
+data_by_returns/aggregated-neg-87385.txt aggregated
+Finished processing 45000 files in memory, aggregated 92385 total files so far
+Finished processing 46000 files in memory, aggregated 92385 total files so far
+Finished processing 47000 files in memory, aggregated 92385 total files so far
+Finished processing 48000 files in memory, aggregated 92385 total files so far
+Finished processing 49000 files in memory, aggregated 92385 total files so far
+data_by_returns/aggregated-neg-92385.txt aggregated
+Finished processing 50000 files in memory, aggregated 97385 total files so far
+Finished processing 51000 files in memory, aggregated 97385 total files so far
+Finished processing 52000 files in memory, aggregated 97385 total files so far
+Finished processing 53000 files in memory, aggregated 97385 total files so far
+Finished processing 54000 files in memory, aggregated 97385 total files so far
+data_by_returns/aggregated-neg-97385.txt aggregated
+Finished processing 55000 files in memory, aggregated 102385 total files so far
+Finished processing 56000 files in memory, aggregated 102385 total files so far
+Finished processing 57000 files in memory, aggregated 102385 total files so far
+Finished processing 58000 files in memory, aggregated 102385 total files so far
+Finished processing 59000 files in memory, aggregated 102385 total files so far
+data_by_returns/aggregated-neg-102385.txt aggregated
+Finished processing 60000 files in memory, aggregated 107385 total files so far
+Finished processing 61000 files in memory, aggregated 107385 total files so far
+Finished processing 62000 files in memory, aggregated 107385 total files so far
+Finished processing 63000 files in memory, aggregated 107385 total files so far
+Finished processing 64000 files in memory, aggregated 107385 total files so far
+data_by_returns/aggregated-neg-107385.txt aggregated
+Finished processing 65000 files in memory, aggregated 112385 total files so far
+Finished processing 66000 files in memory, aggregated 112385 total files so far
+Finished processing 67000 files in memory, aggregated 112385 total files so far
+Finished processing 68000 files in memory, aggregated 112385 total files so far
+Finished processing 69000 files in memory, aggregated 112385 total files so far
+data_by_returns/aggregated-neg-112385.txt aggregated
+Finished processing 70000 files in memory, aggregated 117385 total files so far
+Finished processing 71000 files in memory, aggregated 117385 total files so far
+Finished processing 72000 files in memory, aggregated 117385 total files so far
+Finished processing 73000 files in memory, aggregated 117385 total files so far
+Finished processing 74000 files in memory, aggregated 117385 total files so far
+data_by_returns/aggregated-neg-117385.txt aggregated
+Finished processing 75000 files in memory, aggregated 122385 total files so far
+Finished processing 76000 files in memory, aggregated 122385 total files so far
+Finished processing 77000 files in memory, aggregated 122385 total files so far
+Finished processing 78000 files in memory, aggregated 122385 total files so far
+Finished processing 79000 files in memory, aggregated 122385 total files so far
+data_by_returns/aggregated-neg-122385.txt aggregated
+Finished processing 80000 files in memory, aggregated 127385 total files so far
+Finished processing 81000 files in memory, aggregated 127385 total files so far
+Finished processing 82000 files in memory, aggregated 127385 total files so far
+Finished processing 83000 files in memory, aggregated 127385 total files so far
+Finished processing 84000 files in memory, aggregated 127385 total files so far
+data_by_returns/aggregated-neg-127385.txt aggregated
+Finished processing 85000 files in memory, aggregated 132385 total files so far
+Finished processing 86000 files in memory, aggregated 132385 total files so far
+Finished processing 87000 files in memory, aggregated 132385 total files so far
+Finished processing 88000 files in memory, aggregated 132385 total files so far
+Finished processing 89000 files in memory, aggregated 132385 total files so far
+data_by_returns/aggregated-neg-132385.txt aggregated
+Finished processing 90000 files in memory, aggregated 137385 total files so far
+Finished processing 91000 files in memory, aggregated 137385 total files so far
+Finished processing 92000 files in memory, aggregated 137385 total files so far
+Finished processing 93000 files in memory, aggregated 137385 total files so far
+Finished processing 94000 files in memory, aggregated 137385 total files so far
+data_by_returns/aggregated-neg-137385.txt aggregated
+Finished processing 95000 files in memory, aggregated 142385 total files so far
+Finished processing 96000 files in memory, aggregated 142385 total files so far
+Finished processing 97000 files in memory, aggregated 142385 total files so far
+Finished processing 98000 files in memory, aggregated 142385 total files so far
+Finished processing 99000 files in memory, aggregated 142385 total files so far
+data_by_returns/aggregated-neg-142385.txt aggregated
+Finished processing 100000 files in memory, aggregated 147385 total files so far
+Finished processing 101000 files in memory, aggregated 147385 total files so far
+Finished processing 102000 files in memory, aggregated 147385 total files so far
+Finished processing 103000 files in memory, aggregated 147385 total files so far
+Finished processing 104000 files in memory, aggregated 147385 total files so far
+data_by_returns/aggregated-neg-147385.txt aggregated
+Finished processing 105000 files in memory, aggregated 152385 total files so far
+Finished processing 106000 files in memory, aggregated 152385 total files so far
+Finished processing 107000 files in memory, aggregated 152385 total files so far
+Finished processing 108000 files in memory, aggregated 152385 total files so far
+Finished processing 109000 files in memory, aggregated 152385 total files so far
+data_by_returns/aggregated-neg-152385.txt aggregated
+Finished processing 110000 files in memory, aggregated 157385 total files so far
+Finished processing 111000 files in memory, aggregated 157385 total files so far
+Finished processing 112000 files in memory, aggregated 157385 total files so far
+Finished processing 113000 files in memory, aggregated 157385 total files so far
+Finished processing 114000 files in memory, aggregated 157385 total files so far
+data_by_returns/aggregated-neg-157385.txt aggregated
+Finished processing 115000 files in memory, aggregated 162385 total files so far
+Finished processing 116000 files in memory, aggregated 162385 total files so far
+Finished processing 117000 files in memory, aggregated 162385 total files so far
+Finished processing 118000 files in memory, aggregated 162385 total files so far
+Finished processing 119000 files in memory, aggregated 162385 total files so far
+data_by_returns/aggregated-neg-162385.txt aggregated
+Finished processing 120000 files in memory, aggregated 167385 total files so far
+Finished processing 121000 files in memory, aggregated 167385 total files so far
+Finished processing 122000 files in memory, aggregated 167385 total files so far
+Finished processing 123000 files in memory, aggregated 167385 total files so far
+Finished processing 124000 files in memory, aggregated 167385 total files so far
+data_by_returns/aggregated-neg-167385.txt aggregated
+Finished processing 125000 files in memory, aggregated 172385 total files so far
+Finished processing 126000 files in memory, aggregated 172385 total files so far
+Finished processing 127000 files in memory, aggregated 172385 total files so far
+Finished processing 128000 files in memory, aggregated 172385 total files so far
+Finished processing 129000 files in memory, aggregated 172385 total files so far
+data_by_returns/aggregated-neg-172385.txt aggregated
+Finished processing 130000 files in memory, aggregated 177385 total files so far
+Finished processing 131000 files in memory, aggregated 177385 total files so far
+Finished processing 132000 files in memory, aggregated 177385 total files so far
+Finished processing 133000 files in memory, aggregated 177385 total files so far
+Finished processing 134000 files in memory, aggregated 177385 total files so far
+data_by_returns/aggregated-neg-177385.txt aggregated
+Finished processing 135000 files in memory, aggregated 182385 total files so far
+Finished processing 136000 files in memory, aggregated 182385 total files so far
+Finished processing 137000 files in memory, aggregated 182385 total files so far
+Finished processing 138000 files in memory, aggregated 182385 total files so far
+Finished processing 139000 files in memory, aggregated 182385 total files so far
+data_by_returns/aggregated-neg-182385.txt aggregated
+Finished processing 140000 files in memory, aggregated 187385 total files so far
+Finished processing 141000 files in memory, aggregated 187385 total files so far
+Finished processing 142000 files in memory, aggregated 187385 total files so far
+Finished processing 143000 files in memory, aggregated 187385 total files so far
+Finished processing 144000 files in memory, aggregated 187385 total files so far
+data_by_returns/aggregated-neg-187385.txt aggregated
+Finished processing 145000 files in memory, aggregated 192385 total files so far
+Finished processing 146000 files in memory, aggregated 192385 total files so far
+Finished processing 147000 files in memory, aggregated 192385 total files so far
+Finished processing 148000 files in memory, aggregated 192385 total files so far
+Finished processing 149000 files in memory, aggregated 192385 total files so far
+data_by_returns/aggregated-neg-192385.txt aggregated
+Finished processing 150000 files in memory, aggregated 197385 total files so far
+Finished processing 151000 files in memory, aggregated 197385 total files so far
+Finished processing 152000 files in memory, aggregated 197385 total files so far
+Finished processing 153000 files in memory, aggregated 197385 total files so far
+Finished processing 154000 files in memory, aggregated 197385 total files so far
+data_by_returns/aggregated-neg-197385.txt aggregated
+Finished processing 155000 files in memory, aggregated 202385 total files so far
+Finished processing 156000 files in memory, aggregated 202385 total files so far
+Finished processing 157000 files in memory, aggregated 202385 total files so far
+Finished processing 158000 files in memory, aggregated 202385 total files so far
+Finished processing 159000 files in memory, aggregated 202385 total files so far
+data_by_returns/aggregated-neg-202385.txt aggregated
+Finished processing 160000 files in memory, aggregated 207385 total files so far
+Finished processing 161000 files in memory, aggregated 207385 total files so far
+Finished processing 162000 files in memory, aggregated 207385 total files so far
+Finished processing 163000 files in memory, aggregated 207385 total files so far
+Finished processing 164000 files in memory, aggregated 207385 total files so far
+data_by_returns/aggregated-neg-207385.txt aggregated
+Finished processing 165000 files in memory, aggregated 212385 total files so far
+Finished processing 166000 files in memory, aggregated 212385 total files so far
+Finished processing 167000 files in memory, aggregated 212385 total files so far
+Finished processing 168000 files in memory, aggregated 212385 total files so far
+Finished processing 169000 files in memory, aggregated 212385 total files so far
+data_by_returns/aggregated-neg-212385.txt aggregated
+Finished processing 170000 files in memory, aggregated 217385 total files so far
+Finished processing 171000 files in memory, aggregated 217385 total files so far
+Finished processing 172000 files in memory, aggregated 217385 total files so far
+Finished processing 173000 files in memory, aggregated 217385 total files so far
+Finished processing 174000 files in memory, aggregated 217385 total files so far
+data_by_returns/aggregated-neg-217385.txt aggregated
+Finished processing 175000 files in memory, aggregated 222385 total files so far
+Finished processing 176000 files in memory, aggregated 222385 total files so far
+Finished processing 177000 files in memory, aggregated 222385 total files so far
+Finished processing 178000 files in memory, aggregated 222385 total files so far
+Finished processing 179000 files in memory, aggregated 222385 total files so far
+data_by_returns/aggregated-neg-222385.txt aggregated
+Finished processing 180000 files in memory, aggregated 227385 total files so far
+Finished processing 181000 files in memory, aggregated 227385 total files so far
+Finished processing 182000 files in memory, aggregated 227385 total files so far
+Finished processing 183000 files in memory, aggregated 227385 total files so far
+Finished processing 184000 files in memory, aggregated 227385 total files so far
+data_by_returns/aggregated-neg-227385.txt aggregated
+Finished processing 185000 files in memory, aggregated 232385 total files so far
+Finished processing 186000 files in memory, aggregated 232385 total files so far
+Finished processing 187000 files in memory, aggregated 232385 total files so far
+Finished processing 188000 files in memory, aggregated 232385 total files so far
+Finished processing 189000 files in memory, aggregated 232385 total files so far
+data_by_returns/aggregated-neg-232385.txt aggregated
+Finished processing 190000 files in memory, aggregated 237385 total files so far
+Finished processing 191000 files in memory, aggregated 237385 total files so far
+Finished processing 192000 files in memory, aggregated 237385 total files so far
+Finished processing 193000 files in memory, aggregated 237385 total files so far
+Finished processing 194000 files in memory, aggregated 237385 total files so far
+data_by_returns/aggregated-neg-237385.txt aggregated
+Finished processing 195000 files in memory, aggregated 242385 total files so far
+Finished processing 196000 files in memory, aggregated 242385 total files so far
+Finished processing 197000 files in memory, aggregated 242385 total files so far
+Finished processing 198000 files in memory, aggregated 242385 total files so far
+Finished processing 199000 files in memory, aggregated 242385 total files so far
+data_by_returns/aggregated-neg-242385.txt aggregated
+Finished processing 200000 files in memory, aggregated 247385 total files so far
+Finished processing 201000 files in memory, aggregated 247385 total files so far
+Finished processing 202000 files in memory, aggregated 247385 total files so far
+Finished processing 203000 files in memory, aggregated 247385 total files so far
+Finished processing 204000 files in memory, aggregated 247385 total files so far
+data_by_returns/aggregated-neg-247385.txt aggregated
+Finished processing 205000 files in memory, aggregated 252385 total files so far
+Finished processing 206000 files in memory, aggregated 252385 total files so far
+Finished processing 207000 files in memory, aggregated 252385 total files so far
+Finished processing 208000 files in memory, aggregated 252385 total files so far
+Finished processing 209000 files in memory, aggregated 252385 total files so far
+data_by_returns/aggregated-neg-252385.txt aggregated
+Finished processing 210000 files in memory, aggregated 257385 total files so far
+Finished processing 211000 files in memory, aggregated 257385 total files so far
+Finished processing 212000 files in memory, aggregated 257385 total files so far
+Finished processing 213000 files in memory, aggregated 257385 total files so far
+Finished processing 214000 files in memory, aggregated 257385 total files so far
+data_by_returns/aggregated-neg-257385.txt aggregated
+Finished processing 215000 files in memory, aggregated 262385 total files so far
+Finished processing 216000 files in memory, aggregated 262385 total files so far
+Finished processing 217000 files in memory, aggregated 262385 total files so far
+Finished processing 218000 files in memory, aggregated 262385 total files so far
+Finished processing 219000 files in memory, aggregated 262385 total files so far
+data_by_returns/aggregated-neg-262385.txt aggregated
+Finished processing 220000 files in memory, aggregated 267385 total files so far
+Finished processing 221000 files in memory, aggregated 267385 total files so far
+Finished processing 222000 files in memory, aggregated 267385 total files so far
+Finished processing 223000 files in memory, aggregated 267385 total files so far
+Finished processing 224000 files in memory, aggregated 267385 total files so far
+data_by_returns/aggregated-neg-267385.txt aggregated
+Finished processing 225000 files in memory, aggregated 272385 total files so far
+Finished processing 226000 files in memory, aggregated 272385 total files so far
+Finished processing 227000 files in memory, aggregated 272385 total files so far
+Finished processing 228000 files in memory, aggregated 272385 total files so far
+Finished processing 229000 files in memory, aggregated 272385 total files so far
+data_by_returns/aggregated-neg-272385.txt aggregated
+Finished processing 230000 files in memory, aggregated 277385 total files so far
+Finished processing 231000 files in memory, aggregated 277385 total files so far
+Finished processing 232000 files in memory, aggregated 277385 total files so far
+Finished processing 233000 files in memory, aggregated 277385 total files so far
+Finished processing 234000 files in memory, aggregated 277385 total files so far
+data_by_returns/aggregated-neg-277385.txt aggregated
+Finished processing 235000 files in memory, aggregated 282385 total files so far
+Finished processing 236000 files in memory, aggregated 282385 total files so far
+Finished processing 237000 files in memory, aggregated 282385 total files so far
+Finished processing 238000 files in memory, aggregated 282385 total files so far
+Finished processing 239000 files in memory, aggregated 282385 total files so far
+data_by_returns/aggregated-neg-282385.txt aggregated
+Finished processing 240000 files in memory, aggregated 287385 total files so far
+Finished processing 241000 files in memory, aggregated 287385 total files so far
+Finished processing 242000 files in memory, aggregated 287385 total files so far
+Finished processing 243000 files in memory, aggregated 287385 total files so far
+Finished processing 244000 files in memory, aggregated 287385 total files so far
+data_by_returns/aggregated-neg-287385.txt aggregated
+Finished processing 245000 files in memory, aggregated 292385 total files so far
+Finished processing 246000 files in memory, aggregated 292385 total files so far
+Finished processing 247000 files in memory, aggregated 292385 total files so far
+Finished processing 248000 files in memory, aggregated 292385 total files so far
+Finished processing 249000 files in memory, aggregated 292385 total files so far
+data_by_returns/aggregated-neg-292385.txt aggregated
+Finished processing 250000 files in memory, aggregated 297385 total files so far
+Finished processing 251000 files in memory, aggregated 297385 total files so far
+Finished processing 252000 files in memory, aggregated 297385 total files so far
+Finished processing 253000 files in memory, aggregated 297385 total files so far
+Finished processing 254000 files in memory, aggregated 297385 total files so far
+data_by_returns/aggregated-neg-297385.txt aggregated
+Finished processing 255000 files in memory, aggregated 302385 total files so far
+Finished processing 256000 files in memory, aggregated 302385 total files so far
+Finished processing 257000 files in memory, aggregated 302385 total files so far
+Finished processing 258000 files in memory, aggregated 302385 total files so far
+Finished processing 259000 files in memory, aggregated 302385 total files so far
+data_by_returns/aggregated-neg-302385.txt aggregated
+Finished processing 260000 files in memory, aggregated 307385 total files so far
+Finished processing 261000 files in memory, aggregated 307385 total files so far
+Finished processing 262000 files in memory, aggregated 307385 total files so far
+Finished processing 263000 files in memory, aggregated 307385 total files so far
+Finished processing 264000 files in memory, aggregated 307385 total files so far
+data_by_returns/aggregated-neg-307385.txt aggregated
+Finished processing 265000 files in memory, aggregated 312385 total files so far
+Finished processing 266000 files in memory, aggregated 312385 total files so far
+Finished processing 267000 files in memory, aggregated 312385 total files so far
+Finished processing 268000 files in memory, aggregated 312385 total files so far
+Finished processing 269000 files in memory, aggregated 312385 total files so far
+data_by_returns/aggregated-neg-312385.txt aggregated
+Finished processing 270000 files in memory, aggregated 317385 total files so far
+Finished processing 271000 files in memory, aggregated 317385 total files so far
+Finished processing 272000 files in memory, aggregated 317385 total files so far
+Finished processing 273000 files in memory, aggregated 317385 total files so far
+Finished processing 274000 files in memory, aggregated 317385 total files so far
+data_by_returns/aggregated-neg-317385.txt aggregated
+Finished processing 275000 files in memory, aggregated 322385 total files so far
+Finished processing 276000 files in memory, aggregated 322385 total files so far
+Finished processing 277000 files in memory, aggregated 322385 total files so far
+Finished processing 278000 files in memory, aggregated 322385 total files so far
+Finished processing 279000 files in memory, aggregated 322385 total files so far
+data_by_returns/aggregated-neg-322385.txt aggregated
+Finished processing 280000 files in memory, aggregated 327385 total files so far
+Finished processing 281000 files in memory, aggregated 327385 total files so far
+Finished processing 282000 files in memory, aggregated 327385 total files so far
+Finished processing 283000 files in memory, aggregated 327385 total files so far
+Finished processing 284000 files in memory, aggregated 327385 total files so far
+data_by_returns/aggregated-neg-327385.txt aggregated
+Finished processing 285000 files in memory, aggregated 332385 total files so far
+Finished processing 286000 files in memory, aggregated 332385 total files so far
+Finished processing 287000 files in memory, aggregated 332385 total files so far
+Finished processing 288000 files in memory, aggregated 332385 total files so far
+Finished processing 289000 files in memory, aggregated 332385 total files so far
+data_by_returns/aggregated-neg-332385.txt aggregated
+Finished processing 290000 files in memory, aggregated 337385 total files so far
+Finished processing 291000 files in memory, aggregated 337385 total files so far
+Finished processing 292000 files in memory, aggregated 337385 total files so far
+Finished processing 293000 files in memory, aggregated 337385 total files so far
+Finished processing 294000 files in memory, aggregated 337385 total files so far
+data_by_returns/aggregated-neg-337385.txt aggregated
+Finished processing 295000 files in memory, aggregated 342385 total files so far
+Finished processing 296000 files in memory, aggregated 342385 total files so far
+Finished processing 297000 files in memory, aggregated 342385 total files so far
+Finished processing 298000 files in memory, aggregated 342385 total files so far
+Finished processing 299000 files in memory, aggregated 342385 total files so far
+data_by_returns/aggregated-neg-342385.txt aggregated
+Finished processing 300000 files in memory, aggregated 347385 total files so far
+Finished processing 301000 files in memory, aggregated 347385 total files so far
+Finished processing 302000 files in memory, aggregated 347385 total files so far
+Finished processing 303000 files in memory, aggregated 347385 total files so far
+Finished processing 304000 files in memory, aggregated 347385 total files so far
+data_by_returns/aggregated-neg-347385.txt aggregated
+Finished processing 305000 files in memory, aggregated 352385 total files so far
+Finished processing 306000 files in memory, aggregated 352385 total files so far
+Finished processing 307000 files in memory, aggregated 352385 total files so far
+Finished processing 308000 files in memory, aggregated 352385 total files so far
+Finished processing 309000 files in memory, aggregated 352385 total files so far
+data_by_returns/aggregated-neg-352385.txt aggregated
+Finished processing 310000 files in memory, aggregated 357385 total files so far
+Finished processing 311000 files in memory, aggregated 357385 total files so far
+Finished processing 312000 files in memory, aggregated 357385 total files so far
+Finished processing 313000 files in memory, aggregated 357385 total files so far
+Finished processing 314000 files in memory, aggregated 357385 total files so far
+data_by_returns/aggregated-neg-357385.txt aggregated
+Finished processing 315000 files in memory, aggregated 362385 total files so far
+Finished processing 316000 files in memory, aggregated 362385 total files so far
+Finished processing 317000 files in memory, aggregated 362385 total files so far
+Finished processing 318000 files in memory, aggregated 362385 total files so far
+Finished processing 319000 files in memory, aggregated 362385 total files so far
+data_by_returns/aggregated-neg-362385.txt aggregated
+Finished processing 320000 files in memory, aggregated 367385 total files so far
+Finished processing 321000 files in memory, aggregated 367385 total files so far
+Finished processing 322000 files in memory, aggregated 367385 total files so far
+Finished processing 323000 files in memory, aggregated 367385 total files so far
+Finished processing 324000 files in memory, aggregated 367385 total files so far
+data_by_returns/aggregated-neg-367385.txt aggregated
+Finished processing 325000 files in memory, aggregated 372385 total files so far
+Finished processing 326000 files in memory, aggregated 372385 total files so far
+Finished processing 327000 files in memory, aggregated 372385 total files so far
+Finished processing 328000 files in memory, aggregated 372385 total files so far
+Finished processing 329000 files in memory, aggregated 372385 total files so far
+data_by_returns/aggregated-neg-372385.txt aggregated
+Finished processing 330000 files in memory, aggregated 377385 total files so far
+Finished processing 331000 files in memory, aggregated 377385 total files so far
+Finished processing 332000 files in memory, aggregated 377385 total files so far
+Finished processing 333000 files in memory, aggregated 377385 total files so far
+Finished processing 334000 files in memory, aggregated 377385 total files so far
+data_by_returns/aggregated-neg-377385.txt aggregated
+Finished processing 335000 files in memory, aggregated 382385 total files so far
+Finished processing 336000 files in memory, aggregated 382385 total files so far
+Finished processing 337000 files in memory, aggregated 382385 total files so far
+Finished processing 338000 files in memory, aggregated 382385 total files so far
+Finished processing 339000 files in memory, aggregated 382385 total files so far
+data_by_returns/aggregated-neg-382385.txt aggregated
+Finished processing 340000 files in memory, aggregated 387385 total files so far
+Finished processing 341000 files in memory, aggregated 387385 total files so far
+Finished processing 342000 files in memory, aggregated 387385 total files so far
+Finished processing 343000 files in memory, aggregated 387385 total files so far
+Finished processing 344000 files in memory, aggregated 387385 total files so far
+data_by_returns/aggregated-neg-387385.txt aggregated
+Finished processing 345000 files in memory, aggregated 392385 total files so far
+Finished processing 346000 files in memory, aggregated 392385 total files so far
+Finished processing 347000 files in memory, aggregated 392385 total files so far
+Finished processing 348000 files in memory, aggregated 392385 total files so far
+Finished processing 349000 files in memory, aggregated 392385 total files so far
+data_by_returns/aggregated-neg-392385.txt aggregated
+Finished processing 350000 files in memory, aggregated 397385 total files so far
+Finished processing 351000 files in memory, aggregated 397385 total files so far
+Finished processing 352000 files in memory, aggregated 397385 total files so far
+Finished processing 353000 files in memory, aggregated 397385 total files so far
+Finished processing 354000 files in memory, aggregated 397385 total files so far
+data_by_returns/aggregated-neg-397385.txt aggregated
+Finished processing 355000 files in memory, aggregated 402385 total files so far
+Finished processing 356000 files in memory, aggregated 402385 total files so far
+Finished processing 357000 files in memory, aggregated 402385 total files so far
+Finished processing 358000 files in memory, aggregated 402385 total files so far
+Finished processing 359000 files in memory, aggregated 402385 total files so far
+data_by_returns/aggregated-neg-402385.txt aggregated
+Finished processing 360000 files in memory, aggregated 407385 total files so far
+Finished processing 361000 files in memory, aggregated 407385 total files so far
+Finished processing 362000 files in memory, aggregated 407385 total files so far
+Finished processing 363000 files in memory, aggregated 407385 total files so far
+Finished processing 364000 files in memory, aggregated 407385 total files so far
+data_by_returns/aggregated-neg-407385.txt aggregated
+Finished processing 365000 files in memory, aggregated 412385 total files so far
+Finished processing 366000 files in memory, aggregated 412385 total files so far
+Finished processing 367000 files in memory, aggregated 412385 total files so far
+Finished processing 368000 files in memory, aggregated 412385 total files so far
+Finished processing 369000 files in memory, aggregated 412385 total files so far
+data_by_returns/aggregated-neg-412385.txt aggregated
+Finished processing 370000 files in memory, aggregated 417385 total files so far
+Finished processing 371000 files in memory, aggregated 417385 total files so far
+Finished processing 372000 files in memory, aggregated 417385 total files so far
+Finished processing 373000 files in memory, aggregated 417385 total files so far
+Finished processing 374000 files in memory, aggregated 417385 total files so far
+data_by_returns/aggregated-neg-417385.txt aggregated
+Finished processing 375000 files in memory, aggregated 422385 total files so far
+Finished processing 376000 files in memory, aggregated 422385 total files so far
+Finished processing 377000 files in memory, aggregated 422385 total files so far
+Finished processing 378000 files in memory, aggregated 422385 total files so far
+Finished processing 379000 files in memory, aggregated 422385 total files so far
+data_by_returns/aggregated-neg-422385.txt aggregated
+Finished processing 380000 files in memory, aggregated 427385 total files so far
+Finished processing 381000 files in memory, aggregated 427385 total files so far
+Finished processing 382000 files in memory, aggregated 427385 total files so far
+Finished processing 383000 files in memory, aggregated 427385 total files so far
+Finished processing 384000 files in memory, aggregated 427385 total files so far
+data_by_returns/aggregated-neg-427385.txt aggregated
+Finished processing 385000 files in memory, aggregated 432385 total files so far
+Finished processing 386000 files in memory, aggregated 432385 total files so far
+Finished processing 387000 files in memory, aggregated 432385 total files so far
+Finished processing 388000 files in memory, aggregated 432385 total files so far
+Finished processing 389000 files in memory, aggregated 432385 total files so far
+data_by_returns/aggregated-neg-432385.txt aggregated
+Finished processing 390000 files in memory, aggregated 437385 total files so far
+Finished processing 391000 files in memory, aggregated 437385 total files so far
+Finished processing 392000 files in memory, aggregated 437385 total files so far
+Finished processing 393000 files in memory, aggregated 437385 total files so far
+Finished processing 394000 files in memory, aggregated 437385 total files so far
+data_by_returns/aggregated-neg-437385.txt aggregated
+Finished processing 395000 files in memory, aggregated 442385 total files so far
+Finished processing 396000 files in memory, aggregated 442385 total files so far
+Finished processing 397000 files in memory, aggregated 442385 total files so far
+Finished processing 398000 files in memory, aggregated 442385 total files so far
+Finished processing 399000 files in memory, aggregated 442385 total files so far
+data_by_returns/aggregated-neg-442385.txt aggregated
+Finished processing 400000 files in memory, aggregated 447385 total files so far
+Finished processing 401000 files in memory, aggregated 447385 total files so far
+Finished processing 402000 files in memory, aggregated 447385 total files so far
+Finished processing 403000 files in memory, aggregated 447385 total files so far
+Finished processing 404000 files in memory, aggregated 447385 total files so far
+data_by_returns/aggregated-neg-447385.txt aggregated
+Finished processing 405000 files in memory, aggregated 452385 total files so far
+Finished processing 406000 files in memory, aggregated 452385 total files so far
+Finished processing 407000 files in memory, aggregated 452385 total files so far
+Finished processing 408000 files in memory, aggregated 452385 total files so far
+Finished processing 409000 files in memory, aggregated 452385 total files so far
+data_by_returns/aggregated-neg-452385.txt aggregated
+Finished processing 410000 files in memory, aggregated 457385 total files so far
+Finished processing 411000 files in memory, aggregated 457385 total files so far
+Finished processing 412000 files in memory, aggregated 457385 total files so far
+Finished processing 413000 files in memory, aggregated 457385 total files so far
+Finished processing 414000 files in memory, aggregated 457385 total files so far
+data_by_returns/aggregated-neg-457385.txt aggregated
+Finished processing 415000 files in memory, aggregated 462385 total files so far
+Finished processing 416000 files in memory, aggregated 462385 total files so far
+Finished processing 417000 files in memory, aggregated 462385 total files so far
+Finished processing 418000 files in memory, aggregated 462385 total files so far
+Finished processing 419000 files in memory, aggregated 462385 total files so far
+data_by_returns/aggregated-neg-462385.txt aggregated
+Finished processing 420000 files in memory, aggregated 467385 total files so far
+Finished processing 421000 files in memory, aggregated 467385 total files so far
+Finished processing 422000 files in memory, aggregated 467385 total files so far
+Finished processing 423000 files in memory, aggregated 467385 total files so far
+Finished processing 424000 files in memory, aggregated 467385 total files so far
+data_by_returns/aggregated-neg-467385.txt aggregated
+Finished processing 425000 files in memory, aggregated 472385 total files so far
+Finished processing 426000 files in memory, aggregated 472385 total files so far
+Finished processing 427000 files in memory, aggregated 472385 total files so far
+Finished processing 428000 files in memory, aggregated 472385 total files so far
+Finished processing 429000 files in memory, aggregated 472385 total files so far
+data_by_returns/aggregated-neg-472385.txt aggregated
+Finished processing 430000 files in memory, aggregated 477385 total files so far
+Finished processing 431000 files in memory, aggregated 477385 total files so far
+Finished processing 432000 files in memory, aggregated 477385 total files so far
+Finished processing 433000 files in memory, aggregated 477385 total files so far
+Finished processing 434000 files in memory, aggregated 477385 total files so far
+data_by_returns/aggregated-neg-477385.txt aggregated
+Finished processing 435000 files in memory, aggregated 482385 total files so far
+Finished processing 436000 files in memory, aggregated 482385 total files so far
+Finished processing 437000 files in memory, aggregated 482385 total files so far
+Finished processing 438000 files in memory, aggregated 482385 total files so far
+Finished processing 439000 files in memory, aggregated 482385 total files so far
+data_by_returns/aggregated-neg-482385.txt aggregated
+Finished processing 440000 files in memory, aggregated 487385 total files so far
+Finished processing 441000 files in memory, aggregated 487385 total files so far
+Finished processing 442000 files in memory, aggregated 487385 total files so far
+Finished processing 443000 files in memory, aggregated 487385 total files so far
+Finished processing 444000 files in memory, aggregated 487385 total files so far
+data_by_returns/aggregated-neg-487385.txt aggregated
+Finished processing 445000 files in memory, aggregated 492385 total files so far
+Finished processing 446000 files in memory, aggregated 492385 total files so far
+Finished processing 447000 files in memory, aggregated 492385 total files so far
+Finished processing 448000 files in memory, aggregated 492385 total files so far
+Finished processing 449000 files in memory, aggregated 492385 total files so far
+data_by_returns/aggregated-neg-492385.txt aggregated
+Finished processing 450000 files in memory, aggregated 497385 total files so far
+Finished processing 451000 files in memory, aggregated 497385 total files so far
+Finished processing 452000 files in memory, aggregated 497385 total files so far
+Finished processing 453000 files in memory, aggregated 497385 total files so far
+Finished processing 454000 files in memory, aggregated 497385 total files so far
+data_by_returns/aggregated-neg-497385.txt aggregated
+Finished processing 455000 files in memory, aggregated 502385 total files so far
+Finished processing 456000 files in memory, aggregated 502385 total files so far
+Finished processing 457000 files in memory, aggregated 502385 total files so far
+Finished processing 458000 files in memory, aggregated 502385 total files so far
+Finished processing 459000 files in memory, aggregated 502385 total files so far
+data_by_returns/aggregated-neg-502385.txt aggregated
+Finished processing 460000 files in memory, aggregated 507385 total files so far
+Finished processing 461000 files in memory, aggregated 507385 total files so far
+Finished processing 462000 files in memory, aggregated 507385 total files so far
+Finished processing 463000 files in memory, aggregated 507385 total files so far
+Finished processing 464000 files in memory, aggregated 507385 total files so far
+data_by_returns/aggregated-neg-507385.txt aggregated
+Finished processing 465000 files in memory, aggregated 512385 total files so far
+Finished processing 466000 files in memory, aggregated 512385 total files so far
+Finished processing 467000 files in memory, aggregated 512385 total files so far
+Finished processing 468000 files in memory, aggregated 512385 total files so far
+Finished processing 469000 files in memory, aggregated 512385 total files so far
+data_by_returns/aggregated-neg-512385.txt aggregated
+Finished processing 470000 files in memory, aggregated 517385 total files so far
+Finished processing 471000 files in memory, aggregated 517385 total files so far
+Finished processing 472000 files in memory, aggregated 517385 total files so far
+Finished processing 473000 files in memory, aggregated 517385 total files so far
+Finished processing 474000 files in memory, aggregated 517385 total files so far
+data_by_returns/aggregated-neg-517385.txt aggregated
+Finished processing 475000 files in memory, aggregated 522385 total files so far
+Finished processing 476000 files in memory, aggregated 522385 total files so far
+Finished processing 477000 files in memory, aggregated 522385 total files so far
+Finished processing 478000 files in memory, aggregated 522385 total files so far
+Finished processing 479000 files in memory, aggregated 522385 total files so far
+data_by_returns/aggregated-neg-522385.txt aggregated
+Finished processing 480000 files in memory, aggregated 527385 total files so far
+Finished processing 481000 files in memory, aggregated 527385 total files so far
+Finished processing 482000 files in memory, aggregated 527385 total files so far
+Finished processing 483000 files in memory, aggregated 527385 total files so far
+Finished processing 484000 files in memory, aggregated 527385 total files so far
+data_by_returns/aggregated-neg-527385.txt aggregated
+Finished processing 485000 files in memory, aggregated 532385 total files so far
+Finished processing 486000 files in memory, aggregated 532385 total files so far
+Finished processing 487000 files in memory, aggregated 532385 total files so far
+Finished processing 488000 files in memory, aggregated 532385 total files so far
+Finished processing 489000 files in memory, aggregated 532385 total files so far
+data_by_returns/aggregated-neg-532385.txt aggregated
+Finished processing 490000 files in memory, aggregated 537385 total files so far
+Finished processing 491000 files in memory, aggregated 537385 total files so far
+Finished processing 492000 files in memory, aggregated 537385 total files so far
+Finished processing 493000 files in memory, aggregated 537385 total files so far
+Finished processing 494000 files in memory, aggregated 537385 total files so far
+data_by_returns/aggregated-neg-537385.txt aggregated
+Finished processing 495000 files in memory, aggregated 542385 total files so far
+Finished processing 496000 files in memory, aggregated 542385 total files so far
+data_by_returns/aggregated-neg-542385.txt aggregated
+110
+alldata-id.txt aggregated
+10
+pos-all.txt aggregated
+100
+neg-all.txt aggregated
+Processed completed
+Total running time: 18921.20745229721
