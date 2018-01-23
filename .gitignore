@@ -1,5 +1,3 @@
 .DS_Store
-data/stocks/stocks_alphas.csv
-data/stocks/stocks.csv
-data/database/stocks.db
+data/*
 doc2vec/tfidf_embedded.pickle
