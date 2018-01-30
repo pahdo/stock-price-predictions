@@ -7,6 +7,8 @@ import sqlite3
 
 ###### CONFIGURATION ######
 
+train_quarters = ['2005/QTR1']
+"""
 train_quarters = [
     '2005/QTR1', '2005/QTR2', '2005/QTR3', '2005/QTR4',
     '2004/QTR1', '2004/QTR2', '2004/QTR3', '2004/QTR4',
@@ -24,17 +26,31 @@ train_quarters = [
     '2008/QTR1', '2008/QTR2', '2008/QTR3', '2008/QTR4',
     '2007/QTR1', '2007/QTR2', '2007/QTR3', '2007/QTR4',
     '2006/QTR1', '2006/QTR2', '2006/QTR3', '2006/QTR4']
+"""
 test_quarters = [
     '2013/QTR2', '2013/QTR3', '2013/QTR4',
     '2012/QTR1', '2012/QTR2', '2012/QTR3', '2012/QTR4',
     '2011/QTR1', '2011/QTR2', '2011/QTR3', '2011/QTR4',
     '2010/QTR1', '2010/QTR2', '2010/QTR3', '2010/QTR4']
-cik_ticker_path = os.path.join('..', 'data', 'cikTicker.txt')
+cik_ticker_path = os.path.join('..', 'data', 'csv', 'cikTicker.txt')
 db_path = os.path.join('..', 'data', 'database', 'stocks.db')
 
 ###########################
-
+"""
 def load_texts(directory, split=['all', 'train', 'test'], yield_paths=False, yield_labels=False):
+    regex = build_regex(directory, split)
+    file_paths = glob.iglob(regex, recursive=True)
+    if yield_paths:
+        for file_path in file_paths:
+            with open(file_path, 'r') as t:
+                yield (t.read(), file_path) # file_path is a full path
+    else:
+        for file_path in file_paths:
+            with open(file_path, 'r') as t:
+                yield (t.read())
+"""
+
+def build_regex(directory, split=['all', 'train', 'test']):
     """assumes source directory structure: ../data/10-X_C/2004/QTR2/
     """
     if split == 'all':
@@ -46,86 +62,204 @@ def load_texts(directory, split=['all', 'train', 'test'], yield_paths=False, yie
     elif split == 'test':
         regex_part = '|'.join(test_quarters)
     regex = os.path.join('../data', directory, regex_part, '*.txt')
-    print(regex)
-    file_paths = glob.iglob(regex, recursive=True)
-    if yield_paths:
-        for file_path in file_paths:
-            with open(file_path, 'r') as t:
-                yield t.read()
-    else:
-        for file_path in file_paths:
-            with open(file_path, 'r') as t:
-                yield t.read(), file_path # file_path is a full path
+    #print(regex)
+    return regex
 
-def load_labels(directory, split=['all', 'train', 'test']):
-    if split == 'all':
-        regex_part = '**'
-    elif split == 'train':
-        regex_part = '|'.join(train_quarters)
-    elif split == 'test':
-        regex_part = '|'.join(test_quarters)
-    regex = os.path.join('..', 'data', directory, regex_part, '*.txt')
-    print(regex)
+def verify_db(conn):
+    c = conn.cursor()
+    results = []
+    for row in c.execute("SELECT * \
+        FROM stocks WHERE symbol='AAPL' LIMIT 20"):
+        results.append(row)
+    #print(results)
+    return len(results) == 20
+    
+def load_data(directory, split=['all', 'train', 'test'], yield_paths=False, yield_labels=False):
+    regex = build_regex(directory, split) 
     file_paths = glob.iglob(regex, recursive=True)
-    #print(list(file_paths))
+
+    if(not check_file(db_path)):
+         print("db_path {} does not exist.".format(db_path))
+         return
     conn = sqlite3.connect(db_path)
+    if not verify_db(conn):
+         print("db contains too few rows.")
+         return 
+
     cik_dict = build_cik_dict()
-    #if cik_dict is None:
-    #    return
+    if cik_dict is None:
+        print("cik_dict failed")
+        return
+
     for txt in file_paths:
-        print(txt)
-        cik, date = parse_txt_name(txt)
-        print("{} {}".format(cik, date))
+        cik, filing_date = parse_txt_name(txt)
+        # TODO: put filing_date conversion from string to date obj into parse_txt_name
+        filing_date = datetime.datetime.strptime(filing_date, '%Y-%m-%d') 
+
         if cik in cik_dict:
-            price_history, alpha1, alpha2, alpha3, alpha4, alpha5 = get_returns(conn, cik_dict[cik], date)
-            print("{} {} {} {} {} {}".format(price_history, alpha1, alpha2, alpha3, alpha4, alpha5))
+            # TODO: Query for SPY only once. 
+            # Challenge: How to set date range? And then how to find index of date (start date) in spy_returns?
+            # default parameter for horizon = 12
+            spy_returns = get_returns(conn, 'SPY', filing_date, 12)
+            if spy_returns is None or len(spy_returns) == 0:
+                #print("no spy_returns for {} {}".format(cik_dict[cik], filing_date))
+                continue
+            price_history, alpha1, alpha2, alpha3, alpha4, alpha5 = get_labels(conn, cik_dict[cik], filing_date, spy_returns)
+    #        print("{} {} labels: {} {} {} {} {} {}".format(cik_dict[cik], filing_date, price_history, alpha1, alpha2, alpha3, alpha4, alpha5))
+            if price_history is None or len(price_history) != 5 or alpha1 is None or alpha2 is None or alpha3 is None or alpha4 is None or alpha5 is None:
+                continue
+            with open(txt, 'r') as t:
+                yield [t.read(), [price_history, alpha1, alpha2, alpha3, alpha4, alpha5]]
+#                yield [t.read(), [alpha2]]
 
-def get_returns(conn, symbol, date, horizon=12, normalized=True):
-    # date_subtract: 3 day buffer for weekends + 5 day for baseline price history features
-    # horizon: 3 day buffer for weekends + 8 from date subtract + 1 (because upper bound is exclusive)
-    if normalized:
-        c = conn.cursor()
-        start_date = date_subtract(date, 8)
-        stock_returns = []
-        for row in c.execute("SELECT theDate, Symbol, Return, Alpha \
-                             FROM stocks WHERE symbol=? \
-                             AND theDate >= strftime(?) \
-                             AND theDate < date(strftime(?), ?);", 
-                             [symbol, start_date, start_date, '+{} day'.format(horizon)]):
-            stock_returns.append(row)
-        spy_returns = []
-        for row in c.execute("SELECT theDate, Symbol, Return, Alpha \
-                             FROM stocks WHERE symbol=? \
-                             AND theDate >= strftime(?) \
-                             AND theDate < date(strftime(?), ?);",
-                             ['SPY', start_date, start_date, '+{} day'.format(horizon)]):
-            spy_returns.append(row)
-        if len(stock_returns != len(spy_returns)):
-            raise Exception()# invalid because missing value
-        for i in range(len(stock_returns)):
-            if datetime.datetime.strptime(stock_returns[i][0], '%Y-%m-%d') != datetime.datetime.strptime(spy_returns[i][0], '%Y-%m-%d'):
-                raise Exception()# invalid because non-matching dates
-        for i in range(len(stock_returns)):
-            if datetime.datetime.strptime(stock_returns[i][0], '%Y-%m-%d') >= datetime.datetime.strptime(date, '%Y-%m-%d'):
-                middle_idx = i # search for "middle_idx" or day 1, the day the Form 10-K is filed
-                break
-        if middle_idx < 5:
-            raise Exception() # invalid because not enough price history
-        if len(stock_returns) - middle_idx < 5:
-            raise Exception() # invalid because not enough future price data
-        beta = float(stock_returns[0][3])
-        stock_returns = [float(ret[2]) for ret in stock_returns]
-        spy_returns = [float(ret[2]) for ret in stock_returns]
-        price_history = np.subtract(stock_returns[middle_idx-5, middle_idx], spy_returns[middle_idx-5, middle_idx])
-        alpha1 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+1]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+1]])
-        alpha2 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+2]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+2]])
-        alpha3 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+3]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+3]])
-        alpha4 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+4]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+4]])
-        alpha5 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+5]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+5]])
-        return (price_history, alpha1, alpha2, alpha3, alpha4, alpha5)
+"""horizon: 3 day buffer for weekends + 8 from date subtract + 1 + 5 for alpha i = 5 + 3(because upper bound is exclusive)
+"""
+def get_labels(conn, symbol, date, spy_returns, horizon=20, normalized=True):
+#    if not normalized:
+#        print("get_labels: unnormalized is not supported")
+#        return None, None, None, None, None, None 
 
-    else:
-        print("Not supported.")
+    stock_returns = get_returns(conn, symbol, date, horizon)
+    if len(stock_returns) == 0:
+#        print("get_labels: get_returns query returned nothing for ticker")
+        return None, None, None, None, None, None
+#    print("get_labels: get_returned query returned something for ticker :)")
+
+    to_return = [get_price_history(date, stock_returns, spy_returns)]
+    for i in range(1, 6):
+        to_return.append(get_alpha_i(date, stock_returns, spy_returns, i))
+    return tuple(to_return)
+
+"""get returns
+args:
+    conn
+    symbol
+    date
+    horizon
+returns:
+    a map of date objects to lists [date (date obj.), symbol (string), return (float), beta (float)]
+"""
+def get_returns(conn, symbol, date, horizon):
+    # date_add: 
+    # 3 day buffer for weekends + 5 day for baseline price history features
+    # = 8 days. We do this to include enough data for a future call to
+    # get_price_history with days=5
+    c = conn.cursor()
+    # BELOW: test for db connection
+    #for row in c.execute("SELECT * FROM stocks LIMIT 20"):
+    #    print(row)
+    start_date = date_add(date, -8)#.strftime('%Y-%m-%d')
+    assert date != start_date
+    stock_returns = {}
+#    print("executing query with {} {} {} {}".format(symbol, start_date, start_date, '+{} day'.format(horizon)))
+    for row in c.execute("SELECT theDate, symbol, return, beta \
+        FROM stocks WHERE symbol=? \
+        AND theDate >= ? \
+        AND theDate < date(?, ?);", 
+        [symbol, start_date, start_date, '+{} day'.format(horizon)]):
+#    for row in c.execute("SELECT * \
+#        FROM stocks WHERE symbol=?", [symbol]):
+        new_row = []
+        new_row.append(date_add(row[0], 0))
+        new_row.append(row[1])
+        new_row.append(float(row[2]))
+        new_row.append(float(row[3]))
+        stock_returns[new_row[0]] = new_row # date addition 
+#    print("get_returns: stock_returns for {} {} is {}".format(symbol, date, stock_returns))
+    return stock_returns
+
+def get_price_history(filing_date, stock_returns, spy_returns, days=5):
+    NUM_DAYS_FOR_BUFFER = 3 # to account for non-trading days
+                                # suppose days = 5, we want 5 trading days
+                                # so suppose there was a national holiday
+                                # and a 2-day weekend between our 5 trading
+                                # days, we would want a buffer of 3 to
+                                # account for that
+    """assume the sec form is filed on a trading day
+    """
+    if filing_date not in stock_returns:
+        print("get_price_history: filing date not in stock_returns map")
+        return 
+    beta = stock_returns[filing_date][3]
+    # build price history backwards from the filing date
+    # the order doesn't matter; it's just 5 baseline features 
+    current_date = date_add(filing_date, -1)
+    assert current_date != filing_date
+    end = date_add(filing_date, -1 * (days + NUM_DAYS_FOR_BUFFER))
+    assert end != filing_date
+    assert current_date != end
+    #print("get_price_history: filing_date={} current_date={} end={}".format(filing_date, current_date, end))
+    days_counter = 0
+    price_history = []
+    while current_date != end and days_counter != days: 
+        if current_date in spy_returns:
+            if current_date in stock_returns:
+                stock_return = stock_returns[current_date][2]
+                spy_return = spy_returns[current_date][2]
+                normalized_return = stock_return - beta * spy_return
+                #print("appending {} to price_history for current_date={} symbol={}".format(normalized_return, current_date, stock_returns[current_date][1]))
+                price_history.append(stock_return - beta * spy_return)
+                days_counter += 1
+            else:
+                print("get_price_history: missing value in stock_returns")
+                return
+        current_date = date_add(current_date, -1)
+    if current_date == end:
+        pass
+        #print("get_price_history: ended because current_date == end")
+    if days_counter == days:
+        pass
+        #print("get_price_history: ended because days_counter == days")
+    if len(price_history) != days:
+        print("get_price_history: missing price history values len(price_history)={} days={}".format(len(price_history), days))
+        return
+    return price_history
+def get_alpha_i(filing_date, stock_returns, spy_returns, i):
+        # TODO: Consider when an sec form is filed on a day when the market is NOT open
+#        filing_date = None # or day 1, the day the Form 10-K was filed by the SEC (business hours)
+#        while filing_date is None:
+#            if ( 
+#        for i in range(len(stock_returns)):
+#            if datetime.datetime.strptime(stock_returns[i][0], '%Y-%m-%d') >= datetime.datetime.strptime(date, '%Y-%m-%d'):
+#                middle_idx = i # search for "middle_idx" or day 1, the day the Form 10-K is filed
+#                break
+#        if middle_idx < 5:
+#            raise Exception("invalid because not enough price history") # invalid because not enough price history
+#        if len(stock_returns) - middle_idx < 5:
+#            raise Exception("invalid because not enough future price data") # invalid because not enough future price data
+    """assume the sec form is filed on a day when the market is open
+    """
+    if filing_date not in stock_returns:
+        print("get_alpha_i: filing date not in stock returns")
+        return
+    NUM_DAYS_FOR_BUFFER = 3
+    end = date_add(filing_date, i + NUM_DAYS_FOR_BUFFER)
+    current_date = filing_date 
+    cum_stock_return = 1.0
+    cum_spy_return = 1.0
+    beta = stock_returns[current_date][3]
+    days_counter = 0
+    while current_date != end and days_counter != i: 
+        if current_date in spy_returns:
+            if current_date in stock_returns:
+                cum_stock_return *= 1 + stock_returns[current_date][2]
+                cum_spy_return *= 1 + spy_returns[current_date][2]
+                days_counter += 1
+            else:
+                print("get_alpha_i: missing value in stock_returns")
+                return
+        current_date = date_add(current_date, 1)
+    if days_counter != i:
+        print("get_alpha_i: days_counter={} != i={}".format(days_counter, i))
+        return None
+    return (cum_stock_return - 1) - beta * (cum_spy_return - 1)
+
+#        price_history = np.subtract(stock_returns[middle_idx-5, middle_idx], spy_returns[middle_idx-5, middle_idx])
+#        alpha1 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+1]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+1]])
+#        alpha2 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+2]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+2]])
+#        alpha3 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+3]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+3]])
+#        alpha4 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+4]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+4]])
+#        alpha5 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+5]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+5]])
 
 def build_cik_dict():
     """Parses cikTicker.txt file into a dictionary.
@@ -143,7 +277,7 @@ def build_cik_dict():
         cik_dict = dict(s.split(', ') for s in cik_ticker)
         return cik_dict
     else:
-        print('cikTicker.txt does not exist.')
+        print('cikTicker.txt does not exist at path {}.'.format(cik_ticker_path))
         return None
 
 def check_file(filename):
@@ -160,9 +294,14 @@ def check_file(filename):
     except OSError:
         return False
 
-def date_subtract(date_str, delta):
-    date = datetime.datetime.strptime(date_str, '%Y-%m-%d') - datetime.timedelta(days=delta)
-    return date.strftime('%Y-%m-%d')
+"""date addition function. can take string or date object inputs. returns datetime.date object
+"""
+def date_add(date_str, delta):
+    if isinstance(date_str, str):
+        date_obj = datetime.datetime.strptime(date_str, '%Y-%m-%d') + datetime.timedelta(days=delta)
+    else: # i am already a date obj
+        date_obj = date_str + datetime.timedelta(days=delta)
+    return date_obj
 
 def parse_txt_name(txt):
     txt = os.path.basename(txt)

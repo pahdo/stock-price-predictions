@@ -20,12 +20,22 @@ output_dir = '10-X_C_clean'
 
 ###########################
 
+"""https://stackoverflow.com/questions/28030095/how-to-split-a-python-generator-of-tuples-into-2-separate-generators
+"""
+from itertools import tee
+def split_gen(gen):
+    gen_a, gen_b = tee(gen, 2)
+    return (a for a, b in gen_a), (b for a, b in gen_b)
 def main():
-    print('begin load labels')
-    utils_v2.load_labels(data_dir, split='all')
-    print('end load labels')
-    corpus = utils_v2.load_texts(data_dir, split='all')
-    pipe = Pipeline()
+    print('process starting...')
+    gen = utils_v2.load_data(data_dir, split='all') 
+    corpus, labels = split_gen(gen) 
+#    for item in corpus:
+#        print(item[:10])
+    for label_type in labels:
+        for label in label_type:
+            print(label)
+    pipe = Pipeline([('tfidf', TfidfVectorizer), ('nmf', NMF), ('clf', SVC)])
     """https://nlp.stanford.edu/IR-book/html/htmledition/sublinear-tf-scaling-1.html
     """
     param_grid = dict(vectorizer=[TfidfVectorizer(sublinear_tf=True)],
@@ -40,6 +50,7 @@ def main():
     """https://stackoverflow.com/questions/46732748/how-do-i-use-a-timeseriessplit-with-a-gridsearchcv-object-to-tune-a-model-in-sci
     """
     grid_search = GridSearchCV(pipe, param_grid=param_grid, cv=ts_cv)
+    grid_search.fit(corpus, labels) 
     #grid_search.fit(corpus, )
 
     # from sklearn import metrics

@@ -1,3 +1,4 @@
 .DS_Store
 data/*
 doc2vec/tfidf_embedded.pickle
+.ipynb_checkpoints

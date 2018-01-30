@@ -21,7 +21,7 @@ import csv
 import numpy as np
 from datetime import datetime
 
-dateformat = '%Y-%M-%d' # 1998-01-15
+dateformat = '%Y-%m-%d' # 1998-01-15
 
 """
 Takes in an array rows containing the CSV rows for 1 stock symbol
@@ -115,22 +115,36 @@ parse the stocks CSV and write to the output CSV every time we reach a new stock
 """
 import os.path
 if (os.path.isfile(os.path.join(dir_name, output_file))):
-    print("Please delete Stock_Plus_Alphas.csv before proceeding so we can regenerate the file.")
-else:
-    with open(os.path.join(dir_name, stocks_csv), 'rt') as csv_file:
-        reader = csv.reader(csv_file, delimiter=',')
-        rows = []
-        last_symbol = ''
-        for row in reader:
-            if(row[0] == 'date'):
-                pass
-            else:
-                if (last_symbol != row[1]): # We have reached a new stock symbol
-                    if (len(rows) >= 2):
-                        write_csv_with_alphas(rows)
-                    rows = []
-                rows.append(row)
-                last_symbol = row[1]
+    print("resetting stocks_alphas.csv")
+    open(os.path.join(dir_name, output_file), 'w')
+#   print("Please delete Stock_Plus_Alphas.csv before proceeding so we can regenerate the file.")
+#   don't include header, instead create schema in sqlite3 before importing
+#   with open(os.path.join(dir_name, output_file), 'a') as csvfile:
+#        writer = csv.writer(csvfile, delimiter=',')
+#        header_row = ['theDate', 'symbol', 'return', 'beta', 'alpha']
+#        writer.writerow(header_row)
+with open(os.path.join(dir_name, spy_csv), 'rt') as csv_file:
+   reader = csv.reader(csv_file, delimiter=',')
+   rows = []
+   for row in reader:
+       rows.append(row) 
+   write_csv_with_alphas(rows) # write data for SPY symbol
+   print("wrote rows for {}".format(rows[0][1]))
+with open(os.path.join(dir_name, stocks_csv), 'rt') as csv_file:
+    reader = csv.reader(csv_file, delimiter=',')
+    rows = []
+    last_symbol = ''
+    for row in reader:
+        if (last_symbol != row[1]): # We have reached a new stock symbol
+            if len(rows) != 0:
+                write_csv_with_alphas(rows)
+                print("wrote rows for {}".format(last_symbol))
+                rows = []
+        rows.append(row)
+        last_symbol = row[1]
+    if len(rows) != 0:
+        write_csv_with_alphas(rows) # Write rows for last stock symbol
+        print("wrote rows for {}".format(last_symbol))
 
 """
 verify our output file has been created

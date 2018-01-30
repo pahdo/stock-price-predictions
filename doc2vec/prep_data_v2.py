@@ -24,15 +24,16 @@ def main():
     """https://github.com/explosion/spacy/issues/172#issuecomment-183963403
     """
     gen1, gen2 = itertools.tee(utils_v2.load_texts(source_dir, split='all', yield_paths=True))
+    #print("debug {}".format(next(gen1)))
+    print(len(next(gen1)))
     texts = (text for (text, file_path) in gen1)
     file_paths = (file_path for (text, file_path) in gen2)
-    #print(texts.__next__())
-    #print(file_paths.__next__())
+    #print("debug: {}".format(next(texts)))
 
     """https://spacy.io/usage/processing-pipelines#section-multithreading
     """
     for doc in nlp.pipe(texts, batch_size=1000, n_threads=8): # yields Doc objects in order
-        output_file = file_paths.__next__().replace(source_dir, output_dir)
+        output_file = next(file_paths).replace(source_dir, output_dir)
         print(output_file)
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
         with open(output_file, 'w') as t:
