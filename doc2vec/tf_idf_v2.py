@@ -34,7 +34,7 @@ def main():
     gen = utils_v2.load_data(data_dir, split='all') 
     corpus, labels = split_gen(gen)
     corpus = [doc for doc in corpus]
-    print("corpus len={}".format(len(corpus))
+    print("corpus len={}".format(len(corpus)))
 #    for item in corpus:
 #        print(item[:10])
 #   for label_type in labels:
