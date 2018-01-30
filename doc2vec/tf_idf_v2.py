@@ -26,6 +26,9 @@ from itertools import tee
 def split_gen(gen):
     gen_a, gen_b = tee(gen, 2)
     return (a for a, b in gen_a), (b for a, b in gen_b)
+def split_gen_6(gen):
+    gen_a, gen_b, gen_c, gen_d, gen_e, gen_f = tee(gen, 6)
+    return (a for a, b, c, d, e, f in gen_a), (b for a, b, c, d, e, f in gen_b), (c for a, b, c, d, e, f in gen_c), (d for a, b, c, d, e, f in gen_d), (e for a, b, c, d, e, f in gen_e), (f for a, b, c, d, e, f in gen_f)
 def main():
     print('process starting...')
     gen = utils_v2.load_data(data_dir, split='all') 
@@ -35,7 +38,7 @@ def main():
 #   for label_type in labels:
 #        for label in label_type:
 #            print(label)
-    labels = labels[1] # baseline classifier
+    baseline, alpha1, alpha2, alpha3, alpha, alpha5 = split_gen_6(labels)
     pipe = Pipeline([('tfidf', TfidfVectorizer), ('nmf', NMF), ('clf', SVC)])
     """https://nlp.stanford.edu/IR-book/html/htmledition/sublinear-tf-scaling-1.html
     """
@@ -51,7 +54,7 @@ def main():
     """https://stackoverflow.com/questions/46732748/how-do-i-use-a-timeseriessplit-with-a-gridsearchcv-object-to-tune-a-model-in-sci
     """
     grid_search = GridSearchCV(pipe, param_grid=param_grid, cv=ts_cv)
-    grid_search.fit(corpus, labels) 
+    grid_search.fit(corpus, alpha1) 
 
     # from sklearn import metrics
 
