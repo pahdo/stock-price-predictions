@@ -1,5 +1,6 @@
 import pickle
 import os
+import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.pipeline import Pipeline
 from sklearn.decomposition import NMF
@@ -43,21 +44,25 @@ def main():
     baseline, alpha1, alpha2, alpha3, alpha, alpha5 = split_gen_6(labels)
     alpha1 = [label for label in alpha1]
     print("alpha1 len={}".format(len(alpha1)))
-    pipe = Pipeline([('tfidf', TfidfVectorizer), ('nmf', NMF), ('clf', SVC)])
+# TODO: Feature union - create transformer obj. for baseline
+    estimators = [('tfidf', TfidfVectorizer(sublinear_tf=True)), NMF(n_components=100), ('clf', SVC())]
+    pipe = Pipeline(estimators)
     """https://nlp.stanford.edu/IR-book/html/htmledition/sublinear-tf-scaling-1.html
     """
-    param_grid = dict(vectorizer=[TfidfVectorizer(sublinear_tf=True)],
-                      reduce_dim=[NMF(n_components=50), NMF(n_components=100), NMF(n_components=200)],
-                      clf=[SVC(C=0.1), SVC(C=10), SVC(C=100),
-                           LogisticRegression(C=0.1), LogisticRegression(C=10), LogisticRegression(C=100), 
-                           MultinomialNB(), 
-                           XGBClassifier()])
+    # param_grid = dict(vectorizer=[('tfidf', TfidfVectorizer(sublinear_tf=True)],
+    #                   reduce_dim=[NMF(n_components=50), NMF(n_components=100), NMF(n_components=200)],
+    #                   clf=[SVC(C=0.1), SVC(C=10), SVC(C=100),
+    #                        LogisticRegression(C=0.1), LogisticRegression(C=10), LogisticRegression(C=100), 
+    #                        MultinomialNB(), 
+    #                        XGBClassifier()])
     """https://stats.stackexchange.com/questions/14099/using-k-fold-cross-validation-for-time-series-model-selection
     """
     ts_cv = TimeSeriesSplit(n_splits=2).split(corpus)
     """https://stackoverflow.com/questions/46732748/how-do-i-use-a-timeseriessplit-with-a-gridsearchcv-object-to-tune-a-model-in-sci
     """
-    grid_search = GridSearchCV(pipe, param_grid=param_grid, cv=ts_cv)
+    #grid_search = GridSearchCV(pipe, param_grid=param_grid, cv=ts_cv)
+    Cs = np.logspace(-6, -1, 10)
+    grid_search = GridSearchCV(pipe, param_grid=dict(C=Cs), cv=ts_cv)
     grid_search.fit(corpus, alpha1) 
 
     # from sklearn import metrics
