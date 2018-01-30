@@ -32,13 +32,17 @@ def split_gen_6(gen):
 def main():
     print('process starting...')
     gen = utils_v2.load_data(data_dir, split='all') 
-    corpus, labels = split_gen(gen) 
+    corpus, labels = split_gen(gen)
+    corpus = [doc for doc in corpus]
+    print("corpus len={}".format(len(corpus))
 #    for item in corpus:
 #        print(item[:10])
 #   for label_type in labels:
 #        for label in label_type:
 #            print(label)
     baseline, alpha1, alpha2, alpha3, alpha, alpha5 = split_gen_6(labels)
+    alpha1 = [label for label in alpha1]
+    print("alpha1 len={}".format(len(alpha1)))
     pipe = Pipeline([('tfidf', TfidfVectorizer), ('nmf', NMF), ('clf', SVC)])
     """https://nlp.stanford.edu/IR-book/html/htmledition/sublinear-tf-scaling-1.html
     """
