@@ -99,96 +99,95 @@ def load_data(directory, split=['all', 'train', 'test'], yield_paths=False, yiel
         if cik in cik_dict:
             # TODO: Query for SPY only once. 
             # Challenge: How to set date range? And then how to find index of date (start date) in spy_returns?
-            # default parameter for horizon = 12
-            spy_returns = get_returns(conn, 'SPY', filing_date, 12)
+            # default parameter for horizon = 20
+            spy_returns = get_returns(conn, 'SPY', filing_date, 20)
             if spy_returns is None or len(spy_returns) == 0:
-                #print("no spy_returns for {} {}".format(cik_dict[cik], filing_date))
+                # fail silently
+                # print("no spy_returns for {} {}".format(cik_dict[cik], filing_date))
                 continue
             price_history, alpha1, alpha2, alpha3, alpha4, alpha5 = get_labels(conn, cik_dict[cik], filing_date, spy_returns)
-    #        print("{} {} labels: {} {} {} {} {} {}".format(cik_dict[cik], filing_date, price_history, alpha1, alpha2, alpha3, alpha4, alpha5))
             if price_history is None or len(price_history) != 5 or alpha1 is None or alpha2 is None or alpha3 is None or alpha4 is None or alpha5 is None:
                 continue
             with open(txt, 'r') as t:
                 yield [t.read(), [price_history, alpha1, alpha2, alpha3, alpha4, alpha5]]
-#                yield [t.read(), [alpha2]]
 
-"""horizon: 3 day buffer for weekends + 8 from date subtract + 1 + 5 for alpha i = 5 + 3(because upper bound is exclusive)
-"""
 def get_labels(conn, symbol, date, spy_returns, horizon=20, normalized=True):
-#    if not normalized:
-#        print("get_labels: unnormalized is not supported")
-#        return None, None, None, None, None, None 
+    """get_labels
+    args:
+        conn: sqlite3 connection
+        symbol: stock ticker symbol
+        date: datetime.date object - filing date
+        horizon: number of days from filing date + START_DATE_OFFSET to query returns for
+                 defaults to 20. 3 day buffer for weekends + 8 from date subtract 
+                 + 5 for alpha i = 5 + 3 day buffer for weekends + 1 (because upper bound is exclusive)
+        normalized: defaults to True. false unsupported.
+    returns:
+        a tuple ([price history], alpha1, alpha2, alpha3, alpha4, alpha5)
+    """
+    if not normalized:
+        print("get_labels: unnormalized is not supported")
+        return None, None, None, None, None, None 
 
     stock_returns = get_returns(conn, symbol, date, horizon)
     if len(stock_returns) == 0:
-#        print("get_labels: get_returns query returned nothing for ticker")
+        # fail silently
+        # print("get_labels: get_returns query returned nothing for ticker")
         return None, None, None, None, None, None
-#    print("get_labels: get_returned query returned something for ticker :)")
 
     to_return = [get_price_history(date, stock_returns, spy_returns)]
     for i in range(1, 6):
         to_return.append(get_alpha_i(date, stock_returns, spy_returns, i))
     return tuple(to_return)
 
-"""get returns
-args:
-    conn
-    symbol
-    date
-    horizon
-returns:
-    a map of date objects to lists [date (date obj.), symbol (string), return (float), beta (float)]
-"""
 def get_returns(conn, symbol, date, horizon):
-    # date_add: 
-    # 3 day buffer for weekends + 5 day for baseline price history features
-    # = 8 days. We do this to include enough data for a future call to
-    # get_price_history with days=5
+    """get_returns
+    args:
+        conn: sqlite3 connection
+        symbol: stock ticker symbol
+        date: datetime.date object - filing date
+        horizon: number of days from filing date + START_DATE_OFFSET to query returns for
+    returns:
+        a map of datetime.date to [(datetime.date), symbol (string), return (float), beta (float)]
+    """
+    START_DATE_OFFSET = -8 # 3 day buffer for weeks + 5 days for baseline price history features
     c = conn.cursor()
-    # BELOW: test for db connection
-    #for row in c.execute("SELECT * FROM stocks LIMIT 20"):
-    #    print(row)
-    start_date = date_add(date, -8)#.strftime('%Y-%m-%d')
+    start_date = date_add(date, START_DATE_OFFSET)
     assert date != start_date
     stock_returns = {}
-#    print("executing query with {} {} {} {}".format(symbol, start_date, start_date, '+{} day'.format(horizon)))
     for row in c.execute("SELECT theDate, symbol, return, beta \
         FROM stocks WHERE symbol=? \
         AND theDate >= ? \
-        AND theDate < date(?, ?);", 
+        AND theDate < date(?, ?);",
         [symbol, start_date, start_date, '+{} day'.format(horizon)]):
-#    for row in c.execute("SELECT * \
-#        FROM stocks WHERE symbol=?", [symbol]):
         new_row = []
         new_row.append(date_add(row[0], 0))
         new_row.append(row[1])
         new_row.append(float(row[2]))
         new_row.append(float(row[3]))
         stock_returns[new_row[0]] = new_row # date addition 
-#    print("get_returns: stock_returns for {} {} is {}".format(symbol, date, stock_returns))
     return stock_returns
 
 def get_price_history(filing_date, stock_returns, spy_returns, days=5):
     NUM_DAYS_FOR_BUFFER = 3 # to account for non-trading days
-                                # suppose days = 5, we want 5 trading days
-                                # so suppose there was a national holiday
-                                # and a 2-day weekend between our 5 trading
-                                # days, we would want a buffer of 3 to
-                                # account for that
+                            # suppose days = 5, we want 5 trading days
+                            # so suppose there was a national holiday
+                            # and a 2-day weekend between our 5 trading
+                            # days, we would want a buffer of 3 to
+                            # account for that
     """assume the sec form is filed on a trading day
     """
     if filing_date not in stock_returns:
-        print("get_price_history: filing date not in stock_returns map")
+        # fail silently
+        # print("get_price_history: filing date not in stock_returns map")
         return 
     beta = stock_returns[filing_date][3]
-    # build price history backwards from the filing date
+    # builds price history backwards from the filing date
     # the order doesn't matter; it's just 5 baseline features 
     current_date = date_add(filing_date, -1)
     assert current_date != filing_date
     end = date_add(filing_date, -1 * (days + NUM_DAYS_FOR_BUFFER))
     assert end != filing_date
     assert current_date != end
-    #print("get_price_history: filing_date={} current_date={} end={}".format(filing_date, current_date, end))
     days_counter = 0
     price_history = []
     while current_date != end and days_counter != days: 
@@ -197,8 +196,7 @@ def get_price_history(filing_date, stock_returns, spy_returns, days=5):
                 stock_return = stock_returns[current_date][2]
                 spy_return = spy_returns[current_date][2]
                 normalized_return = stock_return - beta * spy_return
-                #print("appending {} to price_history for current_date={} symbol={}".format(normalized_return, current_date, stock_returns[current_date][1]))
-                price_history.append(stock_return - beta * spy_return)
+                price_history.append(normalized_return)
                 days_counter += 1
             else:
                 print("get_price_history: missing value in stock_returns")
@@ -211,22 +209,13 @@ def get_price_history(filing_date, stock_returns, spy_returns, days=5):
         pass
         #print("get_price_history: ended because days_counter == days")
     if len(price_history) != days:
-        print("get_price_history: missing price history values len(price_history)={} days={}".format(len(price_history), days))
+        # fail silently
+        # print("get_price_history: missing price history values len(price_history)={} days={}".format(len(price_history), days))
         return
     return price_history
+
 def get_alpha_i(filing_date, stock_returns, spy_returns, i):
-        # TODO: Consider when an sec form is filed on a day when the market is NOT open
-#        filing_date = None # or day 1, the day the Form 10-K was filed by the SEC (business hours)
-#        while filing_date is None:
-#            if ( 
-#        for i in range(len(stock_returns)):
-#            if datetime.datetime.strptime(stock_returns[i][0], '%Y-%m-%d') >= datetime.datetime.strptime(date, '%Y-%m-%d'):
-#                middle_idx = i # search for "middle_idx" or day 1, the day the Form 10-K is filed
-#                break
-#        if middle_idx < 5:
-#            raise Exception("invalid because not enough price history") # invalid because not enough price history
-#        if len(stock_returns) - middle_idx < 5:
-#            raise Exception("invalid because not enough future price data") # invalid because not enough future price data
+    # TODO: Consider when an sec form is filed on a day when the market is NOT open
     """assume the sec form is filed on a day when the market is open
     """
     if filing_date not in stock_returns:
@@ -253,13 +242,6 @@ def get_alpha_i(filing_date, stock_returns, spy_returns, i):
         print("get_alpha_i: days_counter={} != i={}".format(days_counter, i))
         return None
     return (cum_stock_return - 1) - beta * (cum_spy_return - 1)
-
-#        price_history = np.subtract(stock_returns[middle_idx-5, middle_idx], spy_returns[middle_idx-5, middle_idx])
-#        alpha1 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+1]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+1]])
-#        alpha2 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+2]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+2]])
-#        alpha3 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+3]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+3]])
-#        alpha4 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+4]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+4]])
-#        alpha5 = np.product([1 + ret for ret in stock_returns[middle_idx, middle_idx+5]]) - beta * np.product([1 + ret for ret in spy_returns[middle_idx, middle_idx+5]])
 
 def build_cik_dict():
     """Parses cikTicker.txt file into a dictionary.

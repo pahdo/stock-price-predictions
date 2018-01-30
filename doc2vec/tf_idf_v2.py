@@ -50,7 +50,7 @@ def main():
     """https://stackoverflow.com/questions/46732748/how-do-i-use-a-timeseriessplit-with-a-gridsearchcv-object-to-tune-a-model-in-sci
     """
     grid_search = GridSearchCV(pipe, param_grid=param_grid, cv=ts_cv)
-    grid_search.fit(corpus, labels) 
+    #grid_search.fit(corpus, labels) 
     #grid_search.fit(corpus, )
 
     # from sklearn import metrics
