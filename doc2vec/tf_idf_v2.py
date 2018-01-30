@@ -32,9 +32,10 @@ def main():
     corpus, labels = split_gen(gen) 
 #    for item in corpus:
 #        print(item[:10])
-    for label_type in labels:
-        for label in label_type:
-            print(label)
+#   for label_type in labels:
+#        for label in label_type:
+#            print(label)
+    labels = labels[1] # baseline classifier
     pipe = Pipeline([('tfidf', TfidfVectorizer), ('nmf', NMF), ('clf', SVC)])
     """https://nlp.stanford.edu/IR-book/html/htmledition/sublinear-tf-scaling-1.html
     """
@@ -50,8 +51,7 @@ def main():
     """https://stackoverflow.com/questions/46732748/how-do-i-use-a-timeseriessplit-with-a-gridsearchcv-object-to-tune-a-model-in-sci
     """
     grid_search = GridSearchCV(pipe, param_grid=param_grid, cv=ts_cv)
-    #grid_search.fit(corpus, labels) 
-    #grid_search.fit(corpus, )
+    grid_search.fit(corpus, labels) 
 
     # from sklearn import metrics
 
