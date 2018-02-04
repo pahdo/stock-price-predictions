@@ -45,7 +45,7 @@ def main():
     alpha1 = [label for label in alpha1]
     print("alpha1 len={}".format(len(alpha1)))
 # TODO: Feature union - create transformer obj. for baseline
-    estimators = [('tfidf', TfidfVectorizer(sublinear_tf=True)), NMF(n_components=100), ('clf', SVC())]
+    estimators = [('tfidf', TfidfVectorizer(sublinear_tf=True)), ('nmf', NMF(n_components=100)), ('clf', SVC())]
     pipe = Pipeline(estimators)
     """https://nlp.stanford.edu/IR-book/html/htmledition/sublinear-tf-scaling-1.html
     """
