@@ -13,6 +13,18 @@ db_path = os.path.join('..', 'data', 'database', 'stocks.db')
 
 ###########################
 
+def load_texts(directory, split=['all', 'train', 'test'], yield_paths=False, yield_labels=False):
+    regex = build_regex(directory, split)
+    file_paths = glob.iglob(regex, recursive=True)
+    if yield_paths:
+        for file_path in file_paths:
+            with open(file_path, 'r') as t:
+                yield (t.read(), file_path) # file_path is a full path
+    else:
+        for file_path in file_paths:
+            with open(file_path, 'r') as t:
+                yield (t.read())
+
 def load_data(directory, split, train_quarters, test_quarters):
     """generator function for dataset. streams sec forms, stock price history, and normalized returns.
     args:
