@@ -72,7 +72,7 @@ def bin_alpha(a):
         return 0
 
 def main():
-    gen = utils_v2.load_data(data_dir, split='all') 
+    gen = utils_v2.load_data(data_dir, 'all', train_quarters, test_quarters) 
     corpus, labels = split_gen(gen)
     corpus, price_history = split_gen(corpus)
     alpha1, alpha2, alpha3, alpha, alpha5 = split_gen_5(labels)
