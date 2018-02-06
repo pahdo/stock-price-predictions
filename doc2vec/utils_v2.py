@@ -13,7 +13,7 @@ db_path = os.path.join('..', 'data', 'database', 'stocks.db')
 
 ###########################
 
-def load_data(directory, split=['all', 'train', 'test'], train_quarters, test_quarters):
+def load_data(directory, split, train_quarters, test_quarters):
     """generator function for dataset. streams sec forms, stock price history, and normalized returns.
     args:
         directory d: ../data/ d /2004/QTR2/
