@@ -1,3 +1,4 @@
+from itertools import tee
 import pickle
 import os
 import numpy as np
@@ -23,13 +24,23 @@ output_dir = '10-X_C_clean'
 
 """https://stackoverflow.com/questions/28030095/how-to-split-a-python-generator-of-tuples-into-2-separate-generators
 """
-from itertools import tee
 def split_gen(gen):
     gen_a, gen_b = tee(gen, 2)
     return (a for a, b in gen_a), (b for a, b in gen_b)
+
 def split_gen_6(gen):
     gen_a, gen_b, gen_c, gen_d, gen_e, gen_f = tee(gen, 6)
     return (a for a, b, c, d, e, f in gen_a), (b for a, b, c, d, e, f in gen_b), (c for a, b, c, d, e, f in gen_c), (d for a, b, c, d, e, f in gen_d), (e for a, b, c, d, e, f in gen_e), (f for a, b, c, d, e, f in gen_f)
+
+def bin_alpha(a):
+    threshold = 0.01
+    if a < -1 * threshold:
+        return -1
+    elif a > threshold:
+        return 1
+    else:
+        return 0
+
 def main():
     print('process starting...')
     gen = utils_v2.load_data(data_dir, split='all') 
@@ -43,9 +54,17 @@ def main():
 #            print(label)
     baseline, alpha1, alpha2, alpha3, alpha, alpha5 = split_gen_6(labels)
     alpha1 = [label for label in alpha1]
-    print("alpha1 len={}".format(len(alpha1)))
+    labels1 = list(map(bin_alpha, alpha1))
+    print(labels1)
+    print("labels1 len={}".format(len(labels1)))
+    baseline = list(baseline)
+    for item in baseline:
+        assert len(item) == 5
+    corpus = list(corpus)
+    print(baseline)
+    print(len(baseline))
 # TODO: Feature union - create transformer obj. for baseline
-    estimators = [('tfidf', TfidfVectorizer(sublinear_tf=True)), ('nmf', NMF(n_components=100)), ('clf', SVC())]
+    estimators = [('tfidf', TfidfVectorizer(sublinear_tf=True)), ('nmf', NMF(n_components=25)), ('clf', SVC())]
     pipe = Pipeline(estimators)
     """https://nlp.stanford.edu/IR-book/html/htmledition/sublinear-tf-scaling-1.html
     """
@@ -61,9 +80,24 @@ def main():
     """https://stackoverflow.com/questions/46732748/how-do-i-use-a-timeseriessplit-with-a-gridsearchcv-object-to-tune-a-model-in-sci
     """
     #grid_search = GridSearchCV(pipe, param_grid=param_grid, cv=ts_cv)
+    estimators = [('clf', SVC())]
+    pipe = Pipeline(estimators)
     Cs = np.logspace(-6, -1, 10)
-    grid_search = GridSearchCV(pipe, param_grid=dict(C=Cs), cv=ts_cv)
-    grid_search.fit(corpus, alpha1) 
+    grid_search = GridSearchCV(pipe, param_grid=dict(clf__C=Cs), cv=ts_cv)
+    grid_search.fit(baseline, labels1) 
+    print(grid_search.grid_scores_)
+    print(grid_search.best_params_)
+    print(grid_search.best_score_)
+
+    Cs = np.logspace(-6, -1, 10)
+    grid_search = GridSearchCV(pipe, param_grid=dict(clf__C=Cs), cv=ts_cv)
+    grid_search.fit(corpus, labels1) 
+    pickle_path = 'gridsearch_tfidf_v2.pkl'
+    print(grid_search.grid_scores_)
+    print(grid_search.best_params_)
+    print(grid_search.best_score_)
+#    with open(pickle_path, 'wb') as f:
+#        pickle.dump(grid_search, f, protocol=pickle.HIGHEST_PROTOCOL)
 
     # from sklearn import metrics
 
