@@ -5,50 +5,57 @@ import re
 import numpy as np
 import sqlite3
 
+
 ###### CONFIGURATION ######
 
-train_quarters = ['2005/QTR1']
-"""
-train_quarters = [
-    '2005/QTR1', '2005/QTR2', '2005/QTR3', '2005/QTR4',
-    '2004/QTR1', '2004/QTR2', '2004/QTR3', '2004/QTR4',
-    '2003/QTR1', '2003/QTR2', '2003/QTR3', '2003/QTR4',
-    '2002/QTR1', '2002/QTR2', '2002/QTR3', '2002/QTR4',
-    '2001/QTR1', '2001/QTR2', '2001/QTR3', '2001/QTR4',
-    '2000/QTR1', '2000/QTR2', '2000/QTR3', '2000/QTR4',
-    '1999/QTR1', '1999/QTR2', '1999/QTR3', '1999/QTR4',
-    '1998/QTR1', '1998/QTR2', '1998/QTR3', '1998/QTR4',
-    '1997/QTR1', '1997/QTR2', '1997/QTR3', '1997/QTR4',
-    '1996/QTR1', '1996/QTR2', '1996/QTR3', '1996/QTR4',
-    '1995/QTR1', '1995/QTR2', '1995/QTR3', '1995/QTR4',
-    '1994/QTR1', '1994/QTR2', '1994/QTR3', '1994/QTR4',
-    '2009/QTR1', '2009/QTR2', '2009/QTR3', '2009/QTR4',
-    '2008/QTR1', '2008/QTR2', '2008/QTR3', '2008/QTR4',
-    '2007/QTR1', '2007/QTR2', '2007/QTR3', '2007/QTR4',
-    '2006/QTR1', '2006/QTR2', '2006/QTR3', '2006/QTR4']
-"""
-test_quarters = [
-    '2013/QTR2', '2013/QTR3', '2013/QTR4',
-    '2012/QTR1', '2012/QTR2', '2012/QTR3', '2012/QTR4',
-    '2011/QTR1', '2011/QTR2', '2011/QTR3', '2011/QTR4',
-    '2010/QTR1', '2010/QTR2', '2010/QTR3', '2010/QTR4']
 cik_ticker_path = os.path.join('..', 'data', 'csv', 'cikTicker.txt')
 db_path = os.path.join('..', 'data', 'database', 'stocks.db')
 
 ###########################
-"""
-def load_texts(directory, split=['all', 'train', 'test'], yield_paths=False, yield_labels=False):
-    regex = build_regex(directory, split)
+
+def load_data(directory, split=['all', 'train', 'test'], train_quarters, test_quarters):
+    """generator function for dataset. streams sec forms, stock price history, and normalized returns.
+    args:
+        directory d: ../data/ d /2004/QTR2/
+        split=['all', 'train', 'test']: all - streams all data
+                                        train - streams train data only
+                                        test - streams test data only
+    returns:
+        [[text document (string), price history (array of floats)], [alpha1, alpha2, alpha3, alpha4, alpha5 (float)]
+    """
+
+    regex = build_regex(directory, split) 
     file_paths = glob.iglob(regex, recursive=True)
-    if yield_paths:
-        for file_path in file_paths:
-            with open(file_path, 'r') as t:
-                yield (t.read(), file_path) # file_path is a full path
-    else:
-        for file_path in file_paths:
-            with open(file_path, 'r') as t:
-                yield (t.read())
-"""
+
+    if(not check_file(db_path)):
+         print("db_path {} does not exist.".format(db_path))
+         return
+    conn = sqlite3.connect(db_path)
+    if not verify_db(conn):
+         print("db contains too few rows.")
+         return 
+    cik_dict = build_cik_dict()
+    if cik_dict is None:
+        print("cik_dict failed")
+        return
+
+    for txt in file_paths:
+        cik, filing_date = parse_txt_name(txt)
+
+        if cik in cik_dict:
+            # TODO: Query for SPY only once. 
+            # Challenge: How to set date range? And then how to find index of date (start date) in spy_returns?
+            # default parameter for horizon = 20
+            spy_returns = get_returns(conn, 'SPY', filing_date, 20)
+            if spy_returns is None or len(spy_returns) == 0:
+                # fail silently
+                # print("no spy_returns for {} {}".format(cik_dict[cik], filing_date))
+                continue
+            price_history, alpha1, alpha2, alpha3, alpha4, alpha5 = get_labels(conn, cik_dict[cik], filing_date, spy_returns)
+            if price_history is None or len(price_history) != 5 or alpha1 is None or alpha2 is None or alpha3 is None or alpha4 is None or alpha5 is None:
+                continue
+            with open(txt, 'r') as t:
+                yield [t.read(), [price_history, alpha1, alpha2, alpha3, alpha4, alpha5]]
 
 def build_regex(directory, split=['all', 'train', 'test']):
     """assumes source directory structure: ../data/10-X_C/2004/QTR2/
@@ -73,43 +80,6 @@ def verify_db(conn):
         results.append(row)
     #print(results)
     return len(results) == 20
-    
-def load_data(directory, split=['all', 'train', 'test'], yield_paths=False, yield_labels=False):
-    regex = build_regex(directory, split) 
-    file_paths = glob.iglob(regex, recursive=True)
-
-    if(not check_file(db_path)):
-         print("db_path {} does not exist.".format(db_path))
-         return
-    conn = sqlite3.connect(db_path)
-    if not verify_db(conn):
-         print("db contains too few rows.")
-         return 
-
-    cik_dict = build_cik_dict()
-    if cik_dict is None:
-        print("cik_dict failed")
-        return
-
-    for txt in file_paths:
-        cik, filing_date = parse_txt_name(txt)
-        # TODO: put filing_date conversion from string to date obj into parse_txt_name
-        filing_date = datetime.datetime.strptime(filing_date, '%Y-%m-%d') 
-
-        if cik in cik_dict:
-            # TODO: Query for SPY only once. 
-            # Challenge: How to set date range? And then how to find index of date (start date) in spy_returns?
-            # default parameter for horizon = 20
-            spy_returns = get_returns(conn, 'SPY', filing_date, 20)
-            if spy_returns is None or len(spy_returns) == 0:
-                # fail silently
-                # print("no spy_returns for {} {}".format(cik_dict[cik], filing_date))
-                continue
-            price_history, alpha1, alpha2, alpha3, alpha4, alpha5 = get_labels(conn, cik_dict[cik], filing_date, spy_returns)
-            if price_history is None or len(price_history) != 5 or alpha1 is None or alpha2 is None or alpha3 is None or alpha4 is None or alpha5 is None:
-                continue
-            with open(txt, 'r') as t:
-                yield [t.read(), [price_history, alpha1, alpha2, alpha3, alpha4, alpha5]]
 
 def get_labels(conn, symbol, date, spy_returns, horizon=20, normalized=True):
     """get_labels
@@ -245,8 +215,7 @@ def get_alpha_i(filing_date, stock_returns, spy_returns, i):
 
 def build_cik_dict():
     """Parses cikTicker.txt file into a dictionary.
-
-    Returns:
+    returns:
         Dictionary object if cikTicker.txt is valid. None otherwise.
     """
     if check_file(cik_ticker_path):
@@ -264,8 +233,9 @@ def build_cik_dict():
 
 def check_file(filename):
     """Check presence of a file.
-
-    Returns:
+    args:
+        filename: path of file to check
+    returns:
         bool: True for file exists and has size greater than 0. False otherwise.
     """
     try:
@@ -276,9 +246,13 @@ def check_file(filename):
     except OSError:
         return False
 
-"""date addition function. can take string or date object inputs. returns datetime.date object
-"""
 def date_add(date_str, delta):
+    """date addition function. 
+    args:
+        date_str: string or datetime.date object inputs. both are accepted.
+    returns:
+        datetime.date object representing date + delta
+    """
     if isinstance(date_str, str):
         date_obj = datetime.datetime.strptime(date_str, '%Y-%m-%d') + datetime.timedelta(days=delta)
     else: # i am already a date obj
@@ -286,6 +260,13 @@ def date_add(date_str, delta):
     return date_obj
 
 def parse_txt_name(txt):
+    """parses the path name of a sec form document into its cik and filing date.
+    args:
+        txt: path name of sec form
+    returns
+        cik: key that maps to stock ticker
+        date: the date when the sec form was filed (datetime.date obj)
+    """
     txt = os.path.basename(txt)
     pattern = "edgar_data_(.*?)_"
     m = re.search(pattern, txt)
@@ -296,4 +277,5 @@ def parse_txt_name(txt):
     if m:
         date = m.group(1)
     date = '{}-{}-{}'.format(date[0:4], date[4:6], date[6:])
+    date = datetime.datetime.strptime(date, '%Y-%m-%d') 
     return cik, date
