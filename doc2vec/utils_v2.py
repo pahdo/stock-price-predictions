@@ -24,7 +24,7 @@ def load_data(directory, split, train_quarters, test_quarters):
         [[text document (string), price history (array of floats)], [alpha1, alpha2, alpha3, alpha4, alpha5 (float)]
     """
 
-    regex = build_regex(directory, split) 
+    regex = build_regex(directory, split, train_quarters, test_quarters) 
     file_paths = glob.iglob(regex, recursive=True)
 
     if(not check_file(db_path)):
@@ -55,9 +55,9 @@ def load_data(directory, split, train_quarters, test_quarters):
             if price_history is None or len(price_history) != 5 or alpha1 is None or alpha2 is None or alpha3 is None or alpha4 is None or alpha5 is None:
                 continue
             with open(txt, 'r') as t:
-                yield [t.read(), [price_history, alpha1, alpha2, alpha3, alpha4, alpha5]]
+                yield [[t.read(), price_history], [alpha1, alpha2, alpha3, alpha4, alpha5]]
 
-def build_regex(directory, split=['all', 'train', 'test']):
+def build_regex(directory, split, train_quarters, test_quarters):
     """assumes source directory structure: ../data/10-X_C/2004/QTR2/
     """
     if split == 'all':

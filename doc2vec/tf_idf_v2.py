@@ -18,8 +18,7 @@ import utils_v2
 
 ###### CONFIGURATION ######
 
-train_quarters = ['2005/QTR1']
-"""
+#train_quarters = ['2005/QTR1', '2005/QTR2', '2005/QTR3', '2005/QTR4']
 train_quarters = [
     '2005/QTR1', '2005/QTR2', '2005/QTR3', '2005/QTR4',
     '2004/QTR1', '2004/QTR2', '2004/QTR3', '2004/QTR4',
@@ -37,7 +36,6 @@ train_quarters = [
     '2008/QTR1', '2008/QTR2', '2008/QTR3', '2008/QTR4',
     '2007/QTR1', '2007/QTR2', '2007/QTR3', '2007/QTR4',
     '2006/QTR1', '2006/QTR2', '2006/QTR3', '2006/QTR4']
-"""
 test_quarters = ['2013/QTR2']
 """
 test_quarters = [
@@ -60,7 +58,7 @@ def split_gen(gen):
 
 def split_gen_5(gen):
     gen_a, gen_b, gen_c, gen_d, gen_e = tee(gen, 5)
-    return (a for a, b, c, d, e, f in gen_a), (b for a, b, c, d, e, f in gen_b), (c for a, b, c, d, e, f in gen_c), (d for a, b, c, d, e, f in gen_d), (e for a, b, c, d, e, f in gen_e)
+    return (a for a, b, c, d, e in gen_a), (b for a, b, c, d, e in gen_b), (c for a, b, c, d, e in gen_c), (d for a, b, c, d, e in gen_d), (e for a, b, c, d, e in gen_e)
 
 def bin_alpha(a):
     threshold = 0.01
@@ -79,17 +77,19 @@ def main():
     corpus = [item for item in corpus]
     price_history = [item for item in price_history]
     alpha1 = [item for item in alpha1]
+    bins1 = [bin_alpha(item) for item in alpha1]
+    print("DATASET SIZE: {}".format(len(corpus)))
 
     estimators = [('clf', SVC())]
     Cs = np.logspace(-6, -1, 10)
-    run_experiment(estimators, Cs, price_history, alpha1)
+    run_experiment(estimators, Cs, price_history, bins1)
 
     estimators = [('tfidf', TfidfVectorizer(sublinear_tf=True)), ('nmf', NMF(n_components=25)), ('clf', SVC())]
     Cs = np.logspace(-6, -1, 10)
-    run_experiment(estimators, Cs, corpus, alpha1)
+    run_experiment(estimators, Cs, corpus, bins1)
 
 def run_experiment(estimators, param_dict, features, labels):
-    print('experiment starting with estimators={} param_dict={} features={} labels = {}...'.format(estimators, param_dict, features, labels))
+    print('experiment starting with estimators={} param_dict={} features={} labels = {}...'.format(estimators, param_dict, '...', '...'))
     # TODO: Feature union - create transformer obj. for baseline
     pipe = Pipeline(estimators)
     """https://nlp.stanford.edu/IR-book/html/htmledition/sublinear-tf-scaling-1.html
