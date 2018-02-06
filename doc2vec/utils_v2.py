@@ -69,7 +69,7 @@ def build_regex(directory, split, train_quarters, test_quarters):
     elif split == 'test':
         regex_part = '|'.join(test_quarters)
     regex = os.path.join('../data', directory, regex_part, '*.txt')
-    #print(regex)
+    print(regex)
     return regex
 
 def verify_db(conn):
