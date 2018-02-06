@@ -73,8 +73,8 @@ def bin_alpha(a):
 
 def main():
     gen = utils_v2.load_data(data_dir, 'all', train_quarters, test_quarters) 
-    corpus, labels = split_gen(gen)
-    corpus, price_history = split_gen(corpus)
+    features, labels = split_gen(gen)
+    corpus, price_history = split_gen(features)
     alpha1, alpha2, alpha3, alpha, alpha5 = split_gen_5(labels)
     corpus = [item for item in corpus]
     price_history = [item for item in price_history]
