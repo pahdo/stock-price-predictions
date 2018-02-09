@@ -13,8 +13,8 @@ db_path = os.path.join('..', 'data', 'database', 'stocks.db')
 
 ###########################
 
-def load_texts(directory, split=['all', 'train', 'test'], yield_paths=False, yield_labels=False):
-    regex = build_regex(directory, split)
+def load_texts(directory, split, train_quarters, test_quarters, yield_paths=False, yield_labels=False):
+    regex = build_regex(directory, split, train_quarters, test_quarters)
     file_paths = glob.iglob(regex, recursive=True)
     if yield_paths:
         for file_path in file_paths:

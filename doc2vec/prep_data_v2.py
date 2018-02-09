@@ -5,7 +5,23 @@ import spacy
 import utils_v2
 
 ###### CONFIGURATION ######
-
+train_quarters = [
+    '2005/QTR1', '2005/QTR2', '2005/QTR3', '2005/QTR4',
+    '2004/QTR1', '2004/QTR2', '2004/QTR3', '2004/QTR4',
+    '2003/QTR1', '2003/QTR2', '2003/QTR3', '2003/QTR4',
+    '2002/QTR1', '2002/QTR2', '2002/QTR3', '2002/QTR4',
+    '2001/QTR1', '2001/QTR2', '2001/QTR3', '2001/QTR4',
+    '2000/QTR1', '2000/QTR2', '2000/QTR3', '2000/QTR4',
+    '1999/QTR1', '1999/QTR2', '1999/QTR3', '1999/QTR4',
+    '1998/QTR1', '1998/QTR2', '1998/QTR3', '1998/QTR4',
+    '1997/QTR1', '1997/QTR2', '1997/QTR3', '1997/QTR4',
+    '1996/QTR1', '1996/QTR2', '1996/QTR3', '1996/QTR4',
+    '1995/QTR1', '1995/QTR2', '1995/QTR3', '1995/QTR4',
+    '1994/QTR1', '1994/QTR2', '1994/QTR3', '1994/QTR4',
+    '2009/QTR1', '2009/QTR2', '2009/QTR3', '2009/QTR4',
+    '2008/QTR1', '2008/QTR2', '2008/QTR3', '2008/QTR4',
+    '2007/QTR1', '2007/QTR2', '2007/QTR3', '2007/QTR4',
+    '2006/QTR1', '2006/QTR2', '2006/QTR3', '2006/QTR4']
 source_dir = '10-X_C'
 output_dir = '10-X_C_clean'
 
@@ -23,7 +39,7 @@ def main():
 
     """https://github.com/explosion/spacy/issues/172#issuecomment-183963403
     """
-    gen1, gen2 = itertools.tee(utils_v2.load_texts(source_dir, split='all', yield_paths=True))
+    gen1, gen2 = itertools.tee(utils_v2.load_texts(source_dir, 'all', train_quarters, [], yield_paths=True))
     #print("debug {}".format(next(gen1)))
     print(len(next(gen1)))
     texts = (text for (text, file_path) in gen1)
