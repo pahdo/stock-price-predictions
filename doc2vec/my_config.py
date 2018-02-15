@@ -36,5 +36,6 @@ test_quarters = [
     '2010/QTR1', '2010/QTR2', '2010/QTR3', '2010/QTR4']
 
 data_dir = '10-X_C_clean'
+cache_dir = 'tmp'  # cache directory for pipeline
 
 ###########################

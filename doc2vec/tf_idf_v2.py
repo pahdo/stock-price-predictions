@@ -1,8 +1,8 @@
-from itertools import tee
 import pickle
 import os
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.pipeline import FeatureUnion
 from sklearn.pipeline import Pipeline
 from sklearn.decomposition import NMF
 from sklearn.linear_model import LogisticRegression
@@ -13,27 +13,58 @@ from sklearn.metrics import roc_auc_score
 from sklearn.metrics import precision_recall_fscore_support
 from sklearn.model_selection import TimeSeriesSplit
 from xgboost import XGBClassifier
+import custom_transformers
+import my_config
 import utils_v2
 
 def main():
+    gen = utils_v2.load_data(my_config.data_dir, 'all', my_config.train_quarters, my_config.test_quarters) 
+    features, labels = utils_v2.split_gen(gen)
+    corpus, price_history = utils_v2.split_gen(features)
+    alpha1, alpha2, alpha3, alpha, alpha5 = utils_v2.split_gen_5(labels)
+
     corpus = [item for item in corpus]
     price_history = [item for item in price_history]
+    data = {}
+    data['corpus'] = corpus
+    data['price_history'] = price_history
     alpha1 = [item for item in alpha1]
-    bins1 = [bin_alpha(item) for item in alpha1]
+    bins1 = [utils_v2.bin_alpha(item) for item in alpha1]
     print("DATASET SIZE: {}".format(len(corpus)))
 
-    estimators = [('clf', SVC())]
-    Cs = np.logspace(-6, -1, 10)
-    run_experiment(estimators, Cs, price_history, bins1)
+    estimators = [
+        # Use feature union to combine linguistic features and price history features
+        ('union', FeatureUnion(
+            transformer_list=[
 
-    estimators = [('tfidf', TfidfVectorizer(sublinear_tf=True)), ('nmf', NMF(n_components=25)), ('clf', SVC())]
+                # Pipeline for pulling linguistic features from Form 10-Ks
+                ('linguistic', Pipeline([
+                    ('selector', custom_transformers.ItemSelector(key='corpus')),
+                    ('tfidf', TfidfVectorizer(sublinear_tf=True)), 
+                    ('nmf', NMF(n_components=25)),
+                ])),
+                # Price history features
+                ('price_history', Pipeline([
+                    ('selector', custom_transformers.ItemSelector(key='price_history')),
+                ])),
+                
+            ],
+            transformer_weights={
+                'linguistic': 1.0,
+                'price_history': 1.0
+            },
+        )),
+
+        # Use a SVC classifier on the combined features
+        ('clf', SVC(kernel='rbf')),
+    ]
     Cs = np.logspace(-6, -1, 10)
     run_experiment(estimators, Cs, corpus, bins1)
 
 def run_experiment(estimators, param_dict, features, labels):
     print('experiment starting with estimators={} param_dict={} features={} labels = {}...'.format(estimators, param_dict, '...', '...'))
     # TODO: Feature union - create transformer obj. for baseline
-    pipe = Pipeline(estimators)
+    pipe = Pipeline(memory=my_config.cache_dir, steps=estimators)
     """https://nlp.stanford.edu/IR-book/html/htmledition/sublinear-tf-scaling-1.html
     """
     # param_grid = dict(vectorizer=[('tfidf', TfidfVectorizer(sublinear_tf=True)],
@@ -48,6 +79,9 @@ def run_experiment(estimators, param_dict, features, labels):
     """https://stackoverflow.com/questions/46732748/how-do-i-use-a-timeseriessplit-with-a-gridsearchcv-object-to-tune-a-model-in-sci
     """
     #grid_search = GridSearchCV(pipe, param_grid=param_grid, cv=ts_cv)
+    """https://stackoverflow.com/questions/29504252/whats-the-use-of-transformer-weights-in-scikit-learn-pipeline
+    We know nothing a priori about the weighting of features, so set transformer_weights = 1.0
+    """
 
     grid_search = GridSearchCV(pipe, param_grid=dict(clf__C=param_dict), cv=ts_cv)
     grid_search.fit(features, labels) 
