@@ -13,7 +13,7 @@ db_path = os.path.join('..', 'data', 'database', 'stocks.db')
 
 ###########################
 
-def load_texts(directory, split, train_quarters, test_quarters, yield_paths=False, yield_labels=False):
+def load_texts(directory, split, train_quarters, test_quarters, yield_paths=False):
     regex = build_regex(directory, split, train_quarters, test_quarters)
     file_paths = glob.iglob(regex, recursive=True)
     if yield_paths:
@@ -25,7 +25,7 @@ def load_texts(directory, split, train_quarters, test_quarters, yield_paths=Fals
             with open(file_path, 'r') as t:
                 yield (t.read())
 
-def load_data(directory, split, train_quarters, test_quarters):
+def load_data(directory, split, train_quarters, test_quarters, yield_paths=False):
     """generator function for dataset. streams sec forms, stock price history, and normalized returns.
     args:
         directory d: ../data/ d /2004/QTR2/
@@ -67,7 +67,10 @@ def load_data(directory, split, train_quarters, test_quarters):
             if price_history is None or len(price_history) != 5 or alpha1 is None or alpha2 is None or alpha3 is None or alpha4 is None or alpha5 is None:
                 continue
             with open(txt, 'r') as t:
-                yield [[t.read(), price_history], [alpha1, alpha2, alpha3, alpha4, alpha5]]
+                if yield_paths:
+                    yield [[t.read(), price_history], [alpha1, alpha2, alpha3, alpha4, alpha5], txt]
+                else:
+                    yield [[t.read(), price_history], [alpha1, alpha2, alpha3, alpha4, alpha5]]
 
 def build_regex(directory, split, train_quarters, test_quarters):
     """assumes source directory structure: ../data/10-X_C/2004/QTR2/
@@ -291,3 +294,26 @@ def parse_txt_name(txt):
     date = '{}-{}-{}'.format(date[0:4], date[4:6], date[6:])
     date = datetime.datetime.strptime(date, '%Y-%m-%d') 
     return cik, date
+
+"""https://stackoverflow.com/questions/28030095/how-to-split-a-python-generator-of-tuples-into-2-separate-generators
+"""
+def split_gen(gen):
+    gen_a, gen_b = tee(gen, 2)
+    return (a for a, b in gen_a), (b for a, b in gen_b)
+
+def split_gen_3(gen):
+    gen_a, gen_b, gen_c = tee(gen, 3)
+    return (a for a, b, c in gen_a), (b for a, b, c in gen_b), (c for a, b, c in gen_c)
+
+def split_gen_5(gen):
+    gen_a, gen_b, gen_c, gen_d, gen_e = tee(gen, 5)
+    return (a for a, b, c, d, e in gen_a), (b for a, b, c, d, e in gen_b), (c for a, b, c, d, e in gen_c), (d for a, b, c, d, e in gen_d), (e for a, b, c, d, e in gen_e)
+
+def bin_alpha(a):
+    threshold = 0.01
+    if a < -1 * threshold:
+        return -1
+    elif a > threshold:
+        return 1
+    else:
+        return 0
