@@ -1,30 +1,55 @@
 from itertools import tee
 import datetime
+import formic
 import glob
 import os
 import re
+import time
 import numpy as np
 import sqlite3
 
 
 ###### CONFIGURATION ######
 
-cik_ticker_path = os.path.join('..', 'data', 'csv', 'cikTicker.txt')
-db_path = os.path.join('..', 'data', 'database', 'stocks.db')
+cik_ticker_path = os.path.join('data', 'csv', 'cikTicker.txt')
+db_path = os.path.join('data', 'database', 'stocks.db')
 
 ###########################
 
-def load_texts(directory, split, train_quarters, test_quarters, yield_paths=False):
+def load_texts(directory, split, train_quarters, test_quarters):
     regex = build_regex(directory, split, train_quarters, test_quarters)
+    
+    """https://stackoverflow.com/questions/4287162/python-iterators-what-does-iglobs-iterator-provide-over-globs-list
+    Like @J.F.Sebastian said, iglob speed/memory advantage over glob is hampered by os.listdir() (see this ): this means that they will both be slow over directories with lots of files. If you have that problem, check out formic. Example here. – Luca Invernizzi Aug 14 '12 at 19:09
+    https://pypi.python.org/pypi/formic
+    https://stackoverflow.com/questions/2186525/use-a-glob-to-find-files-recursively-in-python/10597254#10597254
+    """
+    """https://bitbucket.org/aviser/formic/issues/12/support-python-3
+    https://github.com/scottbelden/formic
+    formic python 3 support
+    """
+    """Total running time: 3.012176752090454 to perform glob + 10 read/writes (with spacy lemmatization)
+    """
+    fileset = formic.FileSet(include=regex)
+    for file_path in fileset.qualified_files():      
+        with open(file_path, 'r') as t:
+            text = t.read()
+            print("loaded {}".format(file_path))
+            yield (text, file_path) # file_path is a full path
+
+    """iglob takes a **ridiculous** amount of time to run
+    """
+    """
+    start = time.time()
     file_paths = glob.iglob(regex, recursive=True)
-    if yield_paths:
-        for file_path in file_paths:
-            with open(file_path, 'r') as t:
-                yield (t.read(), file_path) # file_path is a full path
-    else:
-        for file_path in file_paths:
-            with open(file_path, 'r') as t:
-                yield (t.read())
+    i = 0
+    for file_path in file_paths:
+        with open(file_path, 'r') as t:
+            yield (t.read(), file_path) # file_path is a full path
+            i += 1
+    end = time.time()
+    print("Total running time: {0}".format(end-start))
+    """
 
 def load_data(directory, split, train_quarters, test_quarters, yield_paths=False):
     """generator function for dataset. streams sec forms, stock price history, and normalized returns.
@@ -38,7 +63,11 @@ def load_data(directory, split, train_quarters, test_quarters, yield_paths=False
     """
 
     regex = build_regex(directory, split, train_quarters, test_quarters) 
+    fileset = formic.FileSet(include=regex)
+    file_paths =  fileset.qualified_files()
+    """ 
     file_paths = glob.iglob(regex, recursive=True)
+    """
 
     if(not check_file(db_path)):
          print("db_path {} does not exist.".format(db_path))
@@ -68,6 +97,7 @@ def load_data(directory, split, train_quarters, test_quarters, yield_paths=False
             if price_history is None or len(price_history) != 5 or alpha1 is None or alpha2 is None or alpha3 is None or alpha4 is None or alpha5 is None:
                 continue
             with open(txt, 'r') as t:
+                print("Loading data/labels for {}".format(txt))
                 if yield_paths:
                     yield [[t.read(), price_history], [alpha1, alpha2, alpha3, alpha4, alpha5], txt]
                 else:
@@ -84,7 +114,14 @@ def build_regex(directory, split, train_quarters, test_quarters):
         regex_part = '|'.join(train_quarters)
     elif split == 'test':
         regex_part = '|'.join(test_quarters)
+    
+    """
     regex = os.path.join('../data', directory, regex_part, '*.txt')
+    """
+    """formic does not support '..' in a glob (???)
+    """
+    regex = os.path.join('data', directory, regex_part, '*.txt')
+
     print(regex)
     return regex
 

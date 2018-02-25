@@ -1,7 +1,7 @@
 ###### CONFIGURATION - prep_data_v2.py ######
 
 train_quarters = [
-    '2009/QTR1']
+    '2017/QTR1']
 """
 train_quarters = [
     '2009/QTR1', '2009/QTR2', '2009/QTR3', '2009/QTR4',
@@ -29,11 +29,14 @@ dataset_dir = 'dataset'
 
 ###### CONFIGURATION - tf_idf_v2.py######
 
+test_quarters = []
+"""
 test_quarters = [
     '2013/QTR2', '2013/QTR3', '2013/QTR4',
     '2012/QTR1', '2012/QTR2', '2012/QTR3', '2012/QTR4',
     '2011/QTR1', '2011/QTR2', '2011/QTR3', '2011/QTR4',
     '2010/QTR1', '2010/QTR2', '2010/QTR3', '2010/QTR4']
+"""
 
 data_dir = '10-X_C_clean'
 cache_dir = 'tmp'  # cache directory for pipeline

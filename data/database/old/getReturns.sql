@@ -1,1 +1,0 @@
-SELECT * FROM stocks WHERE symbol='AAPL' and theDate > strftime('2017-06-01');

@@ -42,3 +42,50 @@ class ItemSelector(BaseEstimator, TransformerMixin):
     def transform(self, data_dict):
         return data_dict[self.key]
         
+class CustomDictVectorizer(BaseEstimator, TransformerMixin):
+    """ ItemSelector is not designed to handle data grouped by sample.  (e.g. a
+    list of dicts).  If your data is structured this way, consider a
+    transformer along the lines of `sklearn.feature_extraction.DictVectorizer`.
+    """
+
+    def __init__(self, key):
+        self.key = key
+
+    def fit(self, x, y=None):
+        return self
+
+    def transform(self, X):
+        """Transform feature->value dicts to array or sparse matrix.
+        Named features not encountered during fit or fit_transform will be
+        silently ignored.
+        Parameters
+        ----------
+        X : Mapping or iterable over Mappings, length = n_samples
+            Dict(s) or Mapping(s) from feature names (arbitrary Python
+            objects) to feature values (strings or convertible to dtype).
+        Returns
+        -------
+        Xa : {array, sparse matrix}
+            Feature vectors; always 2-d.
+        """
+        if self.key == 'corpus':
+            Xa = [''] * len(X) # 1-d array of strings
+            for i, x in enumerate(X):
+                assert isinstance(x, dict)
+                assert isinstance(x['corpus'], str)
+                Xa[i] = x['corpus']
+            Xa = np.array(Xa)
+        elif self.key == 'price_history':
+            Xa = np.zeros((len(X), 5)) # 2-d array of price histories
+            for i, x in enumerate(X):
+                for j, val in enumerate(x['price_history']):
+                    Xa[i][j] = val
+        return Xa
+
+class Doc2VecVectorizer(BaseEstimator, TransformerMixin):
+    def __init__(self, model_path):
+        self.model_path = model_path
+        self.model = 
+
+    def fit(self, x, y=None):
+        
