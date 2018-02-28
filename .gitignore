@@ -1,5 +1,4 @@
 .DS_Store
-data/*
 doc2vec/data/*
 doc2vec/tmp/*
 doc2vec/tfidf_embedded.pickle
