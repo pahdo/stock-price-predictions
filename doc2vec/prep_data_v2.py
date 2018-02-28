@@ -3,6 +3,7 @@ import time
 import os
 import spacy
 import my_config
+import my_diagnostics
 import utils_v2
 
 
@@ -12,7 +13,16 @@ def main():
     
     """NOTE TO SELF: next time you run this, you already ran preprocess_texts() on 2017/QTR1, so just run prepare_dataset
     ^^^ The above took 35000 seconds or 9 hours to run and used 52GB of ram with 140GB read and 400GB write
-    I also somehow went from 7238 files to 7001 files
+    I also somehow went from 7238 files to 7001 files -- preprocess texts
+    2017/QTR1
+    2.41GB -> 1.43GB
+    """
+    """Sped up running time with custom en_lemmatizer in pipeline:
+    Total running time: 22125.73112678528s = 6.1 hours -- preprocess texts
+    db_path data/database/stocks.db does not exist.
+    7734 items -> 7734 items
+    1.31GB -> 270.2MB
+    2017/QTR2
     """
 
     preprocess_texts()
@@ -29,7 +39,35 @@ def preprocess_texts():
     https://spacy.io/usage/linguistic-features#section-pos-tagging
     lemmatization occurs in the tagger
     """
-    nlp = spacy.load('en', disable=['parser', 'ner'])
+
+    # my_diagnostics.tracemalloc.start()
+
+    #nlp = spacy.load('en', disable=['parser', 'ner', 'tagger']) # tagger neural network memory error
+    """https://spacy.io/usage/models
+    spacy blank model
+    """
+    nlp = spacy.blank('en')
+
+    """https://github.com/explosion/spaCy/issues/1154
+    Lookup-based lemmatization
+    """
+    from spacy.lang.en.lemmatizer import LOOKUP
+    from spacy.lang.en.stop_words import STOP_WORDS
+    from spacy.tokens import Token
+
+    def en_lemmatizer(doc):
+        for token in doc:
+            """dict.get(key, default = None)
+            """
+            token.lemma_ = LOOKUP.get(token.lower_, u'oov')
+            if token in STOP_WORDS:
+                token.is_stop = True
+        return doc
+
+    """https://explosion.ai/blog/spacy-v2-pipelines-extensions
+    Custom pipelines in Spacy 2.0
+    """
+    nlp.add_pipe(en_lemmatizer, name='en_lemmatizer', last=True)
 
     """https://github.com/explosion/spacy/issues/172#issuecomment-183963403
     how to split generators
@@ -42,12 +80,16 @@ def preprocess_texts():
     """
     for doc in nlp.pipe(texts, batch_size=1000, n_threads=8): # yields Doc objects in order
         output_file = next(file_paths).replace(my_config.source_dir, my_config.output_dir)
-        print(output_file)
-        """TODO: You do this thousands of times, but maybe you should only do it once per directory
-        """
-        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        os.makedirs(os.path.dirname(output_file), exist_ok=True) # repeated calls take ~ 0.00029206275939941406 seconds each => 2.9 seconds per 10k docs
+
         with open(output_file, 'w') as t:
-            t.write(" ".join(list(map(lambda x: x.lemma_, filter(lambda token: token.is_alpha and not token.is_stop and not token.is_oov, doc)))))
+            t.write(" ".join(list(map(lambda x: x.lemma_, filter(lambda token: token.is_alpha and not token.is_stop and not token.lemma_ == u'oov', doc)))))
+
+            #snapshot = my_diagnostics.tracemalloc.take_snapshot()
+            #my_diagnostics.display_top(snapshot)
+
+        print("wrote {}".format(output_file))
+    
             
 def prepare_dataset():
     """ Prepares a nice dataset for analysis.
@@ -65,7 +107,7 @@ def prepare_dataset():
         for doc in corpus:
             output_file = next(file_paths).replace(my_config.source_dir, my_config.dataset_dir)
             os.makedirs(os.path.dirname(output_file), exist_ok=True)
-            with open(output_file, 'w') as t:
+            with open(output_file, 'w') as t: # Copy the file AGAIN because we should only put data with labels in dataset dir
                 t.write(doc)
             prices = next(price_history)
             data_index.write('{};{},{},{},{},{};{},{},{},{},{}\n'.format(output_file, prices[0], prices[1], prices[2], prices[3], prices[4], next(alpha1), next(alpha2), next(alpha3), next(alpha4), next(alpha5)))

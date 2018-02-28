@@ -1,3 +1,4 @@
+from gensim.models import Doc2Vec
 from sklearn.base import BaseEstimator, TransformerMixin
 import numpy as np
 
@@ -71,8 +72,6 @@ class CustomDictVectorizer(BaseEstimator, TransformerMixin):
         if self.key == 'corpus':
             Xa = [''] * len(X) # 1-d array of strings
             for i, x in enumerate(X):
-                assert isinstance(x, dict)
-                assert isinstance(x['corpus'], str)
                 Xa[i] = x['corpus']
             Xa = np.array(Xa)
         elif self.key == 'price_history':
@@ -83,9 +82,34 @@ class CustomDictVectorizer(BaseEstimator, TransformerMixin):
         return Xa
 
 class Doc2VecVectorizer(BaseEstimator, TransformerMixin):
-    def __init__(self, model_path):
-        self.model_path = model_path
-        self.model = 
+    def __init__(self):
+        """
+        args :
+            model_path : e.g., 'saved_doc2vec_models/Doc2Vec(dmm,d100,n5,w10,mc2,s0.001,t8)'
+        """
+        model_pth = 'saved_doc2vec_models/Doc2Vec(dmm,d100,n5,w10,mc2,s0.001,t8)' # TODO: Why can't I pass this in??
+        self.model = Doc2Vec.load(model_pth)
 
     def fit(self, x, y=None):
+        return self
+
+    def transform(self, X):
+        Xa = np.zeros((len(X), 100))
+        for i in range(np.shape(X)[0]):
+            Xa[i, :] = self.model.infer_vector(X[i])
+        return Xa
+        
+class DebugTransformer(BaseEstimator, TransformerMixin):
+    def __init__(self):
+        pass
+    
+    def fit(self, x, y=None):
+        return self
+
+    def transform(self, X):
+        print("mean of all X is {}".format(np.mean(X.flatten())))
+        print("std of all X is {}".format(np.std(X.flatten())))
+        print("column means of X is {}".format(np.mean(X, axis=0)))
+        print("column stds of X is {}".format(np.std(X, axis=0)))
+        return X
         

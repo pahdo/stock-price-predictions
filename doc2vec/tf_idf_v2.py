@@ -9,6 +9,7 @@ from sklearn.metrics import precision_recall_fscore_support
 from sklearn.model_selection import TimeSeriesSplit
 from sklearn.pipeline import Pipeline
 import my_config
+import my_estimators
 import utils_v2
 
 def read_dataset(label_horizon):
@@ -17,10 +18,19 @@ def read_dataset(label_horizon):
         label_horizon : 1, 2, 3, 4, 5 to decide between alpha1, alpha2, etc.
     """
     data_index_path = 'data/' + my_config.dataset_dir + '/train.txt'
-    with open(data_index_path, 'r') as data_index:
+    # TODO: fix my data_index_path
+    # with open(data_index_path, 'r') as data_index:
+    with open('data/' + my_config.dataset_dir + '/train_qtr1.txt', 'r') as data_index:
         for path_prices_labels in data_index.readlines():
             path, prices, labels = path_prices_labels.split(';')
             prices = prices.split(',')
+
+            """for detecting outliers
+            """
+            for p in prices:
+                if float(p) > 1.0 or float(p) < -1.0:
+                    print("string price: {}".format(p))
+
             labels = labels.split(',')
             with open(path, 'r') as t:
                 yield t.read(), [float(p) for p in prices], utils_v2.bin_alpha(float(labels[label_horizon]))
@@ -28,19 +38,24 @@ def read_dataset(label_horizon):
 def read_dataset_dictionary(label_horizon):
     dataset_gen = read_dataset(label_horizon)
     text, prices, labels = utils_v2.split_gen_3(dataset_gen)
+
     X = []
     for t in text:
         price_hist = np.array(next(prices))
         X.append({'corpus': t, 'price_history': price_hist})
+
     dataset_size = len(X)
     print("dataset_size = {}".format(dataset_size))
     dataset = {}
+
+    dataset['X'] = X
+
     """https://stackoverflow.com/questions/31995175/scikit-learn-cross-val-score-too-many-indices-for-array
     In sklearn cross-validation, labels must be (N,), not (N,1)
     """
     dataset['labels'] = np.array(list(labels))
     print("labels len = {}".format(len(dataset['labels'])))
-    dataset['X'] = X
+    
     return dataset
 
 def main():
@@ -53,8 +68,11 @@ def main():
     #                        MultinomialNB(), 
     #                        XGBClassifier()])
     #Cs = np.logspace(-6, -1, 10)
-    Cs = {}
-    run_experiment(estimators, Cs, dataset)
+    param_grid = my_estimators.param_grid_tfidf_nmf_prices_xgb
+    estimators = my_estimators.estimators_tfidf_nmf_prices_xgb
+    # param_grid = my_estimators.param_grid_prices_xgb
+    # estimators = my_estimators.estimators_prices_xgb
+    run_experiment(estimators, param_grid, dataset)
 
 def run_experiment(estimators, param_dict, dataset):
     print('experiment starting with estimators={} param_dict={}'.format(estimators, param_dict))
@@ -67,7 +85,7 @@ def run_experiment(estimators, param_dict, dataset):
     ts_cv = TimeSeriesSplit(n_splits=2).split(dataset['X'])
 
     #grid_search = GridSearchCV(pipe, param_grid=dict(clf__C=param_dict), cv=ts_cv)
-    grid_search = GridSearchCV(pipe, param_grid={}, cv=ts_cv)
+    grid_search = GridSearchCV(pipe, param_grid=param_dict, cv=ts_cv, n_jobs=8)
     print(len(dataset['X']))
     print(len(dataset['labels']))
     grid_search.fit(dataset['X'], dataset['labels']) 
@@ -75,40 +93,9 @@ def run_experiment(estimators, param_dict, dataset):
     print(grid_search.best_params_)
     print(grid_search.best_score_)
 
-#    pickle_path = 'gridsearch_tfidf_v2.pkl'
-#    with open(pickle_path, 'wb') as f:
-#        pickle.dump(grid_search, f, protocol=pickle.HIGHEST_PROTOCOL)
-
-    # from sklearn import metrics
-
-    # clfs = []
-    # param_test1 = {
-    #     'max_depth': range(3, 10, 2),
-    #     'min_child_weight': range(1, 6, 2)
-    # }
-    # import numpy as np
-    # for clf in clfs:
-    #     print(clf) 
-    #     gsearch1 = GridSearchCV(estimator = XGBClassifier(
-    #         learning_rate = 0.1,
-    #         n_estimators = 140,
-    #         silent = True,
-    #         objective = 'binary:logistic',
-    #         nthread = 4),
-    #                         param_grid = param_test1,
-    #                         scoring = 'roc_auc',
-    #                         n_jobs=4,
-    #                         iid=True,
-    #                         cv=5,
-    #                         refit = True
-    #                         )
-    #     gsearch1.fit(embedded, np.array([int(label) for label in labels]))
-    #     picklepath = 'xgbgridsearch_tfidf.pkl'
-    #     with open(picklepath, 'wb') as f:
-    #         pickle.dump(gsearch1, f, protocol=pickle.HIGHEST_PROTOCOL)
-    #     print(gsearch1.grid_scores_)
-    #     print(gsearch1.best_params_)
-    #     print(gsearch1.best_score_)
+    pickle_path = 'gridsearch_tfidf_v2.pkl'
+    with open(pickle_path, 'wb') as f:
+        pickle.dump(grid_search, f, protocol=pickle.HIGHEST_PROTOCOL)
 
 if __name__ == "__main__":
     main()
