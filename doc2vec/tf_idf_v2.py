@@ -1,5 +1,6 @@
 import pickle
 import os
+import time
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 from sklearn.naive_bayes import MultinomialNB
@@ -76,6 +77,7 @@ def main():
 
 def run_experiment(estimators, param_dict, dataset):
     print('experiment starting with estimators={} param_dict={}'.format(estimators, param_dict))
+    start = time.time()
     pipe = Pipeline(memory=my_config.cache_dir, steps=estimators)
 
     """https://stats.stackexchange.com/questions/14099/using-k-fold-cross-validation-for-time-series-model-selection
@@ -89,13 +91,14 @@ def run_experiment(estimators, param_dict, dataset):
     print(len(dataset['X']))
     print(len(dataset['labels']))
     grid_search.fit(dataset['X'], dataset['labels']) 
+    end = time.time()
+    print("Total running time: {}".format(end-start))
     print(grid_search.grid_scores_)
     print(grid_search.best_params_)
     print(grid_search.best_score_)
 
-    pickle_path = 'gridsearch_tfidf_v2.pkl'
-    with open(pickle_path, 'wb') as f:
-        pickle.dump(grid_search, f, protocol=pickle.HIGHEST_PROTOCOL)
+    from sklearn.externals import joblib
+    joblib.dump(grid_search.best_estimator_, 'tfidf_best_estimator.pkl', compress=1)
 
 if __name__ == "__main__":
     main()

@@ -121,6 +121,18 @@ param_grid_tfidf_nmf_prices_xgb = dict(
     union__linguistic__tfidf__sublinear_tf=[True],
     union__linguistic__nmf__n_components=np.array([100,200,300]),
 )
+"""
+param_grid_tfidf_nmf_prices_xgb = dict(
+    clf__max_depth=np.array([3]),
+    clf__min_child_weight=np.array([3]),
+    clf__subsample=np.array([0.5]),
+    clf__colsample_bytree=np.array([0.5]),
+    union__linguistic__tfidf__max_df=np.array([0.5]),
+    union__linguistic__tfidf__min_df=np.array([0.1]),
+    union__linguistic__tfidf__sublinear_tf=[True],
+    union__linguistic__nmf__n_components=np.array([100]),
+)
+"""
 
 estimators_doc2vec_prices_xgb = [
     # Use feature union to combine linguistic features and price history features

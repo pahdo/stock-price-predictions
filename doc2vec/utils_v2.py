@@ -20,7 +20,7 @@ def load_texts(directory, split, train_quarters, test_quarters):
     regex = build_regex(directory, split, train_quarters, test_quarters)
     
     """https://stackoverflow.com/questions/4287162/python-iterators-what-does-iglobs-iterator-provide-over-globs-list
-    Like @J.F.Sebastian said, iglob speed/memory advantage over glob is hampered by os.listdir() (see this ): this means that they will both be slow over directories with lots of files. If you have that problem, check out formic. Example here. – Luca Invernizzi Aug 14 '12 at 19:09
+    Like @J.F.Sebastian said, iglob speed/memory advantage over glob is hampered by os.listdir() (see this ): this means that they will both be slow over directories with lots of files. If you have that problem, check out formic. Example here.  Luca Invernizzi Aug 14 '12 at 19:09
     https://pypi.python.org/pypi/formic
     https://stackoverflow.com/questions/2186525/use-a-glob-to-find-files-recursively-in-python/10597254#10597254
     """
