@@ -26,9 +26,11 @@ def main():
     2017/QTR2
     """
     qtr_num = int(sys.argv[1])
+    end_qtr_num = int(sys.argv[2])
     print("max quarter num is {}".format(len(my_config.train_quarters)-1))
-    preprocess_texts(my_config.train_quarters[qtr_num], [], qtr_num)
-    prepare_dataset(quarter, my_config.test_quarters[qtr_num], qtr_num)
+    for i in range(qtr_num, end_qtr_num+1):
+#        preprocess_texts(my_config.train_quarters[i], [], i)
+        prepare_dataset(my_config.train_quarters[i], [], i)
 
     end = time.time()
     print("Total running time: {0}".format(end-start))

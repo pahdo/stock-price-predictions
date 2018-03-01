@@ -63,7 +63,9 @@ def load_data(directory, split, train_quarters, test_quarters, yield_paths=False
     """
 
     regex = build_regex(directory, split, train_quarters, test_quarters) 
+    print("beginning building fileset")
     fileset = formic.FileSet(include=regex)
+    print("finished building fileset")
     file_paths =  fileset.qualified_files()
     """ 
     file_paths = glob.iglob(regex, recursive=True)
@@ -111,16 +113,18 @@ def build_regex(directory, split, train_quarters, test_quarters):
     elif split == 'train':
         """https://stackoverflow.com/questions/33406313/how-to-match-any-string-from-a-list-of-strings-in-regular-expressions-in-python
         """
-        regex_part = '|'.join(train_quarters)
+        regex_part = train_quarters
+#        regex_part = '|'.join([os.path.join('data', directory, x, '*.txt') for x in train_quarters])
+#        regex_part = '|'.join(train_quarters)
     elif split == 'test':
+#        regex_part = '|'.join([os.path.join('data', directory, x, '*.txt') for x in test_quarters])
         regex_part = '|'.join(test_quarters)
     
-    """
-    regex = os.path.join('../data', directory, regex_part, '*.txt')
-    """
+    #regex = os.path.join('../data', directory, regex_part, '*.txt')
     """formic does not support '..' in a glob (???)
     """
     regex = os.path.join('data', directory, regex_part, '*.txt')
+#    regex = regex_part
 
     print(regex)
     return regex

@@ -85,10 +85,10 @@ estimators_tfidf_nmf_prices_xgb = [
     # Use a SVC classifier on the combined features
     ('clf', XGBClassifier(
                 learning_rate = 0.1,
-                n_estimators = 120,
+                n_estimators = 300,
                 silent = True,
                 objective = 'multi:softmax',
-                nthread = 4)),
+                nthread = 16)),
 ]
 
 """http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
@@ -197,24 +197,25 @@ estimators_prices_xgb = [
     # Price history features
     ('price_history', Pipeline([
         ('selector', custom_transformers.CustomDictVectorizer(key='price_history')),
-        ('debug', custom_transformers.DebugTransformer()),
     ])),
 
     # Use a SVC classifier on the combined features
     ('clf', XGBClassifier(
                 learning_rate = 0.1,
-                n_estimators = 120,
+                n_estimators = 300,
                 silent = True,
                 objective = 'multi:softmax',
-                nthread = 4)),
+                nthread = 16)),
 ]
 
 """https://xgboost.readthedocs.io/en/latest/python/python_api.html#module-xgboost.sklearn
 http://xgboost.readthedocs.io/en/latest/parameter.html
 xgboost parameters
 """
-param_grid_prices_xgb = dict(clf__max_depth=np.arange(2,6,1),
-    clf__learning_rate=np.logspace(-6,-1,10),
-    clf__n_estimators=np.arange(40, 320, 20),
-    clf__reg_lambda=np.logspace(-4,4,10),
+param_grid_prices_xgb = dict(
+    clf__max_depth=np.array([3,4,5,6,7,8,9]),
+    clf__min_child_weight=np.array([3,4,5,6,7,8,9]),
+    clf__subsample=np.array([0.5,0.6,0.7,0.8,0.9]),
+    clf__colsample_bytree=np.array([0.5,0.6,0.7,0.8,0.9]),
 )
+

@@ -21,7 +21,7 @@ def read_dataset(label_horizon):
     data_index_path = 'data/' + my_config.dataset_dir + '/train.txt'
     # TODO: fix my data_index_path
     # with open(data_index_path, 'r') as data_index:
-    with open('data/' + my_config.dataset_dir + '/train_qtr1.txt', 'r') as data_index:
+    with open('data/' + my_config.dataset_dir + '/all-train.txt', 'r') as data_index:
         for path_prices_labels in data_index.readlines():
             path, prices, labels = path_prices_labels.split(';')
             prices = prices.split(',')
@@ -69,10 +69,10 @@ def main():
     #                        MultinomialNB(), 
     #                        XGBClassifier()])
     #Cs = np.logspace(-6, -1, 10)
-    param_grid = my_estimators.param_grid_tfidf_nmf_prices_xgb
-    estimators = my_estimators.estimators_tfidf_nmf_prices_xgb
-    # param_grid = my_estimators.param_grid_prices_xgb
-    # estimators = my_estimators.estimators_prices_xgb
+#    param_grid = my_estimators.param_grid_tfidf_nmf_prices_xgb
+#    estimators = my_estimators.estimators_tfidf_nmf_prices_xgb
+    param_grid = my_estimators.param_grid_prices_xgb
+    estimators = my_estimators.estimators_prices_xgb
     run_experiment(estimators, param_grid, dataset)
 
 def run_experiment(estimators, param_dict, dataset):
@@ -84,10 +84,10 @@ def run_experiment(estimators, param_dict, dataset):
     """
     """https://stackoverflow.com/questions/46732748/how-do-i-use-a-timeseriessplit-with-a-gridsearchcv-object-to-tune-a-model-in-sci
     """
-    ts_cv = TimeSeriesSplit(n_splits=2).split(dataset['X'])
+    ts_cv = TimeSeriesSplit(n_splits=10).split(dataset['X'])
 
     #grid_search = GridSearchCV(pipe, param_grid=dict(clf__C=param_dict), cv=ts_cv)
-    grid_search = GridSearchCV(pipe, param_grid=param_dict, cv=ts_cv, n_jobs=8)
+    grid_search = GridSearchCV(pipe, param_grid=param_dict, cv=ts_cv, n_jobs=2)
     print(len(dataset['X']))
     print(len(dataset['labels']))
     grid_search.fit(dataset['X'], dataset['labels']) 
@@ -98,7 +98,7 @@ def run_experiment(estimators, param_dict, dataset):
     print(grid_search.best_score_)
 
     from sklearn.externals import joblib
-    joblib.dump(grid_search.best_estimator_, 'tfidf_best_estimator.pkl', compress=1)
+    joblib.dump(grid_search.best_estimator_, 'momentum_best_estimator.pkl', compress=1)
 
 if __name__ == "__main__":
     main()
