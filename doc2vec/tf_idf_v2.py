@@ -106,7 +106,6 @@ def run_experiment(estimators, param_dict, pickle_path, dataset):
     If n_jobs was set to a value higher than one, the data is copied for each point in the grid (and not n_jobs times). This is done for efficiency reasons if individual jobs take very little time, but may raise errors if the dataset is large and not enough memory is available. A workaround in this case is to set pre_dispatch. Then, the memory is copied only pre_dispatch many times. A reasonable value for pre_dispatch is 2 * n_jobs.
     size of dataset_clean = 2.2GB
     memory of machine = 64GB
-    Using 23 jobs would use 50.6GB of RAM. In addition, each job would need 304 floats * 66700 rows * 8 bytes = .16GB of RAM. 23 * .16 + 50.6 = 3.73 + 50.6 = 54.33 GB of RAM.
     """
     grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, cv=ts_cv, n_jobs=12, pre_dispatch='n_jobs')
 #    grid_search = GridSearchCV(pipe, param_grid=param_dict, cv=ts_cv, n_jobs=24, pre_dispatch='n_jobs')
@@ -115,7 +114,7 @@ def run_experiment(estimators, param_dict, pickle_path, dataset):
 
     from sklearn.externals import joblib
     joblib.dump(dataset['X'], 'dataset_dump.pkl')
-    dataset['X'] = joblib.load('dataset_dump.pkl', mmap_mode='r')
+    dataset['X'] = joblib.load('dataset_dump.pkl', mmap_mode='c')
     
     grid_search.fit(dataset['X'], dataset['labels']) 
 
