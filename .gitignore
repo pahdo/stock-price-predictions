@@ -5,3 +5,4 @@ doc2vec/tfidf_embedded.pickle
 .ipynb_checkpoints
 */__pycache__/*
 *.pyc
+*.pkl

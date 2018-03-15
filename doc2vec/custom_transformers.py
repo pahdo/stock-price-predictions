@@ -70,10 +70,12 @@ class CustomDictVectorizer(BaseEstimator, TransformerMixin):
             Feature vectors; always 2-d.
         """
         if self.key == 'corpus':
-            Xa = [''] * len(X) # 1-d array of strings
+            Xa = np.empty([len(X), 1], dtype=object)
             for i, x in enumerate(X):
                 Xa[i] = x['corpus']
-            Xa = np.array(Xa)
+            """Memory error at this line for 10k docs (Xa = np.array(Xa))
+            https://stackoverflow.com/questions/39032200/converting-python-list-to-numpy-array-inplace
+            """
         elif self.key == 'price_history':
             Xa = np.zeros((len(X), 5)) # 2-d array of price histories
             for i, x in enumerate(X):
@@ -87,7 +89,7 @@ class Doc2VecVectorizer(BaseEstimator, TransformerMixin):
         args :
             model_path : e.g., 'saved_doc2vec_models/Doc2Vec(dmm,d100,n5,w10,mc2,s0.001,t8)'
         """
-        model_pth = 'saved_doc2vec_models/Doc2Vec(dmm,d100,n5,w10,mc2,s0.001,t8)' # TODO: Why can't I pass this in??
+        model_pth = 'saved_doc2vec_models/Doc2Vec(dmc,d100,n5,w5,mc2,s0.001,t8)' # TODO: Why can't I pass this in??
         self.model = Doc2Vec.load(model_pth)
 
     def fit(self, x, y=None):

@@ -17,10 +17,9 @@ def read_dataset(label_horizon):
     args : 
         label_horizon : 1, 2, 3, 4, 5 to decide between alpha1, alpha2, etc.
     """
-    data_index_path = 'data/' + my_config.dataset_dir + '/train.txt'
+    data_index_path = 'data/' + my_config.dataset_dir + '/all-train.txt'
     # TODO: fix my data_index_path
-    # with open(data_index_path, 'r') as data_index:
-    with open('data/' + my_config.dataset_dir + '/train_qtr1.txt', 'r') as data_index:
+    with open(data_index_path, 'r') as data_index:
         for path_prices_labels in data_index.readlines():
             path, prices, labels = path_prices_labels.split(';')
             prices = prices.split(',')
@@ -60,7 +59,8 @@ def read_dataset_dictionary(label_horizon):
 
 
 from sklearn.externals import joblib
-pickle_path = 'tfidf_best_estimator.pkl'
+#pickle_path = 'tfidf_best_estimator.pkl'
+pickle_path = 'momentum_best_estimator.pkl'
 best_estimator = joblib.load(pickle_path)
 dataset = read_dataset_dictionary(label_horizon=1)
 print(best_estimator.score(dataset['X'], dataset['labels']) )
