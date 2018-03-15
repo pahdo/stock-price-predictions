@@ -107,7 +107,7 @@ def run_experiment(estimators, param_dict, pickle_path, dataset):
     size of dataset_clean = 2.2GB
     memory of machine = 64GB
     """
-    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, cv=ts_cv, n_jobs=12, pre_dispatch='n_jobs')
+    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, cv=ts_cv, n_jobs=2, pre_dispatch='n_jobs')
 #    grid_search = GridSearchCV(pipe, param_grid=param_dict, cv=ts_cv, n_jobs=24, pre_dispatch='n_jobs')
     print(len(dataset['X']))
     print(len(dataset['labels']))
