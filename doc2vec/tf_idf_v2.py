@@ -86,11 +86,21 @@ def main():
     label_horizon=1
     subset='full'
     key='momentum'
-    dataset = read_dataset_dictionary(label_horizon=label_horizon, subset=subset)
+    dataset = get_dataset(label_horizon, subset)
     estimators, param_grid = get_estimators(key)
     pickle_path = key + '_' + subset + '_' + str(label_horizon) + '_best_estimator.pkl'
     
     run_experiment(estimators, param_grid, pickle_path, dataset)
+
+"""expensive local variables to garbage collected when this function returns
+Before: 8GB of memory used before forking
+"""
+def get_dataset(label_horizon, subset):
+    dataset = read_dataset_dictionary(label_horizon=label_horizon, subset=subset)
+    from sklearn.externals import joblib
+    joblib.dump(dataset['X'], 'dataset_dump.pkl')
+    dataset['X'] = joblib.load('dataset_dump.pkl', mmap_mode='c')
+    return dataset
 
 def run_experiment(estimators, param_dict, pickle_path, dataset):
     print('experiment starting with estimators={} param_dict={}'.format(estimators, param_dict))
@@ -112,10 +122,6 @@ def run_experiment(estimators, param_dict, pickle_path, dataset):
 #    grid_search = GridSearchCV(pipe, param_grid=param_dict, cv=ts_cv, n_jobs=24, pre_dispatch='n_jobs')
     print(len(dataset['X']))
     print(len(dataset['labels']))
-
-    from sklearn.externals import joblib
-    joblib.dump(dataset['X'], 'dataset_dump.pkl')
-    dataset['X'] = joblib.load('dataset_dump.pkl', mmap_mode='c')
     
     snapshot = my_diagnostics.tracemalloc.take_snapshot()
     my_diagnostics.display_top(snapshot)
