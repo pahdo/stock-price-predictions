@@ -82,6 +82,7 @@ def get_estimators(key):
     return estimators, param_grid
 
 def main():
+    my_diagnostics.tracemalloc.start()
     label_horizon=1
     subset='full'
     key='momentum'
@@ -115,6 +116,9 @@ def run_experiment(estimators, param_dict, pickle_path, dataset):
     from sklearn.externals import joblib
     joblib.dump(dataset['X'], 'dataset_dump.pkl')
     dataset['X'] = joblib.load('dataset_dump.pkl', mmap_mode='c')
+    
+    snapshot = my_diagnostics.tracemalloc.take_snapshot()
+    my_diagnostics.display_top(snapshot)
     
     grid_search.fit(dataset['X'], dataset['labels']) 
 
