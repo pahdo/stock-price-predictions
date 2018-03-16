@@ -47,6 +47,7 @@ Prices (outliers removed): Batch of 1000
     STD: 0.029223920127052702
 No rescaling is necessary...
 """
+
 estimators_tfidf_nmf_prices_xgb = [
     # Use feature union to combine linguistic features and price history features
     ('union', FeatureUnion(
@@ -59,8 +60,6 @@ estimators_tfidf_nmf_prices_xgb = [
                 #
                 ('tfidf', TfidfVectorizer()), 
                 ('nmf', NMF()),
-                #('debug', custom_transformers.DebugTransformer()),
-            ])),
             # Price history features
             ('price_history', Pipeline([
                 ('selector', custom_transformers.CustomDictVectorizer(key='price_history')),
@@ -77,34 +76,47 @@ estimators_tfidf_nmf_prices_xgb = [
         },
     )),
 
-    # Use a SVC classifier on the combined features
     ('clf', XGBClassifier(
                 learning_rate = 0.1,
                 n_estimators = 300,
                 silent = True,
-                objective = 'multi:softmax',)),
+                objective = 'multi:softmax',
+                n_jobs=1,
+                nthread=1,)),
 ]
 
-"""http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
+'''
+http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
 tfidf parameters
 http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html
 nmf parameters
-"""
 
-"""https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-tutorial-on-xgboost-parameter-tuning-r/tutorial/
+https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-tutorial-on-xgboost-parameter-tuning-r/tutorial/
 which parameters to tune with CV for tree booster
-"""
-"""Our grid search over 729 combinations of features
+'''
+
 """
 param_grid_tfidf_nmf_prices_xgb = dict(
-    clf__max_depth=np.array([3, 6, 9]),
-    clf__min_child_weight=np.array([3, 6, 9]),
-    clf__subsample=np.array([0.5, 0.7, 0.9]),
-    clf__colsample_bytree=np.array([0.5, 0.7, 0.9]),
-    union__linguistic__tfidf__max_df=np.array([0.5, 0.7, 0.9]),
-    union__linguistic__tfidf__min_df=np.array([0.1]),
+    clf__max_depth=np.array([6]),
+    clf__min_child_weight=np.array([6]),
+    clf__subsample=np.array([0.7]),
+    clf__colsample_bytree=np.array([0.7]),
+    union__linguistic__tfidf__max_df=np.array([0.7]),
+    union__linguistic__tfidf__min_df=np.array([0.2]),
     union__linguistic__tfidf__sublinear_tf=[True],
-    union__linguistic__nmf__n_components=np.array([100,200,300]),
+    union__linguistic__nmf__n_components=np.array([200]),
+)
+"""
+
+param_grid_tfidf_nmf_prices_xgb = dict(
+    clf__max_depth=np.array([3,4,5,6,7,8,9]),
+    clf__min_child_weight=np.array([3,4,5,6,7,8,9]),
+    clf__subsample=np.array([0.5,0.6,0.7,0.8,0.9]),
+    clf__colsample_bytree=np.array([0.5,0.6,0.7,0.8,0.9]),
+    union__linguistic__tfidf__max_df=np.array([0.5, 0.6, 0.7, 0.8, 0.9]),
+    union__linguistic__tfidf__min_df=np.array([0.1, 0.2, 0.3]),
+    union__linguistic__tfidf__sublinear_tf=[True],
+    union__linguistic__nmf__n_components=np.array([50, 100, 150, 200, 250, 300]),
 )
 
 estimators_doc2vec_prices_xgb = [
@@ -154,3 +166,4 @@ param_grid_doc2vec_prices_xgb = dict(
     clf__subsample=np.array([0.5,0.6,0.7,0.8,0.9]),
     clf__colsample_bytree=np.array([0.5,0.6,0.7,0.8,0.9]),
 )
+

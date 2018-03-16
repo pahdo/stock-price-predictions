@@ -70,7 +70,7 @@ class CustomDictVectorizer(BaseEstimator, TransformerMixin):
             Feature vectors; always 2-d.
         """
         if self.key == 'corpus':
-            Xa = np.empty([len(X), 1], dtype=object)
+            Xa = np.empty([len(X)], dtype=object)
             for i, x in enumerate(X):
                 Xa[i] = x['corpus']
             """Memory error at this line for 10k docs (Xa = np.array(Xa))

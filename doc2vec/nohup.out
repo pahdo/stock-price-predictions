@@ -1,0 +1,68 @@
+string price: 1.8591981136572546
+string price: 1.2885263121198216
+string price: 1.0773845281177161
+string price: 1.121257804323449
+string price: 8.965153219298495
+string price: 1.2990684024571935
+string price: 9.064884734018875
+string price: 2.006564011672051
+string price: 2.3335508561398757
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 1.2591215623738339
+string price: 1.2787003960170784
+string price: 6.266887232538808
+string price: 1.5002095829715556
+dataset_size = 66273
+labels len = 66273
+experiment starting with estimators=[('union', FeatureUnion(n_jobs=1,
+       transformer_list=[('linguistic', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='corpus')), ('tfidf', TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=...tory', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='price_history'))]))],
+       transformer_weights={'price_history': 1.0, 'linguistic': 1.0})), ('clf', XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=None, n_estimators=300,
+       n_jobs=1, nthread=1, objective='multi:softmax', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1))] param_dict={'clf__max_depth': array([3, 4, 5, 6, 7, 8, 9]), 'clf__subsample': array([ 0.5,  0.6,  0.7,  0.8,  0.9]), 'clf__colsample_bytree': array([ 0.5,  0.6,  0.7,  0.8,  0.9]), 'union__linguistic__tfidf__sublinear_tf': [True], 'union__linguistic__tfidf__min_df': array([ 0.1,  0.2,  0.3]), 'union__linguistic__tfidf__max_df': array([ 0.5,  0.6,  0.7,  0.8,  0.9]), 'union__linguistic__nmf__n_components': array([ 50, 100, 150, 200, 250, 300]), 'clf__min_child_weight': array([3, 4, 5, 6, 7, 8, 9])}
+66273
+66273
+Top 3 lines
+#1: joblib/numpy_pickle.py:108: 3521528.5 KiB
+    array = pickle.load(unpickler.file_handle)
+#2: python3.5/pickle.py:1039: 8.3 KiB
+    dispatch[key[0]](self)
+#3: tf_idf_v2.py:30: 4.7 KiB
+    path, prices, labels = path_prices_labels.split(';')
+112 other: 64.1 KiB
+Total allocated size: 3521605.5 KiB
+Traceback (most recent call last):
+  File "tf_idf_v2.py", line 146, in <module>
+    main()
+  File "tf_idf_v2.py", line 100, in main
+    run_experiment(estimators, param_grid, pickle_path, dataset)
+  File "tf_idf_v2.py", line 134, in run_experiment
+    grid_search.fit(dataset['X'], dataset['labels']) 
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/model_selection/_search.py", line 639, in fit
+    cv.split(X, y, groups)))
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/externals/joblib/parallel.py", line 789, in __call__
+    self.retrieve()
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/externals/joblib/parallel.py", line 699, in retrieve
+    self._output.extend(job.get(timeout=self.timeout))
+  File "/usr/lib/python3.5/multiprocessing/pool.py", line 608, in get
+    raise self._value
+  File "/usr/lib/python3.5/multiprocessing/pool.py", line 385, in _handle_tasks
+    put(task)
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/externals/joblib/pool.py", line 371, in send
+    CustomizablePickler(buffer, self._reducers).dump(obj)
+MemoryError
+Traceback (most recent call last):
+  File "tf_idf_v2.py", line 15, in <module>
+    import my_estimators
+  File "/home/ubuntu/notebooks/text-analytics-for-accountancy/doc2vec/my_estimators.py", line 91
+    """
+      ^
+SyntaxError: invalid syntax

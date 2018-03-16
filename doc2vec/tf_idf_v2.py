@@ -2,6 +2,7 @@ import pickle
 import os
 import time
 import numpy as np
+from sklearn.externals import joblib
 from sklearn.linear_model import LogisticRegression
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.model_selection import GridSearchCV
@@ -39,14 +40,17 @@ def read_dataset(label_horizon, subset='full'):
             with open(path, 'r') as t:
                 yield t.read(), [float(p) for p in prices], utils_v2.bin_alpha(float(labels[label_horizon]))
 
-def read_dataset_dictionary(label_horizon, subset='full'):
+def read_dataset_dictionary(label_horizon, subset='full', momentum_only=False):
     dataset_gen = read_dataset(label_horizon, subset)
     text, prices, labels = utils_v2.split_gen_3(dataset_gen)
 
     X = [] 
     for t in text:
         price_hist = np.array(next(prices))
-        X.append({'corpus': t, 'price_history': price_hist})
+        if momentum_only:
+            X.append({'price_history': price_hist})
+        else:
+            X.append({'corpus': t, 'price_history': price_hist})
     X = np.array(X, dtype=object)
 
     dataset_size = len(X)
@@ -73,21 +77,24 @@ def get_estimators(key):
         """
         param_grid = my_estimators.param_grid_doc2vec_prices_xgb
         estimators = my_estimators.estimators_doc2vec_prices_xgb
+        momentum_only = False
     elif key == 'tfidf':
         param_grid = my_estimators.param_grid_tfidf_nmf_prices_xgb
         estimators = my_estimators.estimators_tfidf_nmf_prices_xgb
+        momentum_only = False
     elif key == 'momentum':
         param_grid = my_estimators.param_grid_prices_xgb
         estimators = my_estimators.estimators_prices_xgb
-    return estimators, param_grid
+        momentum_only = True
+    return estimators, param_grid, momentum_only
 
 def main():
     my_diagnostics.tracemalloc.start()
     label_horizon=1
     subset='full'
-    key='momentum'
-    dataset = get_dataset(label_horizon, subset)
-    estimators, param_grid = get_estimators(key)
+    key='tfidf'
+    estimators, param_grid, momentum_only = get_estimators(key)
+    dataset = get_dataset(label_horizon, subset, momentum_only)
     pickle_path = key + '_' + subset + '_' + str(label_horizon) + '_best_estimator.pkl'
     
     run_experiment(estimators, param_grid, pickle_path, dataset)
@@ -95,11 +102,10 @@ def main():
 """expensive local variables to garbage collected when this function returns
 Before: 8GB of memory used before forking
 """
-def get_dataset(label_horizon, subset):
-    dataset = read_dataset_dictionary(label_horizon=label_horizon, subset=subset)
-    from sklearn.externals import joblib
+def get_dataset(label_horizon, subset, momentum_only=False):
+    dataset = read_dataset_dictionary(label_horizon=label_horizon, subset=subset, momentum_only=momentum_only)
     joblib.dump(dataset['X'], 'dataset_dump.pkl')
-    dataset['X'] = joblib.load('dataset_dump.pkl', mmap_mode='c')
+    dataset['X'] = joblib.load('dataset_dump.pkl', mmap_mode='r')
     return dataset
 
 def run_experiment(estimators, param_dict, pickle_path, dataset):
@@ -115,11 +121,10 @@ def run_experiment(estimators, param_dict, pickle_path, dataset):
     """GridSearch
     http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
     If n_jobs was set to a value higher than one, the data is copied for each point in the grid (and not n_jobs times). This is done for efficiency reasons if individual jobs take very little time, but may raise errors if the dataset is large and not enough memory is available. A workaround in this case is to set pre_dispatch. Then, the memory is copied only pre_dispatch many times. A reasonable value for pre_dispatch is 2 * n_jobs.
-    size of dataset_clean = 2.2GB
-    memory of machine = 64GB
     """
-    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, cv=ts_cv, n_jobs=2, pre_dispatch='n_jobs')
-#    grid_search = GridSearchCV(pipe, param_grid=param_dict, cv=ts_cv, n_jobs=24, pre_dispatch='n_jobs')
+#    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, cv=ts_cv, n_jobs=24, pre_dispatch='n_jobs+4')
+#    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, cv=ts_cv, n_jobs=8, pre_dispatch='n_jobs')
+    grid_search = GridSearchCV(pipe, param_distributions=param_dict, cv=ts_cv)
     print(len(dataset['X']))
     print(len(dataset['labels']))
     
@@ -135,8 +140,7 @@ def run_experiment(estimators, param_dict, pickle_path, dataset):
     print(grid_search.best_params_)
     print(grid_search.best_score_)
 
-    from sklearn.externals import joblib
     joblib.dump(grid_search.best_estimator_, pickle_path, compress=1)
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
