@@ -57,9 +57,9 @@ estimators_tfidf_nmf_prices_xgb = [
             ('linguistic', Pipeline([
                 ('selector', custom_transformers.CustomDictVectorizer(key='corpus')),
                 # https://nlp.stanford.edu/IR-book/html/htmledition/sublinear-tf-scaling-1.html
-                #
                 ('tfidf', TfidfVectorizer()), 
                 ('nmf', NMF()),
+            ])),
             # Price history features
             ('price_history', Pipeline([
                 ('selector', custom_transformers.CustomDictVectorizer(key='price_history')),
@@ -85,17 +85,45 @@ estimators_tfidf_nmf_prices_xgb = [
                 nthread=1,)),
 ]
 
-'''
-http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
-tfidf parameters
-http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html
-nmf parameters
+estimators_tfidf_nmf_prices_xgb = [
+    # Use feature union to combine linguistic features and price history features
+    ('union', FeatureUnion(
+        transformer_list=[
 
-https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-tutorial-on-xgboost-parameter-tuning-r/tutorial/
-which parameters to tune with CV for tree booster
-'''
+            # Pipeline for pulling linguistic features from Form 10-Ks
+            ('linguistic', Pipeline([
+                ('selector', custom_transformers.CustomDictVectorizer(key='corpus')),
+                # https://nlp.stanford.edu/IR-book/html/htmledition/sublinear-tf-scaling-1.html
+                #
+                ('tfidf', TfidfVectorizer()), 
+                ('nmf', NMF()),
+            ])),
+            # Price history features
+            ('price_history', Pipeline([
+                ('selector', custom_transformers.CustomDictVectorizer(key='price_history')),
+            ])),
+            
+        ],
+        # https://stackoverflow.com/questions/29504252/whats-the-use-of-transformer-weights-in-scikit-learn-pipeline
+        # We know nothing a priori about the weighting of features, so set transformer_weights = 1.0
+        # TODO: Actually, we can use these transformer weights to normalize different features!
+        #
+        transformer_weights={
+            'linguistic': 1.0,
+            'price_history': 1.0
+        },
+    )),
 
-"""
+    ('clf', XGBClassifier(
+                learning_rate = 0.1,
+                n_estimators = 300,
+                silent = True,
+                objective = 'multi:softmax',
+                n_jobs=1,
+                nthread=1,)),
+]
+
+
 param_grid_tfidf_nmf_prices_xgb = dict(
     clf__max_depth=np.array([6]),
     clf__min_child_weight=np.array([6]),
@@ -118,6 +146,7 @@ param_grid_tfidf_nmf_prices_xgb = dict(
     union__linguistic__tfidf__sublinear_tf=[True],
     union__linguistic__nmf__n_components=np.array([50, 100, 150, 200, 250, 300]),
 )
+"""
 
 estimators_doc2vec_prices_xgb = [
     # Use feature union to combine linguistic features and price history features

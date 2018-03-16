@@ -101,6 +101,7 @@ def main():
 
 """expensive local variables to garbage collected when this function returns
 Before: 8GB of memory used before forking
+After: 3.5GB of memory used before forking
 """
 def get_dataset(label_horizon, subset, momentum_only=False):
     dataset = read_dataset_dictionary(label_horizon=label_horizon, subset=subset, momentum_only=momentum_only)
