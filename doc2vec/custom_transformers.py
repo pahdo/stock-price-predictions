@@ -85,7 +85,8 @@ class CustomDictVectorizer(BaseEstimator, TransformerMixin):
 
 class Doc2VecVectorizer(BaseEstimator, TransformerMixin):
     def __init__(self):
-        """
+        """NOTE: we remove this from the pipeline because it doesn't make sense to infer_vector
+        thousands of times for the gridsearch. we move this computation to preprocessing.
         args :
             model_path : e.g., 'saved_doc2vec_models/Doc2Vec(dmm,d100,n5,w10,mc2,s0.001,t8)'
         """
