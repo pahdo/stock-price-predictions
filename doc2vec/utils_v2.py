@@ -16,19 +16,21 @@ db_path = os.path.join('data', 'database', 'stocks.db')
 
 ###########################
 
-def load_texts(directory, split, train_quarters, test_quarters):
-    regex = build_regex(directory, split, train_quarters, test_quarters)
-    
-    """https://stackoverflow.com/questions/4287162/python-iterators-what-does-iglobs-iterator-provide-over-globs-list
-    Like @J.F.Sebastian said, iglob speed/memory advantage over glob is hampered by os.listdir() (see this ): this means that they will both be slow over directories with lots of files. If you have that problem, check out formic. Example here.  Luca Invernizzi Aug 14 '12 at 19:09
-    https://pypi.python.org/pypi/formic
-    https://stackoverflow.com/questions/2186525/use-a-glob-to-find-files-recursively-in-python/10597254#10597254
+def load_texts(directory, subset, quarters):
     """
+    args :
+        directory : directory for regex
+        subset : 'all' or 'subset' , which matches quarters
+        quarters : quarters to match e.g., [2007/QTR1]
+    returns :
+        generator for (text document, file path)
+    """
+    regex = build_regex(directory, subset, quarters)
+    
     """https://bitbucket.org/aviser/formic/issues/12/support-python-3
     https://github.com/scottbelden/formic
     formic python 3 support
-    """
-    """Total running time: 3.012176752090454 to perform glob + 10 read/writes (with spacy lemmatization)
+    formic is much much much faster than iglob
     """
     fileset = formic.FileSet(include=regex)
     for file_path in fileset.qualified_files():      
@@ -37,39 +39,17 @@ def load_texts(directory, split, train_quarters, test_quarters):
             print("loaded {}".format(file_path))
             yield (text, file_path) # file_path is a full path
 
-    """iglob takes a **ridiculous** amount of time to run
-    """
-    """
-    start = time.time()
-    file_paths = glob.iglob(regex, recursive=True)
-    i = 0
-    for file_path in file_paths:
-        with open(file_path, 'r') as t:
-            yield (t.read(), file_path) # file_path is a full path
-            i += 1
-    end = time.time()
-    print("Total running time: {0}".format(end-start))
-    """
-
-def load_data(directory, split, train_quarters, test_quarters, yield_paths=False):
+def load_data(directory, subset, train_quarters, yield_paths=False):
     """generator function for dataset. streams sec forms, stock price history, and normalized returns.
     args:
-        directory d: ../data/ d /2004/QTR2/
-        split=['all', 'train', 'test']: all - streams all data
-                                        train - streams train data only
-                                        test - streams test data only
+        directory d: data/[d]/2004/QTR2/
+        subset=['all', 'subset']
     returns:
-        [[text document (string), price history (array of floats)], [alpha1, alpha2, alpha3, alpha4, alpha5 (float)]
+        [[text document, price history], [alpha1, alpha2, alpha3, alpha4, alpha5]]
     """
-
-    regex = build_regex(directory, split, train_quarters, test_quarters) 
-    print("beginning building fileset")
+    regex = build_regex(directory, subset, train_quarters) 
     fileset = formic.FileSet(include=regex)
-    print("finished building fileset")
     file_paths =  fileset.qualified_files()
-    """ 
-    file_paths = glob.iglob(regex, recursive=True)
-    """
 
     if(not check_file(db_path)):
          print("db_path {} does not exist.".format(db_path))
@@ -85,47 +65,39 @@ def load_data(directory, split, train_quarters, test_quarters, yield_paths=False
 
     for txt in file_paths:
         cik, filing_date = parse_txt_name(txt)
-
         if cik in cik_dict:
             # TODO: Query for SPY only once. 
-            # Challenge: How to set date range? And then how to find index of date (start date) in spy_returns?
-            # default parameter for horizon = 20
-            spy_returns = get_returns(conn, 'SPY', filing_date, 20)
+            # Issue w/ above TODO: Must find idx of start date if we query for all SPY returns at once
+            spy_returns = get_returns(conn, 'SPY', filing_date, 20) # horizon = 20
             if spy_returns is None or len(spy_returns) == 0:
-                # fail silently
-                # print("no spy_returns for {} {}".format(cik_dict[cik], filing_date))
+                # fail silently if no SPY returns exist
                 continue
             price_history, alpha1, alpha2, alpha3, alpha4, alpha5 = get_labels(conn, cik_dict[cik], filing_date, spy_returns)
             if price_history is None or len(price_history) != 5 or alpha1 is None or alpha2 is None or alpha3 is None or alpha4 is None or alpha5 is None:
+                # fail silently if price history is incomplete
                 continue
             with open(txt, 'r') as t:
-                print("Loading data/labels for {}".format(txt))
+                print("loading data/labels for {}".format(txt))
                 if yield_paths:
                     yield [[t.read(), price_history], [alpha1, alpha2, alpha3, alpha4, alpha5], txt]
                 else:
                     yield [[t.read(), price_history], [alpha1, alpha2, alpha3, alpha4, alpha5]]
 
-def build_regex(directory, split, train_quarters, test_quarters):
-    """assumes source directory structure: ../data/10-X_C/2004/QTR2/
+def build_regex(directory, split, quarters):
+    """ Build a regex to match annual reports
+    args :
+        directory : name of dir to create regex of form data/[dir]/...
+        split : 'all' = ** , 'subset' = quarters
+        quarters : list of quarters to match e.g., ['2007/QTR1']
+    returns :
+        regex : regex string , supports formic
     """
     if split == 'all':
         regex_part = '**'
-    elif split == 'train':
-        """https://stackoverflow.com/questions/33406313/how-to-match-any-string-from-a-list-of-strings-in-regular-expressions-in-python
-        """
-        regex_part = train_quarters
-#        regex_part = '|'.join([os.path.join('data', directory, x, '*.txt') for x in train_quarters])
-#        regex_part = '|'.join(train_quarters)
-    elif split == 'test':
-#        regex_part = '|'.join([os.path.join('data', directory, x, '*.txt') for x in test_quarters])
-        regex_part = '|'.join(test_quarters)
-    
-    #regex = os.path.join('../data', directory, regex_part, '*.txt')
-    """formic does not support '..' in a glob (???)
-    """
+    elif split == 'subset':
+        regex_part = quarters
+    # formic does not support '..' in a glob
     regex = os.path.join('data', directory, regex_part, '*.txt')
-#    regex = regex_part
-
     print(regex)
     return regex
 

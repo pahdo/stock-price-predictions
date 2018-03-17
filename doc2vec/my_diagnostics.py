@@ -4,6 +4,10 @@ import os
 import tracemalloc
 
 """https://stackoverflow.com/questions/552744/how-do-i-profile-memory-usage-in-python
+    # my_diagnostics.tracemalloc.start()
+    
+    # snapshot = my_diagnostics.tracemalloc.take_snapshot()
+    # my_diagnostics.display_top(snapshot)
 """
 def display_top(snapshot, key_type='lineno', limit=3):
     snapshot = snapshot.filter_traces((
