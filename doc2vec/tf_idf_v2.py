@@ -125,7 +125,7 @@ def run_experiment(estimators, param_dict, pickle_path, dataset):
     """
 #    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, cv=ts_cv, n_jobs=24, pre_dispatch='n_jobs+4')
 #    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, cv=ts_cv, n_jobs=8, pre_dispatch='n_jobs')
-    grid_search = GridSearchCV(pipe, param_distributions=param_dict, cv=ts_cv)
+    grid_search = GridSearchCV(pipe, param_grid=param_dict, cv=ts_cv)
     print(len(dataset['X']))
     print(len(dataset['labels']))
     
