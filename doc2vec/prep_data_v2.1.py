@@ -1,8 +1,12 @@
+import errno
+import codecs
+import pickle
 import itertools
 import time
 import os
 import sys
 from gensim.models import Doc2Vec
+import numpy as np
 import spacy
 from spacy.lang.en.lemmatizer import LOOKUP
 from spacy.lang.en.stop_words import STOP_WORDS
@@ -23,9 +27,9 @@ def main():
     7734 items -> 7734 items
     2017/QTR2 1.31GB -> 270.2MB
     """
-    start_qtr_num = int(sys.argv[1])
-    end_qtr_num = int(sys.argv[2])
-    split = sys.argv[3]
+    split = sys.argv[1]
+    start_qtr_num = int(sys.argv[2])
+    end_qtr_num = int(sys.argv[3])
     if split == 'train':
         quarters = my_config.train_quarters
     elif split == 'test':
@@ -38,9 +42,9 @@ def main():
 
     for i in range(start_qtr_num, end_qtr_num+1):
         # NOTE: Only need to preprocess once. Prepare dataset twice, once for Doc2Vec, once for text documents.
-        preprocess_texts(quarters[i], i)
-        prepare_dataset(quarters[i], i, split)
-#        prepare_dataset(quarters[i], i, split, doc2vec=True)
+#        preprocess_texts(quarters[i], i)
+#        prepare_dataset(quarters[i], i, split)
+        prepare_dataset(quarters[i], i, split, doc2vec=True)
 
     end = time.time()
     print("total running time: {0}".format(end-start))
@@ -76,9 +80,10 @@ def preprocess_texts(train_qtrs, part_num):
     
     """https://spacy.io/usage/processing-pipelines#section-multithreading
     """
-    for doc in nlp.pipe(texts, batch_size=1000, n_threads=64):
+    for doc in nlp.pipe(texts, batch_size=1000, n_threads=8):
         output_file = next(file_paths).replace(my_config.source_dir, my_config.output_dir)
-        os.makedirs(os.path.dirname(output_file), exist_ok=True) # redundant calls take ~ 0.00029206275939941406 seconds each
+        # redundant calls take ~ 0.00029206275939941406 seconds each
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)         
         with open(output_file, 'w') as t:
             t.write(" ".join(list(map(lambda x: x.lemma_, filter(lambda token: token.is_alpha and not token.is_stop and not token.lemma_ == u'oov', doc)))))
         print("wrote {}".format(output_file))
@@ -102,17 +107,28 @@ def prepare_dataset(train_qtrs, part_num, split, doc2vec=False):
         data_index_path = 'data/' + my_config.dataset_dir + '/' + 'doc2vec_' + split + str(part_num) + '.txt'
     else:
         data_index_path = 'data/' + my_config.dataset_dir + '/' + split + str(part_num) + '.txt'
-    os.makedirs(os.path.dirname(data_index_path), exist_ok=True)
+    try:
+        os.makedirs(os.path.dirname(data_index_path))
+    except OSError as e:
+        if e.errno != errno.EEXIST:
+            raise
     open(data_index_path, 'w+')  # clear file
     with open(data_index_path, 'a') as data_index:
         for doc in corpus:
             prices = next(price_history)
             if doc2vec:
                 v = model.infer_vector(doc)
-                data_index.write('{};{},{},{},{},{};{},{},{},{},{}\n'.format(v.tostring(), prices[0], prices[1], prices[2], prices[3], prices[4], next(alpha1), next(alpha2), next(alpha3), next(alpha4), next(alpha5)))
+                serialized = codecs.encode(pickle.dumps(v, protocol=0), "base64").decode()
+                serialized = serialized.replace('\n', '').replace('\r', '')
+                print(serialized)
+                data_index.write('{}\t{},{},{},{},{}\t{},{},{},{},{}\n'.format(serialized, prices[0], prices[1], prices[2], prices[3], prices[4], next(alpha1), next(alpha2), next(alpha3), next(alpha4), next(alpha5)))
             else: 
                 output_file = next(file_paths).replace(my_config.source_dir, my_config.dataset_dir)
-                os.makedirs(os.path.dirname(output_file), exist_ok=True)
+                try:
+                    os.makedirs(os.path.dirname(output_file))
+                except OSError as e:
+                    if e.errno != errno.EEXIST:
+                        raise
                 with open(output_file, 'w') as t: # Copy the file AGAIN because we should only put data with labels in dataset dir
                     t.write(doc)
                 data_index.write('{};{},{},{},{},{};{},{},{},{},{}\n'.format(output_file, prices[0], prices[1], prices[2], prices[3], prices[4], next(alpha1), next(alpha2), next(alpha3), next(alpha4), next(alpha5)))

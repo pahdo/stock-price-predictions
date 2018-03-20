@@ -1,7 +1,7 @@
 from collections import Counter
 import linecache
 import os
-import tracemalloc
+#import tracemalloc
 
 """https://stackoverflow.com/questions/552744/how-do-i-profile-memory-usage-in-python
     # my_diagnostics.tracemalloc.start()

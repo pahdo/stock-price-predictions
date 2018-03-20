@@ -253,6 +253,7 @@ def build_cik_dict():
         cik_ticker = cik_ticker.replace('\n', '')
         cik_ticker = cik_ticker.replace('"', '')
         cik_ticker = cik_ticker.replace('"', '')
+        cik_ticker = cik_ticker.replace('\r', '')
         cik_ticker = cik_ticker[2:-2].split('}, {')
         cik_dict = dict(s.split(', ') for s in cik_ticker)
         return cik_dict
