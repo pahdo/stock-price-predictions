@@ -1,0 +1,175 @@
+string price: 1.8591981136572546
+string price: 1.2885263121198216
+string price: 1.0773845281177161
+string price: 1.121257804323449
+string price: 8.965153219298495
+string price: 1.2990684024571935
+string price: 9.064884734018875
+string price: 2.006564011672051
+string price: 2.3335508561398757
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 1.2591215623738339
+string price: 1.2787003960170784
+string price: 6.266887232538808
+string price: 1.5002095829715556
+dataset_size = 66273
+labels len = 66273
+experiment starting with estimators=[('union', FeatureUnion(n_jobs=1,
+       transformer_list=[('linguistic', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='corpus')), ('tfidf', TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=...tory', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='price_history'))]))],
+       transformer_weights={'price_history': 1.0, 'linguistic': 1.0})), ('clf', XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=None, n_estimators=300,
+       n_jobs=1, nthread=1, objective='multi:softmax', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1))] param_dict={'union__linguistic__tfidf__sublinear_tf': [True], 'clf__min_child_weight': array([3, 4, 5, 6, 7, 8, 9]), 'union__linguistic__nmf__n_components': array([100, 150, 200, 250, 300, 350, 400]), 'union__linguistic__tfidf__max_df': array([ 0.5,  0.6,  0.7,  0.8,  0.9]), 'clf__subsample': array([ 0.5,  0.6,  0.7,  0.8,  0.9]), 'clf__colsample_bytree': array([ 0.5,  0.6,  0.7,  0.8,  0.9]), 'clf__max_depth': array([3, 4, 5, 6, 7, 8, 9]), 'union__linguistic__tfidf__min_df': array([ 0.1,  0.2,  0.3])}
+66273
+66273
+Top 3 lines
+#1: joblib/numpy_pickle.py:108: 3521528.4 KiB
+    array = pickle.load(unpickler.file_handle)
+#2: python3.5/pickle.py:1039: 8.3 KiB
+    dispatch[key[0]](self)
+#3: tf_idf_v2.py:30: 4.7 KiB
+    path, prices, labels = path_prices_labels.split(';')
+112 other: 64.3 KiB
+Total allocated size: 3521605.7 KiB
+Traceback (most recent call last):
+  File "tf_idf_v2.py", line 147, in <module>
+    main()
+  File "tf_idf_v2.py", line 100, in main
+    run_experiment(estimators, param_grid, pickle_path, dataset)
+  File "tf_idf_v2.py", line 135, in run_experiment
+    grid_search.fit(dataset['X'], dataset['labels']) 
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/model_selection/_search.py", line 639, in fit
+    cv.split(X, y, groups)))
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/externals/joblib/parallel.py", line 789, in __call__
+    self.retrieve()
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/externals/joblib/parallel.py", line 699, in retrieve
+    self._output.extend(job.get(timeout=self.timeout))
+  File "/usr/lib/python3.5/multiprocessing/pool.py", line 608, in get
+    raise self._value
+  File "/usr/lib/python3.5/multiprocessing/pool.py", line 385, in _handle_tasks
+    put(task)
+  File "/usr/local/lib/python3.5/dist-packages/sklearn/externals/joblib/pool.py", line 371, in send
+    CustomizablePickler(buffer, self._reducers).dump(obj)
+MemoryError
+string price: 1.8591981136572546
+string price: 1.2885263121198216
+string price: 1.0773845281177161
+string price: 1.121257804323449
+string price: 8.965153219298495
+string price: 1.2990684024571935
+string price: 9.064884734018875
+string price: 2.006564011672051
+string price: 2.3335508561398757
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 1.2591215623738339
+string price: 1.2787003960170784
+string price: 6.266887232538808
+string price: 1.5002095829715556
+dataset_size = 66273
+labels len = 66273
+experiment starting with estimators=[('union', FeatureUnion(n_jobs=1,
+       transformer_list=[('linguistic', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='corpus')), ('tfidf', TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=...tory', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='price_history'))]))],
+       transformer_weights={'price_history': 1.0, 'linguistic': 1.0})), ('clf', XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=None, n_estimators=300,
+       n_jobs=1, nthread=1, objective='multi:softmax', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1))] param_dict={'clf__subsample': array([ 0.5,  0.6,  0.7,  0.8,  0.9]), 'union__linguistic__tfidf__min_df': array([ 0.1,  0.2,  0.3]), 'union__linguistic__tfidf__max_df': array([ 0.5,  0.6,  0.7,  0.8,  0.9]), 'clf__max_depth': array([3, 4, 5, 6, 7, 8, 9]), 'union__linguistic__tfidf__sublinear_tf': [True], 'clf__min_child_weight': array([3, 4, 5, 6, 7, 8, 9]), 'clf__colsample_bytree': array([ 0.5,  0.6,  0.7,  0.8,  0.9]), 'union__linguistic__nmf__n_components': array([100, 150, 200, 250, 300, 350, 400])}
+66273
+66273
+Top 3 lines
+#1: joblib/numpy_pickle.py:108: 3521528.5 KiB
+    array = pickle.load(unpickler.file_handle)
+#2: python3.5/pickle.py:1039: 8.3 KiB
+    dispatch[key[0]](self)
+#3: tf_idf_v2.py:30: 4.7 KiB
+    path, prices, labels = path_prices_labels.split(';')
+111 other: 64.2 KiB
+Total allocated size: 3521605.7 KiB
+Total running time: 98931.5220015049
+{'param_clf__max_depth': masked_array(data = [8 3 4 5 6 4 3 6 7 6],
+             mask = [False False False False False False False False False False],
+       fill_value = ?)
+, 'split6_train_score': array([ 0.94724613,  0.53638239,  0.5934277 ,  0.70061882,  0.82914859,
+        0.60400218,  0.52775209,  0.82817649,  0.93811793,  0.84010243]), 'param_union__linguistic__tfidf__max_df': masked_array(data = [0.59999999999999998 0.59999999999999998 0.90000000000000002
+ 0.90000000000000002 0.69999999999999996 0.69999999999999996
+ 0.80000000000000004 0.80000000000000004 0.90000000000000002
+ 0.80000000000000004],
+             mask = [False False False False False False False False False False],
+       fill_value = ?)
+, 'split5_train_score': array([ 0.95914585,  0.54797665,  0.60658866,  0.72486377,  0.86877991,
+        0.62727851,  0.53989987,  0.85472851,  0.95391807,  0.86490748]), 'mean_score_time': array([  69.79756813,   75.39784274,   71.04959567,   82.85071502,
+         77.97880106,   68.9433821 ,   72.04398525,   75.23942034,
+        155.01940055,   92.98575807]), 'split8_test_score': array([ 0.40239044,  0.39840637,  0.39591633,  0.39591633,  0.3999004 ,
+        0.39541833,  0.40521248,  0.39226428,  0.39674635,  0.38960823]), 'split7_test_score': array([ 0.4189907 ,  0.42596282,  0.43011288,  0.42795485,  0.42297477,
+        0.41982072,  0.42314077,  0.4184927 ,  0.41650066,  0.42214475]), 'split3_train_score': array([ 0.98747148,  0.58705663,  0.67006845,  0.80004149,  0.92897739,
+        0.68761668,  0.57672682,  0.91740303,  0.96058909,  0.92682016]), 'mean_test_score': array([ 0.40401726,  0.412251  ,  0.41286521,  0.40848274,  0.40567729,
+        0.40785193,  0.4124004 ,  0.399751  ,  0.400166  ,  0.40393426]), 'split8_train_score': array([ 0.91382204,  0.5143384 ,  0.56556939,  0.65997234,  0.78904564,
+        0.57449516,  0.50970954,  0.78762563,  0.90157676,  0.78749654]), 'param_clf__subsample': masked_array(data = [0.90000000000000002 0.80000000000000004 0.59999999999999998
+ 0.59999999999999998 0.90000000000000002 0.5 0.5 0.5 0.5
+ 0.69999999999999996],
+             mask = [False False False False False False False False False False],
+       fill_value = ?)
+, 'split4_test_score': array([ 0.40239044,  0.41699867,  0.42646082,  0.41384462,  0.40869854,
+        0.42164675,  0.43193891,  0.40189243,  0.39641434,  0.40504648]), 'split0_train_score': array([ 0.99883971,  0.79396652,  0.91098956,  0.97994364,  0.99303829,
+        0.917454  ,  0.77076082,  0.99071772,  0.9373446 ,  0.99386706]), 'split1_train_score': array([ 0.99601891,  0.67413121,  0.78684582,  0.90967902,  0.97918222,
+        0.80716596,  0.65911918,  0.97486937,  0.93945426,  0.97876752]), 'std_train_score': array([ 0.03448238,  0.08448396,  0.10834547,  0.10651989,  0.07596741,
+        0.10786389,  0.07928965,  0.07696159,  0.0254386 ,  0.07678582]), 'split2_test_score': array([ 0.40255644,  0.41152058,  0.41434263,  0.40322045,  0.40554449,
+        0.40421647,  0.41052457,  0.38994024,  0.40504648,  0.40305445]), 'param_union__linguistic__tfidf__min_df': masked_array(data = [0.20000000000000001 0.20000000000000001 0.29999999999999999
+ 0.10000000000000001 0.20000000000000001 0.29999999999999999
+ 0.20000000000000001 0.29999999999999999 0.29999999999999999
+ 0.10000000000000001],
+             mask = [False False False False False False False False False False],
+       fill_value = ?)
+, 'split1_test_score': array([ 0.39624834,  0.40869854,  0.40205843,  0.3999004 ,  0.39209827,
+        0.40537849,  0.39475432,  0.39541833,  0.38413015,  0.3999004 ]), 'split9_train_score': array([ 0.8995336 ,  0.5082242 ,  0.55360255,  0.64900662,  0.77558134,
+        0.56754469,  0.50538598,  0.76140683,  0.88896081,  0.76880944]), 'split4_train_score': array([ 0.98094859,  0.56656378,  0.63423944,  0.7570779 ,  0.90305022,
+        0.65554781,  0.55604235,  0.88283713,  0.97012845,  0.89999668]), 'split6_test_score': array([ 0.42247676,  0.42729084,  0.42928287,  0.42164675,  0.41733068,
+        0.42778884,  0.42762284,  0.42065073,  0.41749668,  0.41832669]), 'param_clf__colsample_bytree': masked_array(data = [0.5 0.90000000000000002 0.69999999999999996 0.69999999999999996
+ 0.69999999999999996 0.59999999999999998 0.80000000000000004
+ 0.59999999999999998 0.5 0.59999999999999998],
+             mask = [False False False False False False False False False False],
+       fill_value = ?)
+, 'split5_test_score': array([ 0.40720452,  0.41401062,  0.41998672,  0.41567065,  0.41467463,
+        0.40670651,  0.41832669,  0.4065405 ,  0.40537849,  0.40936255]), 'std_fit_time': array([  531.71010914,   930.64950425,   548.9018946 ,  1199.57524621,
+        2049.21181104,   886.45916167,   737.43571695,  1658.67000029,
+        2575.92583971,  2542.87655404]), 'std_test_score': array([ 0.01036761,  0.00887802,  0.01349561,  0.01194551,  0.01162156,
+        0.01076293,  0.01238875,  0.01203295,  0.011254  ,  0.01130844]), 'split2_train_score': array([ 0.9933632 ,  0.61689066,  0.71423041,  0.84978707,  0.95918367,
+        0.73386428,  0.60959018,  0.94806703,  0.96305514,  0.95680549]), 'split9_test_score': array([ 0.40786853,  0.40869854,  0.41384462,  0.41683267,  0.41583665,
+        0.40338645,  0.40537849,  0.4002324 ,  0.40554449,  0.4126826 ]), 'param_union__linguistic__tfidf__sublinear_tf': masked_array(data = [True True True True True True True True True True],
+             mask = [False False False False False False False False False False],
+       fill_value = ?)
+, 'param_clf__min_child_weight': masked_array(data = [6 5 6 8 8 6 6 9 6 8],
+             mask = [False False False False False False False False False False],
+       fill_value = ?)
+, 'mean_fit_time': array([  823.23068433,  1581.973722  ,   871.77582479,  2013.56963215,
+        3645.22527719,  1522.23695045,  1234.73617773,  2894.53969245,
+        4446.43737431,  4565.62299395]), 'mean_train_score': array([ 0.96075528,  0.58687561,  0.66113799,  0.77069103,  0.88413438,
+        0.67654135,  0.57718018,  0.8746479 ,  0.93733128,  0.88263112]), 'split0_test_score': array([ 0.38645418,  0.40106242,  0.38861222,  0.38794821,  0.39126826,
+        0.39691235,  0.3935923 ,  0.38047809,  0.38678619,  0.38944223]), 'std_score_time': array([ 19.40404087,  17.93931727,  19.32834051,  19.72685956,
+        17.53957457,  17.2562422 ,  18.49670324,  20.3368972 ,
+        76.01092873,  17.36481308]), 'params': [{'clf__max_depth': 8, 'clf__subsample': 0.90000000000000002, 'union__linguistic__tfidf__min_df': 0.20000000000000001, 'union__linguistic__tfidf__max_df': 0.59999999999999998, 'clf__min_child_weight': 6, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.5, 'union__linguistic__nmf__n_components': 100}, {'clf__max_depth': 3, 'clf__subsample': 0.80000000000000004, 'union__linguistic__tfidf__min_df': 0.20000000000000001, 'union__linguistic__tfidf__max_df': 0.59999999999999998, 'clf__min_child_weight': 5, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.90000000000000002, 'union__linguistic__nmf__n_components': 200}, {'clf__max_depth': 4, 'clf__subsample': 0.59999999999999998, 'union__linguistic__tfidf__min_df': 0.29999999999999999, 'union__linguistic__tfidf__max_df': 0.90000000000000002, 'clf__min_child_weight': 6, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.69999999999999996, 'union__linguistic__nmf__n_components': 100}, {'clf__max_depth': 5, 'clf__subsample': 0.59999999999999998, 'union__linguistic__tfidf__min_df': 0.10000000000000001, 'union__linguistic__tfidf__max_df': 0.90000000000000002, 'clf__min_child_weight': 8, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.69999999999999996, 'union__linguistic__nmf__n_components': 200}, {'clf__max_depth': 6, 'clf__subsample': 0.90000000000000002, 'union__linguistic__tfidf__min_df': 0.20000000000000001, 'union__linguistic__tfidf__max_df': 0.69999999999999996, 'clf__min_child_weight': 8, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.69999999999999996, 'union__linguistic__nmf__n_components': 350}, {'clf__max_depth': 4, 'clf__subsample': 0.5, 'union__linguistic__tfidf__min_df': 0.29999999999999999, 'union__linguistic__tfidf__max_df': 0.69999999999999996, 'clf__min_child_weight': 6, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.59999999999999998, 'union__linguistic__nmf__n_components': 200}, {'clf__max_depth': 3, 'clf__subsample': 0.5, 'union__linguistic__tfidf__min_df': 0.20000000000000001, 'union__linguistic__tfidf__max_df': 0.80000000000000004, 'clf__min_child_weight': 6, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.80000000000000004, 'union__linguistic__nmf__n_components': 150}, {'clf__max_depth': 6, 'clf__subsample': 0.5, 'union__linguistic__tfidf__min_df': 0.29999999999999999, 'union__linguistic__tfidf__max_df': 0.80000000000000004, 'clf__min_child_weight': 9, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.59999999999999998, 'union__linguistic__nmf__n_components': 300}, {'clf__max_depth': 7, 'clf__subsample': 0.5, 'union__linguistic__tfidf__min_df': 0.29999999999999999, 'union__linguistic__tfidf__max_df': 0.90000000000000002, 'clf__min_child_weight': 6, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.5, 'union__linguistic__nmf__n_components': 400}, {'clf__max_depth': 6, 'clf__subsample': 0.69999999999999996, 'union__linguistic__tfidf__min_df': 0.10000000000000001, 'union__linguistic__tfidf__max_df': 0.80000000000000004, 'clf__min_child_weight': 8, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.59999999999999998, 'union__linguistic__nmf__n_components': 400}], 'rank_test_score': array([ 7,  3,  1,  4,  6,  5,  2, 10,  9,  8], dtype=int32), 'split3_test_score': array([ 0.3935923 ,  0.40986056,  0.40803453,  0.40189243,  0.38844622,
+        0.39724436,  0.41351262,  0.39160027,  0.3876162 ,  0.38977424]), 'split7_train_score': array([ 0.93116325,  0.52322566,  0.57581793,  0.67591959,  0.81535653,
+        0.59044418,  0.516815  ,  0.80064729,  0.92016763,  0.80873841]), 'param_union__linguistic__nmf__n_components': masked_array(data = [100 200 100 200 350 200 150 300 400 400],
+             mask = [False False False False False False False False False False],
+       fill_value = ?)
+}/usr/local/lib/python3.5/dist-packages/sklearn/model_selection/_search.py:761: DeprecationWarning: The grid_scores_ attribute was deprecated in version 0.18 in favor of the more elaborate cv_results_ attribute. The grid_scores_ attribute will not be available from 0.20
+  DeprecationWarning)
+
+[mean: 0.40402, std: 0.01037, params: {'clf__max_depth': 8, 'clf__subsample': 0.90000000000000002, 'union__linguistic__tfidf__min_df': 0.20000000000000001, 'union__linguistic__tfidf__max_df': 0.59999999999999998, 'clf__min_child_weight': 6, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.5, 'union__linguistic__nmf__n_components': 100}, mean: 0.41225, std: 0.00888, params: {'clf__max_depth': 3, 'clf__subsample': 0.80000000000000004, 'union__linguistic__tfidf__min_df': 0.20000000000000001, 'union__linguistic__tfidf__max_df': 0.59999999999999998, 'clf__min_child_weight': 5, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.90000000000000002, 'union__linguistic__nmf__n_components': 200}, mean: 0.41287, std: 0.01350, params: {'clf__max_depth': 4, 'clf__subsample': 0.59999999999999998, 'union__linguistic__tfidf__min_df': 0.29999999999999999, 'union__linguistic__tfidf__max_df': 0.90000000000000002, 'clf__min_child_weight': 6, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.69999999999999996, 'union__linguistic__nmf__n_components': 100}, mean: 0.40848, std: 0.01195, params: {'clf__max_depth': 5, 'clf__subsample': 0.59999999999999998, 'union__linguistic__tfidf__min_df': 0.10000000000000001, 'union__linguistic__tfidf__max_df': 0.90000000000000002, 'clf__min_child_weight': 8, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.69999999999999996, 'union__linguistic__nmf__n_components': 200}, mean: 0.40568, std: 0.01162, params: {'clf__max_depth': 6, 'clf__subsample': 0.90000000000000002, 'union__linguistic__tfidf__min_df': 0.20000000000000001, 'union__linguistic__tfidf__max_df': 0.69999999999999996, 'clf__min_child_weight': 8, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.69999999999999996, 'union__linguistic__nmf__n_components': 350}, mean: 0.40785, std: 0.01076, params: {'clf__max_depth': 4, 'clf__subsample': 0.5, 'union__linguistic__tfidf__min_df': 0.29999999999999999, 'union__linguistic__tfidf__max_df': 0.69999999999999996, 'clf__min_child_weight': 6, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.59999999999999998, 'union__linguistic__nmf__n_components': 200}, mean: 0.41240, std: 0.01239, params: {'clf__max_depth': 3, 'clf__subsample': 0.5, 'union__linguistic__tfidf__min_df': 0.20000000000000001, 'union__linguistic__tfidf__max_df': 0.80000000000000004, 'clf__min_child_weight': 6, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.80000000000000004, 'union__linguistic__nmf__n_components': 150}, mean: 0.39975, std: 0.01203, params: {'clf__max_depth': 6, 'clf__subsample': 0.5, 'union__linguistic__tfidf__min_df': 0.29999999999999999, 'union__linguistic__tfidf__max_df': 0.80000000000000004, 'clf__min_child_weight': 9, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.59999999999999998, 'union__linguistic__nmf__n_components': 300}, mean: 0.40017, std: 0.01125, params: {'clf__max_depth': 7, 'clf__subsample': 0.5, 'union__linguistic__tfidf__min_df': 0.29999999999999999, 'union__linguistic__tfidf__max_df': 0.90000000000000002, 'clf__min_child_weight': 6, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.5, 'union__linguistic__nmf__n_components': 400}, mean: 0.40393, std: 0.01131, params: {'clf__max_depth': 6, 'clf__subsample': 0.69999999999999996, 'union__linguistic__tfidf__min_df': 0.10000000000000001, 'union__linguistic__tfidf__max_df': 0.80000000000000004, 'clf__min_child_weight': 8, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.59999999999999998, 'union__linguistic__nmf__n_components': 400}]
+{'clf__max_depth': 4, 'clf__subsample': 0.59999999999999998, 'union__linguistic__tfidf__min_df': 0.29999999999999999, 'union__linguistic__tfidf__max_df': 0.90000000000000002, 'clf__min_child_weight': 6, 'union__linguistic__tfidf__sublinear_tf': True, 'clf__colsample_bytree': 0.69999999999999996, 'union__linguistic__nmf__n_components': 100}
+0.412865205843

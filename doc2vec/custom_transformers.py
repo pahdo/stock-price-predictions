@@ -81,6 +81,10 @@ class CustomDictVectorizer(BaseEstimator, TransformerMixin):
             for i, x in enumerate(X):
                 for j, val in enumerate(x['price_history']):
                     Xa[i][j] = val
+        elif self.key == 'doc2vec':
+            Xa = np.empty([len(X), 100])
+            for i, x in enumerate(X):
+                Xa[i] = x['corpus']
         return Xa
 
 class Doc2VecVectorizer(BaseEstimator, TransformerMixin):
