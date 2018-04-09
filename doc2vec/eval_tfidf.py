@@ -19,7 +19,7 @@ def read_dataset(label_horizon, subset='full', doc2vec=False):
         label_horizon : 1, 2, 3, 4, 5 to decide between alpha1, alpha2, etc.
     """
     if subset == 'full' and not doc2vec:
-        data_index_path = 'data/' + my_config.dataset_dir + '/all-train.txt'
+        data_index_path = 'data/' + my_config.dataset_dir + '/all-test.txt'
     elif subset == 'full' and doc2vec:
         data_index_path = 'data/' + my_config.dataset_dir + '/all-doc2vec_test.txt'
     elif subset == '10000':
@@ -74,9 +74,13 @@ def read_dataset_dictionary(label_horizon, subset='full', momentum_only=False, d
     return dataset
 
 from sklearn.externals import joblib
-#pickle_path = 'momentum_full_1_best_estimator.pkl'
-#pickle_path = 'tfidf_full_1_best_estimator.pkl'
-pickle_path = 'doc2vec_full_1_best_estimator_no_gridsearch.pkl'
-best_estimator = joblib.load(pickle_path)
-dataset = read_dataset_dictionary(label_horizon=1, subset='full', momentum_only=False, doc2vec=True)
-print(best_estimator.score(dataset['X'], dataset['labels']))
+pickle_path = 'dm_dbow_tfidf_full_1_best_estimator.pkl'
+dataset = read_dataset_dictionary(label_horizon=1, subset='full', momentum_only=False, doc2vec=False)
+with open(pickle_path, 'rb') as p:   
+    best_estimator = pickle.load(p)
+    result = best_estimator.score(dataset['X'], dataset['labels'])
+    print(pickle_path)
+    print(result)
+    with open('eval_results.txt', 'a+') as t:
+        t.write(pickle_path)
+        t.write(str(result))

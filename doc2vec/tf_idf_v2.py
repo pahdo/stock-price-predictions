@@ -2,12 +2,8 @@ import os
 import time
 import numpy as np
 from sklearn.externals import joblib
-from sklearn.linear_model import LogisticRegression
-from sklearn.naive_bayes import MultinomialNB
 from sklearn.model_selection import GridSearchCV
 from sklearn.model_selection import RandomizedSearchCV
-from sklearn.metrics import roc_auc_score
-from sklearn.metrics import precision_recall_fscore_support
 from sklearn.model_selection import TimeSeriesSplit
 from sklearn.pipeline import Pipeline
 import pickle
@@ -17,112 +13,92 @@ import my_estimators
 import utils_v2
 import my_diagnostics
 
-def read_dataset(label_horizon, subset='full', doc2vec=False):
-    """
-    args : 
-        label_horizon : 1, 2, 3, 4, 5 to decide between alpha1, alpha2, etc.
-    """
-    if subset == 'full' and not doc2vec:
-        data_index_path = 'data/' + my_config.dataset_dir + '/all-train.txt'
-    elif subset == 'full' and doc2vec:
-        data_index_path = 'data/' + my_config.dataset_dir + '/all-doc2vec_train.txt'
-    elif subset == '10000':
-        data_index_path = 'data/' + my_config.dataset_dir + '/all-train_10000.txt'
-    with open(data_index_path, 'r') as data_index:
-        for path_prices_labels in data_index.readlines():
-            if doc2vec:
-                v, prices, labels = path_prices_labels.split('\t')
-            else:
-                path, prices, labels = path_prices_labels.split(';')
-            prices = prices.split(',')
-
-            """for detecting outliers
-            """
-            for p in prices:
-                if float(p) > 1.0 or float(p) < -1.0:
-                    print("string price: {}".format(p))
-
-            labels = labels.split(',')
-            if doc2vec:
-                yield pickle.loads(codecs.decode(v.encode(), 'base64')), [float(p) for p in prices], utils_v2.bin_alpha(float(labels[label_horizon]))
-            else:
-                with open(path, 'r') as t:
-                    yield t.read(), [float(p) for p in prices], utils_v2.bin_alpha(float(labels[label_horizon]))
-
-def read_dataset_dictionary(label_horizon, subset='full', momentum_only=False, doc2vec=False):
-    dataset_gen = read_dataset(label_horizon, subset, doc2vec)
-    text, prices, labels = utils_v2.split_gen_3(dataset_gen)
-
-    # TODO: For momentum_only, speed up by not opening files in dataset at all
-    X = [] 
-    for t in text:
-        price_hist = np.array(next(prices))
-        if momentum_only:
-            X.append({'price_history': price_hist})
-        else:
-            X.append({'corpus': t, 'price_history': price_hist})
-    X = np.array(X, dtype=object)
-
-    dataset_size = len(X)
-    print("dataset_size = {}".format(dataset_size))
-    dataset = {}
-
-    dataset['X'] = X
-
-    """https://stackoverflow.com/questions/31995175/scikit-learn-cross-val-score-too-many-indices-for-array
-    In sklearn cross-validation, labels must be (N,), not (N,1)
-    """
-    dataset['labels'] = np.array(list(labels))
-    print("labels len = {}".format(len(dataset['labels'])))
-    
-    return dataset
-
 def get_estimators(key):
     param_grid = None
     estimators = None
     if key == 'doc2vec':
-        """https://github.com/RaRe-Technologies/gensim/issues/1952
-        Doc2Vec on gensim 3.4.0 (latest version) FAILS due to above error. Unresolved.
-        Solution: downgrade to 3.2.0
-        """
         param_grid = my_estimators.param_grid_doc2vec_prices_xgb
         estimators = my_estimators.estimators_doc2vec_prices_xgb
         momentum_only = False
+        doctag_only = False
         doc2vec = True
-    elif key == 'tfidf':
+    elif key == 'dm_dbow_train':
+        param_grid = my_estimators.param_grid_dm_dbow_xgb
+        estimators = my_estimators.estimators_dm_dbow_xgb
+        momentum_only = False
+        doctag_only = True
+        doc2vec = False
+    elif key == 'tf_idf':
         param_grid = my_estimators.param_grid_tfidf_nmf_prices_xgb
         estimators = my_estimators.estimators_tfidf_nmf_prices_xgb
         momentum_only = False
+        doctag_only = False
         doc2vec = False
     elif key == 'momentum':
         param_grid = my_estimators.param_grid_prices_xgb
         estimators = my_estimators.estimators_prices_xgb
         momentum_only = True
+        doctag_only = False
         doc2vec = False
-    return estimators, param_grid, momentum_only, doc2vec
+    elif key == 'dm_dbow_tfidf_1':
+        estimators = my_estimators.estimators_dm_dbow_tfidf_xgb_1
+        param_grid = my_estimators.param_grid_dm_dbow_tfidf_xgb
+        momentum_only = False
+        doctag_only = False
+        doc2vec = False
+    elif key == 'dm_dbow_tfidf_2':
+        estimators = my_estimators.estimators_dm_dbow_tfidf_xgb_2
+        param_grid = my_estimators.param_grid_dm_dbow_tfidf_xgb
+        momentum_only = False
+        doctag_only = False
+        doc2vec = False
+    elif key == 'dm_dbow_tfidf_3':
+        estimators = my_estimators.estimators_dm_dbow_tfidf_xgb_3
+        param_grid = my_estimators.param_grid_dm_dbow_tfidf_xgb
+        momentum_only = False
+        doctag_only = False
+        doc2vec = False
+    elif key == 'dm_dbow_tfidf_4':
+        estimators = my_estimators.estimators_dm_dbow_tfidf_xgb_4
+        param_grid = my_estimators.param_grid_dm_dbow_tfidf_xgb
+        momentum_only = False
+        doctag_only = False
+        doc2vec = False
+    elif key == 'ensemble':
+        estimators = my_estimators.ensemble_clf
+        param_grid = my_estimators.ensemble_param_grid
+        momentum_only = False
+        doctag_only = False
+        doc2vec = False
+    else:
+        print("ERROR: INVALID KEY")
+    return estimators, param_grid, momentum_only, doc2vec, doctag_only
 
 def main():
     my_diagnostics.tracemalloc.start()
     label_horizon=1
     subset='full'
-    key='doc2vec'
-    estimators, param_grid, momentum_only, doc2vec = get_estimators(key)
-    dataset = get_dataset(label_horizon, subset, momentum_only, doc2vec)
+    key = 'ensemble'
+    estimators, param_grid, momentum_only, doc2vec, doctag_only = get_estimators(key)
+    dataset = get_dataset(label_horizon, subset, momentum_only, doc2vec, doctag_only)
     pickle_path = key + '_' + subset + '_' + str(label_horizon) + '_best_estimator.pkl'
     
     run_experiment(estimators, param_grid, pickle_path, dataset)
 
-"""expensive local variables to garbage collected when this function returns
-Before: 8GB of memory used before forking
-After: 3.5GB of memory used before forking
+"""large local variables to garbage collected when this function returns
+before: 8GB of memory used before forking
+after: 3.5GB of memory used before forking
 """
-def get_dataset(label_horizon, subset, momentum_only=False, doc2vec=False):
-    dataset = read_dataset_dictionary(label_horizon=label_horizon, subset=subset, momentum_only=momentum_only, doc2vec=doc2vec)
+def get_dataset(label_horizon, subset, momentum_only, doc2vec, doctag_only):
+    dataset = utils_v2.read_dataset_dictionary(label_horizon=label_horizon, subset=subset, momentum_only=momentum_only, doc2vec=doc2vec, doctag_only=doctag_only)
     joblib.dump(dataset['X'], 'dataset_dump.pkl')
     dataset['X'] = joblib.load('dataset_dump.pkl', mmap_mode='r')
     return dataset
 
 def run_experiment(estimators, param_dict, pickle_path, dataset):
+    dataset['X'] = dataset['X']
+    dataset['labels'] = dataset['labels']
+    
     print('experiment starting with estimators={} param_dict={}'.format(estimators, param_dict))
     start = time.time()
     pipe = Pipeline(memory=my_config.cache_dir, steps=estimators)
@@ -130,20 +106,20 @@ def run_experiment(estimators, param_dict, pickle_path, dataset):
     """https://stats.stackexchange.com/questions/14099/using-k-fold-cross-validation-for-time-series-model-selection
     https://stackoverflow.com/questions/46732748/how-do-i-use-a-timeseriessplit-with-a-gridsearchcv-object-to-tune-a-model-in-sci
     """
-    ts_cv = TimeSeriesSplit(n_splits=10).split(dataset['X'])  
+    ts_cv = TimeSeriesSplit(n_splits=2).split(dataset['X'])  
     
     """GridSearch
     http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
     If n_jobs was set to a value higher than one, the data is copied for each point in the grid (and not n_jobs times). This is done for efficiency reasons if individual jobs take very little time, but may raise errors if the dataset is large and not enough memory is available. A workaround in this case is to set pre_dispatch. Then, the memory is copied only pre_dispatch many times. A reasonable value for pre_dispatch is 2 * n_jobs.
     """
 #    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, cv=ts_cv, n_jobs=24, pre_dispatch='n_jobs+4')
-#    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, cv=ts_cv, n_jobs=3, pre_dispatch='n_jobs')
-    grid_search = GridSearchCV(pipe, param_grid=param_dict, cv=ts_cv)
-    print(len(dataset['X']))
-    print(len(dataset['labels']))
-    
+#    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, n_iter=3, cv=ts_cv, n_jobs=3, pre_dispatch='n_jobs')
     snapshot = my_diagnostics.tracemalloc.take_snapshot()
     my_diagnostics.display_top(snapshot)
+    
+    print(len(dataset['X']))
+    print(len(dataset['labels']))
+    grid_search = GridSearchCV(pipe, param_grid=param_dict, cv=ts_cv)
     
     grid_search.fit(dataset['X'], dataset['labels']) 
 
@@ -154,7 +130,8 @@ def run_experiment(estimators, param_dict, pickle_path, dataset):
     print(grid_search.best_params_)
     print(grid_search.best_score_)
 
-    joblib.dump(grid_search.best_estimator_, pickle_path, compress=1)
+    with open(pickle_path, 'wb+') as p:
+        pickle.dump(grid_search.best_estimator_, p)
 
 if __name__ == '__main__':
     main()

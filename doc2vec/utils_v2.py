@@ -394,3 +394,70 @@ def bin_alpha(a):
         return 1
     else:
         return 0
+    
+def read_dataset(label_horizon, subset='full', doc2vec=False, momentum_only=False):
+    """
+    args : 
+        label_horizon : number of days to predict in the future
+        subset : subset of train set to use
+        doc2vec : whether to train on text or Doc2Vec vectors
+    """
+    if subset == 'full' and not doc2vec:
+        data_index_path = 'data/' + my_config.dataset_dir + '/all-train.txt'
+    elif subset == 'full' and doc2vec:
+        data_index_path = 'data/' + my_config.dataset_dir + '/all-doc2vec_train.txt'
+    elif subset == '10000':
+        data_index_path = 'data/' + my_config.dataset_dir + '/all-train_10000.txt'
+    elif subset == '300':
+        data_index_path = 'data/' + my_config.dataset_dir + '/all-train_300.txt'
+    with open(data_index_path, 'r') as data_index:
+        for line in data_index.readlines():
+            if doc2vec:
+                vec, prices, labels = line.split('\t')
+            else:
+                path, prices, labels = line.split(';')
+            prices = prices.split(',')
+
+            # Print out outliers
+            for p in prices:
+                if float(p) > 1.0 or float(p) < -1.0:
+                    print("string price: {}".format(p))
+
+            labels = labels.split(',')
+            if doc2vec:
+                linguistic = pickle.loads(codecs.decode(vec.encode(), 'base64'))
+            elif momentum_only:
+                linguistic = None
+            else:
+                with open(path, 'r') as t:
+                    linguistic = t.read()
+            prices_arr = np.array([float(p) for p in prices])
+            label = bin_alpha(float(labels[label_horizon]))
+            yield linguistic, prices_arr, label
+
+def read_dataset_dictionary(label_horizon, subset='full', momentum_only=False, doc2vec=False, doctag_only=False):
+    dataset_gen = read_dataset(label_horizon, subset, doc2vec)
+    text, prices, labels = split_gen_3(dataset_gen)
+
+    X = [] 
+    for i, t in enumerate(text):
+        price_hist = np.array(next(prices))
+        if momentum_only:
+            X.append({'price_history': price_hist})
+        elif doctag_only:
+            X.append({'corpus': i, 'price_history': price_hist})
+        else:
+            X.append({'corpus': t, 'price_history': price_hist})
+    X = np.array(X, dtype=object)
+
+    dataset = {}
+    dataset['X'] = X
+    """https://stackoverflow.com/questions/31995175/scikit-learn-cross-val-score-too-many-indices-for-array
+    In sklearn cross-validation, labels must be (N,), not (N,1)
+    """
+    dataset['labels'] = np.array(list(labels))
+    dataset_size = len(X)
+    print("dataset_size = {}".format(dataset_size))
+    print("labels len = {}".format(len(dataset['labels'])))
+    
+    return dataset

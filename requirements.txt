@@ -1,7 +1,5 @@
-scikit-learn
-formic-py3
-numpy
+scikit-learn==0.19.1
+numpy==1.14.2
 gensim==3.2.0
-xgboost
-spacy
+spacy==2.0.10
 

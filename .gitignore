@@ -6,3 +6,4 @@ doc2vec/tfidf_embedded.pickle
 */__pycache__/*
 *.pyc
 *.pkl
+doc2vec/saved_doc2vec_models*

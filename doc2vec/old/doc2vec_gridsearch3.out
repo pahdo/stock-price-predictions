@@ -1,0 +1,91 @@
+string price: 2.006564011672051
+string price: 1.2591215623738339
+string price: 6.266887232538808
+string price: 1.2787003960170784
+string price: 9.064884734018875
+string price: 1.2990684024571935
+string price: 8.965153219298495
+string price: 1.5002095829715556
+string price: 1.2885263121198216
+string price: 1.0773845281177161
+string price: 1.121257804323449
+string price: 1.8591981136572546
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 2.3335508561398757
+dataset_size = 66273
+labels len = 66273
+experiment starting with estimators=[('union', FeatureUnion(n_jobs=1,
+       transformer_list=[('linguistic', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='doc2vec'))])), ('price_history', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='price_history'))]))],
+       transformer_weights={'linguistic': 1.0, 'price_history': 1.0})), ('clf', XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=None, n_estimators=300,
+       n_jobs=1, nthread=None, objective='multi:softmax', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1))] param_dict={'clf__subsample': array([ 0.5,  0.6,  0.7,  0.8,  0.9]), 'clf__min_child_weight': array([3, 4, 5, 6, 7, 8, 9]), 'clf__max_depth': array([3, 4, 5, 6, 7, 8, 9]), 'clf__colsample_bytree': array([ 0.5,  0.6,  0.7,  0.8,  0.9])}
+66273
+66273
+Top 3 lines
+#1: joblib/numpy_pickle.py:108: 39084.8 KiB
+    array = pickle.load(unpickler.file_handle)
+#2: python3.5/pickle.py:1039: 8.3 KiB
+    dispatch[key[0]](self)
+#3: tf_idf_v2.py:34: 4.3 KiB
+    v, prices, labels = path_prices_labels.split('\t')
+145 other: 80.4 KiB
+Total allocated size: 39177.8 KiB
+Total running time: 2013.1932833194733
+{'split2_train_score': array([ 0.85094851,  0.84409048,  0.99823019,  1.        ,  0.84718766,
+        0.98650517,  0.74005863,  0.610641  ,  0.99988939,  0.9975112 ]), 'std_score_time': array([ 0.05537213,  0.08102432,  0.14616907,  0.13747082,  0.15838186,
+        0.11875851,  0.18455686,  0.09057636,  0.08041011,  0.12793023]), 'std_test_score': array([ 0.00807259,  0.01134273,  0.01014363,  0.00915089,  0.00911541,
+        0.01021181,  0.01059858,  0.01073636,  0.01012349,  0.00835376]), 'split5_train_score': array([ 0.71686997,  0.71714657,  0.97402705,  0.99662545,  0.71822532,
+        0.91779382,  0.62913175,  0.53425718,  0.99449562,  0.96841203]), 'split6_test_score': array([ 0.39442231,  0.38994024,  0.38263612,  0.38994024,  0.40288845,
+        0.39774236,  0.39824037,  0.40239044,  0.37915007,  0.39458831]), 'mean_train_score': array([ 0.76306748,  0.7632634 ,  0.96964459,  0.99342917,  0.7637242 ,
+        0.9262414 ,  0.67711621,  0.57457326,  0.99142989,  0.9664618 ]), 'split6_train_score': array([ 0.68916708,  0.68874031,  0.96009674,  0.99274486,  0.68959385,
+        0.89958982,  0.59954478,  0.51734358,  0.99011309,  0.95708562]), 'split8_train_score': array([ 0.64525588,  0.64746888,  0.93017981,  0.98307054,  0.64606731,
+        0.85268787,  0.56977409,  0.50072845,  0.97812817,  0.92368834]), 'params': [{'clf__subsample': 0.90000000000000002, 'clf__min_child_weight': 8, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.80000000000000004}, {'clf__subsample': 0.5, 'clf__min_child_weight': 5, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.59999999999999998}, {'clf__subsample': 0.69999999999999996, 'clf__min_child_weight': 8, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.5}, {'clf__subsample': 0.90000000000000002, 'clf__min_child_weight': 5, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.5}, {'clf__subsample': 0.69999999999999996, 'clf__min_child_weight': 7, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.59999999999999998}, {'clf__subsample': 0.90000000000000002, 'clf__min_child_weight': 8, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.80000000000000004}, {'clf__subsample': 0.69999999999999996, 'clf__min_child_weight': 4, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.80000000000000004}, {'clf__subsample': 0.69999999999999996, 'clf__min_child_weight': 6, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}, {'clf__subsample': 0.5, 'clf__min_child_weight': 6, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.5}, {'clf__subsample': 0.80000000000000004, 'clf__min_child_weight': 9, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.5}], 'param_clf__max_depth': masked_array(data = [5 5 8 9 5 7 4 3 9 8],
+             mask = [False False False False False False False False False False],
+       fill_value = ?)
+, 'split0_test_score': array([ 0.38911023,  0.38263612,  0.37583001,  0.37649402,  0.38844622,
+        0.37317397,  0.38960823,  0.38861222,  0.37250996,  0.38230412]), 'split7_train_score': array([ 0.66247588,  0.66641771,  0.94249082,  0.9876766 ,  0.66438456,
+        0.87346736,  0.58231157,  0.50617207,  0.98533225,  0.93489762]), 'split3_train_score': array([ 0.78751296,  0.7893798 ,  0.99294752,  0.99950218,  0.78651732,
+        0.96743414,  0.68388301,  0.57403028,  0.99900436,  0.9924497 ]), 'split4_test_score': array([ 0.39591633,  0.39143426,  0.38014608,  0.39093625,  0.38977424,
+        0.38562417,  0.39143426,  0.39840637,  0.37649402,  0.38711819]), 'split1_train_score': array([ 0.91523596,  0.91830472,  0.99983412,  1.        ,  0.91415775,
+        0.99742888,  0.8154599 ,  0.67048188,  1.        ,  0.99983412]), 'split5_test_score': array([ 0.39193227,  0.38645418,  0.39741036,  0.39724436,  0.4000664 ,
+        0.39492032,  0.40488048,  0.40853254,  0.37749004,  0.3999004 ]), 'split7_test_score': array([ 0.40255644,  0.40371846,  0.39442231,  0.39060425,  0.40388446,
+        0.40139442,  0.4062085 ,  0.41102258,  0.38844622,  0.39757636]), 'split9_train_score': array([ 0.62640044,  0.62908928,  0.91447161,  0.97653073,  0.62952082,
+        0.82615479,  0.55605902,  0.49385052,  0.97015718,  0.90846321]), 'mean_score_time': array([ 1.07857399,  1.09989257,  1.28887944,  1.32346256,  1.03817489,
+        1.03489971,  0.88534958,  0.75052638,  1.22307532,  1.08440549]), 'mean_fit_time': array([ 368.26676059,  234.62012661,  351.92900887,  425.1219146 ,
+        258.75626068,  476.13630459,  273.79911473,  144.91315567,
+        326.03072798,  311.96355836]), 'split2_test_score': array([ 0.40421647,  0.39724436,  0.39525232,  0.39757636,  0.40770252,
+        0.39691235,  0.39840637,  0.41019256,  0.38396414,  0.39575033]), 'rank_test_score': array([ 4,  5,  9,  8,  3,  7,  2,  1, 10,  6], dtype=int32), 'param_clf__min_child_weight': masked_array(data = [8 5 8 5 7 8 4 6 6 9],
+             mask = [False False False False False False False False False False],
+       fill_value = ?)
+, 'split0_train_score': array([ 0.991878  ,  0.99121498,  1.        ,  1.        ,  0.99204376,
+        1.        ,  0.94646113,  0.79280623,  1.        ,  1.        ]), 'split3_test_score': array([ 0.3997344 ,  0.39060425,  0.39508632,  0.39326029,  0.39873838,
+        0.39674635,  0.40388446,  0.41168659,  0.37848606,  0.38977424]), 'param_clf__subsample': masked_array(data = [0.90000000000000002 0.5 0.69999999999999996 0.90000000000000002
+ 0.69999999999999996 0.90000000000000002 0.69999999999999996
+ 0.69999999999999996 0.5 0.80000000000000004],
+             mask = [False False False False False False False False False False],
+       fill_value = ?)
+, 'mean_test_score': array([ 0.4002822 ,  0.39757636,  0.39301129,  0.39511952,  0.40298805,
+        0.39570053,  0.40356906,  0.40849934,  0.38552457,  0.39636454]), 'split4_train_score': array([ 0.74493013,  0.74078131,  0.98416808,  0.99814133,  0.74954363,
+        0.94135219,  0.64847821,  0.54542135,  0.9971788 ,  0.98227621]), 'std_train_score': array([ 0.11594426,  0.11497429,  0.02975429,  0.00790726,  0.11477558,
+        0.05921073,  0.11832086,  0.08973498,  0.00993306,  0.03226372]), 'split8_test_score': array([ 0.41417663,  0.41019256,  0.40089641,  0.40720452,  0.41301461,
+        0.39840637,  0.41965471,  0.42231076,  0.40122842,  0.40869854]), 'param_clf__colsample_bytree': masked_array(data = [0.80000000000000004 0.59999999999999998 0.5 0.5 0.59999999999999998
+ 0.80000000000000004 0.80000000000000004 0.5 0.5 0.5],
+             mask = [False False False False False False False False False False],
+       fill_value = ?)
+, 'split9_test_score': array([ 0.41367862,  0.42164675,  0.41185259,  0.41135458,  0.41998672,
+        0.41533865,  0.42446879,  0.42812085,  0.40122842,  0.41052457]), 'split1_test_score': array([ 0.39707835,  0.40189243,  0.39658035,  0.39658035,  0.40537849,
+        0.39674635,  0.39890438,  0.40371846,  0.39624834,  0.39741036]), 'std_fit_time': array([ 213.18621912,  133.82712352,  199.34055188,  240.92817448,
+        139.4737379 ,  258.57262414,  156.72027779,   85.84777736,
+        173.46306669,  163.77104953])}
+[mean: 0.40028, std: 0.00807, params: {'clf__subsample': 0.90000000000000002, 'clf__min_child_weight': 8, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.80000000000000004}, mean: 0.39758, std: 0.01134, params: {'clf__subsample': 0.5, 'clf__min_child_weight': 5, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.59999999999999998}, mean: 0.39301, std: 0.01014, params: {'clf__subsample': 0.69999999999999996, 'clf__min_child_weight': 8, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.5}, mean: 0.39512, std: 0.00915, params: {'clf__subsample': 0.90000000000000002, 'clf__min_child_weight': 5, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.5}, mean: 0.40299, std: 0.00912, params: {'clf__subsample': 0.69999999999999996, 'clf__min_child_weight': 7, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.59999999999999998}, mean: 0.39570, std: 0.01021, params: {'clf__subsample': 0.90000000000000002, 'clf__min_child_weight': 8, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.80000000000000004}, mean: 0.40357, std: 0.01060, params: {'clf__subsample': 0.69999999999999996, 'clf__min_child_weight': 4, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.80000000000000004}, mean: 0.40850, std: 0.01074, params: {'clf__subsample': 0.69999999999999996, 'clf__min_child_weight': 6, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}, mean: 0.38552, std: 0.01012, params: {'clf__subsample': 0.5, 'clf__min_child_weight': 6, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.5}, mean: 0.39636, std: 0.00835, params: {'clf__subsample': 0.80000000000000004, 'clf__min_child_weight': 9, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.5}]/usr/local/lib/python3.5/dist-packages/sklearn/model_selection/_search.py:761: DeprecationWarning: The grid_scores_ attribute was deprecated in version 0.18 in favor of the more elaborate cv_results_ attribute. The grid_scores_ attribute will not be available from 0.20
+  DeprecationWarning)
+
+{'clf__subsample': 0.69999999999999996, 'clf__min_child_weight': 6, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}
+0.408499335989
