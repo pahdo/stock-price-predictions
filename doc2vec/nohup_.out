@@ -1,0 +1,1148 @@
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/model_selection/_search.py:761: DeprecationWarning: The grid_scores_ attribute was deprecated in version 0.18 in favor of the more elaborate cv_results_ attribute. The grid_scores_ attribute will not be available from 0.20
+  DeprecationWarning)
+dm_dbow __init__ took 0.09323954582214355 seconds
+dm_dbow __init__ took 0.37419891357421875 seconds
+saved_tfidf_models/tfidf(0.3,1.0,100).pkl
+tfidf __init__ took 0.04773211479187012 seconds
+dm_dbow __init__ took 0.37335872650146484 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.046125173568725586 seconds
+dm_dbow __init__ took 0.39679455757141113 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.05215644836425781 seconds
+dm_dbow __init__ took 0.3993489742279053 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.05289816856384277 seconds
+string price: 1.8591981136572546
+string price: 1.2885263121198216
+string price: 1.0773845281177161
+string price: 1.121257804323449
+string price: 8.965153219298495
+string price: 1.2990684024571935
+string price: 9.064884734018875
+string price: 2.006564011672051
+string price: 2.3335508561398757
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 1.2591215623738339
+string price: 1.2787003960170784
+string price: 6.266887232538808
+string price: 1.5002095829715556
+dataset_size = 66273
+labels len = 66273
+experiment starting with estimators=[('union', FeatureUnion(n_jobs=1,
+       transformer_list=[('linguistic', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='corpus')), ('tfidf', TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=...tory', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='price_history'))]))],
+       transformer_weights={'linguistic': 1.0, 'price_history': 1.0})), ('clf', XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=None, n_estimators=300,
+       n_jobs=1, nthread=4, objective='multi:softmax', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1))] param_dict={'clf__max_depth': array([4]), 'clf__min_child_weight': array([6]), 'clf__subsample': array([0.6]), 'clf__colsample_bytree': array([0.7]), 'union__linguistic__tfidf__max_df': array([0.9]), 'union__linguistic__tfidf__min_df': array([0.3]), 'union__linguistic__tfidf__sublinear_tf': [True], 'union__linguistic__nmf__n_components': array([100])}
+66273
+66273
+Top 3 lines
+#1: joblib/numpy_pickle.py:108: 3521526.6 KiB
+    array = pickle.load(unpickler.file_handle)
+#2: tf_idf_v2.py:77: 517.9 KiB
+    dataset['labels'] = np.array(list(labels))
+#3: tf_idf_v2.py:49: 6.6 KiB
+    with open(path, 'r') as t:
+114 other: 66.0 KiB
+Total allocated size: 3522117.1 KiB
+Total running time: 4653.411451101303
+{'mean_fit_time': array([55.87646677]), 'std_fit_time': array([32.52476036]), 'mean_score_time': array([71.92002966]), 'std_score_time': array([18.70212631]), 'param_clf__colsample_bytree': masked_array(data=[0.7],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_clf__max_depth': masked_array(data=[4],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_clf__min_child_weight': masked_array(data=[6],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_clf__subsample': masked_array(data=[0.6],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_union__linguistic__nmf__n_components': masked_array(data=[100],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_union__linguistic__tfidf__max_df': masked_array(data=[0.9],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_union__linguistic__tfidf__min_df': masked_array(data=[0.3],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_union__linguistic__tfidf__sublinear_tf': masked_array(data=[True],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'params': [{'clf__colsample_bytree': 0.7, 'clf__max_depth': 4, 'clf__min_child_weight': 6, 'clf__subsample': 0.6, 'union__linguistic__nmf__n_components': 100, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__sublinear_tf': True}], 'split0_test_score': array([0.38861222]), 'split1_test_score': array([0.40205843]), 'split2_test_score': array([0.41434263]), 'split3_test_score': array([0.40803453]), 'split4_test_score': array([0.42646082]), 'split5_test_score': array([0.41998672]), 'split6_test_score': array([0.42928287]), 'split7_test_score': array([0.43011288]), 'split8_test_score': array([0.39591633]), 'split9_test_score': array([0.41384462]), 'mean_test_score': array([0.41286521]), 'std_test_score': array([0.01349561]), 'rank_test_score': array([1], dtype=int32), 'split0_train_score': array([0.91098956]), 'split1_train_score': array([0.78684582]), 'split2_train_score': array([0.71423041]), 'split3_train_score': array([0.67006845]), 'split4_train_score': array([0.63423944]), 'split5_train_score': array([0.60658866]), 'split6_train_score': array([0.5934277]), 'split7_train_score': array([0.57581793]), 'split8_train_score': array([0.56556939]), 'split9_train_score': array([0.55360255]), 'mean_train_score': array([0.66113799]), 'std_train_score': array([0.10834547])}
+[mean: 0.41287, std: 0.01350, params: {'clf__colsample_bytree': 0.7, 'clf__max_depth': 4, 'clf__min_child_weight': 6, 'clf__subsample': 0.6, 'union__linguistic__nmf__n_components': 100, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__sublinear_tf': True}]
+{'clf__colsample_bytree': 0.7, 'clf__max_depth': 4, 'clf__min_child_weight': 6, 'clf__subsample': 0.6, 'union__linguistic__nmf__n_components': 100, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__sublinear_tf': True}
+0.4128652058432935
+dm_dbow __init__ took 0.07448267936706543 seconds
+dm_dbow __init__ took 0.3726224899291992 seconds
+saved_tfidf_models/tfidf(0.3,1.0,100).pkl
+tfidf __init__ took 0.049569129943847656 seconds
+dm_dbow __init__ took 2.418795347213745 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.11034917831420898 seconds
+dm_dbow __init__ took 2.402231216430664 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.04920005798339844 seconds
+dm_dbow __init__ took 0.3885486125946045 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.04853177070617676 seconds
+string price: 1.8591981136572546
+string price: 1.2885263121198216
+string price: 1.0773845281177161
+string price: 1.121257804323449
+string price: 8.965153219298495
+string price: 1.2990684024571935
+string price: 9.064884734018875
+string price: 2.006564011672051
+string price: 2.3335508561398757
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 1.2591215623738339
+string price: 1.2787003960170784
+string price: 6.266887232538808
+string price: 1.5002095829715556
+dataset_size = 66273
+labels len = 66273
+experiment starting with estimators=[('union', FeatureUnion(n_jobs=1,
+       transformer_list=[('linguistic', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='corpus')), ('doc2vec', DmDbowTestVectorizer(dbow_path='saved_doc2vec_models2/Doc2Vec(dmc,d100,n5,hs,w3,mc2,s0.001)',
+           dm_path='saved_doc2vec_models2/Doc2Vec(dbow,d100,n5,hs,mc2,s0.001)...tory', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='price_history'))]))],
+       transformer_weights={'linguistic': 1.0, 'tfidf': 1.0, 'price_history': 1.0})), ('clf', XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=None, n_estimators=300,
+       n_jobs=1, nthread=4, objective='multi:softmax', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1))] param_dict={'clf__max_depth': array([4]), 'clf__min_child_weight': array([6]), 'clf__subsample': array([0.6]), 'clf__colsample_bytree': array([0.7])}
+66273
+66273
+Top 3 lines
+#1: joblib/numpy_pickle.py:108: 3521526.7 KiB
+    array = pickle.load(unpickler.file_handle)
+#2: tf_idf_v2.py:77: 517.9 KiB
+    dataset['labels'] = np.array(list(labels))
+#3: tf_idf_v2.py:49: 8.8 KiB
+    with open(path, 'r') as t:
+113 other: 61.5 KiB
+Total allocated size: 3522114.8 KiB
+dm_dbow __init__ took 0.37897229194641113 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.0786435604095459 seconds
+dm_dbow __init__ took 0.3795773983001709 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.08182501792907715 seconds
+dm_dbow __init__ took 0.3793795108795166 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.08202862739562988 seconds
+dm_dbow fit was called
+dm_dbow transform took 754.091068983078 seconds
+tfidf fit was called
+tfidf transform took 37.18822622299194 seconds
+dm_dbow transform took 861.2280554771423 seconds
+tfidf transform took 46.700668811798096 seconds
+dm_dbow transform took 757.531012058258 seconds
+tfidf transform took 35.50583791732788 seconds
+dm_dbow __init__ took 0.3982048034667969 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07730960845947266 seconds
+dm_dbow __init__ took 0.3932077884674072 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07975244522094727 seconds
+dm_dbow fit was called
+dm_dbow transform took 1597.1701076030731 seconds
+tfidf fit was called
+tfidf transform took 72.8941330909729 seconds
+dm_dbow transform took 1074.2999002933502 seconds
+tfidf transform took 49.65815258026123 seconds
+dm_dbow transform took 1606.6131296157837 seconds
+tfidf transform took 70.82036256790161 seconds
+dm_dbow __init__ took 0.39539599418640137 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07309460639953613 seconds
+dm_dbow __init__ took 0.3719654083251953 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07218527793884277 seconds
+dm_dbow fit was called
+dm_dbow transform took 2671.5695703029633 seconds
+tfidf fit was called
+tfidf transform took 116.26869130134583 seconds
+dm_dbow transform took 1030.7303833961487 seconds
+tfidf transform took 45.33738088607788 seconds
+dm_dbow transform took 2674.180639028549 seconds
+tfidf transform took 118.57848763465881 seconds
+dm_dbow __init__ took 0.3811626434326172 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07017159461975098 seconds
+dm_dbow __init__ took 0.36754751205444336 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07683205604553223 seconds
+dm_dbow fit was called
+dm_dbow transform took 3690.922839641571 seconds
+tfidf fit was called
+tfidf transform took 160.14651370048523 seconds
+dm_dbow transform took 1164.5268607139587 seconds
+tfidf transform took 51.03570222854614 seconds
+dm_dbow transform took 3705.5268499851227 seconds
+tfidf transform took 161.7039258480072 seconds
+dm_dbow __init__ took 0.48323726654052734 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07517647743225098 seconds
+dm_dbow __init__ took 0.3725881576538086 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07163143157958984 seconds
+dm_dbow fit was called
+dm_dbow transform took 4851.5926167964935 seconds
+tfidf fit was called
+tfidf transform took 212.15573072433472 seconds
+dm_dbow transform took 1575.4167652130127 seconds
+tfidf transform took 74.79510188102722 seconds
+dm_dbow transform took 4859.593517065048 seconds
+tfidf transform took 224.39854168891907 seconds
+dm_dbow __init__ took 0.3863515853881836 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.06940126419067383 seconds
+dm_dbow __init__ took 0.3640918731689453 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07279014587402344 seconds
+dm_dbow fit was called
+dm_dbow transform took 6435.983942270279 seconds
+tfidf fit was called
+tfidf transform took 284.20572900772095 seconds
+dm_dbow transform took 1452.1078324317932 seconds
+tfidf transform took 63.31403183937073 seconds
+dm_dbow transform took 6477.055234909058 seconds
+tfidf transform took 294.1863627433777 seconds
+dm_dbow __init__ took 0.6185348033905029 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07626652717590332 seconds
+dm_dbow __init__ took 0.41693854331970215 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07270073890686035 seconds
+dm_dbow fit was called
+dm_dbow transform took 7894.701503992081 seconds
+tfidf fit was called
+tfidf transform took 350.9813358783722 seconds
+dm_dbow transform took 1562.935847043991 seconds
+tfidf transform took 72.88312768936157 seconds
+dm_dbow transform took 7973.175430297852 seconds
+tfidf transform took 359.90535712242126 seconds
+dm_dbow __init__ took 0.5580990314483643 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07480645179748535 seconds
+dm_dbow __init__ took 0.37720751762390137 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07336711883544922 seconds
+dm_dbow fit was called
+dm_dbow transform took 9495.655003786087 seconds
+tfidf fit was called
+tfidf transform took 425.29564452171326 seconds
+dm_dbow transform took 1651.4558868408203 seconds
+tfidf transform took 73.59162926673889 seconds
+dm_dbow transform took 9542.796250104904 seconds
+tfidf transform took 432.7384316921234 seconds
+dm_dbow __init__ took 0.593299150466919 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07467913627624512 seconds
+dm_dbow __init__ took 0.3715016841888428 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07058835029602051 seconds
+dm_dbow fit was called
+dm_dbow transform took 11128.03698015213 seconds
+tfidf fit was called
+tfidf transform took 494.96644401550293 seconds
+dm_dbow transform took 1683.0886671543121 seconds
+tfidf transform took 74.51505303382874 seconds
+dm_dbow transform took 11114.408935308456 secondsdm_dbow __init__ took 0.09917211532592773 seconds
+dm_dbow __init__ took 0.39084553718566895 seconds
+saved_tfidf_models/tfidf(0.3,1.0,100).pkl
+tfidf __init__ took 0.04930853843688965 seconds
+dm_dbow __init__ took 0.3854188919067383 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.04605722427368164 seconds
+dm_dbow __init__ took 0.36980414390563965 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.046204328536987305 seconds
+dm_dbow __init__ took 0.3697381019592285 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.04572296142578125 seconds
+string price: 1.8591981136572546
+string price: 1.2885263121198216
+string price: 1.0773845281177161
+string price: 1.121257804323449
+string price: 8.965153219298495
+string price: 1.2990684024571935
+string price: 9.064884734018875
+string price: 2.006564011672051
+string price: 2.3335508561398757
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 1.2591215623738339
+string price: 1.2787003960170784
+string price: 6.266887232538808
+string price: 1.5002095829715556
+dataset_size = 66273
+labels len = 66273
+experiment starting with estimators=[('union', FeatureUnion(n_jobs=1,
+       transformer_list=[('linguistic', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='corpus')), ('doc2vec', DmDbowTestVectorizer(dbow_path='saved_doc2vec_models2/Doc2Vec(dmc,d100,n5,hs,w5,mc2,s0.001)',
+           dm_path='saved_doc2vec_models2/Doc2Vec(dbow,d100,n5,hs,mc2,s0.001)...tory', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='price_history'))]))],
+       transformer_weights={'linguistic': 1.0, 'tfidf': 1.0, 'price_history': 1.0})), ('clf', XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=None, n_estimators=300,
+       n_jobs=1, nthread=4, objective='multi:softmax', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1))] param_dict={'clf__max_depth': array([4]), 'clf__min_child_weight': array([6]), 'clf__subsample': array([0.6]), 'clf__colsample_bytree': array([0.7])}
+66273
+66273
+Top 3 lines
+#1: joblib/numpy_pickle.py:108: 3521526.7 KiB
+    array = pickle.load(unpickler.file_handle)
+#2: tf_idf_v2.py:77: 517.9 KiB
+    dataset['labels'] = np.array(list(labels))
+#3: tf_idf_v2.py:49: 8.8 KiB
+    with open(path, 'r') as t:
+113 other: 61.5 KiB
+Total allocated size: 3522114.8 KiB
+dm_dbow __init__ took 0.3825657367706299 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07898831367492676 seconds
+dm_dbow __init__ took 0.37779951095581055 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07921504974365234 seconds
+dm_dbow __init__ took 0.37624239921569824 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.08081364631652832 seconds
+dm_dbow fit was called
+dm_dbow transform took 943.2237033843994 seconds
+tfidf fit was called
+tfidf transform took 35.60542035102844 seconds
+dm_dbow transform took 1065.0790240764618 seconds
+tfidf transform took 44.14064812660217 seconds
+dm_dbow transform took 937.5156061649323 seconds
+tfidf transform took 38.302643060684204 seconds
+dm_dbow __init__ took 0.4042479991912842 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.08426117897033691 seconds
+dm_dbow __init__ took 0.39128732681274414 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.0792381763458252 seconds
+dm_dbow fit was called
+dm_dbow transform took 2024.637732744217 seconds
+tfidf fit was called
+tfidf transform took 78.57719445228577 seconds
+dm_dbow transform took 1353.233249425888 seconds
+tfidf transform took 53.95502758026123 seconds
+dm_dbow transform took 2013.760065793991 seconds
+tfidf transform took 78.2747790813446 seconds
+dm_dbow __init__ took 0.4131801128387451 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.08334946632385254 seconds
+dm_dbow __init__ took 0.3883671760559082 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.08066368103027344 seconds
+dm_dbow fit was called
+dm_dbow transform took 3387.9512810707092 seconds
+tfidf fit was called
+tfidf transform took 128.22620034217834 seconds
+dm_dbow transform took 1298.7001044750214 seconds
+tfidf transform took 52.335171699523926 seconds
+dm_dbow transform took 3363.4962446689606 seconds
+tfidf transform took 125.29138612747192 seconds
+dm_dbow __init__ took 0.4412226676940918 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.08005189895629883 seconds
+dm_dbow __init__ took 0.38422346115112305 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07989192008972168 seconds
+dm_dbow fit was called
+dm_dbow transform took 4629.918472528458 seconds
+tfidf fit was called
+tfidf transform took 161.2173445224762 seconds
+dm_dbow transform took 1445.6204240322113 seconds
+tfidf transform took 50.727962255477905 seconds
+dm_dbow transform took 4605.342075109482 seconds
+tfidf transform took 161.49390149116516 seconds
+dm_dbow __init__ took 0.4446258544921875 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07838296890258789 seconds
+dm_dbow __init__ took 0.39017271995544434 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07140350341796875 seconds
+dm_dbow fit was called
+dm_dbow transform took 6033.41046500206 seconds
+tfidf fit was called
+tfidf transform took 210.73078846931458 seconds
+dm_dbow transform took 1949.906990289688 seconds
+tfidf transform took 72.69870591163635 seconds
+dm_dbow transform took 6045.840206623077 seconds
+tfidf transform took 212.36080622673035 seconds
+dm_dbow __init__ took 0.6486091613769531 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07688665390014648 seconds
+dm_dbow __init__ took 0.38892531394958496 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07198858261108398 seconds
+dm_dbow fit was called
+dm_dbow transform took 8022.8281881809235 seconds
+tfidf fit was called
+tfidf transform took 291.358514547348 seconds
+dm_dbow transform took 1804.4677045345306 seconds
+tfidf transform took 63.56144380569458 seconds
+dm_dbow transform took 8068.589711666107 seconds
+tfidf transform took 291.50472378730774 seconds
+dm_dbow __init__ took 0.6904277801513672 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.0868680477142334 seconds
+dm_dbow __init__ took 0.3906400203704834 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07210969924926758 seconds
+dm_dbow fit was called
+dm_dbow transform took 9896.695420980453 seconds
+tfidf fit was called
+tfidf transform took 351.24446392059326 seconds
+dm_dbow transform took 1949.2791540622711 seconds
+tfidf transform took 67.15387916564941 seconds
+dm_dbow transform took 9865.214089155197 seconds
+tfidf transform took 358.1629002094269 seconds
+dm_dbow __init__ took 0.6155591011047363 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07681441307067871 seconds
+dm_dbow __init__ took 0.3889427185058594 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.0738534927368164 seconds
+dm_dbow fit was called
+dm_dbow transform took 11845.790249109268 seconds
+tfidf fit was called
+tfidf transform took 427.89246010780334 seconds
+dm_dbow transform took 2044.023511171341 seconds
+tfidf transform took 71.17881631851196 seconds
+dm_dbow transform took 11789.446080207825 seconds
+tfidf transform took 416.3627977371216 seconds
+dm_dbow __init__ took 0.5745134353637695 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07243585586547852 seconds
+dm_dbow __init__ took 0.39908385276794434 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.0756690502166748 seconds
+dm_dbow fit was called
+dm_dbow transform took 13803.807025671005 seconds
+tfidf fit was called
+tfidf transform took 485.2769124507904 seconds
+dm_dbow transform took 2088.605522632599 seconds
+tfidf transform took 72.34237575531006 seconds
+dm_dbow transform took 13794.598424196243 secondsdm_dbow __init__ took 0.09294247627258301 seconds
+dm_dbow __init__ took 0.40037059783935547 seconds
+saved_tfidf_models/tfidf(0.3,1.0,100).pkl
+tfidf __init__ took 0.04661059379577637 seconds
+dm_dbow __init__ took 0.38753199577331543 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.04607725143432617 seconds
+dm_dbow __init__ took 0.38283252716064453 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.045522212982177734 seconds
+dm_dbow __init__ took 0.37621021270751953 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.04637789726257324 seconds
+string price: 1.8591981136572546
+string price: 1.2885263121198216
+string price: 1.0773845281177161
+string price: 1.121257804323449
+string price: 8.965153219298495
+string price: 1.2990684024571935
+string price: 9.064884734018875
+string price: 2.006564011672051
+string price: 2.3335508561398757
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 1.2591215623738339
+string price: 1.2787003960170784
+string price: 6.266887232538808
+string price: 1.5002095829715556
+dataset_size = 66273
+labels len = 66273
+experiment starting with estimators=[('union', FeatureUnion(n_jobs=1,
+       transformer_list=[('linguistic', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='corpus')), ('doc2vec', DmDbowTestVectorizer(dbow_path='saved_doc2vec_models2/Doc2Vec(dmc,d100,n5,hs,w6,mc2,s0.001)',
+           dm_path='saved_doc2vec_models2/Doc2Vec(dbow,d100,n5,hs,mc2,s0.001)...tory', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='price_history'))]))],
+       transformer_weights={'linguistic': 1.0, 'tfidf': 1.0, 'price_history': 1.0})), ('clf', XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=None, n_estimators=300,
+       n_jobs=1, nthread=4, objective='multi:softmax', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1))] param_dict={'clf__max_depth': array([4]), 'clf__min_child_weight': array([6]), 'clf__subsample': array([0.6]), 'clf__colsample_bytree': array([0.7])}
+66273
+66273
+Top 3 lines
+#1: joblib/numpy_pickle.py:108: 3521526.6 KiB
+    array = pickle.load(unpickler.file_handle)
+#2: tf_idf_v2.py:77: 517.9 KiB
+    dataset['labels'] = np.array(list(labels))
+#3: tf_idf_v2.py:49: 8.8 KiB
+    with open(path, 'r') as t:
+113 other: 61.5 KiB
+Total allocated size: 3522114.8 KiB
+dm_dbow __init__ took 0.3976738452911377 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.08297324180603027 seconds
+dm_dbow __init__ took 0.4042947292327881 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.08379745483398438 seconds
+dm_dbow __init__ took 0.3906230926513672 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.08275699615478516 seconds
+dm_dbow fit was called
+dm_dbow transform took 1019.6541705131531 seconds
+tfidf fit was called
+tfidf transform took 36.417558908462524 seconds
+dm_dbow transform took 1160.474693775177 seconds
+tfidf transform took 45.689125299453735 seconds
+dm_dbow transform took 1021.0311412811279 seconds
+tfidf transform took 37.79912185668945 seconds
+dm_dbow __init__ took 0.39119935035705566 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07946348190307617 seconds
+dm_dbow __init__ took 0.38162827491760254 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07939434051513672 seconds
+dm_dbow fit was called
+dm_dbow transform took 2242.001314163208 seconds
+tfidf fit was called
+tfidf transform took 79.883713722229 seconds
+dm_dbow transform took 1483.1773345470428 seconds
+tfidf transform took 55.36844491958618 seconds
+dm_dbow transform took 2198.2770731449127 seconds
+tfidf transform took 73.54477310180664 seconds
+dm_dbow __init__ took 0.4030601978302002 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.08341097831726074 seconds
+dm_dbow __init__ took 0.3866438865661621 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07851386070251465 seconds
+dm_dbow fit was called
+dm_dbow transform took 3636.6663563251495 seconds
+tfidf fit was called
+tfidf transform took 117.54594612121582 seconds
+dm_dbow transform took 1396.5071732997894 seconds
+tfidf transform took 44.800151109695435 seconds
+dm_dbow transform took 3621.214064359665 seconds
+tfidf transform took 114.6344804763794 seconds
+dm_dbow __init__ took 0.40329790115356445 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07201671600341797 seconds
+dm_dbow __init__ took 0.4017953872680664 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07067036628723145 seconds
+dm_dbow fit was called
+dm_dbow transform took 5031.125766277313 seconds
+tfidf fit was called
+tfidf transform took 156.55618357658386 seconds
+dm_dbow transform took 1574.9175395965576 seconds
+tfidf transform took 50.49652600288391 seconds
+dm_dbow transform took 5029.438438177109 seconds
+tfidf transform took 159.22102236747742 seconds
+dm_dbow __init__ took 0.5915536880493164 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07422900199890137 seconds
+dm_dbow __init__ took 0.3666801452636719 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07017254829406738 seconds
+dm_dbow fit was called
+dm_dbow transform took 6603.324803352356 seconds
+tfidf fit was called
+tfidf transform took 207.08649921417236 seconds
+dm_dbow transform took 2134.8873629570007 seconds
+tfidf transform took 71.7702374458313 seconds
+dm_dbow transform took 6612.416473388672 seconds
+tfidf transform took 210.110116481781 seconds
+dm_dbow __init__ took 0.631303071975708 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07251644134521484 seconds
+dm_dbow __init__ took 0.37120580673217773 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07045412063598633 seconds
+dm_dbow fit was called
+dm_dbow transform took 8769.653001785278 seconds
+tfidf fit was called
+tfidf transform took 282.9926655292511 seconds
+dm_dbow transform took 1986.5565383434296 seconds
+tfidf transform took 64.32796835899353 seconds
+dm_dbow transform took 8948.802555084229 seconds
+tfidf transform took 294.99638080596924 seconds
+dm_dbow __init__ took 0.6914865970611572 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07254934310913086 seconds
+dm_dbow __init__ took 0.36563730239868164 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.06983828544616699 seconds
+dm_dbow fit was called
+dm_dbow transform took 10852.827003240585 seconds
+tfidf fit was called
+tfidf transform took 356.09700298309326 seconds
+dm_dbow transform took 2142.8476297855377 seconds
+tfidf transform took 68.45570588111877 seconds
+dm_dbow transform took 10861.296243429184 seconds
+tfidf transform took 357.6868226528168 seconds
+dm_dbow __init__ took 0.6075446605682373 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07584428787231445 seconds
+dm_dbow __init__ took 0.37667131423950195 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.0718986988067627 seconds
+dm_dbow fit was called
+dm_dbow transform took 12879.805127620697 seconds
+tfidf fit was called
+tfidf transform took 413.88131833076477 seconds
+dm_dbow transform took 2227.713320493698 seconds
+tfidf transform took 70.46055126190186 seconds
+dm_dbow transform took 12875.684476137161 seconds
+tfidf transform took 416.749627828598 seconds
+dm_dbow __init__ took 0.5809857845306396 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07474350929260254 seconds
+dm_dbow __init__ took 0.37326669692993164 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07000350952148438 seconds
+dm_dbow fit was called
+dm_dbow transform took 15168.73984670639 seconds
+tfidf fit was called
+tfidf transform took 482.56913447380066 seconds
+dm_dbow transform took 2298.7789611816406 seconds
+tfidf transform took 71.59913349151611 seconds
+dm_dbow transform took 15221.433177232742 seconds/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/model_selection/_search.py:761: DeprecationWarning: The grid_scores_ attribute was deprecated in version 0.18 in favor of the more elaborate cv_results_ attribute. The grid_scores_ attribute will not be available from 0.20
+  DeprecationWarning)
+
+tfidf transform took 516.9732329845428 seconds
+dm_dbow __init__ took 0.5717697143554688 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.0717921257019043 seconds
+dm_dbow __init__ took 0.3851780891418457 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.0738077163696289 seconds
+dm_dbow fit was called
+dm_dbow transform took 12797.104590654373 seconds
+tfidf fit was called
+tfidf transform took 584.6296925544739 seconds
+dm_dbow transform took 1799.1462445259094 seconds
+tfidf transform took 85.32972860336304 seconds
+dm_dbow transform took 12898.695307970047 seconds
+tfidf transform took 571.2634565830231 seconds
+dm_dbow __init__ took 0.6195626258850098 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.08807611465454102 seconds
+dm_dbow __init__ took 0.38759708404541016 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.08064007759094238 seconds
+dm_dbow fit was called
+dm_dbow transform took 14821.693759918213 seconds
+tfidf fit was called
+tfidf transform took 650.1530516147614 seconds
+Total running time: 160346.9286453724
+{'mean_fit_time': array([6561.18978314]), 'std_fit_time': array([4177.16409438]), 'mean_score_time': array([1449.75574253]), 'std_score_time': array([321.33182873]), 'param_clf__colsample_bytree': masked_array(data=[0.7],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_clf__max_depth': masked_array(data=[4],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_clf__min_child_weight': masked_array(data=[6],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_clf__subsample': masked_array(data=[0.6],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'params': [{'clf__colsample_bytree': 0.7, 'clf__max_depth': 4, 'clf__min_child_weight': 6, 'clf__subsample': 0.6}], 'split0_test_score': array([0.39674635]), 'split1_test_score': array([0.39425631]), 'split2_test_score': array([0.40239044]), 'split3_test_score': array([0.40122842]), 'split4_test_score': array([0.41650066]), 'split5_test_score': array([0.40488048]), 'split6_test_score': array([0.42380478]), 'split7_test_score': array([0.42015272]), 'split8_test_score': array([0.3877822]), 'split9_test_score': array([0.40139442]), 'mean_test_score': array([0.40491368]), 'std_test_score': array([0.01108813]), 'rank_test_score': array([1], dtype=int32), 'split0_train_score': array([0.96651749]), 'split1_train_score': array([0.86472589]), 'split2_train_score': array([0.7845805]), 'split3_train_score': array([0.72868699]), 'split4_train_score': array([0.69408211]), 'split5_train_score': array([0.65928139]), 'split6_train_score': array([0.63072291]), 'split7_train_score': array([0.61156408]), 'split8_train_score': array([0.59870908]), 'split9_train_score': array([0.58593504]), 'mean_train_score': array([0.71248055]), 'std_train_score': array([0.11923476])}
+[mean: 0.40491, std: 0.01109, params: {'clf__colsample_bytree': 0.7, 'clf__max_depth': 4, 'clf__min_child_weight': 6, 'clf__subsample': 0.6}]
+{'clf__colsample_bytree': 0.7, 'clf__max_depth': 4, 'clf__min_child_weight': 6, 'clf__subsample': 0.6}
+0.4049136786188579
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/model_selection/_search.py:761: DeprecationWarning: The grid_scores_ attribute was deprecated in version 0.18 in favor of the more elaborate cv_results_ attribute. The grid_scores_ attribute will not be available from 0.20
+  DeprecationWarning)
+
+tfidf transform took 494.50920391082764 seconds
+dm_dbow __init__ took 0.6367955207824707 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07400345802307129 seconds
+dm_dbow __init__ took 0.37633180618286133 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07357645034790039 seconds
+dm_dbow fit was called
+dm_dbow transform took 15961.057231426239 seconds
+tfidf fit was called
+tfidf transform took 552.8624308109283 seconds
+dm_dbow transform took 2227.43226146698 seconds
+tfidf transform took 82.76303815841675 seconds
+dm_dbow transform took 15838.913109779358 seconds
+tfidf transform took 565.516499042511 seconds
+dm_dbow __init__ took 0.718017578125 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07520842552185059 seconds
+dm_dbow __init__ took 0.38965821266174316 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07295584678649902 seconds
+dm_dbow fit was called
+dm_dbow transform took 17916.742466688156 seconds
+tfidf fit was called
+tfidf transform took 634.8000531196594 seconds
+Total running time: 196673.56007289886
+{'mean_fit_time': array([8082.15086846]), 'std_fit_time': array([5117.56989212]), 'mean_score_time': array([1786.31572208]), 'std_score_time': array([388.98977263]), 'param_clf__colsample_bytree': masked_array(data=[0.7],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_clf__max_depth': masked_array(data=[4],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_clf__min_child_weight': masked_array(data=[6],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_clf__subsample': masked_array(data=[0.6],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'params': [{'clf__colsample_bytree': 0.7, 'clf__max_depth': 4, 'clf__min_child_weight': 6, 'clf__subsample': 0.6}], 'split0_test_score': array([0.38413015]), 'split1_test_score': array([0.39010624]), 'split2_test_score': array([0.40239044]), 'split3_test_score': array([0.40454847]), 'split4_test_score': array([0.41500664]), 'split5_test_score': array([0.40952855]), 'split6_test_score': array([0.42214475]), 'split7_test_score': array([0.42197875]), 'split8_test_score': array([0.39193227]), 'split9_test_score': array([0.41052457]), 'mean_test_score': array([0.40522908]), 'std_test_score': array([0.01252203]), 'rank_test_score': array([1], dtype=int32), 'split0_train_score': array([0.96817504]), 'split1_train_score': array([0.86024716]), 'split2_train_score': array([0.78513357]), 'split3_train_score': array([0.72926779]), 'split4_train_score': array([0.69053072]), 'split5_train_score': array([0.65347274]), 'split6_train_score': array([0.63084145]), 'split7_train_score': array([0.60921973]), 'split8_train_score': array([0.59238359]), 'split9_train_score': array([0.58533752]), 'mean_train_score': array([0.71046093]), 'std_train_score': array([0.12025565])}
+[mean: 0.40523, std: 0.01252, params: {'clf__colsample_bytree': 0.7, 'clf__max_depth': 4, 'clf__min_child_weight': 6, 'clf__subsample': 0.6}]
+{'clf__colsample_bytree': 0.7, 'clf__max_depth': 4, 'clf__min_child_weight': 6, 'clf__subsample': 0.6}
+0.40522908366533866
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/model_selection/_search.py:761: DeprecationWarning: The grid_scores_ attribute was deprecated in version 0.18 in favor of the more elaborate cv_results_ attribute. The grid_scores_ attribute will not be available from 0.20
+  DeprecationWarning)
+
+tfidf transform took 500.2138271331787 seconds
+dm_dbow __init__ took 0.8644411563873291 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.08433222770690918 seconds
+dm_dbow __init__ took 0.4257943630218506 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07043981552124023 seconds
+dm_dbow fit was called
+dm_dbow transform took 17346.970994472504 seconds
+tfidf fit was called
+tfidf transform took 557.9469165802002 seconds
+dm_dbow transform took 2424.2687430381775 seconds
+tfidf transform took 86.04320001602173 seconds
+dm_dbow transform took 17310.4242374897 seconds
+tfidf transform took 563.4639759063721 seconds
+dm_dbow __init__ took 0.583202600479126 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.07087850570678711 seconds
+dm_dbow __init__ took 0.38088083267211914 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.06951379776000977 seconds
+dm_dbow fit was called
+dm_dbow transform took 19666.974076509476 seconds
+tfidf fit was called
+tfidf transform took 644.337072134018 seconds
+Total running time: 214390.29007935524
+{'mean_fit_time': array([8781.33423324]), 'std_fit_time': array([5567.1091123]), 'mean_score_time': array([1946.47189584]), 'std_score_time': array([429.18636505]), 'param_clf__colsample_bytree': masked_array(data=[0.7],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_clf__max_depth': masked_array(data=[4],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_clf__min_child_weight': masked_array(data=[6],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_clf__subsample': masked_array(data=[0.6],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'params': [{'clf__colsample_bytree': 0.7, 'clf__max_depth': 4, 'clf__min_child_weight': 6, 'clf__subsample': 0.6}], 'split0_test_score': array([0.38662019]), 'split1_test_score': array([0.38861222]), 'split2_test_score': array([0.40205843]), 'split3_test_score': array([0.39674635]), 'split4_test_score': array([0.41334661]), 'split5_test_score': array([0.41500664]), 'split6_test_score': array([0.42646082]), 'split7_test_score': array([0.42430279]), 'split8_test_score': array([0.38877822]), 'split9_test_score': array([0.40405046]), 'mean_test_score': array([0.40459827]), 'std_test_score': array([0.01395905]), 'rank_test_score': array([1], dtype=int32), 'split0_train_score': array([0.97248467]), 'split1_train_score': array([0.86522352]), 'split2_train_score': array([0.78203639]), 'split3_train_score': array([0.72648828]), 'split4_train_score': array([0.69049753]), 'split5_train_score': array([0.65698559]), 'split6_train_score': array([0.63271451]), 'split7_train_score': array([0.60988361]), 'split8_train_score': array([0.59592439]), 'split9_train_score': array([0.58729605]), 'mean_train_score': array([0.71195345]), 'std_train_score': array([0.12069474])}
+[mean: 0.40460, std: 0.01396, params: {'clf__colsample_bytree': 0.7, 'clf__max_depth': 4, 'clf__min_child_weight': 6, 'clf__subsample': 0.6}]
+{'clf__colsample_bytree': 0.7, 'clf__max_depth': 4, 'clf__min_child_weight': 6, 'clf__subsample': 0.6}
+0.40459827357237715
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/model_selection/_search.py:761: DeprecationWarning: The grid_scores_ attribute was deprecated in version 0.18 in favor of the more elaborate cv_results_ attribute. The grid_scores_ attribute will not be available from 0.20
+  DeprecationWarning)
+dm_dbow __init__ took 0.0840916633605957 seconds
+dm_dbow __init__ took 0.368236780166626 seconds
+saved_tfidf_models/tfidf(0.3,1.0,100).pkl
+tfidf __init__ took 0.04863286018371582 seconds
+dm_dbow __init__ took 0.37058496475219727 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.04547882080078125 seconds
+dm_dbow __init__ took 0.369112491607666 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.04627823829650879 seconds
+dm_dbow __init__ took 0.3673670291900635 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.0457456111907959 seconds
+string price: 1.8591981136572546
+string price: 1.2885263121198216
+string price: 1.0773845281177161
+string price: 1.121257804323449
+string price: 8.965153219298495
+string price: 1.2990684024571935
+string price: 9.064884734018875
+string price: 2.006564011672051
+string price: 2.3335508561398757
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 1.2591215623738339
+string price: 1.2787003960170784
+string price: 6.266887232538808
+string price: 1.5002095829715556
+dataset_size = 66273
+labels len = 66273
+experiment starting with estimators=[('voting', VotingClassifier(estimators=[('tfidf', Pipeline(memory=None,
+     steps=[('linguistic', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='corpus')), ('tfidf', TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='con...     reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1))]))],
+         flatten_transform=None, n_jobs=1, voting='soft', weights=None))] param_dict={'voting__tfidf__linguistic__tfidf__max_df': array([0.9]), 'voting__tfidf__linguistic__tfidf__min_df': array([0.3]), 'voting__tfidf__linguistic__nmf__n_components': array([100]), 'voting__tfidf__clf__max_depth': array([4]), 'voting__tfidf__clf__min_child_weight': array([6]), 'voting__tfidf__clf__subsample': array([0.6]), 'voting__tfidf__clf__colsample_bytree': array([0.7]), 'voting__momentum__clf__max_depth': array([4]), 'voting__momentum__clf__min_child_weight': array([3]), 'voting__momentum__clf__subsample': array([0.8]), 'voting__momentum__clf__colsample_bytree': array([0.8]), 'voting__dm_dbow__clf__max_depth': array([4]), 'voting__dm_dbow__clf__min_child_weight': array([6]), 'voting__dm_dbow__clf__subsample': array([0.8]), 'voting__dm_dbow__clf__colsample_bytree': array([0.9])}
+Top 3 lines
+#1: joblib/numpy_pickle.py:108: 3521526.4 KiB
+    array = pickle.load(unpickler.file_handle)
+#2: doc2vec/utils_v2.py:458: 517.9 KiB
+    dataset['labels'] = np.array(list(labels))
+#3: doc2vec/utils_v2.py:432: 6.3 KiB
+    with open(path, 'r') as t:
+110 other: 57.9 KiB
+Total allocated size: 3522108.5 KiB
+66273
+66273
+Using pretrained model
+Doc2VecTransformer fit took 0.005785942077636719
+Using pretrained model
+Doc2VecTransformer fit took 0.015010595321655273
+Using pretrained model
+Doc2VecTransformer fit took 0.01568770408630371
+Total running time: 31258.136896133423
+{'mean_fit_time': array([4168.92166841]), 'std_fit_time': array([1733.09943593]), 'mean_score_time': array([3158.27723491]), 'std_score_time': array([355.55312502]), 'param_voting__dm_dbow__clf__colsample_bytree': masked_array(data=[0.9],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__dm_dbow__clf__max_depth': masked_array(data=[4],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__dm_dbow__clf__min_child_weight': masked_array(data=[6],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__dm_dbow__clf__subsample': masked_array(data=[0.8],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__momentum__clf__colsample_bytree': masked_array(data=[0.8],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__momentum__clf__max_depth': masked_array(data=[4],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__momentum__clf__min_child_weight': masked_array(data=[3],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__momentum__clf__subsample': masked_array(data=[0.8],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__tfidf__clf__colsample_bytree': masked_array(data=[0.7],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__tfidf__clf__max_depth': masked_array(data=[4],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__tfidf__clf__min_child_weight': masked_array(data=[6],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__tfidf__clf__subsample': masked_array(data=[0.6],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__tfidf__linguistic__nmf__n_components': masked_array(data=[100],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__tfidf__linguistic__tfidf__max_df': masked_array(data=[0.9],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__tfidf__linguistic__tfidf__min_df': masked_array(data=[0.3],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'params': [{'voting__dm_dbow__clf__colsample_bytree': 0.9, 'voting__dm_dbow__clf__max_depth': 4, 'voting__dm_dbow__clf__min_child_weight': 6, 'voting__dm_dbow__clf__subsample': 0.8, 'voting__momentum__clf__colsample_bytree': 0.8, 'voting__momentum__clf__max_depth': 4, 'voting__momentum__clf__min_child_weight': 3, 'voting__momentum__clf__subsample': 0.8, 'voting__tfidf__clf__colsample_bytree': 0.7, 'voting__tfidf__clf__max_depth': 4, 'voting__tfidf__clf__min_child_weight': 6, 'voting__tfidf__clf__subsample': 0.6, 'voting__tfidf__linguistic__nmf__n_components': 100, 'voting__tfidf__linguistic__tfidf__max_df': 0.9, 'voting__tfidf__linguistic__tfidf__min_df': 0.3}], 'split0_test_score': array([0.38450048]), 'split1_test_score': array([0.40763207]), 'mean_test_score': array([0.39606627]), 'std_test_score': array([0.0115658]), 'rank_test_score': array([1], dtype=int32), 'split0_train_score': array([0.64854466]), 'split1_train_score': array([0.57396677]), 'mean_train_score': array([0.61125571]), 'std_train_score': array([0.03728894])}
+[mean: 0.39607, std: 0.01157, params: {'voting__dm_dbow__clf__colsample_bytree': 0.9, 'voting__dm_dbow__clf__max_depth': 4, 'voting__dm_dbow__clf__min_child_weight': 6, 'voting__dm_dbow__clf__subsample': 0.8, 'voting__momentum__clf__colsample_bytree': 0.8, 'voting__momentum__clf__max_depth': 4, 'voting__momentum__clf__min_child_weight': 3, 'voting__momentum__clf__subsample': 0.8, 'voting__tfidf__clf__colsample_bytree': 0.7, 'voting__tfidf__clf__max_depth': 4, 'voting__tfidf__clf__min_child_weight': 6, 'voting__tfidf__clf__subsample': 0.6, 'voting__tfidf__linguistic__nmf__n_components': 100, 'voting__tfidf__linguistic__tfidf__max_df': 0.9, 'voting__tfidf__linguistic__tfidf__min_df': 0.3}]
+{'voting__dm_dbow__clf__colsample_bytree': 0.9, 'voting__dm_dbow__clf__max_depth': 4, 'voting__dm_dbow__clf__min_child_weight': 6, 'voting__dm_dbow__clf__subsample': 0.8, 'voting__momentum__clf__colsample_bytree': 0.8, 'voting__momentum__clf__max_depth': 4, 'voting__momentum__clf__min_child_weight': 3, 'voting__momentum__clf__subsample': 0.8, 'voting__tfidf__clf__colsample_bytree': 0.7, 'voting__tfidf__clf__max_depth': 4, 'voting__tfidf__clf__min_child_weight': 6, 'voting__tfidf__clf__subsample': 0.6, 'voting__tfidf__linguistic__nmf__n_components': 100, 'voting__tfidf__linguistic__tfidf__max_df': 0.9, 'voting__tfidf__linguistic__tfidf__min_df': 0.3}
+0.3960662713322167
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/model_selection/_search.py:761: DeprecationWarning: The grid_scores_ attribute was deprecated in version 0.18 in favor of the more elaborate cv_results_ attribute. The grid_scores_ attribute will not be available from 0.20
+  DeprecationWarning)
+dm_dbow __init__ took 0.32125425338745117 seconds
+dm_dbow __init__ took 0.3703334331512451 seconds
+saved_tfidf_models/tfidf(0.3,1.0,100).pkl
+tfidf __init__ took 0.04833269119262695 seconds
+dm_dbow __init__ took 0.3926420211791992 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.04660344123840332 seconds
+dm_dbow __init__ took 0.40000391006469727 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.046303749084472656 seconds
+dm_dbow __init__ took 0.38433265686035156 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.04653644561767578 seconds
+string price: 1.8591981136572546
+string price: 1.2885263121198216
+string price: 1.0773845281177161
+string price: 1.121257804323449
+string price: 8.965153219298495
+string price: 1.2990684024571935
+string price: 9.064884734018875
+string price: 2.006564011672051
+string price: 2.3335508561398757
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 1.2591215623738339
+string price: 1.2787003960170784
+string price: 6.266887232538808
+string price: 1.5002095829715556
+dataset_size = 66273
+labels len = 66273
+experiment starting with estimators=[('voting', VotingClassifier(estimators=[('tfidf', Pipeline(memory=None,
+     steps=[('linguistic', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='corpus')), ('tfidf', TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='con...     reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1))]))],
+         flatten_transform=None, n_jobs=1, voting='soft', weights=None))] param_dict={'voting__tfidf__linguistic__tfidf__max_df': array([0.9]), 'voting__tfidf__linguistic__tfidf__min_df': array([0.3]), 'voting__tfidf__linguistic__nmf__n_components': array([100]), 'voting__tfidf__clf__max_depth': array([4]), 'voting__tfidf__clf__min_child_weight': array([6]), 'voting__tfidf__clf__subsample': array([0.6]), 'voting__tfidf__clf__colsample_bytree': array([0.7]), 'voting__momentum__clf__max_depth': array([4]), 'voting__momentum__clf__min_child_weight': array([3]), 'voting__momentum__clf__subsample': array([0.8]), 'voting__momentum__clf__colsample_bytree': array([0.8]), 'voting__dm_dbow__clf__max_depth': array([4]), 'voting__dm_dbow__clf__min_child_weight': array([6]), 'voting__dm_dbow__clf__subsample': array([0.8]), 'voting__dm_dbow__clf__colsample_bytree': array([0.9])}
+Top 3 lines
+#1: joblib/numpy_pickle.py:108: 3521526.4 KiB
+    array = pickle.load(unpickler.file_handle)
+#2: doc2vec/utils_v2.py:458: 517.9 KiB
+    dataset['labels'] = np.array(list(labels))
+#3: doc2vec/utils_v2.py:432: 6.3 KiB
+    with open(path, 'r') as t:
+110 other: 57.9 KiB
+Total allocated size: 3522108.5 KiB
+66273
+66273
+Training Doc2Vec model
+Doc2VecTransformer fit took 104766.52683234215
+Using pretrained model
+Doc2VecTransformer fit took 0.19348454475402832
+Using pretrained model
+Doc2VecTransformer fit took 0.24107956886291504
+Total running time: 135662.07386136055
+{'mean_fit_time': array([56510.2407769]), 'std_fit_time': array([50628.35505474]), 'mean_score_time': array([3112.27358425]), 'std_score_time': array([383.81936705]), 'param_voting__dm_dbow__clf__colsample_bytree': masked_array(data=[0.9],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__dm_dbow__clf__max_depth': masked_array(data=[4],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__dm_dbow__clf__min_child_weight': masked_array(data=[6],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__dm_dbow__clf__subsample': masked_array(data=[0.8],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__momentum__clf__colsample_bytree': masked_array(data=[0.8],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__momentum__clf__max_depth': masked_array(data=[4],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__momentum__clf__min_child_weight': masked_array(data=[3],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__momentum__clf__subsample': masked_array(data=[0.8],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__tfidf__clf__colsample_bytree': masked_array(data=[0.7],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__tfidf__clf__max_depth': masked_array(data=[4],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__tfidf__clf__min_child_weight': masked_array(data=[6],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__tfidf__clf__subsample': masked_array(data=[0.6],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__tfidf__linguistic__nmf__n_components': masked_array(data=[100],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__tfidf__linguistic__tfidf__max_df': masked_array(data=[0.9],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'param_voting__tfidf__linguistic__tfidf__min_df': masked_array(data=[0.3],
+             mask=[False],
+       fill_value='?',
+            dtype=object), 'params': [{'voting__dm_dbow__clf__colsample_bytree': 0.9, 'voting__dm_dbow__clf__max_depth': 4, 'voting__dm_dbow__clf__min_child_weight': 6, 'voting__dm_dbow__clf__subsample': 0.8, 'voting__momentum__clf__colsample_bytree': 0.8, 'voting__momentum__clf__max_depth': 4, 'voting__momentum__clf__min_child_weight': 3, 'voting__momentum__clf__subsample': 0.8, 'voting__tfidf__clf__colsample_bytree': 0.7, 'voting__tfidf__clf__max_depth': 4, 'voting__tfidf__clf__min_child_weight': 6, 'voting__tfidf__clf__subsample': 0.6, 'voting__tfidf__linguistic__nmf__n_components': 100, 'voting__tfidf__linguistic__tfidf__max_df': 0.9, 'voting__tfidf__linguistic__tfidf__min_df': 0.3}], 'split0_test_score': array([0.38228238]), 'split1_test_score': array([0.40871848]), 'mean_test_score': array([0.39550043]), 'std_test_score': array([0.01321805]), 'rank_test_score': array([1], dtype=int32), 'split0_train_score': array([0.64646236]), 'split1_train_score': array([0.57014169]), 'mean_train_score': array([0.60830202]), 'std_train_score': array([0.03816034])}
+[mean: 0.39550, std: 0.01322, params: {'voting__dm_dbow__clf__colsample_bytree': 0.9, 'voting__dm_dbow__clf__max_depth': 4, 'voting__dm_dbow__clf__min_child_weight': 6, 'voting__dm_dbow__clf__subsample': 0.8, 'voting__momentum__clf__colsample_bytree': 0.8, 'voting__momentum__clf__max_depth': 4, 'voting__momentum__clf__min_child_weight': 3, 'voting__momentum__clf__subsample': 0.8, 'voting__tfidf__clf__colsample_bytree': 0.7, 'voting__tfidf__clf__max_depth': 4, 'voting__tfidf__clf__min_child_weight': 6, 'voting__tfidf__clf__subsample': 0.6, 'voting__tfidf__linguistic__nmf__n_components': 100, 'voting__tfidf__linguistic__tfidf__max_df': 0.9, 'voting__tfidf__linguistic__tfidf__min_df': 0.3}]
+{'voting__dm_dbow__clf__colsample_bytree': 0.9, 'voting__dm_dbow__clf__max_depth': 4, 'voting__dm_dbow__clf__min_child_weight': 6, 'voting__dm_dbow__clf__subsample': 0.8, 'voting__momentum__clf__colsample_bytree': 0.8, 'voting__momentum__clf__max_depth': 4, 'voting__momentum__clf__min_child_weight': 3, 'voting__momentum__clf__subsample': 0.8, 'voting__tfidf__clf__colsample_bytree': 0.7, 'voting__tfidf__clf__max_depth': 4, 'voting__tfidf__clf__min_child_weight': 6, 'voting__tfidf__clf__subsample': 0.6, 'voting__tfidf__linguistic__nmf__n_components': 100, 'voting__tfidf__linguistic__tfidf__max_df': 0.9, 'voting__tfidf__linguistic__tfidf__min_df': 0.3}
+0.39550043003938257

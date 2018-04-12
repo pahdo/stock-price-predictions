@@ -78,7 +78,7 @@ def main():
     my_diagnostics.tracemalloc.start()
     label_horizon=1
     subset='full'
-    key = 'ensemble'
+    key = 'tf_idf'
     estimators, param_grid, momentum_only, doc2vec, doctag_only = get_estimators(key)
     dataset = get_dataset(label_horizon, subset, momentum_only, doc2vec, doctag_only)
     pickle_path = key + '_' + subset + '_' + str(label_horizon) + '_best_estimator.pkl'
@@ -113,13 +113,13 @@ def run_experiment(estimators, param_dict, pickle_path, dataset):
     If n_jobs was set to a value higher than one, the data is copied for each point in the grid (and not n_jobs times). This is done for efficiency reasons if individual jobs take very little time, but may raise errors if the dataset is large and not enough memory is available. A workaround in this case is to set pre_dispatch. Then, the memory is copied only pre_dispatch many times. A reasonable value for pre_dispatch is 2 * n_jobs.
     """
 #    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, cv=ts_cv, n_jobs=24, pre_dispatch='n_jobs+4')
-#    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, n_iter=3, cv=ts_cv, n_jobs=3, pre_dispatch='n_jobs')
+    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, n_iter=100, cv=ts_cv, n_jobs=3, pre_dispatch='n_jobs')
     snapshot = my_diagnostics.tracemalloc.take_snapshot()
     my_diagnostics.display_top(snapshot)
     
     print(len(dataset['X']))
     print(len(dataset['labels']))
-    grid_search = GridSearchCV(pipe, param_grid=param_dict, cv=ts_cv)
+#    grid_search = GridSearchCV(pipe, param_grid=param_dict, cv=ts_cv)
     
     grid_search.fit(dataset['X'], dataset['labels']) 
 
