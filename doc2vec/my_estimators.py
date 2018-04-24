@@ -100,14 +100,25 @@ param_grid_tfidf_nmf_prices_xgb = dict(
 """
 
 param_grid_tfidf_nmf_prices_xgb = dict(
-    clf__max_depth=np.array([2,3,4,5,6,7,8,9]),
-    clf__min_child_weight=np.array([3,4,5,6,7,8,9]),
-    clf__subsample=np.array([0.4,0.5,0.6,0.7,0.8,0.9]),
-    clf__colsample_bytree=np.array([0.4,0.5,0.6,0.7,0.8,0.9]),
-    union__linguistic__tfidf__max_df=np.array([0.5, 0.6, 0.7, 0.8, 0.85, 0.9, 0.95, 1.0]),
-    union__linguistic__tfidf__min_df=np.array([0.0, 0.1, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45]),
-    union__linguistic__tfidf__sublinear_tf=[True],
-    union__linguistic__nmf__n_components=np.array([25, 50, 75, 100, 125, 150, 200, 300, 400, 500, 600]),
+    clf__max_depth=np.array([1,2,3,4,5,6,7,8,9]),
+    clf__min_child_weight=np.array([0,1,2,3,4,5,6,7,8,9]),
+    clf__subsample=np.array([0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9]),
+    clf__colsample_bytree=np.array([0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9]),
+    clf__learning_rate=np.array([0.01,0.05,0.1,0.15,0.2,0.3,0.5,0.7]),
+    clf__gamma=np.array([0.01,0.05,0.1,0.15,0.2,0.3,0.5,0.7,2.0,5.0,10.0]),
+    clf__reg_lambda=np.array([0.0,0.1,0.3,0.5,0.7,0.9,1.0]),
+    clf__reg_alpha=np.array([0.0,0.1,0.3,0.5,0.7,0.9,1.0]),
+    clf__objective=np.array(['multi:softmax', 'multi:softprob']),
+    union__linguistic__tfidf__max_df=np.array([0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95, 1.0]),
+    union__linguistic__tfidf__min_df=np.array([0.0, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45]),
+    union__linguistic__tfidf__sublinear_tf=np.array([False, True]),
+    union__linguistic__tfidf__norm=np.array(['l1','l2',None]),
+    union__linguistic__tfidf__ngram_range=np.array([(1,1),(1,2),(1,3),(2,2),(2,3),(3,3)]),
+    union__linguistic__nmf__n_components=np.array([25, 50, 75, 100, 125, 150]),
+    union__linguistic__nmf__init=np.array(['random','nndsvd','nndsvda']),
+    union__linguistic__nmf__max_iter=np.array([50,100,200,300,400,500]),
+    union__linguistic__nmf__alpha=np.array([0,0.1,0.5,1.0,5.0,10.0]),
+    union__linguistic__nmf__l1_ratio=np.array([0,0.2,0.4,0.6,0.8,1.0]),
 )
 
 estimators_doc2vec_prices_xgb = [

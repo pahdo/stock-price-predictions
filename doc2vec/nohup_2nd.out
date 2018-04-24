@@ -1,0 +1,1202 @@
+dm_dbow __init__ took 0.34532976150512695 seconds
+dm_dbow __init__ took 0.34670281410217285 seconds
+saved_tfidf_models/tfidf(0.3,1.0,100).pkl
+tfidf __init__ took 0.043196916580200195 seconds
+dm_dbow __init__ took 0.36020898818969727 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.041748762130737305 seconds
+dm_dbow __init__ took 0.38239288330078125 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.06464242935180664 seconds
+dm_dbow __init__ took 0.4490838050842285 seconds
+saved_tfidf_models/tfidf(0.3,0.9,100).pkl
+tfidf __init__ took 0.04856228828430176 seconds
+string price: 1.8591981136572546
+string price: 1.2885263121198216
+string price: 1.0773845281177161
+string price: 1.121257804323449
+string price: 8.965153219298495
+string price: 1.2990684024571935
+string price: 9.064884734018875
+string price: 2.006564011672051
+string price: 2.3335508561398757
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 2.3359429007602555
+string price: 1.2591215623738339
+string price: 1.2787003960170784
+string price: 6.266887232538808
+string price: 1.5002095829715556
+dataset_size = 66273
+labels len = 66273
+experiment starting with estimators=[('union', FeatureUnion(n_jobs=1,
+       transformer_list=[('linguistic', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='corpus')), ('tfidf', TfidfVectorizer(analyzer='word', binary=False, decode_error='strict',
+        dtype=<class 'numpy.int64'>, encoding='utf-8', input='content',
+        lowercase=True, max_df=...tory', Pipeline(memory=None,
+     steps=[('selector', CustomDictVectorizer(key='price_history'))]))],
+       transformer_weights={'linguistic': 1.0, 'price_history': 1.0})), ('clf', XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+       colsample_bytree=1, gamma=0, learning_rate=0.1, max_delta_step=0,
+       max_depth=3, min_child_weight=1, missing=None, n_estimators=300,
+       n_jobs=1, nthread=4, objective='multi:softmax', random_state=0,
+       reg_alpha=0, reg_lambda=1, scale_pos_weight=1, seed=None,
+       silent=True, subsample=1))] param_dict={'clf__max_depth': array([2, 3, 4, 5, 6, 7, 8, 9]), 'clf__min_child_weight': array([3, 4, 5, 6, 7, 8, 9]), 'clf__subsample': array([0.4, 0.5, 0.6, 0.7, 0.8, 0.9]), 'clf__colsample_bytree': array([0.4, 0.5, 0.6, 0.7, 0.8, 0.9]), 'union__linguistic__tfidf__max_df': array([0.5 , 0.6 , 0.7 , 0.8 , 0.85, 0.9 , 0.95, 1.  ]), 'union__linguistic__tfidf__min_df': array([0.  , 0.1 , 0.2 , 0.25, 0.3 , 0.35, 0.4 , 0.45]), 'union__linguistic__tfidf__sublinear_tf': [True], 'union__linguistic__nmf__n_components': array([ 25,  50,  75, 100, 125, 150, 200, 300, 400, 500, 600])}
+Top 3 lines
+#1: joblib/numpy_pickle.py:108: 3521526.8 KiB
+    array = pickle.load(unpickler.file_handle)
+#2: doc2vec/utils_v2.py:400: 517.9 KiB
+    dataset['labels'] = np.array(list(labels))
+#3: doc2vec/utils_v2.py:374: 6.2 KiB
+    with open(path, 'r') as t:
+114 other: 59.2 KiB
+Total allocated size: 3522110.0 KiB
+66273
+66273
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/preprocessing/label.py:151: DeprecationWarning: The truth value of an empty array is ambiguous. Returning False, but in future this will result in an error. Use `array.size > 0` to check that an array is not empty.
+  if diff:
+Total running time: 219016.4553115368
+{'mean_fit_time': array([ 796.01826274,  440.98364961, 5541.61797059,  791.8185178 ,
+        633.52061176,  728.66599524, 3632.12676632, 2015.35843229,
+       1383.59694278,  679.94299579,  323.36032951,  634.91366887,
+       1013.74612379,  307.60993242,  410.51102126, 6307.33934379,
+        484.91645229, 2012.14610934,  568.61510158, 1232.15268421,
+       6151.26983035,  388.64735663, 1927.01809037, 1375.81683612,
+        510.07987535,  348.16990554,  552.13287592, 3362.21240473,
+       4169.02124393,  404.34824216,  629.13578463,  646.86533606,
+       2951.66162479, 1553.41206741,   20.59919393,  372.76407504,
+        786.97402453, 1533.46906793,  136.77290297,  485.44062066,
+        999.74318767, 1140.37821579,  463.84721982, 5410.07069159,
+       4706.43235004,  855.62338734,  452.53907979, 2941.64461577,
+       3364.48863757, 2026.16165543, 1850.51597786,  890.48376048,
+        298.13380337, 1024.09389734,  603.91787195,  403.37676251,
+        586.16643429,  637.77065492, 4145.63133192, 2150.86709499,
+        268.04241276,  392.04378748,  389.91794062,  316.57856977,
+       4240.81776094,  415.51056945,  102.87738013,  881.4179455 ,
+        992.59798169, 4247.64907181,  523.78642142, 1996.56986535,
+       3998.62974954,  716.89274931, 3191.51203954, 2293.89837492,
+        718.54883838, 1161.74954724,  654.78105605,  516.67194521,
+       3223.39094758,   36.07294095,  986.6323173 , 1294.12168396,
+       5471.25251055, 1397.00148797,  309.33517671,  352.24567425,
+       4399.76332366, 3082.76694918, 6665.20183992,  986.81617761,
+       5571.93596303, 2762.86061537,  446.54466891,  933.64812124,
+       2924.10596883, 2521.90078521,  442.82071936,  730.79374015]), 'std_fit_time': array([ 318.9264189 ,  185.35501802, 2008.99198759,  331.35117137,
+        216.96290159,  316.25925648, 1371.86194909,  718.72910309,
+        503.16021025,  277.6798377 ,  136.49963009,  199.410918  ,
+        400.5878408 ,  132.71593618,  170.86417305, 2001.12078738,
+        184.9511503 ,  667.59629011,  226.4184072 ,  490.8476274 ,
+       2173.32363093,  162.14419138,  690.22188842,  503.13968849,
+        200.23031938,  146.46189034,  219.28402019, 1231.61183262,
+       1534.27423918,  167.54490077,  251.01552415,  279.01989758,
+       1011.13987505,  602.05783892,    7.26158965,  162.42903495,
+        324.20315862,  471.10383666,   55.58724117,  216.2220974 ,
+        406.98624778,  424.88052773,  189.66814053, 1624.50850129,
+       1485.23532283,  343.71153831,  190.56771576, 1104.27961361,
+       1240.26180303,  699.47699881,  728.62130713,  339.32221115,
+        122.54025054,  367.20934129,  238.30857015,  170.70834458,
+        230.25391316,  276.59467816, 1446.66670966,  686.43450665,
+        102.83322811,  164.82405972,  162.18904996,  131.61997473,
+       1568.45815516,  179.2345649 ,   41.82919669,  335.38497388,
+        398.23331094, 1642.76116478,  208.83357275,  758.67134726,
+       1626.90298486,  280.19345903, 1179.32915103,  846.62141597,
+        306.35705614,  443.22944927,  268.52503312,  258.80367982,
+       1170.02579474,   13.63356411,  404.2355597 ,  489.30336177,
+       2063.65570283,  533.53445387,  123.43974233,  148.12126744,
+       1605.48303568, 1030.36589575, 2399.38439202,  377.82825017,
+       1938.41549504,  972.37667692,  182.47980547,  351.91584194,
+       1110.59183872,  912.9303441 ,  181.8702122 ,  290.41638958]), 'mean_score_time': array([ 308.82636511,  302.30024433, 3135.80050159,  322.82280505,
+        324.90558279,  313.00770986, 2588.01490283,  332.83521235,
+        368.4079324 ,  309.44372284,  283.36357534,  306.20667624,
+        348.28555179,  265.80283952,  295.36157155,  627.28958988,
+        399.73896885, 2654.49567747,  281.33618128,  355.16913617,
+        985.75822353,  301.97255075,  407.89375436,  364.97222543,
+        292.81355703,  291.70408416,  298.94838238,  386.29154217,
+       2365.76553428,  278.97768438,  306.12596786,  290.86756885,
+        371.17385852,  335.61706769,  303.90215981,  360.86264646,
+        296.37209725, 1705.73135293,  304.38592303,  295.57499921,
+        285.49659193,  344.5247581 ,  299.46158826,  488.39467108,
+        542.0569936 ,  348.31379032,  298.553159  , 1240.14669347,
+        394.79225969, 1543.50159323, 1093.30495024,  318.77476883,
+        290.365188  ,  327.33252466,  289.21360314,  264.18662906,
+        287.58317113,  281.07587552, 3066.15167618, 1981.88378084,
+       1010.44618881,  306.11396253,  295.27227676,  295.55740905,
+       2427.20189989,  296.11335313, 2380.41507065,  318.82669342,
+        313.99512863, 2325.15030849,  323.18458629,  652.11967146,
+       2354.23505437,  320.38998961,  366.39622283,  339.29246891,
+        296.16008425,  358.82175756,  286.67209852,  319.66826713,
+        352.56599021,  293.87951589,  300.97232985,  375.40218258,
+       3198.70295274,  322.01721084,  289.32129693,  297.57844281,
+       3099.43964887,  469.47620642,  481.12914681,  344.13683987,
+       1217.89117312, 2367.04725802,  305.38200784,  334.52228844,
+       1673.54336095,  386.00672174,  298.41796768,  287.0634675 ]), 'std_score_time': array([ 43.01451313,  45.16585374, 111.07518721,  48.6810683 ,
+        35.80082834,  48.01754749, 203.55611682,  32.39652741,
+        32.95782125,  33.58624351,  37.5972203 ,  37.30775881,
+        42.23275352,  30.14452338,  47.78726006,   1.75597548,
+        31.45936179, 124.73854661,  38.16488063,  43.62087047,
+       231.1550405 ,  26.96039665,  38.89310086,  35.26749182,
+        37.67190731,  37.93044114,  48.37972522,  53.24214423,
+        55.49167049,  37.81634176,  23.73229325,  48.77089775,
+        35.44274223,  26.72060502,  34.38107502,  33.28617227,
+        48.60596561,  81.77605259,  46.03650677,  33.94798315,
+        32.78302562,  41.853122  ,  45.10273159,  39.82047451,
+        22.58717549,  41.92146635,  28.82698917, 189.75017667,
+        87.8182385 ,  24.4190284 ,  32.28394222,  26.51962852,
+        34.87597978,  34.18378675,  27.11734116,  37.21528578,
+        34.07459974,  42.93168712,  41.06269431, 189.12367928,
+       240.14031947,  44.70081174,  39.12769878,  40.73822069,
+        68.48329699,  38.19617641, 104.09450948,  35.4472295 ,
+        40.65836906, 146.77126038,  40.25016451, 308.10244501,
+        81.3012954 ,  40.09379935,  80.70072794,  49.07120907,
+        32.21030855,  38.89449906,  33.60714877,   7.17224729,
+        63.38013577,  36.98342419,  38.41301441,  56.71291757,
+        88.60894263,  36.70511854,  34.61188674,  30.56462312,
+        41.79463625,  42.23127592,  50.97306681,  42.73989081,
+       511.20788312,  75.8947717 ,  37.32807136,  45.62923968,
+        46.38969588,  38.25643563,  36.79662192,  23.89353228]), 'param_union__linguistic__tfidf__sublinear_tf': masked_array(data=[True, True, True, True, True, True, True, True, True,
+                   True, True, True, True, True, True, True, True, True,
+                   True, True, True, True, True, True, True, True, True,
+                   True, True, True, True, True, True, True, True, True,
+                   True, True, True, True, True, True, True, True, True,
+                   True, True, True, True, True, True, True, True, True,
+                   True, True, True, True, True, True, True, True, True,
+                   True, True, True, True, True, True, True, True, True,
+                   True, True, True, True, True, True, True, True, True,
+                   True, True, True, True, True, True, True, True, True,
+                   True, True, True, True, True, True, True, True, True,
+                   True],
+             mask=[False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_union__linguistic__tfidf__min_df': masked_array(data=[0.35, 0.35, 0.45, 0.25, 0.2, 0.35, 0.25, 0.2, 0.0, 0.0,
+                   0.2, 0.1, 0.0, 0.4, 0.25, 0.0, 0.4, 0.4, 0.45, 0.1,
+                   0.2, 0.0, 0.0, 0.0, 0.3, 0.25, 0.1, 0.2, 0.45, 0.4,
+                   0.2, 0.4, 0.1, 0.25, 0.0, 0.45, 0.35, 0.3, 0.35, 0.4,
+                   0.45, 0.1, 0.2, 0.0, 0.0, 0.0, 0.3, 0.35, 0.25, 0.45,
+                   0.3, 0.2, 0.45, 0.0, 0.2, 0.45, 0.25, 0.45, 0.4, 0.35,
+                   0.2, 0.3, 0.1, 0.1, 0.4, 0.3, 0.45, 0.2, 0.35, 0.35,
+                   0.1, 0.4, 0.4, 0.1, 0.3, 0.3, 0.35, 0.0, 0.3, 0.45,
+                   0.25, 0.35, 0.4, 0.0, 0.35, 0.3, 0.25, 0.35, 0.3, 0.0,
+                   0.1, 0.0, 0.2, 0.25, 0.2, 0.1, 0.45, 0.1, 0.25, 0.2],
+             mask=[False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_union__linguistic__tfidf__max_df': masked_array(data=[0.85, 0.95, 0.95, 0.9, 0.5, 1.0, 0.7, 0.7, 0.9, 0.5,
+                   0.6, 0.7, 1.0, 0.8, 0.8, 0.9, 0.5, 0.5, 0.85, 0.95,
+                   1.0, 0.6, 1.0, 0.85, 0.5, 1.0, 0.6, 0.95, 1.0, 0.8,
+                   0.85, 0.8, 0.5, 1.0, 0.6, 0.5, 0.8, 0.5, 0.85, 0.8,
+                   0.95, 0.8, 0.8, 0.6, 0.95, 0.9, 0.6, 0.85, 0.9, 0.7,
+                   0.6, 0.8, 0.5, 0.5, 0.6, 0.95, 0.5, 1.0, 0.8, 0.6, 1.0,
+                   0.7, 1.0, 0.5, 1.0, 0.85, 1.0, 0.6, 0.9, 0.85, 0.8,
+                   0.85, 0.85, 0.9, 0.95, 0.95, 0.9, 0.9, 0.85, 0.6, 0.95,
+                   0.9, 0.95, 1.0, 0.9, 0.9, 0.5, 0.5, 0.8, 0.95, 1.0,
+                   0.8, 0.8, 0.6, 0.5, 0.8, 0.9, 0.95, 0.85, 0.8],
+             mask=[False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_union__linguistic__nmf__n_components': masked_array(data=[125, 50, 600, 100, 125, 100, 600, 300, 150, 100, 25,
+                   100, 100, 25, 50, 500, 150, 600, 100, 150, 600, 25,
+                   200, 150, 100, 25, 75, 400, 500, 50, 75, 100, 400, 200,
+                   25, 125, 125, 500, 125, 75, 150, 150, 50, 500, 400, 75,
+                   75, 400, 400, 400, 400, 125, 25, 150, 100, 50, 125,
+                   100, 600, 500, 600, 50, 25, 25, 500, 50, 500, 150, 150,
+                   500, 50, 300, 500, 75, 400, 300, 100, 125, 100, 125,
+                   400, 100, 150, 125, 600, 200, 25, 50, 600, 300, 600,
+                   100, 600, 600, 75, 125, 400, 300, 50, 100],
+             mask=[False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_clf__subsample': masked_array(data=[0.6, 0.6, 0.9, 0.9, 0.8, 0.9, 0.4, 0.5, 0.7, 0.4, 0.7,
+                   0.6, 0.8, 0.8, 0.6, 0.7, 0.8, 0.6, 0.4, 0.4, 0.9, 0.7,
+                   0.5, 0.5, 0.7, 0.7, 0.4, 0.6, 0.5, 0.6, 0.4, 0.7, 0.8,
+                   0.5, 0.8, 0.7, 0.5, 0.8, 0.9, 0.7, 0.5, 0.6, 0.5, 0.5,
+                   0.5, 0.7, 0.5, 0.8, 0.5, 0.7, 0.7, 0.9, 0.9, 0.9, 0.6,
+                   0.4, 0.6, 0.7, 0.5, 0.4, 0.6, 0.7, 0.6, 0.9, 0.5, 0.9,
+                   0.4, 0.9, 0.6, 0.5, 0.5, 0.9, 0.6, 0.9, 0.4, 0.7, 0.9,
+                   0.5, 0.6, 0.7, 0.6, 0.8, 0.9, 0.6, 0.9, 0.4, 0.5, 0.5,
+                   0.5, 0.7, 0.9, 0.9, 0.4, 0.8, 0.7, 0.9, 0.6, 0.4, 0.9,
+                   0.8],
+             mask=[False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_clf__min_child_weight': masked_array(data=[4, 6, 7, 6, 6, 4, 5, 8, 3, 5, 4, 4, 3, 7, 6, 4, 3, 5,
+                   6, 8, 3, 6, 7, 5, 3, 3, 5, 7, 8, 3, 8, 8, 9, 4, 3, 9,
+                   8, 3, 7, 7, 8, 9, 7, 5, 7, 4, 9, 9, 8, 4, 4, 4, 6, 6,
+                   5, 3, 3, 4, 6, 3, 5, 3, 9, 4, 5, 3, 8, 4, 6, 5, 9, 3,
+                   4, 8, 4, 9, 4, 3, 5, 4, 9, 9, 6, 7, 7, 5, 3, 9, 5, 7,
+                   7, 9, 4, 7, 7, 8, 8, 5, 3, 3],
+             mask=[False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_clf__max_depth': masked_array(data=[6, 6, 8, 7, 2, 2, 2, 2, 7, 9, 8, 7, 6, 5, 6, 8, 5, 6,
+                   2, 7, 5, 4, 4, 7, 9, 3, 6, 3, 3, 8, 9, 7, 6, 9, 4, 3,
+                   7, 2, 9, 4, 8, 9, 7, 3, 9, 6, 4, 4, 9, 7, 7, 6, 9, 2,
+                   4, 8, 2, 3, 3, 4, 8, 2, 7, 9, 5, 2, 3, 6, 5, 9, 8, 5,
+                   9, 5, 6, 9, 6, 5, 3, 3, 3, 3, 8, 7, 8, 6, 8, 4, 3, 3,
+                   7, 7, 2, 4, 3, 4, 7, 4, 8, 9],
+             mask=[False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_clf__colsample_bytree': masked_array(data=[0.7, 0.6, 0.8, 0.9, 0.9, 0.8, 0.7, 0.7, 0.6, 0.6, 0.6,
+                   0.4, 0.4, 0.4, 0.5, 0.8, 0.8, 0.7, 0.9, 0.7, 0.4, 0.9,
+                   0.4, 0.8, 0.4, 0.7, 0.4, 0.5, 0.9, 0.6, 0.8, 0.9, 0.7,
+                   0.5, 0.5, 0.5, 0.8, 0.4, 0.7, 0.4, 0.9, 0.5, 0.9, 0.4,
+                   0.7, 0.8, 0.6, 0.7, 0.6, 0.9, 0.8, 0.7, 0.8, 0.4, 0.6,
+                   0.4, 0.5, 0.7, 0.8, 0.8, 0.4, 0.5, 0.9, 0.6, 0.4, 0.8,
+                   0.5, 0.5, 0.7, 0.9, 0.6, 0.5, 0.6, 0.7, 0.5, 0.5, 0.9,
+                   0.6, 0.5, 0.5, 0.4, 0.5, 0.5, 0.9, 0.6, 0.9, 0.5, 0.9,
+                   0.4, 0.4, 0.6, 0.9, 0.8, 0.6, 0.8, 0.5, 0.6, 0.8, 0.5,
+                   0.4],
+             mask=[False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False],
+       fill_value='?',
+            dtype=object), 'params': [{'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.6, 'clf__min_child_weight': 4, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.7}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.6, 'clf__min_child_weight': 6, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.9, 'clf__min_child_weight': 7, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.9, 'clf__min_child_weight': 6, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.8, 'clf__min_child_weight': 6, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.9, 'clf__min_child_weight': 4, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.7, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.4, 'clf__min_child_weight': 5, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.7}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.7, 'union__linguistic__nmf__n_components': 300, 'clf__subsample': 0.5, 'clf__min_child_weight': 8, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.7}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.7, 'clf__min_child_weight': 3, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.4, 'clf__min_child_weight': 5, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.7, 'clf__min_child_weight': 4, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.7, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.6, 'clf__min_child_weight': 4, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.8, 'clf__min_child_weight': 3, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.8, 'clf__min_child_weight': 7, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.6, 'clf__min_child_weight': 6, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.7, 'clf__min_child_weight': 4, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.8, 'clf__min_child_weight': 3, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.6, 'clf__min_child_weight': 5, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.7}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.4, 'clf__min_child_weight': 6, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.4, 'clf__min_child_weight': 8, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.7}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.9, 'clf__min_child_weight': 3, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.7, 'clf__min_child_weight': 6, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 200, 'clf__subsample': 0.5, 'clf__min_child_weight': 7, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.5, 'clf__min_child_weight': 5, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.7, 'clf__min_child_weight': 3, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.7, 'clf__min_child_weight': 3, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.7}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 75, 'clf__subsample': 0.4, 'clf__min_child_weight': 5, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.6, 'clf__min_child_weight': 7, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.5, 'clf__min_child_weight': 8, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.6, 'clf__min_child_weight': 3, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 75, 'clf__subsample': 0.4, 'clf__min_child_weight': 8, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.7, 'clf__min_child_weight': 8, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.8, 'clf__min_child_weight': 9, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.7}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 200, 'clf__subsample': 0.5, 'clf__min_child_weight': 4, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.8, 'clf__min_child_weight': 3, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.7, 'clf__min_child_weight': 9, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.5, 'clf__min_child_weight': 8, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.8, 'clf__min_child_weight': 3, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.9, 'clf__min_child_weight': 7, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.7}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 75, 'clf__subsample': 0.7, 'clf__min_child_weight': 7, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.5, 'clf__min_child_weight': 8, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.6, 'clf__min_child_weight': 9, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.5, 'clf__min_child_weight': 7, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.5, 'clf__min_child_weight': 5, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.5, 'clf__min_child_weight': 7, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.7}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 75, 'clf__subsample': 0.7, 'clf__min_child_weight': 4, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 75, 'clf__subsample': 0.5, 'clf__min_child_weight': 9, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.8, 'clf__min_child_weight': 9, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.7}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.5, 'clf__min_child_weight': 8, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.7, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.7, 'clf__min_child_weight': 4, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.7, 'clf__min_child_weight': 4, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.9, 'clf__min_child_weight': 4, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.7}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.9, 'clf__min_child_weight': 6, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.9, 'clf__min_child_weight': 6, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.6, 'clf__min_child_weight': 5, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.4, 'clf__min_child_weight': 3, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.6, 'clf__min_child_weight': 3, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.7, 'clf__min_child_weight': 4, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.7}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.5, 'clf__min_child_weight': 6, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.4, 'clf__min_child_weight': 3, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.6, 'clf__min_child_weight': 5, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.7, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.7, 'clf__min_child_weight': 3, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.6, 'clf__min_child_weight': 9, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.9, 'clf__min_child_weight': 4, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.5, 'clf__min_child_weight': 5, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.9, 'clf__min_child_weight': 3, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.4, 'clf__min_child_weight': 8, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.9, 'clf__min_child_weight': 4, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.6, 'clf__min_child_weight': 6, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.7}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.5, 'clf__min_child_weight': 5, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.5, 'clf__min_child_weight': 9, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 300, 'clf__subsample': 0.9, 'clf__min_child_weight': 3, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.6, 'clf__min_child_weight': 4, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 75, 'clf__subsample': 0.9, 'clf__min_child_weight': 8, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.7}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.4, 'clf__min_child_weight': 4, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 300, 'clf__subsample': 0.7, 'clf__min_child_weight': 9, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.9, 'clf__min_child_weight': 4, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.5, 'clf__min_child_weight': 3, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.6, 'clf__min_child_weight': 5, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.7, 'clf__min_child_weight': 4, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.6, 'clf__min_child_weight': 9, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.8, 'clf__min_child_weight': 9, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.9, 'clf__min_child_weight': 6, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.6, 'clf__min_child_weight': 7, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.9, 'clf__min_child_weight': 7, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 200, 'clf__subsample': 0.4, 'clf__min_child_weight': 5, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.5, 'clf__min_child_weight': 3, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.5, 'clf__min_child_weight': 9, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.5, 'clf__min_child_weight': 5, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 300, 'clf__subsample': 0.7, 'clf__min_child_weight': 7, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.4}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.9, 'clf__min_child_weight': 7, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.9, 'clf__min_child_weight': 9, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.9}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.4, 'clf__min_child_weight': 4, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.8, 'clf__min_child_weight': 7, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 75, 'clf__subsample': 0.7, 'clf__min_child_weight': 7, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.9, 'clf__min_child_weight': 8, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.6, 'clf__min_child_weight': 8, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.6}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 300, 'clf__subsample': 0.4, 'clf__min_child_weight': 5, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.8}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.9, 'clf__min_child_weight': 3, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.5}, {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.8, 'clf__min_child_weight': 3, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.4}], 'split0_test_score': array([0.38481735, 0.39201485, 0.38957041, 0.39088317, 0.41138925,
+       0.40432755, 0.39948395, 0.39799013, 0.39273912, 0.3815581 ,
+       0.39006835, 0.38794079, 0.39676791, 0.40319587, 0.3935992 ,
+       0.37884206, 0.39826174, 0.37793672, 0.40899009, 0.38382147,
+       0.38264452, 0.40423702, 0.39278439, 0.38250871, 0.38201077,
+       0.41048391, 0.3911095 , 0.39368974, 0.39500249, 0.38785026,
+       0.38336879, 0.3862659 , 0.38087909, 0.37508488, 0.40690779,
+       0.40631932, 0.38273505, 0.40450862, 0.38314246, 0.40468969,
+       0.38495315, 0.3864017 , 0.39002309, 0.40075144, 0.37838939,
+       0.39355394, 0.40224526, 0.39645104, 0.3790684 , 0.38585849,
+       0.38694491, 0.39165271, 0.39292019, 0.40645512, 0.39767326,
+       0.38427414, 0.40627405, 0.40573084, 0.3841836 , 0.38563216,
+       0.37838939, 0.41252094, 0.39382554, 0.39151691, 0.3908379 ,
+       0.41080078, 0.4002535 , 0.38730705, 0.38898194, 0.38563216,
+       0.39586257, 0.39015889, 0.37979268, 0.40568557, 0.38622063,
+       0.38332353, 0.39242225, 0.3909737 , 0.40296954, 0.40428229,
+       0.40143045, 0.40794894, 0.38264452, 0.3883482 , 0.38192024,
+       0.38146757, 0.38196551, 0.39980082, 0.39441401, 0.40133991,
+       0.38540582, 0.39201485, 0.39771853, 0.40129464, 0.40446336,
+       0.40382961, 0.37540175, 0.37992848, 0.38730705, 0.38490788]), 'split1_test_score': array([0.40604771, 0.41052917, 0.39894075, 0.40455389, 0.4096691 ,
+       0.41233987, 0.40324114, 0.40998597, 0.40541397, 0.38893667,
+       0.40310534, 0.40695306, 0.40514237, 0.40826581, 0.4075868 ,
+       0.39685845, 0.40487076, 0.39921235, 0.40889955, 0.39672265,
+       0.40926169, 0.41288307, 0.40903535, 0.40251686, 0.40188312,
+       0.40962383, 0.40152098, 0.41179666, 0.41075551, 0.40369381,
+       0.39522883, 0.40835634, 0.40505183, 0.39550043, 0.41392422,
+       0.40740573, 0.40147571, 0.407451  , 0.40378435, 0.41129872,
+       0.40672672, 0.39975556, 0.3978996 , 0.40989543, 0.39703952,
+       0.40640985, 0.41080078, 0.40998597, 0.39604364, 0.3955457 ,
+       0.40269793, 0.40930696, 0.39984609, 0.4102123 , 0.41093658,
+       0.39762799, 0.40889955, 0.40903535, 0.40708886, 0.40468969,
+       0.39930288, 0.41039337, 0.40568557, 0.40201892, 0.40328641,
+       0.40939749, 0.40862795, 0.40586664, 0.41039337, 0.39206011,
+       0.39672265, 0.41012177, 0.39971029, 0.40600244, 0.40518763,
+       0.40419175, 0.41048391, 0.4077226 , 0.41324521, 0.41274727,
+       0.41116292, 0.41283781, 0.40917116, 0.40097777, 0.41089131,
+       0.4026074 , 0.39423295, 0.41125345, 0.41360735, 0.41238513,
+       0.40432755, 0.40206419, 0.40754153, 0.40858268, 0.41003123,
+       0.40957856, 0.40007243, 0.4121588 , 0.40672672, 0.39857861]), 'mean_test_score': array([0.39543253, 0.40127201, 0.39425558, 0.39771853, 0.41052917,
+       0.40833371, 0.40136255, 0.40398805, 0.39907655, 0.38524739,
+       0.39658685, 0.39744692, 0.40095514, 0.40573084, 0.400593  ,
+       0.38785026, 0.40156625, 0.38857453, 0.40894482, 0.39027206,
+       0.3959531 , 0.40856005, 0.40090987, 0.39251279, 0.39194695,
+       0.41005387, 0.39631524, 0.4027432 , 0.402879  , 0.39577203,
+       0.38929881, 0.39731112, 0.39296546, 0.38529265, 0.41041601,
+       0.40686252, 0.39210538, 0.40597981, 0.3934634 , 0.40799421,
+       0.39583993, 0.39307863, 0.39396134, 0.40532343, 0.38771445,
+       0.39998189, 0.40652302, 0.40321851, 0.38755602, 0.3907021 ,
+       0.39482142, 0.40047983, 0.39638314, 0.40833371, 0.40430492,
+       0.39095107, 0.4075868 , 0.4073831 , 0.39563623, 0.39516093,
+       0.38884614, 0.41145715, 0.39975556, 0.39676791, 0.39706215,
+       0.41009914, 0.40444072, 0.39658685, 0.39968766, 0.38884614,
+       0.39629261, 0.40014033, 0.38975148, 0.40584401, 0.39570413,
+       0.39375764, 0.40145308, 0.39934815, 0.40810737, 0.40851478,
+       0.40629668, 0.41039337, 0.39590784, 0.39466298, 0.39640578,
+       0.39203748, 0.38809923, 0.40552714, 0.40401068, 0.40686252,
+       0.39486669, 0.39703952, 0.40263003, 0.40493866, 0.4072473 ,
+       0.40670409, 0.38773709, 0.39604364, 0.39701688, 0.39174324]), 'std_test_score': array([1.06151827e-02, 9.25716355e-03, 4.68516590e-03, 6.83536282e-03,
+       8.60078765e-04, 4.00615635e-03, 1.87859309e-03, 5.99791770e-03,
+       6.33742248e-03, 3.68928523e-03, 6.51849169e-03, 9.50613372e-03,
+       4.18722557e-03, 2.53496899e-03, 6.99379838e-03, 9.00819338e-03,
+       3.30451315e-03, 1.06378163e-02, 4.52673034e-05, 6.45059074e-03,
+       1.33085872e-02, 4.32302748e-03, 8.12548097e-03, 1.00040741e-02,
+       9.93617310e-03, 4.30039383e-04, 5.20573989e-03, 9.05346069e-03,
+       7.87651080e-03, 7.92177810e-03, 5.93001675e-03, 1.10452220e-02,
+       1.20863700e-02, 1.02077769e-02, 3.50821602e-03, 5.43207641e-04,
+       9.37033181e-03, 1.47118736e-03, 1.03209452e-02, 3.30451315e-03,
+       1.08867865e-02, 6.67692726e-03, 3.93825540e-03, 4.57199765e-03,
+       9.32506451e-03, 6.42795709e-03, 4.27776017e-03, 6.76746186e-03,
+       8.48761939e-03, 4.84360147e-03, 7.87651080e-03, 8.82712417e-03,
+       3.46294871e-03, 1.87859309e-03, 6.63165995e-03, 6.67692726e-03,
+       1.31275180e-03, 1.65225658e-03, 1.14526278e-02, 9.52876737e-03,
+       1.04567471e-02, 1.06378163e-03, 5.93001675e-03, 5.25100720e-03,
+       6.22425422e-03, 7.01643203e-04, 4.18722557e-03, 9.27979720e-03,
+       1.07057173e-02, 3.21397854e-03, 4.30039383e-04, 9.98144041e-03,
+       9.95880675e-03, 1.58435562e-04, 9.48350007e-03, 1.04341134e-02,
+       9.03082703e-03, 8.37445113e-03, 5.13783894e-03, 4.23249287e-03,
+       4.86623512e-03, 2.44443439e-03, 1.32633199e-02, 6.31478883e-03,
+       1.44855371e-02, 1.05699154e-02, 6.13371961e-03, 5.72631388e-03,
+       9.59666833e-03, 5.52261102e-03, 9.46086642e-03, 5.02467068e-03,
+       4.91150242e-03, 3.64401793e-03, 2.78393916e-03, 2.87447377e-03,
+       1.23353402e-02, 1.61151600e-02, 9.70983659e-03, 6.83536282e-03]), 'rank_test_score': array([ 70,  39,  75,  50,   2,  10,  38,  31,  49, 100,  57,  51,  40,
+        24,  42,  95,  36,  93,   7,  88,  64,   8,  41,  81,  84,   6,
+        61,  34,  33,  67,  90,  52,  80,  99,   3,  17,  82,  22,  78,
+        13,  66,  79,  76,  26,  97,  45,  20,  32,  98,  87,  73,  43,
+        60,  10,  29,  86,  14,  15,  69,  71,  91,   1,  46,  56,  53,
+         5,  28,  57,  47,  91,  62,  44,  89,  23,  68,  77,  37,  48,
+        12,   9,  21,   4,  65,  74,  59,  83,  94,  25,  30,  17,  72,
+        54,  35,  27,  16,  19,  96,  63,  55,  85], dtype=int32), 'split0_train_score': array([0.93594677, 0.87814042, 0.63500973, 0.97356389, 0.50531891,
+       0.49902675, 0.49223666, 0.51880856, 0.96088905, 0.98175728,
+       0.98058033, 0.95867095, 0.87732561, 0.72264723, 0.87148613,
+       0.99339097, 0.60988638, 0.46113802, 0.50522837, 0.94495496,
+       0.87488117, 0.62568467, 0.66054049, 0.9552759 , 0.99524693,
+       0.544792  , 0.84038749, 0.61142547, 0.50382509, 0.99646915,
+       0.99470373, 0.97872437, 0.91281517, 0.99904939, 0.61889457,
+       0.4714137 , 0.97374496, 0.45738083, 0.99846091, 0.65909194,
+       0.99642388, 0.99483953, 0.94758046, 0.60413743, 0.99397945,
+       0.88126386, 0.65560636, 0.64361052, 0.99719343, 0.59481237,
+       0.75804626, 0.9173419 , 0.99185189, 0.50586212, 0.67027296,
+       0.99049387, 0.5026934 , 0.57838034, 0.49431895, 0.50694853,
+       0.99687656, 0.49255353, 0.90249423, 0.98900005, 0.6277217 ,
+       0.49255353, 0.49671812, 0.91394686, 0.82535874, 0.80856457,
+       0.96881083, 0.79797202, 0.74206691, 0.7556471 , 0.9410167 ,
+       0.99877778, 0.92938301, 0.78656466, 0.57747499, 0.55411706,
+       0.61101806, 0.57272192, 0.99732923, 0.94300846, 0.73935087,
+       0.92761758, 0.97360916, 0.65225658, 0.52541759, 0.58820334,
+       0.98818523, 0.9363089 , 0.52473858, 0.55334752, 0.56774252,
+       0.67303427, 0.68023177, 0.70503825, 0.99004119, 0.99886832]), 'split1_train_score': array([0.81218596, 0.74281382, 0.62855914, 0.88674121, 0.47347336,
+       0.47259065, 0.46722647, 0.4811009 , 0.87961161, 0.94137884,
+       0.89038522, 0.86668779, 0.75173147, 0.61350776, 0.74539405,
+       0.96491784, 0.53816034, 0.45448373, 0.47236431, 0.84708705,
+       0.75168621, 0.54825495, 0.57595854, 0.86383595, 0.97953918,
+       0.49723869, 0.7251143 , 0.53870354, 0.48986012, 0.95314834,
+       0.96604952, 0.89767326, 0.80080123, 0.9930741 , 0.54327554,
+       0.44669775, 0.8960889 , 0.4457245 , 0.99010909, 0.57043592,
+       0.9716853 , 0.9736997 , 0.84222081, 0.53399574, 0.96774705,
+       0.76422525, 0.57362727, 0.60732878, 0.99087864, 0.58976506,
+       0.70578516, 0.79523335, 0.94941379, 0.47313386, 0.58254493,
+       0.9172061 , 0.47207007, 0.51932914, 0.47582726, 0.48954325,
+       0.98433751, 0.46523471, 0.78554615, 0.93802906, 0.60857363,
+       0.46491784, 0.48784573, 0.784505  , 0.69435517, 0.82746367,
+       0.8865375 , 0.73421303, 0.74817799, 0.65732651, 0.8386447 ,
+       0.99370784, 0.80086913, 0.66536146, 0.51337649, 0.51258431,
+       0.53725499, 0.51195057, 0.96962564, 0.848264  , 0.72470689,
+       0.81354398, 0.89348604, 0.56439274, 0.49289303, 0.52820153,
+       0.93277805, 0.83085872, 0.48825313, 0.52867684, 0.50995881,
+       0.57783713, 0.69564529, 0.60732878, 0.9358336 , 0.98875108]), 'mean_train_score': array([0.87406636, 0.81047712, 0.63178444, 0.93015255, 0.48939613,
+       0.4858087 , 0.47973156, 0.49995473, 0.92025033, 0.96156806,
+       0.93548278, 0.91267937, 0.81452854, 0.6680775 , 0.80844009,
+       0.97915441, 0.57402336, 0.45781087, 0.48879634, 0.896021  ,
+       0.81328369, 0.58696981, 0.61824951, 0.90955593, 0.98739306,
+       0.52101535, 0.78275089, 0.57506451, 0.49684261, 0.97480875,
+       0.98037662, 0.93819881, 0.8568082 , 0.99606174, 0.58108506,
+       0.45905572, 0.93491693, 0.45155267, 0.994285  , 0.61476393,
+       0.98405459, 0.98426961, 0.89490064, 0.56906659, 0.98086325,
+       0.82274456, 0.61461681, 0.62546965, 0.99403603, 0.59228871,
+       0.73191571, 0.85628763, 0.97063284, 0.48949799, 0.62640894,
+       0.95384998, 0.48738174, 0.54885474, 0.48507311, 0.49824589,
+       0.99060703, 0.47889412, 0.84402019, 0.96351455, 0.61814766,
+       0.47873568, 0.49228192, 0.84922593, 0.75985696, 0.81801412,
+       0.92767417, 0.76609253, 0.74512245, 0.7064868 , 0.8898307 ,
+       0.99624281, 0.86512607, 0.72596306, 0.54542574, 0.53335069,
+       0.57413653, 0.54233625, 0.98347743, 0.89563623, 0.73202888,
+       0.87058078, 0.9335476 , 0.60832466, 0.50915531, 0.55820244,
+       0.96048164, 0.88358381, 0.50649586, 0.54101218, 0.53885066,
+       0.6254357 , 0.68793853, 0.65618351, 0.9629374 , 0.9938097 ]), 'std_train_score': array([0.0618804 , 0.0676633 , 0.0032253 , 0.04341134, 0.01592277,
+       0.01321805, 0.01250509, 0.01885383, 0.04063872, 0.02018922,
+       0.04509755, 0.04599158, 0.06279707, 0.05456973, 0.06304604,
+       0.01423657, 0.03586302, 0.00332715, 0.01643203, 0.04893396,
+       0.06159748, 0.03871486, 0.04229098, 0.04571998, 0.00785388,
+       0.02377665, 0.05763659, 0.03636096, 0.00698248, 0.0216604 ,
+       0.0143271 , 0.04052555, 0.05600697, 0.00298764, 0.03780952,
+       0.01235797, 0.03882803, 0.00582817, 0.00417591, 0.04432801,
+       0.01236929, 0.01056992, 0.05267982, 0.03507084, 0.0131162 ,
+       0.05851931, 0.04098954, 0.01814087, 0.00315739, 0.00252365,
+       0.02613055, 0.06105428, 0.02121905, 0.01636413, 0.04386402,
+       0.03664388, 0.01531167, 0.0295256 , 0.00924585, 0.00870264,
+       0.00626952, 0.01365941, 0.05847404, 0.02548549, 0.00957403,
+       0.01381784, 0.0044362 , 0.06472093, 0.06550179, 0.00944955,
+       0.04113666, 0.0318795 , 0.00305554, 0.04916029, 0.051186  ,
+       0.00253497, 0.06425694, 0.0606016 , 0.03204925, 0.02076638,
+       0.03688154, 0.03038568, 0.01385179, 0.04737223, 0.00732199,
+       0.0570368 , 0.04006156, 0.04393192, 0.01626228, 0.03000091,
+       0.02770359, 0.05272509, 0.01824272, 0.01233534, 0.02889186,
+       0.04759857, 0.00770676, 0.04885474, 0.0271038 , 0.00505862])}
+[mean: 0.39543, std: 0.01062, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.6, 'clf__min_child_weight': 4, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.7}, mean: 0.40127, std: 0.00926, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.6, 'clf__min_child_weight': 6, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.6}, mean: 0.39426, std: 0.00469, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.9, 'clf__min_child_weight': 7, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.8}, mean: 0.39772, std: 0.00684, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.9, 'clf__min_child_weight': 6, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.9}, mean: 0.41053, std: 0.00086, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.8, 'clf__min_child_weight': 6, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.9}, mean: 0.40833, std: 0.00401, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.9, 'clf__min_child_weight': 4, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.8}, mean: 0.40136, std: 0.00188, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.7, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.4, 'clf__min_child_weight': 5, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.7}, mean: 0.40399, std: 0.00600, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.7, 'union__linguistic__nmf__n_components': 300, 'clf__subsample': 0.5, 'clf__min_child_weight': 8, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.7}, mean: 0.39908, std: 0.00634, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.7, 'clf__min_child_weight': 3, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.6}, mean: 0.38525, std: 0.00369, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.4, 'clf__min_child_weight': 5, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.6}, mean: 0.39659, std: 0.00652, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.7, 'clf__min_child_weight': 4, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.6}, mean: 0.39745, std: 0.00951, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.7, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.6, 'clf__min_child_weight': 4, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.4}, mean: 0.40096, std: 0.00419, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.8, 'clf__min_child_weight': 3, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.4}, mean: 0.40573, std: 0.00253, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.8, 'clf__min_child_weight': 7, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.4}, mean: 0.40059, std: 0.00699, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.6, 'clf__min_child_weight': 6, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.5}, mean: 0.38785, std: 0.00901, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.7, 'clf__min_child_weight': 4, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.8}, mean: 0.40157, std: 0.00330, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.8, 'clf__min_child_weight': 3, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.8}, mean: 0.38857, std: 0.01064, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.6, 'clf__min_child_weight': 5, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.7}, mean: 0.40894, std: 0.00005, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.4, 'clf__min_child_weight': 6, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.9}, mean: 0.39027, std: 0.00645, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.4, 'clf__min_child_weight': 8, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.7}, mean: 0.39595, std: 0.01331, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.9, 'clf__min_child_weight': 3, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.4}, mean: 0.40856, std: 0.00432, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.7, 'clf__min_child_weight': 6, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.9}, mean: 0.40091, std: 0.00813, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 200, 'clf__subsample': 0.5, 'clf__min_child_weight': 7, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.4}, mean: 0.39251, std: 0.01000, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.5, 'clf__min_child_weight': 5, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.8}, mean: 0.39195, std: 0.00994, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.7, 'clf__min_child_weight': 3, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.4}, mean: 0.41005, std: 0.00043, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.7, 'clf__min_child_weight': 3, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.7}, mean: 0.39632, std: 0.00521, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 75, 'clf__subsample': 0.4, 'clf__min_child_weight': 5, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.4}, mean: 0.40274, std: 0.00905, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.6, 'clf__min_child_weight': 7, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}, mean: 0.40288, std: 0.00788, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.5, 'clf__min_child_weight': 8, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.9}, mean: 0.39577, std: 0.00792, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.6, 'clf__min_child_weight': 3, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.6}, mean: 0.38930, std: 0.00593, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 75, 'clf__subsample': 0.4, 'clf__min_child_weight': 8, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.8}, mean: 0.39731, std: 0.01105, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.7, 'clf__min_child_weight': 8, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.9}, mean: 0.39297, std: 0.01209, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.8, 'clf__min_child_weight': 9, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.7}, mean: 0.38529, std: 0.01021, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 200, 'clf__subsample': 0.5, 'clf__min_child_weight': 4, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.5}, mean: 0.41042, std: 0.00351, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.8, 'clf__min_child_weight': 3, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.5}, mean: 0.40686, std: 0.00054, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.7, 'clf__min_child_weight': 9, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}, mean: 0.39211, std: 0.00937, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.5, 'clf__min_child_weight': 8, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.8}, mean: 0.40598, std: 0.00147, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.8, 'clf__min_child_weight': 3, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.4}, mean: 0.39346, std: 0.01032, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.9, 'clf__min_child_weight': 7, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.7}, mean: 0.40799, std: 0.00330, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 75, 'clf__subsample': 0.7, 'clf__min_child_weight': 7, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.4}, mean: 0.39584, std: 0.01089, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.5, 'clf__min_child_weight': 8, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.9}, mean: 0.39308, std: 0.00668, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.6, 'clf__min_child_weight': 9, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.5}, mean: 0.39396, std: 0.00394, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.5, 'clf__min_child_weight': 7, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.9}, mean: 0.40532, std: 0.00457, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.5, 'clf__min_child_weight': 5, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.4}, mean: 0.38771, std: 0.00933, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.5, 'clf__min_child_weight': 7, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.7}, mean: 0.39998, std: 0.00643, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 75, 'clf__subsample': 0.7, 'clf__min_child_weight': 4, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.8}, mean: 0.40652, std: 0.00428, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 75, 'clf__subsample': 0.5, 'clf__min_child_weight': 9, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.6}, mean: 0.40322, std: 0.00677, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.8, 'clf__min_child_weight': 9, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.7}, mean: 0.38756, std: 0.00849, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.5, 'clf__min_child_weight': 8, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.6}, mean: 0.39070, std: 0.00484, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.7, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.7, 'clf__min_child_weight': 4, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.9}, mean: 0.39482, std: 0.00788, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.7, 'clf__min_child_weight': 4, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.8}, mean: 0.40048, std: 0.00883, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.9, 'clf__min_child_weight': 4, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.7}, mean: 0.39638, std: 0.00346, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.9, 'clf__min_child_weight': 6, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.8}, mean: 0.40833, std: 0.00188, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.9, 'clf__min_child_weight': 6, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.4}, mean: 0.40430, std: 0.00663, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.6, 'clf__min_child_weight': 5, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.6}, mean: 0.39095, std: 0.00668, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.4, 'clf__min_child_weight': 3, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.4}, mean: 0.40759, std: 0.00131, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.6, 'clf__min_child_weight': 3, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.5}, mean: 0.40738, std: 0.00165, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.7, 'clf__min_child_weight': 4, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.7}, mean: 0.39564, std: 0.01145, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.5, 'clf__min_child_weight': 6, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.8}, mean: 0.39516, std: 0.00953, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.4, 'clf__min_child_weight': 3, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.8}, mean: 0.38885, std: 0.01046, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.6, 'clf__min_child_weight': 5, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.4}, mean: 0.41146, std: 0.00106, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.7, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.7, 'clf__min_child_weight': 3, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.5}, mean: 0.39976, std: 0.00593, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.6, 'clf__min_child_weight': 9, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.9}, mean: 0.39677, std: 0.00525, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.9, 'clf__min_child_weight': 4, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.6}, mean: 0.39706, std: 0.00622, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.5, 'clf__min_child_weight': 5, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.4}, mean: 0.41010, std: 0.00070, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.9, 'clf__min_child_weight': 3, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.8}, mean: 0.40444, std: 0.00419, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.4, 'clf__min_child_weight': 8, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}, mean: 0.39659, std: 0.00928, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.9, 'clf__min_child_weight': 4, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.5}, mean: 0.39969, std: 0.01071, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.6, 'clf__min_child_weight': 6, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.7}, mean: 0.38885, std: 0.00321, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.5, 'clf__min_child_weight': 5, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.9}, mean: 0.39629, std: 0.00043, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.5, 'clf__min_child_weight': 9, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.6}, mean: 0.40014, std: 0.00998, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 300, 'clf__subsample': 0.9, 'clf__min_child_weight': 3, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.5}, mean: 0.38975, std: 0.00996, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 500, 'clf__subsample': 0.6, 'clf__min_child_weight': 4, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.6}, mean: 0.40584, std: 0.00016, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 75, 'clf__subsample': 0.9, 'clf__min_child_weight': 8, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.7}, mean: 0.39570, std: 0.00948, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.4, 'clf__min_child_weight': 4, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.5}, mean: 0.39376, std: 0.01043, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 300, 'clf__subsample': 0.7, 'clf__min_child_weight': 9, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.5}, mean: 0.40145, std: 0.00903, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.9, 'clf__min_child_weight': 4, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.9}, mean: 0.39935, std: 0.00837, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.5, 'clf__min_child_weight': 3, 'clf__max_depth': 5, 'clf__colsample_bytree': 0.6}, mean: 0.40811, std: 0.00514, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.6, 'clf__min_child_weight': 5, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}, mean: 0.40851, std: 0.00423, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.7, 'clf__min_child_weight': 4, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}, mean: 0.40630, std: 0.00487, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.6, 'clf__min_child_weight': 9, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.4}, mean: 0.41039, std: 0.00244, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.8, 'clf__min_child_weight': 9, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.5}, mean: 0.39591, std: 0.01326, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.4, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 150, 'clf__subsample': 0.9, 'clf__min_child_weight': 6, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.5}, mean: 0.39466, std: 0.00631, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.6, 'clf__min_child_weight': 7, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.9}, mean: 0.39641, std: 0.01449, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.9, 'clf__min_child_weight': 7, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.6}, mean: 0.39204, std: 0.01057, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 200, 'clf__subsample': 0.4, 'clf__min_child_weight': 5, 'clf__max_depth': 6, 'clf__colsample_bytree': 0.9}, mean: 0.38810, std: 0.00613, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 25, 'clf__subsample': 0.5, 'clf__min_child_weight': 3, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.5}, mean: 0.40553, std: 0.00573, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.35, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.5, 'clf__min_child_weight': 9, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.9}, mean: 0.40401, std: 0.00960, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.5, 'clf__min_child_weight': 5, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.4}, mean: 0.40686, std: 0.00552, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 300, 'clf__subsample': 0.7, 'clf__min_child_weight': 7, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.4}, mean: 0.39487, std: 0.00946, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 1.0, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.9, 'clf__min_child_weight': 7, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.6}, mean: 0.39704, std: 0.00502, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.0, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.9, 'clf__min_child_weight': 9, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.9}, mean: 0.40263, std: 0.00491, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.4, 'clf__min_child_weight': 4, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.8}, mean: 0.40494, std: 0.00364, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.6, 'union__linguistic__nmf__n_components': 600, 'clf__subsample': 0.8, 'clf__min_child_weight': 7, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.6}, mean: 0.40725, std: 0.00278, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.5, 'union__linguistic__nmf__n_components': 75, 'clf__subsample': 0.7, 'clf__min_child_weight': 7, 'clf__max_depth': 3, 'clf__colsample_bytree': 0.8}, mean: 0.40670, std: 0.00287, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 125, 'clf__subsample': 0.9, 'clf__min_child_weight': 8, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.5}, mean: 0.38774, std: 0.01234, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.45, 'union__linguistic__tfidf__max_df': 0.9, 'union__linguistic__nmf__n_components': 400, 'clf__subsample': 0.6, 'clf__min_child_weight': 8, 'clf__max_depth': 7, 'clf__colsample_bytree': 0.6}, mean: 0.39604, std: 0.01612, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.1, 'union__linguistic__tfidf__max_df': 0.95, 'union__linguistic__nmf__n_components': 300, 'clf__subsample': 0.4, 'clf__min_child_weight': 5, 'clf__max_depth': 4, 'clf__colsample_bytree': 0.8}, mean: 0.39702, std: 0.00971, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.25, 'union__linguistic__tfidf__max_df': 0.85, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.9, 'clf__min_child_weight': 3, 'clf__max_depth': 8, 'clf__colsample_bytree': 0.5}, mean: 0.39174, std: 0.00684, params: {'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.2, 'union__linguistic__tfidf__max_df': 0.8, 'union__linguistic__nmf__n_components': 100, 'clf__subsample': 0.8, 'clf__min_child_weight': 3, 'clf__max_depth': 9, 'clf__colsample_bytree': 0.4}]/home/ubuntu/miniconda3/lib/python3.6/site-packages/sklearn/model_selection/_search.py:761: DeprecationWarning: The grid_scores_ attribute was deprecated in version 0.18 in favor of the more elaborate cv_results_ attribute. The grid_scores_ attribute will not be available from 0.20
+  DeprecationWarning)
+
+{'union__linguistic__tfidf__sublinear_tf': True, 'union__linguistic__tfidf__min_df': 0.3, 'union__linguistic__tfidf__max_df': 0.7, 'union__linguistic__nmf__n_components': 50, 'clf__subsample': 0.7, 'clf__min_child_weight': 3, 'clf__max_depth': 2, 'clf__colsample_bytree': 0.5}
+0.4114571544973066

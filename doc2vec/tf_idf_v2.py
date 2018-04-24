@@ -113,7 +113,7 @@ def run_experiment(estimators, param_dict, pickle_path, dataset):
     If n_jobs was set to a value higher than one, the data is copied for each point in the grid (and not n_jobs times). This is done for efficiency reasons if individual jobs take very little time, but may raise errors if the dataset is large and not enough memory is available. A workaround in this case is to set pre_dispatch. Then, the memory is copied only pre_dispatch many times. A reasonable value for pre_dispatch is 2 * n_jobs.
     """
 #    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, cv=ts_cv, n_jobs=24, pre_dispatch='n_jobs+4')
-    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, n_iter=100, cv=ts_cv, n_jobs=3, pre_dispatch='n_jobs')
+    grid_search = RandomizedSearchCV(pipe, param_distributions=param_dict, n_iter=1000, cv=ts_cv, n_jobs=3, pre_dispatch='n_jobs')
     snapshot = my_diagnostics.tracemalloc.take_snapshot()
     my_diagnostics.display_top(snapshot)
     

@@ -1,27 +1,48 @@
 from zipline.api import order_target, record, symbol
+import pandas as pd
+from datetime import timedelta
 
 def initialize(context):
     context.i = 0
-    context.asset = symbol('AAPL')
-
+    context.df = pd.read_csv('../backtest/strategy.csv')
+    context.row = 0
+    context.start_date = pd.to_datetime('2010-1-6')
 
 def handle_data(context, data):
-    # Skip first 300 days to get full windows
     context.i += 1
+    # Skip first 5 days to get full windows
     if context.i < 5:
         return
-
     
+    # Yesterday
+    trades = context.df.loc[pd.to_datetime(context.df['dates']) == context.start_date+pd.DateOffset(days=context.i-1)]
+    for index, row in trades.iterrows():
+        if index == 0:
+            continue
+        try:
+            asset = symbol(row['assets'])
+        except:
+            #print("{} not found.".format(row['assets']))
+            continue
+        if row['actions'] == 1:
+            order_target(asset, 0)
+        elif row['actions'] == -1:
+            order_target(asset, 0)
 
-    # Trading logic
-    if short_mavg > long_mavg:
-        # order_target orders as many shares as needed to
-        # achieve the desired number of shares.
-        order_target(context.asset, 100)
-    elif short_mavg < long_mavg:
-        order_target(context.asset, 0)
-
-    # Save values for later inspection
-    record(AAPL=data.current(context.asset, 'price'),
-           short_mavg=short_mavg,
-           long_mavg=long_mavg)
+    trades = context.df.loc[pd.to_datetime(context.df['dates']) == context.start_date+pd.DateOffset(days=context.i)]
+    for index, row in trades.iterrows():
+        if index == 0:
+            continue
+        try:
+            asset = symbol(row['assets'])
+        except:
+            #print("{} not found.".format(row['assets']))
+            continue
+        if row['actions'] == 1:
+            order_target(asset, 100)
+        elif row['actions'] == 0:
+            order_target(asset, 0)
+        elif row['actions'] == -1:
+            order_target(asset, -100)
+    record(AAPL=data.current(symbol('AAPL'), 'price'))
+                

@@ -335,12 +335,14 @@ def bin_alpha(a):
     else:
         return 0
     
-def read_dataset(label_horizon, subset='full', doc2vec=False, momentum_only=False, testing=False):
-    """
+def get_data_index(subset, doc2vec, testing):
+    """ Gets the appropriate data index file path.
     args : 
-        label_horizon : number of days to predict in the future
-        subset : subset of train set to use
-        doc2vec : whether to train on text or Doc2Vec vectors
+        subset :
+        doc2vec :
+        testing :
+    returns :
+        Data index file path.
     """
     if subset == 'full' and not doc2vec and testing:
         data_index_path = 'data/' + my_config.dataset_dir + '/all-test.txt'
@@ -352,20 +354,39 @@ def read_dataset(label_horizon, subset='full', doc2vec=False, momentum_only=Fals
         data_index_path = 'data/' + my_config.dataset_dir + '/all-train_10000.txt'
     elif subset == '300':
         data_index_path = 'data/' + my_config.dataset_dir + '/all-train_300.txt'
+    return data_index_path
+    
+def read_dataset(label_horizon, subset='full', doc2vec=False, momentum_only=False, testing=False):
+    """ Reads in dataset by streaming.
+    args : 
+        label_horizon : number of days to predict in the future
+        subset : subset of train set to use
+        doc2vec : whether to train on text or Doc2Vec vectors
+        momentum_only :
+        testing :
+    returns :
+        Generator object for dataset.
+    """
+    data_index_path = get_data_index(subset, doc2vec, testing)
+    cik_dict = build_cik_dict()
+    
     with open(data_index_path, 'r') as data_index:
         for line in data_index.readlines():
             if doc2vec:
                 vec, prices, labels = line.split('\t')
             else:
                 path, prices, labels = line.split(';')
+            
             prices = prices.split(',')
-
             # Print out outliers
             for p in prices:
                 if float(p) > 1.0 or float(p) < -1.0:
                     print("string price: {}".format(p))
-
+            prices_arr = np.array([float(p) for p in prices])
+            
             labels = labels.split(',')
+            label = bin_alpha(float(labels[label_horizon]))
+            
             if doc2vec:
                 linguistic = pickle.loads(codecs.decode(vec.encode(), 'base64'))
             elif momentum_only:
@@ -373,13 +394,26 @@ def read_dataset(label_horizon, subset='full', doc2vec=False, momentum_only=Fals
             else:
                 with open(path, 'r') as t:
                     linguistic = t.read()
-            prices_arr = np.array([float(p) for p in prices])
-            label = bin_alpha(float(labels[label_horizon]))
-            yield linguistic, prices_arr, label
+                    
+            cik, date = parse_txt_name(path)
+            asset = cik_dict[cik]
+            
+            yield linguistic, prices_arr, label, asset, date
 
 def read_dataset_dictionary(label_horizon, subset='full', momentum_only=False, doc2vec=False, doctag_only=False, testing=False):
+    """ Reads dataset: X, labels, assets, and dates in dictionary format.
+    args :
+        label_horizon :
+        subset :
+        momentum_only :
+        doc2vec :
+        doctag_only :
+        testing :
+    returns :
+        dataset : dataset in dictionary format.
+    """
     dataset_gen = read_dataset(label_horizon, subset, doc2vec, momentum_only, testing)
-    text, prices, labels = split_gen_3(dataset_gen)
+    text, prices, labels, assets, dates = split_gen_5(dataset_gen)
 
     X = [] 
     for i, t in enumerate(text):
@@ -394,12 +428,10 @@ def read_dataset_dictionary(label_horizon, subset='full', momentum_only=False, d
 
     dataset = {}
     dataset['X'] = X
-    """https://stackoverflow.com/questions/31995175/scikit-learn-cross-val-score-too-many-indices-for-array
-    In sklearn cross-validation, labels must be (N,), not (N,1)
-    """
+    # https://stackoverflow.com/questions/31995175/scikit-learn-cross-val-score-too-many-indices-for-array
+    # In sklearn cross-validation, labels must be (N,), not (N,1)
     dataset['labels'] = np.array(list(labels))
-    dataset_size = len(X)
-    print("dataset_size = {}".format(dataset_size))
-    print("labels len = {}".format(len(dataset['labels'])))
+    dataset['assets'] = np.array(list(assets))
+    dataset['dates'] = np.array(list(dates))
     
     return dataset

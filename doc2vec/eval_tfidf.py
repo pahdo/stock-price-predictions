@@ -15,7 +15,7 @@ import utils_v2
 
 
 from sklearn.externals import joblib
-pickle_path = 'ensemble_full_1_best_estimator.pkl'
+pickle_path = 'tf_idf_full_1_best_estimator.pkl'
 dataset = utils_v2.read_dataset_dictionary(label_horizon=1, subset='full', momentum_only=False, doc2vec=False, testing=True)
 with open(pickle_path, 'rb') as p:   
     best_estimator = pickle.load(p)
